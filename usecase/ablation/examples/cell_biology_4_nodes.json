@@ -1,0 +1,37 @@
+{
+  "benchmark_name": "cell_biology",
+  "context_level": "labels",
+  "seed_labels": ["cells"],
+  "notes": "Cell Biology ablation: two contrastive pairs (4 labeled nodes), nested within the 8-, 12-, and 16-node packs.",
+  "examples": [
+    {
+      "id": "cell_include_01",
+      "seed_label": "cells",
+      "candidate_label": "prokaryotic cells",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_01",
+      "seed_label": "cells",
+      "candidate_label": "bacteria",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    },
+    {
+      "id": "cell_include_03",
+      "seed_label": "cells",
+      "candidate_label": "cytoplasm",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_03",
+      "seed_label": "cells",
+      "candidate_label": "membrane proteins",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    }
+  ]
+}
+

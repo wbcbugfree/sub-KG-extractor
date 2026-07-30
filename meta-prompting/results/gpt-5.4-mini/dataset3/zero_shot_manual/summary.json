@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-07-16T11:02:52Z",
+  "dataset": 3,
+  "strategy": "zero_shot_manual",
+  "provider": "openai",
+  "model": "gpt-5.4-mini",
+  "context_level": "path_simple",
+  "row_count": 2014,
+  "prediction_count": 2014,
+  "parse_error_count": 0,
+  "parse_errors": {},
+  "metrics": {
+    "bfs_gated": {
+      "total": 2014,
+      "unmatched": 0,
+      "tp": 666,
+      "fp": 224,
+      "fn": 200,
+      "tn": 924,
+      "precision": 0.748314606741573,
+      "recall": 0.76905311778291,
+      "f1": 0.7585421412300684,
+      "accuracy": 0.7894736842105263
+    },
+    "bfs_gated_kgprune_runtime_rows": {
+      "total": 1384,
+      "unmatched": 0,
+      "tp": 408,
+      "fp": 173,
+      "fn": 122,
+      "tn": 681,
+      "precision": 0.7022375215146299,
+      "recall": 0.769811320754717,
+      "f1": 0.7344734473447345,
+      "accuracy": 0.786849710982659
+    }
+  },
+  "baseline_subset": {
+    "available": true,
+    "error": null
+  },
+  "outputs": {
+    "bfs_csv": "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/bfs_gated_predictions.csv"
+  }
+}

@@ -1,0 +1,334 @@
+prefLabel,altLabels,displayName,uri,confidence,in_hierarchy_gold,relations,classification
+agrochemicals,agri-chemicals; agrichemicals; agricultural chemicals; farm chemicals,"agrochemicals (agri-chemicals, agrichemicals, agricultural chemicals, farm chemicals)",https://lod.nal.usda.gov/nalt/203,0.9,False,skos:related,EXCLUDE
+aphidophagous predators,aphidophagy,aphidophagous predators (aphidophagy),https://lod.nal.usda.gov/nalt/284420,0.95,False,skos:related,EXCLUDE
+biocides,biocidal agents; biocidal compounds; biocidal products; biocidal substances,"biocides (biocidal agents, biocidal compounds, biocidal products, biocidal substances)",https://lod.nal.usda.gov/nalt/148552,0.8,False,skos:related,EXCLUDE
+chemical control,chemical treatment (disease); chemical treatment (pest),"chemical control (chemical treatment (disease), chemical treatment (pest))",https://lod.nal.usda.gov/nalt/24625,0.95,False,skos:related,EXCLUDE
+endocrine-disrupting chemicals,endocrine active chemicals; endocrine disrupters; endocrine disrupting chemicals; endocrine disruptors; endocrine-disrupting agents; endocrine-disrupting compounds,"endocrine-disrupting chemicals (endocrine active chemicals, endocrine disrupters, endocrine disrupting chemicals, endocrine disruptors, endocrine-disrupting agents, endocrine-disrupting compounds)",https://lod.nal.usda.gov/nalt/226,0.95,False,skos:related,EXCLUDE
+foggers,cold foggers; fogging machines; thermal foggers,"foggers (cold foggers, fogging machines, thermal foggers)",https://lod.nal.usda.gov/nalt/284633,0.75,False,skos:related,EXCLUDE
+impregnated fabrics,,impregnated fabrics,https://lod.nal.usda.gov/nalt/39308,0.75,False,skos:related,EXCLUDE
+nontarget organisms,nontarget species,nontarget organisms (nontarget species),https://lod.nal.usda.gov/nalt/34022,0.95,False,skos:related,EXCLUDE
+pest control operators,pesticide applicators (human); pesticide workers,"pest control operators (pesticide applicators (human), pesticide workers)",https://lod.nal.usda.gov/nalt/55540,0.75,False,skos:related,EXCLUDE
+pesticide industry,,pesticide industry,https://lod.nal.usda.gov/nalt/5351,0.7,False,skos:related,EXCLUDE
+pesticide metabolites,,pesticide metabolites,https://lod.nal.usda.gov/nalt/324538,0.95,False,skos:related,EXCLUDE
+plant protection,crop protection; plant health protection,"plant protection (crop protection, plant health protection)",https://lod.nal.usda.gov/nalt/30154,0.85,False,skos:related,EXCLUDE
+soil drenching,soil drench; soil drenches,"soil drenching (soil drench, soil drenches)",https://lod.nal.usda.gov/nalt/24628,0.7,False,skos:related,EXCLUDE
+soil treatment,application to soil; soil application,"soil treatment (application to soil, soil application)",https://lod.nal.usda.gov/nalt/11343,0.7,False,skos:related,EXCLUDE
+toxic substances,hazardous chemicals; hazardous compounds; hazardous substances; poisonous substances; toxic chemicals; toxic compounds; toxic exudates; toxicants,"toxic substances (hazardous chemicals, hazardous compounds, hazardous substances, poisonous substances, toxic chemicals, toxic compounds, toxic exudates, toxicants)",https://lod.nal.usda.gov/nalt/1780,0.95,False,skos:broader; skos:narrower,EXCLUDE
+"2,4,5-trichlorophenol",,"2,4,5-trichlorophenol",https://lod.nal.usda.gov/nalt/1349,0.85,True,skos:broader; skos:narrower,EXCLUDE
+acaricidal properties,,acaricidal properties,https://lod.nal.usda.gov/nalt/2070,0.7,False,skos:related,EXCLUDE
+adjuvants,,adjuvants,https://lod.nal.usda.gov/nalt/199,0.7,False,skos:broader; skos:narrower,EXCLUDE
+adults,adult (human); adult animals,"adults (adult (human), adult animals)",https://lod.nal.usda.gov/nalt/790,0.95,False,skos:related,EXCLUDE
+aerosols,,aerosols,https://lod.nal.usda.gov/nalt/579,0.85,False,skos:related,EXCLUDE
+agricultural law,agricultural law and legislation; agricultural legislation; agricultural regulations,"agricultural law (agricultural law and legislation, agricultural legislation, agricultural regulations)",https://lod.nal.usda.gov/nalt/5382,0.9,False,skos:broader; skos:narrower,EXCLUDE
+agricultural programs and projects,,agricultural programs and projects,https://lod.nal.usda.gov/nalt/5452,0.9,False,skos:broader; skos:narrower,EXCLUDE
+agromedicine,agricultural medicine,agromedicine (agricultural medicine),https://lod.nal.usda.gov/nalt/5425,0.85,False,skos:related,EXCLUDE
+alpha-chlorohydrin,"3-MCPD; 3-monochloropropane-1,2-diol; a-chlorohydrin","alpha-chlorohydrin (3-MCPD, 3-monochloropropane-1,2-diol, a-chlorohydrin)",https://lod.nal.usda.gov/nalt/261000,0.7,False,skos:related,EXCLUDE
+animal care,grooming (animal care),animal care (grooming (animal care)),https://lod.nal.usda.gov/nalt/9052,0.95,False,skos:related,EXCLUDE
+animal law,animal legislation; animal regulations; equine law; fence law; livestock trespass,"animal law (animal legislation, animal regulations, equine law, fence law, livestock trespass)",https://lod.nal.usda.gov/nalt/9288,0.95,False,skos:related,EXCLUDE
+animal rescue shelters,animal shelters (rescue),animal rescue shelters (animal shelters (rescue)),https://lod.nal.usda.gov/nalt/9496,0.95,False,skos:related,EXCLUDE
+animal welfare,animal abuse; animal cruelty; animal rights; anti-cruelty law (animals); anticruelty law (animals); cruelty to animals; humane treatment of animals,"animal welfare (animal abuse, animal cruelty, animal rights, anti-cruelty law (animals), anticruelty law (animals), cruelty to animals, humane treatment of animals)",https://lod.nal.usda.gov/nalt/9084,0.95,False,skos:broader; skos:narrower,EXCLUDE
+anthelmintics,antihelmintics; vermifuges,"anthelmintics (antihelmintics, vermifuges)",https://lod.nal.usda.gov/nalt/1577,0.8,False,skos:broader; skos:narrower,EXCLUDE
+anti-infective properties,antiinfective activity; antiinfective properties,"anti-infective properties (antiinfective activity, antiinfective properties)",https://lod.nal.usda.gov/nalt/10142,0.95,False,skos:related,EXCLUDE
+antifungal agents,antifungal agents (drugs); antifungal drugs; antimycotics; fungicidal agents (drugs); fungistats,"antifungal agents (antifungal agents (drugs), antifungal drugs, antimycotics, fungicidal agents (drugs), fungistats)",https://lod.nal.usda.gov/nalt/8119,0.85,False,skos:related,EXCLUDE
+antimicrobial proteins,,antimicrobial proteins,https://lod.nal.usda.gov/nalt/877,0.95,False,skos:related,EXCLUDE
+antiparasitic agents,antiparasitic drugs; endectocides; parasiticides,"antiparasitic agents (antiparasitic drugs, endectocides, parasiticides)",https://lod.nal.usda.gov/nalt/4410,0.95,False,skos:related,EXCLUDE
+application equipment,,application equipment,https://lod.nal.usda.gov/nalt/368,0.9,False,skos:broader; skos:narrower,EXCLUDE
+arsenicals,arsenic compounds,arsenicals (arsenic compounds),https://lod.nal.usda.gov/nalt/261,0.95,False,skos:related,EXCLUDE
+bed nets,,bed nets,https://lod.nal.usda.gov/nalt/16256,0.9,False,skos:broader; skos:narrower,EXCLUDE
+benzyl benzoate,,benzyl benzoate,https://lod.nal.usda.gov/nalt/2080,0.85,True,skos:broader; skos:narrower,EXCLUDE
+biological control agents,biocontrol agents,biological control agents (biocontrol agents),https://lod.nal.usda.gov/nalt/14974,0.85,True,skos:related,EXCLUDE
+biphenyl,diphenyl; phenylbenzene,"biphenyl (diphenyl, phenylbenzene)",https://lod.nal.usda.gov/nalt/12306,0.75,True,skos:broader; skos:narrower,EXCLUDE
+birds,,birds,https://lod.nal.usda.gov/nalt/106,0.95,False,skos:related,EXCLUDE
+briquettes,,briquettes,https://lod.nal.usda.gov/nalt/582,0.95,False,skos:related,EXCLUDE
+carbamates,,carbamates,https://lod.nal.usda.gov/nalt/16624,0.9,False,skos:broader; skos:narrower,EXCLUDE
+chemical weed control,chemical weed management,chemical weed control (chemical weed management),https://lod.nal.usda.gov/nalt/255907,0.75,False,skos:related,EXCLUDE
+chitin synthesis inhibitors,,chitin synthesis inhibitors,https://lod.nal.usda.gov/nalt/16672,0.95,False,skos:related,EXCLUDE
+closantel,,closantel,https://lod.nal.usda.gov/nalt/2085,0.95,True,skos:broader; skos:narrower,EXCLUDE
+control methods,control measures; control methodology; control practices; disease control methods; pest control methods,"control methods (control measures, control methodology, control practices, disease control methods, pest control methods)",https://lod.nal.usda.gov/nalt/10302,0.95,False,skos:broader; skos:narrower,EXCLUDE
+crops,agricultural crops; agricultural plants; crop plants,"crops (agricultural crops, agricultural plants, crop plants)",https://lod.nal.usda.gov/nalt/7140,0.95,False,skos:broader; skos:narrower,EXCLUDE
+dead animals,carcasses (nonfood); carrion,"dead animals (carcasses (nonfood), carrion)",https://lod.nal.usda.gov/nalt/45,0.95,False,skos:related,EXCLUDE
+defoliating insects,defoliator insects; forest defoliators; forest insect defoliators; insect defoliators,"defoliating insects (defoliator insects, forest defoliators, forest insect defoliators, insect defoliators)",https://lod.nal.usda.gov/nalt/314192,0.95,False,skos:related,EXCLUDE
+diphenylamine,,diphenylamine,https://lod.nal.usda.gov/nalt/33801,0.7,True,skos:broader; skos:narrower,EXCLUDE
+disease resistance,disease tolerance,disease resistance (disease tolerance),https://lod.nal.usda.gov/nalt/151,0.95,False,skos:related,EXCLUDE
+disulfiram,,disulfiram,https://lod.nal.usda.gov/nalt/22160,0.9,True,skos:broader; skos:narrower,EXCLUDE
+disulfoton sulfoxide,,disulfoton sulfoxide,https://lod.nal.usda.gov/nalt/213683,0.75,True,skos:broader; skos:narrower,EXCLUDE
+equipment,machinery (general); machines; mechanical devices; tools (general),"equipment (machinery (general), machines, mechanical devices, tools (general))",https://lod.nal.usda.gov/nalt/365,0.95,False,skos:broader; skos:narrower,EXCLUDE
+"Federal Food, Drug and Cosmetics Act",,"Federal Food, Drug and Cosmetics Act",https://lod.nal.usda.gov/nalt/29544,0.95,False,skos:related,EXCLUDE
+fenamiphos sulfone,,fenamiphos sulfone,https://lod.nal.usda.gov/nalt/213691,0.9,True,skos:broader; skos:narrower,EXCLUDE
+fenamiphos sulfoxide,,fenamiphos sulfoxide,https://lod.nal.usda.gov/nalt/213692,0.9,True,skos:broader; skos:narrower,EXCLUDE
+fenthion sulfone,,fenthion sulfone,https://lod.nal.usda.gov/nalt/213682,0.9,True,skos:broader; skos:narrower,EXCLUDE
+flea collars,,flea collars,https://lod.nal.usda.gov/nalt/27903,0.75,False,skos:broader; skos:narrower,EXCLUDE
+fumigation equipment,,fumigation equipment,https://lod.nal.usda.gov/nalt/37724,0.9,False,skos:broader; skos:narrower,EXCLUDE
+fungi,fungal organisms; macrofungi; microfungi,"fungi (fungal organisms, macrofungi, microfungi)",https://lod.nal.usda.gov/nalt/495,1.0,False,skos:related,EXCLUDE
+furilazole,,furilazole,https://lod.nal.usda.gov/nalt/213723,0.85,True,skos:broader; skos:narrower,EXCLUDE
+granules,,granules,https://lod.nal.usda.gov/nalt/594,0.9,False,skos:related,EXCLUDE
+growth regulators,,growth regulators,https://lod.nal.usda.gov/nalt/5565,0.95,False,skos:related,EXCLUDE
+heptachlor epoxide,,heptachlor epoxide,https://lod.nal.usda.gov/nalt/213677,0.95,True,skos:broader; skos:narrower,EXCLUDE
+herbicidal properties,herbicide activity; herbicide properties; herbicide property,"herbicidal properties (herbicide activity, herbicide properties, herbicide property)",https://lod.nal.usda.gov/nalt/45181,0.85,False,skos:related,EXCLUDE
+herbicide impurities,,herbicide impurities,https://lod.nal.usda.gov/nalt/33793,0.9,True,skos:broader; skos:narrower,EXCLUDE
+herbicide metabolites,,herbicide metabolites,https://lod.nal.usda.gov/nalt/324607,0.95,False,skos:related,EXCLUDE
+human health and safety,,human health and safety,https://lod.nal.usda.gov/nalt/2144,0.95,False,skos:broader; skos:narrower,EXCLUDE
+human-animal relations,animal human bond; animal human relations; animal human relationships; animal-human bond; animal-human relations; animal-human relationships; human animal bond; human animal relations; human animal relationships; human-animal bond; human-animal interactions; human-animal relationships,"human-animal relations (animal human bond, animal human relations, animal human relationships, animal-human bond, animal-human relations, animal-human relationships, human animal bond, human animal relations, human animal relationships, human-animal bond, human-animal interactions, human-animal relationships)",https://lod.nal.usda.gov/nalt/9260,0.95,False,skos:related,EXCLUDE
+insect attractants,,insect attractants,https://lod.nal.usda.gov/nalt/13781,0.8,False,skos:related,EXCLUDE
+insect growth regulators,,insect growth regulators,https://lod.nal.usda.gov/nalt/17498,0.75,False,skos:related,EXCLUDE
+insect outbreaks,,insect outbreaks,https://lod.nal.usda.gov/nalt/314183,0.95,False,skos:related,EXCLUDE
+insect pests,,insect pests,https://lod.nal.usda.gov/nalt/9355,0.95,False,skos:related,EXCLUDE
+insectary plants,,insectary plants,https://lod.nal.usda.gov/nalt/335329,0.9,False,skos:related,EXCLUDE
+insecticidal properties,insecticidal action; insecticide action; insecticide activity; insecticide properties; insecticide property,"insecticidal properties (insecticidal action, insecticide action, insecticide activity, insecticide properties, insecticide property)",https://lod.nal.usda.gov/nalt/47422,0.85,False,skos:related,EXCLUDE
+insecticidal proteins,,insecticidal proteins,https://lod.nal.usda.gov/nalt/880,0.75,False,skos:related,EXCLUDE
+insecticide residues,,insecticide residues,https://lod.nal.usda.gov/nalt/47425,0.95,False,skos:related,EXCLUDE
+insecticide resistance,insecticide susceptibility; susceptibility to insecticides,"insecticide resistance (insecticide susceptibility, susceptibility to insecticides)",https://lod.nal.usda.gov/nalt/47427,0.8,False,skos:related,EXCLUDE
+insects,,insects,https://lod.nal.usda.gov/nalt/4395,0.95,False,skos:related,EXCLUDE
+larvae,,larvae,https://lod.nal.usda.gov/nalt/23027,0.95,False,skos:related,EXCLUDE
+lice infestations,louse infestations,lice infestations (louse infestations),https://lod.nal.usda.gov/nalt/50002,0.9,False,skos:related,EXCLUDE
+liquids,,liquids,https://lod.nal.usda.gov/nalt/191,0.95,False,skos:related,EXCLUDE
+mathematics and statistics,,mathematics and statistics,https://lod.nal.usda.gov/nalt/6369,0.95,False,skos:broader; skos:narrower,EXCLUDE
+maximum permissible intake,,maximum permissible intake,https://lod.nal.usda.gov/nalt/51692,0.9,False,skos:related,EXCLUDE
+maximum residue limits,MRL (maximum residue limits); maximum residue level,"maximum residue limits (MRL (maximum residue limits), maximum residue level)",https://lod.nal.usda.gov/nalt/51693,0.95,False,skos:related,EXCLUDE
+mite infestations,,mite infestations,https://lod.nal.usda.gov/nalt/136225,0.95,False,skos:related,EXCLUDE
+mosquito nets,mosquito netting,mosquito nets (mosquito netting),https://lod.nal.usda.gov/nalt/53511,0.9,False,skos:broader; skos:narrower,EXCLUDE
+organochlorine compounds,chloroorganic compounds; organic chlorine compounds,"organochlorine compounds (chloroorganic compounds, organic chlorine compounds)",https://lod.nal.usda.gov/nalt/1167,0.95,False,skos:broader; skos:narrower,EXCLUDE
+organophosphorus compounds,organic phosphorus compounds; organophosphates,"organophosphorus compounds (organic phosphorus compounds, organophosphates)",https://lod.nal.usda.gov/nalt/31069,0.95,False,skos:broader; skos:narrower,EXCLUDE
+organotin compounds,,organotin compounds,https://lod.nal.usda.gov/nalt/14328,0.95,False,skos:broader; skos:narrower,EXCLUDE
+ova,egg cells; oospheres; ovum,"ova (egg cells, oospheres, ovum)",https://lod.nal.usda.gov/nalt/25673,0.99,False,skos:related,EXCLUDE
+oviposition,egg laying,oviposition (egg laying),https://lod.nal.usda.gov/nalt/9481,0.99,False,skos:related,EXCLUDE
+pediculicides,,pediculicides,https://lod.nal.usda.gov/nalt/323890,0.9,True,skos:broader; skos:narrower,EXCLUDE
+pests,vermin,pests (vermin),https://lod.nal.usda.gov/nalt/839,0.95,False,skos:related,EXCLUDE
+plant breeding,crop breeding,plant breeding (crop breeding),https://lod.nal.usda.gov/nalt/5631,0.9,False,skos:related,EXCLUDE
+plant growth substances,PGRs (growth regulators); exogenous plant growth regulators; plant growth factors; plant growth regulating chemicals; plant growth regulating compounds; plant growth regulating substances; plant growth regulators,"plant growth substances (PGRs (growth regulators), exogenous plant growth regulators, plant growth factors, plant growth regulating chemicals, plant growth regulating compounds, plant growth regulating substances, plant growth regulators)",https://lod.nal.usda.gov/nalt/14070,0.9,False,skos:broader; skos:narrower,EXCLUDE
+plant pests,crop pests; pests of plants; phytophagous pests; tree pests,"plant pests (crop pests, pests of plants, phytophagous pests, tree pests)",https://lod.nal.usda.gov/nalt/17605,0.95,False,skos:related,EXCLUDE
+polychlorobenzoic acid,,polychlorobenzoic acid,https://lod.nal.usda.gov/nalt/41863,0.8,True,skos:broader; skos:narrower,EXCLUDE
+pour-on formulations,,pour-on formulations,https://lod.nal.usda.gov/nalt/605,0.7,False,skos:related,EXCLUDE
+powders,,powders,https://lod.nal.usda.gov/nalt/606,0.95,False,skos:related,EXCLUDE
+predator-prey relationships,predator prey relationships; predator-prey interactions; prey predator relationships; prey-predator relationships,"predator-prey relationships (predator prey relationships, predator-prey interactions, prey predator relationships, prey-predator relationships)",https://lod.nal.usda.gov/nalt/41769,0.95,False,skos:related,EXCLUDE
+predators,,predators,https://lod.nal.usda.gov/nalt/17610,0.95,False,skos:related,EXCLUDE
+predatory fish,,predatory fish,https://lod.nal.usda.gov/nalt/258339,0.95,False,skos:related,EXCLUDE
+prohexadione calcium,calcium 3-oxido-5-oxo-4-propanoylcyclohex-3-ene-1-carboxylate; calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate; prohexadion calcium; prohexadione,"prohexadione calcium (calcium 3-oxido-5-oxo-4-propanoylcyclohex-3-ene-1-carboxylate, calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate, prohexadion calcium, prohexadione)",https://lod.nal.usda.gov/nalt/228717,0.85,False,skos:related,EXCLUDE
+rafoxanide,,rafoxanide,https://lod.nal.usda.gov/nalt/8957,0.9,True,skos:broader; skos:narrower,EXCLUDE
+recombinant fusion proteins,chimera proteins; chimeric mutant proteins; chimeric proteins; recombinant chimeric proteins; recombinant hybrid proteins,"recombinant fusion proteins (chimera proteins, chimeric mutant proteins, chimeric proteins, recombinant chimeric proteins, recombinant hybrid proteins)",https://lod.nal.usda.gov/nalt/42041,0.95,False,skos:broader; skos:narrower,EXCLUDE
+reproduction,,reproduction,https://lod.nal.usda.gov/nalt/12898,0.95,False,skos:related,EXCLUDE
+reproductive toxicology,reproductive toxicity,reproductive toxicology (reproductive toxicity),https://lod.nal.usda.gov/nalt/1767,0.85,False,skos:related,EXCLUDE
+rodent repellents,mice repellents; rat repellents,"rodent repellents (mice repellents, rat repellents)",https://lod.nal.usda.gov/nalt/302645,0.85,False,skos:related,EXCLUDE
+scarers,scare devices; scaring devices,"scarers (scare devices, scaring devices)",https://lod.nal.usda.gov/nalt/57552,0.8,False,skos:broader; skos:narrower,EXCLUDE
+secondary metabolites,,secondary metabolites,https://lod.nal.usda.gov/nalt/17502,0.95,False,skos:related,EXCLUDE
+silviculture,,silviculture,https://lod.nal.usda.gov/nalt/41174,0.9,False,skos:related,EXCLUDE
+site preparation,land preparation; planting site preparation; site preparation for planting; soil preparation,"site preparation (land preparation, planting site preparation, site preparation for planting, soil preparation)",https://lod.nal.usda.gov/nalt/4791,0.9,False,skos:related,EXCLUDE
+slow-release fertilizers,controlled release fertilisers; controlled release fertilizers; controlled-release fertilisers; controlled-release fertilizers; slow release fertilisers; slow release fertilizers; slow-release fertilisers,"slow-release fertilizers (controlled release fertilisers, controlled release fertilizers, controlled-release fertilisers, controlled-release fertilizers, slow release fertilisers, slow release fertilizers, slow-release fertilisers)",https://lod.nal.usda.gov/nalt/28796,0.95,False,skos:related,EXCLUDE
+slugs,,slugs,https://lod.nal.usda.gov/nalt/53265,0.95,False,skos:related,EXCLUDE
+snails,,snails,https://lod.nal.usda.gov/nalt/53266,0.95,False,skos:related,EXCLUDE
+solutions,,solutions,https://lod.nal.usda.gov/nalt/611,0.85,False,skos:related,EXCLUDE
+specialty crops,minor crops,specialty crops (minor crops),https://lod.nal.usda.gov/nalt/30193,0.95,False,skos:related,EXCLUDE
+storage pests,food storage pests; stored product pests; stored products pests,"storage pests (food storage pests, stored product pests, stored products pests)",https://lod.nal.usda.gov/nalt/41056,0.95,False,skos:related,EXCLUDE
+storage technology,,storage technology,https://lod.nal.usda.gov/nalt/27787,0.9,False,skos:related,EXCLUDE
+stored products,,stored products,https://lod.nal.usda.gov/nalt/41053,0.95,False,skos:related,EXCLUDE
+stray animals,,stray animals,https://lod.nal.usda.gov/nalt/9586,0.95,False,skos:related,EXCLUDE
+sweep nets,sweep traps,sweep nets (sweep traps),https://lod.nal.usda.gov/nalt/214122,0.75,False,skos:related,EXCLUDE
+tetrahydrophthalimide,THPI; tetrahydrophthalimide (THPI),"tetrahydrophthalimide (THPI, tetrahydrophthalimide (THPI))",https://lod.nal.usda.gov/nalt/213678,0.85,True,skos:broader; skos:narrower,EXCLUDE
+tick infestations,,tick infestations,https://lod.nal.usda.gov/nalt/56859,1.0,False,skos:related,EXCLUDE
+transgenes,,transgenes,https://lod.nal.usda.gov/nalt/42607,1.0,False,skos:related,EXCLUDE
+transgenic plants,,transgenic plants,https://lod.nal.usda.gov/nalt/35864,1.0,False,skos:related,EXCLUDE
+vertebrate pests,animals as pests; pest animals,"vertebrate pests (animals as pests, pest animals)",https://lod.nal.usda.gov/nalt/9591,0.95,False,skos:related,EXCLUDE
+veterinary parasitology,,veterinary parasitology,https://lod.nal.usda.gov/nalt/9504,0.9,False,skos:related,EXCLUDE
+weed science,,weed science,https://lod.nal.usda.gov/nalt/30178,0.7,False,skos:related,EXCLUDE
+weeds,,weeds,https://lod.nal.usda.gov/nalt/9724,0.95,False,skos:related,EXCLUDE
+wildlife management,wild animal conservation; wild bird conservation; wildlife conservation,"wildlife management (wild animal conservation, wild bird conservation, wildlife conservation)",https://lod.nal.usda.gov/nalt/36988,0.85,False,skos:related,EXCLUDE
+albendazole,,albendazole,https://lod.nal.usda.gov/nalt/5997,0.9,False,skos:related,EXCLUDE
+aldehydes,,aldehydes,https://lod.nal.usda.gov/nalt/2307,0.85,False,skos:broader; skos:narrower,EXCLUDE
+algal blooms,algae blooms; brown tides; diatom blooms; harmful algal blooms; phytoplankton blooms; red tides,"algal blooms (algae blooms, brown tides, diatom blooms, harmful algal blooms, phytoplankton blooms, red tides)",https://lod.nal.usda.gov/nalt/6351,0.95,False,skos:related,EXCLUDE
+amides,alkamides; diamides,"amides (alkamides, diamides)",https://lod.nal.usda.gov/nalt/2309,0.85,False,skos:broader; skos:narrower,EXCLUDE
+aminobenzoates,,aminobenzoates,https://lod.nal.usda.gov/nalt/224213,0.85,False,skos:related,EXCLUDE
+antibiotics,anti-bacterial agents; anti-mycobacterial agents; antibacterial agents; antimycobacterial agents; antitubercular agents; antitubercular drugs; bactericides; bacteriocidal agents; bacteriocides,"antibiotics (anti-bacterial agents, anti-mycobacterial agents, antibacterial agents, antimycobacterial agents, antitubercular agents, antitubercular drugs, bactericides, bacteriocidal agents, bacteriocides)",https://lod.nal.usda.gov/nalt/10186,0.9,False,skos:broader; skos:narrower,EXCLUDE
+application technology,sprayer technology,application technology (sprayer technology),https://lod.nal.usda.gov/nalt/11323,0.8,False,skos:related,EXCLUDE
+aromatic acids,,aromatic acids,https://lod.nal.usda.gov/nalt/1503,0.95,False,skos:broader; skos:narrower,EXCLUDE
+azoles,,azoles,https://lod.nal.usda.gov/nalt/14329,0.75,False,skos:broader; skos:narrower,EXCLUDE
+benoxacor,,benoxacor,https://lod.nal.usda.gov/nalt/213703,0.85,False,skos:broader; skos:narrower,EXCLUDE
+benzimidazoles,,benzimidazoles,https://lod.nal.usda.gov/nalt/5998,0.8,False,skos:broader; skos:narrower,EXCLUDE
+bifonazole,mycospor,bifonazole (mycospor),https://lod.nal.usda.gov/nalt/235795,0.95,False,skos:related,EXCLUDE
+borates,,borates,https://lod.nal.usda.gov/nalt/18623,0.9,False,skos:broader; skos:narrower,EXCLUDE
+borax,sodium borate decahydrate; tincal,"borax (sodium borate decahydrate, tincal)",https://lod.nal.usda.gov/nalt/18622,0.7,True,skos:broader; skos:narrower,EXCLUDE
+carbon tetrachloride,tetrachloromethane,carbon tetrachloride (tetrachloromethane),https://lod.nal.usda.gov/nalt/22230,0.9,False,skos:broader; skos:narrower,EXCLUDE
+chemigation,chemi-irrigation; chemirrigation,"chemigation (chemi-irrigation, chemirrigation)",https://lod.nal.usda.gov/nalt/11335,0.85,False,skos:related,EXCLUDE
+chloroform,,chloroform,https://lod.nal.usda.gov/nalt/25338,0.9,False,skos:broader; skos:narrower,EXCLUDE
+chlorpyrifos oxygen analog,,chlorpyrifos oxygen analog,https://lod.nal.usda.gov/nalt/213695,0.95,True,skos:broader; skos:narrower,EXCLUDE
+cholinesterase inhibitors,acetylcholinesterase inhibitors; anti-cholinesterases; anticholinesterase agents; anticholinesterase drugs,"cholinesterase inhibitors (acetylcholinesterase inhibitors, anti-cholinesterases, anticholinesterase agents, anticholinesterase drugs)",https://lod.nal.usda.gov/nalt/22191,0.95,False,skos:related,EXCLUDE
+concentrates,,concentrates,https://lod.nal.usda.gov/nalt/585,0.95,False,skos:broader; skos:narrower,EXCLUDE
+copper sulfate,CuSO4; copper sulphate; copper(II) sulfate; cupric sulfate; cupric sulphate,"copper sulfate (CuSO4, copper sulphate, copper(II) sulfate, cupric sulfate, cupric sulphate)",https://lod.nal.usda.gov/nalt/28956,0.75,True,skos:broader; skos:narrower,EXCLUDE
+Culicidae,mosquitoes; mosquitos,"Culicidae (mosquitoes, mosquitos)",https://lod.nal.usda.gov/nalt/4448,0.95,False,skos:related,EXCLUDE
+cyclohexanes,,cyclohexanes,https://lod.nal.usda.gov/nalt/6469,0.95,False,skos:related,EXCLUDE
+defoliation,artificial defoliation; simulated defoliation,"defoliation (artificial defoliation, simulated defoliation)",https://lod.nal.usda.gov/nalt/12578,0.7,False,skos:related,EXCLUDE
+deworming,,deworming,https://lod.nal.usda.gov/nalt/68659,0.95,False,skos:related,EXCLUDE
+disease control,disease management; disease suppression; infection control; pathogen suppression,"disease control (disease management, disease suppression, infection control, pathogen suppression)",https://lod.nal.usda.gov/nalt/290,0.7,False,skos:broader; skos:narrower,EXCLUDE
+disulfoton sulfone,,disulfoton sulfone,https://lod.nal.usda.gov/nalt/213672,0.85,True,skos:broader; skos:narrower,EXCLUDE
+drywood termites,,drywood termites,https://lod.nal.usda.gov/nalt/34790,0.95,False,skos:related,EXCLUDE
+dust,dusts; house dust; housedust,"dust (dusts, house dust, housedust)",https://lod.nal.usda.gov/nalt/194986,0.9,False,skos:related,EXCLUDE
+dusting,,dusting,https://lod.nal.usda.gov/nalt/11338,0.85,False,skos:related,EXCLUDE
+ecdysone agonists,,ecdysone agonists,https://lod.nal.usda.gov/nalt/5221,0.9,False,skos:broader; skos:narrower,EXCLUDE
+ethylene dichloride,"1,2-dichloroethane","ethylene dichloride (1,2-dichloroethane)",https://lod.nal.usda.gov/nalt/1165,0.85,False,skos:broader; skos:narrower,EXCLUDE
+ferrous sulfate,ferrous sulphate; iron(II) sulfate,"ferrous sulfate (ferrous sulphate, iron(II) sulfate)",https://lod.nal.usda.gov/nalt/39920,0.9,True,skos:broader; skos:narrower,EXCLUDE
+fish ponds,,fish ponds,https://lod.nal.usda.gov/nalt/6352,0.95,False,skos:related,EXCLUDE
+fluorides,,fluorides,https://lod.nal.usda.gov/nalt/30334,0.9,False,skos:broader; skos:narrower,EXCLUDE
+forest-wildlife relations,forest wildlife relations; wildlife forest relations; wildlife-forest relations,"forest-wildlife relations (forest wildlife relations, wildlife forest relations, wildlife-forest relations)",https://lod.nal.usda.gov/nalt/41136,0.95,False,skos:related,EXCLUDE
+Formicidae,ants,Formicidae (ants),https://lod.nal.usda.gov/nalt/3111,0.95,False,skos:related,EXCLUDE
+fungal antagonists,yeast antagonists,fungal antagonists (yeast antagonists),https://lod.nal.usda.gov/nalt/9864,0.7,True,skos:related,EXCLUDE
+fungal diseases of plants,fungus diseases of plants,fungal diseases of plants (fungus diseases of plants),https://lod.nal.usda.gov/nalt/10053,0.95,False,skos:related,EXCLUDE
+glucosides,polyglucosides,glucosides (polyglucosides),https://lod.nal.usda.gov/nalt/25285,0.9,False,skos:broader; skos:narrower,EXCLUDE
+glycols,diols,glycols (diols),https://lod.nal.usda.gov/nalt/6151,0.95,False,skos:broader; skos:narrower,EXCLUDE
+good agricultural practices,GAP (good agricultural practices); GAPs (good agricultural practices); best agricultural management practices; best agricultural practices; codes of good agricultural practice; good agriculture practices; good farming practices,"good agricultural practices (GAP (good agricultural practices), GAPs (good agricultural practices), best agricultural management practices, best agricultural practices, codes of good agricultural practice, good agriculture practices, good farming practices)",https://lod.nal.usda.gov/nalt/16780,0.75,False,skos:related,EXCLUDE
+halogenated hydrocarbons,,halogenated hydrocarbons,https://lod.nal.usda.gov/nalt/25337,0.8,False,skos:broader; skos:narrower,EXCLUDE
+human-wildlife relations,human wildlife conflicts; human wildlife relations; human-wildlife conflicts; human-wildlife interactions; human-wildlife relationships; wildlife human conflicts; wildlife human relations; wildlife-human conflicts; wildlife-human relations,"human-wildlife relations (human wildlife conflicts, human wildlife relations, human-wildlife conflicts, human-wildlife interactions, human-wildlife relationships, wildlife human conflicts, wildlife human relations, wildlife-human conflicts, wildlife-human relations)",https://lod.nal.usda.gov/nalt/9141,0.95,False,skos:related,EXCLUDE
+imidazoles,,imidazoles,https://lod.nal.usda.gov/nalt/6514,0.9,False,skos:broader; skos:narrower,EXCLUDE
+imides,,imides,https://lod.nal.usda.gov/nalt/30946,0.95,False,skos:broader; skos:narrower,EXCLUDE
+integrated agricultural systems,integrated agriculture systems; integrated crop-livestock systems; integrated farming systems; integrated production systems,"integrated agricultural systems (integrated agriculture systems, integrated crop-livestock systems, integrated farming systems, integrated production systems)",https://lod.nal.usda.gov/nalt/5412,0.9,False,skos:related,EXCLUDE
+interrow tillage,,interrow tillage,https://lod.nal.usda.gov/nalt/47069,0.8,False,skos:related,EXCLUDE
+Isoptera,isopterans; termites,"Isoptera (isopterans, termites)",https://lod.nal.usda.gov/nalt/45666,0.95,False,skos:related,EXCLUDE
+isothiocyanates,,isothiocyanates,https://lod.nal.usda.gov/nalt/6757,0.75,False,skos:broader; skos:narrower,EXCLUDE
+isoxadifen ethyl,,isoxadifen ethyl,https://lod.nal.usda.gov/nalt/213743,0.7,False,skos:broader; skos:narrower,EXCLUDE
+leaves,foliage,leaves (foliage),https://lod.nal.usda.gov/nalt/28537,0.95,False,skos:related,EXCLUDE
+lice,,lice,https://lod.nal.usda.gov/nalt/12544,0.95,False,skos:related,EXCLUDE
+luliconazole,NND 502; NND-502; NND502,"luliconazole (NND 502, NND-502, NND502)",https://lod.nal.usda.gov/nalt/235797,0.9,False,skos:related,EXCLUDE
+macrolide antibiotics,,macrolide antibiotics,https://lod.nal.usda.gov/nalt/8120,0.85,False,skos:broader; skos:narrower,EXCLUDE
+macrolides,,macrolides,https://lod.nal.usda.gov/nalt/8121,0.85,False,skos:broader; skos:narrower,EXCLUDE
+malaoxon,malathion oxygen analog,malaoxon (malathion oxygen analog),https://lod.nal.usda.gov/nalt/213670,0.9,True,skos:broader; skos:narrower,EXCLUDE
+material forms,,material forms,https://lod.nal.usda.gov/nalt/578,0.9,False,skos:broader; skos:narrower,EXCLUDE
+medium chain fatty acids,,medium chain fatty acids,https://lod.nal.usda.gov/nalt/31882,0.9,False,skos:broader; skos:narrower,EXCLUDE
+mercuric chloride,mercuric perchloride; mercury (II) chloride; mercury bichloride; mercury chloride; mercury dichloride; mercury perchloride,"mercuric chloride (mercuric perchloride, mercury (II) chloride, mercury bichloride, mercury chloride, mercury dichloride, mercury perchloride)",https://lod.nal.usda.gov/nalt/25328,0.7,True,skos:broader; skos:narrower,EXCLUDE
+mercury compounds,mercuric compounds,mercury compounds (mercuric compounds),https://lod.nal.usda.gov/nalt/268,0.95,False,skos:broader; skos:narrower,EXCLUDE
+methyl chloride,chloromethane,methyl chloride (chloromethane),https://lod.nal.usda.gov/nalt/185774,0.85,False,skos:broader; skos:narrower,EXCLUDE
+methyl iodide,iodomethane,methyl iodide (iodomethane),https://lod.nal.usda.gov/nalt/125123,0.8,True,skos:broader; skos:narrower,EXCLUDE
+methylcarbamates,methyl carbamates,methylcarbamates (methyl carbamates),https://lod.nal.usda.gov/nalt/22185,0.75,False,skos:broader; skos:narrower,EXCLUDE
+methylene chloride,dichloro methane; dichloro-methane; dichloromethane; methylene dichloride,"methylene chloride (dichloro methane, dichloro-methane, dichloromethane, methylene dichloride)",https://lod.nal.usda.gov/nalt/25341,0.9,False,skos:broader; skos:narrower,EXCLUDE
+microbial toxins,,microbial toxins,https://lod.nal.usda.gov/nalt/323561,0.85,False,skos:related,EXCLUDE
+monitoring,monitors (measurement); surveillance,"monitoring (monitors (measurement), surveillance)",https://lod.nal.usda.gov/nalt/34055,0.7,False,skos:broader; skos:narrower,EXCLUDE
+monoamines,,monoamines,https://lod.nal.usda.gov/nalt/1476,0.95,False,skos:broader; skos:narrower,EXCLUDE
+monocarboxylic acids,,monocarboxylic acids,https://lod.nal.usda.gov/nalt/1456,0.95,False,skos:broader; skos:narrower,EXCLUDE
+monochloroacetic acid,,monochloroacetic acid,https://lod.nal.usda.gov/nalt/125124,0.9,True,skos:broader; skos:narrower,EXCLUDE
+moxidectin,milbemycin B,moxidectin (milbemycin B),https://lod.nal.usda.gov/nalt/9928,0.95,True,skos:broader; skos:narrower,EXCLUDE
+Nematoda,Secernentea; nematodes; roundworms,"Nematoda (Secernentea, nematodes, roundworms)",https://lod.nal.usda.gov/nalt/58,0.95,False,skos:related,EXCLUDE
+nitriles,,nitriles,https://lod.nal.usda.gov/nalt/8217,0.95,False,skos:related,EXCLUDE
+nucleosides,,nucleosides,https://lod.nal.usda.gov/nalt/17907,0.95,False,skos:broader; skos:narrower,EXCLUDE
+odd chain fatty acids,,odd chain fatty acids,https://lod.nal.usda.gov/nalt/39616,0.9,False,skos:broader; skos:narrower,EXCLUDE
+oils,,oils,https://lod.nal.usda.gov/nalt/9163,0.8,False,skos:broader; skos:narrower,EXCLUDE
+organofluorine compounds,fluoro-organic compounds; organic fluorine compounds,"organofluorine compounds (fluoro-organic compounds, organic fluorine compounds)",https://lod.nal.usda.gov/nalt/25417,0.9,False,skos:broader; skos:narrower,EXCLUDE
+organothiophosphorus compounds,,organothiophosphorus compounds,https://lod.nal.usda.gov/nalt/19969,0.9,False,skos:broader; skos:narrower,EXCLUDE
+oxadiazoles,,oxadiazoles,https://lod.nal.usda.gov/nalt/311548,0.9,False,skos:broader; skos:narrower,EXCLUDE
+oximes,,oximes,https://lod.nal.usda.gov/nalt/31059,0.95,False,skos:broader; skos:narrower,EXCLUDE
+perennial weeds,,perennial weeds,https://lod.nal.usda.gov/nalt/57433,0.95,False,skos:related,EXCLUDE
+pesticidal plants,insecticidal plants; nematicidal plants; pesticide crops,"pesticidal plants (insecticidal plants, nematicidal plants, pesticide crops)",https://lod.nal.usda.gov/nalt/18788,0.85,False,skos:related,EXCLUDE
+phagostimulants,feeding stimulants,phagostimulants (feeding stimulants),https://lod.nal.usda.gov/nalt/243,0.85,False,skos:related,EXCLUDE
+phorate oxygen analog,Phorate oxon,phorate oxygen analog (Phorate oxon),https://lod.nal.usda.gov/nalt/213701,0.85,True,skos:broader; skos:narrower,EXCLUDE
+phorate sulfone,,phorate sulfone,https://lod.nal.usda.gov/nalt/213668,0.85,True,skos:broader; skos:narrower,EXCLUDE
+phytotoxicity,,phytotoxicity,https://lod.nal.usda.gov/nalt/58189,1.0,False,skos:related,EXCLUDE
+plant parasitic nematodes,parasitic nematodes (plants); phytonematodes; phytoparasitic nematodes; phytopathogenic nematodes; plant nematodes,"plant parasitic nematodes (parasitic nematodes (plants), phytonematodes, phytoparasitic nematodes, phytopathogenic nematodes, plant nematodes)",https://lod.nal.usda.gov/nalt/8933,1.0,False,skos:related,EXCLUDE
+plant pathogenic fungi,fungal phytopathogens; phytopathogenic fungi,"plant pathogenic fungi (fungal phytopathogens, phytopathogenic fungi)",https://lod.nal.usda.gov/nalt/31899,1.0,False,skos:related,EXCLUDE
+poisonous weeds,,poisonous weeds,https://lod.nal.usda.gov/nalt/304862,1.0,False,skos:related,EXCLUDE
+polychlorinated biphenyls,PCBs (polychlorinated biphenyls),polychlorinated biphenyls (PCBs (polychlorinated biphenyls)),https://lod.nal.usda.gov/nalt/25342,1.0,False,skos:broader; skos:narrower,EXCLUDE
+preharvest treatment,preharvest application; preharvest sprays,"preharvest treatment (preharvest application, preharvest sprays)",https://lod.nal.usda.gov/nalt/11359,0.7,False,skos:related,EXCLUDE
+primary amines,,primary amines,https://lod.nal.usda.gov/nalt/7738,1.0,False,skos:broader; skos:narrower,EXCLUDE
+pyrazoles,,pyrazoles,https://lod.nal.usda.gov/nalt/10523,0.9,False,skos:related,EXCLUDE
+pyridazines,,pyridazines,https://lod.nal.usda.gov/nalt/45390,0.9,False,skos:broader; skos:narrower,EXCLUDE
+pyridines,,pyridines,https://lod.nal.usda.gov/nalt/1477,0.9,False,skos:broader; skos:narrower,EXCLUDE
+pyrimidines,,pyrimidines,https://lod.nal.usda.gov/nalt/6719,0.9,False,skos:broader; skos:narrower,EXCLUDE
+quinolines,,quinolines,https://lod.nal.usda.gov/nalt/1546,0.9,False,skos:broader; skos:narrower,EXCLUDE
+Saccharopolyspora spinosa,,Saccharopolyspora spinosa,https://lod.nal.usda.gov/nalt/61899,0.95,False,skos:related,EXCLUDE
+saturated fatty acids,SFA (saturated fatty acids),saturated fatty acids (SFA (saturated fatty acids)),https://lod.nal.usda.gov/nalt/17398,0.95,False,skos:broader; skos:narrower,EXCLUDE
+sedatives,,sedatives,https://lod.nal.usda.gov/nalt/2187,1.0,False,skos:broader; skos:narrower,EXCLUDE
+seed harvesters,,seed harvesters,https://lod.nal.usda.gov/nalt/322532,0.95,False,skos:related,EXCLUDE
+semicarbazones,,semicarbazones,https://lod.nal.usda.gov/nalt/56098,0.95,False,skos:related,EXCLUDE
+Siphonaptera,Aphaniptera; fleas; siphonapterans,"Siphonaptera (Aphaniptera, fleas, siphonapterans)",https://lod.nal.usda.gov/nalt/10664,1.0,False,skos:related,EXCLUDE
+smoke,wood smoke,smoke (wood smoke),https://lod.nal.usda.gov/nalt/5849,0.95,False,skos:related,EXCLUDE
+soaps,body soaps; hand soaps,"soaps (body soaps, hand soaps)",https://lod.nal.usda.gov/nalt/251,0.95,False,skos:related,EXCLUDE
+sodium azide,,sodium azide,https://lod.nal.usda.gov/nalt/14306,0.8,True,skos:broader; skos:narrower,EXCLUDE
+subterranean termites,,subterranean termites,https://lod.nal.usda.gov/nalt/47388,1.0,False,skos:related,EXCLUDE
+succinate dehydrogenase (quinone),EC 1.3.5.1; EC 1.3.99.1; complex II (mitochondrial electron transport); electron transport complex II; fumarate reductase; fumaric hydrogenase; mitochondrial electron transport complex II; succinate dehydrogenase; succinate dehydrogenase (ubiquinone); succinate dehydrogenase complex; succinate oxidoreductase; succinate:quinone oxidoreductase (aerobic respiratory chain); succinate:ubiquinone oxidoreductase; succinic acid dehydrogenase,"succinate dehydrogenase (quinone) (EC 1.3.5.1, EC 1.3.99.1, complex II (mitochondrial electron transport), electron transport complex II, fumarate reductase, fumaric hydrogenase, mitochondrial electron transport complex II, succinate dehydrogenase, succinate dehydrogenase (ubiquinone), succinate dehydrogenase complex, succinate oxidoreductase, succinate:quinone oxidoreductase (aerobic respiratory chain), succinate:ubiquinone oxidoreductase, succinic acid dehydrogenase)",https://lod.nal.usda.gov/nalt/28357,0.9,False,skos:related,EXCLUDE
+sugar alcohols,,sugar alcohols,https://lod.nal.usda.gov/nalt/6196,0.95,False,skos:broader; skos:narrower,EXCLUDE
+sustainable agriculture,regenerative agriculture; regenerative farming; sustainable agricultural production; sustainable animal production; sustainable crop production; sustainable dairy farming; sustainable farming; sustainable livestock production; sustainable plant and animal production,"sustainable agriculture (regenerative agriculture, regenerative farming, sustainable agricultural production, sustainable animal production, sustainable crop production, sustainable dairy farming, sustainable farming, sustainable livestock production, sustainable plant and animal production)",https://lod.nal.usda.gov/nalt/5307,0.9,False,skos:related,EXCLUDE
+synthetic pheromones,,synthetic pheromones,https://lod.nal.usda.gov/nalt/296744,0.85,False,skos:related,EXCLUDE
+technical chemicals,,technical chemicals,https://lod.nal.usda.gov/nalt/194,0.95,False,skos:broader; skos:narrower,EXCLUDE
+tetrachloroethylene,perchloroethylene; tetrachloroethene,"tetrachloroethylene (perchloroethylene, tetrachloroethene)",https://lod.nal.usda.gov/nalt/25343,0.9,False,skos:broader; skos:narrower,EXCLUDE
+thimerosal,thiomerosal,thimerosal (thiomerosal),https://lod.nal.usda.gov/nalt/52152,0.95,True,skos:broader; skos:narrower,EXCLUDE
+thiocarbamates,,thiocarbamates,https://lod.nal.usda.gov/nalt/22187,0.7,False,skos:broader; skos:narrower,EXCLUDE
+thiophenes,,thiophenes,https://lod.nal.usda.gov/nalt/45388,0.9,False,skos:related,EXCLUDE
+tillage implements,tillage equipment,tillage implements (tillage equipment),https://lod.nal.usda.gov/nalt/5406,0.9,False,skos:related,EXCLUDE
+trichloroethylene,,trichloroethylene,https://lod.nal.usda.gov/nalt/25344,0.9,False,skos:broader; skos:narrower,EXCLUDE
+wildlife-livestock relations,bird-livestock interactions; bird-livestock relations; livestock wildlife relations; livestock-bird interactions; livestock-bird relations; livestock-wildlife conflict; livestock-wildlife relations; wildlife livestock relations,"wildlife-livestock relations (bird-livestock interactions, bird-livestock relations, livestock wildlife relations, livestock-bird interactions, livestock-bird relations, livestock-wildlife conflict, livestock-wildlife relations, wildlife livestock relations)",https://lod.nal.usda.gov/nalt/9145,0.95,False,skos:related,EXCLUDE
+wood preservatives,,wood preservatives,https://lod.nal.usda.gov/nalt/25737,0.9,False,skos:related,EXCLUDE
+agricultural aviation,,agricultural aviation,https://lod.nal.usda.gov/nalt/4606,0.85,False,skos:related,EXCLUDE
+agricultural machinery and equipment,agricultural equipment; agricultural machinery; agricultural machines; farm equipment; farm machinery,"agricultural machinery and equipment (agricultural equipment, agricultural machinery, agricultural machines, farm equipment, farm machinery)",https://lod.nal.usda.gov/nalt/366,0.9,False,skos:broader; skos:narrower,EXCLUDE
+alternative farming,alternative agriculture,alternative farming (alternative agriculture),https://lod.nal.usda.gov/nalt/7138,0.9,False,skos:broader; skos:narrower,EXCLUDE
+ammonium salts,,ammonium salts,https://lod.nal.usda.gov/nalt/7958,0.9,False,skos:broader; skos:narrower,EXCLUDE
+animal parasites and pests,animal pests; pests of animals,"animal parasites and pests (animal pests, pests of animals)",https://lod.nal.usda.gov/nalt/9233,0.95,False,skos:related,EXCLUDE
+anticoagulant activity,anticoagulant effect; anticoagulant properties,"anticoagulant activity (anticoagulant effect, anticoagulant properties)",https://lod.nal.usda.gov/nalt/10261,0.9,False,skos:related,EXCLUDE
+anticoagulants,,anticoagulants,https://lod.nal.usda.gov/nalt/10260,0.75,False,skos:related,EXCLUDE
+aquatic weeds,,aquatic weeds,https://lod.nal.usda.gov/nalt/11527,0.95,False,skos:related,EXCLUDE
+atrazine chlorohydrolase,AtZA (atrazine chlorohydrolase); EC 3.8.1.8; triazine hydrolase,"atrazine chlorohydrolase (AtZA (atrazine chlorohydrolase), EC 3.8.1.8, triazine hydrolase)",https://lod.nal.usda.gov/nalt/225748,0.95,False,skos:related,EXCLUDE
+attractants,,attractants,https://lod.nal.usda.gov/nalt/207,0.9,False,skos:related,EXCLUDE
+Bacillus sphaericus,,Bacillus sphaericus,https://lod.nal.usda.gov/nalt/14569,0.9,False,skos:related,EXCLUDE
+Bacillus thuringiensis,Bacillus cereus var. thuringiensis; Bt (Bacillus thuringiensis),"Bacillus thuringiensis (Bacillus cereus var. thuringiensis, Bt (Bacillus thuringiensis))",https://lod.nal.usda.gov/nalt/14583,0.9,False,skos:related,EXCLUDE
+biological resistance,biocide resistance,biological resistance (biocide resistance),https://lod.nal.usda.gov/nalt/114,0.9,False,skos:broader; skos:narrower,EXCLUDE
+capture of animals,animal capture; catching (animals),"capture of animals (animal capture, catching (animals))",https://lod.nal.usda.gov/nalt/9051,0.9,False,skos:related,EXCLUDE
+chemical inhibitors,,chemical inhibitors,https://lod.nal.usda.gov/nalt/233,0.95,False,skos:broader; skos:narrower,EXCLUDE
+chlorates,,chlorates,https://lod.nal.usda.gov/nalt/25294,0.85,False,skos:broader; skos:narrower,EXCLUDE
+chlorinated fatty acids,,chlorinated fatty acids,https://lod.nal.usda.gov/nalt/25333,0.8,False,skos:broader; skos:narrower,EXCLUDE
+coumarins,,coumarins,https://lod.nal.usda.gov/nalt/10267,0.85,False,skos:broader; skos:narrower,EXCLUDE
+cross resistance,cross-resistance,cross resistance (cross-resistance),https://lod.nal.usda.gov/nalt/30204,0.75,False,skos:broader; skos:narrower,EXCLUDE
+cyanates,,cyanates,https://lod.nal.usda.gov/nalt/30948,0.85,False,skos:broader; skos:narrower,EXCLUDE
+cyanuric chloride,,cyanuric chloride,https://lod.nal.usda.gov/nalt/324941,0.75,False,skos:broader; skos:narrower,EXCLUDE
+deethylatrazine,desethylatrazine,deethylatrazine (desethylatrazine),https://lod.nal.usda.gov/nalt/324534,0.9,False,skos:broader; skos:narrower,EXCLUDE
+diamines,,diamines,https://lod.nal.usda.gov/nalt/7734,0.95,False,skos:related,EXCLUDE
+diseases and disorders (animals and humans),animal and human diseases; animal and human disorders; human and animal diseases; human and animal disorders,"diseases and disorders (animals and humans) (animal and human diseases, animal and human disorders, human and animal diseases, human and animal disorders)",https://lod.nal.usda.gov/nalt/322,0.95,False,skos:related,EXCLUDE
+drugs,medicines (drugs); pharmaceutical compounds; pharmaceutical products; pharmaceuticals,"drugs (medicines (drugs), pharmaceutical compounds, pharmaceutical products, pharmaceuticals)",https://lod.nal.usda.gov/nalt/286,0.95,False,skos:related,EXCLUDE
+epidemiology,epizootiology,epidemiology (epizootiology),https://lod.nal.usda.gov/nalt/149,0.9,False,skos:related,EXCLUDE
+famphur,,famphur,https://lod.nal.usda.gov/nalt/39454,0.8,True,skos:broader; skos:narrower,EXCLUDE
+"Farms, Agricultural Production Systems",,"Farms, Agricultural Production Systems",https://lod.nal.usda.gov/nalt/127298,0.95,False,skos:broader; skos:narrower,EXCLUDE
+fluconazole,,fluconazole,https://lod.nal.usda.gov/nalt/10318,0.95,False,skos:broader; skos:narrower,EXCLUDE
+glufosinate resistance,glufosinate resistant,glufosinate resistance (glufosinate resistant),https://lod.nal.usda.gov/nalt/265263,0.85,False,skos:broader; skos:narrower,EXCLUDE
+guanidines,guanidine hydrochloride,guanidines (guanidine hydrochloride),https://lod.nal.usda.gov/nalt/5204,0.85,False,skos:related,EXCLUDE
+haloacetic acids,HAA5,haloacetic acids (HAA5),https://lod.nal.usda.gov/nalt/214332,0.95,False,skos:broader; skos:narrower,EXCLUDE
+harvesters,harvesting machines,harvesters (harvesting machines),https://lod.nal.usda.gov/nalt/28106,0.95,False,skos:related,EXCLUDE
+herbicide-resistant weeds,herbicide resistant weeds; herbicide tolerant weeds; herbicide-tolerant weeds,"herbicide-resistant weeds (herbicide resistant weeds, herbicide tolerant weeds, herbicide-tolerant weeds)",https://lod.nal.usda.gov/nalt/45191,0.95,False,skos:related,EXCLUDE
+heterocyclic nitrogen compounds,organonitrogen heterocyclic compounds,heterocyclic nitrogen compounds (organonitrogen heterocyclic compounds),https://lod.nal.usda.gov/nalt/3047,0.95,False,skos:broader; skos:narrower,EXCLUDE
+hosts,,hosts,https://lod.nal.usda.gov/nalt/836,0.95,False,skos:related,EXCLUDE
+human-landing catches,human-landing collections,human-landing catches (human-landing collections),https://lod.nal.usda.gov/nalt/329710,0.85,False,skos:broader; skos:narrower,EXCLUDE
+input costs,costs of inputs,input costs (costs of inputs),https://lod.nal.usda.gov/nalt/21996,0.95,False,skos:related,EXCLUDE
+insect viruses,,insect viruses,https://lod.nal.usda.gov/nalt/15491,0.9,False,skos:related,EXCLUDE
+itraconazole,,itraconazole,https://lod.nal.usda.gov/nalt/10320,0.95,False,skos:broader; skos:narrower,EXCLUDE
+melamine,"1,3,5-triazine-2,4,6-triamine; 2,4,6-triamino-1,3,5-triazine","melamine (1,3,5-triazine-2,4,6-triamine, 2,4,6-triamino-1,3,5-triazine)",https://lod.nal.usda.gov/nalt/51940,0.95,False,skos:broader; skos:narrower,EXCLUDE
+Metarhizium anisopliae,,Metarhizium anisopliae,https://lod.nal.usda.gov/nalt/52260,0.9,False,skos:related,EXCLUDE
+methodology,creative methods; methods; new methodology; new methods; new techniques; novel methods; techniques,"methodology (creative methods, methods, new methodology, new methods, new techniques, novel methods, techniques)",https://lod.nal.usda.gov/nalt/5079,0.95,False,skos:broader; skos:narrower,EXCLUDE
+monoterpenoids,monoterpenes,monoterpenoids (monoterpenes),https://lod.nal.usda.gov/nalt/6936,0.9,False,skos:broader; skos:narrower,EXCLUDE
+nitrates,,nitrates,https://lod.nal.usda.gov/nalt/4064,0.95,False,skos:broader; skos:narrower,EXCLUDE
+no-tillage,direct drilling (no-tillage); no-till; no-tillage systems; zero tillage,"no-tillage (direct drilling (no-tillage), no-till, no-tillage systems, zero tillage)",https://lod.nal.usda.gov/nalt/28631,0.9,False,skos:related,EXCLUDE
+oleic acid,9-octadecenoic acid; oleate,"oleic acid (9-octadecenoic acid, oleate)",https://lod.nal.usda.gov/nalt/50550,0.9,False,skos:broader; skos:narrower,EXCLUDE
+organic production,organic agriculture; organic culture; organic dairy farming; organic farming; organically grown,"organic production (organic agriculture, organic culture, organic dairy farming, organic farming, organically grown)",https://lod.nal.usda.gov/nalt/7144,0.9,False,skos:related,EXCLUDE
+pathogens,infectious agents; infectious pathogens,"pathogens (infectious agents, infectious pathogens)",https://lod.nal.usda.gov/nalt/838,0.95,False,skos:related,EXCLUDE
+phosphinothricin acetyltransferase,EC 2.3.1.183; PPT acetyltransferase,"phosphinothricin acetyltransferase (EC 2.3.1.183, PPT acetyltransferase)",https://lod.nal.usda.gov/nalt/4010,0.95,False,skos:related,EXCLUDE
+phosphonates,organophosphonates; phosphonic acid esters,"phosphonates (organophosphonates, phosphonic acid esters)",https://lod.nal.usda.gov/nalt/56126,0.85,False,skos:broader; skos:narrower,EXCLUDE
+plant diseases and disorders,plant diseases; plant disorders,"plant diseases and disorders (plant diseases, plant disorders)",https://lod.nal.usda.gov/nalt/15134,0.95,False,skos:related,EXCLUDE
+polycyclic aromatic hydrocarbons,PAH (polycyclic aromatic hydrocarbons); PAHs (polycyclic aromatic hydrocarbons),"polycyclic aromatic hydrocarbons (PAH (polycyclic aromatic hydrocarbons), PAHs (polycyclic aromatic hydrocarbons))",https://lod.nal.usda.gov/nalt/12311,0.95,False,skos:broader; skos:narrower,EXCLUDE
+sex pheromones,,sex pheromones,https://lod.nal.usda.gov/nalt/47393,0.85,False,skos:related,EXCLUDE
+shrublands,brushlands; brushwood; bushlands; macchia; maquis; scrub; scrublands; semi-desert scrub,"shrublands (brushlands, brushwood, bushlands, macchia, maquis, scrub, scrublands, semi-desert scrub)",https://lod.nal.usda.gov/nalt/62665,0.95,False,skos:related,EXCLUDE
+sodium dichloroisocyanurate,dichloroisocyanuric acid; troclosene sodium,"sodium dichloroisocyanurate (dichloroisocyanuric acid, troclosene sodium)",https://lod.nal.usda.gov/nalt/229902,0.7,False,skos:broader; skos:narrower,EXCLUDE
+soil management,,soil management,https://lod.nal.usda.gov/nalt/21,0.95,False,skos:broader; skos:narrower,EXCLUDE
+Streptomyces hygroscopicus,Actinomyces hygroscopicus,Streptomyces hygroscopicus (Actinomyces hygroscopicus),https://lod.nal.usda.gov/nalt/3629,0.95,False,skos:related,EXCLUDE
+Streptomyces viridochromogenes,Actinomyces viridochromogenes,Streptomyces viridochromogenes (Actinomyces viridochromogenes),https://lod.nal.usda.gov/nalt/3768,0.95,False,skos:related,EXCLUDE
+sulfamates,,sulfamates,https://lod.nal.usda.gov/nalt/47344,0.85,False,skos:broader; skos:narrower,EXCLUDE
+sulfonylureas,sulphonylureas,sulfonylureas (sulphonylureas),https://lod.nal.usda.gov/nalt/43046,0.75,False,skos:broader; skos:narrower,EXCLUDE
+sulfur compounds,sulphur compounds,sulfur compounds (sulphur compounds),https://lod.nal.usda.gov/nalt/335696,0.95,False,skos:related,EXCLUDE
+thiazoles,,thiazoles,https://lod.nal.usda.gov/nalt/49963,0.95,False,skos:related,EXCLUDE
+toltrazuril,,toltrazuril,https://lod.nal.usda.gov/nalt/66111,1.0,False,skos:broader; skos:narrower,EXCLUDE
+traps,,traps,https://lod.nal.usda.gov/nalt/15545,0.95,False,skos:related,EXCLUDE
+uniconazole,,uniconazole,https://lod.nal.usda.gov/nalt/66325,1.0,False,skos:broader; skos:narrower,EXCLUDE
+woody weeds,,woody weeds,https://lod.nal.usda.gov/nalt/20193,1.0,False,skos:related,EXCLUDE
+benzamides,,benzamides,https://lod.nal.usda.gov/nalt/7680,0.75,False,skos:related,EXCLUDE
+disease vectors,infectious disease vectors,disease vectors (infectious disease vectors),https://lod.nal.usda.gov/nalt/22673,0.9,False,skos:related,EXCLUDE
+drug resistance,drug tolerance,drug resistance (drug tolerance),https://lod.nal.usda.gov/nalt/132,0.85,False,skos:related,EXCLUDE
+endosulfan lactone,endolacton; endolactone; endosulfan-lacton,"endosulfan lactone (endolacton, endolactone, endosulfan-lacton)",https://lod.nal.usda.gov/nalt/324612,0.9,True,skos:broader; skos:narrower,EXCLUDE
+endosulfan sulfate,endosulfan sulphate,endosulfan sulfate (endosulfan sulphate),https://lod.nal.usda.gov/nalt/213697,0.9,True,skos:broader; skos:narrower,EXCLUDE
+food safety,food control; food protection; food safety control,"food safety (food control, food protection, food safety control)",https://lod.nal.usda.gov/nalt/10482,0.95,False,skos:related,EXCLUDE
+food supply chain,food stores (regional/national supply),food supply chain (food stores (regional/national supply)),https://lod.nal.usda.gov/nalt/5303,0.95,False,skos:related,EXCLUDE
+meteorology and climatology,,meteorology and climatology,https://lod.nal.usda.gov/nalt/2716,0.95,False,skos:related,EXCLUDE
+support systems,,support systems,https://lod.nal.usda.gov/nalt/4417,0.95,False,skos:broader; skos:narrower,EXCLUDE
+synergism,,synergism,https://lod.nal.usda.gov/nalt/17302,0.95,False,skos:related,EXCLUDE
+synergists,,synergists,https://lod.nal.usda.gov/nalt/255,0.9,False,skos:related,EXCLUDE
+heterocyclic oxygen compounds,,heterocyclic oxygen compounds,https://lod.nal.usda.gov/nalt/33790,0.95,False,skos:broader; skos:narrower,EXCLUDE
+metolachlor metabolites,,metolachlor metabolites,https://lod.nal.usda.gov/nalt/324690,0.95,True,skos:broader; skos:narrower,EXCLUDE

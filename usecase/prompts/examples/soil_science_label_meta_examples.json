@@ -1,0 +1,16 @@
+{
+  "benchmark_name": "soil_science",
+  "context_level": "labels",
+  "seed_labels": ["soil"],
+  "notes": "Label-only calibration examples for generating a soil science prompt. Examples are not appended during downstream BFS.",
+  "examples": [
+    {"id": "soil_include_01", "seed_label": "soil", "candidate_label": "soil types", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "soil_include_02", "seed_label": "soil", "candidate_label": "soil properties", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "soil_include_03", "seed_label": "soil", "candidate_label": "soil water", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "soil_include_04", "seed_label": "soil", "candidate_label": "soil morphological features", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "soil_exclude_01", "seed_label": "soil", "candidate_label": "water table", "decision": "EXCLUDE", "source": "adjacent_domain_false_positive"},
+    {"id": "soil_exclude_02", "seed_label": "soil", "candidate_label": "soil restoration", "decision": "EXCLUDE", "source": "adjacent_domain_false_positive"},
+    {"id": "soil_exclude_03", "seed_label": "soil", "candidate_label": "kaolinite", "decision": "EXCLUDE", "source": "adjacent_domain_false_positive"},
+    {"id": "soil_exclude_04", "seed_label": "soil", "candidate_label": "Lumbricidae", "decision": "EXCLUDE", "source": "organism_gateway"}
+  ]
+}

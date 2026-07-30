@@ -1,0 +1,1296 @@
+{
+  "strategy": "configuration_and_universal_threshold_selection_on_validation_folds",
+  "configuration_policy": "each candidate configuration is fixed across all five outer folds",
+  "threshold_policy": "one selected threshold is applied to all five outer test folds",
+  "selection_metric": "row_count_weighted_five_validation_fold_f1",
+  "selection_data": "validation_predictions_only",
+  "configuration_results": {
+    "dataset1_config": {
+      "strategy": "fixed_configuration_with_universal_validation_threshold_selection",
+      "selection_metric": "row_count_weighted_five_validation_fold_f1",
+      "selection_scope": "one_threshold_applied_to_all_five_outer_test_folds",
+      "tie_breaking": "lowest_threshold",
+      "fixed_configuration": "dataset1_config",
+      "thresholds": [
+        0.0,
+        0.01,
+        0.02,
+        0.03,
+        0.04,
+        0.05,
+        0.06,
+        0.07,
+        0.08,
+        0.09,
+        0.1,
+        0.11,
+        0.12,
+        0.13,
+        0.14,
+        0.15,
+        0.16,
+        0.17,
+        0.18,
+        0.19,
+        0.2,
+        0.21,
+        0.22,
+        0.23,
+        0.24,
+        0.25,
+        0.26,
+        0.27,
+        0.28,
+        0.29,
+        0.3,
+        0.31,
+        0.32,
+        0.33,
+        0.34,
+        0.35,
+        0.36,
+        0.37,
+        0.38,
+        0.39,
+        0.4,
+        0.41,
+        0.42,
+        0.43,
+        0.44,
+        0.45,
+        0.46,
+        0.47,
+        0.48,
+        0.49,
+        0.5,
+        0.51,
+        0.52,
+        0.53,
+        0.54,
+        0.55,
+        0.56,
+        0.57,
+        0.58,
+        0.59,
+        0.6,
+        0.61,
+        0.62,
+        0.63,
+        0.64,
+        0.65,
+        0.66,
+        0.67,
+        0.68,
+        0.69,
+        0.7,
+        0.71,
+        0.72,
+        0.73,
+        0.74,
+        0.75,
+        0.76,
+        0.77,
+        0.78,
+        0.79,
+        0.8,
+        0.81,
+        0.82,
+        0.83,
+        0.84,
+        0.85,
+        0.86,
+        0.87,
+        0.88,
+        0.89,
+        0.9,
+        0.91,
+        0.92,
+        0.93,
+        0.94,
+        0.95,
+        0.96,
+        0.97,
+        0.98,
+        0.99,
+        1.0
+      ],
+      "prediction_artifacts": {
+        "validation": "dataset3_lstm_dataset1_config_validation_predictions.pkl",
+        "outer_test": "dataset3_lstm_dataset1_config_predictions.pkl"
+      },
+      "selected_threshold": 0.39,
+      "selected_validation_metric_views": {
+        "row_count_weighted_fold": {
+          "precision": 78.689,
+          "recall": 90.2568,
+          "f1": 83.9936,
+          "accuracy": 87.211
+        },
+        "row_count_weighted_fold_std": {
+          "precision": 7.7209,
+          "recall": 3.7938,
+          "f1": 5.9011,
+          "accuracy": 3.7997
+        },
+        "pooled_predictions": {
+          "precision": 79.0774,
+          "recall": 90.566,
+          "f1": 84.4327,
+          "accuracy": 87.211
+        }
+      },
+      "selected_validation_fold_metrics": [
+        {
+          "outer_test_fold": 0,
+          "validation_fold": 1,
+          "configuration": "dataset1_config",
+          "threshold": 0.39,
+          "validation_rows": 661,
+          "precision": 71.4286,
+          "recall": 86.8545,
+          "f1": 78.3898,
+          "accuracy": 84.5688
+        },
+        {
+          "outer_test_fold": 1,
+          "validation_fold": 2,
+          "configuration": "dataset1_config",
+          "threshold": 0.39,
+          "validation_rows": 19,
+          "precision": 70.0,
+          "recall": 100.0,
+          "f1": 82.3529,
+          "accuracy": 84.2105
+        },
+        {
+          "outer_test_fold": 2,
+          "validation_fold": 3,
+          "configuration": "dataset1_config",
+          "threshold": 0.39,
+          "validation_rows": 84,
+          "precision": 93.3333,
+          "recall": 96.5517,
+          "f1": 94.9153,
+          "accuracy": 96.4286
+        },
+        {
+          "outer_test_fold": 3,
+          "validation_fold": 4,
+          "configuration": "dataset1_config",
+          "threshold": 0.39,
+          "validation_rows": 114,
+          "precision": 91.1111,
+          "recall": 97.619,
+          "f1": 94.2529,
+          "accuracy": 95.614
+        },
+        {
+          "outer_test_fold": 4,
+          "validation_fold": 0,
+          "configuration": "dataset1_config",
+          "threshold": 0.39,
+          "validation_rows": 506,
+          "precision": 83.27,
+          "recall": 91.6318,
+          "f1": 87.251,
+          "accuracy": 87.3518
+        }
+      ],
+      "validation_trials": [
+        {
+          "threshold": 0.0,
+          "row_count_weighted_validation_f1": 55.0265
+        },
+        {
+          "threshold": 0.01,
+          "row_count_weighted_validation_f1": 74.8375
+        },
+        {
+          "threshold": 0.02,
+          "row_count_weighted_validation_f1": 76.6333
+        },
+        {
+          "threshold": 0.03,
+          "row_count_weighted_validation_f1": 77.4562
+        },
+        {
+          "threshold": 0.04,
+          "row_count_weighted_validation_f1": 78.5061
+        },
+        {
+          "threshold": 0.05,
+          "row_count_weighted_validation_f1": 79.5116
+        },
+        {
+          "threshold": 0.06,
+          "row_count_weighted_validation_f1": 79.9694
+        },
+        {
+          "threshold": 0.07,
+          "row_count_weighted_validation_f1": 80.6398
+        },
+        {
+          "threshold": 0.08,
+          "row_count_weighted_validation_f1": 81.0056
+        },
+        {
+          "threshold": 0.09,
+          "row_count_weighted_validation_f1": 81.2323
+        },
+        {
+          "threshold": 0.1,
+          "row_count_weighted_validation_f1": 81.4907
+        },
+        {
+          "threshold": 0.11,
+          "row_count_weighted_validation_f1": 81.6731
+        },
+        {
+          "threshold": 0.12,
+          "row_count_weighted_validation_f1": 81.7983
+        },
+        {
+          "threshold": 0.13,
+          "row_count_weighted_validation_f1": 81.9784
+        },
+        {
+          "threshold": 0.14,
+          "row_count_weighted_validation_f1": 82.5093
+        },
+        {
+          "threshold": 0.15,
+          "row_count_weighted_validation_f1": 82.628
+        },
+        {
+          "threshold": 0.16,
+          "row_count_weighted_validation_f1": 82.5752
+        },
+        {
+          "threshold": 0.17,
+          "row_count_weighted_validation_f1": 82.558
+        },
+        {
+          "threshold": 0.18,
+          "row_count_weighted_validation_f1": 82.3677
+        },
+        {
+          "threshold": 0.19,
+          "row_count_weighted_validation_f1": 82.496
+        },
+        {
+          "threshold": 0.2,
+          "row_count_weighted_validation_f1": 83.4721
+        },
+        {
+          "threshold": 0.21,
+          "row_count_weighted_validation_f1": 83.6063
+        },
+        {
+          "threshold": 0.22,
+          "row_count_weighted_validation_f1": 83.6063
+        },
+        {
+          "threshold": 0.23,
+          "row_count_weighted_validation_f1": 83.4741
+        },
+        {
+          "threshold": 0.24,
+          "row_count_weighted_validation_f1": 83.6039
+        },
+        {
+          "threshold": 0.25,
+          "row_count_weighted_validation_f1": 83.3229
+        },
+        {
+          "threshold": 0.26,
+          "row_count_weighted_validation_f1": 83.1312
+        },
+        {
+          "threshold": 0.27,
+          "row_count_weighted_validation_f1": 83.4178
+        },
+        {
+          "threshold": 0.28,
+          "row_count_weighted_validation_f1": 83.4934
+        },
+        {
+          "threshold": 0.29,
+          "row_count_weighted_validation_f1": 83.8759
+        },
+        {
+          "threshold": 0.3,
+          "row_count_weighted_validation_f1": 83.9378
+        },
+        {
+          "threshold": 0.31,
+          "row_count_weighted_validation_f1": 83.7369
+        },
+        {
+          "threshold": 0.32,
+          "row_count_weighted_validation_f1": 83.6384
+        },
+        {
+          "threshold": 0.33,
+          "row_count_weighted_validation_f1": 83.4766
+        },
+        {
+          "threshold": 0.34,
+          "row_count_weighted_validation_f1": 83.4766
+        },
+        {
+          "threshold": 0.35,
+          "row_count_weighted_validation_f1": 83.4322
+        },
+        {
+          "threshold": 0.36,
+          "row_count_weighted_validation_f1": 83.5901
+        },
+        {
+          "threshold": 0.37,
+          "row_count_weighted_validation_f1": 83.731
+        },
+        {
+          "threshold": 0.38,
+          "row_count_weighted_validation_f1": 83.9357
+        },
+        {
+          "threshold": 0.39,
+          "row_count_weighted_validation_f1": 83.9936
+        },
+        {
+          "threshold": 0.4,
+          "row_count_weighted_validation_f1": 83.6608
+        },
+        {
+          "threshold": 0.41,
+          "row_count_weighted_validation_f1": 83.7244
+        },
+        {
+          "threshold": 0.42,
+          "row_count_weighted_validation_f1": 83.7244
+        },
+        {
+          "threshold": 0.43,
+          "row_count_weighted_validation_f1": 83.3563
+        },
+        {
+          "threshold": 0.44,
+          "row_count_weighted_validation_f1": 83.4359
+        },
+        {
+          "threshold": 0.45,
+          "row_count_weighted_validation_f1": 83.4359
+        },
+        {
+          "threshold": 0.46,
+          "row_count_weighted_validation_f1": 83.2488
+        },
+        {
+          "threshold": 0.47,
+          "row_count_weighted_validation_f1": 83.3285
+        },
+        {
+          "threshold": 0.48,
+          "row_count_weighted_validation_f1": 83.2662
+        },
+        {
+          "threshold": 0.49,
+          "row_count_weighted_validation_f1": 83.3636
+        },
+        {
+          "threshold": 0.5,
+          "row_count_weighted_validation_f1": 82.9792
+        },
+        {
+          "threshold": 0.51,
+          "row_count_weighted_validation_f1": 83.143
+        },
+        {
+          "threshold": 0.52,
+          "row_count_weighted_validation_f1": 82.9486
+        },
+        {
+          "threshold": 0.53,
+          "row_count_weighted_validation_f1": 83.1997
+        },
+        {
+          "threshold": 0.54,
+          "row_count_weighted_validation_f1": 83.0691
+        },
+        {
+          "threshold": 0.55,
+          "row_count_weighted_validation_f1": 82.7684
+        },
+        {
+          "threshold": 0.56,
+          "row_count_weighted_validation_f1": 82.154
+        },
+        {
+          "threshold": 0.57,
+          "row_count_weighted_validation_f1": 82.4845
+        },
+        {
+          "threshold": 0.58,
+          "row_count_weighted_validation_f1": 82.4845
+        },
+        {
+          "threshold": 0.59,
+          "row_count_weighted_validation_f1": 82.551
+        },
+        {
+          "threshold": 0.6,
+          "row_count_weighted_validation_f1": 81.5342
+        },
+        {
+          "threshold": 0.61,
+          "row_count_weighted_validation_f1": 81.5219
+        },
+        {
+          "threshold": 0.62,
+          "row_count_weighted_validation_f1": 81.5219
+        },
+        {
+          "threshold": 0.63,
+          "row_count_weighted_validation_f1": 81.3236
+        },
+        {
+          "threshold": 0.64,
+          "row_count_weighted_validation_f1": 81.3912
+        },
+        {
+          "threshold": 0.65,
+          "row_count_weighted_validation_f1": 81.1153
+        },
+        {
+          "threshold": 0.66,
+          "row_count_weighted_validation_f1": 81.0423
+        },
+        {
+          "threshold": 0.67,
+          "row_count_weighted_validation_f1": 80.9922
+        },
+        {
+          "threshold": 0.68,
+          "row_count_weighted_validation_f1": 81.2916
+        },
+        {
+          "threshold": 0.69,
+          "row_count_weighted_validation_f1": 81.1686
+        },
+        {
+          "threshold": 0.7,
+          "row_count_weighted_validation_f1": 80.9099
+        },
+        {
+          "threshold": 0.71,
+          "row_count_weighted_validation_f1": 80.1152
+        },
+        {
+          "threshold": 0.72,
+          "row_count_weighted_validation_f1": 79.1337
+        },
+        {
+          "threshold": 0.73,
+          "row_count_weighted_validation_f1": 79.2133
+        },
+        {
+          "threshold": 0.74,
+          "row_count_weighted_validation_f1": 79.1553
+        },
+        {
+          "threshold": 0.75,
+          "row_count_weighted_validation_f1": 78.335
+        },
+        {
+          "threshold": 0.76,
+          "row_count_weighted_validation_f1": 77.6228
+        },
+        {
+          "threshold": 0.77,
+          "row_count_weighted_validation_f1": 77.4569
+        },
+        {
+          "threshold": 0.78,
+          "row_count_weighted_validation_f1": 77.2266
+        },
+        {
+          "threshold": 0.79,
+          "row_count_weighted_validation_f1": 76.7974
+        },
+        {
+          "threshold": 0.8,
+          "row_count_weighted_validation_f1": 76.4854
+        },
+        {
+          "threshold": 0.81,
+          "row_count_weighted_validation_f1": 76.0467
+        },
+        {
+          "threshold": 0.82,
+          "row_count_weighted_validation_f1": 75.5231
+        },
+        {
+          "threshold": 0.83,
+          "row_count_weighted_validation_f1": 75.5231
+        },
+        {
+          "threshold": 0.84,
+          "row_count_weighted_validation_f1": 69.5324
+        },
+        {
+          "threshold": 0.85,
+          "row_count_weighted_validation_f1": 69.1845
+        },
+        {
+          "threshold": 0.86,
+          "row_count_weighted_validation_f1": 68.7991
+        },
+        {
+          "threshold": 0.87,
+          "row_count_weighted_validation_f1": 68.2075
+        },
+        {
+          "threshold": 0.88,
+          "row_count_weighted_validation_f1": 65.9659
+        },
+        {
+          "threshold": 0.89,
+          "row_count_weighted_validation_f1": 64.9178
+        },
+        {
+          "threshold": 0.9,
+          "row_count_weighted_validation_f1": 64.0298
+        },
+        {
+          "threshold": 0.91,
+          "row_count_weighted_validation_f1": 62.4161
+        },
+        {
+          "threshold": 0.92,
+          "row_count_weighted_validation_f1": 59.0207
+        },
+        {
+          "threshold": 0.93,
+          "row_count_weighted_validation_f1": 57.4668
+        },
+        {
+          "threshold": 0.94,
+          "row_count_weighted_validation_f1": 56.5724
+        },
+        {
+          "threshold": 0.95,
+          "row_count_weighted_validation_f1": 55.1237
+        },
+        {
+          "threshold": 0.96,
+          "row_count_weighted_validation_f1": 51.2642
+        },
+        {
+          "threshold": 0.97,
+          "row_count_weighted_validation_f1": 43.7314
+        },
+        {
+          "threshold": 0.98,
+          "row_count_weighted_validation_f1": 34.6137
+        },
+        {
+          "threshold": 0.99,
+          "row_count_weighted_validation_f1": 23.8277
+        },
+        {
+          "threshold": 1.0,
+          "row_count_weighted_validation_f1": 0.0
+        }
+      ],
+      "final_metric_views": {
+        "row_count_weighted_fold": {
+          "precision": 78.4544,
+          "recall": 92.2987,
+          "f1": 84.4953,
+          "accuracy": 87.1387
+        },
+        "row_count_weighted_fold_std": {
+          "precision": 6.9487,
+          "recall": 3.3363,
+          "f1": 2.6217,
+          "accuracy": 2.6216
+        },
+        "pooled_predictions": {
+          "precision": 78.2958,
+          "recall": 91.8868,
+          "f1": 84.5486,
+          "accuracy": 87.1387
+        }
+      },
+      "final_rows": 1384,
+      "threshold_trial_count": 101,
+      "validation_fold_evaluations": 505
+    },
+    "dataset2_config": {
+      "strategy": "fixed_configuration_with_universal_validation_threshold_selection",
+      "selection_metric": "row_count_weighted_five_validation_fold_f1",
+      "selection_scope": "one_threshold_applied_to_all_five_outer_test_folds",
+      "tie_breaking": "lowest_threshold",
+      "fixed_configuration": "dataset2_config",
+      "thresholds": [
+        0.0,
+        0.01,
+        0.02,
+        0.03,
+        0.04,
+        0.05,
+        0.06,
+        0.07,
+        0.08,
+        0.09,
+        0.1,
+        0.11,
+        0.12,
+        0.13,
+        0.14,
+        0.15,
+        0.16,
+        0.17,
+        0.18,
+        0.19,
+        0.2,
+        0.21,
+        0.22,
+        0.23,
+        0.24,
+        0.25,
+        0.26,
+        0.27,
+        0.28,
+        0.29,
+        0.3,
+        0.31,
+        0.32,
+        0.33,
+        0.34,
+        0.35,
+        0.36,
+        0.37,
+        0.38,
+        0.39,
+        0.4,
+        0.41,
+        0.42,
+        0.43,
+        0.44,
+        0.45,
+        0.46,
+        0.47,
+        0.48,
+        0.49,
+        0.5,
+        0.51,
+        0.52,
+        0.53,
+        0.54,
+        0.55,
+        0.56,
+        0.57,
+        0.58,
+        0.59,
+        0.6,
+        0.61,
+        0.62,
+        0.63,
+        0.64,
+        0.65,
+        0.66,
+        0.67,
+        0.68,
+        0.69,
+        0.7,
+        0.71,
+        0.72,
+        0.73,
+        0.74,
+        0.75,
+        0.76,
+        0.77,
+        0.78,
+        0.79,
+        0.8,
+        0.81,
+        0.82,
+        0.83,
+        0.84,
+        0.85,
+        0.86,
+        0.87,
+        0.88,
+        0.89,
+        0.9,
+        0.91,
+        0.92,
+        0.93,
+        0.94,
+        0.95,
+        0.96,
+        0.97,
+        0.98,
+        0.99,
+        1.0
+      ],
+      "prediction_artifacts": {
+        "validation": "dataset3_lstm_dataset2_config_validation_predictions.pkl",
+        "outer_test": "dataset3_lstm_dataset2_config_predictions.pkl"
+      },
+      "selected_threshold": 0.69,
+      "selected_validation_metric_views": {
+        "row_count_weighted_fold": {
+          "precision": 79.2558,
+          "recall": 87.8276,
+          "f1": 82.5771,
+          "accuracy": 86.1272
+        },
+        "row_count_weighted_fold_std": {
+          "precision": 13.1722,
+          "recall": 4.6644,
+          "f1": 7.012,
+          "accuracy": 4.9982
+        },
+        "pooled_predictions": {
+          "precision": 78.6441,
+          "recall": 87.5472,
+          "f1": 82.8571,
+          "accuracy": 86.1272
+        }
+      },
+      "selected_validation_fold_metrics": [
+        {
+          "outer_test_fold": 0,
+          "validation_fold": 1,
+          "configuration": "dataset2_config",
+          "threshold": 0.69,
+          "validation_rows": 661,
+          "precision": 65.9722,
+          "recall": 89.2019,
+          "f1": 75.8483,
+          "accuracy": 81.6944
+        },
+        {
+          "outer_test_fold": 1,
+          "validation_fold": 2,
+          "configuration": "dataset2_config",
+          "threshold": 0.69,
+          "validation_rows": 19,
+          "precision": 77.7778,
+          "recall": 100.0,
+          "f1": 87.5,
+          "accuracy": 89.4737
+        },
+        {
+          "outer_test_fold": 2,
+          "validation_fold": 3,
+          "configuration": "dataset2_config",
+          "threshold": 0.69,
+          "validation_rows": 84,
+          "precision": 100.0,
+          "recall": 75.8621,
+          "f1": 86.2745,
+          "accuracy": 91.6667
+        },
+        {
+          "outer_test_fold": 3,
+          "validation_fold": 4,
+          "configuration": "dataset2_config",
+          "threshold": 0.69,
+          "validation_rows": 114,
+          "precision": 97.619,
+          "recall": 97.619,
+          "f1": 97.619,
+          "accuracy": 98.2456
+        },
+        {
+          "outer_test_fold": 4,
+          "validation_fold": 0,
+          "configuration": "dataset2_config",
+          "threshold": 0.69,
+          "validation_rows": 506,
+          "precision": 89.083,
+          "recall": 85.3556,
+          "f1": 87.1795,
+          "accuracy": 88.1423
+        }
+      ],
+      "validation_trials": [
+        {
+          "threshold": 0.0,
+          "row_count_weighted_validation_f1": 55.0265
+        },
+        {
+          "threshold": 0.01,
+          "row_count_weighted_validation_f1": 63.2636
+        },
+        {
+          "threshold": 0.02,
+          "row_count_weighted_validation_f1": 64.9892
+        },
+        {
+          "threshold": 0.03,
+          "row_count_weighted_validation_f1": 65.6342
+        },
+        {
+          "threshold": 0.04,
+          "row_count_weighted_validation_f1": 66.3181
+        },
+        {
+          "threshold": 0.05,
+          "row_count_weighted_validation_f1": 66.9513
+        },
+        {
+          "threshold": 0.06,
+          "row_count_weighted_validation_f1": 67.6482
+        },
+        {
+          "threshold": 0.07,
+          "row_count_weighted_validation_f1": 67.9728
+        },
+        {
+          "threshold": 0.08,
+          "row_count_weighted_validation_f1": 68.1955
+        },
+        {
+          "threshold": 0.09,
+          "row_count_weighted_validation_f1": 68.6951
+        },
+        {
+          "threshold": 0.1,
+          "row_count_weighted_validation_f1": 68.8626
+        },
+        {
+          "threshold": 0.11,
+          "row_count_weighted_validation_f1": 69.1215
+        },
+        {
+          "threshold": 0.12,
+          "row_count_weighted_validation_f1": 69.7006
+        },
+        {
+          "threshold": 0.13,
+          "row_count_weighted_validation_f1": 70.0214
+        },
+        {
+          "threshold": 0.14,
+          "row_count_weighted_validation_f1": 69.8546
+        },
+        {
+          "threshold": 0.15,
+          "row_count_weighted_validation_f1": 70.0811
+        },
+        {
+          "threshold": 0.16,
+          "row_count_weighted_validation_f1": 70.3173
+        },
+        {
+          "threshold": 0.17,
+          "row_count_weighted_validation_f1": 70.3674
+        },
+        {
+          "threshold": 0.18,
+          "row_count_weighted_validation_f1": 70.4259
+        },
+        {
+          "threshold": 0.19,
+          "row_count_weighted_validation_f1": 70.5734
+        },
+        {
+          "threshold": 0.2,
+          "row_count_weighted_validation_f1": 70.7148
+        },
+        {
+          "threshold": 0.21,
+          "row_count_weighted_validation_f1": 70.8659
+        },
+        {
+          "threshold": 0.22,
+          "row_count_weighted_validation_f1": 71.1099
+        },
+        {
+          "threshold": 0.23,
+          "row_count_weighted_validation_f1": 71.2621
+        },
+        {
+          "threshold": 0.24,
+          "row_count_weighted_validation_f1": 71.5407
+        },
+        {
+          "threshold": 0.25,
+          "row_count_weighted_validation_f1": 71.9184
+        },
+        {
+          "threshold": 0.26,
+          "row_count_weighted_validation_f1": 71.9029
+        },
+        {
+          "threshold": 0.27,
+          "row_count_weighted_validation_f1": 72.1564
+        },
+        {
+          "threshold": 0.28,
+          "row_count_weighted_validation_f1": 72.6895
+        },
+        {
+          "threshold": 0.29,
+          "row_count_weighted_validation_f1": 73.6265
+        },
+        {
+          "threshold": 0.3,
+          "row_count_weighted_validation_f1": 74.2576
+        },
+        {
+          "threshold": 0.31,
+          "row_count_weighted_validation_f1": 74.3301
+        },
+        {
+          "threshold": 0.32,
+          "row_count_weighted_validation_f1": 74.3062
+        },
+        {
+          "threshold": 0.33,
+          "row_count_weighted_validation_f1": 74.5015
+        },
+        {
+          "threshold": 0.34,
+          "row_count_weighted_validation_f1": 74.7257
+        },
+        {
+          "threshold": 0.35,
+          "row_count_weighted_validation_f1": 74.8225
+        },
+        {
+          "threshold": 0.36,
+          "row_count_weighted_validation_f1": 75.206
+        },
+        {
+          "threshold": 0.37,
+          "row_count_weighted_validation_f1": 75.5809
+        },
+        {
+          "threshold": 0.38,
+          "row_count_weighted_validation_f1": 75.9077
+        },
+        {
+          "threshold": 0.39,
+          "row_count_weighted_validation_f1": 76.0249
+        },
+        {
+          "threshold": 0.4,
+          "row_count_weighted_validation_f1": 76.2821
+        },
+        {
+          "threshold": 0.41,
+          "row_count_weighted_validation_f1": 76.6765
+        },
+        {
+          "threshold": 0.42,
+          "row_count_weighted_validation_f1": 76.8741
+        },
+        {
+          "threshold": 0.43,
+          "row_count_weighted_validation_f1": 77.0973
+        },
+        {
+          "threshold": 0.44,
+          "row_count_weighted_validation_f1": 77.241
+        },
+        {
+          "threshold": 0.45,
+          "row_count_weighted_validation_f1": 77.5364
+        },
+        {
+          "threshold": 0.46,
+          "row_count_weighted_validation_f1": 78.1657
+        },
+        {
+          "threshold": 0.47,
+          "row_count_weighted_validation_f1": 78.1439
+        },
+        {
+          "threshold": 0.48,
+          "row_count_weighted_validation_f1": 78.5357
+        },
+        {
+          "threshold": 0.49,
+          "row_count_weighted_validation_f1": 78.6852
+        },
+        {
+          "threshold": 0.5,
+          "row_count_weighted_validation_f1": 78.7536
+        },
+        {
+          "threshold": 0.51,
+          "row_count_weighted_validation_f1": 79.2357
+        },
+        {
+          "threshold": 0.52,
+          "row_count_weighted_validation_f1": 79.3656
+        },
+        {
+          "threshold": 0.53,
+          "row_count_weighted_validation_f1": 79.5255
+        },
+        {
+          "threshold": 0.54,
+          "row_count_weighted_validation_f1": 79.6186
+        },
+        {
+          "threshold": 0.55,
+          "row_count_weighted_validation_f1": 79.7649
+        },
+        {
+          "threshold": 0.56,
+          "row_count_weighted_validation_f1": 80.0992
+        },
+        {
+          "threshold": 0.57,
+          "row_count_weighted_validation_f1": 80.2604
+        },
+        {
+          "threshold": 0.58,
+          "row_count_weighted_validation_f1": 80.4905
+        },
+        {
+          "threshold": 0.59,
+          "row_count_weighted_validation_f1": 80.5549
+        },
+        {
+          "threshold": 0.6,
+          "row_count_weighted_validation_f1": 80.5606
+        },
+        {
+          "threshold": 0.61,
+          "row_count_weighted_validation_f1": 80.5137
+        },
+        {
+          "threshold": 0.62,
+          "row_count_weighted_validation_f1": 80.6143
+        },
+        {
+          "threshold": 0.63,
+          "row_count_weighted_validation_f1": 81.0561
+        },
+        {
+          "threshold": 0.64,
+          "row_count_weighted_validation_f1": 81.0262
+        },
+        {
+          "threshold": 0.65,
+          "row_count_weighted_validation_f1": 81.3713
+        },
+        {
+          "threshold": 0.66,
+          "row_count_weighted_validation_f1": 81.5405
+        },
+        {
+          "threshold": 0.67,
+          "row_count_weighted_validation_f1": 82.1279
+        },
+        {
+          "threshold": 0.68,
+          "row_count_weighted_validation_f1": 82.2296
+        },
+        {
+          "threshold": 0.69,
+          "row_count_weighted_validation_f1": 82.5771
+        },
+        {
+          "threshold": 0.7,
+          "row_count_weighted_validation_f1": 82.3741
+        },
+        {
+          "threshold": 0.71,
+          "row_count_weighted_validation_f1": 82.0496
+        },
+        {
+          "threshold": 0.72,
+          "row_count_weighted_validation_f1": 80.9738
+        },
+        {
+          "threshold": 0.73,
+          "row_count_weighted_validation_f1": 80.6824
+        },
+        {
+          "threshold": 0.74,
+          "row_count_weighted_validation_f1": 79.2591
+        },
+        {
+          "threshold": 0.75,
+          "row_count_weighted_validation_f1": 77.2562
+        },
+        {
+          "threshold": 0.76,
+          "row_count_weighted_validation_f1": 76.4666
+        },
+        {
+          "threshold": 0.77,
+          "row_count_weighted_validation_f1": 74.9113
+        },
+        {
+          "threshold": 0.78,
+          "row_count_weighted_validation_f1": 72.2679
+        },
+        {
+          "threshold": 0.79,
+          "row_count_weighted_validation_f1": 70.1068
+        },
+        {
+          "threshold": 0.8,
+          "row_count_weighted_validation_f1": 68.6883
+        },
+        {
+          "threshold": 0.81,
+          "row_count_weighted_validation_f1": 65.6632
+        },
+        {
+          "threshold": 0.82,
+          "row_count_weighted_validation_f1": 65.7742
+        },
+        {
+          "threshold": 0.83,
+          "row_count_weighted_validation_f1": 60.8972
+        },
+        {
+          "threshold": 0.84,
+          "row_count_weighted_validation_f1": 57.6597
+        },
+        {
+          "threshold": 0.85,
+          "row_count_weighted_validation_f1": 49.5307
+        },
+        {
+          "threshold": 0.86,
+          "row_count_weighted_validation_f1": 48.6817
+        },
+        {
+          "threshold": 0.87,
+          "row_count_weighted_validation_f1": 41.7574
+        },
+        {
+          "threshold": 0.88,
+          "row_count_weighted_validation_f1": 40.7589
+        },
+        {
+          "threshold": 0.89,
+          "row_count_weighted_validation_f1": 39.4175
+        },
+        {
+          "threshold": 0.9,
+          "row_count_weighted_validation_f1": 38.0245
+        },
+        {
+          "threshold": 0.91,
+          "row_count_weighted_validation_f1": 37.084
+        },
+        {
+          "threshold": 0.92,
+          "row_count_weighted_validation_f1": 36.6592
+        },
+        {
+          "threshold": 0.93,
+          "row_count_weighted_validation_f1": 35.6939
+        },
+        {
+          "threshold": 0.94,
+          "row_count_weighted_validation_f1": 33.6278
+        },
+        {
+          "threshold": 0.95,
+          "row_count_weighted_validation_f1": 26.1224
+        },
+        {
+          "threshold": 0.96,
+          "row_count_weighted_validation_f1": 25.1605
+        },
+        {
+          "threshold": 0.97,
+          "row_count_weighted_validation_f1": 23.6573
+        },
+        {
+          "threshold": 0.98,
+          "row_count_weighted_validation_f1": 20.8455
+        },
+        {
+          "threshold": 0.99,
+          "row_count_weighted_validation_f1": 12.5061
+        },
+        {
+          "threshold": 1.0,
+          "row_count_weighted_validation_f1": 0.0
+        }
+      ],
+      "final_metric_views": {
+        "row_count_weighted_fold": {
+          "precision": 88.67,
+          "recall": 61.3326,
+          "f1": 70.6159,
+          "accuracy": 82.1532
+        },
+        "row_count_weighted_fold_std": {
+          "precision": 5.7629,
+          "recall": 16.983,
+          "f1": 10.2767,
+          "accuracy": 3.325
+        },
+        "pooled_predictions": {
+          "precision": 86.1893,
+          "recall": 63.5849,
+          "f1": 73.1813,
+          "accuracy": 82.1532
+        }
+      },
+      "final_rows": 1384,
+      "threshold_trial_count": 101,
+      "validation_fold_evaluations": 505
+    }
+  },
+  "selected_configuration": "dataset1_config",
+  "selected_threshold": 0.39,
+  "selected_validation_metric_views": {
+    "row_count_weighted_fold": {
+      "precision": 78.689,
+      "recall": 90.2568,
+      "f1": 83.9936,
+      "accuracy": 87.211
+    },
+    "row_count_weighted_fold_std": {
+      "precision": 7.7209,
+      "recall": 3.7938,
+      "f1": 5.9011,
+      "accuracy": 3.7997
+    },
+    "pooled_predictions": {
+      "precision": 79.0774,
+      "recall": 90.566,
+      "f1": 84.4327,
+      "accuracy": 87.211
+    }
+  },
+  "final_metric_views": {
+    "row_count_weighted_fold": {
+      "precision": 78.4544,
+      "recall": 92.2987,
+      "f1": 84.4953,
+      "accuracy": 87.1387
+    },
+    "row_count_weighted_fold_std": {
+      "precision": 6.9487,
+      "recall": 3.3363,
+      "f1": 2.6217,
+      "accuracy": 2.6216
+    },
+    "pooled_predictions": {
+      "precision": 78.2958,
+      "recall": 91.8868,
+      "f1": 84.5486,
+      "accuracy": 87.1387
+    }
+  },
+  "selected_metrics": "metrics/dataset3_lstm_tuned_metrics.csv",
+  "selected_seen_unseen_metrics": "metrics/dataset3_lstm_tuned_seen_unseen_metrics.csv",
+  "selected_row_decisions": "decisions/dataset3_lstm_tuned.csv"
+}

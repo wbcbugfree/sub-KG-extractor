@@ -1,0 +1,2584 @@
+{
+  "dataset": 2,
+  "prompt_setting": "zero_shot_meta",
+  "prompt_file": "meta-prompting\\prompts\\deepseek-v4-pro\\generated_dataset2_path_simple_meta_evidence_deepseekv4pro.md",
+  "prompt_sha256": "d3d959fcd7e9a75e8ab79e16625a67d2c74f984200b9abeb342e0574a8e72c6c",
+  "effective_prompt_sha256": "276ae809856c22a71123ee8ee9f845f1749a350653947b0c8c3d5d24cbd8cefa",
+  "evaluation_mode": "bfs",
+  "response_schema": "batch_index_classification_confidence_v1",
+  "candidate_identifiers_in_prompt": false,
+  "candidate_identifier_mode": "batch_index",
+  "prompt_metadata": {
+    "model": "deepseek-v4-pro",
+    "provider": "deepseek",
+    "reasoning_effort": "max",
+    "prompt_generation_reasoning": {
+      "provider": "deepseek",
+      "parameter": "reasoning_effort",
+      "value": "max"
+    },
+    "examples_file": "meta-prompting\\examples\\meta\\dataset2_path_simple_meta_examples.json",
+    "examples_sha256": "372dd3ec96d1e05680e1613b50998900582a1640345cdc19b6c289c482aeefe6",
+    "meta_prompt": "meta-prompting\\prompts\\meta_prompt.md",
+    "meta_prompt_sha256": "b8b480b5f2711f8d5ac8321e643e39a506ad82145d5317901d81543f339201a0",
+    "generation_input_sha256": "39f5af9f2460fe04252036e30c77b1c813cb01265c6384b1bba856d15eec5b42",
+    "generated_prompt_sha256": "d3d959fcd7e9a75e8ab79e16625a67d2c74f984200b9abeb342e0574a8e72c6c",
+    "created_at": "2026-07-11T00:04:05Z"
+  },
+  "examples_file": "meta-prompting\\examples\\meta\\dataset2_path_simple_meta_examples.json",
+  "examples_sha256": "372dd3ec96d1e05680e1613b50998900582a1640345cdc19b6c289c482aeefe6",
+  "examples_in_prompt": false,
+  "prompt_examples_count": 18,
+  "provider": "deepseek",
+  "model": "deepseek-v4-pro",
+  "reasoning_configuration": "provider_default",
+  "context_level": "path_simple",
+  "max_iterations": 10,
+  "workers": 20,
+  "selected_seed_count": 104,
+  "traversal_decision_rows": 956,
+  "excluded_example_rows": 18,
+  "bridge_policy": {
+    "enabled": true,
+    "unlabeled_nodes": "traverse_without_llm_decision",
+    "decision_rows": "llm_classified_when_reached",
+    "scored_rows": "sample_rows_only"
+  },
+  "local_graph_filter": {
+    "enabled": true,
+    "skipped_rows_absent_from_local_graph": 26
+  },
+  "metrics": {
+    "total": 935,
+    "unmatched": 0,
+    "tp": 484,
+    "fp": 20,
+    "fn": 95,
+    "tn": 336,
+    "precision": 0.9603174603174603,
+    "recall": 0.8359240069084629,
+    "f1": 0.8938134810710989,
+    "accuracy": 0.8770053475935828
+  },
+  "metric_views": {
+    "all_evaluated_rows": {
+      "total": 935,
+      "unmatched": 0,
+      "tp": 484,
+      "fp": 20,
+      "fn": 95,
+      "tn": 336,
+      "precision": 0.9603174603174603,
+      "recall": 0.8359240069084629,
+      "f1": 0.8938134810710989,
+      "accuracy": 0.8770053475935828
+    },
+    "kgprune_runtime_rows": {
+      "total": 868,
+      "unmatched": 0,
+      "tp": 482,
+      "fp": 20,
+      "fn": 92,
+      "tn": 274,
+      "precision": 0.9601593625498008,
+      "recall": 0.8397212543554007,
+      "f1": 0.895910780669145,
+      "accuracy": 0.8709677419354839
+    }
+  },
+  "baseline_subset": {
+    "enabled": true,
+    "runtime_input_dir": "tmp/kgprune_bridge_path_analogy/inputs",
+    "runtime_input_file": "dataset2_gold_decisions_filtered.csv",
+    "runtime_pairs_total": 868,
+    "rows_evaluated": 868,
+    "metrics": {
+      "total": 868,
+      "unmatched": 0,
+      "tp": 482,
+      "fp": 20,
+      "fn": 92,
+      "tn": 274,
+      "precision": 0.9601593625498008,
+      "recall": 0.8397212543554007,
+      "f1": 0.895910780669145,
+      "accuracy": 0.8709677419354839
+    }
+  },
+  "seed_results": [
+    {
+      "seed_qid": "Q105674",
+      "seed_label": "running",
+      "gold_row_count": 11,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 5,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 6,
+          "included": 2,
+          "excluded": 4,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 8,
+      "pruned_count": 4,
+      "visited_count": 12,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1060165",
+      "seed_label": "Riot Games",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q11020",
+      "seed_label": "pool",
+      "gold_row_count": 28,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 22,
+          "included": 8,
+          "excluded": 14,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 15,
+      "pruned_count": 14,
+      "visited_count": 29,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1139866",
+      "seed_label": "Dofus",
+      "gold_row_count": 15,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 15,
+          "included": 4,
+          "excluded": 11,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 6,
+      "pruned_count": 11,
+      "visited_count": 17,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1146208",
+      "seed_label": "Institut National de Recherche en Informatique et en Automatique",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1152227",
+      "seed_label": "pharmacogenomics",
+      "gold_row_count": 14,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 1,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 8,
+          "included": 4,
+          "excluded": 4,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 5,
+      "visited_count": 12,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q118398",
+      "seed_label": "arXiv",
+      "gold_row_count": 14,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 5,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 9,
+          "included": 2,
+          "excluded": 7,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 8,
+      "pruned_count": 7,
+      "visited_count": 15,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1199743",
+      "seed_label": "gradient descent",
+      "gold_row_count": 9,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 5,
+          "included": 2,
+          "excluded": 3,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 3,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1200183",
+      "seed_label": "Fiber to the home",
+      "gold_row_count": 11,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 9,
+          "included": 4,
+          "excluded": 5,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 5,
+      "visited_count": 12,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q12014035",
+      "seed_label": "hiking",
+      "gold_row_count": 8,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 7,
+          "included": 6,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 8,
+      "pruned_count": 1,
+      "visited_count": 9,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q12130",
+      "seed_label": "Brittany",
+      "gold_row_count": 5,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 4,
+          "included": 1,
+          "excluded": 3,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 3,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q121416",
+      "seed_label": "discrete mathematics",
+      "gold_row_count": 16,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 15,
+          "included": 4,
+          "excluded": 11,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 6,
+      "pruned_count": 11,
+      "visited_count": 17,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1224715",
+      "seed_label": "dblp computer science bibliography",
+      "gold_row_count": 11,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 4,
+          "included": 1,
+          "excluded": 3,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 4,
+      "visited_count": 9,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q12725",
+      "seed_label": "electricity",
+      "gold_row_count": 11,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 7,
+          "included": 0,
+          "excluded": 7,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 7,
+      "visited_count": 12,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1273376",
+      "seed_label": "E.Leclerc",
+      "gold_row_count": 13,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 9,
+          "included": 0,
+          "excluded": 9,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 9,
+      "visited_count": 14,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q129337",
+      "seed_label": "TGV",
+      "gold_row_count": 11,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 7,
+          "included": 7,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 5,
+          "included": 3,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 11,
+      "pruned_count": 2,
+      "visited_count": 13,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q131476",
+      "seed_label": "graph theory",
+      "gold_row_count": 13,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 10,
+          "included": 7,
+          "excluded": 3,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 0,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 8,
+      "pruned_count": 4,
+      "visited_count": 12,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q133215",
+      "seed_label": "casino",
+      "gold_row_count": 7,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 7,
+          "included": 7,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 8,
+      "pruned_count": 0,
+      "visited_count": 8,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q13646",
+      "seed_label": "SNCF",
+      "gold_row_count": 3,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 0,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 1,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1431486",
+      "seed_label": "Orange",
+      "gold_row_count": 9,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 7,
+          "included": 7,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 10,
+      "pruned_count": 0,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1437394",
+      "seed_label": "formal concept analysis",
+      "gold_row_count": 9,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 8,
+          "included": 0,
+          "excluded": 8,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 8,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1474517",
+      "seed_label": "French National Institute of Health and Medical Research",
+      "gold_row_count": 2,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 0,
+      "visited_count": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1484375",
+      "seed_label": "PyCharm",
+      "gold_row_count": 4,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 1,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 2,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q14922",
+      "seed_label": "table football",
+      "gold_row_count": 8,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 7,
+          "included": 1,
+          "excluded": 6,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 6,
+      "visited_count": 9,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q159144",
+      "seed_label": "Europa-Park",
+      "gold_row_count": 3,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 0,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q159992",
+      "seed_label": "surfing",
+      "gold_row_count": 14,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 5,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 9,
+          "included": 3,
+          "excluded": 6,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 9,
+      "pruned_count": 6,
+      "visited_count": 15,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1636958",
+      "seed_label": "Xiaomi",
+      "gold_row_count": 27,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 24,
+          "included": 3,
+          "excluded": 21,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 21,
+      "visited_count": 28,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q16820462",
+      "seed_label": "Borderlands",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q168403",
+      "seed_label": "myopia",
+      "gold_row_count": 8,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 8,
+      "pruned_count": 1,
+      "visited_count": 9,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q17130715",
+      "seed_label": "Slack",
+      "gold_row_count": 14,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 2,
+      "visited_count": 9,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q171545",
+      "seed_label": "Belfort",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q174320",
+      "seed_label": "oscilloscope",
+      "gold_row_count": 3,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 1,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 1,
+      "visited_count": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q180",
+      "seed_label": "Wikimedia Foundation",
+      "gold_row_count": 3,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 0,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q180204",
+      "seed_label": "shampoo",
+      "gold_row_count": 6,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 3,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 2,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q180704",
+      "seed_label": "Iron Man",
+      "gold_row_count": 3,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 0,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q1847641",
+      "seed_label": "human facial hair",
+      "gold_row_count": 13,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 9,
+          "included": 6,
+          "excluded": 3,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 10,
+      "pruned_count": 4,
+      "visited_count": 14,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q188273",
+      "seed_label": "Ubisoft",
+      "gold_row_count": 35,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 35,
+          "included": 1,
+          "excluded": 34,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 6,
+      "pruned_count": 34,
+      "visited_count": 40,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q195",
+      "seed_label": "chocolate",
+      "gold_row_count": 15,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 9,
+          "included": 7,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 1,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 9,
+      "pruned_count": 3,
+      "visited_count": 12,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q196538",
+      "seed_label": "microscope",
+      "gold_row_count": 10,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 8,
+          "included": 8,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 3,
+          "included": 1,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 10,
+      "pruned_count": 2,
+      "visited_count": 12,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q2",
+      "seed_label": "Earth",
+      "gold_row_count": 14,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 6,
+      "pruned_count": 1,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q201664",
+      "seed_label": "bracelet",
+      "gold_row_count": 11,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 7,
+          "included": 6,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 9,
+      "pruned_count": 1,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q207472",
+      "seed_label": "Toto",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q209330",
+      "seed_label": "Instagram",
+      "gold_row_count": 7,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 5,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 0,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 6,
+      "pruned_count": 2,
+      "visited_count": 8,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q223127",
+      "seed_label": "Logitech",
+      "gold_row_count": 7,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 5,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 8,
+      "pruned_count": 0,
+      "visited_count": 8,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q2283",
+      "seed_label": "Microsoft",
+      "gold_row_count": 5,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 6,
+      "pruned_count": 0,
+      "visited_count": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q22907849",
+      "seed_label": "Discord",
+      "gold_row_count": 26,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 10,
+          "included": 10,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 16,
+          "included": 6,
+          "excluded": 10,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 17,
+      "pruned_count": 10,
+      "visited_count": 27,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q231136",
+      "seed_label": "Encarta",
+      "gold_row_count": 2,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 0,
+      "visited_count": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q23572",
+      "seed_label": "Game of Thrones",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q243",
+      "seed_label": "Eiffel Tower",
+      "gold_row_count": 4,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 1,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 1,
+      "visited_count": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q244030",
+      "seed_label": "Diablo III",
+      "gold_row_count": 6,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 5,
+          "included": 3,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 2,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q2539",
+      "seed_label": "machine learning",
+      "gold_row_count": 39,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 8,
+          "included": 8,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 28,
+          "included": 12,
+          "excluded": 16,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 24,
+      "pruned_count": 16,
+      "visited_count": 40,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q2551422",
+      "seed_label": "Water damage",
+      "gold_row_count": 5,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 3,
+          "included": 1,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 2,
+      "visited_count": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q2746070",
+      "seed_label": "Canelé",
+      "gold_row_count": 16,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 15,
+          "included": 7,
+          "excluded": 8,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 9,
+      "pruned_count": 8,
+      "visited_count": 17,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q280413",
+      "seed_label": "National Center for Scientific Research",
+      "gold_row_count": 5,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 0,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 2,
+      "visited_count": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q2813",
+      "seed_label": "Coca-Cola",
+      "gold_row_count": 20,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 15,
+          "included": 10,
+          "excluded": 5,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 17,
+      "pruned_count": 5,
+      "visited_count": 22,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q28406404",
+      "seed_label": "Microsoft Teams",
+      "gold_row_count": 9,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 5,
+          "included": 2,
+          "excluded": 3,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 3,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q28785",
+      "seed_label": "Sacré-Cœur",
+      "gold_row_count": 4,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 1,
+      "visited_count": 5,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q2905238",
+      "seed_label": "BlaBlaCar",
+      "gold_row_count": 2,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 0,
+      "visited_count": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q30299483",
+      "seed_label": "Inria Nancy - Grand-Est research centre",
+      "gold_row_count": 10,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 7,
+          "included": 1,
+          "excluded": 6,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 6,
+      "visited_count": 11,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q312",
+      "seed_label": "Apple Inc.",
+      "gold_row_count": 8,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 6,
+          "included": 6,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 1,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 8,
+      "pruned_count": 1,
+      "visited_count": 9,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q3214499",
+      "seed_label": "LORIA",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q324254",
+      "seed_label": "ontology",
+      "gold_row_count": 11,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 8,
+          "included": 8,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 12,
+      "pruned_count": 1,
+      "visited_count": 13,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q325904",
+      "seed_label": "breadth-first search",
+      "gold_row_count": 6,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 0,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q335827",
+      "seed_label": "Directorate-General for External Security",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q337535",
+      "seed_label": "Steam",
+      "gold_row_count": 6,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 2,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 2,
+      "visited_count": 5,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q33959",
+      "seed_label": "Nice",
+      "gold_row_count": 2,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 0,
+      "visited_count": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q3407658",
+      "seed_label": "tram",
+      "gold_row_count": 6,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 6,
+          "included": 4,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 2,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q3517281",
+      "seed_label": "Telecom Nancy",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q35996",
+      "seed_label": "Mazda",
+      "gold_row_count": 4,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 0,
+      "visited_count": 5,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q364",
+      "seed_label": "GitHub",
+      "gold_row_count": 5,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 2,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 2,
+      "visited_count": 5,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q37501",
+      "seed_label": "eyeglasses",
+      "gold_row_count": 9,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 3,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 2,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q38076",
+      "seed_label": "McDonald’s",
+      "gold_row_count": 112,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 4,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 101,
+          "included": 7,
+          "excluded": 94,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 12,
+      "pruned_count": 95,
+      "visited_count": 107,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q381",
+      "seed_label": "Ubuntu",
+      "gold_row_count": 9,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 9,
+          "included": 9,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 10,
+      "pruned_count": 0,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q38695",
+      "seed_label": "cooking",
+      "gold_row_count": 4,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 1,
+      "visited_count": 5,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q392500",
+      "seed_label": "Agence Nationale de la Recherche",
+      "gold_row_count": 7,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 6,
+          "included": 1,
+          "excluded": 5,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 5,
+      "visited_count": 8,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q40898",
+      "seed_label": "Nancy",
+      "gold_row_count": 2,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 0,
+      "visited_count": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q4173330",
+      "seed_label": "University of Lorraine",
+      "gold_row_count": 2,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 0,
+      "visited_count": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q42490",
+      "seed_label": "Asterix",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q462",
+      "seed_label": "Star Wars",
+      "gold_row_count": 3,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 1,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q508256",
+      "seed_label": "Bastille",
+      "gold_row_count": 3,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 1,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q51746",
+      "seed_label": "Luke Skywalker",
+      "gold_row_count": 13,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 0,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 2,
+      "visited_count": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q52",
+      "seed_label": "Wikipedia",
+      "gold_row_count": 10,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 4,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 6,
+          "included": 4,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 9,
+      "pruned_count": 3,
+      "visited_count": 12,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q548319",
+      "seed_label": "kouign-amann",
+      "gold_row_count": 2,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 1,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 1,
+      "visited_count": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q614362",
+      "seed_label": "Orange Livebox",
+      "gold_row_count": 6,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 3,
+          "included": 1,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 3,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q643290",
+      "seed_label": "RATP",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q6588",
+      "seed_label": "Périgueux",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q68",
+      "seed_label": "computer",
+      "gold_row_count": 3,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 0,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q718",
+      "seed_label": "chess",
+      "gold_row_count": 15,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 11,
+          "included": 10,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 14,
+      "pruned_count": 2,
+      "visited_count": 16,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q746413",
+      "seed_label": "Elsevier BV",
+      "gold_row_count": 3,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 1,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q76592",
+      "seed_label": "combinatorics",
+      "gold_row_count": 9,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 9,
+          "included": 9,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 10,
+      "pruned_count": 0,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q777",
+      "seed_label": "Google Chrome",
+      "gold_row_count": 9,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 7,
+          "included": 6,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 9,
+      "pruned_count": 1,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q7935239",
+      "seed_label": "Virtuoso Universal Server",
+      "gold_row_count": 5,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 0,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 2,
+      "visited_count": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q80131",
+      "seed_label": "poker",
+      "gold_row_count": 9,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 8,
+          "included": 8,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 10,
+      "pruned_count": 0,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q8333",
+      "seed_label": "Federal Bureau of Investigation",
+      "gold_row_count": 3,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 0,
+      "visited_count": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q83363",
+      "seed_label": "jeans",
+      "gold_row_count": 10,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 6,
+          "included": 5,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 9,
+      "pruned_count": 2,
+      "visited_count": 11,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q847",
+      "seed_label": "tennis",
+      "gold_row_count": 9,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 6,
+          "included": 6,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 9,
+      "pruned_count": 1,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q848609",
+      "seed_label": "Dagobah",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q8539",
+      "seed_label": "The Big Bang Theory",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q8548",
+      "seed_label": "Dijkstra's algorithm",
+      "gold_row_count": 7,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 1,
+      "visited_count": 8,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q864693",
+      "seed_label": "chicken meat",
+      "gold_row_count": 7,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 1,
+      "visited_count": 8,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q918",
+      "seed_label": "Twitter",
+      "gold_row_count": 7,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 1,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 7,
+      "pruned_count": 1,
+      "visited_count": 8,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q9340",
+      "seed_label": "Google Drive",
+      "gold_row_count": 10,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 4,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 4,
+          "included": 1,
+          "excluded": 3,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 1,
+          "included": 0,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 6,
+      "pruned_count": 4,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q95",
+      "seed_label": "Google",
+      "gold_row_count": 5,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 3,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 1,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 1,
+      "visited_count": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q9798",
+      "seed_label": "saxophone",
+      "gold_row_count": 2,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 0,
+      "visited_count": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "row_count": 935
+}

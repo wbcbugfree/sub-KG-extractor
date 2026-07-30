@@ -1,0 +1,869 @@
+row_id,legacy_row_id,fold,from,starting label,QID,label,depth,target,prediction,correct,reached,decision_source,model_depth
+row0,Q847|Q877517,3,Q847,tennis,Q877517,ball game,1,1,1,1,True,model,1
+row1,Q847|Q2426135,3,Q847,tennis,Q2426135,racket sport,1,1,1,1,True,model,1
+row2,Q847|Q56054951,3,Q847,tennis,Q56054951,men's tennis,1,1,1,1,True,model,1
+row3,Q847|Q31629,3,Q847,tennis,Q31629,type of sport,1,1,1,1,True,model,1
+row4,Q847|Q47094420,3,Q847,tennis,Q47094420,Foam Tennis,1,1,1,1,True,model,1
+row5,Q847|Q1153025,3,Q847,tennis,Q1153025,wheelchair tennis,1,1,1,1,True,model,1
+row6,Q847|Q754796,3,Q847,tennis,Q754796,miniature golf,2,0,0,1,True,model,2
+row7,Q847|Q212845,3,Q847,tennis,Q212845,Basque pelota,2,1,1,1,True,model,2
+row8,Q847|Q855880,3,Q847,tennis,Q855880,football tennis,2,1,0,0,True,model,2
+row9,Q3407658|Q1562213,2,Q3407658,tram,Q1562213,freight tram,1,1,1,1,True,model,1
+row10,Q3407658|Q5063597,2,Q3407658,tram,Q5063597,low-floor tram,1,1,1,1,True,model,1
+row11,Q3407658|Q15825863,2,Q3407658,tram,Q15825863,light rail vehicle,1,1,1,1,True,model,1
+row12,Q3407658|Q208502,2,Q3407658,tram,Q208502,railroad car,1,1,1,1,True,model,1
+row13,Q3407658|Q752870,2,Q3407658,tram,Q752870,motor vehicle,1,1,1,1,True,model,1
+row14,Q3407658|Q1414135,2,Q3407658,tram,Q1414135,rolling stock,1,1,1,1,True,model,1
+row15,Q364|Q1668024,1,Q364,GitHub,Q1668024,service on internet,1,1,1,1,True,model,1
+row16,Q364|Q3077240,1,Q364,GitHub,Q3077240,forge,1,1,1,1,True,model,1
+row17,Q364|Q6881511,1,Q364,GitHub,Q6881511,enterprise,1,1,1,1,True,model,1
+row18,Q364|Q5227240,1,Q364,GitHub,Q5227240,data library,1,1,1,1,True,model,1
+row19,Q364|Q2910253,1,Q364,GitHub,Q2910253,Torah database,2,1,1,1,True,model,2
+row20,Q312|Q6881511,2,Q312,Apple Inc.,Q6881511,enterprise,1,1,1,1,True,model,1
+row21,Q312|Q167037,2,Q312,Apple Inc.,Q167037,corporation,1,1,1,1,True,model,1
+row22,Q312|Q4830453,2,Q312,Apple Inc.,Q4830453,business,1,1,1,1,True,model,1
+row23,Q312|Q431289,2,Q312,Apple Inc.,Q431289,brand,1,1,1,1,True,model,1
+row24,Q312|Q891723,2,Q312,Apple Inc.,Q891723,public company,1,1,1,1,True,model,1
+row25,Q312|Q18388277,2,Q312,Apple Inc.,Q18388277,technology company,1,1,1,1,True,model,1
+row26,Q312|Q1058914,2,Q312,Apple Inc.,Q1058914,software company,2,1,0,0,True,model,2
+row27,Q312|Q13637823,2,Q312,Apple Inc.,Q13637823,Independent hardware vendor,2,1,1,1,True,model,2
+row28,Q12725|Q55605484,4,Q12725,electricity,Q55605484,bioelectricity,1,1,1,1,True,model,1
+row29,Q12725|Q11379,4,Q12725,electricity,Q11379,energy,1,1,1,1,True,model,1
+row30,Q12725|Q1293220,4,Q12725,electricity,Q1293220,physical phenomenon,1,1,1,1,True,model,1
+row31,Q12725|Q1522115,4,Q12725,electricity,Q1522115,energy source,1,1,1,1,True,model,1
+row33,Q12725|Q351281,4,Q12725,electricity,Q351281,sound energy,2,0,1,0,True,model,2
+row34,Q12725|Q11271324,4,Q12725,electricity,Q11271324,energy transformation,2,1,1,1,True,model,2
+row35,Q12725|Q42213,4,Q12725,electricity,Q42213,work,2,0,1,0,True,model,2
+row36,Q12725|Q20058155,4,Q12725,electricity,Q20058155,solar island,2,0,1,0,True,model,2
+row37,Q12725|Q396045,4,Q12725,electricity,Q396045,agricultural energy,2,0,1,0,True,model,2
+row38,Q12725|Q40189366,4,Q12725,electricity,Q40189366,interstellar radiation field,2,0,1,0,True,model,2
+row39,Q12725|Q360356,4,Q12725,electricity,Q360356,Hamiltonian function,2,0,1,0,True,model,2
+row40,Q42490|Q14406742,1,Q42490,Asterix,Q14406742,comic book series,1,1,1,1,True,model,1
+row41,Q918|Q620615,3,Q918,Twitter,Q620615,mobile app,1,1,1,1,True,model,1
+row42,Q918|Q92438,3,Q918,Twitter,Q92438,microblogging,1,1,1,1,True,model,1
+row43,Q918|Q3220391,3,Q918,Twitter,Q3220391,social networking service,1,1,1,1,True,model,1
+row44,Q918|Q7858627,3,Q918,Twitter,Q7858627,Twitter usage,2,1,1,1,True,model,2
+row45,Q918|Q6839279,3,Q918,Twitter,Q6839279,microblogging in China,2,0,1,0,True,model,2
+row46,Q918|Q7901759,3,Q918,Twitter,Q7901759,use of Twitter by public figures,3,1,1,1,True,model,3
+row47,Q918|Q17710982,3,Q918,Twitter,Q17710982,Twitterature,3,1,1,1,True,model,3
+row48,Q121416|Q1936384,0,Q121416,discrete mathematics,Q1936384,area of mathematics,1,1,1,1,True,model,1
+row49,Q121416|Q92552,0,Q121416,discrete mathematics,Q92552,Galois theory,2,1,0,0,True,model,2
+row50,Q121416|Q621550,0,Q121416,discrete mathematics,Q621550,general topology,2,1,0,0,True,model,2
+row51,Q121416|Q3968,0,Q121416,discrete mathematics,Q3968,algebra,2,1,0,0,True,model,2
+row52,Q121416|Q21028313,0,Q121416,discrete mathematics,Q21028313,global analysis,2,1,0,0,True,model,2
+row53,Q121416|Q3532114,0,Q121416,discrete mathematics,Q3532114,combinatorial topology,2,1,0,0,True,model,2
+row54,Q121416|Q56313053,0,Q121416,discrete mathematics,Q56313053,Additive combinatorics,2,1,0,0,True,model,2
+row55,Q121416|Q1208658,0,Q121416,discrete mathematics,Q1208658,ring theory,2,1,0,0,True,model,2
+row56,Q121416|Q76592,0,Q121416,discrete mathematics,Q76592,combinatorics,2,1,0,0,True,model,2
+row57,Q121416|Q212803,0,Q121416,discrete mathematics,Q212803,algebraic topology,2,1,0,0,True,model,2
+row58,Q121416|Q177409,0,Q121416,discrete mathematics,Q177409,projective geometry,2,1,0,0,True,model,2
+row59,Q121416|Q7825032,0,Q121416,discrete mathematics,Q7825032,topological dynamics,2,1,0,0,True,model,2
+row60,Q121416|Q2746792,0,Q121416,discrete mathematics,Q2746792,noncommutative geometry,2,1,0,0,True,model,2
+row61,Q121416|Q1317202,0,Q121416,discrete mathematics,Q1317202,Hodge theory,2,1,0,0,True,model,2
+row62,Q121416|Q61793851,0,Q121416,discrete mathematics,Q61793851,noncommutative algebra,2,1,0,0,True,model,2
+row63,Q121416|Q190549,0,Q121416,discrete mathematics,Q190549,functional analysis,2,1,0,0,True,model,2
+row64,Q180204|Q4838457,2,Q180204,shampoo,Q4838457,baby shampoo,1,1,1,1,True,model,1
+row65,Q180204|Q599755,2,Q180204,shampoo,Q599755,Garnier,1,1,1,1,True,model,1
+row66,Q180204|Q11322916,2,Q180204,shampoo,Q11322916,dry shampoo,1,1,1,1,True,model,1
+row67,Q180204|Q791930,2,Q180204,shampoo,Q791930,Axe,1,1,1,1,True,model,1
+row68,Q180204|Q50430027,2,Q180204,shampoo,Q50430027,hair care products,1,1,1,1,True,model,1
+row69,Q180204|Q11108449,2,Q180204,shampoo,Q11108449,hair dye,2,1,1,1,True,model,2
+row70,Q381|Q5276054,4,Q381,Ubuntu,Q5276054,digital commons,1,1,1,1,True,model,1
+row71,Q381|Q72688,4,Q381,Ubuntu,Q72688,Xubuntu,1,1,1,1,True,model,1
+row72,Q381|Q20983788,4,Q381,Ubuntu,Q20983788,free operating system,1,1,1,1,True,model,1
+row73,Q381|Q131669,4,Q381,Ubuntu,Q131669,Linux distribution,1,1,1,1,True,model,1
+row74,Q381|Q11250,4,Q381,Ubuntu,Q11250,Kubuntu,1,1,1,1,True,model,1
+row75,Q381|Q12226408,4,Q381,Ubuntu,Q12226408,Ubuntu Kylin,1,1,1,1,True,model,1
+row76,Q381|Q27964209,4,Q381,Ubuntu,Q27964209,Ubuntu Budgie,1,1,1,1,True,model,1
+row77,Q381|Q18915790,4,Q381,Ubuntu,Q18915790,Ubuntu MATE,1,1,1,1,True,model,1
+row79,Q381|Q9135,4,Q381,Ubuntu,Q9135,operating system,1,1,1,1,True,model,1
+row80,Q3517281|Q4671277,3,Q3517281,Telecom Nancy,Q4671277,academic institution,1,1,1,1,True,model,1
+row81,Q1199743|Q2835765,2,Q1199743,gradient descent,Q2835765,optimization algorithm,1,1,1,1,True,model,1
+row82,Q1199743|Q29410287,2,Q1199743,gradient descent,Q29410287,Adam optimizer,1,1,1,1,True,model,1
+row83,Q1199743|Q2321565,2,Q1199743,gradient descent,Q2321565,iterative numerical method,1,1,1,1,True,model,1
+row84,Q1199743|Q7617819,2,Q1199743,gradient descent,Q7617819,stochastic gradient descent,1,1,1,1,True,model,1
+row85,Q1199743|Q56506809,2,Q1199743,gradient descent,Q56506809,implicit method,2,0,1,0,True,model,2
+row86,Q1199743|Q1476018,2,Q1199743,gradient descent,Q1476018,Quasi-Newton method,2,0,0,1,True,model,2
+row87,Q1199743|Q14489129,2,Q1199743,gradient descent,Q14489129,evolutionary algorithm,2,0,1,0,True,model,2
+row88,Q1199743|Q4380101,2,Q1199743,gradient descent,Q4380101,projection methods for solving system of linear equations,2,0,1,0,True,model,2
+row89,Q1199743|Q1790321,2,Q1199743,gradient descent,Q1790321,Krylov subspace methods,2,0,1,0,True,model,2
+row90,Q2551422|Q481609,4,Q2551422,Water damage,Q481609,damage,1,1,1,1,True,model,1
+row91,Q2551422|Q1132455,4,Q2551422,Water damage,Q1132455,hazard,1,1,1,1,True,model,1
+row92,Q2551422|Q152749,4,Q2551422,Water damage,Q152749,radiation damage,2,0,1,0,True,model,2
+row93,Q2551422|Q19914521,4,Q2551422,Water damage,Q19914521,ground damage,2,0,1,0,True,model,2
+row94,Q2551422|Q3433179,4,Q2551422,Water damage,Q3433179,natural risk,2,1,1,1,True,model,2
+row95,Q1139866|Q7889,2,Q1139866,Dofus,Q7889,video game,1,1,1,1,True,model,1
+row96,Q1139866|Q55588631,2,Q1139866,Dofus,Q55588631,Pokémon video game,2,0,1,0,True,model,2
+row97,Q1139866|Q54767,2,Q1139866,Dofus,Q54767,puzzle video game,2,0,1,0,True,model,2
+row98,Q1139866|Q16021388,2,Q1139866,Dofus,Q16021388,alien video game,2,0,1,0,True,model,2
+row99,Q1139866|Q4485157,2,Q1139866,Dofus,Q4485157,PC game,2,1,1,1,True,model,2
+row103,Q1139866|Q6895044,2,Q1139866,Dofus,Q6895044,multiplayer video game,2,1,1,1,True,model,2
+row104,Q1139866|Q7927920,2,Q1139866,Dofus,Q7927920,video games in education,2,0,1,0,True,model,2
+row105,Q1139866|Q28004621,2,Q1139866,Dofus,Q28004621,SMS TV game,2,0,1,0,True,model,2
+row106,Q1139866|Q116634,2,Q1139866,Dofus,Q116634,online game,2,1,1,1,True,model,2
+row107,Q1139866|Q958821,2,Q1139866,Dofus,Q958821,LucasArts adventure games,2,0,1,0,True,model,2
+row109,Q1139866|Q14411698,2,Q1139866,Dofus,Q14411698,romance game,2,0,1,0,True,model,2
+row111,Q159144|Q194195,0,Q159144,Europa-Park,Q194195,amusement park,1,1,1,1,True,model,1
+row112,Q159144|Q875157,0,Q159144,Europa-Park,Q875157,resort,1,1,1,1,True,model,1
+row113,Q159144|Q570116,0,Q159144,Europa-Park,Q570116,tourist attraction,1,1,1,1,True,model,1
+row115,Q129337|Q13402959,3,Q129337,TGV,Q13402959,high-speed train,1,1,1,1,True,model,1
+row116,Q129337|Q16858238,3,Q129337,TGV,Q16858238,train category,1,1,1,1,True,model,1
+row118,Q129337|Q167270,3,Q129337,TGV,Q167270,trademark,1,1,1,1,True,model,1
+row119,Q129337|Q483373,3,Q129337,TGV,Q483373,electric multiple unit,1,1,1,1,True,model,1
+row120,Q129337|Q811704,3,Q129337,TGV,Q811704,rolling stock class,1,1,1,1,True,model,1
+row121,Q129337|Q30754613,3,Q129337,TGV,Q30754613,TGV inOui,1,1,1,1,True,model,1
+row122,Q129337|Q1049958,3,Q129337,TGV,Q1049958,SNCF TGV POS,2,1,1,1,True,model,2
+row123,Q129337|Q432478,3,Q129337,TGV,Q432478,Automotrice à grande vitesse,2,1,1,1,True,model,2
+row124,Q129337|Q928468,3,Q129337,TGV,Q928468,TGV Réseau,2,1,1,1,True,model,2
+row126,Q129337|Q2205965,3,Q129337,TGV,Q2205965,list of Belgian railway services,2,0,0,1,True,model,2
+row128,Q2746070|Q477248,0,Q2746070,Canelé,Q477248,pastry,1,1,1,1,True,model,1
+row129,Q2746070|Q3778467,0,Q2746070,Canelé,Q3778467,gubana,2,1,1,1,True,model,2
+row130,Q2746070|Q273426,0,Q2746070,Canelé,Q273426,éclair,2,1,1,1,True,model,2
+row131,Q2746070|Q251981,0,Q2746070,Canelé,Q251981,crisp bread,2,0,1,0,True,model,2
+row132,Q2746070|Q871619,0,Q2746070,Canelé,Q871619,bear claw,2,1,1,1,True,model,2
+row133,Q2746070|Q28416788,0,Q2746070,Canelé,Q28416788,Lotus seed paste cake,2,1,1,1,True,model,2
+row134,Q2746070|Q856330,0,Q2746070,Canelé,Q856330,cracker,2,0,1,0,True,model,2
+row136,Q2746070|Q5183361,0,Q2746070,Canelé,Q5183361,Cream horn,2,1,1,1,True,model,2
+row137,Q2746070|Q13266,0,Q2746070,Canelé,Q13266,cookie,2,1,1,1,True,model,2
+row138,Q2746070|Q870362,0,Q2746070,Canelé,Q870362,rice bread,2,0,1,0,True,model,2
+row139,Q2746070|Q1660010,0,Q2746070,Canelé,Q1660010,Christmas cookies,2,1,1,1,True,model,2
+row140,Q2746070|Q1073041,0,Q2746070,Canelé,Q1073041,coconut bar,2,1,1,1,True,model,2
+row141,Q2746070|Q12192991,0,Q2746070,Canelé,Q12192991,meskouta,2,1,1,1,True,model,2
+row142,Q2746070|Q208729,0,Q2746070,Canelé,Q208729,nougat,2,0,1,0,True,model,2
+row143,Q2746070|Q3535552,0,Q2746070,Canelé,Q3535552,Tourteau fromagé,2,0,1,0,True,model,2
+row144,Q2746070|Q1014883,0,Q2746070,Canelé,Q1014883,Burger Brezel,2,0,1,0,True,model,2
+row145,Q508256|Q11670533,3,Q508256,Bastille,Q11670533,elevated station,1,1,1,1,True,model,1
+row146,Q508256|Q928830,3,Q508256,Bastille,Q928830,metro station,1,1,1,1,True,model,1
+row147,Q508256|Q22808403,3,Q508256,Bastille,Q22808403,station located underground,1,1,1,1,True,model,1
+row148,Q2813|Q431289,3,Q2813,Coca-Cola,Q431289,brand,1,1,1,1,True,model,1
+row149,Q2813|Q147538,3,Q2813,Coca-Cola,Q147538,soft drink,1,1,1,1,True,model,1
+row150,Q2813|Q41084,3,Q2813,Coca-Cola,Q41084,New Coke,1,1,1,1,True,model,1
+row151,Q2813|Q134041,3,Q2813,Coca-Cola,Q134041,cola,1,1,1,1,True,model,1
+row152,Q2813|Q1104949,3,Q2813,Coca-Cola,Q1104949,Coca Colla,2,1,1,1,True,model,2
+row153,Q2813|Q5759783,3,Q2813,Coca-Cola,Q5759783,Highway,2,1,1,1,True,model,2
+row154,Q2813|Q19799634,3,Q2813,Coca-Cola,Q19799634,model of calculator,2,0,1,0,True,model,2
+row155,Q2813|Q20888692,3,Q2813,Coca-Cola,Q20888692,camera brand,2,0,1,0,True,model,2
+row156,Q2813|Q12311058,3,Q2813,Coca-Cola,Q12311058,Fanta Free Orange,2,1,1,1,True,model,2
+row157,Q2813|Q264554,3,Q2813,Coca-Cola,Q264554,carbonated water,2,1,1,1,True,model,2
+row158,Q2813|Q2300409,3,Q2813,Coca-Cola,Q2300409,Premium-Cola,2,1,1,1,True,model,2
+row160,Q2813|Q5873161,3,Q2813,Coca-Cola,Q5873161,refreshing drink,2,1,1,1,True,model,2
+row162,Q2813|Q623561,3,Q2813,Coca-Cola,Q623561,Dr Pepper,2,1,1,1,True,model,2
+row163,Q2813|Q937783,3,Q2813,Coca-Cola,Q937783,Coca-Cola Zero,2,1,1,1,True,model,2
+row164,Q2813|Q50425277,3,Q2813,Coca-Cola,Q50425277,diet cola,2,1,1,1,True,model,2
+row165,Q2813|Q59185742,3,Q2813,Coca-Cola,Q59185742,Craft soda,2,1,1,1,True,model,2
+row166,Q2813|Q896,3,Q2813,Coca-Cola,Q896,Mountain Dew,2,1,1,1,True,model,2
+row167,Q2813|Q1815345,3,Q2813,Coca-Cola,Q1815345,Diet Coke,3,1,1,1,True,model,3
+row168,Q2813|Q28127283,3,Q2813,Coca-Cola,Q28127283,Coca-Cola Zero Sugar,3,1,1,1,True,model,3
+row169,Q718|Q1188693,0,Q718,chess,Q1188693,mind sport,1,1,1,1,True,model,1
+row170,Q718|Q5093314,0,Q718,chess,Q5093314,Chess aesthetics,1,1,1,1,True,model,1
+row171,Q718|Q131436,0,Q718,chess,Q131436,board game,1,1,1,1,True,model,1
+row172,Q718|Q7858742,0,Q718,chess,Q7858742,two-player game,1,1,1,1,True,model,1
+row173,Q718|Q4438147,0,Q718,chess,Q4438147,game-based sport,1,1,1,1,True,model,1
+row174,Q718|Q573573,0,Q718,chess,Q573573,abstract strategy game,1,1,1,1,True,model,1
+row175,Q718|Q287618,0,Q718,chess,Q287618,sequential game,1,1,1,1,True,model,1
+row176,Q718|Q299191,0,Q718,chess,Q299191,chess variant,1,1,1,1,True,model,1
+row177,Q718|Q2755547,0,Q718,chess,Q2755547,individual sport,1,1,1,1,True,model,1
+row178,Q718|Q41595400,0,Q718,chess,Q41595400,mind game,1,1,1,1,True,model,1
+row179,Q718|Q31629,0,Q718,chess,Q31629,type of sport,1,1,1,1,True,model,1
+row180,Q718|Q80131,0,Q718,chess,Q80131,poker,2,0,1,0,True,model,2
+row181,Q718|Q816261,0,Q718,chess,Q816261,jogging,2,0,1,0,True,model,2
+row182,Q718|Q229398,0,Q718,chess,Q229398,three-dimensional chess,2,1,0,0,True,model,2
+row183,Q718|Q933844,0,Q718,chess,Q933844,three-player chess,2,1,0,0,True,model,2
+row184,Q335827|Q47913,2,Q335827,Directorate-General for External Security,Q47913,intelligence agency,1,1,1,1,True,model,1
+row185,Q8539|Q5398426,1,Q8539,The Big Bang Theory,Q5398426,television series,1,1,1,1,True,model,1
+row186,Q324254|Q1172480,0,Q324254,ontology,Q1172480,data model,1,1,1,1,True,model,1
+row187,Q324254|Q56316745,0,Q324254,ontology,Q56316745,application ontology,1,1,1,1,True,model,1
+row188,Q324254|Q593744,0,Q324254,ontology,Q593744,knowledge base,1,1,1,1,True,model,1
+row189,Q324254|Q7554009,0,Q324254,ontology,Q7554009,soft ontology,1,1,1,1,True,model,1
+row190,Q324254|Q1437388,0,Q324254,ontology,Q1437388,formal ontology,1,1,1,1,True,model,1
+row191,Q324254|Q1397073,0,Q324254,ontology,Q1397073,data schema,1,1,1,1,True,model,1
+row193,Q324254|Q56316737,0,Q324254,ontology,Q56316737,domain ontology,1,1,1,1,True,model,1
+row194,Q324254|Q7449052,0,Q324254,ontology,Q7449052,semantic data model,2,1,0,0,True,model,2
+row195,Q324254|Q5378800,0,Q324254,ontology,Q5378800,Enhanced entity–relationship model,2,1,0,0,True,model,2
+row196,Q324254|Q2262868,0,Q324254,ontology,Q2262868,domain model,2,1,0,0,True,model,2
+row197,Q324254|Q1751819,0,Q324254,ontology,Q1751819,RDF Schema,2,1,1,1,True,model,2
+row198,Q40898|Q484170,4,Q40898,Nancy,Q484170,commune of France,1,1,1,1,True,model,1
+row199,Q40898|Q1549591,4,Q40898,Nancy,Q1549591,big city,1,1,1,1,True,model,1
+row200,Q80131|Q953223,3,Q80131,poker,Q953223,stud poker,1,1,1,1,True,model,1
+row201,Q80131|Q13586511,3,Q80131,poker,Q13586511,Dealer's choice,1,1,1,1,True,model,1
+row202,Q80131|Q1050367,3,Q80131,poker,Q1050367,online poker,1,1,1,1,True,model,1
+row203,Q80131|Q1188693,3,Q80131,poker,Q1188693,mind sport,1,1,1,1,True,model,1
+row204,Q80131|Q2072000,3,Q80131,poker,Q2072000,Three card poker,1,1,1,1,True,model,1
+row205,Q80131|Q497397,3,Q80131,poker,Q497397,video poker,1,1,1,1,True,model,1
+row206,Q80131|Q142714,3,Q80131,poker,Q142714,card game,1,1,1,1,True,model,1
+row207,Q80131|Q1073718,3,Q80131,poker,Q1073718,Chinese poker,1,1,1,1,True,model,1
+row208,Q80131|Q718,3,Q80131,poker,Q718,chess,2,0,1,0,True,model,2
+row209,Q1474517|Q13582798,0,Q1474517,French National Institute of Health and Medical Research,Q13582798,Public Scientific and Technical Research Establishment,1,1,1,1,True,model,1
+row210,Q1474517|Q31855,0,Q1474517,French National Institute of Health and Medical Research,Q31855,research institute,1,1,1,1,True,model,1
+row211,Q4173330|Q1542938,3,Q4173330,University of Lorraine,Q1542938,grand établissement,1,1,1,1,True,model,1
+row212,Q4173330|Q3551775,3,Q4173330,University of Lorraine,Q3551775,university in France,1,1,1,1,True,model,1
+row213,Q243|Q1440476,0,Q243,Eiffel Tower,Q1440476,lattice tower,1,1,1,1,True,model,1
+row214,Q243|Q570116,0,Q243,Eiffel Tower,Q570116,tourist attraction,1,1,1,1,True,model,1
+row215,Q243|Q1440300,0,Q243,Eiffel Tower,Q1440300,observation tower,1,1,1,1,True,model,1
+row217,Q243|Q804399,0,Q243,Eiffel Tower,Q804399,Blaw-Knox tower,2,0,0,1,True,model,2
+row218,Q1060165|Q210167,1,Q1060165,Riot Games,Q210167,video game developer,1,1,1,1,True,model,1
+row219,Q11020|Q2312410,4,Q11020,pool,Q2312410,sports discipline,1,1,1,1,True,model,1
+row220,Q11020|Q3341285,4,Q11020,pool,Q3341285,cue sports,1,1,1,1,True,model,1
+row221,Q11020|Q2060479,4,Q11020,pool,Q2060479,eight-ball,1,1,1,1,True,model,1
+row222,Q11020|Q5179579,4,Q11020,pool,Q5179579,Cowboy pool,1,1,1,1,True,model,1
+row223,Q11020|Q10526896,4,Q11020,pool,Q10526896,Hugg,2,0,1,0,True,model,2
+row225,Q11020|Q917562,4,Q11020,pool,Q917562,carom billiards,2,1,1,1,True,model,2
+row226,Q11020|Q40679812,4,Q11020,pool,Q40679812,running target shooting,2,0,1,0,True,model,2
+row228,Q11020|Q2072840,4,Q11020,pool,Q2072840,CrossFit,2,0,1,0,True,model,2
+row229,Q11020|Q27907674,4,Q11020,pool,Q27907674,girls' singles,2,0,1,0,True,model,2
+row230,Q11020|Q5100758,4,Q11020,pool,Q5100758,Chinese eight-ball,2,1,1,1,True,model,2
+row231,Q11020|Q4208733,4,Q11020,pool,Q4208733,Kaisa,2,1,1,1,True,model,2
+row232,Q11020|Q52177345,4,Q11020,pool,Q52177345,field sport,2,0,1,0,True,model,2
+row233,Q11020|Q11015,4,Q11020,pool,Q11015,snooker,2,1,1,1,True,model,2
+row234,Q11020|Q27907692,4,Q11020,pool,Q27907692,girls' doubles,2,0,1,0,True,model,2
+row235,Q11020|Q455347,4,Q11020,pool,Q455347,variation of basketball,2,0,1,0,True,model,2
+row237,Q11020|Q5580558,4,Q11020,pool,Q5580558,golf billiards,2,1,1,1,True,model,2
+row238,Q11020|Q677423,4,Q11020,pool,Q677423,drifting,2,0,1,0,True,model,2
+row239,Q11020|Q5728609,4,Q11020,pool,Q5728609,spanish pool,2,1,1,1,True,model,2
+row240,Q11020|Q50386068,4,Q11020,pool,Q50386068,youth mixed doubles,2,0,1,0,True,model,2
+row241,Q11020|Q27907702,4,Q11020,pool,Q27907702,boys' singles,2,0,1,0,True,model,2
+row243,Q11020|Q967318,4,Q11020,pool,Q967318,Blackball,2,1,1,1,True,model,2
+row244,Q11020|Q27907716,4,Q11020,pool,Q27907716,boys' doubles,2,0,1,0,True,model,2
+row245,Q11020|Q1324916,4,Q11020,pool,Q1324916,English billiards,2,1,1,1,True,model,2
+row247,Q11020|Q2165733,4,Q11020,pool,Q2165733,Snooker plus,3,1,1,1,True,model,3
+row248,Q11020|Q512270,4,Q11020,pool,Q512270,Five-pin billiards,3,1,1,1,True,model,3
+row249,Q52|Q1293664,2,Q52,Wikipedia,Q1293664,open content,1,1,1,1,True,model,1
+row250,Q52|Q14827288,2,Q52,Wikipedia,Q14827288,Wikimedia project,1,1,1,1,True,model,1
+row251,Q52|Q615699,2,Q52,Wikipedia,Q615699,Internet encyclopedia,1,1,1,1,True,model,1
+row252,Q52|Q15633582,2,Q52,Wikipedia,Q15633582,MediaWiki website,1,1,1,1,True,model,1
+row256,Q52|Q11853682,2,Q52,Wikipedia,Q11853682,open encyclopedia,2,1,1,1,True,model,2
+row257,Q52|Q33120867,2,Q52,Wikipedia,Q33120867,Wikimedia wiki,2,1,1,1,True,model,2
+row258,Q52|Q33120876,2,Q52,Wikipedia,Q33120876,Wikimedia content project,2,1,1,1,True,model,2
+row259,Q52|Q263,2,Q52,Wikipedia,Q263,Wikisource,2,1,1,1,True,model,2
+row260,Q180|Q2166013,2,Q180,Wikimedia Foundation,Q2166013,wiki hosting service,1,1,1,1,True,model,1
+row261,Q180|Q708676,2,Q180,Wikimedia Foundation,Q708676,charitable organization,1,1,1,1,True,model,1
+row262,Q180|Q157031,2,Q180,Wikimedia Foundation,Q157031,foundation,1,1,1,1,True,model,1
+row263,Q1152227|Q28598684,4,Q1152227,pharmacogenomics,Q28598684,branch of biology,1,1,1,1,True,model,1
+row264,Q1152227|Q222046,4,Q1152227,pharmacogenomics,Q222046,genomics,1,1,1,1,True,model,1
+row266,Q1152227|Q841450,4,Q1152227,pharmacogenomics,Q841450,toxicogenomics,2,1,1,1,True,model,2
+row267,Q1152227|Q1147112,4,Q1152227,pharmacogenomics,Q1147112,comparative genomics,2,1,1,1,True,model,2
+row268,Q1152227|Q3381973,4,Q1152227,pharmacogenomics,Q3381973,phylogenomics,2,0,1,0,True,model,2
+row270,Q1152227|Q17002728,4,Q1152227,pharmacogenomics,Q17002728,branch of botany,2,0,1,0,True,model,2
+row272,Q1152227|Q2091816,4,Q1152227,pharmacogenomics,Q2091816,computational genomics,2,1,1,1,True,model,2
+row273,Q1152227|Q7322390,4,Q1152227,pharmacogenomics,Q7322390,ribonomics,2,1,1,1,True,model,2
+row274,Q1152227|Q1068690,4,Q1152227,pharmacogenomics,Q1068690,functional genomics,2,1,1,1,True,model,2
+row275,Q1152227|Q7170583,4,Q1152227,pharmacogenomics,Q7170583,personal genomics,2,1,1,1,True,model,2
+row276,Q1152227|Q903778,4,Q1152227,pharmacogenomics,Q903778,metagenomics,2,1,1,1,True,model,2
+row278,Q1152227|Q25303637,4,Q1152227,pharmacogenomics,Q25303637,neurogenomics,3,1,1,1,True,model,3
+row279,Q462|Q431289,3,Q462,Star Wars,Q431289,brand,1,1,1,1,True,model,1
+row280,Q462|Q19786787,3,Q462,Star Wars,Q19786787,Archduke of Geonosis,1,1,1,1,True,model,1
+row281,Q462|Q196600,3,Q462,Star Wars,Q196600,media franchise,1,1,1,1,True,model,1
+row282,Q33959|Q484170,3,Q33959,Nice,Q484170,commune of France,1,1,1,1,True,model,1
+row283,Q33959|Q1549591,3,Q33959,Nice,Q1549591,big city,1,1,1,1,True,model,1
+row284,Q231136|Q13419255,4,Q231136,Encarta,Q13419255,hypertext encyclopedia,1,1,1,1,True,model,1
+row285,Q231136|Q7397,4,Q231136,Encarta,Q7397,software,1,1,1,1,True,model,1
+row286,Q9340|Q1668024,1,Q9340,Google Drive,Q1668024,service on internet,1,1,1,1,True,model,1
+row288,Q9340|Q1343205,1,Q9340,Google Drive,Q1343205,file hosting service,1,1,1,1,True,model,1
+row289,Q9340|Q914359,1,Q9340,Google Drive,Q914359,cloud storage,1,1,1,1,True,model,1
+row290,Q9340|Q166142,1,Q9340,Google Drive,Q166142,application,1,1,1,1,True,model,1
+row291,Q9340|Q16972647,1,Q9340,Google Drive,Q16972647,Google Chrome App,2,1,1,1,True,model,2
+row293,Q9340|Q3751111,1,Q9340,Google Drive,Q3751111,medical software,2,0,1,0,True,model,2
+row294,Q9340|Q17074646,1,Q9340,Google Drive,Q17074646,personal cloud,2,1,1,1,True,model,2
+row296,Q9340|Q25325314,1,Q9340,Google Drive,Q25325314,Elastic cloud storage,2,1,1,1,True,model,2
+row297,Q9340|Q16988367,1,Q9340,Google Drive,Q16988367,CloudLocker,3,1,1,1,True,model,3
+row298,Q1484375|Q467707,4,Q1484375,PyCharm,Q467707,software development kit,1,1,1,1,True,model,1
+row299,Q1484375|Q13741,4,Q1484375,PyCharm,Q13741,integrated development environment,1,1,1,1,True,model,1
+row300,Q1484375|Q341,4,Q1484375,PyCharm,Q341,free software,1,1,1,1,True,model,1
+row301,Q1484375|Q10334075,4,Q1484375,PyCharm,Q10334075,Mxmlc,2,0,1,0,True,model,2
+row302,Q159992|Q61065,2,Q159992,surfing,Q61065,water sport,1,1,1,1,True,model,1
+row303,Q159992|Q842595,2,Q159992,surfing,Q842595,big wave surfing,1,1,1,1,True,model,1
+row304,Q159992|Q1434370,2,Q159992,surfing,Q1434370,River surfing,1,1,1,1,True,model,1
+row305,Q159992|Q31629,2,Q159992,surfing,Q31629,type of sport,1,1,1,1,True,model,1
+row306,Q159992|Q911069,2,Q159992,surfing,Q911069,boardsport,1,1,1,1,True,model,1
+row307,Q159992|Q14085739,2,Q159992,surfing,Q14085739,sailing,2,1,0,0,True,model,2
+row308,Q159992|Q2533407,2,Q159992,surfing,Q2533407,surf lifesaving,2,0,1,0,True,model,2
+row309,Q159992|Q60967807,2,Q159992,surfing,Q60967807,Aquaplaning sport,2,1,1,1,True,model,2
+row310,Q159992|Q31920,2,Q159992,surfing,Q31920,swimming,2,1,1,1,True,model,2
+row311,Q159992|Q2369170,2,Q159992,surfing,Q2369170,underwater sports,2,1,1,1,True,model,2
+row312,Q159992|Q178131,2,Q159992,surfing,Q178131,snowboarding,2,0,1,0,True,model,2
+row313,Q159992|Q7735,2,Q159992,surfing,Q7735,diving,2,1,1,1,True,model,2
+row314,Q159992|Q159354,2,Q159992,surfing,Q159354,rowing,2,1,1,1,True,model,2
+row315,Q159992|Q842284,2,Q159992,surfing,Q842284,skateboarding,2,0,1,0,True,model,2
+row316,Q22907849|Q40056,0,Q22907849,Discord,Q40056,computer program,1,1,1,1,True,model,1
+row317,Q22907849|Q28051323,0,Q22907849,Discord,Q28051323,video-conferencing software,1,1,1,1,True,model,1
+row318,Q22907849|Q15614021,0,Q22907849,Discord,Q15614021,VoIP software,1,1,1,1,True,model,1
+row319,Q22907849|Q1668024,0,Q22907849,Discord,Q1668024,service on internet,1,1,1,1,True,model,1
+row320,Q22907849|Q2462003,0,Q22907849,Discord,Q2462003,instant messaging client,1,1,1,1,True,model,1
+row321,Q22907849|Q35127,0,Q22907849,Discord,Q35127,website,1,1,1,1,True,model,1
+row322,Q22907849|Q620615,0,Q22907849,Discord,Q620615,mobile app,1,1,1,1,True,model,1
+row323,Q22907849|Q218616,0,Q22907849,Discord,Q218616,proprietary software,1,1,1,1,True,model,1
+row324,Q22907849|Q287198,0,Q22907849,Discord,Q287198,online chat,1,1,1,1,True,model,1
+row325,Q22907849|Q3220391,0,Q22907849,Discord,Q3220391,social networking service,1,1,1,1,True,model,1
+row327,Q22907849|Q466,0,Q22907849,Discord,Q466,World Wide Web,2,0,0,1,True,model,2
+row328,Q22907849|Q15548100,0,Q22907849,Discord,Q15548100,free instant messaging client,2,1,1,1,True,model,2
+row329,Q22907849|Q3391957,0,Q22907849,Discord,Q3391957,online community platform,2,1,0,0,True,model,2
+row331,Q22907849|Q1954906,0,Q22907849,Discord,Q1954906,music disk,2,0,1,0,True,model,2
+row334,Q22907849|Q16825545,0,Q22907849,Discord,Q16825545,adult dating site,2,0,0,1,True,model,2
+row335,Q22907849|Q60678830,0,Q22907849,Discord,Q60678830,Smartphone apps for travellers,2,0,0,1,True,model,2
+row336,Q22907849|Q81945,0,Q22907849,Discord,Q81945,Voice over IP,2,1,0,0,True,model,2
+row337,Q22907849|Q1149226,0,Q22907849,Discord,Q1149226,web chat,2,1,1,1,True,model,2
+row338,Q22907849|Q354869,0,Q22907849,Discord,Q354869,image sharing,2,1,0,0,True,model,2
+row339,Q22907849|Q574577,0,Q22907849,Discord,Q574577,chat room,2,1,1,1,True,model,2
+row341,Q22907849|Q17589204,0,Q22907849,Discord,Q17589204,FootballDatabase.eu,2,0,0,1,True,model,2
+row343,Q12014035|Q2357239,4,Q12014035,hiking,Q2357239,sports tourism,1,1,1,1,True,model,1
+row344,Q12014035|Q1914636,4,Q12014035,hiking,Q1914636,activity,1,1,1,1,True,model,1
+row345,Q12014035|Q968907,4,Q12014035,hiking,Q968907,outdoor recreation,1,1,1,1,True,model,1
+row346,Q12014035|Q184872,4,Q12014035,hiking,Q184872,recreation,1,1,1,1,True,model,1
+row347,Q12014035|Q349,4,Q12014035,hiking,Q349,sport,1,1,1,1,True,model,1
+row348,Q12014035|Q6537379,4,Q12014035,hiking,Q6537379,walking,1,1,1,1,True,model,1
+row349,Q12014035|Q61788060,4,Q12014035,hiking,Q61788060,human activity,1,1,1,1,True,model,1
+row350,Q12014035|Q747883,4,Q12014035,hiking,Q747883,physical activity,2,1,1,1,True,model,2
+row351,Q131476|Q18205998,0,Q131476,graph theory,Q18205998,circuit topology,1,1,1,1,True,model,1
+row352,Q131476|Q4671286,0,Q131476,graph theory,Q4671286,academic major,1,1,1,1,True,model,1
+row353,Q131476|Q4115842,0,Q131476,graph theory,Q4115842,topological graph theory,1,1,1,1,True,model,1
+row354,Q131476|Q3180727,0,Q131476,graph theory,Q3180727,spectral graph theory,1,1,1,1,True,model,1
+row355,Q131476|Q381009,0,Q131476,graph theory,Q381009,chemical graph theory,1,1,1,1,True,model,1
+row356,Q131476|Q1503271,0,Q131476,graph theory,Q1503271,geometric graph theory,1,1,1,1,True,model,1
+row357,Q131476|Q17737,0,Q131476,graph theory,Q17737,theory,1,1,1,1,True,model,1
+row358,Q131476|Q1936384,0,Q131476,graph theory,Q1936384,area of mathematics,1,1,1,1,True,model,1
+row359,Q131476|Q4417999,0,Q131476,graph theory,Q4417999,network analysis,1,1,1,1,True,model,1
+row360,Q131476|Q11862829,0,Q131476,graph theory,Q11862829,academic discipline,1,1,1,1,True,model,1
+row361,Q131476|Q5416712,0,Q131476,graph theory,Q5416712,Event chain methodology,2,0,1,0,True,model,2
+row362,Q131476|Q5004188,0,Q131476,graph theory,Q5004188,bypass,2,0,1,0,True,model,2
+row363,Q131476|Q20026918,0,Q131476,graph theory,Q20026918,mathematical theory,2,1,0,0,True,model,2
+row364,Q13646|Q2324835,1,Q13646,SNCF,Q2324835,national railway,1,1,1,1,True,model,1
+row365,Q13646|Q249556,1,Q13646,SNCF,Q249556,railway company,1,1,1,1,True,model,1
+row366,Q13646|Q23043008,1,Q13646,SNCF,Q23043008,Krasnoliman Directorate of Railway Transportation,2,1,1,1,True,model,2
+row367,Q28785|Q120560,0,Q28785,Sacré-Cœur,Q120560,minor basilica,1,1,1,1,True,model,1
+row368,Q28785|Q16970,0,Q28785,Sacré-Cœur,Q16970,church building,1,1,1,1,True,model,1
+row369,Q28785|Q1530022,0,Q28785,Sacré-Cœur,Q1530022,religious organization,1,1,1,1,True,model,1
+row370,Q28785|Q570116,0,Q28785,Sacré-Cœur,Q570116,tourist attraction,1,1,1,1,True,model,1
+row371,Q68|Q11019,1,Q68,computer,Q11019,machine,1,1,1,1,True,model,1
+row372,Q68|Q1662611,1,Q68,computer,Q1662611,IT system,1,1,1,1,True,model,1
+row373,Q68|Q241317,1,Q68,computer,Q241317,computing platform,1,1,1,1,True,model,1
+row374,Q105674|Q2312410,3,Q105674,running,Q2312410,sports discipline,1,1,1,1,True,model,1
+row375,Q105674|Q2167372,3,Q105674,running,Q2167372,mountain running,1,1,1,1,True,model,1
+row376,Q105674|Q3694563,3,Q105674,running,Q3694563,snowshoe running,1,1,1,1,True,model,1
+row377,Q105674|Q2093999,3,Q105674,running,Q2093999,trail running,1,1,1,1,True,model,1
+row378,Q105674|Q349,3,Q105674,running,Q349,sport,1,1,1,1,True,model,1
+row379,Q105674|Q12014207,3,Q105674,running,Q12014207,trekking,2,1,1,1,True,model,2
+row380,Q105674|Q902378,3,Q105674,running,Q902378,equestrian sport,2,0,1,0,True,model,2
+row381,Q105674|Q212434,3,Q105674,running,Q212434,Olympic sport,2,1,1,1,True,model,2
+row382,Q105674|Q17080486,3,Q105674,running,Q17080486,Twirling,2,0,1,0,True,model,2
+row383,Q105674|Q792635,3,Q105674,running,Q792635,axe throwing,2,0,1,0,True,model,2
+row384,Q105674|Q15621650,3,Q105674,running,Q15621650,skiing,2,0,1,0,True,model,2
+row385,Q195|Q25403900,4,Q195,chocolate,Q25403900,food ingredient,1,1,1,1,True,model,1
+row386,Q195|Q2596997,4,Q195,chocolate,Q2596997,condiment,1,1,1,1,True,model,1
+row387,Q195|Q181042,4,Q195,chocolate,Q181042,Kinder Surprise,1,1,1,1,True,model,1
+row388,Q195|Q1365365,4,Q195,chocolate,Q1365365,stimulant foodstuff,1,1,1,1,True,model,1
+row389,Q195|Q23461185,4,Q195,chocolate,Q23461185,organic chocolate,1,1,1,1,True,model,1
+row390,Q195|Q5159627,4,Q195,chocolate,Q5159627,confection,1,1,1,1,True,model,1
+row391,Q195|Q1063560,4,Q195,chocolate,Q1063560,chocolate truffle,1,1,1,1,True,model,1
+row392,Q195|Q757388,4,Q195,chocolate,Q757388,Milka,1,1,1,1,True,model,1
+row393,Q195|Q752276,4,Q195,chocolate,Q752276,functional food,1,1,1,1,True,model,1
+row394,Q195|Q895177,4,Q195,chocolate,Q895177,bouquet garni,2,0,1,0,True,model,2
+row395,Q195|Q18547489,4,Q195,chocolate,Q18547489,Thasian sauce,2,0,1,0,True,model,2
+row396,Q195|Q13261,4,Q195,chocolate,Q13261,hot chocolate,2,1,1,1,True,model,2
+row397,Q195|Q10987,4,Q195,chocolate,Q10987,honey,2,0,1,0,True,model,2
+row398,Q195|Q41354,4,Q195,chocolate,Q41354,vinegar,2,0,1,0,True,model,2
+row399,Q195|Q167893,4,Q195,chocolate,Q167893,mayonnaise,2,0,1,0,True,model,2
+row400,Q118398|Q5281480,1,Q118398,arXiv,Q5281480,disciplinary repository,1,1,1,1,True,model,1
+row401,Q118398|Q35127,1,Q118398,arXiv,Q35127,website,1,1,1,1,True,model,1
+row402,Q118398|Q7094076,1,Q118398,arXiv,Q7094076,online database,1,1,1,1,True,model,1
+row403,Q118398|Q52990223,1,Q118398,arXiv,Q52990223,open science tool,1,1,1,1,True,model,1
+row404,Q118398|Q45787211,1,Q118398,arXiv,Q45787211,preprint server,1,1,1,1,True,model,1
+row405,Q118398|Q16002093,1,Q118398,arXiv,Q16002093,video aggregator,2,0,0,1,True,model,2
+row406,Q118398|Q1294318,1,Q118398,arXiv,Q1294318,online book,2,0,0,1,True,model,2
+row407,Q118398|Q21606686,1,Q118398,arXiv,Q21606686,scientific website,2,1,0,0,True,model,2
+row408,Q118398|Q213369,1,Q118398,arXiv,Q213369,webcomic,2,0,0,1,True,model,2
+row409,Q118398|Q6542714,1,Q118398,arXiv,Q6542714,library website,2,1,0,0,True,model,2
+row410,Q118398|Q33270324,1,Q118398,arXiv,Q33270324,genealogy website,2,0,0,1,True,model,2
+row412,Q118398|Q1350108,1,Q118398,arXiv,Q1350108,fansite,2,0,1,0,True,model,2
+row413,Q118398|Q16001076,1,Q118398,arXiv,Q16001076,3D printing marketplace,2,0,0,1,True,model,2
+row414,Q133215|Q16852719,2,Q133215,casino,Q16852719,casino hotel,1,1,1,1,True,model,1
+row415,Q133215|Q7338100,2,Q133215,casino,Q7338100,Riverboat casino,1,1,1,1,True,model,1
+row416,Q133215|Q32350958,2,Q133215,casino,Q32350958,bingo hall,1,1,1,1,True,model,1
+row417,Q133215|Q7279719,2,Q133215,casino,Q7279719,racino,1,1,1,1,True,model,1
+row418,Q133215|Q655686,2,Q133215,casino,Q655686,commercial building,1,1,1,1,True,model,1
+row419,Q133215|Q6664710,2,Q133215,casino,Q6664710,Locals casino,1,1,1,1,True,model,1
+row420,Q133215|Q770881,2,Q133215,casino,Q770881,online casino,1,1,1,1,True,model,1
+row421,Q643290|Q740752,2,Q643290,RATP,Q740752,transport company,1,1,1,1,True,model,1
+row422,Q325904|Q907955,0,Q325904,breadth-first search,Q907955,graph traversal,1,1,1,1,True,model,1
+row423,Q325904|Q4443425,0,Q325904,breadth-first search,Q4443425,uninformed search algorithm,1,1,1,1,True,model,1
+row424,Q325904|Q755673,0,Q325904,breadth-first search,Q755673,search algorithm,1,1,1,1,True,model,1
+row425,Q325904|Q7009111,0,Q325904,breadth-first search,Q7009111,heuristic search algorithm,2,1,0,0,True,model,2
+row426,Q325904|Q1210082,0,Q325904,breadth-first search,Q1210082,tree traversal,2,1,0,0,True,model,2
+row427,Q325904|Q1969601,0,Q325904,breadth-first search,Q1969601,pathfinding,2,1,0,0,True,model,2
+row428,Q746413|Q737498,3,Q746413,Elsevier BV,Q737498,academic journal,1,1,1,1,True,model,1
+row429,Q746413|Q2085381,3,Q746413,Elsevier BV,Q2085381,publisher,1,1,1,1,True,model,1
+row430,Q746413|Q1320047,3,Q746413,Elsevier BV,Q1320047,book publisher,1,1,1,1,True,model,1
+row431,Q2539|Q17013334,4,Q2539,machine learning,Q17013334,feature learning,1,1,1,1,True,model,1
+row432,Q2539|Q21198,4,Q2539,machine learning,Q21198,computer science,1,1,1,1,True,model,1
+row433,Q2539|Q192776,4,Q2539,machine learning,Q192776,artificial neural network,1,1,1,1,True,model,1
+row434,Q2539|Q6027324,4,Q2539,machine learning,Q6027324,transfer learning,1,1,1,1,True,model,1
+row435,Q2539|Q378859,4,Q2539,machine learning,Q378859,pattern recognition,1,1,1,1,True,model,1
+row436,Q2539|Q11660,4,Q2539,machine learning,Q11660,artificial intelligence,1,1,1,1,True,model,1
+row437,Q2539|Q1152135,4,Q2539,machine learning,Q1152135,unsupervised learning,1,1,1,1,True,model,1
+row438,Q2539|Q11862829,4,Q2539,machine learning,Q11862829,academic discipline,1,1,1,1,True,model,1
+row440,Q2539|Q20722857,4,Q2539,machine learning,Q20722857,Deep Q-Network,2,1,1,1,True,model,2
+row442,Q2539|Q4875410,4,Q2539,machine learning,Q4875410,Bayesian confidence propagation neural network,2,1,1,1,True,model,2
+row443,Q2539|Q40890078,4,Q2539,machine learning,Q40890078,Explainable AI,2,1,1,1,True,model,2
+row444,Q2539|Q5064071,4,Q2539,machine learning,Q5064071,cerebellar model articulation controller,2,0,1,0,True,model,2
+row445,Q2539|Q1936384,4,Q2539,machine learning,Q1936384,area of mathematics,2,1,1,1,True,model,2
+row448,Q2539|Q5441227,4,Q2539,machine learning,Q5441227,feedforward neural network,2,1,1,1,True,model,2
+row451,Q2539|Q4740894,4,Q2539,machine learning,Q4740894,fish disease and parasites,2,0,1,0,True,model,2
+row452,Q2539|Q55693875,4,Q2539,machine learning,Q55693875,International Economic Relationships,2,0,1,0,True,model,2
+row453,Q2539|Q7617824,4,Q2539,machine learning,Q7617824,stochastic neural network,2,1,1,1,True,model,2
+row454,Q2539|Q55693892,4,Q2539,machine learning,Q55693892,Fishery and Aquaculture,2,0,1,0,True,model,2
+row456,Q2539|Q54811238,4,Q2539,machine learning,Q54811238,graph convolutional network,2,1,1,1,True,model,2
+row457,Q2539|Q55693888,4,Q2539,machine learning,Q55693888,Bulgarian Philology,2,0,1,0,True,model,2
+row459,Q2539|Q30642,4,Q2539,machine learning,Q30642,natural language processing,2,1,1,1,True,model,2
+row460,Q2539|Q4387017,4,Q2539,machine learning,Q4387017,mathematical sciences,2,1,1,1,True,model,2
+row461,Q2539|Q3478658,4,Q2539,machine learning,Q3478658,knowledge representation and reasoning,2,1,1,1,True,model,2
+row462,Q2539|Q55441204,4,Q2539,machine learning,Q55441204,3D-convolutional neural network,2,1,1,1,True,model,2
+row463,Q2539|Q19935939,4,Q2539,machine learning,Q19935939,branch of geography,2,0,1,0,True,model,2
+row465,Q2539|Q5514059,4,Q2539,machine learning,Q5514059,symbolic artificial intelligence,2,1,1,1,True,model,2
+row467,Q2539|Q2991667,4,Q2539,machine learning,Q2991667,multilayer perceptron,3,1,1,1,True,model,3
+row468,Q2539|Q1948408,4,Q2539,machine learning,Q1948408,text segmentation,3,1,1,1,True,model,3
+row469,Q2539|Q690207,4,Q2539,machine learning,Q690207,perceptron,3,1,1,1,True,model,3
+row471,Q196538|Q54167390,2,Q196538,microscope,Q54167390,lucernal microscope,1,1,1,1,True,model,1
+row472,Q196538|Q1751850,2,Q196538,microscope,Q1751850,optical instrument,1,1,1,1,True,model,1
+row473,Q196538|Q901823,2,Q196538,microscope,Q901823,ultramicroscope,1,1,1,1,True,model,1
+row474,Q196538|Q1463415,2,Q196538,microscope,Q1463415,inverted microscope,1,1,1,1,True,model,1
+row475,Q196538|Q7187868,2,Q196538,microscope,Q7187868,Photonic force microscope,1,1,1,1,True,model,1
+row476,Q196538|Q17092661,2,Q196538,microscope,Q17092661,Recurrence tracking microscope,1,1,1,1,True,model,1
+row477,Q196538|Q1981926,2,Q196538,microscope,Q1981926,Neutron microscope,1,1,1,1,True,model,1
+row478,Q196538|Q8320,2,Q196538,microscope,Q8320,optical printer,2,0,0,1,True,model,2
+row479,Q196538|Q5396251,2,Q196538,microscope,Q5396251,erygmascope,2,0,0,1,True,model,2
+row480,Q196538|Q15328,2,Q196538,microscope,Q15328,camera,2,0,1,0,True,model,2
+row481,Q171545|Q484170,4,Q171545,Belfort,Q484170,commune of France,1,1,1,1,True,model,1
+row482,Q51746|Q15632617,4,Q51746,Luke Skywalker,Q15632617,fictional human,1,1,1,1,True,model,1
+row483,Q51746|Q33125444,4,Q51746,Luke Skywalker,Q33125444,character from Star Wars,1,1,1,1,True,model,1
+row484,Q51746|Q15773347,4,Q51746,Luke Skywalker,Q15773347,film character,1,1,1,1,True,model,1
+row485,Q51746|Q22074477,4,Q51746,Luke Skywalker,Q22074477,cyborg in a work of fiction,1,1,1,1,True,model,1
+row486,Q51746|Q11334882,4,Q51746,Luke Skywalker,Q11334882,Pokémon Professor,2,0,1,0,True,model,2
+row487,Q51746|Q5199354,4,Q51746,Luke Skywalker,Q5199354,Cylon,2,0,1,0,True,model,2
+row488,Q51746|Q220652,4,Q51746,Luke Skywalker,Q220652,Borg,2,0,1,0,True,model,2
+row489,Q51746|Q2265657,4,Q51746,Luke Skywalker,Q2265657,Phalanx,2,0,1,0,True,model,2
+row490,Q51746|Q3008212,4,Q51746,Luke Skywalker,Q3008212,Cyberman,2,0,1,0,True,model,2
+row491,Q51746|Q5769360,4,Q51746,Luke Skywalker,Q5769360,Cimek,2,0,1,0,True,model,2
+row492,Q51746|Q930062,4,Q51746,Luke Skywalker,Q930062,Toa,2,0,1,0,True,model,2
+row493,Q51746|Q853715,4,Q51746,Luke Skywalker,Q853715,Dalek,2,0,1,0,True,model,2
+row494,Q51746|Q2351172,4,Q51746,Luke Skywalker,Q2351172,Evangelion,2,0,1,0,True,model,2
+row495,Q2283|Q1058914,0,Q2283,Microsoft,Q1058914,software company,1,1,1,1,True,model,1
+row496,Q2283|Q891723,0,Q2283,Microsoft,Q891723,public company,1,1,1,1,True,model,1
+row497,Q2283|Q18388277,0,Q2283,Microsoft,Q18388277,technology company,1,1,1,1,True,model,1
+row498,Q2283|Q4830453,0,Q2283,Microsoft,Q4830453,business,1,1,1,1,True,model,1
+row499,Q2283|Q13637823,0,Q2283,Microsoft,Q13637823,Independent hardware vendor,2,1,1,1,True,model,2
+row500,Q12130|Q3502482,1,Q12130,Brittany,Q3502482,cultural region,1,1,1,1,True,model,1
+row501,Q12130|Q36784,1,Q12130,Brittany,Q36784,region of France,1,1,1,1,True,model,1
+row502,Q12130|Q42261736,1,Q12130,Brittany,Q42261736,cultural areas of indigenous North Americans,2,0,1,0,True,model,2
+row504,Q12130|Q28332,1,Q12130,Brittany,Q28332,overseas region,2,0,0,1,True,model,2
+row505,Q12130|Q20719642,1,Q12130,Brittany,Q20719642,current region of France,2,1,0,0,True,model,2
+row506,Q188273|Q210167,2,Q188273,Ubisoft,Q210167,video game developer,1,1,1,1,True,model,1
+row507,Q188273|Q1137109,2,Q188273,Ubisoft,Q1137109,video game publisher,1,1,1,1,True,model,1
+row508,Q188273|Q891723,2,Q188273,Ubisoft,Q891723,public company,1,1,1,1,True,model,1
+row509,Q188273|Q43229,2,Q188273,Ubisoft,Q43229,organization,1,1,1,1,True,model,1
+row512,Q188273|Q5163232,2,Q188273,Ubisoft,Q5163232,Consistory,2,0,0,1,True,model,2
+row513,Q188273|Q255632,2,Q188273,Ubisoft,Q255632,cathedral works,2,0,0,1,True,model,2
+row514,Q188273|Q1193702,2,Q188273,Ubisoft,Q1193702,parliamentary opposition,2,0,0,1,True,model,2
+row515,Q188273|Q5419285,2,Q188273,Ubisoft,Q5419285,examination board,2,0,0,1,True,model,2
+row516,Q188273|Q7248095,2,Q188273,Ubisoft,Q7248095,professional services network,2,0,0,1,True,model,2
+row517,Q188273|Q681615,2,Q188273,Ubisoft,Q681615,syndicate,2,0,0,1,True,model,2
+row519,Q188273|Q18534571,2,Q188273,Ubisoft,Q18534571,medical research center,2,0,0,1,True,model,2
+row521,Q188273|Q7157353,2,Q188273,Ubisoft,Q7157353,peace commission,2,0,0,1,True,model,2
+row522,Q188273|Q47533065,2,Q188273,Ubisoft,Q47533065,disability organization,2,0,0,1,True,model,2
+row527,Q188273|Q1032372,2,Q188273,Ubisoft,Q1032372,hackerspace,2,0,0,1,True,model,2
+row528,Q188273|Q4810155,2,Q188273,Ubisoft,Q4810155,Association with lucrative purpose,2,0,0,1,True,model,2
+row529,Q188273|Q3184737,2,Q188273,Ubisoft,Q3184737,cathedral chapter,2,0,0,1,True,model,2
+row530,Q188273|Q3480110,2,Q188273,Ubisoft,Q3480110,Service d'inspection,2,0,0,1,True,model,2
+row531,Q188273|Q1502514,2,Q188273,Ubisoft,Q1502514,cooperative movement,2,0,0,1,True,model,2
+row532,Q188273|Q3029462,2,Q188273,Ubisoft,Q3029462,specialized directorates of fiscal control,2,0,0,1,True,model,2
+row534,Q188273|Q6515414,2,Q188273,Ubisoft,Q6515414,student welfare organisation,2,0,0,1,True,model,2
+row535,Q188273|Q16985923,2,Q188273,Ubisoft,Q16985923,Independent Monitoring Board,2,0,0,1,True,model,2
+row537,Q188273|Q2069741,2,Q188273,Ubisoft,Q2069741,Matha,2,0,0,1,True,model,2
+row538,Q188273|Q5774403,2,Q188273,Ubisoft,Q5774403,historical society,2,0,0,1,True,model,2
+row541,Q188273|Q33114024,2,Q188273,Ubisoft,Q33114024,exile organization,2,0,0,1,True,model,2
+row543,Q188273|Q996839,2,Q188273,Ubisoft,Q996839,fraternal organization,2,0,0,1,True,model,2
+row546,Q188273|Q2801262,2,Q188273,Ubisoft,Q2801262,hacker group,2,0,0,1,True,model,2
+row548,Q188273|Q877724,2,Q188273,Ubisoft,Q877724,Seniorat,2,0,0,1,True,model,2
+row550,Q188273|Q3023650,2,Q188273,Ubisoft,Q3023650,social rental office,2,0,0,1,True,model,2
+row552,Q37501|Q2143661,3,Q37501,eyeglasses,Q2143661,corrective lens,1,1,1,1,True,model,1
+row553,Q37501|Q5096292,3,Q37501,eyeglasses,Q5096292,Chicken eyeglasses,1,0,1,0,True,model,1
+row554,Q37501|Q15978715,3,Q37501,eyeglasses,Q15978715,smartglasses,1,1,1,1,True,model,1
+row555,Q37501|Q1065579,3,Q37501,eyeglasses,Q1065579,costume accessory,1,1,1,1,True,model,1
+row556,Q37501|Q2332595,3,Q37501,eyeglasses,Q2332595,cataract glasses,1,1,1,1,True,model,1
+row557,Q37501|Q575092,3,Q37501,eyeglasses,Q575092,Google Glass,2,1,1,1,True,model,2
+row558,Q37501|Q23797,3,Q37501,eyeglasses,Q23797,contact lens,2,0,1,0,True,model,2
+row559,Q37501|Q12721,3,Q37501,eyeglasses,Q12721,monocle,2,1,1,1,True,model,2
+row560,Q37501|Q244570,3,Q37501,eyeglasses,Q244570,pince-nez,2,1,1,1,True,model,2
+row561,Q1431486|Q6881511,1,Q1431486,Orange,Q6881511,enterprise,1,1,1,1,True,model,1
+row562,Q1431486|Q1941618,1,Q1431486,Orange,Q1941618,mobile network operator,1,1,1,1,True,model,1
+row563,Q1431486|Q431289,1,Q1431486,Orange,Q431289,brand,1,1,1,1,True,model,1
+row564,Q1431486|Q4830453,1,Q1431486,Orange,Q4830453,business,1,1,1,1,True,model,1
+row565,Q1431486|Q1266169,1,Q1431486,Orange,Q1266169,telephone company,1,1,1,1,True,model,1
+row566,Q1431486|Q891723,1,Q1431486,Orange,Q891723,public company,1,1,1,1,True,model,1
+row567,Q1431486|Q11371,1,Q1431486,Orange,Q11371,Internet service provider,1,1,1,1,True,model,1
+row568,Q1431486|Q6887204,1,Q1431486,Orange,Q6887204,mobile phone operator,2,1,0,0,True,model,2
+row569,Q1431486|Q2585571,1,Q1431486,Orange,Q2585571,wireless Internet service provider,2,1,0,0,True,model,2
+row570,Q16820462|Q7058673,4,Q16820462,Borderlands,Q7058673,video game series,1,1,1,1,True,model,1
+row571,Q1273376|Q844526,1,Q1273376,E.Leclerc,Q844526,Group purchasing organization,1,1,1,1,True,model,1
+row572,Q1273376|Q6881511,1,Q1273376,E.Leclerc,Q6881511,enterprise,1,1,1,1,True,model,1
+row573,Q1273376|Q43229,1,Q1273376,E.Leclerc,Q43229,organization,1,1,1,1,True,model,1
+row574,Q1273376|Q4830453,1,Q1273376,E.Leclerc,Q4830453,business,1,1,1,1,True,model,1
+row575,Q1273376|Q1936090,1,Q1273376,E.Leclerc,Q1936090,Parlements,2,0,0,1,True,model,2
+row577,Q1273376|Q562166,1,Q1273376,E.Leclerc,Q562166,housing cooperative,2,0,0,1,True,model,2
+row578,Q1273376|Q2111762,1,Q1273376,E.Leclerc,Q2111762,machine shop,2,0,0,1,True,model,2
+row579,Q1273376|Q786820,1,Q1273376,E.Leclerc,Q786820,automobile manufacturer,2,0,0,1,True,model,2
+row580,Q1273376|Q388570,1,Q1273376,E.Leclerc,Q388570,film laboratory,2,0,0,1,True,model,2
+row581,Q1273376|Q12309784,1,Q1273376,E.Leclerc,Q12309784,Elklub,2,0,0,1,True,model,2
+row582,Q1273376|Q814610,1,Q1273376,E.Leclerc,Q814610,emergency service,2,0,0,1,True,model,2
+row583,Q1273376|Q6819536,1,Q1273376,E.Leclerc,Q6819536,merit shop,2,0,0,1,True,model,2
+row584,Q1273376|Q8772125,1,Q1273376,E.Leclerc,Q8772125,Editorial Anagrama,2,0,0,1,True,model,2
+row586,Q38076|Q6881511,2,Q38076,McDonald’s,Q6881511,enterprise,1,1,1,1,True,model,1
+row587,Q38076|Q4830453,2,Q38076,McDonald’s,Q4830453,business,1,1,1,1,True,model,1
+row588,Q38076|Q891723,2,Q38076,McDonald’s,Q891723,public company,1,1,1,1,True,model,1
+row589,Q38076|Q167270,2,Q38076,McDonald’s,Q167270,trademark,1,1,1,1,True,model,1
+row590,Q38076|Q18509232,2,Q38076,McDonald’s,Q18509232,fast food restaurant chain,1,1,1,1,True,model,1
+row593,Q38076|Q14942280,2,Q38076,McDonald’s,Q14942280,petrochemical company,2,0,0,1,True,model,2
+row594,Q38076|Q1195245,2,Q38076,McDonald’s,Q1195245,beauty salon,2,0,0,1,True,model,2
+row595,Q38076|Q1132207,2,Q38076,McDonald’s,Q1132207,business incubator,2,0,0,1,True,model,2
+row597,Q38076|Q12817454,2,Q38076,McDonald’s,Q12817454,agricultural firm,2,0,0,1,True,model,2
+row598,Q38076|Q19509097,2,Q38076,McDonald’s,Q19509097,cigarette brand,2,0,0,1,True,model,2
+row599,Q38076|Q55635949,2,Q38076,McDonald’s,Q55635949,tobacco factory,2,0,0,1,True,model,2
+row600,Q38076|Q30765558,2,Q38076,McDonald’s,Q30765558,cement company,2,0,0,1,True,model,2
+row601,Q38076|Q11032,2,Q38076,McDonald’s,Q11032,newspaper,2,0,0,1,True,model,2
+row602,Q38076|Q161726,2,Q38076,McDonald’s,Q161726,multinational corporation,2,1,0,0,True,model,2
+row604,Q38076|Q2534781,2,Q38076,McDonald’s,Q2534781,event management company,2,0,0,1,True,model,2
+row606,Q38076|Q967140,2,Q38076,McDonald’s,Q967140,media agency,2,0,0,1,True,model,2
+row608,Q38076|Q3661311,2,Q38076,McDonald’s,Q3661311,fashion house,2,0,0,1,True,model,2
+row609,Q38076|Q133744,2,Q38076,McDonald’s,Q133744,tour operator,2,0,0,1,True,model,2
+row611,Q38076|Q10691563,2,Q38076,McDonald’s,Q10691563,taxicab company,2,0,0,1,True,model,2
+row612,Q38076|Q1369723,2,Q38076,McDonald’s,Q1369723,Web Agency,2,0,0,1,True,model,2
+row613,Q38076|Q25112142,2,Q38076,McDonald’s,Q25112142,dental service organization,2,0,0,1,True,model,2
+row614,Q38076|Q1058914,2,Q38076,McDonald’s,Q1058914,software company,2,0,0,1,True,model,2
+row616,Q38076|Q770881,2,Q38076,McDonald’s,Q770881,online casino,2,0,0,1,True,model,2
+row617,Q38076|Q786820,2,Q38076,McDonald’s,Q786820,automobile manufacturer,2,0,0,1,True,model,2
+row618,Q38076|Q27038993,2,Q38076,McDonald’s,Q27038993,food establishment,2,1,0,0,True,model,2
+row619,Q38076|Q1331793,2,Q38076,McDonald’s,Q1331793,media company,2,0,0,1,True,model,2
+row620,Q38076|Q1341478,2,Q38076,McDonald’s,Q1341478,energy company,2,0,0,1,True,model,2
+row621,Q38076|Q7246213,2,Q38076,McDonald’s,Q7246213,private intelligence agency,2,0,0,1,True,model,2
+row622,Q38076|Q3487908,2,Q38076,McDonald’s,Q3487908,venture capital firm,2,0,0,1,True,model,2
+row623,Q38076|Q2085381,2,Q38076,McDonald’s,Q2085381,publisher,2,0,0,1,True,model,2
+row624,Q38076|Q20015305,2,Q38076,McDonald’s,Q20015305,large business,2,1,0,0,True,model,2
+row626,Q38076|Q19644607,2,Q38076,McDonald’s,Q19644607,pharmaceutical company,2,0,0,1,True,model,2
+row628,Q38076|Q25461160,2,Q38076,McDonald’s,Q25461160,syndicate,2,0,0,1,True,model,2
+row629,Q38076|Q1529128,2,Q38076,McDonald’s,Q1529128,postal service,2,0,0,1,True,model,2
+row630,Q38076|Q2914704,2,Q38076,McDonald’s,Q2914704,advertising network,2,0,0,1,True,model,2
+row632,Q38076|Q476118,2,Q38076,McDonald’s,Q476118,reinsurance,2,0,0,1,True,model,2
+row633,Q38076|Q14635346,2,Q38076,McDonald’s,Q14635346,multi-channel network,2,0,0,1,True,model,2
+row635,Q38076|Q4387609,2,Q38076,McDonald’s,Q4387609,architectural firm,2,0,0,1,True,model,2
+row636,Q38076|Q1756711,2,Q38076,McDonald’s,Q1756711,video rental shop,2,0,0,1,True,model,2
+row637,Q38076|Q1520069,2,Q38076,McDonald’s,Q1520069,bottling company,2,0,0,1,True,model,2
+row638,Q38076|Q2519914,2,Q38076,McDonald’s,Q2519914,brand name,2,1,0,0,True,model,2
+row640,Q38076|Q20488450,2,Q38076,McDonald’s,Q20488450,mobile phone series,2,0,0,1,True,model,2
+row641,Q38076|Q5346803,2,Q38076,McDonald’s,Q5346803,social business,2,0,0,1,True,model,2
+row642,Q38076|Q56876011,2,Q38076,McDonald’s,Q56876011,private corporation,2,1,0,0,True,model,2
+row643,Q38076|Q1200676,2,Q38076,McDonald’s,Q1200676,design agency,2,0,0,1,True,model,2
+row644,Q38076|Q18388277,2,Q38076,McDonald’s,Q18388277,technology company,2,0,0,1,True,model,2
+row645,Q38076|Q23670565,2,Q38076,McDonald’s,Q23670565,professional services firm,2,0,0,1,True,model,2
+row646,Q38076|Q811930,2,Q38076,McDonald’s,Q811930,construction business,2,0,0,1,True,model,2
+row647,Q38076|Q15634581,2,Q38076,McDonald’s,Q15634581,design company,2,0,0,1,True,model,2
+row649,Q38076|Q16274795,2,Q38076,McDonald’s,Q16274795,shipbuilding company,2,0,0,1,True,model,2
+row650,Q38076|Q1917775,2,Q38076,McDonald’s,Q1917775,music publishing company,2,0,0,1,True,model,2
+row651,Q38076|Q11294827,2,Q38076,McDonald’s,Q11294827,camera manufacturer,2,0,0,1,True,model,2
+row652,Q38076|Q748645,2,Q38076,McDonald’s,Q748645,shipping agent,2,0,0,1,True,model,2
+row653,Q38076|Q5465569,2,Q38076,McDonald’s,Q5465569,Foodservice distributor,2,1,0,0,True,model,2
+row654,Q38076|Q765517,2,Q38076,McDonald’s,Q765517,credit rating agency,2,0,0,1,True,model,2
+row655,Q38076|Q2401749,2,Q38076,McDonald’s,Q2401749,telecommunication company,2,0,0,1,True,model,2
+row656,Q38076|Q5384579,2,Q38076,McDonald’s,Q5384579,Equipment rental,2,0,0,1,True,model,2
+row657,Q38076|Q2961813,2,Q38076,McDonald’s,Q2961813,local TV channel,2,0,0,1,True,model,2
+row659,Q38076|Q2442401,2,Q38076,McDonald’s,Q2442401,record company,2,0,0,1,True,model,2
+row660,Q38076|Q3307920,2,Q38076,McDonald’s,Q3307920,console manufacturer,2,0,0,1,True,model,2
+row661,Q38076|Q3117865,2,Q38076,McDonald’s,Q3117865,hotel group,2,0,0,1,True,model,2
+row662,Q38076|Q3842318,2,Q38076,McDonald’s,Q3842318,Made in Italy,2,0,0,1,True,model,2
+row663,Q38076|Q3063988,2,Q38076,McDonald’s,Q3063988,Made in France,2,0,0,1,True,model,2
+row664,Q38076|Q11885129,2,Q38076,McDonald’s,Q11885129,artist agency,2,0,0,1,True,model,2
+row666,Q38076|Q4116756,2,Q38076,McDonald’s,Q4116756,Tourism in Saudi Arabia,2,0,0,1,True,model,2
+row667,Q38076|Q1466031,2,Q38076,McDonald’s,Q1466031,funeral home,2,0,0,1,True,model,2
+row668,Q38076|Q30899001,2,Q38076,McDonald’s,Q30899001,software distributor,2,0,0,1,True,model,2
+row669,Q38076|Q1266169,2,Q38076,McDonald’s,Q1266169,telephone company,2,0,0,1,True,model,2
+row670,Q38076|Q771063,2,Q38076,McDonald’s,Q771063,dating agency,2,0,0,1,True,model,2
+row671,Q38076|Q946499,2,Q38076,McDonald’s,Q946499,cruise line,2,0,0,1,True,model,2
+row672,Q38076|Q721067,2,Q38076,McDonald’s,Q721067,professional wrestling promotion,2,0,0,1,True,model,2
+row673,Q38076|Q3393867,2,Q38076,McDonald’s,Q3393867,seafood market,2,0,0,1,True,model,2
+row674,Q38076|Q811404,2,Q38076,McDonald’s,Q811404,Bauhof,2,0,0,1,True,model,2
+row675,Q38076|Q1057214,2,Q38076,McDonald’s,Q1057214,private military company,2,0,0,1,True,model,2
+row676,Q38076|Q920671,2,Q38076,McDonald’s,Q920671,parapharmacy,2,0,0,1,True,model,2
+row677,Q38076|Q2538889,2,Q38076,McDonald’s,Q2538889,weapons manufacturing company,2,0,0,1,True,model,2
+row678,Q38076|Q45069022,2,Q38076,McDonald’s,Q45069022,skateboarding company,2,0,0,1,True,model,2
+row679,Q38076|Q30103124,2,Q38076,McDonald’s,Q30103124,hospital group,2,0,0,1,True,model,2
+row680,Q38076|Q936518,2,Q38076,McDonald’s,Q936518,aerospace manufacturer,2,0,0,1,True,model,2
+row681,Q38076|Q1318768,2,Q38076,McDonald’s,Q1318768,snack bar,2,1,0,0,True,model,2
+row682,Q38076|Q507443,2,Q38076,McDonald’s,Q507443,pharmaceutical industry,2,0,0,1,True,model,2
+row683,Q38076|Q22687,2,Q38076,McDonald’s,Q22687,bank,2,0,0,1,True,model,2
+row685,Q38076|Q1757263,2,Q38076,McDonald’s,Q1757263,moving company,2,0,0,1,True,model,2
+row686,Q38076|Q1116826,2,Q38076,McDonald’s,Q1116826,private security company,2,0,0,1,True,model,2
+row687,Q38076|Q3579160,2,Q38076,McDonald’s,Q3579160,newspaper publisher,2,0,0,1,True,model,2
+row688,Q38076|Q1817883,2,Q38076,McDonald’s,Q1817883,furniture manufacturer,2,0,0,1,True,model,2
+row689,Q38076|Q60770436,2,Q38076,McDonald’s,Q60770436,Deep tech,2,0,0,1,True,model,2
+row690,Q38076|Q8007048,2,Q38076,McDonald’s,Q8007048,nail salon,2,0,0,1,True,model,2
+row691,Q38076|Q5466628,2,Q38076,McDonald’s,Q5466628,for-profit corporation,2,1,0,0,True,model,2
+row692,Q38076|Q1137109,2,Q38076,McDonald’s,Q1137109,video game publisher,2,0,0,1,True,model,2
+row693,Q38076|Q2990216,2,Q38076,McDonald’s,Q2990216,mining company,2,0,1,0,True,model,2
+row694,Q38076|Q613142,2,Q38076,McDonald’s,Q613142,law firm,2,0,0,1,True,model,2
+row698,Q38076|Q18127,2,Q38076,McDonald’s,Q18127,record label,2,0,0,1,True,model,2
+row699,Q38076|Q29885033,2,Q38076,McDonald’s,Q29885033,cosmetics manufacturer,2,0,0,1,True,model,2
+row700,Q38076|Q7257732,2,Q38076,McDonald’s,Q7257732,public electricity supplier,2,0,0,1,True,model,2
+row701,Q38076|Q291240,2,Q38076,McDonald’s,Q291240,car rental company,2,0,0,1,True,model,2
+row702,Q38076|Q1406985,2,Q38076,McDonald’s,Q1406985,transmission system operator for gas,2,0,0,1,True,model,2
+row703,Q548319|Q13276,3,Q548319,kouign-amann,Q13276,cake,1,1,1,1,True,model,1
+row704,Q548319|Q7802,3,Q548319,kouign-amann,Q7802,bread,1,1,1,1,True,model,1
+row705,Q1224715|Q193424,1,Q1224715,dblp computer science bibliography,Q193424,web service,1,1,1,1,True,model,1
+row706,Q1224715|Q35127,1,Q1224715,dblp computer science bibliography,Q35127,website,1,1,1,1,True,model,1
+row707,Q1224715|Q43229,1,Q1224715,dblp computer science bibliography,Q43229,organization,1,1,1,1,True,model,1
+row708,Q1224715|Q1789476,1,Q1224715,dblp computer science bibliography,Q1789476,bibliographic database,1,1,1,1,True,model,1
+row709,Q1224715|Q19967801,1,Q1224715,dblp computer science bibliography,Q19967801,online service,2,1,0,0,True,model,2
+row710,Q1224715|Q27881073,1,Q1224715,dblp computer science bibliography,Q27881073,fake news website,2,0,1,0,True,model,2
+row711,Q1224715|Q1482252,1,Q1224715,dblp computer science bibliography,Q1482252,Semantic Web Service,2,0,1,0,True,model,2
+row712,Q1224715|Q25380332,1,Q1224715,dblp computer science bibliography,Q25380332,Kiev Archaeographic Commission,2,0,0,1,True,model,2
+row713,Q1224715|Q1149226,1,Q1224715,dblp computer science bibliography,Q1149226,web chat,2,0,1,0,True,model,2
+row714,Q1224715|Q20653619,1,Q1224715,dblp computer science bibliography,Q20653619,Zone to Defend,2,0,0,1,True,model,2
+row716,Q1224715|Q16519632,1,Q1224715,dblp computer science bibliography,Q16519632,scientific organization,2,1,0,0,True,model,2
+row717,Q8333|Q20858006,2,Q8333,Federal Bureau of Investigation,Q20858006,federal law enforcement agency of the United States,1,1,1,1,True,model,1
+row718,Q8333|Q20857065,2,Q8333,Federal Bureau of Investigation,Q20857065,United States federal agency,1,1,1,1,True,model,1
+row719,Q8333|Q47913,2,Q8333,Federal Bureau of Investigation,Q47913,intelligence agency,1,1,1,1,True,model,1
+row720,Q30299483|Q483242,4,Q30299483,Inria Nancy - Grand-Est research centre,Q483242,laboratory,1,1,1,1,True,model,1
+row721,Q30299483|Q13226383,4,Q30299483,Inria Nancy - Grand-Est research centre,Q13226383,facility,1,1,1,1,True,model,1
+row722,Q30299483|Q7315155,4,Q30299483,Inria Nancy - Grand-Est research centre,Q7315155,research center,1,1,1,1,True,model,1
+row724,Q30299483|Q47524436,4,Q30299483,Inria Nancy - Grand-Est research centre,Q47524436,swimming area,2,0,1,0,True,model,2
+row726,Q30299483|Q11560645,4,Q30299483,Inria Nancy - Grand-Est research centre,Q11560645,waste management facility,2,0,1,0,True,model,2
+row727,Q30299483|Q57504458,4,Q30299483,Inria Nancy - Grand-Est research centre,Q57504458,port infrastructure,2,0,1,0,True,model,2
+row728,Q30299483|Q47519912,4,Q30299483,Inria Nancy - Grand-Est research centre,Q47519912,bicycle repair station,2,0,1,0,True,model,2
+row729,Q30299483|Q57951700,4,Q30299483,Inria Nancy - Grand-Est research centre,Q57951700,research site,2,1,1,1,True,model,2
+row730,Q35996|Q431289,1,Q35996,Mazda,Q431289,brand,1,1,1,1,True,model,1
+row731,Q35996|Q891723,1,Q35996,Mazda,Q891723,public company,1,1,1,1,True,model,1
+row732,Q35996|Q10429667,1,Q35996,Mazda,Q10429667,car brand,1,1,1,1,True,model,1
+row733,Q35996|Q786820,1,Q35996,Mazda,Q786820,automobile manufacturer,1,1,1,1,True,model,1
+row734,Q168403|Q55789206,0,Q168403,myopia,Q55789206,syndromic myopia,1,1,1,1,True,model,1
+row735,Q168403|Q470427,0,Q168403,myopia,Q470427,refractive error,1,1,1,1,True,model,1
+row736,Q168403|Q737460,0,Q168403,myopia,Q737460,visual impairment,1,1,1,1,True,model,1
+row737,Q168403|Q18554189,0,Q168403,myopia,Q18554189,degenerative myopia,1,1,1,1,True,model,1
+row738,Q168403|Q2634782,0,Q168403,myopia,Q2634782,low vision,2,1,1,1,True,model,2
+row739,Q168403|Q177895,0,Q168403,myopia,Q177895,astigmatism,2,1,1,1,True,model,2
+row740,Q168403|Q2470609,0,Q168403,myopia,Q2470609,Wagner's disease,2,1,1,1,True,model,2
+row741,Q168403|Q18554630,0,Q168403,myopia,Q18554630,irregular astigmatism,3,1,1,1,True,model,3
+row742,Q7935239|Q3539533,1,Q7935239,Virtuoso Universal Server,Q3539533,triplestore,1,1,1,1,True,model,1
+row743,Q7935239|Q3932296,1,Q7935239,Virtuoso Universal Server,Q3932296,relational database management system,1,1,1,1,True,model,1
+row744,Q7935239|Q1130645,1,Q7935239,Virtuoso Universal Server,Q1130645,open-source software,1,1,1,1,True,model,1
+row745,Q7935239|Q215819,1,Q7935239,Virtuoso Universal Server,Q215819,Microsoft SQL Server,2,1,1,1,True,model,2
+row746,Q7935239|Q319417,1,Q7935239,Virtuoso Universal Server,Q319417,SQLite,2,1,1,1,True,model,2
+row747,Q3214499|Q3550864,1,Q3214499,LORIA,Q3550864,mixed research unit,1,1,1,1,True,model,1
+row748,Q392500|Q3244038,1,Q392500,Agence Nationale de la Recherche,Q3244038,public establishment of an administrative nature,1,1,1,1,True,model,1
+row749,Q392500|Q3591561,1,Q392500,Agence Nationale de la Recherche,Q3591561,public cultural cooperation establishment,2,0,0,1,True,model,2
+row750,Q392500|Q2826708,1,Q392500,Agence Nationale de la Recherche,Q2826708,Agence régionale de santé,2,0,1,0,True,model,2
+row752,Q392500|Q3006228,1,Q392500,Agence Nationale de la Recherche,Q3006228,crédit municipal,2,0,0,1,True,model,2
+row753,Q392500|Q423790,1,Q392500,Agence Nationale de la Recherche,Q423790,urban community,2,0,1,0,True,model,2
+row755,Q392500|Q423785,1,Q392500,Agence Nationale de la Recherche,Q423785,community of communes,2,0,1,0,True,model,2
+row756,Q392500|Q51704864,1,Q392500,Agence Nationale de la Recherche,Q51704864,national public establishment of an administrative nature,2,1,0,0,True,model,2
+row758,Q83363|Q3237209,2,Q83363,jeans,Q3237209,Levi's 501,1,1,1,1,True,model,1
+row759,Q83363|Q39908,2,Q83363,jeans,Q39908,trousers,1,1,1,1,True,model,1
+row760,Q83363|Q17119191,2,Q83363,jeans,Q17119191,ripped jeans,1,1,1,1,True,model,1
+row761,Q83363|Q3377759,2,Q83363,jeans,Q3377759,Wide leg jeans,1,1,1,1,True,model,1
+row762,Q83363|Q18088270,2,Q83363,jeans,Q18088270,dress trousers,2,1,1,1,True,model,2
+row763,Q83363|Q3530132,2,Q83363,jeans,Q3530132,tobi trousers,2,1,1,1,True,model,2
+row764,Q83363|Q1074407,2,Q83363,jeans,Q1074407,chinos,2,1,1,1,True,model,2
+row765,Q83363|Q618998,2,Q83363,jeans,Q618998,skinny jeans,2,1,1,1,True,model,2
+row766,Q83363|Q15133790,2,Q83363,jeans,Q15133790,culottes,2,0,1,0,True,model,2
+row767,Q83363|Q7133943,2,Q83363,jeans,Q7133943,parachute pants,2,0,1,0,True,model,2
+row768,Q6588|Q484170,0,Q6588,Périgueux,Q484170,commune of France,1,1,1,1,True,model,1
+row769,Q174320|Q2425052,1,Q174320,oscilloscope,Q2425052,electrical appliance,1,1,1,1,True,model,1
+row770,Q174320|Q2041172,1,Q174320,oscilloscope,Q2041172,measuring instrument,1,1,1,1,True,model,1
+row771,Q174320|Q831990,1,Q174320,oscilloscope,Q831990,electrical part,2,0,1,0,True,model,2
+row772,Q614362|Q3407440,1,Q614362,Orange Livebox,Q3407440,wireless router,1,1,1,1,True,model,1
+row773,Q614362|Q1155692,1,Q614362,Orange Livebox,Q1155692,DSL modem,1,1,1,1,True,model,1
+row774,Q614362|Q2424752,1,Q614362,Orange Livebox,Q2424752,product,1,1,1,1,True,model,1
+row775,Q614362|Q11228705,1,Q614362,Orange Livebox,Q11228705,L-03E,2,1,1,1,True,model,2
+row776,Q614362|Q2877513,1,Q614362,Orange Livebox,Q2877513,BT Home Hub,2,1,1,1,True,model,2
+row777,Q614362|Q11191179,1,Q614362,Orange Livebox,Q11191179,BF-01D,2,1,1,1,True,model,2
+row778,Q223127|Q6881511,3,Q223127,Logitech,Q6881511,enterprise,1,1,1,1,True,model,1
+row779,Q223127|Q4830453,3,Q223127,Logitech,Q4830453,business,1,1,1,1,True,model,1
+row780,Q223127|Q431289,3,Q223127,Logitech,Q431289,brand,1,1,1,1,True,model,1
+row781,Q223127|Q891723,3,Q223127,Logitech,Q891723,public company,1,1,1,1,True,model,1
+row782,Q223127|Q18388277,3,Q223127,Logitech,Q18388277,technology company,1,1,1,1,True,model,1
+row783,Q223127|Q1058914,3,Q223127,Logitech,Q1058914,software company,2,1,0,0,True,model,2
+row784,Q223127|Q13637823,3,Q223127,Logitech,Q13637823,Independent hardware vendor,2,1,1,1,True,model,2
+row785,Q28406404|Q28051323,1,Q28406404,Microsoft Teams,Q28051323,video-conferencing software,1,1,1,1,True,model,1
+row786,Q28406404|Q2462003,1,Q28406404,Microsoft Teams,Q2462003,instant messaging client,1,1,1,1,True,model,1
+row787,Q28406404|Q474157,1,Q28406404,Microsoft Teams,Q474157,collaborative software,1,1,1,1,True,model,1
+row788,Q28406404|Q19967801,1,Q28406404,Microsoft Teams,Q19967801,online service,1,1,1,1,True,model,1
+row789,Q28406404|Q734413,1,Q28406404,Microsoft Teams,Q734413,LAN messenger,2,0,1,0,True,model,2
+row790,Q28406404|Q7705753,1,Q28406404,Microsoft Teams,Q7705753,test automation management tool,2,0,1,0,True,model,2
+row791,Q28406404|Q15548100,1,Q28406404,Microsoft Teams,Q15548100,free instant messaging client,2,1,1,1,True,model,2
+row792,Q28406404|Q12313595,1,Q28406404,Microsoft Teams,Q12313595,collaborative real-time editor,2,1,1,1,True,model,2
+row793,Q28406404|Q28135300,1,Q28406404,Microsoft Teams,Q28135300,Workplace from Meta,2,0,1,0,True,model,2
+row794,Q207472|Q5741069,3,Q207472,Toto,Q5741069,rock group,1,1,1,1,True,model,1
+row795,Q864693|Q10990,3,Q864693,chicken meat,Q10990,meat,1,1,1,1,True,model,1
+row796,Q864693|Q56311389,3,Q864693,chicken meat,Q56311389,Poulet des Cévennes,1,1,1,1,True,model,1
+row797,Q864693|Q18087876,3,Q864693,chicken meat,Q18087876,poultry,1,1,1,1,True,model,1
+row798,Q864693|Q4200953,3,Q864693,chicken meat,Q4200953,turkey meat,2,1,1,1,True,model,2
+row799,Q864693|Q5752993,3,Q864693,chicken meat,Q5752993,donkey meat,2,0,1,0,True,model,2
+row800,Q864693|Q542042,3,Q864693,chicken meat,Q542042,duck meat,2,1,1,1,True,model,2
+row801,Q864693|Q14473756,3,Q864693,chicken meat,Q14473756,poussin,2,1,1,1,True,model,2
+row802,Q209330|Q2721136,0,Q209330,Instagram,Q2721136,image hosting service,1,1,1,1,True,model,1
+row803,Q209330|Q35127,0,Q209330,Instagram,Q35127,website,1,1,1,1,True,model,1
+row804,Q209330|Q620615,0,Q209330,Instagram,Q620615,mobile app,1,1,1,1,True,model,1
+row805,Q209330|Q3220391,0,Q209330,Instagram,Q3220391,social networking service,1,1,1,1,True,model,1
+row806,Q209330|Q559856,0,Q209330,Instagram,Q559856,online video platform,1,1,1,1,True,model,1
+row808,Q209330|Q60784896,0,Q209330,Instagram,Q60784896,Internet audio-visual programming service provider,2,0,0,1,True,model,2
+row809,Q1847641|Q15179,2,Q1847641,human facial hair,Q15179,moustache,1,1,1,1,True,model,1
+row810,Q1847641|Q1784017,2,Q1847641,human facial hair,Q1784017,secondary sex characteristic,1,1,1,1,True,model,1
+row811,Q1847641|Q43748,2,Q1847641,human facial hair,Q43748,eyebrow,1,0,1,0,True,model,1
+row812,Q1847641|Q18534278,2,Q1847641,human facial hair,Q18534278,facial feature,1,1,1,1,True,model,1
+row813,Q1847641|Q3326291,2,Q1847641,human facial hair,Q3326291,handlebar moustache,2,1,1,1,True,model,2
+row814,Q1847641|Q17141430,2,Q1847641,human facial hair,Q17141430,pencil moustache,2,1,1,1,True,model,2
+row815,Q1847641|Q7963760,2,Q1847641,human facial hair,Q7963760,walrus moustache,2,1,1,1,True,model,2
+row816,Q1847641|Q17013040,2,Q1847641,human facial hair,Q17013040,Facial symmetry,2,0,1,0,True,model,2
+row817,Q1847641|Q5906082,2,Q1847641,human facial hair,Q5906082,horseshoe moustache,2,1,1,1,True,model,2
+row819,Q1847641|Q5506845,2,Q1847641,human facial hair,Q5506845,Fu Manchu moustache,2,1,1,1,True,model,2
+row820,Q1847641|Q1068553,2,Q1847641,human facial hair,Q1068553,facial skeleton,2,0,1,0,True,model,2
+row821,Q1847641|Q5431487,2,Q1847641,human facial hair,Q5431487,fake moustache,2,1,1,1,True,model,2
+row822,Q1847641|Q5428568,2,Q1847641,human facial hair,Q5428568,facial resemblance,2,0,1,0,True,model,2
+row823,Q244030|Q7889,0,Q244030,Diablo III,Q7889,video game,1,1,1,1,True,model,1
+row824,Q244030|Q6895044,0,Q244030,Diablo III,Q6895044,multiplayer video game,2,1,0,0,True,model,2
+row825,Q244030|Q6561427,0,Q244030,Diablo III,Q6561427,console game,2,1,0,0,True,model,2
+row826,Q244030|Q54767,0,Q244030,Diablo III,Q54767,puzzle video game,2,0,0,1,True,model,2
+row827,Q244030|Q4485157,0,Q244030,Diablo III,Q4485157,PC game,2,1,0,0,True,model,2
+row829,Q201664|Q7538697,0,Q201664,bracelet,Q7538697,Slap bracelet,1,1,1,1,True,model,1
+row830,Q201664|Q7120070,0,Q201664,bracelet,Q7120070,POW bracelet,1,1,1,1,True,model,1
+row831,Q201664|Q4470686,0,Q201664,bracelet,Q4470686,decoration,1,1,1,1,True,model,1
+row832,Q201664|Q16839772,0,Q201664,bracelet,Q16839772,Gel bracelet,1,1,1,1,True,model,1
+row833,Q201664|Q488720,0,Q201664,bracelet,Q488720,charm bracelet,1,1,1,1,True,model,1
+row834,Q201664|Q1455890,0,Q201664,bracelet,Q1455890,friendship bracelet,1,1,1,1,True,model,1
+row835,Q201664|Q3575260,0,Q201664,bracelet,Q3575260,bijou,1,1,1,1,True,model,1
+row836,Q201664|Q46847,0,Q201664,bracelet,Q46847,ring,2,1,1,1,True,model,2
+row837,Q201664|Q2111434,0,Q201664,bracelet,Q2111434,pendant,2,1,1,1,True,model,2
+row838,Q201664|Q161439,0,Q201664,bracelet,Q161439,jewelry,2,1,1,1,True,model,2
+row839,Q201664|Q11796413,0,Q201664,bracelet,Q11796413,decoration,2,1,1,1,True,model,2
+row840,Q1200183|Q121359,2,Q1200183,Fiber to the home,Q121359,infrastructure,1,1,1,1,True,model,1
+row841,Q1200183|Q586034,2,Q1200183,Fiber to the home,Q586034,Fiber to the x,1,1,1,1,True,model,1
+row842,Q1200183|Q7257917,2,Q1200183,Fiber to the home,Q7257917,Public infrastructure,2,1,0,0,True,model,2
+row843,Q1200183|Q594593,2,Q1200183,Fiber to the home,Q594593,IT infrastructure,2,1,0,0,True,model,2
+row844,Q1200183|Q1438053,2,Q1200183,Fiber to the home,Q1438053,research infrastructure,2,0,0,1,True,model,2
+row845,Q1200183|Q1817119,2,Q1200183,Fiber to the home,Q1817119,ICT infrastructure,2,0,0,1,True,model,2
+row847,Q1200183|Q3456887,2,Q1200183,Fiber to the home,Q3456887,logistic network,2,0,0,1,True,model,2
+row848,Q1200183|Q15411548,2,Q1200183,Fiber to the home,Q15411548,computing infrastructure,2,0,0,1,True,model,2
+row849,Q1200183|Q1144084,2,Q1200183,Fiber to the home,Q1144084,utility pole,2,0,1,0,True,model,2
+row850,Q1200183|Q10677200,2,Q1200183,Fiber to the home,Q10677200,municipal broadband,2,0,0,1,True,model,2
+row851,Q23572|Q5398426,0,Q23572,Game of Thrones,Q5398426,television series,1,1,1,1,True,model,1
+row853,Q337535|Q58199,2,Q337535,Steam,Q58199,instant messaging,1,1,1,1,True,model,1
+row854,Q337535|Q192532,2,Q337535,Steam,Q192532,digital rights management,1,0,1,0,True,model,1
+row855,Q337535|Q1334294,2,Q337535,Steam,Q1334294,software repository,1,1,1,1,True,model,1
+row856,Q337535|Q3559933,2,Q337535,Steam,Q3559933,Live support software,2,0,1,0,True,model,2
+row857,Q337535|Q4110622,2,Q337535,Steam,Q4110622,videochat,2,0,1,0,True,model,2
+row858,Q337535|Q8048052,2,Q337535,Steam,Q8048052,Yamigo,2,0,1,0,True,model,2
+row859,Q9798|Q181247,3,Q9798,saxophone,Q181247,woodwind instrument,1,1,1,1,True,model,1
+row860,Q9798|Q55738874,3,Q9798,saxophone,Q55738874,single clarinets with conical bore,1,1,1,1,True,model,1
+row861,Q8548|Q8366,0,Q8548,Dijkstra's algorithm,Q8366,algorithm,1,1,1,1,True,model,1
+row862,Q8548|Q30503704,0,Q8548,Dijkstra's algorithm,Q30503704,graph algorithm,1,1,1,1,True,model,1
+row863,Q8548|Q504353,0,Q8548,Dijkstra's algorithm,Q504353,greedy algorithm,1,1,1,1,True,model,1
+row864,Q8548|Q21595855,0,Q8548,Dijkstra's algorithm,Q21595855,pathfinding algorithm,1,1,1,1,True,model,1
+row865,Q8548|Q179613,0,Q8548,Dijkstra's algorithm,Q179613,flooding algorithm,2,0,1,0,True,model,2
+row866,Q8548|Q11660,0,Q8548,Dijkstra's algorithm,Q11660,artificial intelligence,2,1,1,1,True,model,2
+row867,Q8548|Q4443425,0,Q8548,Dijkstra's algorithm,Q4443425,uninformed search algorithm,2,1,1,1,True,model,2
+row868,Q1146208|Q13582798,4,Q1146208,Institut National de Recherche en Informatique et en Automatique,Q13582798,Public Scientific and Technical Research Establishment,1,1,1,1,True,model,1
+row869,Q2|Q128207,4,Q2,Earth,Q128207,terrestrial planet,1,1,1,1,True,model,1
+row870,Q2|Q3504248,4,Q2,Earth,Q3504248,inner planet of the Solar System,1,1,1,1,True,model,1
+row871,Q2|Q82794,4,Q2,Earth,Q82794,geographic region,1,1,1,1,True,model,1
+row872,Q2|Q486972,4,Q2,Earth,Q486972,human settlement,2,1,1,1,True,model,2
+row873,Q2|Q198782,4,Q2,Earth,Q198782,tropical cyclone basin,2,0,1,0,True,model,2
+row874,Q2|Q10535394,4,Q2,Earth,Q10535394,informal region,2,0,1,0,True,model,2
+row875,Q2|Q205895,4,Q2,Earth,Q205895,landmass,2,1,1,1,True,model,2
+row876,Q2|Q1140140,4,Q2,Earth,Q1140140,mainland,2,0,1,0,True,model,2
+row878,Q2|Q2670101,4,Q2,Earth,Q2670101,Earth analog,2,1,1,1,True,model,2
+row879,Q2|Q327757,4,Q2,Earth,Q327757,super-Earth,2,1,1,1,True,model,2
+row880,Q2|Q399984,4,Q2,Earth,Q399984,hemisphere of the Earth,2,1,1,1,True,model,2
+row881,Q2|Q15129745,4,Q2,Earth,Q15129745,sub-Earth,2,1,1,1,True,model,2
+row882,Q2|Q1200957,4,Q2,Earth,Q1200957,tourist destination,2,0,1,0,True,model,2
+row883,Q2|Q7925010,4,Q2,Earth,Q7925010,vice-county,2,0,1,0,True,model,2
+row884,Q14922|Q1368898,4,Q14922,table football,Q1368898,game of skill,1,1,1,1,True,model,1
+row885,Q14922|Q1637219,4,Q14922,table football,Q1637219,speedcubing,2,0,1,0,True,model,2
+row886,Q14922|Q2904494,4,Q14922,table football,Q2904494,birinic,2,0,1,0,True,model,2
+row887,Q14922|Q21426954,4,Q14922,table football,Q21426954,bague en boghei,2,0,1,0,True,model,2
+row888,Q14922|Q1302771,4,Q14922,table football,Q1302771,Egg-and-spoon race,2,0,1,0,True,model,2
+row889,Q14922|Q1342518,4,Q14922,table football,Q1342518,Penny football,2,1,1,1,True,model,2
+row890,Q14922|Q21503645,4,Q14922,table football,Q21503645,lancer de sabot de Pont-Aven,2,0,1,0,True,model,2
+row891,Q14922|Q895060,4,Q14922,table football,Q895060,boules,2,0,1,0,True,model,2
+row892,Q95|Q891723,0,Q95,Google,Q891723,public company,1,1,1,1,True,model,1
+row893,Q95|Q18388277,0,Q95,Google,Q18388277,technology company,1,1,1,1,True,model,1
+row894,Q95|Q4830453,0,Q95,Google,Q4830453,business,1,1,1,1,True,model,1
+row895,Q95|Q1058914,0,Q95,Google,Q1058914,software company,2,1,1,1,True,model,2
+row896,Q95|Q13637823,0,Q95,Google,Q13637823,Independent hardware vendor,2,1,1,1,True,model,2
+row897,Q1636958|Q891723,4,Q1636958,Xiaomi,Q891723,public company,1,1,1,1,True,model,1
+row898,Q1636958|Q167037,4,Q1636958,Xiaomi,Q167037,corporation,1,1,1,1,True,model,1
+row899,Q1636958|Q4830453,4,Q1636958,Xiaomi,Q4830453,business,1,1,1,1,True,model,1
+row901,Q1636958|Q1057214,4,Q1636958,Xiaomi,Q1057214,private military company,2,0,0,1,True,model,2
+row902,Q1636958|Q8303885,4,Q1636958,Xiaomi,Q8303885,trust company,2,0,0,1,True,model,2
+row903,Q1636958|Q7311343,4,Q1636958,Xiaomi,Q7311343,religious corporation,2,0,1,0,True,model,2
+row904,Q1636958|Q1186164,4,Q1636958,Xiaomi,Q1186164,corporate spin-off,2,0,0,1,True,model,2
+row905,Q1636958|Q745829,4,Q1636958,Xiaomi,Q745829,Yagi-Uda antenna,2,0,0,1,True,model,2
+row908,Q1636958|Q161726,4,Q1636958,Xiaomi,Q161726,multinational corporation,2,1,0,0,True,model,2
+row909,Q1636958|Q27043907,4,Q1636958,Xiaomi,Q27043907,yoga studio,2,0,0,1,True,model,2
+row910,Q1636958|Q59545,4,Q1636958,Xiaomi,Q59545,labour hire,2,0,0,1,True,model,2
+row911,Q1636958|Q2401749,4,Q1636958,Xiaomi,Q2401749,telecommunication company,2,1,0,0,True,model,2
+row912,Q1636958|Q1116826,4,Q1636958,Xiaomi,Q1116826,private security company,2,0,0,1,True,model,2
+row913,Q1636958|Q3055260,4,Q1636958,Xiaomi,Q3055260,French company,2,0,0,1,True,model,2
+row914,Q1636958|Q41617857,4,Q1636958,Xiaomi,Q41617857,plug compatible manufacturer,2,0,0,1,True,model,2
+row918,Q1636958|Q216931,4,Q1636958,Xiaomi,Q216931,advertising agency,2,0,0,1,True,model,2
+row919,Q1636958|Q27038993,4,Q1636958,Xiaomi,Q27038993,food establishment,2,0,0,1,True,model,2
+row920,Q1636958|Q672070,4,Q1636958,Xiaomi,Q672070,photographic studio,2,0,0,1,True,model,2
+row921,Q1636958|Q30022,4,Q1636958,Xiaomi,Q30022,coffeehouse,2,0,0,1,True,model,2
+row922,Q1636958|Q6819536,4,Q1636958,Xiaomi,Q6819536,merit shop,2,0,0,1,True,model,2
+row924,Q1636958|Q5225895,4,Q1636958,Xiaomi,Q5225895,public limited company,2,0,1,0,True,model,2
+row925,Q1636958|Q2590801,4,Q1636958,Xiaomi,Q2590801,commercial cleaning,2,0,0,1,True,model,2
+row926,Q2905238|Q783794,1,Q2905238,BlaBlaCar,Q783794,company,1,1,1,1,True,model,1
+row927,Q2905238|Q3391957,1,Q2905238,BlaBlaCar,Q3391957,online community platform,1,1,1,1,True,model,1
+row928,Q38695|Q16920758,4,Q38695,cooking,Q16920758,food and drink preparation,1,1,1,1,True,model,1
+row929,Q38695|Q19862406,4,Q38695,cooking,Q19862406,business,1,1,1,1,True,model,1
+row930,Q38695|Q61788060,4,Q38695,cooking,Q61788060,human activity,1,1,1,1,True,model,1
+row931,Q38695|Q17082653,4,Q38695,cooking,Q17082653,candy making,2,1,1,1,True,model,2
+row932,Q1437394|Q185698,3,Q1437394,formal concept analysis,Q185698,methodology,1,1,1,1,True,model,1
+row933,Q1437394|Q2670999,3,Q1437394,formal concept analysis,Q2670999,investment strategy,2,0,1,0,True,model,2
+row934,Q1437394|Q1193625,3,Q1437394,formal concept analysis,Q1193625,social science methodology,2,0,1,0,True,model,2
+row935,Q1437394|Q1378470,3,Q1437394,formal concept analysis,Q1378470,software development methodology,2,0,1,0,True,model,2
+row936,Q1437394|Q179012,3,Q1437394,formal concept analysis,Q179012,project management,2,0,1,0,True,model,2
+row937,Q1437394|Q2292993,3,Q1437394,formal concept analysis,Q2292993,design method,2,0,1,0,True,model,2
+row938,Q1437394|Q21045430,3,Q1437394,formal concept analysis,Q21045430,inferring horizontal gene transfer,2,0,1,0,True,model,2
+row939,Q1437394|Q1196545,3,Q1437394,formal concept analysis,Q1196545,historical method,2,0,1,0,True,model,2
+row941,Q76592|Q2985062,2,Q76592,combinatorics,Q2985062,analytic combinatorics,1,1,1,1,True,model,1
+row942,Q76592|Q336787,2,Q76592,combinatorics,Q336787,enumerative combinatorics,1,1,1,1,True,model,1
+row943,Q76592|Q5535478,2,Q76592,combinatorics,Q5535478,geometric combinatorics,1,1,1,1,True,model,1
+row944,Q76592|Q6029708,2,Q76592,combinatorics,Q6029708,Infinitary combinatorics,1,1,1,1,True,model,1
+row945,Q76592|Q3532114,2,Q76592,combinatorics,Q3532114,combinatorial topology,1,1,1,1,True,model,1
+row946,Q76592|Q56313053,2,Q76592,combinatorics,Q56313053,Additive combinatorics,1,1,1,1,True,model,1
+row947,Q76592|Q1936384,2,Q76592,combinatorics,Q1936384,area of mathematics,1,1,1,1,True,model,1
+row948,Q76592|Q5422299,2,Q76592,combinatorics,Q5422299,extremal combinatorics,1,1,1,1,True,model,1
+row949,Q76592|Q1005603,2,Q76592,combinatorics,Q1005603,algebraic combinatorics,1,1,1,1,True,model,1
+row950,Q280413|Q13582798,2,Q280413,National Center for Scientific Research,Q13582798,Public Scientific and Technical Research Establishment,1,1,1,1,True,model,1
+row951,Q280413|Q31855,2,Q280413,National Center for Scientific Research,Q31855,research institute,1,1,1,1,True,model,1
+row952,Q280413|Q3726309,2,Q280413,National Center for Scientific Research,Q3726309,state research institution,1,1,1,1,True,model,1
+row953,Q280413|Q45400320,2,Q280413,National Center for Scientific Research,Q45400320,open-access publisher,1,1,1,1,True,model,1
+row954,Q280413|Q20820271,2,Q280413,National Center for Scientific Research,Q20820271,graduate school,2,0,1,0,True,model,2
+row955,Q17130715|Q620615,3,Q17130715,Slack,Q620615,mobile app,1,1,1,1,True,model,1
+row956,Q17130715|Q2462003,3,Q17130715,Slack,Q2462003,instant messaging client,1,1,1,1,True,model,1
+row957,Q17130715|Q166142,3,Q17130715,Slack,Q166142,application,1,1,1,1,True,model,1
+row958,Q17130715|Q43229,3,Q17130715,Slack,Q43229,organization,1,1,1,1,True,model,1
+row960,Q17130715|Q15548100,3,Q17130715,Slack,Q15548100,free instant messaging client,2,1,1,1,True,model,2
+row961,Q17130715|Q58542,3,Q17130715,Slack,Q58542,multi protocol instant messaging clients,2,1,1,1,True,model,2
+row963,Q17130715|Q10417670,3,Q17130715,Slack,Q10417670,IRC client,2,1,1,1,True,model,2
+row964,Q17130715|Q3023650,3,Q17130715,Slack,Q3023650,social rental office,2,0,0,1,True,model,2
+row967,Q17130715|Q1132944,3,Q17130715,Slack,Q1132944,Science shop,2,0,0,1,True,model,2
+row968,Q17130715|Q2401485,3,Q17130715,Slack,Q2401485,expedition,2,0,0,1,True,model,2
+row969,Q17130715|Q15505266,3,Q17130715,Slack,Q15505266,Login manager,2,0,1,0,True,model,2
+row970,Q777|Q6368,3,Q777,Google Chrome,Q6368,web browser,1,1,1,1,True,model,1
+row971,Q777|Q845620,3,Q777,Google Chrome,Q845620,mobile browser,1,1,1,1,True,model,1
+row972,Q777|Q266990,3,Q777,Google Chrome,Q266990,Netscape,2,1,1,1,True,model,2
+row973,Q777|Q18348827,3,Q777,Google Chrome,Q18348827,headless browser,2,0,1,0,True,model,2
+row974,Q777|Q18156733,3,Q777,Google Chrome,Q18156733,surf,2,1,1,1,True,model,2
+row975,Q777|Q15477174,3,Q777,Google Chrome,Q15477174,web browser based on Firefox,2,1,1,1,True,model,2
+row976,Q777|Q7708379,3,Q777,Google Chrome,Q7708379,text-based web browser,2,1,1,1,True,model,2
+row977,Q777|Q13733263,3,Q777,Google Chrome,Q13733263,Internet Explorer 11,2,1,1,1,True,model,2
+row978,Q777|Q900604,3,Q777,Google Chrome,Q900604,addres,2,0,1,0,True,model,2
+row979,Q180704|Q15632617,1,Q180704,Iron Man,Q15632617,fictional human,1,1,1,1,True,model,1
+row980,Q180704|Q15773347,1,Q180704,Iron Man,Q15773347,film character,1,1,1,1,True,model,1
+row981,Q180704|Q1114461,1,Q180704,Iron Man,Q1114461,comics character,1,1,1,1,True,model,1

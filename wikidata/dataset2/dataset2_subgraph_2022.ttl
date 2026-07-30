@@ -1,0 +1,1953 @@
+@prefix wd:   <http://www.wikidata.org/entity/> .
+@prefix wdt:  <http://www.wikidata.org/prop/direct/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# Wikidata state as of: 2022-06-01T00:00:00Z
+# Source: Wikidata Revision History API
+
+# ── Subgraph edges  (970 triples) ────────────────────────────────────────────
+
+wd:Q1005603 wdt:P279 wd:Q76592 .
+wd:Q100975433 wdt:P279 wd:Q43229 .
+wd:Q101049500 wdt:P279 wd:Q4830453 .
+wd:Q101067829 wdt:P279 wd:Q43229 .
+wd:Q101191533 wdt:P279 wd:Q35127 .
+wd:Q1014883 wdt:P279 wd:Q477248 .
+wd:Q101900049 wdt:P279 wd:Q7889 .
+wd:Q102167691 wdt:P279 wd:Q4830453 .
+wd:Q1032372 wdt:P279 wd:Q43229 .
+wd:Q10334075 wdt:P279 wd:Q467707 .
+wd:Q104117291 wdt:P279 wd:Q3502482 .
+wd:Q10417670 wdt:P279 wd:Q2462003 .
+wd:Q104193250 wdt:P279 wd:Q28598684 .
+wd:Q104415895 wdt:P279 wd:Q28598684 .
+wd:Q104807662 wdt:P279 wd:Q4830453 .
+wd:Q1049958 wdt:P279 wd:Q13402959 .
+wd:Q1049958 wdt:P279 wd:Q483373 .
+wd:Q1050367 wdt:P279 wd:Q80131 .
+wd:Q105103015 wdt:P279 wd:Q40056 .
+wd:Q10526896 wdt:P279 wd:Q2312410 .
+wd:Q10535394 wdt:P279 wd:Q82794 .
+wd:Q105547053 wdt:P279 wd:Q4830453 .
+wd:Q105674 wdt:P279 wd:Q349 .
+wd:Q105674 wdt:P31 wd:Q2312410 .
+wd:Q105675701 wdt:P279 wd:Q477248 .
+wd:Q1057214 wdt:P279 wd:Q4830453 .
+wd:Q1058914 wdt:P279 wd:Q18388277 .
+wd:Q1058914 wdt:P279 wd:Q4830453 .
+wd:Q1060165 wdt:P31 wd:Q210167 .
+wd:Q1063560 wdt:P279 wd:Q195 .
+wd:Q106471136 wdt:P279 wd:Q620615 .
+wd:Q106509528 wdt:P279 wd:Q43229 .
+wd:Q106765575 wdt:P279 wd:Q43229 .
+wd:Q10677200 wdt:P279 wd:Q121359 .
+wd:Q1068553 wdt:P279 wd:Q18534278 .
+wd:Q1068690 wdt:P279 wd:Q222046 .
+wd:Q10691563 wdt:P279 wd:Q4830453 .
+wd:Q107096063 wdt:P279 wd:Q1440476 .
+wd:Q107171122 wdt:P279 wd:Q167270 .
+wd:Q1073041 wdt:P279 wd:Q477248 .
+wd:Q107316103 wdt:P279 wd:Q35127 .
+wd:Q1073718 wdt:P279 wd:Q80131 .
+wd:Q1074407 wdt:P279 wd:Q39908 .
+wd:Q108366200 wdt:P279 wd:Q11862829 .
+wd:Q108792154 wdt:P279 wd:Q121359 .
+wd:Q108873226 wdt:P279 wd:Q43229 .
+wd:Q108915260 wdt:P279 wd:Q4830453 .
+wd:Q109729298 wdt:P279 wd:Q4830453 .
+wd:Q10987 wdt:P279 wd:Q5159627 .
+wd:Q109946538 wdt:P279 wd:Q620615 .
+wd:Q11015 wdt:P279 wd:Q3341285 .
+wd:Q11020 wdt:P279 wd:Q3341285 .
+wd:Q11020 wdt:P31 wd:Q2312410 .
+wd:Q11032 wdt:P279 wd:Q4830453 .
+wd:Q110484183 wdt:P279 wd:Q4830453 .
+wd:Q1104949 wdt:P279 wd:Q134041 .
+wd:Q110643339 wdt:P279 wd:Q559856 .
+wd:Q11108449 wdt:P279 wd:Q50430027 .
+wd:Q1116826 wdt:P279 wd:Q4830453 .
+wd:Q11191179 wdt:P279 wd:Q3407440 .
+wd:Q11228705 wdt:P279 wd:Q3407440 .
+wd:Q11250 wdt:P279 wd:Q381 .
+wd:Q11271324 wdt:P279 wd:Q1522115 .
+wd:Q11294827 wdt:P279 wd:Q4830453 .
+wd:Q1132207 wdt:P279 wd:Q4830453 .
+wd:Q11322916 wdt:P279 wd:Q180204 .
+wd:Q1132944 wdt:P279 wd:Q43229 .
+wd:Q11334882 wdt:P279 wd:Q15632617 .
+wd:Q1137109 wdt:P279 wd:Q4830453 .
+wd:Q1139866 wdt:P31 wd:Q7889 .
+wd:Q1140140 wdt:P279 wd:Q82794 .
+wd:Q1144084 wdt:P279 wd:Q121359 .
+wd:Q1146208 wdt:P31 wd:Q13582798 .
+wd:Q1147112 wdt:P279 wd:Q222046 .
+wd:Q1149226 wdt:P279 wd:Q193424 .
+wd:Q1149226 wdt:P279 wd:Q287198 .
+wd:Q11507286 wdt:P279 wd:Q43229 .
+wd:Q1152135 wdt:P279 wd:Q2539 .
+wd:Q1152227 wdt:P279 wd:Q222046 .
+wd:Q1152227 wdt:P31 wd:Q28598684 .
+wd:Q1153025 wdt:P279 wd:Q847 .
+wd:Q11560645 wdt:P279 wd:Q13226383 .
+wd:Q11660 wdt:P279 wd:Q8366 .
+wd:Q116634 wdt:P279 wd:Q7889 .
+wd:Q11796413 wdt:P279 wd:Q4470686 .
+wd:Q118398 wdt:P31 wd:Q35127 .
+wd:Q118398 wdt:P31 wd:Q45787211 .
+wd:Q118398 wdt:P31 wd:Q5281480 .
+wd:Q118398 wdt:P31 wd:Q52990223 .
+wd:Q118398 wdt:P31 wd:Q7094076 .
+wd:Q11853682 wdt:P279 wd:Q1293664 .
+wd:Q1186164 wdt:P279 wd:Q4830453 .
+wd:Q11885129 wdt:P279 wd:Q4830453 .
+wd:Q1193625 wdt:P279 wd:Q185698 .
+wd:Q1193702 wdt:P279 wd:Q43229 .
+wd:Q1195245 wdt:P279 wd:Q4830453 .
+wd:Q1196545 wdt:P279 wd:Q185698 .
+wd:Q1199743 wdt:P31 wd:Q2321565 .
+wd:Q1199743 wdt:P31 wd:Q2835765 .
+wd:Q1200183 wdt:P279 wd:Q121359 .
+wd:Q1200183 wdt:P279 wd:Q586034 .
+wd:Q1200676 wdt:P279 wd:Q4830453 .
+wd:Q1200957 wdt:P279 wd:Q82794 .
+wd:Q12014035 wdt:P279 wd:Q184872 .
+wd:Q12014035 wdt:P279 wd:Q2357239 .
+wd:Q12014035 wdt:P279 wd:Q349 .
+wd:Q12014035 wdt:P279 wd:Q61788060 .
+wd:Q12014035 wdt:P279 wd:Q6537379 .
+wd:Q12014035 wdt:P279 wd:Q968907 .
+wd:Q12014035 wdt:P31 wd:Q1914636 .
+wd:Q12014207 wdt:P279 wd:Q349 .
+wd:Q1208658 wdt:P279 wd:Q1936384 .
+wd:Q1210082 wdt:P279 wd:Q755673 .
+wd:Q1210082 wdt:P279 wd:Q907955 .
+wd:Q12130 wdt:P31 wd:Q3502482 .
+wd:Q12130 wdt:P31 wd:Q36784 .
+wd:Q121416 wdt:P279 wd:Q1936384 .
+wd:Q12192991 wdt:P279 wd:Q477248 .
+wd:Q12226408 wdt:P279 wd:Q381 .
+wd:Q1224715 wdt:P31 wd:Q1789476 .
+wd:Q1224715 wdt:P31 wd:Q193424 .
+wd:Q1224715 wdt:P31 wd:Q35127 .
+wd:Q1224715 wdt:P31 wd:Q43229 .
+wd:Q12309784 wdt:P279 wd:Q844526 .
+wd:Q12311058 wdt:P279 wd:Q147538 .
+wd:Q12313595 wdt:P279 wd:Q474157 .
+wd:Q1266169 wdt:P279 wd:Q4830453 .
+wd:Q12721 wdt:P279 wd:Q1065579 .
+wd:Q12721 wdt:P279 wd:Q2143661 .
+wd:Q12725 wdt:P279 wd:Q11379 .
+wd:Q12725 wdt:P279 wd:Q1522115 .
+wd:Q12725 wdt:P31 wd:Q1293220 .
+wd:Q1273376 wdt:P31 wd:Q43229 .
+wd:Q1273376 wdt:P31 wd:Q4830453 .
+wd:Q1273376 wdt:P31 wd:Q6881511 .
+wd:Q1273376 wdt:P31 wd:Q844526 .
+wd:Q12817454 wdt:P279 wd:Q4830453 .
+wd:Q129337 wdt:P279 wd:Q13402959 .
+wd:Q129337 wdt:P279 wd:Q483373 .
+wd:Q129337 wdt:P279 wd:Q91908084 .
+wd:Q129337 wdt:P31 wd:Q167270 .
+wd:Q129337 wdt:P31 wd:Q16858238 .
+wd:Q129337 wdt:P31 wd:Q811704 .
+wd:Q1294318 wdt:P279 wd:Q35127 .
+wd:Q1302771 wdt:P279 wd:Q1368898 .
+wd:Q131476 wdt:P279 wd:Q17737 .
+wd:Q131476 wdt:P31 wd:Q11862829 .
+wd:Q131476 wdt:P31 wd:Q1936384 .
+wd:Q131476 wdt:P31 wd:Q4671286 .
+wd:Q1317202 wdt:P279 wd:Q1936384 .
+wd:Q1318768 wdt:P279 wd:Q4830453 .
+wd:Q1324916 wdt:P279 wd:Q3341285 .
+wd:Q13261 wdt:P279 wd:Q1365365 .
+wd:Q13266 wdt:P279 wd:Q477248 .
+wd:Q1331793 wdt:P279 wd:Q4830453 .
+wd:Q133215 wdt:P279 wd:Q655686 .
+wd:Q133744 wdt:P279 wd:Q4830453 .
+wd:Q1341478 wdt:P279 wd:Q4830453 .
+wd:Q1342518 wdt:P279 wd:Q1368898 .
+wd:Q1350108 wdt:P279 wd:Q35127 .
+wd:Q13586511 wdt:P279 wd:Q80131 .
+wd:Q13637823 wdt:P279 wd:Q18388277 .
+wd:Q13646 wdt:P31 wd:Q2324835 .
+wd:Q13646 wdt:P31 wd:Q249556 .
+wd:Q1369723 wdt:P279 wd:Q4830453 .
+wd:Q13733263 wdt:P279 wd:Q6368 .
+wd:Q1378470 wdt:P279 wd:Q185698 .
+wd:Q1406985 wdt:P279 wd:Q4830453 .
+wd:Q14085739 wdt:P279 wd:Q61065 .
+wd:Q1431486 wdt:P31 wd:Q11371 .
+wd:Q1431486 wdt:P31 wd:Q1266169 .
+wd:Q1431486 wdt:P31 wd:Q1941618 .
+wd:Q1431486 wdt:P31 wd:Q431289 .
+wd:Q1431486 wdt:P31 wd:Q4830453 .
+wd:Q1431486 wdt:P31 wd:Q6881511 .
+wd:Q1431486 wdt:P31 wd:Q891723 .
+wd:Q1434370 wdt:P279 wd:Q159992 .
+wd:Q1436061 wdt:P279 wd:Q43229 .
+wd:Q1437388 wdt:P279 wd:Q324254 .
+wd:Q1437394 wdt:P31 wd:Q185698 .
+wd:Q1438053 wdt:P279 wd:Q121359 .
+wd:Q14411698 wdt:P279 wd:Q7889 .
+wd:Q14473756 wdt:P279 wd:Q18087876 .
+wd:Q14489129 wdt:P279 wd:Q2835765 .
+wd:Q1455890 wdt:P279 wd:Q201664 .
+wd:Q1463415 wdt:P279 wd:Q196538 .
+wd:Q14635346 wdt:P279 wd:Q4830453 .
+wd:Q1466031 wdt:P279 wd:Q4830453 .
+wd:Q1474517 wdt:P31 wd:Q13582798 .
+wd:Q1474517 wdt:P31 wd:Q31855 .
+wd:Q1476018 wdt:P279 wd:Q2835765 .
+wd:Q1482252 wdt:P279 wd:Q193424 .
+wd:Q1484375 wdt:P31 wd:Q13741 .
+wd:Q1484375 wdt:P31 wd:Q341 .
+wd:Q1484375 wdt:P31 wd:Q467707 .
+wd:Q14922 wdt:P31 wd:Q1368898 .
+wd:Q14942280 wdt:P279 wd:Q4830453 .
+wd:Q1502514 wdt:P279 wd:Q43229 .
+wd:Q1503271 wdt:P279 wd:Q131476 .
+wd:Q15079663 wdt:P279 wd:Q60442637 .
+wd:Q15129745 wdt:P279 wd:Q128207 .
+wd:Q15133790 wdt:P279 wd:Q39908 .
+wd:Q15179 wdt:P279 wd:Q1847641 .
+wd:Q1520069 wdt:P279 wd:Q4830453 .
+wd:Q152749 wdt:P279 wd:Q481609 .
+wd:Q1529128 wdt:P279 wd:Q4830453 .
+wd:Q15328 wdt:P279 wd:Q1751850 .
+wd:Q15411548 wdt:P279 wd:Q121359 .
+wd:Q15477174 wdt:P279 wd:Q6368 .
+wd:Q15505266 wdt:P279 wd:Q166142 .
+wd:Q15548100 wdt:P279 wd:Q2462003 .
+wd:Q15621650 wdt:P279 wd:Q349 .
+wd:Q1562213 wdt:P279 wd:Q3407658 .
+wd:Q15634581 wdt:P279 wd:Q4830453 .
+wd:Q159144 wdt:P31 wd:Q194195 .
+wd:Q159144 wdt:P31 wd:Q570116 .
+wd:Q159144 wdt:P31 wd:Q875157 .
+wd:Q159354 wdt:P279 wd:Q61065 .
+wd:Q15978715 wdt:P279 wd:Q37501 .
+wd:Q159992 wdt:P279 wd:Q61065 .
+wd:Q159992 wdt:P279 wd:Q911069 .
+wd:Q159992 wdt:P31 wd:Q31629 .
+wd:Q16001076 wdt:P279 wd:Q35127 .
+wd:Q16002093 wdt:P279 wd:Q35127 .
+wd:Q16021388 wdt:P279 wd:Q7889 .
+wd:Q161439 wdt:P279 wd:Q4470686 .
+wd:Q161726 wdt:P279 wd:Q4830453 .
+wd:Q16274795 wdt:P279 wd:Q4830453 .
+wd:Q1636958 wdt:P31 wd:Q167037 .
+wd:Q1636958 wdt:P31 wd:Q4830453 .
+wd:Q1636958 wdt:P31 wd:Q891723 .
+wd:Q1637219 wdt:P279 wd:Q1368898 .
+wd:Q16519632 wdt:P279 wd:Q43229 .
+wd:Q1660010 wdt:P279 wd:Q477248 .
+wd:Q167893 wdt:P279 wd:Q2596997 .
+wd:Q16820462 wdt:P31 wd:Q7058673 .
+wd:Q16825545 wdt:P279 wd:Q35127 .
+wd:Q16839772 wdt:P279 wd:Q201664 .
+wd:Q168403 wdt:P279 wd:Q470427 .
+wd:Q168403 wdt:P279 wd:Q737460 .
+wd:Q16852719 wdt:P279 wd:Q133215 .
+wd:Q16972647 wdt:P279 wd:Q166142 .
+wd:Q16985923 wdt:P279 wd:Q43229 .
+wd:Q16988367 wdt:P279 wd:Q17074646 .
+wd:Q17002728 wdt:P279 wd:Q28598684 .
+wd:Q17013040 wdt:P279 wd:Q18534278 .
+wd:Q17013334 wdt:P279 wd:Q2539 .
+wd:Q17074646 wdt:P279 wd:Q914359 .
+wd:Q17080486 wdt:P279 wd:Q349 .
+wd:Q17082653 wdt:P279 wd:Q16920758 .
+wd:Q17092661 wdt:P279 wd:Q196538 .
+wd:Q17119191 wdt:P279 wd:Q83363 .
+wd:Q17130715 wdt:P31 wd:Q166142 .
+wd:Q17130715 wdt:P31 wd:Q2462003 .
+wd:Q17130715 wdt:P31 wd:Q43229 .
+wd:Q17130715 wdt:P31 wd:Q620615 .
+wd:Q17141430 wdt:P279 wd:Q15179 .
+wd:Q171545 wdt:P31 wd:Q484170 .
+wd:Q174320 wdt:P279 wd:Q2041172 .
+wd:Q174320 wdt:P279 wd:Q2425052 .
+wd:Q1751819 wdt:P279 wd:Q1397073 .
+wd:Q1756711 wdt:P279 wd:Q4830453 .
+wd:Q1757263 wdt:P279 wd:Q4830453 .
+wd:Q17589204 wdt:P279 wd:Q35127 .
+wd:Q17710982 wdt:P279 wd:Q7858627 .
+wd:Q177409 wdt:P279 wd:Q1936384 .
+wd:Q177895 wdt:P279 wd:Q470427 .
+wd:Q178131 wdt:P279 wd:Q911069 .
+wd:Q179012 wdt:P279 wd:Q185698 .
+wd:Q1790321 wdt:P279 wd:Q2321565 .
+wd:Q1790542 wdt:P279 wd:Q18534278 .
+wd:Q179613 wdt:P279 wd:Q30503704 .
+wd:Q180 wdt:P31 wd:Q157031 .
+wd:Q180 wdt:P31 wd:Q2166013 .
+wd:Q180 wdt:P31 wd:Q708676 .
+wd:Q180204 wdt:P279 wd:Q50430027 .
+wd:Q18030772 wdt:P279 wd:Q12725 .
+wd:Q180704 wdt:P31 wd:Q1114461 .
+wd:Q180704 wdt:P31 wd:Q15632617 .
+wd:Q180704 wdt:P31 wd:Q15773347 .
+wd:Q18088270 wdt:P279 wd:Q39908 .
+wd:Q181042 wdt:P279 wd:Q195 .
+wd:Q18127 wdt:P279 wd:Q4830453 .
+wd:Q1815345 wdt:P279 wd:Q50425277 .
+wd:Q18156733 wdt:P279 wd:Q6368 .
+wd:Q1817119 wdt:P279 wd:Q121359 .
+wd:Q1817883 wdt:P279 wd:Q4830453 .
+wd:Q18205998 wdt:P279 wd:Q131476 .
+wd:Q18348827 wdt:P279 wd:Q6368 .
+wd:Q18388277 wdt:P279 wd:Q6881511 .
+wd:Q1847641 wdt:P279 wd:Q1784017 .
+wd:Q1847641 wdt:P279 wd:Q18534278 .
+wd:Q18534571 wdt:P279 wd:Q43229 .
+wd:Q18547489 wdt:P279 wd:Q2596997 .
+wd:Q18554189 wdt:P279 wd:Q168403 .
+wd:Q18554630 wdt:P279 wd:Q177895 .
+wd:Q18706221 wdt:P279 wd:Q3244038 .
+wd:Q188273 wdt:P31 wd:Q1137109 .
+wd:Q188273 wdt:P31 wd:Q210167 .
+wd:Q188273 wdt:P31 wd:Q43229 .
+wd:Q188273 wdt:P31 wd:Q891723 .
+wd:Q18915790 wdt:P279 wd:Q381 .
+wd:Q190549 wdt:P279 wd:Q1936384 .
+wd:Q1917775 wdt:P279 wd:Q4830453 .
+wd:Q192776 wdt:P279 wd:Q2539 .
+wd:Q1936090 wdt:P279 wd:Q43229 .
+wd:Q1936384 wdt:P279 wd:Q11862829 .
+wd:Q1948408 wdt:P279 wd:Q30642 .
+wd:Q195 wdt:P279 wd:Q1365365 .
+wd:Q195 wdt:P279 wd:Q25403900 .
+wd:Q195 wdt:P279 wd:Q2596997 .
+wd:Q195 wdt:P279 wd:Q5159627 .
+wd:Q195 wdt:P279 wd:Q752276 .
+wd:Q19509097 wdt:P279 wd:Q167270 .
+wd:Q1954906 wdt:P279 wd:Q40056 .
+wd:Q19644607 wdt:P279 wd:Q4830453 .
+wd:Q196538 wdt:P279 wd:Q1751850 .
+wd:Q1969601 wdt:P279 wd:Q755673 .
+wd:Q19786787 wdt:P279 wd:Q462 .
+wd:Q19799634 wdt:P279 wd:Q431289 .
+wd:Q1981926 wdt:P279 wd:Q196538 .
+wd:Q198782 wdt:P279 wd:Q82794 .
+wd:Q19914521 wdt:P279 wd:Q481609 .
+wd:Q19935939 wdt:P279 wd:Q11862829 .
+wd:Q19967801 wdt:P279 wd:Q43229 .
+wd:Q2 wdt:P31 wd:Q128207 .
+wd:Q2 wdt:P31 wd:Q3504248 .
+wd:Q2 wdt:P31 wd:Q82794 .
+wd:Q20015305 wdt:P279 wd:Q4830453 .
+wd:Q20026918 wdt:P279 wd:Q17737 .
+wd:Q20058155 wdt:P279 wd:Q1522115 .
+wd:Q20089159 wdt:P279 wd:Q3244038 .
+wd:Q201664 wdt:P279 wd:Q3575260 .
+wd:Q201664 wdt:P279 wd:Q4470686 .
+wd:Q20488450 wdt:P279 wd:Q167270 .
+wd:Q205895 wdt:P279 wd:Q82794 .
+wd:Q2060479 wdt:P279 wd:Q11020 .
+wd:Q20653619 wdt:P279 wd:Q43229 .
+wd:Q2069741 wdt:P279 wd:Q43229 .
+wd:Q20719642 wdt:P279 wd:Q36784 .
+wd:Q2072000 wdt:P279 wd:Q80131 .
+wd:Q20722857 wdt:P279 wd:Q192776 .
+wd:Q2072840 wdt:P279 wd:Q2312410 .
+wd:Q207472 wdt:P31 wd:Q5741069 .
+wd:Q20820271 wdt:P279 wd:Q31855 .
+wd:Q2085381 wdt:P279 wd:Q4830453 .
+wd:Q208729 wdt:P279 wd:Q477248 .
+wd:Q20888692 wdt:P279 wd:Q431289 .
+wd:Q2091816 wdt:P279 wd:Q222046 .
+wd:Q209330 wdt:P31 wd:Q2721136 .
+wd:Q209330 wdt:P31 wd:Q3220391 .
+wd:Q209330 wdt:P31 wd:Q35127 .
+wd:Q209330 wdt:P31 wd:Q559856 .
+wd:Q209330 wdt:P31 wd:Q620615 .
+wd:Q2093999 wdt:P279 wd:Q105674 .
+wd:Q21028313 wdt:P279 wd:Q1936384 .
+wd:Q21045430 wdt:P279 wd:Q185698 .
+wd:Q2111434 wdt:P279 wd:Q3575260 .
+wd:Q2111762 wdt:P279 wd:Q4830453 .
+wd:Q212434 wdt:P279 wd:Q349 .
+wd:Q212803 wdt:P279 wd:Q1936384 .
+wd:Q212845 wdt:P279 wd:Q2426135 .
+wd:Q213369 wdt:P279 wd:Q35127 .
+wd:Q21426954 wdt:P279 wd:Q1368898 .
+wd:Q21428095 wdt:P279 wd:Q43229 .
+wd:Q21503645 wdt:P279 wd:Q1368898 .
+wd:Q215819 wdt:P279 wd:Q3932296 .
+wd:Q21606686 wdt:P279 wd:Q35127 .
+wd:Q2165733 wdt:P279 wd:Q11015 .
+wd:Q2167372 wdt:P279 wd:Q105674 .
+wd:Q216931 wdt:P279 wd:Q4830453 .
+wd:Q2205965 wdt:P279 wd:Q16858238 .
+wd:Q220652 wdt:P279 wd:Q22074477 .
+wd:Q223127 wdt:P31 wd:Q18388277 .
+wd:Q223127 wdt:P31 wd:Q431289 .
+wd:Q223127 wdt:P31 wd:Q4830453 .
+wd:Q223127 wdt:P31 wd:Q6881511 .
+wd:Q223127 wdt:P31 wd:Q891723 .
+wd:Q2262868 wdt:P279 wd:Q1172480 .
+wd:Q2265657 wdt:P279 wd:Q22074477 .
+wd:Q22687 wdt:P279 wd:Q6881511 .
+wd:Q2283 wdt:P31 wd:Q1058914 .
+wd:Q2283 wdt:P31 wd:Q18388277 .
+wd:Q2283 wdt:P31 wd:Q4830453 .
+wd:Q2283 wdt:P31 wd:Q891723 .
+wd:Q22907849 wdt:P31 wd:Q15614021 .
+wd:Q22907849 wdt:P31 wd:Q1668024 .
+wd:Q22907849 wdt:P31 wd:Q218616 .
+wd:Q22907849 wdt:P31 wd:Q2462003 .
+wd:Q22907849 wdt:P31 wd:Q28051323 .
+wd:Q22907849 wdt:P31 wd:Q287198 .
+wd:Q22907849 wdt:P31 wd:Q3220391 .
+wd:Q22907849 wdt:P31 wd:Q35127 .
+wd:Q22907849 wdt:P31 wd:Q40056 .
+wd:Q22907849 wdt:P31 wd:Q620615 .
+wd:Q2292993 wdt:P279 wd:Q185698 .
+wd:Q229398 wdt:P279 wd:Q299191 .
+wd:Q2300409 wdt:P279 wd:Q134041 .
+wd:Q23043008 wdt:P279 wd:Q2324835 .
+wd:Q231136 wdt:P31 wd:Q13419255 .
+wd:Q231136 wdt:P31 wd:Q7397 .
+wd:Q2332595 wdt:P279 wd:Q37501 .
+wd:Q23461185 wdt:P279 wd:Q195 .
+wd:Q2351172 wdt:P279 wd:Q22074477 .
+wd:Q23572 wdt:P31 wd:Q5398426 .
+wd:Q23670565 wdt:P279 wd:Q4830453 .
+wd:Q2369170 wdt:P279 wd:Q61065 .
+wd:Q23797 wdt:P279 wd:Q2143661 .
+wd:Q2401485 wdt:P279 wd:Q43229 .
+wd:Q2401749 wdt:P279 wd:Q4830453 .
+wd:Q243 wdt:P31 wd:Q1440300 .
+wd:Q243 wdt:P31 wd:Q1440476 .
+wd:Q243 wdt:P31 wd:Q570116 .
+wd:Q244030 wdt:P31 wd:Q7889 .
+wd:Q2442401 wdt:P279 wd:Q4830453 .
+wd:Q244570 wdt:P279 wd:Q1065579 .
+wd:Q244570 wdt:P279 wd:Q2143661 .
+wd:Q2470609 wdt:P279 wd:Q55789206 .
+wd:Q25112142 wdt:P279 wd:Q4830453 .
+wd:Q251981 wdt:P279 wd:Q477248 .
+wd:Q2519914 wdt:P279 wd:Q167270 .
+wd:Q25303637 wdt:P279 wd:Q1068690 .
+wd:Q25325314 wdt:P279 wd:Q914359 .
+wd:Q2533407 wdt:P279 wd:Q61065 .
+wd:Q2534781 wdt:P279 wd:Q4830453 .
+wd:Q25380332 wdt:P279 wd:Q43229 .
+wd:Q2538889 wdt:P279 wd:Q4830453 .
+wd:Q2539 wdt:P279 wd:Q11660 .
+wd:Q2539 wdt:P279 wd:Q21198 .
+wd:Q2539 wdt:P31 wd:Q11862829 .
+wd:Q25461160 wdt:P279 wd:Q4830453 .
+wd:Q2551422 wdt:P279 wd:Q1132455 .
+wd:Q2551422 wdt:P279 wd:Q481609 .
+wd:Q255632 wdt:P279 wd:Q43229 .
+wd:Q2585571 wdt:P279 wd:Q11371 .
+wd:Q2590801 wdt:P279 wd:Q4830453 .
+wd:Q263 wdt:P279 wd:Q14827288 .
+wd:Q263 wdt:P279 wd:Q15633582 .
+wd:Q2634782 wdt:P279 wd:Q737460 .
+wd:Q264554 wdt:P279 wd:Q147538 .
+wd:Q266990 wdt:P279 wd:Q6368 .
+wd:Q2670101 wdt:P279 wd:Q128207 .
+wd:Q2670999 wdt:P279 wd:Q185698 .
+wd:Q27038993 wdt:P279 wd:Q4830453 .
+wd:Q27043907 wdt:P279 wd:Q4830453 .
+wd:Q273426 wdt:P279 wd:Q477248 .
+wd:Q2746070 wdt:P279 wd:Q477248 .
+wd:Q2746792 wdt:P279 wd:Q1936384 .
+wd:Q27555350 wdt:P279 wd:Q4830453 .
+wd:Q27881073 wdt:P279 wd:Q35127 .
+wd:Q27907674 wdt:P279 wd:Q2312410 .
+wd:Q27907692 wdt:P279 wd:Q2312410 .
+wd:Q27907702 wdt:P279 wd:Q2312410 .
+wd:Q27907716 wdt:P279 wd:Q2312410 .
+wd:Q27964209 wdt:P279 wd:Q381 .
+wd:Q28004621 wdt:P279 wd:Q7889 .
+wd:Q2801262 wdt:P279 wd:Q43229 .
+wd:Q280413 wdt:P31 wd:Q13582798 .
+wd:Q280413 wdt:P31 wd:Q31855 .
+wd:Q280413 wdt:P31 wd:Q3726309 .
+wd:Q280413 wdt:P31 wd:Q45400320 .
+wd:Q28127283 wdt:P279 wd:Q50425277 .
+wd:Q2813 wdt:P279 wd:Q134041 .
+wd:Q2813 wdt:P31 wd:Q147538 .
+wd:Q2813 wdt:P31 wd:Q431289 .
+wd:Q28135300 wdt:P279 wd:Q474157 .
+wd:Q2820266 wdt:P279 wd:Q43229 .
+wd:Q2826708 wdt:P279 wd:Q3244038 .
+wd:Q28332 wdt:P279 wd:Q36784 .
+wd:Q28406404 wdt:P31 wd:Q19967801 .
+wd:Q28406404 wdt:P31 wd:Q2462003 .
+wd:Q28406404 wdt:P31 wd:Q28051323 .
+wd:Q28406404 wdt:P31 wd:Q474157 .
+wd:Q28416788 wdt:P279 wd:Q477248 .
+wd:Q2877513 wdt:P279 wd:Q3407440 .
+wd:Q28785 wdt:P31 wd:Q120560 .
+wd:Q28785 wdt:P31 wd:Q1530022 .
+wd:Q28785 wdt:P31 wd:Q16970 .
+wd:Q28785 wdt:P31 wd:Q570116 .
+wd:Q2904494 wdt:P279 wd:Q1368898 .
+wd:Q2905238 wdt:P31 wd:Q3391957 .
+wd:Q2905238 wdt:P31 wd:Q783794 .
+wd:Q2910253 wdt:P279 wd:Q5227240 .
+wd:Q291240 wdt:P279 wd:Q4830453 .
+wd:Q2914704 wdt:P279 wd:Q4830453 .
+wd:Q29410287 wdt:P279 wd:Q1199743 .
+wd:Q2955972 wdt:P279 wd:Q43229 .
+wd:Q2961813 wdt:P279 wd:Q4830453 .
+wd:Q2985062 wdt:P279 wd:Q76592 .
+wd:Q29885033 wdt:P279 wd:Q4830453 .
+wd:Q2990216 wdt:P279 wd:Q6881511 .
+wd:Q2991667 wdt:P279 wd:Q5441227 .
+wd:Q299191 wdt:P279 wd:Q718 .
+wd:Q30022 wdt:P279 wd:Q4830453 .
+wd:Q3006228 wdt:P279 wd:Q3244038 .
+wd:Q3008212 wdt:P279 wd:Q22074477 .
+wd:Q30103124 wdt:P279 wd:Q6881511 .
+wd:Q3023650 wdt:P279 wd:Q43229 .
+wd:Q3029462 wdt:P279 wd:Q43229 .
+wd:Q3029536 wdt:P279 wd:Q43229 .
+wd:Q30299483 wdt:P31 wd:Q13226383 .
+wd:Q30299483 wdt:P31 wd:Q483242 .
+wd:Q30299483 wdt:P31 wd:Q7315155 .
+wd:Q3055260 wdt:P279 wd:Q4830453 .
+wd:Q3062992 wdt:P279 wd:Q2312410 .
+wd:Q3063988 wdt:P279 wd:Q167270 .
+wd:Q30642 wdt:P279 wd:Q11660 .
+wd:Q30642 wdt:P279 wd:Q11862829 .
+wd:Q30642 wdt:P279 wd:Q21198 .
+wd:Q30754613 wdt:P279 wd:Q129337 .
+wd:Q30765558 wdt:P279 wd:Q4830453 .
+wd:Q30899001 wdt:P279 wd:Q4830453 .
+wd:Q3117865 wdt:P279 wd:Q4830453 .
+wd:Q312 wdt:P31 wd:Q167037 .
+wd:Q312 wdt:P31 wd:Q18388277 .
+wd:Q312 wdt:P31 wd:Q431289 .
+wd:Q312 wdt:P31 wd:Q4830453 .
+wd:Q312 wdt:P31 wd:Q6881511 .
+wd:Q312 wdt:P31 wd:Q891723 .
+wd:Q3180727 wdt:P279 wd:Q131476 .
+wd:Q3184737 wdt:P279 wd:Q43229 .
+wd:Q31920 wdt:P279 wd:Q61065 .
+wd:Q319417 wdt:P279 wd:Q3932296 .
+wd:Q3214499 wdt:P31 wd:Q3550864 .
+wd:Q32350958 wdt:P279 wd:Q133215 .
+wd:Q3237209 wdt:P279 wd:Q83363 .
+wd:Q324254 wdt:P279 wd:Q1172480 .
+wd:Q324254 wdt:P279 wd:Q1397073 .
+wd:Q324254 wdt:P279 wd:Q593744 .
+wd:Q325904 wdt:P279 wd:Q755673 .
+wd:Q325904 wdt:P31 wd:Q4443425 .
+wd:Q325904 wdt:P31 wd:Q907955 .
+wd:Q327757 wdt:P279 wd:Q128207 .
+wd:Q3307920 wdt:P279 wd:Q4830453 .
+wd:Q33114024 wdt:P279 wd:Q43229 .
+wd:Q33120867 wdt:P279 wd:Q14827288 .
+wd:Q33120867 wdt:P279 wd:Q15633582 .
+wd:Q33120876 wdt:P279 wd:Q14827288 .
+wd:Q33120876 wdt:P279 wd:Q15633582 .
+wd:Q3326291 wdt:P279 wd:Q15179 .
+wd:Q33270324 wdt:P279 wd:Q35127 .
+wd:Q335827 wdt:P31 wd:Q47913 .
+wd:Q336787 wdt:P279 wd:Q76592 .
+wd:Q337535 wdt:P31 wd:Q1334294 .
+wd:Q337535 wdt:P31 wd:Q192532 .
+wd:Q337535 wdt:P31 wd:Q58199 .
+wd:Q337535 wdt:P31 wd:Q81989119 .
+wd:Q3377759 wdt:P279 wd:Q83363 .
+wd:Q3381973 wdt:P279 wd:Q222046 .
+wd:Q3391957 wdt:P279 wd:Q1668024 .
+wd:Q3391957 wdt:P279 wd:Q35127 .
+wd:Q3393867 wdt:P279 wd:Q4830453 .
+wd:Q33959 wdt:P31 wd:Q1549591 .
+wd:Q33959 wdt:P31 wd:Q484170 .
+wd:Q3407658 wdt:P279 wd:Q1414135 .
+wd:Q3407658 wdt:P279 wd:Q15825863 .
+wd:Q3407658 wdt:P279 wd:Q208502 .
+wd:Q3407658 wdt:P279 wd:Q752870 .
+wd:Q3412210 wdt:P279 wd:Q3244038 .
+wd:Q3433179 wdt:P279 wd:Q1132455 .
+wd:Q3456887 wdt:P279 wd:Q121359 .
+wd:Q3478658 wdt:P279 wd:Q11660 .
+wd:Q3480110 wdt:P279 wd:Q43229 .
+wd:Q3487908 wdt:P279 wd:Q4830453 .
+wd:Q349 wdt:P279 wd:Q747883 .
+wd:Q35127 wdt:P279 wd:Q19967801 .
+wd:Q351281 wdt:P279 wd:Q11379 .
+wd:Q3517281 wdt:P31 wd:Q4671277 .
+wd:Q3530132 wdt:P279 wd:Q39908 .
+wd:Q3532114 wdt:P279 wd:Q1936384 .
+wd:Q3532114 wdt:P279 wd:Q76592 .
+wd:Q3535552 wdt:P279 wd:Q477248 .
+wd:Q3537883 wdt:P279 wd:Q4830453 .
+wd:Q354869 wdt:P279 wd:Q35127 .
+wd:Q3559933 wdt:P279 wd:Q58199 .
+wd:Q3579160 wdt:P279 wd:Q4830453 .
+wd:Q3591561 wdt:P279 wd:Q3244038 .
+wd:Q3591573 wdt:P279 wd:Q43229 .
+wd:Q35996 wdt:P279 wd:Q10429667 .
+wd:Q35996 wdt:P31 wd:Q431289 .
+wd:Q35996 wdt:P31 wd:Q786820 .
+wd:Q35996 wdt:P31 wd:Q891723 .
+wd:Q360356 wdt:P279 wd:Q11379 .
+wd:Q364 wdt:P31 wd:Q1668024 .
+wd:Q364 wdt:P31 wd:Q3077240 .
+wd:Q364 wdt:P31 wd:Q5227240 .
+wd:Q364 wdt:P31 wd:Q6881511 .
+wd:Q3661311 wdt:P279 wd:Q4830453 .
+wd:Q3694563 wdt:P279 wd:Q105674 .
+wd:Q37501 wdt:P279 wd:Q1065579 .
+wd:Q37501 wdt:P279 wd:Q2143661 .
+wd:Q3751111 wdt:P279 wd:Q166142 .
+wd:Q3778467 wdt:P279 wd:Q477248 .
+wd:Q378859 wdt:P279 wd:Q2539 .
+wd:Q38076 wdt:P31 wd:Q167270 .
+wd:Q38076 wdt:P31 wd:Q18509232 .
+wd:Q38076 wdt:P31 wd:Q4830453 .
+wd:Q38076 wdt:P31 wd:Q6881511 .
+wd:Q38076 wdt:P31 wd:Q891723 .
+wd:Q381 wdt:P31 wd:Q131669 .
+wd:Q381 wdt:P31 wd:Q20983788 .
+wd:Q381 wdt:P31 wd:Q5276054 .
+wd:Q381 wdt:P31 wd:Q9135 .
+wd:Q381009 wdt:P279 wd:Q131476 .
+wd:Q3842318 wdt:P279 wd:Q167270 .
+wd:Q38695 wdt:P279 wd:Q16920758 .
+wd:Q38695 wdt:P31 wd:Q19862406 .
+wd:Q38695 wdt:P31 wd:Q61788060 .
+wd:Q388570 wdt:P279 wd:Q4830453 .
+wd:Q392500 wdt:P31 wd:Q3244038 .
+wd:Q396045 wdt:P279 wd:Q11379 .
+wd:Q3968 wdt:P279 wd:Q1936384 .
+wd:Q399984 wdt:P279 wd:Q82794 .
+wd:Q40189366 wdt:P279 wd:Q11379 .
+wd:Q40679812 wdt:P279 wd:Q2312410 .
+wd:Q40890078 wdt:P279 wd:Q11660 .
+wd:Q40898 wdt:P31 wd:Q1549591 .
+wd:Q40898 wdt:P31 wd:Q484170 .
+wd:Q41084 wdt:P279 wd:Q2813 .
+wd:Q4110622 wdt:P279 wd:Q58199 .
+wd:Q4115842 wdt:P279 wd:Q131476 .
+wd:Q4116756 wdt:P279 wd:Q4830453 .
+wd:Q41354 wdt:P279 wd:Q2596997 .
+wd:Q41617857 wdt:P279 wd:Q4830453 .
+wd:Q4173330 wdt:P31 wd:Q1542938 .
+wd:Q4173330 wdt:P31 wd:Q3551775 .
+wd:Q4200953 wdt:P279 wd:Q10990 .
+wd:Q4200953 wdt:P279 wd:Q18087876 .
+wd:Q4208733 wdt:P279 wd:Q3341285 .
+wd:Q42213 wdt:P279 wd:Q11379 .
+wd:Q42261736 wdt:P279 wd:Q3502482 .
+wd:Q423785 wdt:P279 wd:Q3244038 .
+wd:Q423790 wdt:P279 wd:Q3244038 .
+wd:Q42490 wdt:P31 wd:Q14406742 .
+wd:Q432478 wdt:P279 wd:Q13402959 .
+wd:Q43748 wdt:P279 wd:Q1847641 .
+wd:Q4380101 wdt:P279 wd:Q2321565 .
+wd:Q4387017 wdt:P279 wd:Q11862829 .
+wd:Q4387609 wdt:P279 wd:Q4830453 .
+wd:Q4417999 wdt:P279 wd:Q131476 .
+wd:Q4443425 wdt:P279 wd:Q30503704 .
+wd:Q4485157 wdt:P279 wd:Q7889 .
+wd:Q45069022 wdt:P279 wd:Q4830453 .
+wd:Q455347 wdt:P279 wd:Q2312410 .
+wd:Q462 wdt:P31 wd:Q196600 .
+wd:Q462 wdt:P31 wd:Q431289 .
+wd:Q466 wdt:P279 wd:Q1668024 .
+wd:Q46847 wdt:P279 wd:Q3575260 .
+wd:Q47094420 wdt:P279 wd:Q847 .
+wd:Q4740894 wdt:P279 wd:Q11862829 .
+wd:Q47519912 wdt:P279 wd:Q13226383 .
+wd:Q47524436 wdt:P279 wd:Q13226383 .
+wd:Q47533065 wdt:P279 wd:Q43229 .
+wd:Q476118 wdt:P279 wd:Q4830453 .
+wd:Q4810155 wdt:P279 wd:Q43229 .
+wd:Q4838457 wdt:P279 wd:Q180204 .
+wd:Q486972 wdt:P279 wd:Q82794 .
+wd:Q4875410 wdt:P279 wd:Q192776 .
+wd:Q488720 wdt:P279 wd:Q201664 .
+wd:Q497397 wdt:P279 wd:Q80131 .
+wd:Q5004188 wdt:P279 wd:Q18205998 .
+wd:Q50386068 wdt:P279 wd:Q2312410 .
+wd:Q50425277 wdt:P279 wd:Q134041 .
+wd:Q5063597 wdt:P279 wd:Q3407658 .
+wd:Q5064071 wdt:P279 wd:Q192776 .
+wd:Q507443 wdt:P279 wd:Q4830453 .
+wd:Q508256 wdt:P31 wd:Q11670533 .
+wd:Q508256 wdt:P31 wd:Q22808403 .
+wd:Q508256 wdt:P31 wd:Q928830 .
+wd:Q5093314 wdt:P279 wd:Q718 .
+wd:Q5096292 wdt:P279 wd:Q37501 .
+wd:Q5100758 wdt:P279 wd:Q2060479 .
+wd:Q512270 wdt:P279 wd:Q917562 .
+wd:Q5163232 wdt:P279 wd:Q43229 .
+wd:Q51704864 wdt:P279 wd:Q3244038 .
+wd:Q51746 wdt:P31 wd:Q15632617 .
+wd:Q51746 wdt:P31 wd:Q15773347 .
+wd:Q51746 wdt:P31 wd:Q22074477 .
+wd:Q51746 wdt:P31 wd:Q33125444 .
+wd:Q5179579 wdt:P279 wd:Q11020 .
+wd:Q5183361 wdt:P279 wd:Q477248 .
+wd:Q5199354 wdt:P279 wd:Q22074477 .
+wd:Q52 wdt:P31 wd:Q107307154 .
+wd:Q52 wdt:P31 wd:Q1293664 .
+wd:Q52 wdt:P31 wd:Q14827288 .
+wd:Q52 wdt:P31 wd:Q15633582 .
+wd:Q52 wdt:P31 wd:Q615699 .
+wd:Q52177345 wdt:P279 wd:Q2312410 .
+wd:Q5225895 wdt:P279 wd:Q891723 .
+wd:Q5346803 wdt:P279 wd:Q4830453 .
+wd:Q5378800 wdt:P279 wd:Q1172480 .
+wd:Q5384579 wdt:P279 wd:Q4830453 .
+wd:Q5396251 wdt:P279 wd:Q1751850 .
+wd:Q5416712 wdt:P279 wd:Q4417999 .
+wd:Q54167390 wdt:P279 wd:Q196538 .
+wd:Q5419285 wdt:P279 wd:Q43229 .
+wd:Q542042 wdt:P279 wd:Q18087876 .
+wd:Q5422299 wdt:P279 wd:Q76592 .
+wd:Q5428568 wdt:P279 wd:Q18534278 .
+wd:Q5431487 wdt:P279 wd:Q15179 .
+wd:Q5441227 wdt:P279 wd:Q192776 .
+wd:Q5465569 wdt:P279 wd:Q4830453 .
+wd:Q5466628 wdt:P279 wd:Q4830453 .
+wd:Q54767 wdt:P279 wd:Q7889 .
+wd:Q54811238 wdt:P279 wd:Q192776 .
+wd:Q548319 wdt:P279 wd:Q13276 .
+wd:Q548319 wdt:P31 wd:Q13276 .
+wd:Q548319 wdt:P31 wd:Q7802 .
+wd:Q5506845 wdt:P279 wd:Q15179 .
+wd:Q5514059 wdt:P279 wd:Q11660 .
+wd:Q5535478 wdt:P279 wd:Q76592 .
+wd:Q55441204 wdt:P279 wd:Q192776 .
+wd:Q55588631 wdt:P279 wd:Q7889 .
+wd:Q55597159 wdt:P279 wd:Q43229 .
+wd:Q55605484 wdt:P279 wd:Q12725 .
+wd:Q55635949 wdt:P279 wd:Q4830453 .
+wd:Q55693875 wdt:P279 wd:Q11862829 .
+wd:Q55693888 wdt:P279 wd:Q11862829 .
+wd:Q55693892 wdt:P279 wd:Q11862829 .
+wd:Q55789206 wdt:P279 wd:Q168403 .
+wd:Q5580558 wdt:P279 wd:Q3341285 .
+wd:Q56054951 wdt:P279 wd:Q847 .
+wd:Q562166 wdt:P279 wd:Q4830453 .
+wd:Q56311389 wdt:P279 wd:Q864693 .
+wd:Q56313053 wdt:P279 wd:Q1936384 .
+wd:Q56313053 wdt:P279 wd:Q76592 .
+wd:Q56316737 wdt:P279 wd:Q324254 .
+wd:Q56316745 wdt:P279 wd:Q324254 .
+wd:Q56506809 wdt:P279 wd:Q2321565 .
+wd:Q56876011 wdt:P279 wd:Q6881511 .
+wd:Q5728609 wdt:P279 wd:Q3341285 .
+wd:Q574577 wdt:P279 wd:Q287198 .
+wd:Q57504458 wdt:P279 wd:Q13226383 .
+wd:Q575092 wdt:P279 wd:Q15978715 .
+wd:Q5752993 wdt:P279 wd:Q10990 .
+wd:Q5759783 wdt:P279 wd:Q147538 .
+wd:Q5769360 wdt:P279 wd:Q22074477 .
+wd:Q5774403 wdt:P279 wd:Q43229 .
+wd:Q57951700 wdt:P279 wd:Q13226383 .
+wd:Q58542 wdt:P279 wd:Q2462003 .
+wd:Q5873161 wdt:P279 wd:Q147538 .
+wd:Q5906082 wdt:P279 wd:Q15179 .
+wd:Q59185742 wdt:P279 wd:Q147538 .
+wd:Q594593 wdt:P279 wd:Q121359 .
+wd:Q59545 wdt:P279 wd:Q4830453 .
+wd:Q599755 wdt:P279 wd:Q180204 .
+wd:Q6027324 wdt:P279 wd:Q2539 .
+wd:Q6029708 wdt:P279 wd:Q76592 .
+wd:Q60442637 wdt:P279 wd:Q91908084 .
+wd:Q60678830 wdt:P279 wd:Q620615 .
+wd:Q60770436 wdt:P279 wd:Q6881511 .
+wd:Q60784896 wdt:P279 wd:Q559856 .
+wd:Q60967807 wdt:P279 wd:Q61065 .
+wd:Q613142 wdt:P279 wd:Q4830453 .
+wd:Q614362 wdt:P279 wd:Q1155692 .
+wd:Q614362 wdt:P279 wd:Q2424752 .
+wd:Q614362 wdt:P279 wd:Q3407440 .
+wd:Q61793851 wdt:P279 wd:Q1936384 .
+wd:Q618998 wdt:P279 wd:Q39908 .
+wd:Q621550 wdt:P279 wd:Q1936384 .
+wd:Q62210692 wdt:P279 wd:Q324254 .
+wd:Q623561 wdt:P279 wd:Q147538 .
+wd:Q62722214 wdt:P279 wd:Q28598684 .
+wd:Q63020365 wdt:P279 wd:Q167270 .
+wd:Q63241860 wdt:P279 wd:Q1668024 .
+wd:Q63437139 wdt:P279 wd:Q43229 .
+wd:Q63477924 wdt:P279 wd:Q43229 .
+wd:Q643290 wdt:P31 wd:Q740752 .
+wd:Q64514542 wdt:P279 wd:Q4830453 .
+wd:Q64583968 wdt:P279 wd:Q4830453 .
+wd:Q64800607 wdt:P279 wd:Q11862829 .
+wd:Q64806752 wdt:P279 wd:Q11862829 .
+wd:Q64808211 wdt:P279 wd:Q11862829 .
+wd:Q64809114 wdt:P279 wd:Q11862829 .
+wd:Q64809896 wdt:P279 wd:Q11862829 .
+wd:Q64811550 wdt:P279 wd:Q11862829 .
+wd:Q65051450 wdt:P279 wd:Q43229 .
+wd:Q65073088 wdt:P279 wd:Q7889 .
+wd:Q6515414 wdt:P279 wd:Q43229 .
+wd:Q65177617 wdt:P279 wd:Q43229 .
+wd:Q6542714 wdt:P279 wd:Q35127 .
+wd:Q6561427 wdt:P279 wd:Q7889 .
+wd:Q6588 wdt:P31 wd:Q484170 .
+wd:Q65938634 wdt:P279 wd:Q185698 .
+wd:Q6664710 wdt:P279 wd:Q133215 .
+wd:Q66816419 wdt:P279 wd:Q11862829 .
+wd:Q67016067 wdt:P279 wd:Q7889 .
+wd:Q67140793 wdt:P279 wd:Q13226383 .
+wd:Q672070 wdt:P279 wd:Q4830453 .
+wd:Q677423 wdt:P279 wd:Q2312410 .
+wd:Q68 wdt:P279 wd:Q11019 .
+wd:Q68 wdt:P279 wd:Q1662611 .
+wd:Q68 wdt:P279 wd:Q241317 .
+wd:Q681615 wdt:P279 wd:Q43229 .
+wd:Q6819536 wdt:P279 wd:Q43229 .
+wd:Q6819536 wdt:P279 wd:Q4830453 .
+wd:Q6839279 wdt:P279 wd:Q92438 .
+wd:Q6887204 wdt:P279 wd:Q1941618 .
+wd:Q6895044 wdt:P279 wd:Q7889 .
+wd:Q690207 wdt:P279 wd:Q5441227 .
+wd:Q69574371 wdt:P279 wd:Q4830453 .
+wd:Q7009111 wdt:P279 wd:Q755673 .
+wd:Q7120070 wdt:P279 wd:Q201664 .
+wd:Q7133943 wdt:P279 wd:Q39908 .
+wd:Q7157353 wdt:P279 wd:Q43229 .
+wd:Q7170583 wdt:P279 wd:Q222046 .
+wd:Q718 wdt:P279 wd:Q1188693 .
+wd:Q718 wdt:P279 wd:Q2755547 .
+wd:Q718 wdt:P279 wd:Q287618 .
+wd:Q718 wdt:P279 wd:Q573573 .
+wd:Q718 wdt:P31 wd:Q131436 .
+wd:Q718 wdt:P31 wd:Q31629 .
+wd:Q718 wdt:P31 wd:Q41595400 .
+wd:Q718 wdt:P31 wd:Q4438147 .
+wd:Q718 wdt:P31 wd:Q7858742 .
+wd:Q7187868 wdt:P279 wd:Q196538 .
+wd:Q721067 wdt:P279 wd:Q4830453 .
+wd:Q7246213 wdt:P279 wd:Q4830453 .
+wd:Q7248095 wdt:P279 wd:Q43229 .
+wd:Q7257732 wdt:P279 wd:Q4830453 .
+wd:Q7257917 wdt:P279 wd:Q121359 .
+wd:Q72688 wdt:P279 wd:Q381 .
+wd:Q7279719 wdt:P279 wd:Q133215 .
+wd:Q7311343 wdt:P279 wd:Q167037 .
+wd:Q7322390 wdt:P279 wd:Q222046 .
+wd:Q7338100 wdt:P279 wd:Q133215 .
+wd:Q734413 wdt:P279 wd:Q2462003 .
+wd:Q7449052 wdt:P279 wd:Q1172480 .
+wd:Q745829 wdt:P279 wd:Q4830453 .
+wd:Q746413 wdt:P31 wd:Q1320047 .
+wd:Q746413 wdt:P31 wd:Q2085381 .
+wd:Q746413 wdt:P31 wd:Q737498 .
+wd:Q747883 wdt:P279 wd:Q61788060 .
+wd:Q748645 wdt:P279 wd:Q4830453 .
+wd:Q7538697 wdt:P279 wd:Q201664 .
+wd:Q754796 wdt:P279 wd:Q877517 .
+wd:Q7554009 wdt:P279 wd:Q324254 .
+wd:Q757388 wdt:P279 wd:Q195 .
+wd:Q75971206 wdt:P279 wd:Q4830453 .
+wd:Q7617819 wdt:P279 wd:Q1199743 .
+wd:Q7617824 wdt:P279 wd:Q192776 .
+wd:Q76362921 wdt:P279 wd:Q4830453 .
+wd:Q76384698 wdt:P279 wd:Q4830453 .
+wd:Q765517 wdt:P279 wd:Q4830453 .
+wd:Q76592 wdt:P279 wd:Q1936384 .
+wd:Q76592 wdt:P31 wd:Q1936384 .
+wd:Q7705753 wdt:P279 wd:Q474157 .
+wd:Q7708379 wdt:P279 wd:Q6368 .
+wd:Q770881 wdt:P279 wd:Q133215 .
+wd:Q770881 wdt:P279 wd:Q4830453 .
+wd:Q771063 wdt:P279 wd:Q4830453 .
+wd:Q7735 wdt:P279 wd:Q61065 .
+wd:Q777 wdt:P31 wd:Q6368 .
+wd:Q777 wdt:P31 wd:Q845620 .
+wd:Q7825032 wdt:P279 wd:Q1936384 .
+wd:Q78444225 wdt:P279 wd:Q7889 .
+wd:Q7858627 wdt:P279 wd:Q92438 .
+wd:Q786820 wdt:P279 wd:Q6881511 .
+wd:Q7901759 wdt:P279 wd:Q7858627 .
+wd:Q791930 wdt:P279 wd:Q180204 .
+wd:Q7925010 wdt:P279 wd:Q82794 .
+wd:Q792635 wdt:P279 wd:Q349 .
+wd:Q7927920 wdt:P279 wd:Q7889 .
+wd:Q7935239 wdt:P31 wd:Q1130645 .
+wd:Q7935239 wdt:P31 wd:Q3539533 .
+wd:Q7935239 wdt:P31 wd:Q3932296 .
+wd:Q7963760 wdt:P279 wd:Q15179 .
+wd:Q8007048 wdt:P279 wd:Q4830453 .
+wd:Q80131 wdt:P279 wd:Q1188693 .
+wd:Q80131 wdt:P279 wd:Q142714 .
+wd:Q80131 wdt:P31 wd:Q142714 .
+wd:Q80359036 wdt:P279 wd:Q167270 .
+wd:Q804399 wdt:P279 wd:Q1440476 .
+wd:Q8048052 wdt:P279 wd:Q58199 .
+wd:Q811404 wdt:P279 wd:Q4830453 .
+wd:Q811930 wdt:P279 wd:Q4830453 .
+wd:Q81311730 wdt:P279 wd:Q15633582 .
+wd:Q814610 wdt:P279 wd:Q43229 .
+wd:Q816261 wdt:P279 wd:Q2755547 .
+wd:Q81945 wdt:P279 wd:Q1668024 .
+wd:Q8303885 wdt:P279 wd:Q4830453 .
+wd:Q831990 wdt:P279 wd:Q2425052 .
+wd:Q8320 wdt:P279 wd:Q1751850 .
+wd:Q8333 wdt:P31 wd:Q20857065 .
+wd:Q8333 wdt:P31 wd:Q20858006 .
+wd:Q8333 wdt:P31 wd:Q47913 .
+wd:Q83363 wdt:P279 wd:Q39908 .
+wd:Q83425186 wdt:P279 wd:Q43229 .
+wd:Q841450 wdt:P279 wd:Q222046 .
+wd:Q842284 wdt:P279 wd:Q911069 .
+wd:Q842595 wdt:P279 wd:Q159992 .
+wd:Q84368158 wdt:P279 wd:Q620615 .
+wd:Q847 wdt:P279 wd:Q2426135 .
+wd:Q847 wdt:P279 wd:Q877517 .
+wd:Q847 wdt:P31 wd:Q31629 .
+wd:Q847906 wdt:P279 wd:Q35127 .
+wd:Q848609 wdt:P31 wd:Q108059870 .
+wd:Q853715 wdt:P279 wd:Q22074477 .
+wd:Q8539 wdt:P31 wd:Q5398426 .
+wd:Q8548 wdt:P31 wd:Q21595855 .
+wd:Q8548 wdt:P31 wd:Q30503704 .
+wd:Q8548 wdt:P31 wd:Q504353 .
+wd:Q8548 wdt:P31 wd:Q8366 .
+wd:Q855880 wdt:P279 wd:Q877517 .
+wd:Q856330 wdt:P279 wd:Q477248 .
+wd:Q85810444 wdt:P279 wd:Q192776 .
+wd:Q864693 wdt:P279 wd:Q10990 .
+wd:Q864693 wdt:P279 wd:Q18087876 .
+wd:Q870362 wdt:P279 wd:Q477248 .
+wd:Q87058424 wdt:P279 wd:Q11862829 .
+wd:Q871619 wdt:P279 wd:Q477248 .
+wd:Q87712822 wdt:P279 wd:Q43229 .
+wd:Q8772125 wdt:P279 wd:Q6881511 .
+wd:Q877724 wdt:P279 wd:Q43229 .
+wd:Q88199136 wdt:P279 wd:Q43229 .
+wd:Q88985865 wdt:P279 wd:Q4830453 .
+wd:Q895060 wdt:P279 wd:Q1368898 .
+wd:Q895177 wdt:P279 wd:Q2596997 .
+wd:Q89578131 wdt:P279 wd:Q13226383 .
+wd:Q896 wdt:P279 wd:Q147538 .
+wd:Q89691527 wdt:P279 wd:Q7889 .
+wd:Q900604 wdt:P279 wd:Q6368 .
+wd:Q900647 wdt:P31 wd:Q1466699 .
+wd:Q901823 wdt:P279 wd:Q196538 .
+wd:Q902378 wdt:P279 wd:Q349 .
+wd:Q90302516 wdt:P279 wd:Q4830453 .
+wd:Q903778 wdt:P279 wd:Q222046 .
+wd:Q917562 wdt:P279 wd:Q3341285 .
+wd:Q918 wdt:P31 wd:Q3220391 .
+wd:Q918 wdt:P31 wd:Q620615 .
+wd:Q918 wdt:P31 wd:Q92438 .
+wd:Q920671 wdt:P279 wd:Q4830453 .
+wd:Q92552 wdt:P279 wd:Q1936384 .
+wd:Q928468 wdt:P279 wd:Q13402959 .
+wd:Q928468 wdt:P279 wd:Q483373 .
+wd:Q930062 wdt:P279 wd:Q22074477 .
+wd:Q933844 wdt:P279 wd:Q299191 .
+wd:Q9340 wdt:P31 wd:Q1343205 .
+wd:Q9340 wdt:P31 wd:Q166142 .
+wd:Q9340 wdt:P31 wd:Q1668024 .
+wd:Q9340 wdt:P31 wd:Q914359 .
+wd:Q936518 wdt:P279 wd:Q6881511 .
+wd:Q937783 wdt:P279 wd:Q134041 .
+wd:Q94535288 wdt:P279 wd:Q2312410 .
+wd:Q94619648 wdt:P279 wd:Q2312410 .
+wd:Q94620117 wdt:P279 wd:Q2312410 .
+wd:Q946499 wdt:P279 wd:Q4830453 .
+wd:Q947362 wdt:P279 wd:Q82794 .
+wd:Q95 wdt:P31 wd:Q18388277 .
+wd:Q95 wdt:P31 wd:Q4830453 .
+wd:Q95 wdt:P31 wd:Q891723 .
+wd:Q953223 wdt:P279 wd:Q80131 .
+wd:Q95598830 wdt:P279 wd:Q6881511 .
+wd:Q958821 wdt:P279 wd:Q7889 .
+wd:Q95948776 wdt:P279 wd:Q15633582 .
+wd:Q96196009 wdt:P279 wd:Q43229 .
+wd:Q96603167 wdt:P279 wd:Q43229 .
+wd:Q96603167 wdt:P279 wd:Q4830453 .
+wd:Q96679888 wdt:P279 wd:Q2312410 .
+wd:Q967140 wdt:P279 wd:Q4830453 .
+wd:Q967318 wdt:P279 wd:Q3341285 .
+wd:Q96782348 wdt:P279 wd:Q196538 .
+wd:Q96983545 wdt:P279 wd:Q43229 .
+wd:Q97322777 wdt:P279 wd:Q147538 .
+wd:Q97579135 wdt:P279 wd:Q4830453 .
+wd:Q9798 wdt:P279 wd:Q181247 .
+wd:Q9798 wdt:P279 wd:Q55738874 .
+wd:Q98579904 wdt:P279 wd:Q431289 .
+wd:Q99397804 wdt:P279 wd:Q28598684 .
+wd:Q996839 wdt:P279 wd:Q43229 .
+
+# ── Node labels  (946 labeled  |  23 without English label) ───────────────
+
+wd:Q1005603 rdfs:label "algebraic combinatorics"@en .
+wd:Q100975433 rdfs:label "arts residency"@en .
+wd:Q101067829 rdfs:label "agricultural extension system"@en .
+wd:Q101191533 rdfs:label "online catalog"@en .
+wd:Q1014883 rdfs:label "Burger Brezel"@en .
+wd:Q101900049 rdfs:label "supernatural video game"@en .
+wd:Q102167691 rdfs:label "Communist Chinese Military Companies"@en .
+wd:Q1032372 rdfs:label "hackerspace"@en .
+wd:Q10334075 rdfs:label "Mxmlc"@en .
+wd:Q104117291 rdfs:label "region of Spain"@en .
+wd:Q10417670 rdfs:label "IRC client"@en .
+wd:Q104193250 rdfs:label "branch of ecology"@en .
+wd:Q10429667 rdfs:label "car brand"@en .
+wd:Q104415895 rdfs:label "branch of paleontology"@en .
+wd:Q104807662 rdfs:label "cathedral in the desert"@en .
+wd:Q1049958 rdfs:label "SNCF TGV POS"@en .
+wd:Q1050367 rdfs:label "online poker"@en .
+wd:Q105103015 rdfs:label "demo program"@en .
+wd:Q10526896 rdfs:label "Hugg"@en .
+wd:Q10535394 rdfs:label "informal region"@en .
+wd:Q105547053 rdfs:label "UK cable company"@en .
+wd:Q105674 rdfs:label "running"@en .
+wd:Q1057214 rdfs:label "private military company"@en .
+wd:Q1058914 rdfs:label "software company"@en .
+wd:Q1060165 rdfs:label "Riot Games"@en .
+wd:Q1063560 rdfs:label "chocolate truffle"@en .
+wd:Q106471136 rdfs:label "Wikimedia app"@en .
+wd:Q106509528 rdfs:label "Polish House"@en .
+wd:Q1065579 rdfs:label "costume accessory"@en .
+wd:Q106765575 rdfs:label "order"@en .
+wd:Q10677200 rdfs:label "municipal broadband"@en .
+wd:Q1068553 rdfs:label "facial skeleton"@en .
+wd:Q1068690 rdfs:label "functional genomics"@en .
+wd:Q10691563 rdfs:label "taxicab company"@en .
+wd:Q107096063 rdfs:label "Landmark tower"@en .
+wd:Q107171122 rdfs:label "Made in Hungary"@en .
+wd:Q1073041 rdfs:label "coconut bar"@en .
+wd:Q107307154 rdfs:label "virtual place"@en .
+wd:Q107316103 rdfs:label "developer website"@en .
+wd:Q1073718 rdfs:label "Chinese poker"@en .
+wd:Q1074407 rdfs:label "chinos"@en .
+wd:Q108059870 rdfs:label "Star Wars planet"@en .
+wd:Q108366200 rdfs:label "graduate specialization"@en .
+wd:Q108792154 rdfs:label "hydro-electric power scheme"@en .
+wd:Q108873226 rdfs:label "Clandestine Organization"@en .
+wd:Q108915260 rdfs:label "sexual entertainment venue"@en .
+wd:Q109729298 rdfs:label "art dealer"@en .
+wd:Q10987 rdfs:label "honey"@en .
+wd:Q10990 rdfs:label "meat"@en .
+wd:Q109946538 rdfs:label "Rocket League Sideswipe"@en .
+wd:Q11015 rdfs:label "snooker"@en .
+wd:Q11019 rdfs:label "machine"@en .
+wd:Q11020 rdfs:label "pool"@en .
+wd:Q11032 rdfs:label "newspaper"@en .
+wd:Q110484183 rdfs:label "cigarette company"@en .
+wd:Q1104949 rdfs:label "Coca Colla"@en .
+wd:Q110643339 rdfs:label "adult tube site"@en .
+wd:Q11108449 rdfs:label "hair dye"@en .
+wd:Q1114461 rdfs:label "comics character"@en .
+wd:Q1116826 rdfs:label "private security company"@en .
+wd:Q11191179 rdfs:label "BF-01D"@en .
+wd:Q11228705 rdfs:label "L-03E"@en .
+wd:Q11250 rdfs:label "Kubuntu"@en .
+wd:Q11271324 rdfs:label "energy transformation"@en .
+wd:Q11294827 rdfs:label "camera manufacturer"@en .
+wd:Q1130645 rdfs:label "open-source software"@en .
+wd:Q1132207 rdfs:label "business incubator"@en .
+wd:Q11322916 rdfs:label "dry shampoo"@en .
+wd:Q1132455 rdfs:label "hazard"@en .
+wd:Q1132944 rdfs:label "Science shop"@en .
+wd:Q11334882 rdfs:label "Pokémon Professor"@en .
+wd:Q11371 rdfs:label "Internet service provider"@en .
+wd:Q1137109 rdfs:label "video game publisher"@en .
+wd:Q11379 rdfs:label "energy"@en .
+wd:Q1139866 rdfs:label "Dofus"@en .
+wd:Q1140140 rdfs:label "mainland"@en .
+wd:Q1144084 rdfs:label "utility pole"@en .
+wd:Q1146208 rdfs:label "Institut National de Recherche en Informatique et en Automatique"@en .
+wd:Q1147112 rdfs:label "comparative genomics"@en .
+wd:Q1149226 rdfs:label "web chat"@en .
+wd:Q1152135 rdfs:label "unsupervised learning"@en .
+wd:Q1152227 rdfs:label "pharmacogenomics"@en .
+wd:Q1153025 rdfs:label "wheelchair tennis"@en .
+wd:Q1155692 rdfs:label "DSL modem"@en .
+wd:Q11560645 rdfs:label "waste management facility"@en .
+wd:Q11660 rdfs:label "artificial intelligence"@en .
+wd:Q116634 rdfs:label "online game"@en .
+wd:Q11670533 rdfs:label "elevated station"@en .
+wd:Q1172480 rdfs:label "data model"@en .
+wd:Q11796413 rdfs:label "decoration"@en .
+wd:Q118398 rdfs:label "arXiv"@en .
+wd:Q11853682 rdfs:label "open encyclopedia"@en .
+wd:Q1186164 rdfs:label "corporate spin-off"@en .
+wd:Q11862829 rdfs:label "academic discipline"@en .
+wd:Q11885129 rdfs:label "artist agency"@en .
+wd:Q1188693 rdfs:label "mind sport"@en .
+wd:Q1193625 rdfs:label "social science methodology"@en .
+wd:Q1193702 rdfs:label "parliamentary opposition"@en .
+wd:Q1195245 rdfs:label "beauty salon"@en .
+wd:Q1196545 rdfs:label "historical method"@en .
+wd:Q1199743 rdfs:label "gradient descent"@en .
+wd:Q1200183 rdfs:label "Fiber to the home"@en .
+wd:Q1200676 rdfs:label "design agency"@en .
+wd:Q1200957 rdfs:label "tourist destination"@en .
+wd:Q12014035 rdfs:label "hiking"@en .
+wd:Q12014207 rdfs:label "trekking"@en .
+wd:Q120560 rdfs:label "minor basilica"@en .
+wd:Q1208658 rdfs:label "ring theory"@en .
+wd:Q1210082 rdfs:label "tree traversal"@en .
+wd:Q12130 rdfs:label "Brittany"@en .
+wd:Q121359 rdfs:label "infrastructure"@en .
+wd:Q121416 rdfs:label "discrete mathematics"@en .
+wd:Q12192991 rdfs:label "meskouta"@en .
+wd:Q12226408 rdfs:label "Ubuntu Kylin"@en .
+wd:Q1224715 rdfs:label "dblp computer science bibliography"@en .
+wd:Q12309784 rdfs:label "Elklub"@en .
+wd:Q12311058 rdfs:label "Fanta Free Orange"@en .
+wd:Q12313595 rdfs:label "collaborative real-time editor"@en .
+wd:Q1266169 rdfs:label "telephone company"@en .
+wd:Q12721 rdfs:label "monocle"@en .
+wd:Q12725 rdfs:label "electricity"@en .
+wd:Q1273376 rdfs:label "E.Leclerc"@en .
+wd:Q12817454 rdfs:label "agricultural firm"@en .
+wd:Q128207 rdfs:label "terrestrial planet"@en .
+wd:Q1293220 rdfs:label "physical phenomenon"@en .
+wd:Q129337 rdfs:label "TGV"@en .
+wd:Q1293664 rdfs:label "open content"@en .
+wd:Q1294318 rdfs:label "online book"@en .
+wd:Q1302771 rdfs:label "Egg-and-spoon race"@en .
+wd:Q131436 rdfs:label "board game"@en .
+wd:Q131476 rdfs:label "graph theory"@en .
+wd:Q131669 rdfs:label "Linux distribution"@en .
+wd:Q1317202 rdfs:label "Hodge theory"@en .
+wd:Q1318768 rdfs:label "snack bar"@en .
+wd:Q1320047 rdfs:label "book publisher"@en .
+wd:Q13226383 rdfs:label "facility"@en .
+wd:Q1324916 rdfs:label "English billiards"@en .
+wd:Q13261 rdfs:label "hot chocolate"@en .
+wd:Q13266 rdfs:label "cookie"@en .
+wd:Q13276 rdfs:label "cake"@en .
+wd:Q1331793 rdfs:label "media company"@en .
+wd:Q133215 rdfs:label "casino"@en .
+wd:Q1334294 rdfs:label "software repository"@en .
+wd:Q133744 rdfs:label "tour operator"@en .
+wd:Q13402959 rdfs:label "high-speed train"@en .
+wd:Q134041 rdfs:label "cola"@en .
+wd:Q1341478 rdfs:label "energy company"@en .
+wd:Q13419255 rdfs:label "hypertext encyclopedia"@en .
+wd:Q1342518 rdfs:label "Penny football"@en .
+wd:Q1343205 rdfs:label "file hosting service"@en .
+wd:Q1350108 rdfs:label "fansite"@en .
+wd:Q13582798 rdfs:label "Public Scientific and Technical Research Establishment"@en .
+wd:Q13586511 rdfs:label "Dealer's choice"@en .
+wd:Q13637823 rdfs:label "Independent hardware vendor"@en .
+wd:Q13646 rdfs:label "SNCF"@en .
+wd:Q1365365 rdfs:label "stimulant foodstuff"@en .
+wd:Q1368898 rdfs:label "game of skill"@en .
+wd:Q1369723 rdfs:label "Web Agency"@en .
+wd:Q13733263 rdfs:label "Internet Explorer 11"@en .
+wd:Q13741 rdfs:label "integrated development environment"@en .
+wd:Q1378470 rdfs:label "software development methodology"@en .
+wd:Q1397073 rdfs:label "data schema"@en .
+wd:Q1406985 rdfs:label "transmission system operator for gas"@en .
+wd:Q14085739 rdfs:label "sailing"@en .
+wd:Q1414135 rdfs:label "rolling stock"@en .
+wd:Q142714 rdfs:label "card game"@en .
+wd:Q1431486 rdfs:label "Orange"@en .
+wd:Q1434370 rdfs:label "River surfing"@en .
+wd:Q1437388 rdfs:label "formal ontology"@en .
+wd:Q1437394 rdfs:label "formal concept analysis"@en .
+wd:Q1438053 rdfs:label "research infrastructure"@en .
+wd:Q1440300 rdfs:label "observation tower"@en .
+wd:Q1440476 rdfs:label "lattice tower"@en .
+wd:Q14406742 rdfs:label "comic book series"@en .
+wd:Q14411698 rdfs:label "romance game"@en .
+wd:Q14473756 rdfs:label "poussin"@en .
+wd:Q14489129 rdfs:label "evolutionary algorithm"@en .
+wd:Q1455890 rdfs:label "friendship bracelet"@en .
+wd:Q1463415 rdfs:label "inverted microscope"@en .
+wd:Q14635346 rdfs:label "multi-channel network"@en .
+wd:Q1466031 rdfs:label "funeral home"@en .
+wd:Q1474517 rdfs:label "French National Institute of Health and Medical Research"@en .
+wd:Q147538 rdfs:label "soft drink"@en .
+wd:Q1476018 rdfs:label "Quasi-Newton method"@en .
+wd:Q1482252 rdfs:label "Semantic Web Service"@en .
+wd:Q14827288 rdfs:label "Wikimedia project"@en .
+wd:Q1484375 rdfs:label "PyCharm"@en .
+wd:Q14922 rdfs:label "table football"@en .
+wd:Q14942280 rdfs:label "petrochemical company"@en .
+wd:Q1502514 rdfs:label "cooperative movement"@en .
+wd:Q1503271 rdfs:label "geometric graph theory"@en .
+wd:Q15079663 rdfs:label "rapid transit railway line"@en .
+wd:Q15129745 rdfs:label "sub-Earth"@en .
+wd:Q15133790 rdfs:label "culottes"@en .
+wd:Q15179 rdfs:label "moustache"@en .
+wd:Q1520069 rdfs:label "bottling company"@en .
+wd:Q1522115 rdfs:label "energy source"@en .
+wd:Q152749 rdfs:label "radiation damage"@en .
+wd:Q1529128 rdfs:label "postal service"@en .
+wd:Q1530022 rdfs:label "religious organization"@en .
+wd:Q15328 rdfs:label "camera"@en .
+wd:Q15411548 rdfs:label "computing infrastructure"@en .
+wd:Q1542938 rdfs:label "grand établissement"@en .
+wd:Q15477174 rdfs:label "web browser based on Firefox"@en .
+wd:Q1549591 rdfs:label "big city"@en .
+wd:Q15505266 rdfs:label "Login manager"@en .
+wd:Q15548100 rdfs:label "free instant messaging client"@en .
+wd:Q15614021 rdfs:label "VoIP software"@en .
+wd:Q15621650 rdfs:label "skiing"@en .
+wd:Q1562213 rdfs:label "freight tram"@en .
+wd:Q15632617 rdfs:label "fictional human"@en .
+wd:Q15633582 rdfs:label "MediaWiki website"@en .
+wd:Q15634581 rdfs:label "design company"@en .
+wd:Q157031 rdfs:label "foundation"@en .
+wd:Q15773347 rdfs:label "film character"@en .
+wd:Q15825863 rdfs:label "light rail vehicle"@en .
+wd:Q159144 rdfs:label "Europa-Park"@en .
+wd:Q159354 rdfs:label "rowing"@en .
+wd:Q15978715 rdfs:label "smartglasses"@en .
+wd:Q159992 rdfs:label "surfing"@en .
+wd:Q16001076 rdfs:label "3D printing marketplace"@en .
+wd:Q16002093 rdfs:label "video aggregator"@en .
+wd:Q16021388 rdfs:label "alien video game"@en .
+wd:Q161439 rdfs:label "jewelry"@en .
+wd:Q161726 rdfs:label "multinational corporation"@en .
+wd:Q16274795 rdfs:label "shipbuilding company"@en .
+wd:Q1636958 rdfs:label "Xiaomi"@en .
+wd:Q1637219 rdfs:label "speedcubing"@en .
+wd:Q16519632 rdfs:label "scientific organization"@en .
+wd:Q1660010 rdfs:label "Christmas cookies"@en .
+wd:Q166142 rdfs:label "application"@en .
+wd:Q1662611 rdfs:label "IT system"@en .
+wd:Q1668024 rdfs:label "service on internet"@en .
+wd:Q167037 rdfs:label "corporation"@en .
+wd:Q167270 rdfs:label "trademark"@en .
+wd:Q167893 rdfs:label "mayonnaise"@en .
+wd:Q16820462 rdfs:label "Borderlands"@en .
+wd:Q16825545 rdfs:label "adult dating site"@en .
+wd:Q16839772 rdfs:label "Gel bracelet"@en .
+wd:Q168403 rdfs:label "myopia"@en .
+wd:Q16852719 rdfs:label "casino hotel"@en .
+wd:Q16858238 rdfs:label "train category"@en .
+wd:Q16920758 rdfs:label "food and drink preparation"@en .
+wd:Q16970 rdfs:label "church building"@en .
+wd:Q16972647 rdfs:label "Google Chrome App"@en .
+wd:Q16985923 rdfs:label "Independent Monitoring Board"@en .
+wd:Q16988367 rdfs:label "CloudLocker"@en .
+wd:Q17002728 rdfs:label "branch of botany"@en .
+wd:Q17013040 rdfs:label "Facial symmetry"@en .
+wd:Q17013334 rdfs:label "feature learning"@en .
+wd:Q17074646 rdfs:label "personal cloud"@en .
+wd:Q17080486 rdfs:label "Twirling"@en .
+wd:Q17082653 rdfs:label "candy making"@en .
+wd:Q17092661 rdfs:label "Recurrence tracking microscope"@en .
+wd:Q17119191 rdfs:label "ripped jeans"@en .
+wd:Q17130715 rdfs:label "Slack"@en .
+wd:Q17141430 rdfs:label "pencil moustache"@en .
+wd:Q171545 rdfs:label "Belfort"@en .
+wd:Q174320 rdfs:label "oscilloscope"@en .
+wd:Q1751819 rdfs:label "RDF Schema"@en .
+wd:Q1751850 rdfs:label "optical instrument"@en .
+wd:Q1756711 rdfs:label "video rental shop"@en .
+wd:Q1757263 rdfs:label "moving company"@en .
+wd:Q17589204 rdfs:label "FootballDatabase.eu"@en .
+wd:Q17710982 rdfs:label "Twitterature"@en .
+wd:Q17737 rdfs:label "theory"@en .
+wd:Q177409 rdfs:label "projective geometry"@en .
+wd:Q177895 rdfs:label "astigmatism"@en .
+wd:Q178131 rdfs:label "snowboarding"@en .
+wd:Q1784017 rdfs:label "secondary sex characteristic"@en .
+wd:Q1789476 rdfs:label "bibliographic database"@en .
+wd:Q179012 rdfs:label "project management"@en .
+wd:Q1790321 rdfs:label "Krylov subspace methods"@en .
+wd:Q179613 rdfs:label "flooding algorithm"@en .
+wd:Q180 rdfs:label "Wikimedia Foundation"@en .
+wd:Q180204 rdfs:label "shampoo"@en .
+wd:Q180704 rdfs:label "Iron Man"@en .
+wd:Q18087876 rdfs:label "poultry"@en .
+wd:Q18088270 rdfs:label "dress trousers"@en .
+wd:Q181042 rdfs:label "Kinder Surprise"@en .
+wd:Q181247 rdfs:label "woodwind instrument"@en .
+wd:Q18127 rdfs:label "record label"@en .
+wd:Q1815345 rdfs:label "Diet Coke"@en .
+wd:Q18156733 rdfs:label "surf"@en .
+wd:Q1817119 rdfs:label "ICT infrastructure"@en .
+wd:Q1817883 rdfs:label "furniture manufacturer"@en .
+wd:Q18205998 rdfs:label "circuit topology"@en .
+wd:Q18348827 rdfs:label "headless browser"@en .
+wd:Q18388277 rdfs:label "technology company"@en .
+wd:Q1847641 rdfs:label "human facial hair"@en .
+wd:Q184872 rdfs:label "recreation"@en .
+wd:Q18509232 rdfs:label "fast food restaurant chain"@en .
+wd:Q18534278 rdfs:label "facial feature"@en .
+wd:Q18534571 rdfs:label "medical research center"@en .
+wd:Q18547489 rdfs:label "Thasian sauce"@en .
+wd:Q18554189 rdfs:label "degenerative myopia"@en .
+wd:Q18554630 rdfs:label "irregular astigmatism"@en .
+wd:Q185698 rdfs:label "methodology"@en .
+wd:Q188273 rdfs:label "Ubisoft"@en .
+wd:Q18915790 rdfs:label "Ubuntu MATE"@en .
+wd:Q190549 rdfs:label "functional analysis"@en .
+wd:Q1914636 rdfs:label "activity"@en .
+wd:Q1917775 rdfs:label "music publishing company"@en .
+wd:Q192532 rdfs:label "digital rights management"@en .
+wd:Q192776 rdfs:label "artificial neural network"@en .
+wd:Q193424 rdfs:label "web service"@en .
+wd:Q1936090 rdfs:label "Parlements"@en .
+wd:Q1936384 rdfs:label "area of mathematics"@en .
+wd:Q1941618 rdfs:label "mobile network operator"@en .
+wd:Q194195 rdfs:label "amusement park"@en .
+wd:Q1948408 rdfs:label "text segmentation"@en .
+wd:Q195 rdfs:label "chocolate"@en .
+wd:Q19509097 rdfs:label "cigarette brand"@en .
+wd:Q1954906 rdfs:label "music disk"@en .
+wd:Q19644607 rdfs:label "pharmaceutical company"@en .
+wd:Q196538 rdfs:label "microscope"@en .
+wd:Q196600 rdfs:label "media franchise"@en .
+wd:Q1969601 rdfs:label "pathfinding"@en .
+wd:Q19786787 rdfs:label "Archduke of Geonosis"@en .
+wd:Q19799634 rdfs:label "model of calculator"@en .
+wd:Q1981926 rdfs:label "Neutron microscope"@en .
+wd:Q19862406 rdfs:label "business"@en .
+wd:Q198782 rdfs:label "tropical cyclone basin"@en .
+wd:Q19914521 rdfs:label "ground damage"@en .
+wd:Q19935939 rdfs:label "branch of geography"@en .
+wd:Q19967801 rdfs:label "online service"@en .
+wd:Q2 rdfs:label "Earth"@en .
+wd:Q20015305 rdfs:label "large business"@en .
+wd:Q20026918 rdfs:label "mathematical theory"@en .
+wd:Q20058155 rdfs:label "solar island"@en .
+wd:Q201664 rdfs:label "bracelet"@en .
+wd:Q2041172 rdfs:label "measuring instrument"@en .
+wd:Q20488450 rdfs:label "mobile phone series"@en .
+wd:Q205895 rdfs:label "landmass"@en .
+wd:Q2060479 rdfs:label "eight-ball"@en .
+wd:Q20653619 rdfs:label "Zone to Defend"@en .
+wd:Q2069741 rdfs:label "Matha"@en .
+wd:Q20719642 rdfs:label "current region of France"@en .
+wd:Q2072000 rdfs:label "Three card poker"@en .
+wd:Q20722857 rdfs:label "Deep Q-Network"@en .
+wd:Q2072840 rdfs:label "CrossFit"@en .
+wd:Q207472 rdfs:label "Toto"@en .
+wd:Q20820271 rdfs:label "graduate school"@en .
+wd:Q208502 rdfs:label "railroad car"@en .
+wd:Q2085381 rdfs:label "publisher"@en .
+wd:Q20857065 rdfs:label "United States federal agency"@en .
+wd:Q20858006 rdfs:label "federal law enforcement agency of the United States"@en .
+wd:Q208729 rdfs:label "nougat"@en .
+wd:Q20888692 rdfs:label "camera brand"@en .
+wd:Q2091816 rdfs:label "computational genomics"@en .
+wd:Q209330 rdfs:label "Instagram"@en .
+wd:Q2093999 rdfs:label "trail running"@en .
+wd:Q20983788 rdfs:label "free operating system"@en .
+wd:Q210167 rdfs:label "video game developer"@en .
+wd:Q21028313 rdfs:label "global analysis"@en .
+wd:Q21045430 rdfs:label "inferring horizontal gene transfer"@en .
+wd:Q2111434 rdfs:label "pendant"@en .
+wd:Q2111762 rdfs:label "machine shop"@en .
+wd:Q21198 rdfs:label "computer science"@en .
+wd:Q212434 rdfs:label "Olympic sport"@en .
+wd:Q212803 rdfs:label "algebraic topology"@en .
+wd:Q212845 rdfs:label "Basque pelota"@en .
+wd:Q213369 rdfs:label "webcomic"@en .
+wd:Q21426954 rdfs:label "bague en boghei"@en .
+wd:Q2143661 rdfs:label "corrective lens"@en .
+wd:Q21503645 rdfs:label "lancer de sabot de Pont-Aven"@en .
+wd:Q215819 rdfs:label "Microsoft SQL Server"@en .
+wd:Q21595855 rdfs:label "pathfinding algorithm"@en .
+wd:Q21606686 rdfs:label "scientific website"@en .
+wd:Q2165733 rdfs:label "Snooker plus"@en .
+wd:Q2166013 rdfs:label "wiki hosting service"@en .
+wd:Q2167372 rdfs:label "mountain running"@en .
+wd:Q216931 rdfs:label "advertising agency"@en .
+wd:Q218616 rdfs:label "proprietary software"@en .
+wd:Q2205965 rdfs:label "list of Belgian railway services"@en .
+wd:Q220652 rdfs:label "Borg"@en .
+wd:Q22074477 rdfs:label "cyborg in a work of fiction"@en .
+wd:Q222046 rdfs:label "genomics"@en .
+wd:Q223127 rdfs:label "Logitech"@en .
+wd:Q2262868 rdfs:label "domain model"@en .
+wd:Q2265657 rdfs:label "Phalanx"@en .
+wd:Q22687 rdfs:label "bank"@en .
+wd:Q22808403 rdfs:label "station located underground"@en .
+wd:Q2283 rdfs:label "Microsoft"@en .
+wd:Q22907849 rdfs:label "Discord"@en .
+wd:Q2292993 rdfs:label "design method"@en .
+wd:Q229398 rdfs:label "three-dimensional chess"@en .
+wd:Q2300409 rdfs:label "Premium-Cola"@en .
+wd:Q23043008 rdfs:label "Krasnoliman Directorate of Railway Transportation"@en .
+wd:Q231136 rdfs:label "Encarta"@en .
+wd:Q2312410 rdfs:label "sports discipline"@en .
+wd:Q2321565 rdfs:label "iterative numerical method"@en .
+wd:Q2324835 rdfs:label "national railway"@en .
+wd:Q2332595 rdfs:label "cataract glasses"@en .
+wd:Q23461185 rdfs:label "organic chocolate"@en .
+wd:Q2351172 rdfs:label "Evangelion"@en .
+wd:Q23572 rdfs:label "Game of Thrones"@en .
+wd:Q2357239 rdfs:label "sports tourism"@en .
+wd:Q23670565 rdfs:label "professional services firm"@en .
+wd:Q2369170 rdfs:label "underwater sports"@en .
+wd:Q23797 rdfs:label "contact lens"@en .
+wd:Q2401485 rdfs:label "expedition"@en .
+wd:Q2401749 rdfs:label "telecommunication company"@en .
+wd:Q241317 rdfs:label "computing platform"@en .
+wd:Q2424752 rdfs:label "product"@en .
+wd:Q2425052 rdfs:label "electrical appliance"@en .
+wd:Q2426135 rdfs:label "racket sport"@en .
+wd:Q243 rdfs:label "Eiffel Tower"@en .
+wd:Q244030 rdfs:label "Diablo III"@en .
+wd:Q2442401 rdfs:label "record company"@en .
+wd:Q244570 rdfs:label "pince-nez"@en .
+wd:Q2462003 rdfs:label "instant messaging client"@en .
+wd:Q2470609 rdfs:label "Wagner's disease"@en .
+wd:Q249556 rdfs:label "railway company"@en .
+wd:Q25112142 rdfs:label "dental service organization"@en .
+wd:Q251981 rdfs:label "crisp bread"@en .
+wd:Q2519914 rdfs:label "brand name"@en .
+wd:Q25303637 rdfs:label "neurogenomics"@en .
+wd:Q25325314 rdfs:label "Elastic cloud storage"@en .
+wd:Q2533407 rdfs:label "surf lifesaving"@en .
+wd:Q2534781 rdfs:label "event management company"@en .
+wd:Q25380332 rdfs:label "Kiev Archaeographic Commission"@en .
+wd:Q2538889 rdfs:label "weapons manufacturing company"@en .
+wd:Q2539 rdfs:label "machine learning"@en .
+wd:Q25403900 rdfs:label "food ingredient"@en .
+wd:Q25461160 rdfs:label "syndicate"@en .
+wd:Q2551422 rdfs:label "Water damage"@en .
+wd:Q255632 rdfs:label "cathedral works"@en .
+wd:Q2585571 rdfs:label "wireless Internet service provider"@en .
+wd:Q2590801 rdfs:label "commercial cleaning"@en .
+wd:Q2596997 rdfs:label "condiment"@en .
+wd:Q263 rdfs:label "Wikisource"@en .
+wd:Q2634782 rdfs:label "low vision"@en .
+wd:Q264554 rdfs:label "carbonated water"@en .
+wd:Q266990 rdfs:label "Netscape"@en .
+wd:Q2670101 rdfs:label "Earth analog"@en .
+wd:Q2670999 rdfs:label "investment strategy"@en .
+wd:Q27038993 rdfs:label "food establishment"@en .
+wd:Q27043907 rdfs:label "yoga studio"@en .
+wd:Q2721136 rdfs:label "image hosting service"@en .
+wd:Q273426 rdfs:label "éclair"@en .
+wd:Q2746070 rdfs:label "Canelé"@en .
+wd:Q2746792 rdfs:label "noncommutative geometry"@en .
+wd:Q2755547 rdfs:label "individual sport"@en .
+wd:Q27881073 rdfs:label "fake news website"@en .
+wd:Q27907674 rdfs:label "girls' singles"@en .
+wd:Q27907692 rdfs:label "girls' doubles"@en .
+wd:Q27907702 rdfs:label "boys' singles"@en .
+wd:Q27907716 rdfs:label "boys' doubles"@en .
+wd:Q27964209 rdfs:label "Ubuntu Budgie"@en .
+wd:Q28004621 rdfs:label "SMS TV game"@en .
+wd:Q2801262 rdfs:label "hacker group"@en .
+wd:Q280413 rdfs:label "National Center for Scientific Research"@en .
+wd:Q28051323 rdfs:label "video-conferencing software"@en .
+wd:Q28127283 rdfs:label "Coca-Cola Zero Sugar"@en .
+wd:Q2813 rdfs:label "Coca-Cola"@en .
+wd:Q28135300 rdfs:label "Workplace from Meta"@en .
+wd:Q2826708 rdfs:label "Agence régionale de santé"@en .
+wd:Q28332 rdfs:label "overseas region"@en .
+wd:Q2835765 rdfs:label "optimization algorithm"@en .
+wd:Q28406404 rdfs:label "Microsoft Teams"@en .
+wd:Q28416788 rdfs:label "Lotus seed paste cake"@en .
+wd:Q28598684 rdfs:label "branch of biology"@en .
+wd:Q287198 rdfs:label "online chat"@en .
+wd:Q287618 rdfs:label "sequential game"@en .
+wd:Q2877513 rdfs:label "BT Home Hub"@en .
+wd:Q28785 rdfs:label "Sacré-Cœur"@en .
+wd:Q2904494 rdfs:label "birinic"@en .
+wd:Q2905238 rdfs:label "BlaBlaCar"@en .
+wd:Q2910253 rdfs:label "Torah database"@en .
+wd:Q291240 rdfs:label "car rental company"@en .
+wd:Q2914704 rdfs:label "advertising network"@en .
+wd:Q29410287 rdfs:label "Adam optimizer"@en .
+wd:Q2961813 rdfs:label "local TV channel"@en .
+wd:Q2985062 rdfs:label "analytic combinatorics"@en .
+wd:Q29885033 rdfs:label "cosmetics manufacturer"@en .
+wd:Q2990216 rdfs:label "mining company"@en .
+wd:Q2991667 rdfs:label "multilayer perceptron"@en .
+wd:Q299191 rdfs:label "chess variant"@en .
+wd:Q30022 rdfs:label "coffeehouse"@en .
+wd:Q3006228 rdfs:label "crédit municipal"@en .
+wd:Q3008212 rdfs:label "Cyberman"@en .
+wd:Q30103124 rdfs:label "hospital group"@en .
+wd:Q3023650 rdfs:label "social rental office"@en .
+wd:Q3029462 rdfs:label "specialized directorates of fiscal control"@en .
+wd:Q30299483 rdfs:label "Inria Nancy - Grand-Est research centre"@en .
+wd:Q30503704 rdfs:label "graph algorithm"@en .
+wd:Q3055260 rdfs:label "French company"@en .
+wd:Q3063988 rdfs:label "Made in France"@en .
+wd:Q30642 rdfs:label "natural language processing"@en .
+wd:Q30754613 rdfs:label "TGV inOui"@en .
+wd:Q30765558 rdfs:label "cement company"@en .
+wd:Q3077240 rdfs:label "forge"@en .
+wd:Q30899001 rdfs:label "software distributor"@en .
+wd:Q3117865 rdfs:label "hotel group"@en .
+wd:Q312 rdfs:label "Apple Inc."@en .
+wd:Q31629 rdfs:label "type of sport"@en .
+wd:Q3180727 rdfs:label "spectral graph theory"@en .
+wd:Q3184737 rdfs:label "cathedral chapter"@en .
+wd:Q31855 rdfs:label "research institute"@en .
+wd:Q31920 rdfs:label "swimming"@en .
+wd:Q319417 rdfs:label "SQLite"@en .
+wd:Q3214499 rdfs:label "LORIA"@en .
+wd:Q3220391 rdfs:label "social networking service"@en .
+wd:Q32350958 rdfs:label "bingo hall"@en .
+wd:Q3237209 rdfs:label "Levi's 501"@en .
+wd:Q324254 rdfs:label "ontology"@en .
+wd:Q3244038 rdfs:label "public establishment of an administrative nature"@en .
+wd:Q325904 rdfs:label "breadth-first search"@en .
+wd:Q327757 rdfs:label "super-Earth"@en .
+wd:Q3307920 rdfs:label "console manufacturer"@en .
+wd:Q33114024 rdfs:label "exile organization"@en .
+wd:Q33120867 rdfs:label "Wikimedia wiki"@en .
+wd:Q33120876 rdfs:label "Wikimedia content project"@en .
+wd:Q33125444 rdfs:label "character from Star Wars"@en .
+wd:Q3326291 rdfs:label "handlebar moustache"@en .
+wd:Q33270324 rdfs:label "genealogy website"@en .
+wd:Q3341285 rdfs:label "cue sports"@en .
+wd:Q335827 rdfs:label "Directorate-General for External Security"@en .
+wd:Q336787 rdfs:label "enumerative combinatorics"@en .
+wd:Q337535 rdfs:label "Steam"@en .
+wd:Q3377759 rdfs:label "Wide leg jeans"@en .
+wd:Q3381973 rdfs:label "phylogenomics"@en .
+wd:Q3391957 rdfs:label "online community platform"@en .
+wd:Q3393867 rdfs:label "seafood market"@en .
+wd:Q33959 rdfs:label "Nice"@en .
+wd:Q3407440 rdfs:label "wireless router"@en .
+wd:Q3407658 rdfs:label "tram"@en .
+wd:Q341 rdfs:label "free software"@en .
+wd:Q3433179 rdfs:label "natural risk"@en .
+wd:Q3456887 rdfs:label "logistic network"@en .
+wd:Q3478658 rdfs:label "knowledge representation and reasoning"@en .
+wd:Q3480110 rdfs:label "Service d'inspection"@en .
+wd:Q3487908 rdfs:label "venture capital firm"@en .
+wd:Q349 rdfs:label "sport"@en .
+wd:Q3502482 rdfs:label "cultural region"@en .
+wd:Q3504248 rdfs:label "inner planet of the Solar System"@en .
+wd:Q35127 rdfs:label "website"@en .
+wd:Q351281 rdfs:label "sound energy"@en .
+wd:Q3517281 rdfs:label "Telecom Nancy"@en .
+wd:Q3530132 rdfs:label "tobi trousers"@en .
+wd:Q3532114 rdfs:label "combinatorial topology"@en .
+wd:Q3535552 rdfs:label "Tourteau fromagé"@en .
+wd:Q3539533 rdfs:label "triplestore"@en .
+wd:Q354869 rdfs:label "image sharing"@en .
+wd:Q3550864 rdfs:label "mixed research unit"@en .
+wd:Q3551775 rdfs:label "university in France"@en .
+wd:Q3559933 rdfs:label "Live support software"@en .
+wd:Q3575260 rdfs:label "bijou"@en .
+wd:Q3579160 rdfs:label "newspaper publisher"@en .
+wd:Q3591561 rdfs:label "public cultural cooperation establishment"@en .
+wd:Q35996 rdfs:label "Mazda"@en .
+wd:Q360356 rdfs:label "Hamiltonian function"@en .
+wd:Q364 rdfs:label "GitHub"@en .
+wd:Q3661311 rdfs:label "fashion house"@en .
+wd:Q36784 rdfs:label "region of France"@en .
+wd:Q3694563 rdfs:label "snowshoe running"@en .
+wd:Q3726309 rdfs:label "state research institution"@en .
+wd:Q37501 rdfs:label "eyeglasses"@en .
+wd:Q3751111 rdfs:label "medical software"@en .
+wd:Q3778467 rdfs:label "gubana"@en .
+wd:Q378859 rdfs:label "pattern recognition"@en .
+wd:Q38076 rdfs:label "McDonald’s"@en .
+wd:Q381 rdfs:label "Ubuntu"@en .
+wd:Q381009 rdfs:label "chemical graph theory"@en .
+wd:Q3842318 rdfs:label "Made in Italy"@en .
+wd:Q38695 rdfs:label "cooking"@en .
+wd:Q388570 rdfs:label "film laboratory"@en .
+wd:Q392500 rdfs:label "Agence Nationale de la Recherche"@en .
+wd:Q3932296 rdfs:label "relational database management system"@en .
+wd:Q396045 rdfs:label "agricultural energy"@en .
+wd:Q3968 rdfs:label "algebra"@en .
+wd:Q39908 rdfs:label "trousers"@en .
+wd:Q399984 rdfs:label "hemisphere of the Earth"@en .
+wd:Q40056 rdfs:label "computer program"@en .
+wd:Q40189366 rdfs:label "interstellar radiation field"@en .
+wd:Q40679812 rdfs:label "running target shooting"@en .
+wd:Q40890078 rdfs:label "Explainable AI"@en .
+wd:Q40898 rdfs:label "Nancy"@en .
+wd:Q41084 rdfs:label "New Coke"@en .
+wd:Q4110622 rdfs:label "videochat"@en .
+wd:Q4115842 rdfs:label "topological graph theory"@en .
+wd:Q4116756 rdfs:label "Tourism in Saudi Arabia"@en .
+wd:Q41354 rdfs:label "vinegar"@en .
+wd:Q41595400 rdfs:label "mind game"@en .
+wd:Q41617857 rdfs:label "plug compatible manufacturer"@en .
+wd:Q4173330 rdfs:label "University of Lorraine"@en .
+wd:Q4200953 rdfs:label "turkey meat"@en .
+wd:Q4208733 rdfs:label "Kaisa"@en .
+wd:Q42213 rdfs:label "work"@en .
+wd:Q42261736 rdfs:label "cultural areas of indigenous North Americans"@en .
+wd:Q423785 rdfs:label "community of communes"@en .
+wd:Q423790 rdfs:label "urban community"@en .
+wd:Q42490 rdfs:label "Asterix"@en .
+wd:Q431289 rdfs:label "brand"@en .
+wd:Q43229 rdfs:label "organization"@en .
+wd:Q432478 rdfs:label "Automotrice à grande vitesse"@en .
+wd:Q43748 rdfs:label "eyebrow"@en .
+wd:Q4380101 rdfs:label "projection methods for solving system of linear equations"@en .
+wd:Q4387017 rdfs:label "mathematical sciences"@en .
+wd:Q4387609 rdfs:label "architectural firm"@en .
+wd:Q4417999 rdfs:label "network analysis"@en .
+wd:Q4438147 rdfs:label "game-based sport"@en .
+wd:Q4443425 rdfs:label "uninformed search algorithm"@en .
+wd:Q4470686 rdfs:label "decoration"@en .
+wd:Q4485157 rdfs:label "PC game"@en .
+wd:Q45069022 rdfs:label "skateboarding company"@en .
+wd:Q45400320 rdfs:label "open-access publisher"@en .
+wd:Q455347 rdfs:label "variation of basketball"@en .
+wd:Q45787211 rdfs:label "preprint server"@en .
+wd:Q462 rdfs:label "Star Wars"@en .
+wd:Q466 rdfs:label "World Wide Web"@en .
+wd:Q4671277 rdfs:label "academic institution"@en .
+wd:Q4671286 rdfs:label "academic major"@en .
+wd:Q467707 rdfs:label "software development kit"@en .
+wd:Q46847 rdfs:label "ring"@en .
+wd:Q470427 rdfs:label "refractive error"@en .
+wd:Q47094420 rdfs:label "Foam Tennis"@en .
+wd:Q4740894 rdfs:label "fish disease and parasites"@en .
+wd:Q474157 rdfs:label "collaborative software"@en .
+wd:Q47519912 rdfs:label "bicycle repair station"@en .
+wd:Q47524436 rdfs:label "swimming area"@en .
+wd:Q47533065 rdfs:label "disability organization"@en .
+wd:Q476118 rdfs:label "reinsurance"@en .
+wd:Q477248 rdfs:label "pastry"@en .
+wd:Q47913 rdfs:label "intelligence agency"@en .
+wd:Q4810155 rdfs:label "Association with lucrative purpose"@en .
+wd:Q481609 rdfs:label "damage"@en .
+wd:Q4830453 rdfs:label "business"@en .
+wd:Q483242 rdfs:label "laboratory"@en .
+wd:Q483373 rdfs:label "electric multiple unit"@en .
+wd:Q4838457 rdfs:label "baby shampoo"@en .
+wd:Q484170 rdfs:label "commune of France"@en .
+wd:Q486972 rdfs:label "human settlement"@en .
+wd:Q4875410 rdfs:label "Bayesian confidence propagation neural network"@en .
+wd:Q488720 rdfs:label "charm bracelet"@en .
+wd:Q497397 rdfs:label "video poker"@en .
+wd:Q5004188 rdfs:label "bypass"@en .
+wd:Q50386068 rdfs:label "youth mixed doubles"@en .
+wd:Q50425277 rdfs:label "diet cola"@en .
+wd:Q50430027 rdfs:label "hair care products"@en .
+wd:Q504353 rdfs:label "greedy algorithm"@en .
+wd:Q5063597 rdfs:label "low-floor tram"@en .
+wd:Q5064071 rdfs:label "cerebellar model articulation controller"@en .
+wd:Q507443 rdfs:label "pharmaceutical industry"@en .
+wd:Q508256 rdfs:label "Bastille"@en .
+wd:Q5093314 rdfs:label "Chess aesthetics"@en .
+wd:Q5096292 rdfs:label "Chicken eyeglasses"@en .
+wd:Q5100758 rdfs:label "Chinese eight-ball"@en .
+wd:Q512270 rdfs:label "Five-pin billiards"@en .
+wd:Q5159627 rdfs:label "confection"@en .
+wd:Q5163232 rdfs:label "Consistory"@en .
+wd:Q51704864 rdfs:label "national public establishment of an administrative nature"@en .
+wd:Q51746 rdfs:label "Luke Skywalker"@en .
+wd:Q5179579 rdfs:label "Cowboy pool"@en .
+wd:Q5183361 rdfs:label "Cream horn"@en .
+wd:Q5199354 rdfs:label "Cylon"@en .
+wd:Q52 rdfs:label "Wikipedia"@en .
+wd:Q52177345 rdfs:label "field sport"@en .
+wd:Q5225895 rdfs:label "public limited company"@en .
+wd:Q5227240 rdfs:label "data library"@en .
+wd:Q5276054 rdfs:label "digital commons"@en .
+wd:Q5281480 rdfs:label "disciplinary repository"@en .
+wd:Q52990223 rdfs:label "open science tool"@en .
+wd:Q5346803 rdfs:label "social business"@en .
+wd:Q5378800 rdfs:label "Enhanced entity–relationship model"@en .
+wd:Q5384579 rdfs:label "Equipment rental"@en .
+wd:Q5396251 rdfs:label "erygmascope"@en .
+wd:Q5398426 rdfs:label "television series"@en .
+wd:Q5416712 rdfs:label "Event chain methodology"@en .
+wd:Q54167390 rdfs:label "lucernal microscope"@en .
+wd:Q5419285 rdfs:label "examination board"@en .
+wd:Q542042 rdfs:label "duck meat"@en .
+wd:Q5422299 rdfs:label "extremal combinatorics"@en .
+wd:Q5428568 rdfs:label "facial resemblance"@en .
+wd:Q5431487 rdfs:label "fake moustache"@en .
+wd:Q5441227 rdfs:label "feedforward neural network"@en .
+wd:Q5465569 rdfs:label "Foodservice distributor"@en .
+wd:Q5466628 rdfs:label "for-profit corporation"@en .
+wd:Q54767 rdfs:label "puzzle video game"@en .
+wd:Q54811238 rdfs:label "graph convolutional network"@en .
+wd:Q548319 rdfs:label "kouign-amann"@en .
+wd:Q5506845 rdfs:label "Fu Manchu moustache"@en .
+wd:Q5514059 rdfs:label "symbolic artificial intelligence"@en .
+wd:Q5535478 rdfs:label "geometric combinatorics"@en .
+wd:Q55441204 rdfs:label "3D-convolutional neural network"@en .
+wd:Q55588631 rdfs:label "Pokémon video game"@en .
+wd:Q55605484 rdfs:label "bioelectricity"@en .
+wd:Q55635949 rdfs:label "tobacco factory"@en .
+wd:Q55693875 rdfs:label "International Economic Relationships"@en .
+wd:Q55693888 rdfs:label "Bulgarian Philology"@en .
+wd:Q55693892 rdfs:label "Fishery and Aquaculture"@en .
+wd:Q55738874 rdfs:label "single clarinets with conical bore"@en .
+wd:Q55789206 rdfs:label "syndromic myopia"@en .
+wd:Q5580558 rdfs:label "golf billiards"@en .
+wd:Q559856 rdfs:label "online video platform"@en .
+wd:Q56054951 rdfs:label "men's tennis"@en .
+wd:Q562166 rdfs:label "housing cooperative"@en .
+wd:Q56311389 rdfs:label "Poulet des Cévennes"@en .
+wd:Q56313053 rdfs:label "Additive combinatorics"@en .
+wd:Q56316737 rdfs:label "domain ontology"@en .
+wd:Q56316745 rdfs:label "application ontology"@en .
+wd:Q56506809 rdfs:label "implicit method"@en .
+wd:Q56876011 rdfs:label "private corporation"@en .
+wd:Q570116 rdfs:label "tourist attraction"@en .
+wd:Q5728609 rdfs:label "spanish pool"@en .
+wd:Q573573 rdfs:label "abstract strategy game"@en .
+wd:Q5741069 rdfs:label "rock group"@en .
+wd:Q574577 rdfs:label "chat room"@en .
+wd:Q57504458 rdfs:label "port infrastructure"@en .
+wd:Q575092 rdfs:label "Google Glass"@en .
+wd:Q5752993 rdfs:label "donkey meat"@en .
+wd:Q5759783 rdfs:label "Highway"@en .
+wd:Q5769360 rdfs:label "Cimek"@en .
+wd:Q5774403 rdfs:label "historical society"@en .
+wd:Q57951700 rdfs:label "research site"@en .
+wd:Q58199 rdfs:label "instant messaging"@en .
+wd:Q58542 rdfs:label "multi protocol instant messaging clients"@en .
+wd:Q586034 rdfs:label "Fiber to the x"@en .
+wd:Q5873161 rdfs:label "refreshing drink"@en .
+wd:Q5906082 rdfs:label "horseshoe moustache"@en .
+wd:Q59185742 rdfs:label "Craft soda"@en .
+wd:Q593744 rdfs:label "knowledge base"@en .
+wd:Q594593 rdfs:label "IT infrastructure"@en .
+wd:Q59545 rdfs:label "labour hire"@en .
+wd:Q599755 rdfs:label "Garnier"@en .
+wd:Q6027324 rdfs:label "transfer learning"@en .
+wd:Q6029708 rdfs:label "Infinitary combinatorics"@en .
+wd:Q60442637 rdfs:label "rapid transit train service"@en .
+wd:Q60678830 rdfs:label "Smartphone apps for travellers"@en .
+wd:Q60770436 rdfs:label "Deep tech"@en .
+wd:Q60784896 rdfs:label "Internet audio-visual programming service provider"@en .
+wd:Q60967807 rdfs:label "Aquaplaning sport"@en .
+wd:Q61065 rdfs:label "water sport"@en .
+wd:Q613142 rdfs:label "law firm"@en .
+wd:Q614362 rdfs:label "Orange Livebox"@en .
+wd:Q615699 rdfs:label "Internet encyclopedia"@en .
+wd:Q61788060 rdfs:label "human activity"@en .
+wd:Q61793851 rdfs:label "noncommutative algebra"@en .
+wd:Q618998 rdfs:label "skinny jeans"@en .
+wd:Q620615 rdfs:label "mobile app"@en .
+wd:Q621550 rdfs:label "general topology"@en .
+wd:Q62210692 rdfs:label "OWL ontology"@en .
+wd:Q623561 rdfs:label "Dr Pepper"@en .
+wd:Q62722214 rdfs:label "branch of genetics"@en .
+wd:Q63020365 rdfs:label "tiny forest"@en .
+wd:Q63241860 rdfs:label "streaming service"@en .
+wd:Q63437139 rdfs:label "software project"@en .
+wd:Q6368 rdfs:label "web browser"@en .
+wd:Q643290 rdfs:label "RATP"@en .
+wd:Q64514542 rdfs:label "parking lot company"@en .
+wd:Q64583968 rdfs:label "artist management"@en .
+wd:Q64800607 rdfs:label "Pacific Literature"@en .
+wd:Q64806752 rdfs:label "Special and Inclusive Education"@en .
+wd:Q64808211 rdfs:label "Urban and Regional Planning"@en .
+wd:Q64809114 rdfs:label "Media and Communication"@en .
+wd:Q64809896 rdfs:label "International Business and Marketing"@en .
+wd:Q64811550 rdfs:label "Ocean Resource Management and Policy"@en .
+wd:Q65051450 rdfs:label "Cycling organization"@en .
+wd:Q65073088 rdfs:label "Nintendo Gateway System"@en .
+wd:Q6515414 rdfs:label "student welfare organisation"@en .
+wd:Q65177617 rdfs:label "Unification movement (Unification Church)"@en .
+wd:Q6537379 rdfs:label "walking"@en .
+wd:Q6542714 rdfs:label "library website"@en .
+wd:Q655686 rdfs:label "commercial building"@en .
+wd:Q6561427 rdfs:label "console game"@en .
+wd:Q6588 rdfs:label "Périgueux"@en .
+wd:Q65938634 rdfs:label "quality control method"@en .
+wd:Q6664710 rdfs:label "Locals casino"@en .
+wd:Q66816419 rdfs:label "Royal Marines School"@en .
+wd:Q67016067 rdfs:label "card battle video game"@en .
+wd:Q67140793 rdfs:label "nursery"@en .
+wd:Q672070 rdfs:label "photographic studio"@en .
+wd:Q677423 rdfs:label "drifting"@en .
+wd:Q68 rdfs:label "computer"@en .
+wd:Q681615 rdfs:label "syndicate"@en .
+wd:Q6819536 rdfs:label "merit shop"@en .
+wd:Q6839279 rdfs:label "microblogging in China"@en .
+wd:Q6881511 rdfs:label "enterprise"@en .
+wd:Q6887204 rdfs:label "mobile phone operator"@en .
+wd:Q6895044 rdfs:label "multiplayer video game"@en .
+wd:Q690207 rdfs:label "perceptron"@en .
+wd:Q69574371 rdfs:label "bicycle part manufacturing company"@en .
+wd:Q7009111 rdfs:label "heuristic search algorithm"@en .
+wd:Q7058673 rdfs:label "video game series"@en .
+wd:Q708676 rdfs:label "charitable organization"@en .
+wd:Q7094076 rdfs:label "online database"@en .
+wd:Q7120070 rdfs:label "POW bracelet"@en .
+wd:Q7133943 rdfs:label "parachute pants"@en .
+wd:Q7157353 rdfs:label "peace commission"@en .
+wd:Q7170583 rdfs:label "personal genomics"@en .
+wd:Q718 rdfs:label "chess"@en .
+wd:Q7187868 rdfs:label "Photonic force microscope"@en .
+wd:Q721067 rdfs:label "professional wrestling promotion"@en .
+wd:Q7246213 rdfs:label "private intelligence agency"@en .
+wd:Q7248095 rdfs:label "professional services network"@en .
+wd:Q7257732 rdfs:label "public electricity supplier"@en .
+wd:Q7257917 rdfs:label "Public infrastructure"@en .
+wd:Q72688 rdfs:label "Xubuntu"@en .
+wd:Q7279719 rdfs:label "racino"@en .
+wd:Q7311343 rdfs:label "religious corporation"@en .
+wd:Q7315155 rdfs:label "research center"@en .
+wd:Q7322390 rdfs:label "ribonomics"@en .
+wd:Q7338100 rdfs:label "Riverboat casino"@en .
+wd:Q734413 rdfs:label "LAN messenger"@en .
+wd:Q737460 rdfs:label "visual impairment"@en .
+wd:Q737498 rdfs:label "academic journal"@en .
+wd:Q7397 rdfs:label "software"@en .
+wd:Q740752 rdfs:label "transport company"@en .
+wd:Q7449052 rdfs:label "semantic data model"@en .
+wd:Q745829 rdfs:label "Yagi-Uda antenna"@en .
+wd:Q746413 rdfs:label "Elsevier BV"@en .
+wd:Q747883 rdfs:label "physical activity"@en .
+wd:Q748645 rdfs:label "shipping agent"@en .
+wd:Q752276 rdfs:label "functional food"@en .
+wd:Q752870 rdfs:label "motor vehicle"@en .
+wd:Q7538697 rdfs:label "Slap bracelet"@en .
+wd:Q754796 rdfs:label "miniature golf"@en .
+wd:Q7554009 rdfs:label "soft ontology"@en .
+wd:Q755673 rdfs:label "search algorithm"@en .
+wd:Q757388 rdfs:label "Milka"@en .
+wd:Q75971206 rdfs:label "private tax collector"@en .
+wd:Q7617819 rdfs:label "stochastic gradient descent"@en .
+wd:Q7617824 rdfs:label "stochastic neural network"@en .
+wd:Q76362921 rdfs:label "saw blade factory"@en .
+wd:Q76384698 rdfs:label "ammunication factory"@en .
+wd:Q765517 rdfs:label "credit rating agency"@en .
+wd:Q76592 rdfs:label "combinatorics"@en .
+wd:Q7705753 rdfs:label "test automation management tool"@en .
+wd:Q7708379 rdfs:label "text-based web browser"@en .
+wd:Q770881 rdfs:label "online casino"@en .
+wd:Q771063 rdfs:label "dating agency"@en .
+wd:Q7735 rdfs:label "diving"@en .
+wd:Q777 rdfs:label "Google Chrome"@en .
+wd:Q7802 rdfs:label "bread"@en .
+wd:Q7825032 rdfs:label "topological dynamics"@en .
+wd:Q783794 rdfs:label "company"@en .
+wd:Q78444225 rdfs:label "Star Trek video game"@en .
+wd:Q7858627 rdfs:label "Twitter usage"@en .
+wd:Q7858742 rdfs:label "two-player game"@en .
+wd:Q786820 rdfs:label "automobile manufacturer"@en .
+wd:Q7889 rdfs:label "video game"@en .
+wd:Q7901759 rdfs:label "use of Twitter by public figures"@en .
+wd:Q791930 rdfs:label "Axe"@en .
+wd:Q7925010 rdfs:label "vice-county"@en .
+wd:Q792635 rdfs:label "axe throwing"@en .
+wd:Q7927920 rdfs:label "video games in education"@en .
+wd:Q7935239 rdfs:label "Virtuoso Universal Server"@en .
+wd:Q7963760 rdfs:label "walrus moustache"@en .
+wd:Q8007048 rdfs:label "nail salon"@en .
+wd:Q80131 rdfs:label "poker"@en .
+wd:Q80359036 rdfs:label "alcohol brand"@en .
+wd:Q804399 rdfs:label "Blaw-Knox tower"@en .
+wd:Q8048052 rdfs:label "Yamigo"@en .
+wd:Q811404 rdfs:label "Bauhof"@en .
+wd:Q811704 rdfs:label "rolling stock class"@en .
+wd:Q811930 rdfs:label "construction business"@en .
+wd:Q81311730 rdfs:label "Miraheze website"@en .
+wd:Q814610 rdfs:label "emergency service"@en .
+wd:Q816261 rdfs:label "jogging"@en .
+wd:Q81945 rdfs:label "Voice over IP"@en .
+wd:Q81989119 rdfs:label "video game distribution platform"@en .
+wd:Q82794 rdfs:label "geographic region"@en .
+wd:Q8303885 rdfs:label "trust company"@en .
+wd:Q831990 rdfs:label "electrical part"@en .
+wd:Q8320 rdfs:label "optical printer"@en .
+wd:Q8333 rdfs:label "Federal Bureau of Investigation"@en .
+wd:Q83363 rdfs:label "jeans"@en .
+wd:Q83425186 rdfs:label "NHS board"@en .
+wd:Q8366 rdfs:label "algorithm"@en .
+wd:Q841450 rdfs:label "toxicogenomics"@en .
+wd:Q842284 rdfs:label "skateboarding"@en .
+wd:Q842595 rdfs:label "big wave surfing"@en .
+wd:Q84368158 rdfs:label "health app"@en .
+wd:Q844526 rdfs:label "Group purchasing organization"@en .
+wd:Q845620 rdfs:label "mobile browser"@en .
+wd:Q847 rdfs:label "tennis"@en .
+wd:Q847906 rdfs:label "online magazine"@en .
+wd:Q848609 rdfs:label "Dagobah"@en .
+wd:Q853715 rdfs:label "Dalek"@en .
+wd:Q8539 rdfs:label "The Big Bang Theory"@en .
+wd:Q8548 rdfs:label "Dijkstra's algorithm"@en .
+wd:Q855880 rdfs:label "football tennis"@en .
+wd:Q856330 rdfs:label "cracker"@en .
+wd:Q85810444 rdfs:label "transformer"@en .
+wd:Q864693 rdfs:label "chicken meat"@en .
+wd:Q870362 rdfs:label "rice bread"@en .
+wd:Q87058424 rdfs:label "branch of geology"@en .
+wd:Q871619 rdfs:label "bear claw"@en .
+wd:Q875157 rdfs:label "resort"@en .
+wd:Q87712822 rdfs:label "moral subject of administrative law in France"@en .
+wd:Q8772125 rdfs:label "Editorial Anagrama"@en .
+wd:Q877517 rdfs:label "ball game"@en .
+wd:Q877724 rdfs:label "Seniorat"@en .
+wd:Q88985865 rdfs:label "eating or drinking establishment"@en .
+wd:Q891723 rdfs:label "public company"@en .
+wd:Q895060 rdfs:label "boules"@en .
+wd:Q895177 rdfs:label "bouquet garni"@en .
+wd:Q89578131 rdfs:label "radar station"@en .
+wd:Q896 rdfs:label "Mountain Dew"@en .
+wd:Q89691527 rdfs:label "Xbox Original"@en .
+wd:Q900604 rdfs:label "addres"@en .
+wd:Q900647 rdfs:label "Côte d'Opale"@en .
+wd:Q901823 rdfs:label "ultramicroscope"@en .
+wd:Q902378 rdfs:label "equestrian sport"@en .
+wd:Q90302516 rdfs:label "tobacco company"@en .
+wd:Q903778 rdfs:label "metagenomics"@en .
+wd:Q907955 rdfs:label "graph traversal"@en .
+wd:Q911069 rdfs:label "boardsport"@en .
+wd:Q9135 rdfs:label "operating system"@en .
+wd:Q914359 rdfs:label "cloud storage"@en .
+wd:Q917562 rdfs:label "carom billiards"@en .
+wd:Q918 rdfs:label "Twitter"@en .
+wd:Q91908084 rdfs:label "passenger train service"@en .
+wd:Q920671 rdfs:label "parapharmacy"@en .
+wd:Q92438 rdfs:label "microblogging"@en .
+wd:Q92552 rdfs:label "Galois theory"@en .
+wd:Q928468 rdfs:label "TGV Réseau"@en .
+wd:Q928830 rdfs:label "metro station"@en .
+wd:Q930062 rdfs:label "Toa"@en .
+wd:Q933844 rdfs:label "three-player chess"@en .
+wd:Q9340 rdfs:label "Google Drive"@en .
+wd:Q936518 rdfs:label "aerospace manufacturer"@en .
+wd:Q937783 rdfs:label "Coca-Cola Zero"@en .
+wd:Q94619648 rdfs:label "women's team pursuit"@en .
+wd:Q94620117 rdfs:label "men's team pursuit"@en .
+wd:Q946499 rdfs:label "cruise line"@en .
+wd:Q95 rdfs:label "Google"@en .
+wd:Q953223 rdfs:label "stud poker"@en .
+wd:Q95598830 rdfs:label "Large scale enterprises"@en .
+wd:Q958821 rdfs:label "LucasArts adventure games"@en .
+wd:Q95948776 rdfs:label "Le Dico des Ados"@en .
+wd:Q96196009 rdfs:label "state (former or current)"@en .
+wd:Q96603167 rdfs:label "tourism agency"@en .
+wd:Q96679888 rdfs:label "sport discipline at a sport event"@en .
+wd:Q967140 rdfs:label "media agency"@en .
+wd:Q967318 rdfs:label "Blackball"@en .
+wd:Q96782348 rdfs:label "scanning probe microscope"@en .
+wd:Q968907 rdfs:label "outdoor recreation"@en .
+wd:Q96983545 rdfs:label "cycle repair shop"@en .
+wd:Q97322777 rdfs:label "Oasis"@en .
+wd:Q97579135 rdfs:label "piano manufacturing company"@en .
+wd:Q9798 rdfs:label "saxophone"@en .
+wd:Q98579904 rdfs:label "tractor brand"@en .
+wd:Q99397804 rdfs:label "branch of zoology"@en .
+wd:Q996839 rdfs:label "fraternal organization"@en .
+
+# Nodes with no English label in 2022 Wikidata:
+#   wd:Q101049500
+#   wd:Q105675701
+#   wd:Q11507286
+#   wd:Q1436061
+#   wd:Q1466699
+#   wd:Q1790542
+#   wd:Q18030772
+#   wd:Q18706221
+#   wd:Q20089159
+#   wd:Q21428095
+#   wd:Q27555350
+#   wd:Q2820266
+#   wd:Q2955972
+#   wd:Q3029536
+#   wd:Q3062992
+#   wd:Q3412210
+#   wd:Q3537883
+#   wd:Q3591573
+#   wd:Q55597159
+#   wd:Q63477924
+#   wd:Q88199136
+#   wd:Q94535288
+#   wd:Q947362

@@ -1,0 +1,23 @@
+{
+  "benchmark_name": "plant_health",
+  "context_level": "labels",
+  "seed_labels": ["plant diseases and disorders", "plant protection"],
+  "notes": "Label-only calibration examples for generating a plant health prompt. The 15-example pack uses 6 INCLUDE and 9 EXCLUDE decisions, emphasizing high-impact management and product gateways from BFS diagnostics while retaining representative positive concepts.",
+  "examples": [
+    {"id": "plant_health_include_01", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "plant viruses", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "plant_health_include_02", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "plant pests", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "plant_health_include_03", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "plant damage", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "plant_health_include_04", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "tree health", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "plant_health_include_05", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "plant stress", "decision": "INCLUDE", "source": "false_negative_gold"},
+    {"id": "plant_health_include_06", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "leaf spot", "decision": "INCLUDE", "source": "false_negative_gold"},
+    {"id": "plant_health_exclude_01", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "disease resistance", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "plant_health_exclude_02", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "Phytoplasma", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "plant_health_exclude_03", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "insect pests", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "plant_health_exclude_04", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "infectious diseases and infestations", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "plant_health_exclude_05", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "pest control", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "plant_health_exclude_06", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "pesticides", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "plant_health_exclude_07", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "herbicide safeners", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "plant_health_exclude_08", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "disease and pest management", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "plant_health_exclude_09", "seed_label": "plant diseases and disorders; plant protection", "candidate_label": "biological control agents", "decision": "EXCLUDE", "source": "false_positive_gateway"}
+  ]
+}

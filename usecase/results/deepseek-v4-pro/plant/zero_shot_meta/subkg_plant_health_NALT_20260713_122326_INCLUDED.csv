@@ -1,0 +1,238 @@
+prefLabel,altLabels,displayName,uri,confidence,in_hierarchy_gold,relations,classification
+plant diseases and disorders,plant diseases; plant disorders,"plant diseases and disorders (plant diseases, plant disorders)",https://lod.nal.usda.gov/nalt/15134,1.0,True,,INCLUDE
+plant protection,crop protection; plant health protection,"plant protection (crop protection, plant health protection)",https://lod.nal.usda.gov/nalt/30154,1.0,True,,INCLUDE
+bacterial diseases of plants,bacterial infections of plants; plant bacterial diseases,"bacterial diseases of plants (bacterial infections of plants, plant bacterial diseases)",https://lod.nal.usda.gov/nalt/15131,0.95,True,skos:broader; skos:narrower,INCLUDE
+black shank disease,,black shank disease,https://lod.nal.usda.gov/nalt/263011,0.95,True,skos:broader; skos:narrower,INCLUDE
+blast disease,rice blast; wheat blast,"blast disease (rice blast, wheat blast)",https://lod.nal.usda.gov/nalt/17904,0.95,True,skos:broader; skos:narrower,INCLUDE
+brown rot disease,,brown rot disease,https://lod.nal.usda.gov/nalt/316252,0.95,True,skos:broader; skos:narrower,INCLUDE
+decline,decline disease; decline disorder,"decline (decline disease, decline disorder)",https://lod.nal.usda.gov/nalt/31919,0.85,True,skos:broader; skos:narrower,INCLUDE
+disease-free plants,disease free plants; germ free plants; germ-free plants; germfree plants; germfree state (plants); pathogen free plants; pathogen-free plants,"disease-free plants (disease free plants, germ free plants, germ-free plants, germfree plants, germfree state (plants), pathogen free plants, pathogen-free plants)",https://lod.nal.usda.gov/nalt/67893,0.95,False,skos:related,INCLUDE
+downy mildew,,downy mildew,https://lod.nal.usda.gov/nalt/34450,0.95,True,skos:broader; skos:narrower,INCLUDE
+foliar diseases,foliage diseases; leaf diseases,"foliar diseases (foliage diseases, leaf diseases)",https://lod.nal.usda.gov/nalt/40782,0.95,True,skos:broader; skos:narrower,INCLUDE
+forest health,,forest health,https://lod.nal.usda.gov/nalt/41128,0.8,True,skos:related,INCLUDE
+fruit cracking,fruit cracks,fruit cracking (fruit cracks),https://lod.nal.usda.gov/nalt/67851,0.95,True,skos:broader; skos:narrower,INCLUDE
+fruit diseases,,fruit diseases,https://lod.nal.usda.gov/nalt/17678,0.95,True,skos:broader; skos:narrower,INCLUDE
+fungal diseases of plants,fungus diseases of plants,fungal diseases of plants (fungus diseases of plants),https://lod.nal.usda.gov/nalt/10053,0.95,True,skos:broader; skos:narrower,INCLUDE
+greening disease,citrus greening disease; citrus greening infection; huanglongbing; huanglongbing disease; yellow dragon disease,"greening disease (citrus greening disease, citrus greening infection, huanglongbing, huanglongbing disease, yellow dragon disease)",https://lod.nal.usda.gov/nalt/21818,0.95,True,skos:broader; skos:narrower,INCLUDE
+gummosis,,gummosis,https://lod.nal.usda.gov/nalt/44114,0.95,True,skos:broader; skos:narrower,INCLUDE
+hollow heart,,hollow heart,https://lod.nal.usda.gov/nalt/226534,0.95,True,skos:broader; skos:narrower,INCLUDE
+hyperhydricity,hyperhydration (plant disorder),hyperhydricity (hyperhydration (plant disorder)),https://lod.nal.usda.gov/nalt/46558,0.95,True,skos:broader; skos:narrower,INCLUDE
+leaf wetness,,leaf wetness,https://lod.nal.usda.gov/nalt/284231,0.65,False,skos:related,INCLUDE
+maize wallaby ear disease,maize wallaby ear symptom,maize wallaby ear disease (maize wallaby ear symptom),https://lod.nal.usda.gov/nalt/278068,0.95,True,skos:broader; skos:narrower,INCLUDE
+phyllody,,phyllody,https://lod.nal.usda.gov/nalt/306883,0.95,True,skos:broader; skos:narrower,INCLUDE
+plant damage,fruit damage; plant injuries; plant injury; wounds (plant),"plant damage (fruit damage, plant injuries, plant injury, wounds (plant))",https://lod.nal.usda.gov/nalt/1735,0.95,True,skos:related,INCLUDE
+plant parasitic nematodes,parasitic nematodes (plants); phytonematodes; phytoparasitic nematodes; phytopathogenic nematodes; plant nematodes,"plant parasitic nematodes (parasitic nematodes (plants), phytonematodes, phytoparasitic nematodes, phytopathogenic nematodes, plant nematodes)",https://lod.nal.usda.gov/nalt/8933,0.95,False,skos:related,INCLUDE
+plant pests,crop pests; pests of plants; phytophagous pests; tree pests,"plant pests (crop pests, pests of plants, phytophagous pests, tree pests)",https://lod.nal.usda.gov/nalt/17605,0.95,True,skos:related,INCLUDE
+plant rots,,plant rots,https://lod.nal.usda.gov/nalt/30265,0.95,True,skos:broader; skos:narrower,INCLUDE
+plant viruses,,plant viruses,https://lod.nal.usda.gov/nalt/58572,0.95,True,skos:related,INCLUDE
+postharvest diseases,postharvest decay; storage decay,"postharvest diseases (postharvest decay, storage decay)",https://lod.nal.usda.gov/nalt/31900,0.95,True,skos:broader; skos:narrower,INCLUDE
+replant disease,specific replant disease,replant disease (specific replant disease),https://lod.nal.usda.gov/nalt/58565,0.98,True,skos:broader; skos:narrower,INCLUDE
+root diseases,,root diseases,https://lod.nal.usda.gov/nalt/58566,0.98,True,skos:broader; skos:narrower,INCLUDE
+rose rosette disease,,rose rosette disease,https://lod.nal.usda.gov/nalt/58567,0.99,True,skos:broader; skos:narrower,INCLUDE
+scab diseases,orange scab,scab diseases (orange scab),https://lod.nal.usda.gov/nalt/41933,0.97,True,skos:broader; skos:narrower,INCLUDE
+scald diseases,leaf scald diseases; sun scald; sunburn (plants); sunscald,"scald diseases (leaf scald diseases, sun scald, sunburn (plants), sunscald)",https://lod.nal.usda.gov/nalt/58568,0.97,True,skos:broader; skos:narrower,INCLUDE
+seed-borne diseases,seed borne diseases; seedborne diseases,"seed-borne diseases (seed borne diseases, seedborne diseases)",https://lod.nal.usda.gov/nalt/58569,0.98,True,skos:broader; skos:narrower,INCLUDE
+seedling diseases,,seedling diseases,https://lod.nal.usda.gov/nalt/31688,0.98,True,skos:broader; skos:narrower,INCLUDE
+signs and symptoms (plants),symptoms (plants),signs and symptoms (plants) (symptoms (plants)),https://lod.nal.usda.gov/nalt/940,0.99,True,skos:related,INCLUDE
+soil-borne diseases,soil borne diseases; soilborne diseases,"soil-borne diseases (soil borne diseases, soilborne diseases)",https://lod.nal.usda.gov/nalt/58570,0.98,True,skos:broader; skos:narrower,INCLUDE
+tree diseases,,tree diseases,https://lod.nal.usda.gov/nalt/41132,0.99,True,skos:broader; skos:narrower,INCLUDE
+vascular wilt,wilts (plant disease),vascular wilt (wilts (plant disease)),https://lod.nal.usda.gov/nalt/15216,0.99,True,skos:broader; skos:narrower,INCLUDE
+viral diseases of plants,plant viroses; viral infections of plants; viroses (plants); viroses of plants; virus diseases of plants; virus infections of plants,"viral diseases of plants (plant viroses, viral infections of plants, viroses (plants), viroses of plants, virus diseases of plants, virus infections of plants)",https://lod.nal.usda.gov/nalt/95877,0.99,True,skos:broader; skos:narrower,INCLUDE
+weather fleck,,weather fleck,https://lod.nal.usda.gov/nalt/335198,0.92,True,skos:broader; skos:narrower,INCLUDE
+woolliness,,woolliness,https://lod.nal.usda.gov/nalt/58571,0.85,True,skos:broader; skos:narrower,INCLUDE
+acute oak decline,,acute oak decline,https://lod.nal.usda.gov/nalt/316327,0.95,True,skos:broader; skos:narrower,INCLUDE
+almond leaf scorch,almond leaf scorch disease,almond leaf scorch (almond leaf scorch disease),https://lod.nal.usda.gov/nalt/214239,0.98,True,skos:broader; skos:narrower,INCLUDE
+Alternaria brown spot,citrus brown spot; citrus brown spot disease,"Alternaria brown spot (citrus brown spot, citrus brown spot disease)",https://lod.nal.usda.gov/nalt/343376,0.9,True,skos:broader; skos:narrower,INCLUDE
+anthracnose,,anthracnose,https://lod.nal.usda.gov/nalt/10052,0.95,True,skos:broader; skos:narrower,INCLUDE
+apple scab,,apple scab,https://lod.nal.usda.gov/nalt/72098,0.98,True,skos:broader; skos:narrower,INCLUDE
+bacterial brown spot,bacterial brown spot disease,bacterial brown spot (bacterial brown spot disease),https://lod.nal.usda.gov/nalt/342641,0.85,True,skos:broader; skos:narrower,INCLUDE
+bacterial canker,bacterial canker disease,bacterial canker (bacterial canker disease),https://lod.nal.usda.gov/nalt/250627,0.9,True,skos:broader; skos:narrower,INCLUDE
+bacterial leaf streak,bacterial leaf stripe; black chaff,"bacterial leaf streak (bacterial leaf stripe, black chaff)",https://lod.nal.usda.gov/nalt/326052,0.98,True,skos:related,INCLUDE
+bacterial ring rot,,bacterial ring rot,https://lod.nal.usda.gov/nalt/222118,0.95,True,skos:broader; skos:narrower,INCLUDE
+bacterial soft rot,bacterial soft rot disease,bacterial soft rot (bacterial soft rot disease),https://lod.nal.usda.gov/nalt/325534,0.95,True,skos:related,INCLUDE
+bacterial speck,bacterial speck disease,bacterial speck (bacterial speck disease),https://lod.nal.usda.gov/nalt/331424,0.85,True,skos:broader; skos:narrower,INCLUDE
+bacterial wetwood,,bacterial wetwood,https://lod.nal.usda.gov/nalt/15135,0.95,True,skos:broader; skos:narrower,INCLUDE
+bacterial wilt,bacterial wilt disease; bacterial wilts,"bacterial wilt (bacterial wilt disease, bacterial wilts)",https://lod.nal.usda.gov/nalt/15136,0.95,True,skos:broader; skos:narrower,INCLUDE
+beech bark disease,,beech bark disease,https://lod.nal.usda.gov/nalt/300802,0.98,True,skos:broader; skos:narrower,INCLUDE
+bitter pit,,bitter pit,https://lod.nal.usda.gov/nalt/11311,0.95,True,skos:broader; skos:narrower,INCLUDE
+black point disease,blackpoint; blackpoint disease,"black point disease (blackpoint, blackpoint disease)",https://lod.nal.usda.gov/nalt/198760,0.95,True,skos:broader; skos:narrower,INCLUDE
+black Sigatoka,black leaf streak disease,black Sigatoka (black leaf streak disease),https://lod.nal.usda.gov/nalt/17811,0.95,True,skos:broader; skos:narrower,INCLUDE
+blackleg of crucifers,blackleg of canola; blackleg of oilseed rape; blackleg of rape,"blackleg of crucifers (blackleg of canola, blackleg of oilseed rape, blackleg of rape)",https://lod.nal.usda.gov/nalt/292365,0.95,True,skos:broader; skos:narrower,INCLUDE
+blackleg of potato,potato blackleg disease,blackleg of potato (potato blackleg disease),https://lod.nal.usda.gov/nalt/292378,0.95,True,skos:broader; skos:narrower,INCLUDE
+blight,,blight,https://lod.nal.usda.gov/nalt/942,0.75,True,skos:broader; skos:narrower,INCLUDE
+blueberry mosaic disease,,blueberry mosaic disease,https://lod.nal.usda.gov/nalt/266497,0.95,True,skos:broader; skos:narrower,INCLUDE
+boxwood blight,box blight,boxwood blight (box blight),https://lod.nal.usda.gov/nalt/336998,0.95,True,skos:broader; skos:narrower,INCLUDE
+browsing damage,browse damage,browsing damage (browse damage),https://lod.nal.usda.gov/nalt/301007,0.8,True,skos:broader; skos:narrower,INCLUDE
+buckeye rot,,buckeye rot,https://lod.nal.usda.gov/nalt/226178,0.95,True,skos:broader; skos:narrower,INCLUDE
+bull's eye rot,,bull's eye rot,https://lod.nal.usda.gov/nalt/220990,0.95,True,skos:related,INCLUDE
+butt rot,root and butt rot,butt rot (root and butt rot),https://lod.nal.usda.gov/nalt/305617,0.95,True,skos:broader; skos:narrower,INCLUDE
+butternut canker,butternut canker disease,butternut canker (butternut canker disease),https://lod.nal.usda.gov/nalt/337056,0.95,True,skos:broader; skos:narrower,INCLUDE
+cankers (plants),,cankers (plants),https://lod.nal.usda.gov/nalt/943,0.95,True,skos:broader; skos:narrower,INCLUDE
+cercosporiosis,,cercosporiosis,https://lod.nal.usda.gov/nalt/340145,0.85,True,skos:broader; skos:narrower,INCLUDE
+charcoal rot,charcoal root rot; charcoal rot disease; charcoal stem rot,"charcoal rot (charcoal root rot, charcoal rot disease, charcoal stem rot)",https://lod.nal.usda.gov/nalt/277933,0.95,True,skos:broader; skos:narrower,INCLUDE
+chestnut blight,,chestnut blight,https://lod.nal.usda.gov/nalt/75612,0.95,True,skos:broader; skos:narrower,INCLUDE
+chocolate spot disease,chocolate spot,chocolate spot disease (chocolate spot),https://lod.nal.usda.gov/nalt/216696,0.95,True,skos:broader; skos:narrower,INCLUDE
+citrus black spot,citrus black spot disease,citrus black spot (citrus black spot disease),https://lod.nal.usda.gov/nalt/288429,0.95,True,skos:broader; skos:narrower,INCLUDE
+citrus variegated chlorosis,,citrus variegated chlorosis,https://lod.nal.usda.gov/nalt/15137,0.95,True,skos:broader; skos:narrower,INCLUDE
+clubroot,clubroot disease,clubroot (clubroot disease),https://lod.nal.usda.gov/nalt/235607,0.95,True,skos:related,INCLUDE
+coffee berry disease,,coffee berry disease,https://lod.nal.usda.gov/nalt/263008,0.95,True,skos:broader; skos:narrower,INCLUDE
+cold injury,,cold injury,https://lod.nal.usda.gov/nalt/1139,0.9,False,skos:related,INCLUDE
+crop damage,,crop damage,https://lod.nal.usda.gov/nalt/30113,0.95,True,skos:broader; skos:narrower,INCLUDE
+crown rot,,crown rot,https://lod.nal.usda.gov/nalt/30264,0.95,True,skos:broader; skos:narrower,INCLUDE
+damping off,,damping off,https://lod.nal.usda.gov/nalt/31687,0.95,True,skos:broader; skos:narrower,INCLUDE
+dieback,die back; die-back,"dieback (die back, die-back)",https://lod.nal.usda.gov/nalt/945,0.95,True,skos:broader; skos:narrower,INCLUDE
+Dutch elm disease,,Dutch elm disease,https://lod.nal.usda.gov/nalt/78372,0.98,True,skos:broader; skos:narrower,INCLUDE
+ear rot,,ear rot,https://lod.nal.usda.gov/nalt/35078,0.95,True,skos:broader; skos:narrower,INCLUDE
+epinasty,,epinasty,https://lod.nal.usda.gov/nalt/946,0.9,True,skos:broader; skos:narrower,INCLUDE
+ergot,,ergot,https://lod.nal.usda.gov/nalt/26720,0.98,True,skos:broader; skos:narrower,INCLUDE
+false smut,false smut disease,false smut (false smut disease),https://lod.nal.usda.gov/nalt/273869,0.98,True,skos:broader; skos:narrower,INCLUDE
+fertilizer injury,fertiliser injury,fertilizer injury (fertiliser injury),https://lod.nal.usda.gov/nalt/39933,0.9,True,skos:broader; skos:narrower,INCLUDE
+fig endosepsis,fig endosepsis disease,fig endosepsis (fig endosepsis disease),https://lod.nal.usda.gov/nalt/341214,0.98,True,skos:broader; skos:narrower,INCLUDE
+fire blight,,fire blight,https://lod.nal.usda.gov/nalt/80434,0.98,True,skos:broader; skos:narrower,INCLUDE
+fire scars,,fire scars,https://lod.nal.usda.gov/nalt/40266,0.8,True,skos:broader; skos:narrower,INCLUDE
+foot rot (plant),plant foot rot,foot rot (plant) (plant foot rot),https://lod.nal.usda.gov/nalt/41082,0.98,True,skos:broader; skos:narrower,INCLUDE
+forest damage,forest destruction; forest disturbance,"forest damage (forest destruction, forest disturbance)",https://lod.nal.usda.gov/nalt/41127,0.85,True,skos:broader; skos:narrower,INCLUDE
+forest decline,,forest decline,https://lod.nal.usda.gov/nalt/31920,0.95,True,skos:broader; skos:narrower,INCLUDE
+forest diseases,,forest diseases,https://lod.nal.usda.gov/nalt/80851,0.95,True,skos:related,INCLUDE
+forest pests,,forest pests,https://lod.nal.usda.gov/nalt/41137,0.8,False,skos:related,INCLUDE
+frogeye leaf spot,frog-eye leaf spot,frogeye leaf spot (frog-eye leaf spot),https://lod.nal.usda.gov/nalt/24025,0.95,True,skos:broader; skos:narrower,INCLUDE
+fungal brown spot,rice brown spot,fungal brown spot (rice brown spot),https://lod.nal.usda.gov/nalt/218474,0.95,True,skos:broader; skos:narrower,INCLUDE
+fungal wilt,,fungal wilt,https://lod.nal.usda.gov/nalt/41791,0.95,True,skos:broader; skos:narrower,INCLUDE
+Fusarium head blight,Fusarium head scab,Fusarium head blight (Fusarium head scab),https://lod.nal.usda.gov/nalt/81176,0.9,True,skos:broader; skos:narrower,INCLUDE
+galls,oak-apples,galls (oak-apples),https://lod.nal.usda.gov/nalt/947,0.95,True,skos:broader; skos:narrower,INCLUDE
+girdling,branch girdling; ring barking; stem girdling; tree girdling; trunk girdling,"girdling (branch girdling, ring barking, stem girdling, tree girdling, trunk girdling)",https://lod.nal.usda.gov/nalt/146609,0.95,True,skos:broader; skos:narrower,INCLUDE
+gray mold,gray mold disease; grey mold; grey mold disease,"gray mold (gray mold disease, grey mold, grey mold disease)",https://lod.nal.usda.gov/nalt/228109,0.95,True,skos:broader; skos:narrower,INCLUDE
+grey leaf spot disease,,grey leaf spot disease,https://lod.nal.usda.gov/nalt/248052,0.95,True,skos:broader; skos:narrower,INCLUDE
+head rot,,head rot,https://lod.nal.usda.gov/nalt/188614,0.95,True,skos:broader; skos:narrower,INCLUDE
+heart rot,,heart rot,https://lod.nal.usda.gov/nalt/206431,0.95,True,skos:broader; skos:narrower,INCLUDE
+ink disease,,ink disease,https://lod.nal.usda.gov/nalt/341741,0.95,True,skos:broader; skos:narrower,INCLUDE
+internal browning,,internal browning,https://lod.nal.usda.gov/nalt/331445,0.95,True,skos:broader; skos:narrower,INCLUDE
+karnal bunt,karnal bunt disease; partial bunt,"karnal bunt (karnal bunt disease, partial bunt)",https://lod.nal.usda.gov/nalt/330897,0.95,True,skos:related,INCLUDE
+laurel wilt,,laurel wilt,https://lod.nal.usda.gov/nalt/306766,0.95,True,skos:broader; skos:narrower,INCLUDE
+leaf blotch,,leaf blotch,https://lod.nal.usda.gov/nalt/948,0.95,True,skos:broader; skos:narrower,INCLUDE
+leaf curling,leaf curl,leaf curling (leaf curl),https://lod.nal.usda.gov/nalt/198220,0.95,True,skos:broader; skos:narrower,INCLUDE
+leaf galls,,leaf galls,https://lod.nal.usda.gov/nalt/131694,0.95,True,skos:related,INCLUDE
+leaf rolling,leaf roll,leaf rolling (leaf roll),https://lod.nal.usda.gov/nalt/198218,0.95,True,skos:broader; skos:narrower,INCLUDE
+leaf rust,brown rust; foliar rust,"leaf rust (brown rust, foliar rust)",https://lod.nal.usda.gov/nalt/189059,0.95,True,skos:broader; skos:narrower,INCLUDE
+leaf spot,leaf spotting,leaf spot (leaf spotting),https://lod.nal.usda.gov/nalt/49434,0.95,True,skos:related,INCLUDE
+lesions (plant),,lesions (plant),https://lod.nal.usda.gov/nalt/949,0.95,True,skos:broader; skos:narrower,INCLUDE
+lodging,,lodging,https://lod.nal.usda.gov/nalt/50508,0.75,True,skos:broader; skos:narrower,INCLUDE
+Lophodermium needle cast,,Lophodermium needle cast,https://lod.nal.usda.gov/nalt/339098,0.85,True,skos:broader; skos:narrower,INCLUDE
+mango malformation disease,mango malformation,mango malformation disease (mango malformation),https://lod.nal.usda.gov/nalt/286567,0.95,True,skos:broader; skos:narrower,INCLUDE
+mechanical damage,mechanical injuries,mechanical damage (mechanical injuries),https://lod.nal.usda.gov/nalt/1141,0.65,False,skos:related,INCLUDE
+mildews,,mildews,https://lod.nal.usda.gov/nalt/34451,0.9,False,skos:related,INCLUDE
+net blotch,,net blotch,https://lod.nal.usda.gov/nalt/266327,0.95,True,skos:broader; skos:narrower,INCLUDE
+oleocellosis,citrus oil-spotting; oil-spotting (citrus); on-tree oleocellosis; rind oil spotting,"oleocellosis (citrus oil-spotting, oil-spotting (citrus), on-tree oleocellosis, rind oil spotting)",https://lod.nal.usda.gov/nalt/332093,0.95,True,skos:broader; skos:narrower,INCLUDE
+olive knot disease,,olive knot disease,https://lod.nal.usda.gov/nalt/307841,0.95,True,skos:broader; skos:narrower,INCLUDE
+Panama disease,Fusarium wilt of banana; Panama disease of banana,"Panama disease (Fusarium wilt of banana, Panama disease of banana)",https://lod.nal.usda.gov/nalt/310250,0.95,True,skos:broader; skos:narrower,INCLUDE
+pecan scab,,pecan scab,https://lod.nal.usda.gov/nalt/88268,0.95,True,skos:broader; skos:narrower,INCLUDE
+Phoma leaf spot disease,,Phoma leaf spot disease,https://lod.nal.usda.gov/nalt/324042,0.95,True,skos:broader; skos:narrower,INCLUDE
+Phoma stem canker disease,,Phoma stem canker disease,https://lod.nal.usda.gov/nalt/324046,0.95,True,skos:broader; skos:narrower,INCLUDE
+phytophagous mites,plant feeding mites; plant mites; plant-feeding mites,"phytophagous mites (plant feeding mites, plant mites, plant-feeding mites)",https://lod.nal.usda.gov/nalt/106009,0.9,False,skos:related,INCLUDE
+phytoplasmal diseases,phytoplasma infection,phytoplasmal diseases (phytoplasma infection),https://lod.nal.usda.gov/nalt/13232,0.8,True,skos:broader; skos:narrower,INCLUDE
+Pierce's disease,,Pierce's disease,https://lod.nal.usda.gov/nalt/15138,0.95,True,skos:broader; skos:narrower,INCLUDE
+plant pathogenic bacteria,bacterial phytopathogens; phytopathogenic bacteria,"plant pathogenic bacteria (bacterial phytopathogens, phytopathogenic bacteria)",https://lod.nal.usda.gov/nalt/15086,0.95,True,skos:related,INCLUDE
+plant pathogenic fungi,fungal phytopathogens; phytopathogenic fungi,"plant pathogenic fungi (fungal phytopathogens, phytopathogenic fungi)",https://lod.nal.usda.gov/nalt/31899,0.95,True,skos:related,INCLUDE
+plant pathogens,pathogens of plants; phytopathogens,"plant pathogens (pathogens of plants, phytopathogens)",https://lod.nal.usda.gov/nalt/57067,0.95,True,skos:broader; skos:narrower,INCLUDE
+plant stress,,plant stress,https://lod.nal.usda.gov/nalt/766,0.95,True,skos:related,INCLUDE
+plant tumors,plant tumours,plant tumors (plant tumours),https://lod.nal.usda.gov/nalt/950,0.95,True,skos:broader; skos:narrower,INCLUDE
+pod rot,,pod rot,https://lod.nal.usda.gov/nalt/290721,0.95,True,skos:broader; skos:narrower,INCLUDE
+postharvest injuries,,postharvest injuries,https://lod.nal.usda.gov/nalt/20174,0.9,True,skos:related,INCLUDE
+postharvest losses,post-harvest losses,postharvest losses (post-harvest losses),https://lod.nal.usda.gov/nalt/59358,0.7,False,skos:related,INCLUDE
+postharvest treatment,post-harvest treatment,postharvest treatment (post-harvest treatment),https://lod.nal.usda.gov/nalt/30828,0.65,False,skos:related,INCLUDE
+potato blight,potato blight disease,potato blight (potato blight disease),https://lod.nal.usda.gov/nalt/343715,1.0,True,skos:broader; skos:narrower,INCLUDE
+powdery mildew,,powdery mildew,https://lod.nal.usda.gov/nalt/41792,0.95,True,skos:broader; skos:narrower,INCLUDE
+ratoon stunting disease,ratoon stunting,ratoon stunting disease (ratoon stunting),https://lod.nal.usda.gov/nalt/15139,1.0,True,skos:broader; skos:narrower,INCLUDE
+rhizomania,,rhizomania,https://lod.nal.usda.gov/nalt/208418,1.0,True,skos:broader; skos:narrower,INCLUDE
+rice grain yellowing,milled-rice yellowing; rice yellowing; rice yellowing disease; rice yellowing syndrome; yellowed rice disease,"rice grain yellowing (milled-rice yellowing, rice yellowing, rice yellowing disease, rice yellowing syndrome, yellowed rice disease)",https://lod.nal.usda.gov/nalt/341161,0.95,True,skos:broader; skos:narrower,INCLUDE
+root rot,,root rot,https://lod.nal.usda.gov/nalt/58631,0.95,True,skos:broader; skos:narrower,INCLUDE
+rust diseases,rust infections,rust diseases (rust infections),https://lod.nal.usda.gov/nalt/41793,0.95,True,skos:broader; skos:narrower,INCLUDE
+scorch,,scorch,https://lod.nal.usda.gov/nalt/951,0.8,True,skos:broader; skos:narrower,INCLUDE
+seed damage,seed injuries,seed damage (seed injuries),https://lod.nal.usda.gov/nalt/306664,0.9,True,skos:broader; skos:narrower,INCLUDE
+seed pathology,,seed pathology,https://lod.nal.usda.gov/nalt/58608,0.9,True,skos:broader; skos:narrower,INCLUDE
+seed pests,,seed pests,https://lod.nal.usda.gov/nalt/306694,0.85,True,skos:related,INCLUDE
+seed rot,,seed rot,https://lod.nal.usda.gov/nalt/316276,0.95,True,skos:broader; skos:narrower,INCLUDE
+sharka disease,plum pox; plum pox disease,"sharka disease (plum pox, plum pox disease)",https://lod.nal.usda.gov/nalt/337417,0.99,True,skos:broader; skos:narrower,INCLUDE
+silver scurf,potato silver scurf; silver scurf disease,"silver scurf (potato silver scurf, silver scurf disease)",https://lod.nal.usda.gov/nalt/196205,0.99,True,skos:broader; skos:narrower,INCLUDE
+smut diseases,anther smut disease; common bunt disease; common smut; covered smut; flag smut; head smut; leaf smut; loose smut; white smut,"smut diseases (anther smut disease, common bunt disease, common smut, covered smut, flag smut, head smut, leaf smut, loose smut, white smut)",https://lod.nal.usda.gov/nalt/28171,0.95,True,skos:broader; skos:narrower,INCLUDE
+snow blight,,snow blight,https://lod.nal.usda.gov/nalt/226165,0.95,True,skos:broader; skos:narrower,INCLUDE
+snow damage,snow breakage,snow damage (snow breakage),https://lod.nal.usda.gov/nalt/69021,0.9,True,skos:broader; skos:narrower,INCLUDE
+snow molds,snow moulds,snow molds (snow moulds),https://lod.nal.usda.gov/nalt/41794,0.95,True,skos:broader; skos:narrower,INCLUDE
+sooty molds,sooty moulds,sooty molds (sooty moulds),https://lod.nal.usda.gov/nalt/41795,0.95,True,skos:broader; skos:narrower,INCLUDE
+soybean sudden death syndrome,sudden death syndrome in soybean; sudden death syndrome of soybean,"soybean sudden death syndrome (sudden death syndrome in soybean, sudden death syndrome of soybean)",https://lod.nal.usda.gov/nalt/274127,0.95,True,skos:broader; skos:narrower,INCLUDE
+spring dead spot,spring dead spot disease,spring dead spot (spring dead spot disease),https://lod.nal.usda.gov/nalt/198746,0.95,True,skos:broader; skos:narrower,INCLUDE
+stem rot,,stem rot,https://lod.nal.usda.gov/nalt/58632,0.95,True,skos:broader; skos:narrower,INCLUDE
+sudden oak death,,sudden oak death,https://lod.nal.usda.gov/nalt/308281,0.95,True,skos:broader; skos:narrower,INCLUDE
+sweet potato scab,leaf scab of sweet potato; scab of sweet potato; sweet potato leaf scab; sweet potato scab disease; sweet potato stem and foliage scab,"sweet potato scab (leaf scab of sweet potato, scab of sweet potato, sweet potato leaf scab, sweet potato scab disease, sweet potato stem and foliage scab)",https://lod.nal.usda.gov/nalt/248038,0.95,True,skos:broader; skos:narrower,INCLUDE
+Swiss needle cast,,Swiss needle cast,https://lod.nal.usda.gov/nalt/214740,0.95,True,skos:broader; skos:narrower,INCLUDE
+take-all disease,take all disease,take-all disease (take all disease),https://lod.nal.usda.gov/nalt/41796,0.95,True,skos:broader; skos:narrower,INCLUDE
+terminal crook disease,terminal crook disease of pines,terminal crook disease (terminal crook disease of pines),https://lod.nal.usda.gov/nalt/301857,0.95,True,skos:broader; skos:narrower,INCLUDE
+tree damage,tree injuries; tree injury,"tree damage (tree injuries, tree injury)",https://lod.nal.usda.gov/nalt/41129,0.95,True,skos:broader; skos:narrower,INCLUDE
+virus-free plants,virus free plants; virusfree plants,"virus-free plants (virus free plants, virusfree plants)",https://lod.nal.usda.gov/nalt/58620,0.85,False,skos:related,INCLUDE
+wildfire disease,wild-fire disease,wildfire disease (wild-fire disease),https://lod.nal.usda.gov/nalt/214273,0.95,True,skos:broader; skos:narrower,INCLUDE
+wilting,,wilting,https://lod.nal.usda.gov/nalt/952,0.8,True,skos:related,INCLUDE
+witches' broom,witches broom; witches'-broom,"witches' broom (witches broom, witches'-broom)",https://lod.nal.usda.gov/nalt/953,0.95,True,skos:broader; skos:narrower,INCLUDE
+yellow Sigatoka,,yellow Sigatoka,https://lod.nal.usda.gov/nalt/262795,0.95,True,skos:broader; skos:narrower,INCLUDE
+yellow vine disease,,yellow vine disease,https://lod.nal.usda.gov/nalt/15140,0.95,True,skos:broader; skos:narrower,INCLUDE
+zebra chip disease,zebra chip disorder; zebra complex disease,"zebra chip disease (zebra chip disorder, zebra complex disease)",https://lod.nal.usda.gov/nalt/190065,0.95,True,skos:broader; skos:narrower,INCLUDE
+zonate leaf spot,,zonate leaf spot,https://lod.nal.usda.gov/nalt/262793,0.95,True,skos:broader; skos:narrower,INCLUDE
+apple proliferation disease,,apple proliferation disease,https://lod.nal.usda.gov/nalt/310277,0.95,True,skos:broader; skos:narrower,INCLUDE
+Armillaria root rot,,Armillaria root rot,https://lod.nal.usda.gov/nalt/300759,0.95,True,skos:broader; skos:narrower,INCLUDE
+aster yellows,,aster yellows,https://lod.nal.usda.gov/nalt/13231,0.95,True,skos:broader; skos:narrower,INCLUDE
+bean rust,,bean rust,https://lod.nal.usda.gov/nalt/285882,0.95,True,skos:broader; skos:narrower,INCLUDE
+black pod rot,black pod disease; cacao black pod rot,"black pod rot (black pod disease, cacao black pod rot)",https://lod.nal.usda.gov/nalt/316281,0.95,True,skos:broader; skos:narrower,INCLUDE
+black root rot,,black root rot,https://lod.nal.usda.gov/nalt/235049,0.95,True,skos:broader; skos:narrower,INCLUDE
+blister rust,,blister rust,https://lod.nal.usda.gov/nalt/196168,0.95,True,skos:broader; skos:narrower,INCLUDE
+bruising (plant),bruises (plant); bruising (fruit); fruit bruising,"bruising (plant) (bruises (plant), bruising (fruit), fruit bruising)",https://lod.nal.usda.gov/nalt/20170,0.95,True,skos:broader; skos:narrower,INCLUDE
+bud galls,flower bud galls,bud galls (flower bud galls),https://lod.nal.usda.gov/nalt/333384,0.9,True,skos:broader; skos:narrower,INCLUDE
+cedar apple rust,,cedar apple rust,https://lod.nal.usda.gov/nalt/342466,0.95,True,skos:broader; skos:narrower,INCLUDE
+chilling injury,,chilling injury,https://lod.nal.usda.gov/nalt/24945,0.8,False,skos:broader; skos:narrower,INCLUDE
+citrus canker,citrus bacterial canker,citrus canker (citrus bacterial canker),https://lod.nal.usda.gov/nalt/326984,0.95,True,skos:broader; skos:narrower,INCLUDE
+cone and seed pests,cone pests; seed and cone pests,"cone and seed pests (cone pests, seed and cone pests)",https://lod.nal.usda.gov/nalt/314238,0.8,True,skos:broader; skos:narrower,INCLUDE
+corn rust,,corn rust,https://lod.nal.usda.gov/nalt/316342,0.95,True,skos:broader; skos:narrower,INCLUDE
+crown galls,crown knots (galls),crown galls (crown knots (galls)),https://lod.nal.usda.gov/nalt/30260,0.95,True,skos:broader; skos:narrower,INCLUDE
+crown rust,,crown rust,https://lod.nal.usda.gov/nalt/189057,0.95,True,skos:broader; skos:narrower,INCLUDE
+desiccation (plant physiology),dehydration (plant physiology),desiccation (plant physiology) (dehydration (plant physiology)),https://lod.nal.usda.gov/nalt/32028,0.85,False,skos:related,INCLUDE
+ear blight,,ear blight,https://lod.nal.usda.gov/nalt/209762,0.95,True,skos:broader; skos:narrower,INCLUDE
+frost injury,frost damage,frost injury (frost damage),https://lod.nal.usda.gov/nalt/27771,0.85,False,skos:broader; skos:narrower,INCLUDE
+frosty pod rot,,frosty pod rot,https://lod.nal.usda.gov/nalt/290725,0.95,True,skos:broader; skos:narrower,INCLUDE
+Fusarium wilt,,Fusarium wilt,https://lod.nal.usda.gov/nalt/41813,0.95,True,skos:broader; skos:narrower,INCLUDE
+fusiform rust,fusiform rust of Southern pine; fusiform rust of pine,"fusiform rust (fusiform rust of Southern pine, fusiform rust of pine)",https://lod.nal.usda.gov/nalt/301610,0.95,True,skos:broader; skos:narrower,INCLUDE
+head blight,,head blight,https://lod.nal.usda.gov/nalt/187953,0.95,True,skos:related,INCLUDE
+laminated root rot,,laminated root rot,https://lod.nal.usda.gov/nalt/339082,0.95,True,skos:broader; skos:narrower,INCLUDE
+leaf blight,leaf and sheath blight; sheath blight,"leaf blight (leaf and sheath blight, sheath blight)",https://lod.nal.usda.gov/nalt/18026,0.95,True,skos:broader; skos:narrower,INCLUDE
+lethal yellowing,coconut lethal yellowing,lethal yellowing (coconut lethal yellowing),https://lod.nal.usda.gov/nalt/27573,0.95,True,skos:broader; skos:narrower,INCLUDE
+oak wilt,oak wilt disease,oak wilt (oak wilt disease),https://lod.nal.usda.gov/nalt/340356,0.95,True,skos:broader; skos:narrower,INCLUDE
+onion yellows,,onion yellows,https://lod.nal.usda.gov/nalt/55875,0.95,True,skos:broader; skos:narrower,INCLUDE
+orange rust,,orange rust,https://lod.nal.usda.gov/nalt/198731,0.9,True,skos:broader; skos:narrower,INCLUDE
+plant pathology,phytopathology,plant pathology (phytopathology),https://lod.nal.usda.gov/nalt/58596,0.95,True,skos:broader; skos:narrower,INCLUDE
+rhizome rot,,rhizome rot,https://lod.nal.usda.gov/nalt/328473,0.95,True,skos:broader; skos:narrower,INCLUDE
+rice false smut,,rice false smut,https://lod.nal.usda.gov/nalt/323686,0.95,True,skos:broader; skos:narrower,INCLUDE
+root galls,,root galls,https://lod.nal.usda.gov/nalt/42221,0.9,True,skos:broader; skos:narrower,INCLUDE
+salt stress,saline stress; salinity stress,"salt stress (saline stress, salinity stress)",https://lod.nal.usda.gov/nalt/1732,0.85,True,skos:broader; skos:narrower,INCLUDE
+seed-borne bacteria,seedborne bacteria,seed-borne bacteria (seedborne bacteria),https://lod.nal.usda.gov/nalt/15089,0.7,False,skos:related,INCLUDE
+seed-borne fungi,seed-borne fungus; seedborne fungi,"seed-borne fungi (seed-borne fungus, seedborne fungi)",https://lod.nal.usda.gov/nalt/37057,0.7,False,skos:related,INCLUDE
+soybean rust,soyabean rust,soybean rust (soyabean rust),https://lod.nal.usda.gov/nalt/92833,0.95,True,skos:broader; skos:narrower,INCLUDE
+stem blight,,stem blight,https://lod.nal.usda.gov/nalt/315576,0.95,True,skos:broader; skos:narrower,INCLUDE
+stem cankers,,stem cankers,https://lod.nal.usda.gov/nalt/21882,0.95,True,skos:broader; skos:narrower,INCLUDE
+stem galls,twig galls,stem galls (twig galls),https://lod.nal.usda.gov/nalt/42222,0.9,True,skos:broader; skos:narrower,INCLUDE
+stem rust,,stem rust,https://lod.nal.usda.gov/nalt/189055,0.95,True,skos:broader; skos:narrower,INCLUDE
+stripe rust,yellow rust; yellow-rust,"stripe rust (yellow rust, yellow-rust)",https://lod.nal.usda.gov/nalt/210908,0.95,True,skos:broader; skos:narrower,INCLUDE
+sugarcane rust,,sugarcane rust,https://lod.nal.usda.gov/nalt/312566,0.95,True,skos:broader; skos:narrower,INCLUDE
+Texas Phoenix palm decline,Texas Phoenix decline,Texas Phoenix palm decline (Texas Phoenix decline),https://lod.nal.usda.gov/nalt/311283,0.95,True,skos:broader; skos:narrower,INCLUDE
+tomato bacterial speck,bacterial speck of tomato; tomato speck disease,"tomato bacterial speck (bacterial speck of tomato, tomato speck disease)",https://lod.nal.usda.gov/nalt/331426,0.95,True,skos:broader; skos:narrower,INCLUDE
+trampling damage,,trampling damage,https://lod.nal.usda.gov/nalt/31674,0.85,False,skos:broader; skos:narrower,INCLUDE
+Verticillium wilt,,Verticillium wilt,https://lod.nal.usda.gov/nalt/41814,0.9,True,skos:broader; skos:narrower,INCLUDE
+wetwood,wet wood,wetwood (wet wood),https://lod.nal.usda.gov/nalt/15212,0.9,False,skos:related,INCLUDE
+windthrow,wind throw; windfall; windsnap,"windthrow (wind throw, windfall, windsnap)",https://lod.nal.usda.gov/nalt/144670,0.9,True,skos:broader; skos:narrower,INCLUDE
+winterkill,,winterkill,https://lod.nal.usda.gov/nalt/193011,0.9,False,skos:related,INCLUDE
+comandra blister rust,,comandra blister rust,https://lod.nal.usda.gov/nalt/339101,0.95,True,skos:broader; skos:narrower,INCLUDE
+gummy stem blight,,gummy stem blight,https://lod.nal.usda.gov/nalt/315580,0.95,True,skos:broader; skos:narrower,INCLUDE
+orange rust of sugarcane,sugarcane orange rust,orange rust of sugarcane (sugarcane orange rust),https://lod.nal.usda.gov/nalt/312568,0.95,True,skos:broader; skos:narrower,INCLUDE
+Southern corn rust,Southern maize rust,Southern corn rust (Southern maize rust),https://lod.nal.usda.gov/nalt/316344,0.95,True,skos:broader; skos:narrower,INCLUDE
+stripe rust of barley,barley stripe rust; barley yellow rust; yellow rust of barley,"stripe rust of barley (barley stripe rust, barley yellow rust, yellow rust of barley)",https://lod.nal.usda.gov/nalt/334649,0.98,True,skos:broader; skos:narrower,INCLUDE
+stripe rust of wheat,wheat stripe rust; wheat yellow rust; yellow rust of wheat,"stripe rust of wheat (wheat stripe rust, wheat yellow rust, yellow rust of wheat)",https://lod.nal.usda.gov/nalt/334648,0.98,True,skos:broader; skos:narrower,INCLUDE
+water deprivation,,water deprivation,https://lod.nal.usda.gov/nalt/33355,0.75,False,skos:related,INCLUDE
+white pine blister rust,,white pine blister rust,https://lod.nal.usda.gov/nalt/196169,0.98,True,skos:broader; skos:narrower,INCLUDE
+drought,,drought,https://lod.nal.usda.gov/nalt/33990,0.65,False,skos:related,INCLUDE
+dry environmental conditions,arid conditions; arid environments; aridity; dry environment; dry environments; xeric conditions; xeric environment; xeric environments; xeric habitats,"dry environmental conditions (arid conditions, arid environments, aridity, dry environment, dry environments, xeric conditions, xeric environment, xeric environments, xeric habitats)",https://lod.nal.usda.gov/nalt/12165,0.6,False,skos:related,INCLUDE

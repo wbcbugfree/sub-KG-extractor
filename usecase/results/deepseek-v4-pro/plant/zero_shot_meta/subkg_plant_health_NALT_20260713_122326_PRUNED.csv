@@ -1,0 +1,337 @@
+prefLabel,altLabels,displayName,uri,confidence,in_hierarchy_gold,relations,classification
+botany,,botany,https://lod.nal.usda.gov/nalt/162,0.95,False,skos:related,EXCLUDE
+crop biosecurity,,crop biosecurity,https://lod.nal.usda.gov/nalt/17518,0.9,False,skos:related,EXCLUDE
+disease and pest management,,disease and pest management,https://lod.nal.usda.gov/nalt/284,0.8,False,skos:related,EXCLUDE
+disease control,disease management; disease suppression; infection control; pathogen suppression,"disease control (disease management, disease suppression, infection control, pathogen suppression)",https://lod.nal.usda.gov/nalt/290,0.8,False,skos:related,EXCLUDE
+disease models,,disease models,https://lod.nal.usda.gov/nalt/9121,0.85,False,skos:related,EXCLUDE
+etiological agents,aetiological agents; disease-causing agents,"etiological agents (aetiological agents, disease-causing agents)",https://lod.nal.usda.gov/nalt/136950,0.9,False,skos:related,EXCLUDE
+fungi,fungal organisms; macrofungi; microfungi,"fungi (fungal organisms, macrofungi, microfungi)",https://lod.nal.usda.gov/nalt/495,0.95,False,skos:related,EXCLUDE
+hail nets,anti-hail nets; hailnets,"hail nets (anti-hail nets, hailnets)",https://lod.nal.usda.gov/nalt/253146,0.9,False,skos:related,EXCLUDE
+herbicide safeners,herbicide antagonists; herbicide antidotes,"herbicide safeners (herbicide antagonists, herbicide antidotes)",https://lod.nal.usda.gov/nalt/123142,0.85,False,skos:related,EXCLUDE
+infectious diseases,communicable diseases,infectious diseases (communicable diseases),https://lod.nal.usda.gov/nalt/15154,0.9,False,skos:related,EXCLUDE
+infectious diseases and infestations,,infectious diseases and infestations,https://lod.nal.usda.gov/nalt/329,0.9,False,skos:related,EXCLUDE
+noninfectious diseases,noncommunicable diseases,noninfectious diseases (noncommunicable diseases),https://lod.nal.usda.gov/nalt/330,0.9,False,skos:related,EXCLUDE
+pest control,,pest control,https://lod.nal.usda.gov/nalt/291,0.85,False,skos:related,EXCLUDE
+plant disease resistance,,plant disease resistance,https://lod.nal.usda.gov/nalt/142532,0.95,False,skos:related,EXCLUDE
+plant-incorporated protectants,PIPs (plant incorporated protectants); plant incorporated protectants,"plant-incorporated protectants (PIPs (plant incorporated protectants), plant incorporated protectants)",https://lod.nal.usda.gov/nalt/68395,0.8,False,skos:related,EXCLUDE
+abiotic stress,abiotic injuries; environmental stress (on organisms),"abiotic stress (abiotic injuries, environmental stress (on organisms))",https://lod.nal.usda.gov/nalt/729,0.65,False,skos:related,EXCLUDE
+Anguinidae,,Anguinidae,https://lod.nal.usda.gov/nalt/8929,0.95,False,skos:related,EXCLUDE
+Aphelenchidae,,Aphelenchidae,https://lod.nal.usda.gov/nalt/10687,0.95,False,skos:related,EXCLUDE
+Aphelenchoididae,,Aphelenchoididae,https://lod.nal.usda.gov/nalt/10691,0.95,False,skos:related,EXCLUDE
+bacterial infections,animal bacterial diseases; animal bacterial infections; bacterial diseases of animals; bacterial infections of animals; bacterioses; human bacterial diseases,"bacterial infections (animal bacterial diseases, animal bacterial infections, bacterial diseases of animals, bacterial infections of animals, bacterioses, human bacterial diseases)",https://lod.nal.usda.gov/nalt/8545,0.99,False,skos:related,EXCLUDE
+Belonolaimidae,,Belonolaimidae,https://lod.nal.usda.gov/nalt/16539,0.95,False,skos:related,EXCLUDE
+birds,,birds,https://lod.nal.usda.gov/nalt/106,0.95,False,skos:related,EXCLUDE
+brown-rot fungi,brown rot fungi; brown-rot fungus,"brown-rot fungi (brown rot fungi, brown-rot fungus)",https://lod.nal.usda.gov/nalt/20087,0.85,False,skos:related,EXCLUDE
+bud sport,plant sport,bud sport (plant sport),https://lod.nal.usda.gov/nalt/222403,0.75,False,skos:related,EXCLUDE
+Candidatus Liberibacter,Candidatus Liberobacter; Liberibacter; Liberobacter,"Candidatus Liberibacter (Candidatus Liberobacter, Liberibacter, Liberobacter)",https://lod.nal.usda.gov/nalt/21812,0.95,False,skos:related,EXCLUDE
+chlorosis,,chlorosis,https://lod.nal.usda.gov/nalt/944,0.7,True,skos:broader; skos:narrower,EXCLUDE
+Cicadulina bipunctata,maize orange leafhopper,Cicadulina bipunctata (maize orange leafhopper),https://lod.nal.usda.gov/nalt/234078,0.95,False,skos:related,EXCLUDE
+cobweb disease,,cobweb disease,https://lod.nal.usda.gov/nalt/192970,0.65,True,skos:broader; skos:narrower,EXCLUDE
+Criconematidae,,Criconematidae,https://lod.nal.usda.gov/nalt/21389,0.95,False,skos:related,EXCLUDE
+crop entomology,,crop entomology,https://lod.nal.usda.gov/nalt/30118,0.75,False,skos:related,EXCLUDE
+cyst nematodes,,cyst nematodes,https://lod.nal.usda.gov/nalt/31320,0.75,False,skos:broader; skos:narrower,EXCLUDE
+debarking,bark removal; timber debarking; wood barking; wood debarking,"debarking (bark removal, timber debarking, wood barking, wood debarking)",https://lod.nal.usda.gov/nalt/302009,0.95,False,skos:related,EXCLUDE
+decay resistance,,decay resistance,https://lod.nal.usda.gov/nalt/150,0.9,False,skos:related,EXCLUDE
+defoliation,artificial defoliation; simulated defoliation,"defoliation (artificial defoliation, simulated defoliation)",https://lod.nal.usda.gov/nalt/12578,0.8,True,skos:broader; skos:narrower,EXCLUDE
+dendroecology,,dendroecology,https://lod.nal.usda.gov/nalt/302040,0.95,False,skos:related,EXCLUDE
+Diaphorina citri,Asian citrus psylla; Asian citrus psyllid,"Diaphorina citri (Asian citrus psylla, Asian citrus psyllid)",https://lod.nal.usda.gov/nalt/12935,0.95,False,skos:related,EXCLUDE
+discoloration,discolouration,discoloration (discolouration),https://lod.nal.usda.gov/nalt/28021,0.75,False,skos:related,EXCLUDE
+disease-free seeds,certified seeds; germ-free seeds; pathogen-free seeds,"disease-free seeds (certified seeds, germ-free seeds, pathogen-free seeds)",https://lod.nal.usda.gov/nalt/323808,0.85,False,skos:related,EXCLUDE
+Dolichodoridae,,Dolichodoridae,https://lod.nal.usda.gov/nalt/8128,0.95,False,skos:related,EXCLUDE
+embolism,embolus,embolism (embolus),https://lod.nal.usda.gov/nalt/36798,0.85,True,skos:broader; skos:narrower,EXCLUDE
+endoparasites,,endoparasites,https://lod.nal.usda.gov/nalt/37053,0.8,False,skos:broader; skos:narrower,EXCLUDE
+foliage plants,,foliage plants,https://lod.nal.usda.gov/nalt/302253,0.95,False,skos:related,EXCLUDE
+food spoilage,food decay; food degradation; food deterioration; staling (food),"food spoilage (food decay, food degradation, food deterioration, staling (food))",https://lod.nal.usda.gov/nalt/17374,0.95,False,skos:related,EXCLUDE
+forest insects,,forest insects,https://lod.nal.usda.gov/nalt/41149,0.85,False,skos:related,EXCLUDE
+forest restoration,amelioration of forest sites; forest ecosystem restoration; forest lands restoration; forest landscape restoration; forest rehabilitation,"forest restoration (amelioration of forest sites, forest ecosystem restoration, forest lands restoration, forest landscape restoration, forest rehabilitation)",https://lod.nal.usda.gov/nalt/138193,0.9,False,skos:related,EXCLUDE
+"Forestry, Wildland Management",,"Forestry, Wildland Management",https://lod.nal.usda.gov/nalt/127300,0.95,False,skos:broader; skos:narrower,EXCLUDE
+fruit crops,,fruit crops,https://lod.nal.usda.gov/nalt/41656,0.95,False,skos:related,EXCLUDE
+fungicide use reduction,fungicide reduction; fungicide usage reduction,"fungicide use reduction (fungicide reduction, fungicide usage reduction)",https://lod.nal.usda.gov/nalt/298654,0.9,False,skos:related,EXCLUDE
+growth retardation,growth inhibition; growth reduction; stunting,"growth retardation (growth inhibition, growth reduction, stunting)",https://lod.nal.usda.gov/nalt/34962,0.65,False,skos:related,EXCLUDE
+heat injury,,heat injury,https://lod.nal.usda.gov/nalt/1140,0.65,False,skos:related,EXCLUDE
+Heteroderidae,,Heteroderidae,https://lod.nal.usda.gov/nalt/13555,0.95,False,skos:related,EXCLUDE
+Hoplolaimidae,,Hoplolaimidae,https://lod.nal.usda.gov/nalt/10685,0.95,False,skos:related,EXCLUDE
+hyponasty,,hyponasty,https://lod.nal.usda.gov/nalt/291549,0.85,True,skos:broader; skos:narrower,EXCLUDE
+hypoxia,anoxia; cell hypoxia; hypoxemia; oxygen deficiency; tissue hypoxia,"hypoxia (anoxia, cell hypoxia, hypoxemia, oxygen deficiency, tissue hypoxia)",https://lod.nal.usda.gov/nalt/924,0.9,True,skos:broader; skos:narrower,EXCLUDE
+ice damage,,ice damage,https://lod.nal.usda.gov/nalt/46824,0.7,True,skos:broader; skos:narrower,EXCLUDE
+insect pests,,insect pests,https://lod.nal.usda.gov/nalt/9355,0.95,False,skos:related,EXCLUDE
+insecticides,,insecticides,https://lod.nal.usda.gov/nalt/823,0.95,False,skos:related,EXCLUDE
+invertebrates,Invertebrata,invertebrates (Invertebrata),https://lod.nal.usda.gov/nalt/9359,0.95,False,skos:broader; skos:narrower,EXCLUDE
+leaf characteristics,leaf traits,leaf characteristics (leaf traits),https://lod.nal.usda.gov/nalt/324666,0.95,False,skos:broader; skos:narrower,EXCLUDE
+leaves,foliage,leaves (foliage),https://lod.nal.usda.gov/nalt/28537,0.95,False,skos:related,EXCLUDE
+Longidoridae,,Longidoridae,https://lod.nal.usda.gov/nalt/50574,0.95,False,skos:related,EXCLUDE
+Macrophomina phaseolina,Macrophomina phaseoli; Rhizoctonia bataticola; Sclerotium bataticola,"Macrophomina phaseolina (Macrophomina phaseoli, Rhizoctonia bataticola, Sclerotium bataticola)",https://lod.nal.usda.gov/nalt/51068,0.95,False,skos:related,EXCLUDE
+Magnaporthe grisea,Ceratosphaeria grisea; Pyricularia grisea,"Magnaporthe grisea (Ceratosphaeria grisea, Pyricularia grisea)",https://lod.nal.usda.gov/nalt/17905,0.95,False,skos:related,EXCLUDE
+Magnaporthe oryzae,Pyricularia oryzae,Magnaporthe oryzae (Pyricularia oryzae),https://lod.nal.usda.gov/nalt/200534,0.95,False,skos:related,EXCLUDE
+Meloidogynidae,,Meloidogynidae,https://lod.nal.usda.gov/nalt/52046,0.95,False,skos:related,EXCLUDE
+mites,,mites,https://lod.nal.usda.gov/nalt/2069,0.8,False,skos:related,EXCLUDE
+molds (fungi),moulds (fungi),molds (fungi) (moulds (fungi)),https://lod.nal.usda.gov/nalt/41816,0.95,False,skos:related,EXCLUDE
+mollusc control,control of slugs; control of snails,"mollusc control (control of slugs, control of snails)",https://lod.nal.usda.gov/nalt/53264,0.75,False,skos:related,EXCLUDE
+molluscicides,,molluscicides,https://lod.nal.usda.gov/nalt/825,0.8,False,skos:related,EXCLUDE
+necrosis,necroses,necrosis (necroses),https://lod.nal.usda.gov/nalt/761,0.9,False,skos:related,EXCLUDE
+nematicides,anti-nematodal agents; antinematodal agents; antinematodals; filaricides,"nematicides (anti-nematodal agents, antinematodal agents, antinematodals, filaricides)",https://lod.nal.usda.gov/nalt/826,0.85,False,skos:related,EXCLUDE
+Nematoda,Secernentea; nematodes; roundworms,"Nematoda (Secernentea, nematodes, roundworms)",https://lod.nal.usda.gov/nalt/58,0.95,False,skos:related,EXCLUDE
+nematode control,,nematode control,https://lod.nal.usda.gov/nalt/9380,0.75,False,skos:related,EXCLUDE
+nematology,,nematology,https://lod.nal.usda.gov/nalt/1149,0.9,False,skos:related,EXCLUDE
+Neotylenchidae,,Neotylenchidae,https://lod.nal.usda.gov/nalt/32062,0.95,False,skos:related,EXCLUDE
+nursery pests,,nursery pests,https://lod.nal.usda.gov/nalt/314221,0.65,True,skos:broader; skos:narrower,EXCLUDE
+Paratylenchidae,,Paratylenchidae,https://lod.nal.usda.gov/nalt/43567,0.95,False,skos:related,EXCLUDE
+Peronosporales,,Peronosporales,https://lod.nal.usda.gov/nalt/6026,0.95,False,skos:related,EXCLUDE
+pests,vermin,pests (vermin),https://lod.nal.usda.gov/nalt/839,0.9,False,skos:broader; skos:narrower,EXCLUDE
+Phytophthora nicotianae,,Phytophthora nicotianae,https://lod.nal.usda.gov/nalt/58153,0.95,False,skos:related,EXCLUDE
+plant-water relations,plant water relations; water-plant relations,"plant-water relations (plant water relations, water-plant relations)",https://lod.nal.usda.gov/nalt/34627,0.95,False,skos:related,EXCLUDE
+plants (botany),,plants (botany),https://lod.nal.usda.gov/nalt/874,1.0,False,skos:broader; skos:narrower,EXCLUDE
+pollution,contaminants in environment; environmental contaminants; environmental contamination; environmental pollution,"pollution (contaminants in environment, environmental contaminants, environmental contamination, environmental pollution)",https://lod.nal.usda.gov/nalt/5845,0.85,False,skos:related,EXCLUDE
+postharvest physiology,,postharvest physiology,https://lod.nal.usda.gov/nalt/58609,0.85,False,skos:related,EXCLUDE
+postharvest storage,,postharvest storage,https://lod.nal.usda.gov/nalt/323613,0.8,False,skos:related,EXCLUDE
+postharvest systems,post-harvest systems,postharvest systems (post-harvest systems),https://lod.nal.usda.gov/nalt/59360,0.9,False,skos:related,EXCLUDE
+Pratylenchidae,,Pratylenchidae,https://lod.nal.usda.gov/nalt/45608,1.0,False,skos:related,EXCLUDE
+propagation materials,propagules (plants),propagation materials (propagules (plants)),https://lod.nal.usda.gov/nalt/12615,0.95,False,skos:related,EXCLUDE
+radiation injury,radiation sickness,radiation injury (radiation sickness),https://lod.nal.usda.gov/nalt/1142,0.85,False,skos:related,EXCLUDE
+regeneration surveys,,regeneration surveys,https://lod.nal.usda.gov/nalt/305525,0.95,False,skos:related,EXCLUDE
+relative humidity,,relative humidity,https://lod.nal.usda.gov/nalt/46149,1.0,False,skos:related,EXCLUDE
+ring nematodes,,ring nematodes,https://lod.nal.usda.gov/nalt/52184,0.95,False,skos:broader; skos:narrower,EXCLUDE
+root lesion nematodes,lesion nematodes,root lesion nematodes (lesion nematodes),https://lod.nal.usda.gov/nalt/49832,0.95,False,skos:broader; skos:narrower,EXCLUDE
+root-knot nematodes,root knot nematodes,root-knot nematodes (root knot nematodes),https://lod.nal.usda.gov/nalt/52055,0.95,False,skos:broader; skos:narrower,EXCLUDE
+Rosa,Hulthemia; Hulthemosa; roses; tea roses,"Rosa (Hulthemia, Hulthemosa, roses, tea roses)",https://lod.nal.usda.gov/nalt/46060,0.99,False,skos:related,EXCLUDE
+seed-borne organisms,,seed-borne organisms,https://lod.nal.usda.gov/nalt/306705,0.75,False,skos:related,EXCLUDE
+slugs,,slugs,https://lod.nal.usda.gov/nalt/53265,0.99,False,skos:related,EXCLUDE
+snails,,snails,https://lod.nal.usda.gov/nalt/53266,0.99,False,skos:related,EXCLUDE
+soil nematodes,,soil nematodes,https://lod.nal.usda.gov/nalt/10689,0.8,False,skos:related,EXCLUDE
+storage quality,food storage losses; keeping quality; postharvest quality; quality for storage; storability; storeability,"storage quality (food storage losses, keeping quality, postharvest quality, quality for storage, storability, storeability)",https://lod.nal.usda.gov/nalt/32790,0.9,False,skos:related,EXCLUDE
+storm damage,,storm damage,https://lod.nal.usda.gov/nalt/220318,0.8,False,skos:related,EXCLUDE
+tissue culture,tissue culturing,tissue culture (tissue culturing),https://lod.nal.usda.gov/nalt/9560,0.95,False,skos:related,EXCLUDE
+Trichodoridae,,Trichodoridae,https://lod.nal.usda.gov/nalt/53414,0.95,False,skos:related,EXCLUDE
+Tylenchidae,,Tylenchidae,https://lod.nal.usda.gov/nalt/40141,0.95,False,skos:related,EXCLUDE
+Tylenchulidae,,Tylenchulidae,https://lod.nal.usda.gov/nalt/54523,0.95,False,skos:related,EXCLUDE
+water stress,drought stress,water stress (drought stress),https://lod.nal.usda.gov/nalt/1733,0.7,False,skos:related,EXCLUDE
+water uptake,water absorption,water uptake (water absorption),https://lod.nal.usda.gov/nalt/46559,0.85,False,skos:related,EXCLUDE
+wounds and injuries,,wounds and injuries,https://lod.nal.usda.gov/nalt/728,0.75,False,skos:related,EXCLUDE
+almonds,,almonds,https://lod.nal.usda.gov/nalt/6768,0.95,False,skos:related,EXCLUDE
+Alternaria alternata,Alternaria fasciculata; Alternaria tenuis; Macrosporium fasciculatum,"Alternaria alternata (Alternaria fasciculata, Alternaria tenuis, Macrosporium fasciculatum)",https://lod.nal.usda.gov/nalt/7077,0.95,False,skos:related,EXCLUDE
+Alternaria arborescens,,Alternaria arborescens,https://lod.nal.usda.gov/nalt/324036,0.95,False,skos:related,EXCLUDE
+antibrowning agents,anti-browning agents,antibrowning agents (anti-browning agents),https://lod.nal.usda.gov/nalt/331461,0.95,False,skos:related,EXCLUDE
+apples,apple fruits,apples (apple fruits),https://lod.nal.usda.gov/nalt/11308,0.95,False,skos:related,EXCLUDE
+bacteria,,bacteria,https://lod.nal.usda.gov/nalt/2350,0.9,False,skos:broader; skos:narrower,EXCLUDE
+Beet necrotic yellow vein virus,BNYVV (Beet necrotic yellow vein virus),Beet necrotic yellow vein virus (BNYVV (Beet necrotic yellow vein virus)),https://lod.nal.usda.gov/nalt/16338,0.9,False,skos:related,EXCLUDE
+Blueberry mosaic associated virus,,Blueberry mosaic associated virus,https://lod.nal.usda.gov/nalt/266495,0.9,False,skos:related,EXCLUDE
+boring insects,stalk borers; stem borers; wood borers,"boring insects (stalk borers, stem borers, wood borers)",https://lod.nal.usda.gov/nalt/18657,0.85,False,skos:related,EXCLUDE
+Botrytis cinerea,Botryotinia fuckeliana; Botrytis vulgaris; Sclerotinia fuckeliana,"Botrytis cinerea (Botryotinia fuckeliana, Botrytis vulgaris, Sclerotinia fuckeliana)",https://lod.nal.usda.gov/nalt/18851,0.95,False,skos:related,EXCLUDE
+Brassicaceae,Cruciferae; Raphanaceae; Stanleyaceae; Thlaspiaceae; crucifers; mustard family,"Brassicaceae (Cruciferae, Raphanaceae, Stanleyaceae, Thlaspiaceae, crucifers, mustard family)",https://lod.nal.usda.gov/nalt/6585,0.95,False,skos:related,EXCLUDE
+browse plants,,browse plants,https://lod.nal.usda.gov/nalt/300977,0.9,False,skos:related,EXCLUDE
+browsing,,browsing,https://lod.nal.usda.gov/nalt/20122,0.7,False,skos:related,EXCLUDE
+Buxus,,Buxus,https://lod.nal.usda.gov/nalt/20670,0.95,False,skos:related,EXCLUDE
+cabbage,cabbages,cabbage (cabbages),https://lod.nal.usda.gov/nalt/19478,0.95,False,skos:related,EXCLUDE
+Calonectria henricotiae,,Calonectria henricotiae,https://lod.nal.usda.gov/nalt/336999,0.95,False,skos:related,EXCLUDE
+Calonectria pseudonaviculata,Cylindrocladium buxicola; Cylindrocladium pseudonaviculatum,"Calonectria pseudonaviculata (Cylindrocladium buxicola, Cylindrocladium pseudonaviculatum)",https://lod.nal.usda.gov/nalt/336987,0.95,False,skos:related,EXCLUDE
+Castanea sativa,European chestnut,Castanea sativa (European chestnut),https://lod.nal.usda.gov/nalt/22867,0.95,False,skos:related,EXCLUDE
+Ceratocystis ulmi,Ophiostoma ulmi,Ceratocystis ulmi (Ophiostoma ulmi),https://lod.nal.usda.gov/nalt/23908,0.95,False,skos:related,EXCLUDE
+ceratoulmin,,ceratoulmin,https://lod.nal.usda.gov/nalt/301230,0.75,False,skos:related,EXCLUDE
+Cercospora,,Cercospora,https://lod.nal.usda.gov/nalt/24011,0.95,False,skos:related,EXCLUDE
+Cercospora sojina,Passalora sojina,Cercospora sojina (Passalora sojina),https://lod.nal.usda.gov/nalt/24019,0.95,False,skos:related,EXCLUDE
+Cercospora zeae-maydis,Cercosporella zeae-maydis,Cercospora zeae-maydis (Cercosporella zeae-maydis),https://lod.nal.usda.gov/nalt/24020,0.95,False,skos:related,EXCLUDE
+Citrus,Afraurantium; Aurantium,"Citrus (Afraurantium, Aurantium)",https://lod.nal.usda.gov/nalt/4824,0.95,False,skos:related,EXCLUDE
+citrus fruits,,citrus fruits,https://lod.nal.usda.gov/nalt/16721,0.95,False,skos:related,EXCLUDE
+Clavibacter,,Clavibacter,https://lod.nal.usda.gov/nalt/15217,0.95,False,skos:related,EXCLUDE
+Clavibacter michiganensis,Aplanobacter michiganense; Bacterium michiganense; Clavibacter michiganense; Corynebacterium michiganense; Mycobacterium flavum ssp. michiganense; Mycobacterium flavum subsp. michiganense; Phytomonas michiganensis; Pseudomonas michiganensis,"Clavibacter michiganensis (Aplanobacter michiganense, Bacterium michiganense, Clavibacter michiganense, Corynebacterium michiganense, Mycobacterium flavum ssp. michiganense, Mycobacterium flavum subsp. michiganense, Phytomonas michiganensis, Pseudomonas michiganensis)",https://lod.nal.usda.gov/nalt/11130,0.95,False,skos:related,EXCLUDE
+Claviceps purpurea,Claviceps microcephala,Claviceps purpurea (Claviceps microcephala),https://lod.nal.usda.gov/nalt/26718,0.95,False,skos:related,EXCLUDE
+coffee beans,,coffee beans,https://lod.nal.usda.gov/nalt/27703,0.95,False,skos:related,EXCLUDE
+cold,,cold,https://lod.nal.usda.gov/nalt/27767,0.9,False,skos:related,EXCLUDE
+cold shock response,cold stress response,cold shock response (cold stress response),https://lod.nal.usda.gov/nalt/277273,0.75,False,skos:related,EXCLUDE
+cold stress,cold shock,cold stress (cold shock),https://lod.nal.usda.gov/nalt/1730,0.75,False,skos:related,EXCLUDE
+cold tolerance,chilling tolerance; cold hardening; cold hardiness; cold resistance (organisms); critical thermal minima; critical thermal minimum; cryo-tolerance; cryotolerance; freeze tolerance; freezing tolerance,"cold tolerance (chilling tolerance, cold hardening, cold hardiness, cold resistance (organisms), critical thermal minima, critical thermal minimum, cryo-tolerance, cryotolerance, freeze tolerance, freezing tolerance)",https://lod.nal.usda.gov/nalt/136,0.9,False,skos:related,EXCLUDE
+Colletotrichum acutatum,,Colletotrichum acutatum,https://lod.nal.usda.gov/nalt/27940,0.95,False,skos:related,EXCLUDE
+Colletotrichum kahawae,,Colletotrichum kahawae,https://lod.nal.usda.gov/nalt/263009,0.95,False,skos:related,EXCLUDE
+conifer needles,pine needles,conifer needles (pine needles),https://lod.nal.usda.gov/nalt/28535,0.95,False,skos:related,EXCLUDE
+conifers,narrow-leaf evergreens; narrow-leaved evergreens; needled evergreens,"conifers (narrow-leaf evergreens, narrow-leaved evergreens, needled evergreens)",https://lod.nal.usda.gov/nalt/28532,0.95,False,skos:related,EXCLUDE
+Corynebacterium,,Corynebacterium,https://lod.nal.usda.gov/nalt/15218,0.95,False,skos:related,EXCLUDE
+Cristulariella,Nervostroma,Cristulariella (Nervostroma),https://lod.nal.usda.gov/nalt/30063,0.95,False,skos:related,EXCLUDE
+crop losses,,crop losses,https://lod.nal.usda.gov/nalt/30114,0.65,False,skos:related,EXCLUDE
+Cryphonectria parasitica,Endothia parasitica,Cryphonectria parasitica (Endothia parasitica),https://lod.nal.usda.gov/nalt/24785,0.95,False,skos:related,EXCLUDE
+curing (crops),,curing (crops),https://lod.nal.usda.gov/nalt/30827,0.9,False,skos:related,EXCLUDE
+decay fungi,rot fungi; wood decay fungi; wood destroying fungi; wood rot fungi; wood-destroying fungi; wood-rot fungi,"decay fungi (rot fungi, wood decay fungi, wood destroying fungi, wood rot fungi, wood-destroying fungi, wood-rot fungi)",https://lod.nal.usda.gov/nalt/20101,0.7,False,skos:related,EXCLUDE
+Dickeya,,Dickeya,https://lod.nal.usda.gov/nalt/203547,0.95,False,skos:related,EXCLUDE
+disturbed land,,disturbed land,https://lod.nal.usda.gov/nalt/302024,0.9,False,skos:related,EXCLUDE
+disturbed soils,,disturbed soils,https://lod.nal.usda.gov/nalt/10095,0.9,False,skos:related,EXCLUDE
+economic threshold,damage threshold; economic injury level,"economic threshold (damage threshold, economic injury level)",https://lod.nal.usda.gov/nalt/30115,0.65,False,skos:related,EXCLUDE
+Elsinoe batatas,Sphaceloma batatas,Elsinoe batatas (Sphaceloma batatas),https://lod.nal.usda.gov/nalt/248017,0.95,False,skos:related,EXCLUDE
+Enterobacter nimipressuralis,Erwinia nimipressuralis,Enterobacter nimipressuralis (Erwinia nimipressuralis),https://lod.nal.usda.gov/nalt/15211,0.95,False,skos:related,EXCLUDE
+ergot alkaloids,ergot derivatives,ergot alkaloids (ergot derivatives),https://lod.nal.usda.gov/nalt/19967,0.85,False,skos:related,EXCLUDE
+Erwinia,,Erwinia,https://lod.nal.usda.gov/nalt/15219,0.95,False,skos:related,EXCLUDE
+Erwinia amylovora,Bacillus amylovorus; Bacterium amylovorus; Micrococcus amylovorus,"Erwinia amylovora (Bacillus amylovorus, Bacterium amylovorus, Micrococcus amylovorus)",https://lod.nal.usda.gov/nalt/14615,0.95,False,skos:related,EXCLUDE
+Fagus grandifolia,American beech,Fagus grandifolia (American beech),https://lod.nal.usda.gov/nalt/7537,0.95,False,skos:related,EXCLUDE
+figs,,figs,https://lod.nal.usda.gov/nalt/40096,0.95,False,skos:related,EXCLUDE
+food loss,food losses,food loss (food losses),https://lod.nal.usda.gov/nalt/199741,0.85,False,skos:related,EXCLUDE
+food preparation,meal preparation,food preparation (meal preparation),https://lod.nal.usda.gov/nalt/28863,0.99,False,skos:related,EXCLUDE
+food preservation,preservation (food),food preservation (preservation (food)),https://lod.nal.usda.gov/nalt/21908,0.99,False,skos:related,EXCLUDE
+food processing,milk processing,food processing (milk processing),https://lod.nal.usda.gov/nalt/2132,0.99,False,skos:related,EXCLUDE
+food production,,food production,https://lod.nal.usda.gov/nalt/40879,0.9,False,skos:related,EXCLUDE
+food technology,food engineering,food technology (food engineering),https://lod.nal.usda.gov/nalt/40859,0.99,False,skos:related,EXCLUDE
+forest ecology,,forest ecology,https://lod.nal.usda.gov/nalt/35719,0.85,False,skos:related,EXCLUDE
+forest trees,timber trees,forest trees (timber trees),https://lod.nal.usda.gov/nalt/41131,0.9,False,skos:related,EXCLUDE
+forests,,forests,https://lod.nal.usda.gov/nalt/18644,0.95,False,skos:related,EXCLUDE
+frostbite,cold injury (frostbite),frostbite (cold injury (frostbite)),https://lod.nal.usda.gov/nalt/9286,0.95,False,skos:related,EXCLUDE
+fruit peels,fruit rinds,fruit peels (fruit rinds),https://lod.nal.usda.gov/nalt/26543,0.95,False,skos:related,EXCLUDE
+Fusarium,Gibberella; Haematonectria,"Fusarium (Gibberella, Haematonectria)",https://lod.nal.usda.gov/nalt/32390,0.95,False,skos:related,EXCLUDE
+Fusarium mangiferae,,Fusarium mangiferae,https://lod.nal.usda.gov/nalt/259605,0.95,False,skos:related,EXCLUDE
+Fusarium oxysporum f. sp. cubense,Fusarium oxysporum f.sp. cubense; Fusarium oxysporum fsp. cubense,"Fusarium oxysporum f. sp. cubense (Fusarium oxysporum f.sp. cubense, Fusarium oxysporum fsp. cubense)",https://lod.nal.usda.gov/nalt/41947,0.95,False,skos:related,EXCLUDE
+Fusicladium caryigenum,Cladosporium caryigenum,Fusicladium caryigenum (Cladosporium caryigenum),https://lod.nal.usda.gov/nalt/227578,0.95,False,skos:related,EXCLUDE
+Gaeumannomyces graminis var. graminis,Gaeumannomyces cariceti; Gaeumannomyces graminis; Gaeumannomyces oryzinus; Linocarpon cariceti; Linocarpon oryzinum; Ophiobolus cariceti; Ophiobolus graminis; Ophiobolus graminis var. graminis; Ophiobolus oryzinus; Rhaphidophora graminis; Rhaphidospora cariceti; Sphaeria cariceti,"Gaeumannomyces graminis var. graminis (Gaeumannomyces cariceti, Gaeumannomyces graminis, Gaeumannomyces oryzinus, Linocarpon cariceti, Linocarpon oryzinum, Ophiobolus cariceti, Ophiobolus graminis, Ophiobolus graminis var. graminis, Ophiobolus oryzinus, Rhaphidophora graminis, Rhaphidospora cariceti, Sphaeria cariceti)",https://lod.nal.usda.gov/nalt/42121,0.95,False,skos:related,EXCLUDE
+Gaeumannomyces graminis var. tritici,Cephalosporium maydis; Harpophora maydis; Ophiobolus graminis var. tritici,"Gaeumannomyces graminis var. tritici (Cephalosporium maydis, Harpophora maydis, Ophiobolus graminis var. tritici)",https://lod.nal.usda.gov/nalt/23775,0.95,False,skos:related,EXCLUDE
+gall-inducing insects,gall insects; gall-forming insects; gall-inducing thrips; gall-producing insects,"gall-inducing insects (gall insects, gall-forming insects, gall-inducing thrips, gall-producing insects)",https://lod.nal.usda.gov/nalt/276071,0.8,False,skos:related,EXCLUDE
+Gloeocercospora sorghi,Microdochium sorghi,Gloeocercospora sorghi (Microdochium sorghi),https://lod.nal.usda.gov/nalt/43085,0.95,False,skos:related,EXCLUDE
+granivores,granivorous organisms,granivores (granivorous organisms),https://lod.nal.usda.gov/nalt/81888,0.95,False,skos:related,EXCLUDE
+Graphocephala atropunctata,Graphocephalus atropunctata; Hordnia atropunctata; Hordnia circellata; Neokolla circellata; blue-green sharpshooter,"Graphocephala atropunctata (Graphocephalus atropunctata, Hordnia atropunctata, Hordnia circellata, Neokolla circellata, blue-green sharpshooter)",https://lod.nal.usda.gov/nalt/124234,0.95,False,skos:related,EXCLUDE
+Guignardia citricarpa,Phyllosticta citricarpa,Guignardia citricarpa (Phyllosticta citricarpa),https://lod.nal.usda.gov/nalt/259065,0.95,False,skos:related,EXCLUDE
+Helminthosporium solani,Helminthosporium atrovirens; Spondylocladium atrovirens,"Helminthosporium solani (Helminthosporium atrovirens, Spondylocladium atrovirens)",https://lod.nal.usda.gov/nalt/45009,0.95,False,skos:related,EXCLUDE
+herbivores,folivores; folivorous organisms; folivory; herbivory; phytophagy,"herbivores (folivores, folivorous organisms, folivory, herbivory, phytophagy)",https://lod.nal.usda.gov/nalt/31997,0.95,False,skos:broader; skos:narrower,EXCLUDE
+hypothermia,,hypothermia,https://lod.nal.usda.gov/nalt/158,0.98,False,skos:related,EXCLUDE
+inoculation methods,inoculation techniques,inoculation methods (inoculation techniques),https://lod.nal.usda.gov/nalt/11341,0.85,False,skos:related,EXCLUDE
+Ipomoea batatas,,Ipomoea batatas,https://lod.nal.usda.gov/nalt/47629,0.95,False,skos:related,EXCLUDE
+Juglans cinerea,butternut tree,Juglans cinerea (butternut tree),https://lod.nal.usda.gov/nalt/20642,0.95,False,skos:related,EXCLUDE
+Lauraceae,Cassythaceae; Perseaceae,"Lauraceae (Cassythaceae, Perseaceae)",https://lod.nal.usda.gov/nalt/3317,0.95,False,skos:related,EXCLUDE
+leafrollers,leaf folders; leaf rollers,"leafrollers (leaf folders, leaf rollers)",https://lod.nal.usda.gov/nalt/47436,0.85,False,skos:related,EXCLUDE
+Leifsonia xyli subsp. xyli,Clavibacter xyli ssp. xyli; Clavibacter xyli subsp. xyli; Leifsonia xyli ssp. xyli,"Leifsonia xyli subsp. xyli (Clavibacter xyli ssp. xyli, Clavibacter xyli subsp. xyli, Leifsonia xyli ssp. xyli)",https://lod.nal.usda.gov/nalt/26713,0.95,False,skos:related,EXCLUDE
+lodging resistance,,lodging resistance,https://lod.nal.usda.gov/nalt/141,0.9,False,skos:related,EXCLUDE
+Lophodermium,,Lophodermium,https://lod.nal.usda.gov/nalt/50627,0.95,False,skos:related,EXCLUDE
+Mangifera indica,Mangifera austroyunnanensis; Mangifera mekongensis; Mangifera siamensis,"Mangifera indica (Mangifera austroyunnanensis, Mangifera mekongensis, Mangifera siamensis)",https://lod.nal.usda.gov/nalt/51389,0.95,False,skos:related,EXCLUDE
+Moniliophthora perniciosa,Crinipellis perniciosa; Marasmius perniciosus,"Moniliophthora perniciosa (Crinipellis perniciosa, Marasmius perniciosus)",https://lod.nal.usda.gov/nalt/126484,0.95,False,skos:related,EXCLUDE
+mycoherbicides,,mycoherbicides,https://lod.nal.usda.gov/nalt/45182,0.75,False,skos:related,EXCLUDE
+Mycosphaerella fijiensis,Cercospora fijiensis; Cercospora fijiensis var. difformis; Mycosphaerella fijiensis var. difformis; Paracercospora fijiensis; Pseudocercospora fijiensis,"Mycosphaerella fijiensis (Cercospora fijiensis, Cercospora fijiensis var. difformis, Mycosphaerella fijiensis var. difformis, Paracercospora fijiensis, Pseudocercospora fijiensis)",https://lod.nal.usda.gov/nalt/17812,0.95,False,skos:related,EXCLUDE
+Mycosphaerella musicola,,Mycosphaerella musicola,https://lod.nal.usda.gov/nalt/54135,0.95,False,skos:related,EXCLUDE
+nastic movement,nyctinastic movement; nyctinasty; seismonastic movement; seismonasty; thermonastic movement; thermonasty; thigmonastic movement; thigmonasty,"nastic movement (nyctinastic movement, nyctinasty, seismonastic movement, seismonasty, thermonastic movement, thermonasty, thigmonastic movement, thigmonasty)",https://lod.nal.usda.gov/nalt/54365,0.95,False,skos:related,EXCLUDE
+Nectria coccinea,,Nectria coccinea,https://lod.nal.usda.gov/nalt/54461,0.95,False,skos:related,EXCLUDE
+Ophiognomonia clavigignenti-juglandacearum,Sirococcus clavigignenti-juglandacearum,Ophiognomonia clavigignenti-juglandacearum (Sirococcus clavigignenti-juglandacearum),https://lod.nal.usda.gov/nalt/228473,0.95,False,skos:related,EXCLUDE
+Ophiosphaerella,,Ophiosphaerella,https://lod.nal.usda.gov/nalt/198745,0.95,False,skos:related,EXCLUDE
+Ophiostoma novo-ulmi,,Ophiostoma novo-ulmi,https://lod.nal.usda.gov/nalt/281632,0.95,False,skos:related,EXCLUDE
+pathogens,infectious agents; infectious pathogens,"pathogens (infectious agents, infectious pathogens)",https://lod.nal.usda.gov/nalt/838,0.85,False,skos:broader; skos:narrower,EXCLUDE
+pecans,,pecans,https://lod.nal.usda.gov/nalt/22739,0.95,False,skos:related,EXCLUDE
+Pectobacterium,,Pectobacterium,https://lod.nal.usda.gov/nalt/37258,0.95,False,skos:related,EXCLUDE
+Phaeocryptopus gaeumannii,,Phaeocryptopus gaeumannii,https://lod.nal.usda.gov/nalt/214741,0.95,False,skos:related,EXCLUDE
+phytophagous insects,herbivorous insects; plant chewing insects,"phytophagous insects (herbivorous insects, plant chewing insects)",https://lod.nal.usda.gov/nalt/45292,0.8,False,skos:related,EXCLUDE
+Phytophthora,,Phytophthora,https://lod.nal.usda.gov/nalt/57515,0.9,False,skos:related,EXCLUDE
+Phytophthora infestans,Botrytis infestans; Peronospora infestans; late blight; potato late blight,"Phytophthora infestans (Botrytis infestans, Peronospora infestans, late blight, potato late blight)",https://lod.nal.usda.gov/nalt/18857,0.75,False,skos:related,EXCLUDE
+Phytophthora ramorum,,Phytophthora ramorum,https://lod.nal.usda.gov/nalt/58156,0.95,False,skos:related,EXCLUDE
+Phytoplasma,Candidatus Phytoplasma; MLOs (mycoplasma-like organisms); Mycoplasma-like organisms (MLOs); mycoplasma-like organisms; mycoplasma-like organisms (plant pathogenic); mycoplasmalike organisms (plant pathogenic); plant yellows agents,"Phytoplasma (Candidatus Phytoplasma, MLOs (mycoplasma-like organisms), Mycoplasma-like organisms (MLOs), mycoplasma-like organisms, mycoplasma-like organisms (plant pathogenic), mycoplasmalike organisms (plant pathogenic), plant yellows agents)",https://lod.nal.usda.gov/nalt/1091,0.85,False,skos:related,EXCLUDE
+plant growth,growth rate (plants),plant growth (growth rate (plants)),https://lod.nal.usda.gov/nalt/20266,0.9,False,skos:broader; skos:narrower,EXCLUDE
+plant nutrition,diagnosis of plant nutrient status; mineral nutrition (plants); plant analysis of nutrient status; plant macronutrients; plant nutrient status,"plant nutrition (diagnosis of plant nutrient status, mineral nutrition (plants), plant analysis of nutrient status, plant macronutrients, plant nutrient status)",https://lod.nal.usda.gov/nalt/17679,0.8,False,skos:related,EXCLUDE
+plant propagation,,plant propagation,https://lod.nal.usda.gov/nalt/43596,0.95,False,skos:related,EXCLUDE
+Plasmodiophora brassicae,,Plasmodiophora brassicae,https://lod.nal.usda.gov/nalt/58701,0.95,False,skos:related,EXCLUDE
+Plenodomus biglobosus,Leptosphaeria biglobosa,Plenodomus biglobosus (Leptosphaeria biglobosa),https://lod.nal.usda.gov/nalt/234504,0.95,False,skos:related,EXCLUDE
+Plenodomus lingam,Leptosphaeria maculans; Phoma lingam,"Plenodomus lingam (Leptosphaeria maculans, Phoma lingam)",https://lod.nal.usda.gov/nalt/49776,0.95,False,skos:related,EXCLUDE
+Pleospora betae,Phoma betae; beet black rot fungus,"Pleospora betae (Phoma betae, beet black rot fungus)",https://lod.nal.usda.gov/nalt/58801,0.95,False,skos:related,EXCLUDE
+Plum pox virus,PPV (Plum pox virus); Plum pox potyvirus; Prunus virus 7; Sarka virus; Scharka-virus; Sharka disease virus; Sharka virus,"Plum pox virus (PPV (Plum pox virus), Plum pox potyvirus, Prunus virus 7, Sarka virus, Scharka-virus, Sharka disease virus, Sharka virus)",https://lod.nal.usda.gov/nalt/58850,0.9,False,skos:related,EXCLUDE
+Podosphaera macularis,,Podosphaera macularis,https://lod.nal.usda.gov/nalt/312908,0.95,False,skos:related,EXCLUDE
+pods,,pods,https://lod.nal.usda.gov/nalt/41694,0.98,False,skos:related,EXCLUDE
+postharvest technology,,postharvest technology,https://lod.nal.usda.gov/nalt/59365,0.9,False,skos:broader; skos:narrower,EXCLUDE
+potatoes,,potatoes,https://lod.nal.usda.gov/nalt/59404,0.98,False,skos:related,EXCLUDE
+product quality,,product quality,https://lod.nal.usda.gov/nalt/4405,0.9,False,skos:related,EXCLUDE
+production economics,factors of production; production factors,"production economics (factors of production, production factors)",https://lod.nal.usda.gov/nalt/5306,0.98,False,skos:broader; skos:narrower,EXCLUDE
+Pseudomonas,Liquidomonas; Loefflerella; fluorescent pseudomonads,"Pseudomonas (Liquidomonas, Loefflerella, fluorescent pseudomonads)",https://lod.nal.usda.gov/nalt/15220,0.95,False,skos:related,EXCLUDE
+Pseudomonas syringae pv. savastanoi,Pseudomonas savastanoi; Pseudomonas savastanoi pv. savastanoi,"Pseudomonas syringae pv. savastanoi (Pseudomonas savastanoi, Pseudomonas savastanoi pv. savastanoi)",https://lod.nal.usda.gov/nalt/60304,0.95,False,skos:related,EXCLUDE
+Pseudomonas syringae pv. tabaci,Pseudomonas angulata,Pseudomonas syringae pv. tabaci (Pseudomonas angulata),https://lod.nal.usda.gov/nalt/60202,0.95,False,skos:related,EXCLUDE
+Pseudonectria buxi,Chaetostroma buxi; Tubercularia buxi; Volutella buxi,"Pseudonectria buxi (Chaetostroma buxi, Tubercularia buxi, Volutella buxi)",https://lod.nal.usda.gov/nalt/337007,0.95,False,skos:related,EXCLUDE
+Pseudotsuga menziesii,Douglas fir; Pseudotsuga caesia; Pseudotsuga flahaultii; Pseudotsuga glauca,"Pseudotsuga menziesii (Douglas fir, Pseudotsuga caesia, Pseudotsuga flahaultii, Pseudotsuga glauca)",https://lod.nal.usda.gov/nalt/34433,0.98,False,skos:related,EXCLUDE
+Puccinia recondita,Puccinia dispersa; Puccinia recondita f. sp. tritici; Puccinia rubigo-vera; Puccinia sardonensis; Puccinia triticina,"Puccinia recondita (Puccinia dispersa, Puccinia recondita f. sp. tritici, Puccinia rubigo-vera, Puccinia sardonensis, Puccinia triticina)",https://lod.nal.usda.gov/nalt/60498,0.95,False,skos:related,EXCLUDE
+Pucciniales,Uredinales,Pucciniales (Uredinales),https://lod.nal.usda.gov/nalt/4446,0.95,False,skos:related,EXCLUDE
+pycnidia,pycnidium,pycnidia (pycnidium),https://lod.nal.usda.gov/nalt/41782,0.95,False,skos:related,EXCLUDE
+Pyrenophora teres,,Pyrenophora teres,https://lod.nal.usda.gov/nalt/60624,0.95,False,skos:related,EXCLUDE
+Quercus,Cyclobalanopsis; oaks; turkey oaks,"Quercus (Cyclobalanopsis, oaks, turkey oaks)",https://lod.nal.usda.gov/nalt/39335,0.98,False,skos:related,EXCLUDE
+Raffaelea,,Raffaelea,https://lod.nal.usda.gov/nalt/212514,0.95,False,skos:related,EXCLUDE
+residual forests,,residual forests,https://lod.nal.usda.gov/nalt/305566,0.9,False,skos:related,EXCLUDE
+roots,plant roots,roots (plant roots),https://lod.nal.usda.gov/nalt/4425,0.95,False,skos:related,EXCLUDE
+seed certification,,seed certification,https://lod.nal.usda.gov/nalt/24096,0.9,False,skos:related,EXCLUDE
+seeds,kernels,seeds (kernels),https://lod.nal.usda.gov/nalt/20440,0.95,False,skos:related,EXCLUDE
+stain fungi,stain fungus,stain fungi (stain fungus),https://lod.nal.usda.gov/nalt/18245,0.8,False,skos:related,EXCLUDE
+storage temperature,,storage temperature,https://lod.nal.usda.gov/nalt/64225,0.85,False,skos:related,EXCLUDE
+stress response,response to stress,stress response (response to stress),https://lod.nal.usda.gov/nalt/146600,0.8,False,skos:related,EXCLUDE
+stumps,stump wood; stumpwood; tree stumps,"stumps (stump wood, stumpwood, tree stumps)",https://lod.nal.usda.gov/nalt/58628,0.95,False,skos:related,EXCLUDE
+sweet potatoes,sweetpotatoes,sweet potatoes (sweetpotatoes),https://lod.nal.usda.gov/nalt/47647,0.95,False,skos:related,EXCLUDE
+tangerines,,tangerines,https://lod.nal.usda.gov/nalt/26552,0.95,False,skos:related,EXCLUDE
+Tilletia indica,Neovossia indica,Tilletia indica (Neovossia indica),https://lod.nal.usda.gov/nalt/54612,0.95,False,skos:related,EXCLUDE
+urban horticulture,,urban horticulture,https://lod.nal.usda.gov/nalt/68414,0.9,False,skos:related,EXCLUDE
+Ustilaginoidea virens,Claviceps oryzae-sativae; Claviceps virens; Sphacelotheca virens; Tilletia oryzae; Ustilaginoidea albicans; Ustilago virens; Villosiclava virens,"Ustilaginoidea virens (Claviceps oryzae-sativae, Claviceps virens, Sphacelotheca virens, Tilletia oryzae, Ustilaginoidea albicans, Ustilago virens, Villosiclava virens)",https://lod.nal.usda.gov/nalt/212103,0.95,False,skos:related,EXCLUDE
+Venturia inaequalis,Fusicladium pomi,Venturia inaequalis (Fusicladium pomi),https://lod.nal.usda.gov/nalt/11295,0.95,False,skos:related,EXCLUDE
+viroids,,viroids,https://lod.nal.usda.gov/nalt/9408,0.65,False,skos:related,EXCLUDE
+wheat,bread wheat,wheat (bread wheat),https://lod.nal.usda.gov/nalt/39377,0.95,False,skos:related,EXCLUDE
+wilting point,permanent wilting point,wilting point (permanent wilting point),https://lod.nal.usda.gov/nalt/57491,0.8,False,skos:related,EXCLUDE
+Xylella fastidiosa,,Xylella fastidiosa,https://lod.nal.usda.gov/nalt/26573,0.95,False,skos:related,EXCLUDE
+16SrIV (Coconut lethal yellows group),Coconut lethal yellows group,16SrIV (Coconut lethal yellows group) (Coconut lethal yellows group),https://lod.nal.usda.gov/nalt/1258,0.95,False,skos:related,EXCLUDE
+Agrobacterium radiobacter,Agrobacterium tumefaciens; Rhizobium radiobacter,"Agrobacterium radiobacter (Agrobacterium tumefaciens, Rhizobium radiobacter)",https://lod.nal.usda.gov/nalt/5537,0.95,False,skos:related,EXCLUDE
+Albugo,,Albugo,https://lod.nal.usda.gov/nalt/6025,0.95,False,skos:related,EXCLUDE
+Arecaceae,Nypaceae; Palmae; Principes; palm trees,"Arecaceae (Nypaceae, Palmae, Principes, palm trees)",https://lod.nal.usda.gov/nalt/3096,0.95,False,skos:related,EXCLUDE
+Armillaria,Armillariella; honey fungi; honey mushrooms,"Armillaria (Armillariella, honey fungi, honey mushrooms)",https://lod.nal.usda.gov/nalt/4983,0.95,False,skos:related,EXCLUDE
+Aster yellows phytoplasma,Aster yellows mycoplasma-like organism,Aster yellows phytoplasma (Aster yellows mycoplasma-like organism),https://lod.nal.usda.gov/nalt/1227,0.9,False,skos:related,EXCLUDE
+beans,,beans,https://lod.nal.usda.gov/nalt/16204,0.95,False,skos:related,EXCLUDE
+Bretziella fagacearum,Ceratocystis fagacearum; Chalara quercina; Endoconidiophora fagacearum; Thielaviopsis quercina,"Bretziella fagacearum (Ceratocystis fagacearum, Chalara quercina, Endoconidiophora fagacearum, Thielaviopsis quercina)",https://lod.nal.usda.gov/nalt/23905,0.95,False,skos:related,EXCLUDE
+Candidatus Phytoplasma mali,Apple proliferation mycoplasma-like organism; Apple proliferation phytoplasma,"Candidatus Phytoplasma mali (Apple proliferation mycoplasma-like organism, Apple proliferation phytoplasma)",https://lod.nal.usda.gov/nalt/1290,0.95,False,skos:related,EXCLUDE
+chlamydospores,,chlamydospores,https://lod.nal.usda.gov/nalt/25275,0.85,False,skos:related,EXCLUDE
+cone and seed insects,cone insects; cone-seed insects; conophytes; seed and cone insects,"cone and seed insects (cone insects, cone-seed insects, conophytes, seed and cone insects)",https://lod.nal.usda.gov/nalt/284533,0.7,False,skos:related,EXCLUDE
+Cronartium fusiforme,Cronartium quercuum f. sp. fusiforme,Cronartium fusiforme (Cronartium quercuum f. sp. fusiforme),https://lod.nal.usda.gov/nalt/30099,0.95,False,skos:related,EXCLUDE
+die-off,die off; dieoff,"die-off (die off, dieoff)",https://lod.nal.usda.gov/nalt/33319,0.9,False,skos:broader; skos:narrower,EXCLUDE
+endophytes,,endophytes,https://lod.nal.usda.gov/nalt/37056,0.9,False,skos:related,EXCLUDE
+frost protection,,frost protection,https://lod.nal.usda.gov/nalt/301428,0.9,False,skos:related,EXCLUDE
+frost resistance,frost tolerance,frost resistance (frost tolerance),https://lod.nal.usda.gov/nalt/27790,0.9,False,skos:related,EXCLUDE
+Glycine max,Dolichos soja; Glycine gracilis; Glycine hispida; Glycine hispida var. brunnea; Glycine hispida var. lutea; Phaseolus max; Soja hispida; Soja max,"Glycine max (Dolichos soja, Glycine gracilis, Glycine hispida, Glycine hispida var. brunnea, Glycine hispida var. lutea, Phaseolus max, Soja hispida, Soja max)",https://lod.nal.usda.gov/nalt/34329,0.95,False,skos:related,EXCLUDE
+Gymnosporangium juniperi-virginianae,,Gymnosporangium juniperi-virginianae,https://lod.nal.usda.gov/nalt/44138,0.95,False,skos:related,EXCLUDE
+histopathology,,histopathology,https://lod.nal.usda.gov/nalt/9409,0.75,False,skos:related,EXCLUDE
+Moniliophthora roreri,,Moniliophthora roreri,https://lod.nal.usda.gov/nalt/53334,0.95,False,skos:related,EXCLUDE
+Oryza sativa,Oryza glutinosa; Oryza sativa cv. italica; Oryza sativa ssp. indica; Oryza sativa ssp. japonica; Oryza sativa subsp. indica; Oryza sativa subsp. japonica; Oryza sativa var. affinis; Oryza sativa var. erythroceros; Oryza sativa var. flavoacies; Oryza sativa var. japonica; Oryza sativa var. melanacra; Oryza sativa var. suberythroceros; Oryza sativa var. vulgaris; Oryza sativa var. zeravschanica,"Oryza sativa (Oryza glutinosa, Oryza sativa cv. italica, Oryza sativa ssp. indica, Oryza sativa ssp. japonica, Oryza sativa subsp. indica, Oryza sativa subsp. japonica, Oryza sativa var. affinis, Oryza sativa var. erythroceros, Oryza sativa var. flavoacies, Oryza sativa var. japonica, Oryza sativa var. melanacra, Oryza sativa var. suberythroceros, Oryza sativa var. vulgaris, Oryza sativa var. zeravschanica)",https://lod.nal.usda.gov/nalt/56277,0.95,False,skos:related,EXCLUDE
+pathological processes and conditions,,pathological processes and conditions,https://lod.nal.usda.gov/nalt/319,0.9,False,skos:related,EXCLUDE
+pathophysiology,physiopathology,pathophysiology (physiopathology),https://lod.nal.usda.gov/nalt/9411,0.9,False,skos:related,EXCLUDE
+Phakopsora pachyrhizi,Malupa meibomiae; Physopella meibomiae,"Phakopsora pachyrhizi (Malupa meibomiae, Physopella meibomiae)",https://lod.nal.usda.gov/nalt/57662,0.95,False,skos:related,EXCLUDE
+Phytophthora palmivora,,Phytophthora palmivora,https://lod.nal.usda.gov/nalt/58154,0.95,False,skos:related,EXCLUDE
+Pinus elliottii,American pitch pine; longleaf pitch pine; slash pine; swamp pine,"Pinus elliottii (American pitch pine, longleaf pitch pine, slash pine, swamp pine)",https://lod.nal.usda.gov/nalt/7610,0.95,False,skos:related,EXCLUDE
+Pinus taeda,loblolly pine,Pinus taeda (loblolly pine),https://lod.nal.usda.gov/nalt/50493,0.95,False,skos:related,EXCLUDE
+Pseudomonas syringae pv. tomato,,Pseudomonas syringae pv. tomato,https://lod.nal.usda.gov/nalt/60329,0.95,False,skos:related,EXCLUDE
+Puccinia striiformis,Puccinia glumarum,Puccinia striiformis (Puccinia glumarum),https://lod.nal.usda.gov/nalt/60500,0.95,False,skos:related,EXCLUDE
+rhizomes,,rhizomes,https://lod.nal.usda.gov/nalt/61276,0.85,False,skos:related,EXCLUDE
+root crown,crown (perennials); root collar; root neck,"root crown (crown (perennials), root collar, root neck)",https://lod.nal.usda.gov/nalt/123241,0.85,False,skos:related,EXCLUDE
+saline soils,,saline soils,https://lod.nal.usda.gov/nalt/24692,0.85,False,skos:related,EXCLUDE
+salinity,,salinity,https://lod.nal.usda.gov/nalt/58067,0.85,False,skos:related,EXCLUDE
+salt tolerance,halotolerance; salt acclimation,"salt tolerance (halotolerance, salt acclimation)",https://lod.nal.usda.gov/nalt/145,0.9,False,skos:related,EXCLUDE
+seed cones,cones (plant); pine cones,"seed cones (cones (plant), pine cones)",https://lod.nal.usda.gov/nalt/28496,0.85,False,skos:related,EXCLUDE
+stems,,stems,https://lod.nal.usda.gov/nalt/19257,0.85,False,skos:related,EXCLUDE
+storms,,storms,https://lod.nal.usda.gov/nalt/13656,0.95,False,skos:related,EXCLUDE
+sugarcane,sugar cane,sugarcane (sugar cane),https://lod.nal.usda.gov/nalt/21832,0.95,False,skos:related,EXCLUDE
+sugarcane byproducts,sugar cane by-products; sugar cane byproducts; sugarcane by-products,"sugarcane byproducts (sugar cane by-products, sugar cane byproducts, sugarcane by-products)",https://lod.nal.usda.gov/nalt/127706,0.95,False,skos:related,EXCLUDE
+Theobroma cacao,,Theobroma cacao,https://lod.nal.usda.gov/nalt/27566,0.95,False,skos:related,EXCLUDE
+Thielaviopsis basicola,Chalara elegans,Thielaviopsis basicola (Chalara elegans),https://lod.nal.usda.gov/nalt/24287,0.95,False,skos:related,EXCLUDE
+tomatoes,,tomatoes,https://lod.nal.usda.gov/nalt/50832,0.95,False,skos:related,EXCLUDE
+Uromyces,,Uromyces,https://lod.nal.usda.gov/nalt/66764,0.95,False,skos:related,EXCLUDE
+ustiloxins,ustiloxin-A; ustiloxin-B; ustiloxin-C; ustiloxin-D; ustiloxin-E,"ustiloxins (ustiloxin-A, ustiloxin-B, ustiloxin-C, ustiloxin-D, ustiloxin-E)",https://lod.nal.usda.gov/nalt/323679,0.85,False,skos:related,EXCLUDE
+Verticillium,,Verticillium,https://lod.nal.usda.gov/nalt/46703,0.95,False,skos:related,EXCLUDE
+wind,,wind,https://lod.nal.usda.gov/nalt/52292,0.95,False,skos:related,EXCLUDE
+winter,winter season,winter (winter season),https://lod.nal.usda.gov/nalt/62719,0.95,False,skos:related,EXCLUDE
+wood,,wood,https://lod.nal.usda.gov/nalt/19272,0.95,False,skos:broader; skos:narrower,EXCLUDE
+Xanthomonas axonopodis pv. aurantifolii,,Xanthomonas axonopodis pv. aurantifolii,https://lod.nal.usda.gov/nalt/326991,0.95,False,skos:related,EXCLUDE
+Xanthomonas axonopodis pv. citri,,Xanthomonas axonopodis pv. citri,https://lod.nal.usda.gov/nalt/67485,0.95,False,skos:related,EXCLUDE
+Zea mays,Zea maize; corn plant; cornplant,"Zea mays (Zea maize, corn plant, cornplant)",https://lod.nal.usda.gov/nalt/29137,0.95,False,skos:related,EXCLUDE
+Cronartium comandrae,,Cronartium comandrae,https://lod.nal.usda.gov/nalt/30097,0.95,False,skos:related,EXCLUDE
+Cronartium ribicola,,Cronartium ribicola,https://lod.nal.usda.gov/nalt/30101,0.95,False,skos:related,EXCLUDE
+dehydration (animal physiology),,dehydration (animal physiology),https://lod.nal.usda.gov/nalt/32026,0.98,False,skos:related,EXCLUDE
+diet,dietary factors,diet (dietary factors),https://lod.nal.usda.gov/nalt/295,0.95,False,skos:related,EXCLUDE
+dry tropics,,dry tropics,https://lod.nal.usda.gov/nalt/221163,0.9,False,skos:related,EXCLUDE
+feed deprivation,feed withdrawal,feed deprivation (feed withdrawal),https://lod.nal.usda.gov/nalt/9181,0.98,False,skos:related,EXCLUDE
+food deprivation,,food deprivation,https://lod.nal.usda.gov/nalt/33354,0.98,False,skos:related,EXCLUDE
+Hordeum vulgare,Hordeum lagunculiforme,Hordeum vulgare (Hordeum lagunculiforme),https://lod.nal.usda.gov/nalt/15852,0.9,False,skos:related,EXCLUDE
+Puccinia,,Puccinia,https://lod.nal.usda.gov/nalt/60484,0.9,False,skos:related,EXCLUDE
+Puccinia polysora,,Puccinia polysora,https://lod.nal.usda.gov/nalt/60496,0.95,False,skos:related,EXCLUDE
+Puccinia striiformis f. hordei,Puccinia striiformis f. sp. hordei,Puccinia striiformis f. hordei (Puccinia striiformis f. sp. hordei),https://lod.nal.usda.gov/nalt/334656,0.95,False,skos:related,EXCLUDE
+Puccinia striiformis f. tritici,,Puccinia striiformis f. tritici,https://lod.nal.usda.gov/nalt/212254,0.95,False,skos:related,EXCLUDE
+thirst,,thirst,https://lod.nal.usda.gov/nalt/11271,0.98,False,skos:related,EXCLUDE
+arid lands,arid land; dry lands; drylands; semi-arid lands; semi-desert lands; semiarid lands; semidesert lands,"arid lands (arid land, dry lands, drylands, semi-arid lands, semi-desert lands, semiarid lands, semidesert lands)",https://lod.nal.usda.gov/nalt/12162,0.95,False,skos:related,EXCLUDE
+arid soils,,arid soils,https://lod.nal.usda.gov/nalt/12167,0.95,False,skos:related,EXCLUDE
+arid zones,arid climate; arid regions; cold desert climate; hot desert climate,"arid zones (arid climate, arid regions, cold desert climate, hot desert climate)",https://lod.nal.usda.gov/nalt/12160,0.95,False,skos:related,EXCLUDE
+disasters,manmade disasters; natural disasters,"disasters (manmade disasters, natural disasters)",https://lod.nal.usda.gov/nalt/2151,0.95,False,skos:related,EXCLUDE
+drought injury,,drought injury,https://lod.nal.usda.gov/nalt/302120,0.65,False,skos:related,EXCLUDE
+environmental factors,abiotic factors; ecofactors; ecological factors; environment factors; environmental conditions; environmental filters; environmental variables,"environmental factors (abiotic factors, ecofactors, ecological factors, environment factors, environmental conditions, environmental filters, environmental variables)",https://lod.nal.usda.gov/nalt/4631,0.9,False,skos:broader; skos:narrower,EXCLUDE
+mesic conditions,,mesic conditions,https://lod.nal.usda.gov/nalt/34696,0.95,False,skos:related,EXCLUDE
+semiarid zones,cold semi-arid climate; hot semi-arid climate; semi-arid zones; semiarid climate; semiarid conditions; steppe climate,"semiarid zones (cold semi-arid climate, hot semi-arid climate, semi-arid zones, semiarid climate, semiarid conditions, steppe climate)",https://lod.nal.usda.gov/nalt/26894,0.95,False,skos:related,EXCLUDE
+soil water regimes,soil moisture regimes,soil water regimes (soil moisture regimes),https://lod.nal.usda.gov/nalt/11565,0.95,False,skos:related,EXCLUDE
+unsaturated conditions,,unsaturated conditions,https://lod.nal.usda.gov/nalt/34697,0.95,False,skos:related,EXCLUDE
+water content,moisture content,water content (moisture content),https://lod.nal.usda.gov/nalt/18883,0.95,False,skos:related,EXCLUDE
+water supply,availability of water supply,water supply (availability of water supply),https://lod.nal.usda.gov/nalt/34624,0.95,False,skos:related,EXCLUDE
+weather,weather patterns,weather (weather patterns),https://lod.nal.usda.gov/nalt/5862,0.95,False,skos:broader; skos:narrower,EXCLUDE
+wet environmental conditions,hydric conditions; hygric conditions; wet conditions (environment); wet environment; wet environments,"wet environmental conditions (hydric conditions, hygric conditions, wet conditions (environment), wet environment, wet environments)",https://lod.nal.usda.gov/nalt/11520,0.95,False,skos:related,EXCLUDE
+xerophytes,desert plants; xerophiles; xerophilous plants; xerophytic plants,"xerophytes (desert plants, xerophiles, xerophilous plants, xerophytic plants)",https://lod.nal.usda.gov/nalt/32535,0.9,False,skos:related,EXCLUDE

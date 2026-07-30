@@ -1,0 +1,122 @@
+{
+  "seed_uris": [
+    "https://lod.nal.usda.gov/nalt/63334"
+  ],
+  "gold_root_uri": "https://lod.nal.usda.gov/nalt/956",
+  "llm_provider": "openai",
+  "llm_model": "gpt-5.4-mini",
+  "run_config": {
+    "benchmark_name": "soil_science",
+    "gold_root_label": "Soil science",
+    "seed_labels": [
+      "soil"
+    ],
+    "max_iterations": 20,
+    "batch_size": 20,
+    "llm_max_workers": 5,
+    "prompt_file": "usecase\\prompts\\gpt-5.4-mini\\soil_science.md",
+    "exclude_examples_files": [
+      "usecase\\prompts\\examples\\soil_science_label_meta_examples.json"
+    ],
+    "result_mode": "zero_shot_meta"
+  },
+  "metrics": {
+    "true_positive": 816,
+    "false_positive": 121,
+    "false_negative": 216,
+    "precision": 0.8708644610458911,
+    "recall": 0.7906976744186046,
+    "f1": 0.8288471305231081,
+    "excluded_evaluation_count": 6,
+    "gold_positive_count": 1032,
+    "raw_gold_positive_count": 1036,
+    "unreachable_gold_positive_count": 0,
+    "included_count": 937,
+    "raw_included_count": 941,
+    "pruned_count": 508,
+    "visited_count": 1445,
+    "iterations": 10,
+    "true_negative": 429,
+    "accuracy": 0.7869785082174463,
+    "evaluation_total": 1582,
+    "reachable_gold_positive_count": 1036,
+    "raw_pruned_count": 510,
+    "raw_visited_count": 1451
+  },
+  "unreachable_gold_uris": [],
+  "exclude_evaluation_uris": [
+    "https://lod.nal.usda.gov/nalt/10094",
+    "https://lod.nal.usda.gov/nalt/213546",
+    "https://lod.nal.usda.gov/nalt/21983",
+    "https://lod.nal.usda.gov/nalt/21985",
+    "https://lod.nal.usda.gov/nalt/26748",
+    "https://lod.nal.usda.gov/nalt/26939",
+    "https://lod.nal.usda.gov/nalt/5084",
+    "https://lod.nal.usda.gov/nalt/6691"
+  ],
+  "iterations": [
+    {
+      "iteration": 1,
+      "evaluated": 7,
+      "included": 5,
+      "pruned": 2
+    },
+    {
+      "iteration": 2,
+      "evaluated": 66,
+      "included": 56,
+      "pruned": 10
+    },
+    {
+      "iteration": 3,
+      "evaluated": 261,
+      "included": 226,
+      "pruned": 35
+    },
+    {
+      "iteration": 4,
+      "evaluated": 300,
+      "included": 137,
+      "pruned": 163
+    },
+    {
+      "iteration": 5,
+      "evaluated": 356,
+      "included": 198,
+      "pruned": 158
+    },
+    {
+      "iteration": 6,
+      "evaluated": 425,
+      "included": 309,
+      "pruned": 116
+    },
+    {
+      "iteration": 7,
+      "evaluated": 26,
+      "included": 4,
+      "pruned": 22
+    },
+    {
+      "iteration": 8,
+      "evaluated": 1,
+      "included": 1,
+      "pruned": 0
+    },
+    {
+      "iteration": 9,
+      "evaluated": 7,
+      "included": 4,
+      "pruned": 3
+    },
+    {
+      "iteration": 10,
+      "evaluated": 1,
+      "included": 0,
+      "pruned": 1
+    }
+  ],
+  "evaluation_rescore": {
+    "method": "offline from retained traversal artifacts"
+  }
+}

@@ -1,0 +1,549 @@
+prefLabel,altLabels,displayName,uri,confidence,in_hierarchy_gold,relations,classification
+cell transplantation,,cell transplantation,https://lod.nal.usda.gov/nalt/23441,0.99,False,skos:related,EXCLUDE
+spores,,spores,https://lod.nal.usda.gov/nalt/15200,0.96,True,skos:broader; skos:narrower,EXCLUDE
+adipogenesis,adipogenic differentiation,adipogenesis (adipogenic differentiation),https://lod.nal.usda.gov/nalt/70809,0.98,True,skos:related,EXCLUDE
+adipokines,adipocytokines; adipokine,"adipokines (adipocytokines, adipokine)",https://lod.nal.usda.gov/nalt/132364,0.99,False,skos:related,EXCLUDE
+adiponectin,,adiponectin,https://lod.nal.usda.gov/nalt/132363,0.99,False,skos:related,EXCLUDE
+adipophilin,perilipin 2,adipophilin (perilipin 2),https://lod.nal.usda.gov/nalt/196331,0.95,False,skos:related,EXCLUDE
+adipose tissue,,adipose tissue,https://lod.nal.usda.gov/nalt/4220,0.95,False,skos:related,EXCLUDE
+animal ovaries,mammalian ovary,animal ovaries (mammalian ovary),https://lod.nal.usda.gov/nalt/29278,0.96,False,skos:broader; skos:narrower,EXCLUDE
+antigen presentation,,antigen presentation,https://lod.nal.usda.gov/nalt/10340,0.94,False,skos:related,EXCLUDE
+artificial membranes,biomimetic membranes; synthetic membranes,"artificial membranes (biomimetic membranes, synthetic membranes)",https://lod.nal.usda.gov/nalt/12600,0.99,False,skos:broader; skos:narrower,EXCLUDE
+bacteria,,bacteria,https://lod.nal.usda.gov/nalt/2350,0.99,False,skos:related,EXCLUDE
+beta-3 adrenergic receptors,,beta-3 adrenergic receptors,https://lod.nal.usda.gov/nalt/316457,0.99,False,skos:related,EXCLUDE
+blood,,blood,https://lod.nal.usda.gov/nalt/18059,0.97,False,skos:broader; skos:narrower,EXCLUDE
+blood cell counts,blood cell number; blood picture,"blood cell counts (blood cell number, blood picture)",https://lod.nal.usda.gov/nalt/18073,0.99,False,skos:related,EXCLUDE
+bone resorption,osteoclastic bone loss; osteolysis,"bone resorption (osteoclastic bone loss, osteolysis)",https://lod.nal.usda.gov/nalt/18501,0.98,False,skos:related,EXCLUDE
+California mastitis test,California milk test,California mastitis test (California milk test),https://lod.nal.usda.gov/nalt/243947,0.99,False,skos:related,EXCLUDE
+cartilage,,cartilage,https://lod.nal.usda.gov/nalt/22713,0.98,False,skos:related,EXCLUDE
+cathelicidins,cathelicidin peptides,cathelicidins (cathelicidin peptides),https://lod.nal.usda.gov/nalt/235861,0.99,False,skos:related,EXCLUDE
+CD146 antigen,gicerin; melanoma cell adhesion molecule,"CD146 antigen (gicerin, melanoma cell adhesion molecule)",https://lod.nal.usda.gov/nalt/293046,0.97,False,skos:related,EXCLUDE
+chloroplasts,,chloroplasts,https://lod.nal.usda.gov/nalt/25479,0.99,True,skos:related,EXCLUDE
+chromaffin granules,,chromaffin granules,https://lod.nal.usda.gov/nalt/25729,0.95,True,skos:related,EXCLUDE
+connective tissues,,connective tissues,https://lod.nal.usda.gov/nalt/4227,0.98,False,skos:broader; skos:narrower,EXCLUDE
+corpus luteum,,corpus luteum,https://lod.nal.usda.gov/nalt/29277,0.92,False,skos:broader; skos:narrower,EXCLUDE
+Cyanobacteria,Cyanochloronta; Cyanophyta; blue green algae; blue green bacteria; blue-green algae; blue-green bacteria,"Cyanobacteria (Cyanochloronta, Cyanophyta, blue green algae, blue green bacteria, blue-green algae, blue-green bacteria)",https://lod.nal.usda.gov/nalt/72,0.98,False,skos:related,EXCLUDE
+desmin,skeletin,desmin (skeletin),https://lod.nal.usda.gov/nalt/190839,0.98,False,skos:related,EXCLUDE
+drug delivery systems,drug delivery applications; drug delivery methods,"drug delivery systems (drug delivery applications, drug delivery methods)",https://lod.nal.usda.gov/nalt/4249,0.99,False,skos:related,EXCLUDE
+endocrine glands,,endocrine glands,https://lod.nal.usda.gov/nalt/4351,0.98,False,skos:broader; skos:narrower,EXCLUDE
+endothelins,endothelin-1; endothelin-2; endothelin-3,"endothelins (endothelin-1, endothelin-2, endothelin-3)",https://lod.nal.usda.gov/nalt/68181,0.97,False,skos:related,EXCLUDE
+epithelial cell adhesion molecule,CD326 antigen; CD326 protein,"epithelial cell adhesion molecule (CD326 antigen, CD326 protein)",https://lod.nal.usda.gov/nalt/293063,0.95,False,skos:related,EXCLUDE
+fluorescein diacetate,diacetylfluorescein,fluorescein diacetate (diacetylfluorescein),https://lod.nal.usda.gov/nalt/295790,0.99,False,skos:related,EXCLUDE
+gametogenesis,gamete production; pollen grain development,"gametogenesis (gamete production, pollen grain development)",https://lod.nal.usda.gov/nalt/42261,0.97,False,skos:related,EXCLUDE
+germplasm,germ plasm,germplasm (germ plasm),https://lod.nal.usda.gov/nalt/42649,0.95,False,skos:related,EXCLUDE
+granuloma,,granuloma,https://lod.nal.usda.gov/nalt/748,0.96,False,skos:related,EXCLUDE
+hemolymph,haemolymph,hemolymph (haemolymph),https://lod.nal.usda.gov/nalt/26359,0.99,False,skos:broader; skos:narrower,EXCLUDE
+immune system,,immune system,https://lod.nal.usda.gov/nalt/8973,0.98,False,skos:broader; skos:narrower,EXCLUDE
+immunological synapse,,immunological synapse,https://lod.nal.usda.gov/nalt/246169,0.9,True,skos:related,EXCLUDE
+immunophenotype,,immunophenotype,https://lod.nal.usda.gov/nalt/329494,0.97,False,skos:related,EXCLUDE
+innate immunity,innate immune response; innate immune system; natural immunity,"innate immunity (innate immune response, innate immune system, natural immunity)",https://lod.nal.usda.gov/nalt/105991,0.97,False,skos:related,EXCLUDE
+leukemia inhibitory factor,,leukemia inhibitory factor,https://lod.nal.usda.gov/nalt/231910,0.99,False,skos:related,EXCLUDE
+liposomes (artificial),,liposomes (artificial),https://lod.nal.usda.gov/nalt/12604,0.98,False,skos:related,EXCLUDE
+mammary glands,,mammary glands,https://lod.nal.usda.gov/nalt/2896,0.99,False,skos:related,EXCLUDE
+myelin sheath,medullary sheath; myelin,"myelin sheath (medullary sheath, myelin)",https://lod.nal.usda.gov/nalt/51883,0.99,False,skos:related,EXCLUDE
+myogenic regulatory factors,,myogenic regulatory factors,https://lod.nal.usda.gov/nalt/287136,0.98,False,skos:related,EXCLUDE
+nanomedicine,,nanomedicine,https://lod.nal.usda.gov/nalt/138085,0.99,False,skos:related,EXCLUDE
+neoplasms,cancer (disease); cancers; neoplasia; tumors; tumours,"neoplasms (cancer (disease), cancers, neoplasia, tumors, tumours)",https://lod.nal.usda.gov/nalt/702,0.99,False,skos:related,EXCLUDE
+neurosecretory system,neuroendocrine system,neurosecretory system (neuroendocrine system),https://lod.nal.usda.gov/nalt/29267,0.96,False,skos:broader; skos:narrower,EXCLUDE
+niosomes,non-ionic surfactant vesicles,niosomes (non-ionic surfactant vesicles),https://lod.nal.usda.gov/nalt/238321,0.98,False,skos:related,EXCLUDE
+ovarian follicles,dominant follicles; subordinate follicles,"ovarian follicles (dominant follicles, subordinate follicles)",https://lod.nal.usda.gov/nalt/30722,0.98,False,skos:broader; skos:narrower,EXCLUDE
+pancreas,,pancreas,https://lod.nal.usda.gov/nalt/2897,0.99,False,skos:broader; skos:narrower,EXCLUDE
+pancreatic insulitis,,pancreatic insulitis,https://lod.nal.usda.gov/nalt/228021,0.97,False,skos:related,EXCLUDE
+parotid gland,,parotid gland,https://lod.nal.usda.gov/nalt/2898,0.99,False,skos:related,EXCLUDE
+peripheral nervous system,,peripheral nervous system,https://lod.nal.usda.gov/nalt/14032,0.99,False,skos:related,EXCLUDE
+pigmentation,,pigmentation,https://lod.nal.usda.gov/nalt/124,0.98,False,skos:related,EXCLUDE
+pollen viability,pollen grain viability,pollen viability (pollen grain viability),https://lod.nal.usda.gov/nalt/334176,0.98,False,skos:related,EXCLUDE
+resistin,,resistin,https://lod.nal.usda.gov/nalt/132367,0.99,False,skos:related,EXCLUDE
+reticuloendothelial system,,reticuloendothelial system,https://lod.nal.usda.gov/nalt/46970,0.99,False,skos:broader; skos:narrower,EXCLUDE
+salivary glands,,salivary glands,https://lod.nal.usda.gov/nalt/2899,0.99,False,skos:related,EXCLUDE
+signal transduction,signal pathways,signal transduction (signal pathways),https://lod.nal.usda.gov/nalt/23371,0.97,True,skos:related,EXCLUDE
+somatic mutation,somatic mutagenesis,somatic mutation (somatic mutagenesis),https://lod.nal.usda.gov/nalt/132647,0.99,False,skos:related,EXCLUDE
+spleen,,spleen,https://lod.nal.usda.gov/nalt/9348,0.99,False,skos:related,EXCLUDE
+teleomorphs,sexual stage (fungi); sexual state (fungi),"teleomorphs (sexual stage (fungi), sexual state (fungi))",https://lod.nal.usda.gov/nalt/41787,0.96,False,skos:related,EXCLUDE
+tendons,,tendons,https://lod.nal.usda.gov/nalt/28572,0.99,False,skos:related,EXCLUDE
+testes,testicles; testis,"testes (testicles, testis)",https://lod.nal.usda.gov/nalt/43422,0.98,False,skos:broader; skos:narrower,EXCLUDE
+thiazolyl blue,"3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide; MTT tetrazolium; thiazolyl blue tetrazolium bromide","thiazolyl blue (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide, MTT tetrazolium, thiazolyl blue tetrazolium bromide)",https://lod.nal.usda.gov/nalt/325861,0.99,False,skos:related,EXCLUDE
+vascular bundles,,vascular bundles,https://lod.nal.usda.gov/nalt/20384,0.95,False,skos:broader; skos:narrower,EXCLUDE
+viability,,viability,https://lod.nal.usda.gov/nalt/129,0.92,False,skos:broader; skos:narrower,EXCLUDE
+viability assays,viability tests,viability assays (viability tests),https://lod.nal.usda.gov/nalt/309738,0.97,False,skos:related,EXCLUDE
+abnormal hemoglobin,abnormal haemoglobin; haemoglobin C; haemoglobin E; haemoglobin H; haemoglobin M; haemoglobin S; hemoglobin C; hemoglobin E; hemoglobin H; hemoglobin J; hemoglobin M; hemoglobin S; sickle haemoglobin; sickle hemoglobin,"abnormal hemoglobin (abnormal haemoglobin, haemoglobin C, haemoglobin E, haemoglobin H, haemoglobin M, haemoglobin S, hemoglobin C, hemoglobin E, hemoglobin H, hemoglobin J, hemoglobin M, hemoglobin S, sickle haemoglobin, sickle hemoglobin)",https://lod.nal.usda.gov/nalt/245234,0.99,False,skos:related,EXCLUDE
+animal tissues,,animal tissues,https://lod.nal.usda.gov/nalt/8967,0.97,False,skos:broader; skos:narrower,EXCLUDE
+autophagy,autophagic cell death; autophagic programmed cell death; autophagocytosis; type 2 programmed cell death,"autophagy (autophagic cell death, autophagic programmed cell death, autophagocytosis, type 2 programmed cell death)",https://lod.nal.usda.gov/nalt/206099,0.98,True,skos:related,EXCLUDE
+axonal transport,axoplasmic streaming,axonal transport (axoplasmic streaming),https://lod.nal.usda.gov/nalt/214454,0.98,False,skos:related,EXCLUDE
+bacterial culture,bacteria culture; bacterial culture methods; bacterial culture techniques,"bacterial culture (bacteria culture, bacterial culture methods, bacterial culture techniques)",https://lod.nal.usda.gov/nalt/283949,0.98,False,skos:related,EXCLUDE
+basement membrane,,basement membrane,https://lod.nal.usda.gov/nalt/9527,0.95,False,skos:broader; skos:narrower,EXCLUDE
+bioengineering,bio engineering; bio-engineering; biological engineering,"bioengineering (bio engineering, bio-engineering, biological engineering)",https://lod.nal.usda.gov/nalt/187774,0.99,False,skos:broader; skos:narrower,EXCLUDE
+bioprinting,cell printing; tissue printing,"bioprinting (cell printing, tissue printing)",https://lod.nal.usda.gov/nalt/206567,0.96,False,skos:related,EXCLUDE
+blood banks,blood banking,blood banks (blood banking),https://lod.nal.usda.gov/nalt/291434,0.99,False,skos:related,EXCLUDE
+blood platelet count,blood platelet number; platelet count; platelet number,"blood platelet count (blood platelet number, platelet count, platelet number)",https://lod.nal.usda.gov/nalt/18077,0.99,False,skos:related,EXCLUDE
+body cavities,,body cavities,https://lod.nal.usda.gov/nalt/1610,0.99,False,skos:broader; skos:narrower,EXCLUDE
+bone marrow,,bone marrow,https://lod.nal.usda.gov/nalt/9528,0.9,False,skos:related,EXCLUDE
+brown adipose tissue,brown fat,brown adipose tissue (brown fat),https://lod.nal.usda.gov/nalt/4228,0.98,False,skos:related,EXCLUDE
+cardiovascular system,,cardiovascular system,https://lod.nal.usda.gov/nalt/18060,0.99,False,skos:broader; skos:narrower,EXCLUDE
+caspase-1,EC 3.4.22.36; IL-1 beta convertase; IL-1 beta-converting enzyme; interleukin 1beta-converting enzyme; interleukin-1beta convertase,"caspase-1 (EC 3.4.22.36, IL-1 beta convertase, IL-1 beta-converting enzyme, interleukin 1beta-converting enzyme, interleukin-1beta convertase)",https://lod.nal.usda.gov/nalt/136654,0.99,False,skos:related,EXCLUDE
+caspase-10,EC 3.4.22.63,caspase-10 (EC 3.4.22.63),https://lod.nal.usda.gov/nalt/136675,0.99,False,skos:related,EXCLUDE
+caspase-11,EC 3.4.22.64,caspase-11 (EC 3.4.22.64),https://lod.nal.usda.gov/nalt/136677,0.99,False,skos:related,EXCLUDE
+caspase-12,,caspase-12,https://lod.nal.usda.gov/nalt/136679,0.99,False,skos:related,EXCLUDE
+caspase-2,EC 3.4.22.55,caspase-2 (EC 3.4.22.55),https://lod.nal.usda.gov/nalt/136660,0.99,False,skos:related,EXCLUDE
+caspase-3,EC 3.4.22.56,caspase-3 (EC 3.4.22.56),https://lod.nal.usda.gov/nalt/136662,0.99,False,skos:related,EXCLUDE
+caspase-4,EC 3.4.22.57,caspase-4 (EC 3.4.22.57),https://lod.nal.usda.gov/nalt/136664,0.99,False,skos:related,EXCLUDE
+caspase-5,,caspase-5,https://lod.nal.usda.gov/nalt/136666,0.99,False,skos:related,EXCLUDE
+caspase-6,EC 3.4.22.59,caspase-6 (EC 3.4.22.59),https://lod.nal.usda.gov/nalt/136669,0.99,False,skos:related,EXCLUDE
+caspase-7,EC 3.4.22.60,caspase-7 (EC 3.4.22.60),https://lod.nal.usda.gov/nalt/136667,0.99,False,skos:related,EXCLUDE
+caspase-8,EC 3.4.22.61; FLICE protein,"caspase-8 (EC 3.4.22.61, FLICE protein)",https://lod.nal.usda.gov/nalt/136671,0.99,False,skos:related,EXCLUDE
+caspase-9,,caspase-9,https://lod.nal.usda.gov/nalt/136674,0.99,False,skos:related,EXCLUDE
+caspases,,caspases,https://lod.nal.usda.gov/nalt/136653,0.98,False,skos:related,EXCLUDE
+cell culture containers,tissue culture containers,cell culture containers (tissue culture containers),https://lod.nal.usda.gov/nalt/284597,0.97,False,skos:related,EXCLUDE
+cell harvesting,,cell harvesting,https://lod.nal.usda.gov/nalt/190510,0.95,False,skos:related,EXCLUDE
+chemokines,chemotactic cytokines; intercrines,"chemokines (chemotactic cytokines, intercrines)",https://lod.nal.usda.gov/nalt/123140,0.99,False,skos:related,EXCLUDE
+clutch size,,clutch size,https://lod.nal.usda.gov/nalt/9461,0.99,False,skos:related,EXCLUDE
+coculture,co-culture,coculture (co-culture),https://lod.nal.usda.gov/nalt/68522,0.96,False,skos:broader; skos:narrower,EXCLUDE
+culture dishes,cell culture dishes; culturing dishes; multi-well culture dishes; petri culture dishes; tissue culture dishes,"culture dishes (cell culture dishes, culturing dishes, multi-well culture dishes, petri culture dishes, tissue culture dishes)",https://lod.nal.usda.gov/nalt/284389,0.98,False,skos:related,EXCLUDE
+culture flasks,cell culture flasks; cell culturing flasks; culturing flasks,"culture flasks (cell culture flasks, cell culturing flasks, culturing flasks)",https://lod.nal.usda.gov/nalt/284384,0.98,False,skos:related,EXCLUDE
+cultured meat,clean meat (cultured); in-vitro cultured meat; in-vitro meat; laboratory cultured meat; synthetic meat; tissue-cultured meat,"cultured meat (clean meat (cultured), in-vitro cultured meat, in-vitro meat, laboratory cultured meat, synthetic meat, tissue-cultured meat)",https://lod.nal.usda.gov/nalt/291555,0.97,False,skos:related,EXCLUDE
+death domain receptors,death receptors,death domain receptors (death receptors),https://lod.nal.usda.gov/nalt/264095,0.98,False,skos:related,EXCLUDE
+developmental stages,growth stages; life cycle stages (developmental stages),"developmental stages (growth stages, life cycle stages (developmental stages))",https://lod.nal.usda.gov/nalt/4287,0.94,False,skos:related,EXCLUDE
+DNA fragmentation,,DNA fragmentation,https://lod.nal.usda.gov/nalt/11246,0.98,False,skos:related,EXCLUDE
+DNA packaging,genome packaging,DNA packaging (genome packaging),https://lod.nal.usda.gov/nalt/262472,0.95,True,skos:broader; skos:narrower,EXCLUDE
+egg fertility,,egg fertility,https://lod.nal.usda.gov/nalt/9203,0.89,False,skos:related,EXCLUDE
+egg masses,egg cases; egg clutches; egg mass (clutch); egg pods; oothecae,"egg masses (egg cases, egg clutches, egg mass (clutch), egg pods, oothecae)",https://lod.nal.usda.gov/nalt/982,0.96,False,skos:related,EXCLUDE
+egg membranes,,egg membranes,https://lod.nal.usda.gov/nalt/35937,0.91,True,skos:broader; skos:narrower,EXCLUDE
+egg quality,egg characteristics,egg quality (egg characteristics),https://lod.nal.usda.gov/nalt/35938,0.95,True,skos:broader; skos:narrower,EXCLUDE
+egg shell,eggshell,egg shell (eggshell),https://lod.nal.usda.gov/nalt/35939,0.97,True,skos:broader; skos:narrower,EXCLUDE
+egg yolk,vitellus (egg yolk),egg yolk (vitellus (egg yolk)),https://lod.nal.usda.gov/nalt/35940,0.97,True,skos:broader; skos:narrower,EXCLUDE
+eggs,,eggs,https://lod.nal.usda.gov/nalt/24837,0.94,False,skos:related,EXCLUDE
+embryo (plant),plant embryos,embryo (plant) (plant embryos),https://lod.nal.usda.gov/nalt/6266,0.99,False,skos:broader; skos:narrower,EXCLUDE
+endosymbionts,,endosymbionts,https://lod.nal.usda.gov/nalt/37081,0.98,False,skos:related,EXCLUDE
+erythrocyte count,RBC count (red blood cell count); RBC number (red blood cell number); erythrocyte number; red blood cell count; red blood cell number,"erythrocyte count (RBC count (red blood cell count), RBC number (red blood cell number), erythrocyte number, red blood cell count, red blood cell number)",https://lod.nal.usda.gov/nalt/18078,0.98,False,skos:related,EXCLUDE
+erythrocyte sedimentation rate,blood sedimentation; blood sedimentation tests; erythrocyte sedimentation,"erythrocyte sedimentation rate (blood sedimentation, blood sedimentation tests, erythrocyte sedimentation)",https://lod.nal.usda.gov/nalt/18170,0.99,False,skos:related,EXCLUDE
+exocytosis,,exocytosis,https://lod.nal.usda.gov/nalt/23425,0.98,True,skos:broader; skos:narrower,EXCLUDE
+exoerythrocytic stage,exoerythrocyte stage,exoerythrocytic stage (exoerythrocyte stage),https://lod.nal.usda.gov/nalt/200593,0.93,False,skos:related,EXCLUDE
+female reproductive system,,female reproductive system,https://lod.nal.usda.gov/nalt/24114,0.99,False,skos:related,EXCLUDE
+genetic lines,,genetic lines,https://lod.nal.usda.gov/nalt/19698,0.93,False,skos:broader; skos:narrower,EXCLUDE
+glucagon-like peptide 2,glucagon-like peptide II,glucagon-like peptide 2 (glucagon-like peptide II),https://lod.nal.usda.gov/nalt/285612,0.97,False,skos:related,EXCLUDE
+glucosephosphate dehydrogenase deficiency,G6PD deficiency,glucosephosphate dehydrogenase deficiency (G6PD deficiency),https://lod.nal.usda.gov/nalt/245231,0.99,False,skos:related,EXCLUDE
+growth curves,growth charts,growth curves (growth charts),https://lod.nal.usda.gov/nalt/306947,0.98,False,skos:related,EXCLUDE
+hematocrit,erythrocyte volume fraction; haematocrit; packed cell volume; packed erythrocyte volume; packed red-cell volume; pecked red cell volume,"hematocrit (erythrocyte volume fraction, haematocrit, packed cell volume, packed erythrocyte volume, packed red-cell volume, pecked red cell volume)",https://lod.nal.usda.gov/nalt/38091,0.88,False,skos:related,EXCLUDE
+hemolysis,haemolysis,hemolysis (haemolysis),https://lod.nal.usda.gov/nalt/750,0.97,True,skos:related,EXCLUDE
+heterologous gene expression,heterologous protein expression; heterologous protein production,"heterologous gene expression (heterologous protein expression, heterologous protein production)",https://lod.nal.usda.gov/nalt/262486,0.96,False,skos:related,EXCLUDE
+hypersensitive response,hypersensitive reaction; hypersensitivity (plants); plant hypersensitivity,"hypersensitive response (hypersensitive reaction, hypersensitivity (plants), plant hypersensitivity)",https://lod.nal.usda.gov/nalt/11247,0.98,False,skos:related,EXCLUDE
+in vitro culture,culture techniques,in vitro culture (culture techniques),https://lod.nal.usda.gov/nalt/14257,0.95,False,skos:broader; skos:narrower,EXCLUDE
+intercellular adhesion molecule-1,CD54 antigens; ICAM-1 (intercellular adhesion molecule-1),"intercellular adhesion molecule-1 (CD54 antigens, ICAM-1 (intercellular adhesion molecule-1))",https://lod.nal.usda.gov/nalt/293119,0.99,False,skos:related,EXCLUDE
+leaf epidermis,,leaf epidermis,https://lod.nal.usda.gov/nalt/334639,0.96,False,skos:broader; skos:narrower,EXCLUDE
+leukocyte count,WBC count; WBC count (white blood cell count); WBC number; WBC number (white blood cell number); differential leucocyte count; differential leukocyte count; leucocyte count; leucocyte number; leukocyte number; white blood cell count; white blood cell number,"leukocyte count (WBC count, WBC count (white blood cell count), WBC number, WBC number (white blood cell number), differential leucocyte count, differential leukocyte count, leucocyte count, leucocyte number, leukocyte number, white blood cell count, white blood cell number)",https://lod.nal.usda.gov/nalt/18079,0.99,False,skos:related,EXCLUDE
+leukopenia,leukocytopenia,leukopenia (leukocytopenia),https://lod.nal.usda.gov/nalt/39763,0.99,False,skos:related,EXCLUDE
+lipotoxicity,,lipotoxicity,https://lod.nal.usda.gov/nalt/261791,0.97,False,skos:related,EXCLUDE
+macrophage activation,,macrophage activation,https://lod.nal.usda.gov/nalt/46969,0.88,False,skos:related,EXCLUDE
+male reproductive system,gubernaculum,male reproductive system (gubernaculum),https://lod.nal.usda.gov/nalt/20336,0.98,False,skos:related,EXCLUDE
+megasporogenesis,,megasporogenesis,https://lod.nal.usda.gov/nalt/42262,0.98,False,skos:related,EXCLUDE
+melanin,,melanin,https://lod.nal.usda.gov/nalt/51962,0.99,False,skos:related,EXCLUDE
+melanization,melanisation,melanization (melanisation),https://lod.nal.usda.gov/nalt/51963,0.98,False,skos:related,EXCLUDE
+melanogenesis,,melanogenesis,https://lod.nal.usda.gov/nalt/204398,0.98,False,skos:related,EXCLUDE
+metabolic engineering,,metabolic engineering,https://lod.nal.usda.gov/nalt/206574,0.99,False,skos:broader; skos:narrower,EXCLUDE
+micronucleus tests,bone marrow micronucleus assay; bone marrow micronucleus test; micronucleus assay,"micronucleus tests (bone marrow micronucleus assay, bone marrow micronucleus test, micronucleus assay)",https://lod.nal.usda.gov/nalt/309754,0.96,False,skos:related,EXCLUDE
+microsporogenesis,,microsporogenesis,https://lod.nal.usda.gov/nalt/42263,0.99,False,skos:related,EXCLUDE
+milk quality,,milk quality,https://lod.nal.usda.gov/nalt/31644,0.99,False,skos:broader; skos:narrower,EXCLUDE
+mitochondrial turnover,,mitochondrial turnover,https://lod.nal.usda.gov/nalt/296511,0.91,True,skos:broader; skos:narrower,EXCLUDE
+mucosa,mucous membrane; mucous membranes,"mucosa (mucous membrane, mucous membranes)",https://lod.nal.usda.gov/nalt/23407,0.96,False,skos:broader; skos:narrower,EXCLUDE
+myocardium,cardiac muscle,myocardium (cardiac muscle),https://lod.nal.usda.gov/nalt/22397,0.96,False,skos:broader; skos:narrower,EXCLUDE
+myofibrils,muscle fibrils; myofilaments,"myofibrils (muscle fibrils, myofilaments)",https://lod.nal.usda.gov/nalt/53774,0.97,True,skos:broader; skos:narrower,EXCLUDE
+necroptosis,programmed necrosis,necroptosis (programmed necrosis),https://lod.nal.usda.gov/nalt/307372,0.9,True,skos:related,EXCLUDE
+necrosis,necroses,necrosis (necroses),https://lod.nal.usda.gov/nalt/761,0.95,False,skos:related,EXCLUDE
+nerve fibers,nerve fibres; peduncle (nerves),"nerve fibers (nerve fibres, peduncle (nerves))",https://lod.nal.usda.gov/nalt/14269,0.97,False,skos:broader; skos:narrower,EXCLUDE
+nervous system,,nervous system,https://lod.nal.usda.gov/nalt/8977,0.98,False,skos:broader; skos:narrower,EXCLUDE
+nonanimal tests,non-animal tests,nonanimal tests (non-animal tests),https://lod.nal.usda.gov/nalt/9559,0.99,False,skos:broader; skos:narrower,EXCLUDE
+oogenesis,egg formation,oogenesis (egg formation),https://lod.nal.usda.gov/nalt/9479,0.98,False,skos:related,EXCLUDE
+ova transfer,oocyte transfer,ova transfer (oocyte transfer),https://lod.nal.usda.gov/nalt/9032,0.99,False,skos:related,EXCLUDE
+ovicides,,ovicides,https://lod.nal.usda.gov/nalt/827,0.99,False,skos:related,EXCLUDE
+ovipary,oviparity; oviparous,"ovipary (oviparity, oviparous)",https://lod.nal.usda.gov/nalt/9480,0.99,False,skos:related,EXCLUDE
+oviposition,egg laying,oviposition (egg laying),https://lod.nal.usda.gov/nalt/9481,0.99,False,skos:related,EXCLUDE
+ovulation,,ovulation,https://lod.nal.usda.gov/nalt/9482,0.99,False,skos:related,EXCLUDE
+plant cuticle,,plant cuticle,https://lod.nal.usda.gov/nalt/30920,0.98,False,skos:broader; skos:narrower,EXCLUDE
+plant tissues,,plant tissues,https://lod.nal.usda.gov/nalt/15840,0.97,False,skos:broader; skos:narrower,EXCLUDE
+pro-apoptotic proteins,anti-apoptotic proteins; apoptosis inducing proteins,"pro-apoptotic proteins (anti-apoptotic proteins, apoptosis inducing proteins)",https://lod.nal.usda.gov/nalt/261849,0.92,False,skos:related,EXCLUDE
+pulmonary alveoli,,pulmonary alveoli,https://lod.nal.usda.gov/nalt/7283,0.99,False,skos:broader; skos:narrower,EXCLUDE
+respiratory burst,,respiratory burst,https://lod.nal.usda.gov/nalt/298136,0.97,True,skos:related,EXCLUDE
+RNA packaging,mRNA packaging,RNA packaging (mRNA packaging),https://lod.nal.usda.gov/nalt/264024,0.98,True,skos:broader; skos:narrower,EXCLUDE
+roots,plant roots,roots (plant roots),https://lod.nal.usda.gov/nalt/4425,0.97,False,skos:related,EXCLUDE
+semen,,semen,https://lod.nal.usda.gov/nalt/18324,0.98,False,skos:related,EXCLUDE
+semen banks,sperm banks,semen banks (sperm banks),https://lod.nal.usda.gov/nalt/9034,0.96,False,skos:related,EXCLUDE
+skin neoplasms,skin cancer; skin tumors; skin tumours,"skin neoplasms (skin cancer, skin tumors, skin tumours)",https://lod.nal.usda.gov/nalt/241657,0.99,False,skos:related,EXCLUDE
+spectrin,,spectrin,https://lod.nal.usda.gov/nalt/38094,0.98,False,skos:related,EXCLUDE
+sperm competition,,sperm competition,https://lod.nal.usda.gov/nalt/47567,0.97,False,skos:related,EXCLUDE
+spermatophores,,spermatophores,https://lod.nal.usda.gov/nalt/47405,0.98,False,skos:related,EXCLUDE
+spermatozeugmata,sperm bundles,spermatozeugmata (sperm bundles),https://lod.nal.usda.gov/nalt/323012,0.96,True,skos:broader; skos:narrower,EXCLUDE
+suicide genes,,suicide genes,https://lod.nal.usda.gov/nalt/190298,0.93,False,skos:related,EXCLUDE
+symbiosis,endosymbiosis,symbiosis (endosymbiosis),https://lod.nal.usda.gov/nalt/28123,0.94,False,skos:related,EXCLUDE
+thrombocytopenia,thrombocytopaenia; thrombopenia,"thrombocytopenia (thrombocytopaenia, thrombopenia)",https://lod.nal.usda.gov/nalt/18109,0.99,False,skos:related,EXCLUDE
+tissue engineering,,tissue engineering,https://lod.nal.usda.gov/nalt/206572,0.91,False,skos:related,EXCLUDE
+troponin T,troponin T1; troponin T2,"troponin T (troponin T1, troponin T2)",https://lod.nal.usda.gov/nalt/199112,0.98,False,skos:related,EXCLUDE
+tumor suppressor protein p53,TRP53 protein; oncoprotein p53; p53 antigen,"tumor suppressor protein p53 (TRP53 protein, oncoprotein p53, p53 antigen)",https://lod.nal.usda.gov/nalt/261837,0.99,False,skos:related,EXCLUDE
+ventral receptacle,,ventral receptacle,https://lod.nal.usda.gov/nalt/231401,0.96,False,skos:related,EXCLUDE
+viral growth,,viral growth,https://lod.nal.usda.gov/nalt/189798,1.0,False,skos:related,EXCLUDE
+virus culture,viral culture; viral culture methods,"virus culture (viral culture, viral culture methods)",https://lod.nal.usda.gov/nalt/283951,0.99,False,skos:related,EXCLUDE
+zona pellucida,,zona pellucida,https://lod.nal.usda.gov/nalt/56390,0.97,True,skos:broader; skos:narrower,EXCLUDE
+activins,,activins,https://lod.nal.usda.gov/nalt/3936,0.97,False,skos:related,EXCLUDE
+aerobiosis,aerobic growth; aerobic respiration; oxidative metabolism,"aerobiosis (aerobic growth, aerobic respiration, oxidative metabolism)",https://lod.nal.usda.gov/nalt/4629,0.98,False,skos:related,EXCLUDE
+amyotrophic lateral sclerosis,Guam disease,amyotrophic lateral sclerosis (Guam disease),https://lod.nal.usda.gov/nalt/264298,0.99,False,skos:related,EXCLUDE
+anaerobiosis,anaerobic metabolism; anaerobic respiration,"anaerobiosis (anaerobic metabolism, anaerobic respiration)",https://lod.nal.usda.gov/nalt/8375,0.98,False,skos:related,EXCLUDE
+anatomy and morphology,morphology and anatomy,anatomy and morphology (morphology and anatomy),https://lod.nal.usda.gov/nalt/8586,0.96,False,skos:broader; skos:narrower,EXCLUDE
+animal fertility,animal infertility; animal sterility; animal subfertility,"animal fertility (animal infertility, animal sterility, animal subfertility)",https://lod.nal.usda.gov/nalt/9196,0.98,False,skos:broader; skos:narrower,EXCLUDE
+animal reproduction,reproductive physiology (animals); theriogenology,"animal reproduction (reproductive physiology (animals), theriogenology)",https://lod.nal.usda.gov/nalt/3138,0.97,False,skos:broader; skos:narrower,EXCLUDE
+anion pumps,anion transport proteins,anion pumps (anion transport proteins),https://lod.nal.usda.gov/nalt/196260,0.99,False,skos:related,EXCLUDE
+antibody formation,antibody production; antibody response; autoantibody production,"antibody formation (antibody production, antibody response, autoantibody production)",https://lod.nal.usda.gov/nalt/10230,0.98,False,skos:broader; skos:narrower,EXCLUDE
+antimitotic agents,antimitotic drugs; antimitotics,"antimitotic agents (antimitotic drugs, antimitotics)",https://lod.nal.usda.gov/nalt/316636,0.99,False,skos:related,EXCLUDE
+bioencapsulation,,bioencapsulation,https://lod.nal.usda.gov/nalt/228596,0.95,False,skos:related,EXCLUDE
+biological properties and phenomena,,biological properties and phenomena,https://lod.nal.usda.gov/nalt/107,0.99,False,skos:broader; skos:narrower,EXCLUDE
+calcium ionophores,,calcium ionophores,https://lod.nal.usda.gov/nalt/297917,0.99,False,skos:related,EXCLUDE
+cecropins,,cecropins,https://lod.nal.usda.gov/nalt/277515,0.98,False,skos:related,EXCLUDE
+conceptus,,conceptus,https://lod.nal.usda.gov/nalt/28468,0.89,False,skos:broader; skos:narrower,EXCLUDE
+cyanide-resistant respiration,cyanide insensitive respiration; cyanide resistant respiration,"cyanide-resistant respiration (cyanide insensitive respiration, cyanide resistant respiration)",https://lod.nal.usda.gov/nalt/23432,0.98,True,skos:broader; skos:narrower,EXCLUDE
+cyanide-sensitive respiration,cyanide sensitive respiration,cyanide-sensitive respiration (cyanide sensitive respiration),https://lod.nal.usda.gov/nalt/23433,0.98,True,skos:broader; skos:narrower,EXCLUDE
+cytogenetics,,cytogenetics,https://lod.nal.usda.gov/nalt/8825,0.95,True,skos:broader; skos:narrower,EXCLUDE
+dermis,,dermis,https://lod.nal.usda.gov/nalt/32498,0.95,False,skos:related,EXCLUDE
+digestive tract mucosa,esophageal mucosa; mouth mucosa; oesophageal mucosa,"digestive tract mucosa (esophageal mucosa, mouth mucosa, oesophageal mucosa)",https://lod.nal.usda.gov/nalt/33553,0.94,False,skos:broader; skos:narrower,EXCLUDE
+DNA replication,,DNA replication,https://lod.nal.usda.gov/nalt/34224,0.97,False,skos:related,EXCLUDE
+ecosystem respiration,,ecosystem respiration,https://lod.nal.usda.gov/nalt/189757,0.99,False,skos:related,EXCLUDE
+electrofusion,,electrofusion,https://lod.nal.usda.gov/nalt/125072,0.96,False,skos:related,EXCLUDE
+electron transport chain,electron transfer chain; respiratory chain,"electron transport chain (electron transfer chain, respiratory chain)",https://lod.nal.usda.gov/nalt/17286,0.99,False,skos:related,EXCLUDE
+embryo (animal),animal embryos,embryo (animal) (animal embryos),https://lod.nal.usda.gov/nalt/8004,0.98,False,skos:broader; skos:narrower,EXCLUDE
+embryonic germ layers,epiblast; germ layers,"embryonic germ layers (epiblast, germ layers)",https://lod.nal.usda.gov/nalt/317724,0.92,False,skos:broader; skos:narrower,EXCLUDE
+explants,,explants,https://lod.nal.usda.gov/nalt/30702,0.86,False,skos:related,EXCLUDE
+fetoplacental tissues,feto-placental tissues,fetoplacental tissues (feto-placental tissues),https://lod.nal.usda.gov/nalt/199428,0.93,False,skos:broader; skos:narrower,EXCLUDE
+fetus,,fetus,https://lod.nal.usda.gov/nalt/34842,0.98,False,skos:broader; skos:narrower,EXCLUDE
+ganglia,ganglion,ganglia (ganglion),https://lod.nal.usda.gov/nalt/1617,0.97,False,skos:related,EXCLUDE
+gastrulation,,gastrulation,https://lod.nal.usda.gov/nalt/242280,0.97,False,skos:related,EXCLUDE
+genetic similarity,genetic homogeneity,genetic similarity (genetic homogeneity),https://lod.nal.usda.gov/nalt/283766,0.99,False,skos:related,EXCLUDE
+giardin protein,alpha-giardin; beta-giardin; delta-giardin; gamma-giardin,"giardin protein (alpha-giardin, beta-giardin, delta-giardin, gamma-giardin)",https://lod.nal.usda.gov/nalt/200635,0.99,False,skos:related,EXCLUDE
+glioma,glial cell tumors,glioma (glial cell tumors),https://lod.nal.usda.gov/nalt/317772,0.98,False,skos:related,EXCLUDE
+gliotoxins,aspergillin,gliotoxins (aspergillin),https://lod.nal.usda.gov/nalt/323535,0.98,False,skos:related,EXCLUDE
+growth retardation,growth inhibition; growth reduction; stunting,"growth retardation (growth inhibition, growth reduction, stunting)",https://lod.nal.usda.gov/nalt/34962,0.96,False,skos:related,EXCLUDE
+hematologic diseases,blood diseases; blood disorders; haematologic diseases; hematological diseases; hemic diseases,"hematologic diseases (blood diseases, blood disorders, haematologic diseases, hematological diseases, hemic diseases)",https://lod.nal.usda.gov/nalt/339,0.99,False,skos:broader; skos:narrower,EXCLUDE
+hemostasis,haemostasis,hemostasis (haemostasis),https://lod.nal.usda.gov/nalt/18096,0.97,False,skos:broader; skos:narrower,EXCLUDE
+histiocytosis,,histiocytosis,https://lod.nal.usda.gov/nalt/45637,0.96,False,skos:related,EXCLUDE
+ichthyosis,xeroderma,ichthyosis (xeroderma),https://lod.nal.usda.gov/nalt/243840,0.94,False,skos:related,EXCLUDE
+integument,body wall; exuviae,"integument (body wall, exuviae)",https://lod.nal.usda.gov/nalt/9103,0.99,False,skos:related,EXCLUDE
+intestinal crypts,,intestinal crypts,https://lod.nal.usda.gov/nalt/47554,0.95,False,skos:broader; skos:narrower,EXCLUDE
+intestines,intestinal tract,intestines (intestinal tract),https://lod.nal.usda.gov/nalt/42441,0.99,False,skos:broader; skos:narrower,EXCLUDE
+keratinocyte growth factor receptor,FGF receptor 2IIIb; KGF receptor; fibroblast growth factor receptor 2IIIb; keratinocyte growth factor receptors,"keratinocyte growth factor receptor (FGF receptor 2IIIb, KGF receptor, fibroblast growth factor receptor 2IIIb, keratinocyte growth factor receptors)",https://lod.nal.usda.gov/nalt/222893,0.97,False,skos:related,EXCLUDE
+kidneys,anterior kidney; head kidney,"kidneys (anterior kidney, head kidney)",https://lod.nal.usda.gov/nalt/9343,0.99,False,skos:related,EXCLUDE
+Lewy bodies,,Lewy bodies,https://lod.nal.usda.gov/nalt/246142,0.98,True,skos:related,EXCLUDE
+liquid membranes,,liquid membranes,https://lod.nal.usda.gov/nalt/229418,0.88,False,skos:related,EXCLUDE
+liver,liver (anatomy),liver (liver (anatomy)),https://lod.nal.usda.gov/nalt/9344,0.99,False,skos:related,EXCLUDE
+male fertility,male subfertility,male fertility (male subfertility),https://lod.nal.usda.gov/nalt/9205,0.97,False,skos:related,EXCLUDE
+mitochondrial DNA,mtDNA (mitochondrial DNA),mitochondrial DNA (mtDNA (mitochondrial DNA)),https://lod.nal.usda.gov/nalt/34167,0.91,False,skos:related,EXCLUDE
+mitochondrial genes,,mitochondrial genes,https://lod.nal.usda.gov/nalt/308393,0.92,False,skos:related,EXCLUDE
+mitochondrial genome,mitogenome,mitochondrial genome (mitogenome),https://lod.nal.usda.gov/nalt/244932,0.88,False,skos:related,EXCLUDE
+mitogens,phytomitogens,mitogens (phytomitogens),https://lod.nal.usda.gov/nalt/314424,0.96,False,skos:related,EXCLUDE
+monocarboxylic acid transporters,lactate transport proteins; lactate transporters,"monocarboxylic acid transporters (lactate transport proteins, lactate transporters)",https://lod.nal.usda.gov/nalt/277897,0.95,False,skos:related,EXCLUDE
+myogenin,,myogenin,https://lod.nal.usda.gov/nalt/287139,0.89,False,skos:related,EXCLUDE
+nasal mucosa,,nasal mucosa,https://lod.nal.usda.gov/nalt/53591,0.98,False,skos:broader; skos:narrower,EXCLUDE
+nucleocytoplasmic transport,nucleocytoplasmic trafficking,nucleocytoplasmic transport (nucleocytoplasmic trafficking),https://lod.nal.usda.gov/nalt/87320,0.96,False,skos:related,EXCLUDE
+occludins,,occludins,https://lod.nal.usda.gov/nalt/215663,0.94,False,skos:related,EXCLUDE
+organogenesis,,organogenesis,https://lod.nal.usda.gov/nalt/53498,0.99,False,skos:related,EXCLUDE
+P-glycoproteins,multidrug resistance protein 1; permeability glycoproteins,"P-glycoproteins (multidrug resistance protein 1, permeability glycoproteins)",https://lod.nal.usda.gov/nalt/278020,0.97,False,skos:related,EXCLUDE
+photorespiration,,photorespiration,https://lod.nal.usda.gov/nalt/23434,0.99,True,skos:broader; skos:narrower,EXCLUDE
+placenta,placentae; placentome,"placenta (placentae, placentome)",https://lod.nal.usda.gov/nalt/36836,0.95,False,skos:broader; skos:narrower,EXCLUDE
+plant nutrient resorption,,plant nutrient resorption,https://lod.nal.usda.gov/nalt/314552,0.95,False,skos:related,EXCLUDE
+proliferating cell nuclear antigen,PCNA (proliferating cell nuclear antigen),proliferating cell nuclear antigen (PCNA (proliferating cell nuclear antigen)),https://lod.nal.usda.gov/nalt/23384,0.91,False,skos:related,EXCLUDE
+quorum sensing,quorum signaling,quorum sensing (quorum signaling),https://lod.nal.usda.gov/nalt/23372,0.99,False,skos:related,EXCLUDE
+respiratory system,respiratory tract,respiratory system (respiratory tract),https://lod.nal.usda.gov/nalt/5853,0.98,False,skos:broader; skos:narrower,EXCLUDE
+root anatomy,,root anatomy,https://lod.nal.usda.gov/nalt/334626,0.97,False,skos:broader; skos:narrower,EXCLUDE
+rumen,,rumen,https://lod.nal.usda.gov/nalt/41231,0.99,False,skos:broader; skos:narrower,EXCLUDE
+semen quality,semen characteristics; semen characters,"semen quality (semen characteristics, semen characters)",https://lod.nal.usda.gov/nalt/296230,0.98,False,skos:related,EXCLUDE
+seminiferous tubules,,seminiferous tubules,https://lod.nal.usda.gov/nalt/62834,0.93,False,skos:broader; skos:narrower,EXCLUDE
+senescence (aging),aging (physiological process),senescence (aging) (aging (physiological process)),https://lod.nal.usda.gov/nalt/127,0.91,False,skos:related,EXCLUDE
+sexual reproduction,,sexual reproduction,https://lod.nal.usda.gov/nalt/39946,0.99,False,skos:related,EXCLUDE
+skin (animal),,skin (animal),https://lod.nal.usda.gov/nalt/32499,0.98,False,skos:broader; skos:narrower,EXCLUDE
+SNARE proteins,SNAP receptors; soluble N-ethylmaleimide-sensitive factor activating protein receptor (SNARE) proteins; soluble N-ethylmaleimide-sensitive factor activating protein receptor proteins; t-SNAREs; target SNARE proteins; v-SNAREs; vesicle SNARE proteins,"SNARE proteins (SNAP receptors, soluble N-ethylmaleimide-sensitive factor activating protein receptor (SNARE) proteins, soluble N-ethylmaleimide-sensitive factor activating protein receptor proteins, t-SNAREs, target SNARE proteins, v-SNAREs, vesicle SNARE proteins)",https://lod.nal.usda.gov/nalt/283211,0.99,False,skos:related,EXCLUDE
+somatic hybridization,somatic hybridisation,somatic hybridization (somatic hybridisation),https://lod.nal.usda.gov/nalt/46235,0.97,False,skos:related,EXCLUDE
+sperm transport,sperm migration; transport in female genitalia; transport in male genitalia,"sperm transport (sperm migration, transport in female genitalia, transport in male genitalia)",https://lod.nal.usda.gov/nalt/9491,0.93,False,skos:related,EXCLUDE
+tissue culture,tissue culturing,tissue culture (tissue culturing),https://lod.nal.usda.gov/nalt/9560,0.95,False,skos:related,EXCLUDE
+transient receptor potential channels,TRP cation channels; TRP membrane proteins; transient receptor potential (TRP) channels,"transient receptor potential channels (TRP cation channels, TRP membrane proteins, transient receptor potential (TRP) channels)",https://lod.nal.usda.gov/nalt/271059,0.99,False,skos:related,EXCLUDE
+velamen,velamen radicum; velamen roots,"velamen (velamen radicum, velamen roots)",https://lod.nal.usda.gov/nalt/309577,0.97,False,skos:broader; skos:narrower,EXCLUDE
+ABC transporters,ABC-type transporters; ATP binding cassette transporters; ATP-binding cassette transporters,"ABC transporters (ABC-type transporters, ATP binding cassette transporters, ATP-binding cassette transporters)",https://lod.nal.usda.gov/nalt/1597,0.98,False,skos:related,EXCLUDE
+active transport,,active transport,https://lod.nal.usda.gov/nalt/3931,0.96,False,skos:broader; skos:narrower,EXCLUDE
+adhesins,bacterial adhesins,adhesins (bacterial adhesins),https://lod.nal.usda.gov/nalt/4196,0.99,False,skos:related,EXCLUDE
+aerobic conditions,oxic conditions,aerobic conditions (oxic conditions),https://lod.nal.usda.gov/nalt/4630,0.99,False,skos:related,EXCLUDE
+amino acid receptors,,amino acid receptors,https://lod.nal.usda.gov/nalt/281571,0.93,False,skos:related,EXCLUDE
+apoplastic fluids,apoplast fluids,apoplastic fluids (apoplast fluids),https://lod.nal.usda.gov/nalt/296072,0.98,True,skos:related,EXCLUDE
+asymmetric membranes,Loeb-Sourirajan membranes; anisotropic membranes; asymmetric cellulose acetate membranes; composite membranes,"asymmetric membranes (Loeb-Sourirajan membranes, anisotropic membranes, asymmetric cellulose acetate membranes, composite membranes)",https://lod.nal.usda.gov/nalt/291870,0.97,False,skos:related,EXCLUDE
+asynapsis,asyndesis,asynapsis (asyndesis),https://lod.nal.usda.gov/nalt/13544,0.99,True,skos:broader; skos:narrower,EXCLUDE
+bacterial motility,swarming motility; swimming motility,"bacterial motility (swarming motility, swimming motility)",https://lod.nal.usda.gov/nalt/15095,0.98,True,skos:related,EXCLUDE
+bacterial outer membranes,,bacterial outer membranes,https://lod.nal.usda.gov/nalt/336289,0.97,True,skos:broader; skos:narrower,EXCLUDE
+breathing,alveolar ventilation; exhalation; exhaling; inhalation; inhaling; lung respiration; lung ventilation; panting; respiration (breathing); ventilatory response,"breathing (alveolar ventilation, exhalation, exhaling, inhalation, inhaling, lung respiration, lung ventilation, panting, respiration (breathing), ventilatory response)",https://lod.nal.usda.gov/nalt/19684,0.99,False,skos:related,EXCLUDE
+brefeldin A,,brefeldin A,https://lod.nal.usda.gov/nalt/148763,0.98,False,skos:related,EXCLUDE
+cation pumps,cation efflux pumps; cation transport proteins,"cation pumps (cation efflux pumps, cation transport proteins)",https://lod.nal.usda.gov/nalt/196259,0.98,False,skos:related,EXCLUDE
+cell free system,cell-free system; cellfree system,"cell free system (cell-free system, cellfree system)",https://lod.nal.usda.gov/nalt/23400,0.96,True,skos:broader; skos:narrower,EXCLUDE
+cell wall components,cell wall composition; cell wall compounds; cell wall constituents,"cell wall components (cell wall composition, cell wall compounds, cell wall constituents)",https://lod.nal.usda.gov/nalt/23359,0.95,True,skos:related,EXCLUDE
+cellulose fibrils,,cellulose fibrils,https://lod.nal.usda.gov/nalt/291537,0.97,False,skos:related,EXCLUDE
+cellulose microfibrils,microfibrillar cellulose,cellulose microfibrils (microfibrillar cellulose),https://lod.nal.usda.gov/nalt/291539,0.95,False,skos:related,EXCLUDE
+cellulosic fibers,cellulose fibers; cellulose fibres; cellulosic fibres,"cellulosic fibers (cellulose fibers, cellulose fibres, cellulosic fibres)",https://lod.nal.usda.gov/nalt/9216,0.94,False,skos:related,EXCLUDE
+cellulosome,cellulolytic complexes,cellulosome (cellulolytic complexes),https://lod.nal.usda.gov/nalt/23495,0.99,True,skos:broader; skos:narrower,EXCLUDE
+chromosome pairing,chromosomal synapsis; chromosome synapse; chromosome synapsis,"chromosome pairing (chromosomal synapsis, chromosome synapse, chromosome synapsis)",https://lod.nal.usda.gov/nalt/13546,0.92,True,skos:broader; skos:narrower,EXCLUDE
+circulatory system physiology,,circulatory system physiology,https://lod.nal.usda.gov/nalt/9419,0.99,False,skos:broader; skos:narrower,EXCLUDE
+cytoskeletal proteins,,cytoskeletal proteins,https://lod.nal.usda.gov/nalt/190838,0.91,False,skos:related,EXCLUDE
+deprotonation,,deprotonation,https://lod.nal.usda.gov/nalt/322739,0.99,False,skos:related,EXCLUDE
+desynapsis,,desynapsis,https://lod.nal.usda.gov/nalt/23389,0.94,True,skos:broader; skos:narrower,EXCLUDE
+dynamins,dephosphin; dynamin; dynamin K44A,"dynamins (dephosphin, dynamin, dynamin K44A)",https://lod.nal.usda.gov/nalt/242721,0.93,False,skos:related,EXCLUDE
+electrodialysis,,electrodialysis,https://lod.nal.usda.gov/nalt/271028,0.99,False,skos:related,EXCLUDE
+electron transfer,electron transport,electron transfer (electron transport),https://lod.nal.usda.gov/nalt/36193,0.92,False,skos:related,EXCLUDE
+electroosmosis,electroosmotic flow,electroosmosis (electroosmotic flow),https://lod.nal.usda.gov/nalt/282559,0.98,False,skos:broader; skos:narrower,EXCLUDE
+extracellular enzymes,exoenzymes,extracellular enzymes (exoenzymes),https://lod.nal.usda.gov/nalt/315658,0.97,False,skos:related,EXCLUDE
+Fabry disease,,Fabry disease,https://lod.nal.usda.gov/nalt/299590,0.99,False,skos:related,EXCLUDE
+flagellin,,flagellin,https://lod.nal.usda.gov/nalt/144694,0.98,False,skos:related,EXCLUDE
+fluorescence recovery after photobleaching,FRAP (fluorescence recovery after photobleaching),fluorescence recovery after photobleaching (FRAP (fluorescence recovery after photobleaching)),https://lod.nal.usda.gov/nalt/262830,0.9,False,skos:related,EXCLUDE
+gametolysin,EC 3.4.24.38; autolysins; gamete autolysin; gamete lytic enzyme,"gametolysin (EC 3.4.24.38, autolysins, gamete autolysin, gamete lytic enzyme)",https://lod.nal.usda.gov/nalt/240810,0.96,False,skos:related,EXCLUDE
+gene transfer,gene delivery,gene transfer (gene delivery),https://lod.nal.usda.gov/nalt/17418,0.95,False,skos:related,EXCLUDE
+genetic techniques and protocols,,genetic techniques and protocols,https://lod.nal.usda.gov/nalt/17409,0.99,False,skos:broader; skos:narrower,EXCLUDE
+hematology,haematology,hematology (haematology),https://lod.nal.usda.gov/nalt/17474,0.99,False,skos:related,EXCLUDE
+hemicellulose,,hemicellulose,https://lod.nal.usda.gov/nalt/45073,0.99,False,skos:related,EXCLUDE
+hydrolysis,,hydrolysis,https://lod.nal.usda.gov/nalt/24669,0.99,False,skos:related,EXCLUDE
+innexins,,innexins,https://lod.nal.usda.gov/nalt/296625,0.98,False,skos:related,EXCLUDE
+intracellular enzymes,endoenzymes,intracellular enzymes (endoenzymes),https://lod.nal.usda.gov/nalt/315659,0.95,False,skos:related,EXCLUDE
+ion transport,electrogenic pumps; ion transportation; ion uptake,"ion transport (electrogenic pumps, ion transportation, ion uptake)",https://lod.nal.usda.gov/nalt/47612,0.97,False,skos:broader; skos:narrower,EXCLUDE
+isotropic membranes,,isotropic membranes,https://lod.nal.usda.gov/nalt/291882,0.94,False,skos:related,EXCLUDE
+lecithins,,lecithins,https://lod.nal.usda.gov/nalt/84498,0.99,False,skos:related,EXCLUDE
+lignin,,lignin,https://lod.nal.usda.gov/nalt/50048,0.99,False,skos:related,EXCLUDE
+lipid transfer proteins,glycolipid exchange proteins; glycolipid transfer proteins; lipid exchange proteins; phospholipid transfer proteins,"lipid transfer proteins (glycolipid exchange proteins, glycolipid transfer proteins, lipid exchange proteins, phospholipid transfer proteins)",https://lod.nal.usda.gov/nalt/281496,0.98,False,skos:related,EXCLUDE
+lipoteichoic acids,,lipoteichoic acids,https://lod.nal.usda.gov/nalt/271991,0.99,False,skos:related,EXCLUDE
+lymphocyte antigens,,lymphocyte antigens,https://lod.nal.usda.gov/nalt/10362,0.94,False,skos:related,EXCLUDE
+macroautophagy,aggrephagy; chaperone-assisted selective autophagy; lysophagy; pexophagy; proteaphagy; xenophagy,"macroautophagy (aggrephagy, chaperone-assisted selective autophagy, lysophagy, pexophagy, proteaphagy, xenophagy)",https://lod.nal.usda.gov/nalt/310092,0.96,True,skos:related,EXCLUDE
+mannans,galactoglucomannans,mannans (galactoglucomannans),https://lod.nal.usda.gov/nalt/42154,0.98,False,skos:related,EXCLUDE
+meiotic drive,,meiotic drive,https://lod.nal.usda.gov/nalt/23391,0.96,True,skos:broader; skos:narrower,EXCLUDE
+monosaccharide transport proteins,hexose transport proteins; hexose transporters,"monosaccharide transport proteins (hexose transport proteins, hexose transporters)",https://lod.nal.usda.gov/nalt/296223,0.94,False,skos:related,EXCLUDE
+motor neurons,efferent neurons; motoneurones; motoneurons; motor nerves; motor neurones,"motor neurons (efferent neurons, motoneurones, motoneurons, motor nerves, motor neurones)",https://lod.nal.usda.gov/nalt/35923,0.99,False,skos:broader; skos:narrower,EXCLUDE
+nanopores,,nanopores,https://lod.nal.usda.gov/nalt/259874,0.97,False,skos:related,EXCLUDE
+neurogenesis,,neurogenesis,https://lod.nal.usda.gov/nalt/199243,0.95,False,skos:related,EXCLUDE
+neuroplasticity,neurite pruning; neuronal plasticity; neuronal pruning; synaptic plasticity; synaptic pruning,"neuroplasticity (neurite pruning, neuronal plasticity, neuronal pruning, synaptic plasticity, synaptic pruning)",https://lod.nal.usda.gov/nalt/246161,0.9,False,skos:related,EXCLUDE
+nutrient transport,,nutrient transport,https://lod.nal.usda.gov/nalt/55447,0.92,False,skos:broader; skos:narrower,EXCLUDE
+nutrient uptake,nutrient absorption,nutrient uptake (nutrient absorption),https://lod.nal.usda.gov/nalt/47552,0.84,False,skos:broader; skos:narrower,EXCLUDE
+O-antigens,O-specific polysaccharides,O-antigens (O-specific polysaccharides),https://lod.nal.usda.gov/nalt/312451,0.98,False,skos:related,EXCLUDE
+organelle genome,organelle genetics,organelle genome (organelle genetics),https://lod.nal.usda.gov/nalt/25480,0.89,False,skos:related,EXCLUDE
+osmoregulation,osmoregulatory ability; osmoregulatory capacity; osmotic regulation; water balance regulation,"osmoregulation (osmoregulatory ability, osmoregulatory capacity, osmotic regulation, water balance regulation)",https://lod.nal.usda.gov/nalt/56341,0.81,False,skos:related,EXCLUDE
+osmotic pressure,osmotic potential,osmotic pressure (osmotic potential),https://lod.nal.usda.gov/nalt/56337,0.97,False,skos:related,EXCLUDE
+osmotic treatment,osmotic pretreatment,osmotic treatment (osmotic pretreatment),https://lod.nal.usda.gov/nalt/56339,0.96,False,skos:related,EXCLUDE
+oxygen requirement,,oxygen requirement,https://lod.nal.usda.gov/nalt/8383,0.98,False,skos:related,EXCLUDE
+pannexins,,pannexins,https://lod.nal.usda.gov/nalt/296627,0.83,False,skos:related,EXCLUDE
+phospholipid-hydroperoxide glutathione peroxidase,EC 1.11.1.12; GPX4 glutathione peroxidase; PHGPX (phospholipid-hydroperoxide glutathione peroxidase); glutathione peroxidase 4; glutathione peroxidase GPX4; hydroperoxide glutathione peroxidase; phospholipid hydroperoxide glutathione peroxidase,"phospholipid-hydroperoxide glutathione peroxidase (EC 1.11.1.12, GPX4 glutathione peroxidase, PHGPX (phospholipid-hydroperoxide glutathione peroxidase), glutathione peroxidase 4, glutathione peroxidase GPX4, hydroperoxide glutathione peroxidase, phospholipid hydroperoxide glutathione peroxidase)",https://lod.nal.usda.gov/nalt/131681,0.99,False,skos:related,EXCLUDE
+physical chemistry,,physical chemistry,https://lod.nal.usda.gov/nalt/24620,0.99,False,skos:broader; skos:narrower,EXCLUDE
+physical properties,physical properties of materials,physical properties (physical properties of materials),https://lod.nal.usda.gov/nalt/1796,0.98,False,skos:broader; skos:narrower,EXCLUDE
+physicochemical properties,chemical properties; chemicophysical properties; physico-chemical properties,"physicochemical properties (chemical properties, chemicophysical properties, physico-chemical properties)",https://lod.nal.usda.gov/nalt/2828,0.95,False,skos:broader; skos:narrower,EXCLUDE
+plant anatomy,plant parts,plant anatomy (plant parts),https://lod.nal.usda.gov/nalt/851,0.94,False,skos:broader; skos:narrower,EXCLUDE
+pollen walls,,pollen walls,https://lod.nal.usda.gov/nalt/334600,0.98,True,skos:broader; skos:narrower,EXCLUDE
+post-translational modification,post-translational amino acid modification; post-translational protein modification; post-translational protein processing; posttranslational modification; posttranslational protein processing,"post-translational modification (post-translational amino acid modification, post-translational protein modification, post-translational protein processing, posttranslational modification, posttranslational protein processing)",https://lod.nal.usda.gov/nalt/59362,0.99,False,skos:broader; skos:narrower,EXCLUDE
+processing technology,industrial processing; process technology; processing methods,"processing technology (industrial processing, process technology, processing methods)",https://lod.nal.usda.gov/nalt/2770,0.99,False,skos:broader; skos:narrower,EXCLUDE
+protein folding,enzyme folding,protein folding (enzyme folding),https://lod.nal.usda.gov/nalt/59913,0.96,False,skos:related,EXCLUDE
+protein unfolding,enzyme unfolding,protein unfolding (enzyme unfolding),https://lod.nal.usda.gov/nalt/270537,0.96,False,skos:related,EXCLUDE
+proteolysis,,proteolysis,https://lod.nal.usda.gov/nalt/32271,0.94,False,skos:related,EXCLUDE
+protolignin,,protolignin,https://lod.nal.usda.gov/nalt/325588,0.97,False,skos:related,EXCLUDE
+proton extrusion,,proton extrusion,https://lod.nal.usda.gov/nalt/311369,0.95,False,skos:broader; skos:narrower,EXCLUDE
+protons,,protons,https://lod.nal.usda.gov/nalt/36246,0.99,False,skos:related,EXCLUDE
+reaction chemistry,,reaction chemistry,https://lod.nal.usda.gov/nalt/24658,0.98,False,skos:broader; skos:narrower,EXCLUDE
+reverse osmosis,,reverse osmosis,https://lod.nal.usda.gov/nalt/194991,0.99,False,skos:broader; skos:narrower,EXCLUDE
+RNA transport,RNA export; RNA sorting; mRNA export; mRNA sorting; mRNA transport; messenger RNA sorting; ribonucleic acid transport,"RNA transport (RNA export, RNA sorting, mRNA export, mRNA sorting, mRNA transport, messenger RNA sorting, ribonucleic acid transport)",https://lod.nal.usda.gov/nalt/225409,0.96,False,skos:broader; skos:narrower,EXCLUDE
+sensory neurons,afferent neurons; sensory neurones,"sensory neurons (afferent neurons, sensory neurones)",https://lod.nal.usda.gov/nalt/4780,0.99,False,skos:broader; skos:narrower,EXCLUDE
+spliceosomes,,spliceosomes,https://lod.nal.usda.gov/nalt/56076,0.98,True,skos:broader; skos:narrower,EXCLUDE
+sporopollenin,,sporopollenin,https://lod.nal.usda.gov/nalt/252751,0.99,False,skos:related,EXCLUDE
+stress response,response to stress,stress response (response to stress),https://lod.nal.usda.gov/nalt/146600,0.87,False,skos:related,EXCLUDE
+sympathetic nervous system,,sympathetic nervous system,https://lod.nal.usda.gov/nalt/14034,0.98,False,skos:related,EXCLUDE
+symporters,co-transporters,symporters (co-transporters),https://lod.nal.usda.gov/nalt/65313,0.92,False,skos:related,EXCLUDE
+synaptic transmission,neural transmission; neurotransmission,"synaptic transmission (neural transmission, neurotransmission)",https://lod.nal.usda.gov/nalt/54717,0.98,False,skos:related,EXCLUDE
+teichoic acids,,teichoic acids,https://lod.nal.usda.gov/nalt/271989,0.95,False,skos:related,EXCLUDE
+thylakoids,thylakoid lumen; thylakoid membrane,"thylakoids (thylakoid lumen, thylakoid membrane)",https://lod.nal.usda.gov/nalt/23410,0.97,True,skos:broader; skos:narrower,EXCLUDE
+transport proteins,carrier proteins; translocator proteins; transporter proteins,"transport proteins (carrier proteins, translocator proteins, transporter proteins)",https://lod.nal.usda.gov/nalt/17197,0.93,False,skos:related,EXCLUDE
+transporters,efflux pumps; export pumps; ion pumps; membrane pumps; membrane transport proteins,"transporters (efflux pumps, export pumps, ion pumps, membrane pumps, membrane transport proteins)",https://lod.nal.usda.gov/nalt/1600,0.91,False,skos:related,EXCLUDE
+type I secretion system,T1SS (type I secretion system); type I secretion apparatus; type I secretion process; type one secretion system,"type I secretion system (T1SS (type I secretion system), type I secretion apparatus, type I secretion process, type one secretion system)",https://lod.nal.usda.gov/nalt/245155,0.98,False,skos:related,EXCLUDE
+type IV secretion system,type IV secretion apparatus; type IV secretion machinery,"type IV secretion system (type IV secretion apparatus, type IV secretion machinery)",https://lod.nal.usda.gov/nalt/245157,0.98,False,skos:related,EXCLUDE
+type V secretion system,type V autotransporter pathway; type V secretion pathway; type V secretion systems,"type V secretion system (type V autotransporter pathway, type V secretion pathway, type V secretion systems)",https://lod.nal.usda.gov/nalt/245158,0.98,False,skos:related,EXCLUDE
+type VI secretion system,type VI protein secretion system,type VI secretion system (type VI protein secretion system),https://lod.nal.usda.gov/nalt/244123,0.98,False,skos:related,EXCLUDE
+uptake mechanisms,uptake (physiology),uptake mechanisms (uptake (physiology)),https://lod.nal.usda.gov/nalt/55450,0.9,False,skos:broader; skos:narrower,EXCLUDE
+ventral adhesive disk,ventral adhesive disc,ventral adhesive disk (ventral adhesive disc),https://lod.nal.usda.gov/nalt/200645,0.96,True,skos:broader; skos:narrower,EXCLUDE
+viral inclusion bodies,Negri bodies; viroplasms,"viral inclusion bodies (Negri bodies, viroplasms)",https://lod.nal.usda.gov/nalt/246154,0.91,True,skos:broader; skos:narrower,EXCLUDE
+water uptake,water absorption,water uptake (water absorption),https://lod.nal.usda.gov/nalt/46559,0.98,False,skos:related,EXCLUDE
+action potentials,nerve impulses; spike potentials,"action potentials (nerve impulses, spike potentials)",https://lod.nal.usda.gov/nalt/3909,0.98,False,skos:broader; skos:narrower,EXCLUDE
+adaptive immunity,acquired immune system; acquired immunity; adaptive immune response; adaptive immune system; adoptive immunity,"adaptive immunity (acquired immune system, acquired immunity, adaptive immune response, adaptive immune system, adoptive immunity)",https://lod.nal.usda.gov/nalt/105992,0.95,False,skos:related,EXCLUDE
+animal physiology,,animal physiology,https://lod.nal.usda.gov/nalt/9107,0.99,False,skos:broader; skos:narrower,EXCLUDE
+B-cell lymphoma,diffuse large B-Cell lymphoma; diffuse large-cell lymphoma; histiocytic lymphoma,"B-cell lymphoma (diffuse large B-Cell lymphoma, diffuse large-cell lymphoma, histiocytic lymphoma)",https://lod.nal.usda.gov/nalt/295040,0.99,False,skos:related,EXCLUDE
+biochemistry,,biochemistry,https://lod.nal.usda.gov/nalt/17227,0.99,False,skos:related,EXCLUDE
+bioelectricity,,bioelectricity,https://lod.nal.usda.gov/nalt/231463,0.93,False,skos:related,EXCLUDE
+body composition,,body composition,https://lod.nal.usda.gov/nalt/10121,0.98,False,skos:broader; skos:narrower,EXCLUDE
+body fluids,,body fluids,https://lod.nal.usda.gov/nalt/49,0.98,False,skos:broader; skos:narrower,EXCLUDE
+botulinum toxin,botulinum neurotoxin,botulinum toxin (botulinum neurotoxin),https://lod.nal.usda.gov/nalt/15202,1.0,False,skos:related,EXCLUDE
+cadherins,protocadherins,cadherins (protocadherins),https://lod.nal.usda.gov/nalt/20827,0.97,False,skos:related,EXCLUDE
+calcium,Ca2+,calcium (Ca2+),https://lod.nal.usda.gov/nalt/6421,1.0,False,skos:related,EXCLUDE
+calcium channels,calcium ion channels; voltage-dependent calcium channels,"calcium channels (calcium ion channels, voltage-dependent calcium channels)",https://lod.nal.usda.gov/nalt/21102,0.98,False,skos:related,EXCLUDE
+catenins,catenin proteins,catenins (catenin proteins),https://lod.nal.usda.gov/nalt/295005,0.96,False,skos:broader; skos:narrower,EXCLUDE
+cell-mediated immunity,cell mediated immunity; cell-mediated immune response; cellular immune response; cellular immunity,"cell-mediated immunity (cell mediated immunity, cell-mediated immune response, cellular immune response, cellular immunity)",https://lod.nal.usda.gov/nalt/10341,0.91,False,skos:broader; skos:narrower,EXCLUDE
+chloroplast transit peptides,plastid transit peptides,chloroplast transit peptides (plastid transit peptides),https://lod.nal.usda.gov/nalt/317761,0.98,False,skos:related,EXCLUDE
+chromoplasts,,chromoplasts,https://lod.nal.usda.gov/nalt/25832,0.99,True,skos:broader; skos:narrower,EXCLUDE
+clathrin,,clathrin,https://lod.nal.usda.gov/nalt/26664,0.99,False,skos:related,EXCLUDE
+contractile proteins,,contractile proteins,https://lod.nal.usda.gov/nalt/879,0.93,False,skos:related,EXCLUDE
+DEAD-box RNA helicases,DEAD box helicases; DEAD-box proteins,"DEAD-box RNA helicases (DEAD box helicases, DEAD-box proteins)",https://lod.nal.usda.gov/nalt/240461,0.98,False,skos:related,EXCLUDE
+ecophysiology,ecological physiology; environmental physiology; physiological ecology,"ecophysiology (ecological physiology, environmental physiology, physiological ecology)",https://lod.nal.usda.gov/nalt/142493,0.99,False,skos:broader; skos:narrower,EXCLUDE
+elaioplasts,,elaioplasts,https://lod.nal.usda.gov/nalt/36096,0.99,True,skos:broader; skos:narrower,EXCLUDE
+electrophysiology,,electrophysiology,https://lod.nal.usda.gov/nalt/17332,0.97,False,skos:broader; skos:narrower,EXCLUDE
+excretion,,excretion,https://lod.nal.usda.gov/nalt/31966,0.94,False,skos:broader; skos:narrower,EXCLUDE
+extracellular matrix,,extracellular matrix,https://lod.nal.usda.gov/nalt/38966,0.98,True,skos:related,EXCLUDE
+exudation,,exudation,https://lod.nal.usda.gov/nalt/38979,0.96,False,skos:broader; skos:narrower,EXCLUDE
+Fields of Study,,Fields of Study,https://lod.nal.usda.gov/nalt/127294,0.99,False,skos:broader; skos:narrower,EXCLUDE
+fungus physiology,fungal physiology,fungus physiology (fungal physiology),https://lod.nal.usda.gov/nalt/41803,0.97,False,skos:broader; skos:narrower,EXCLUDE
+gait,,gait,https://lod.nal.usda.gov/nalt/42145,0.99,False,skos:related,EXCLUDE
+host-parasite relationships,host parasite relationships; host-parasite interactions; parasite host relationships; parasite-host interactions; parasite-host relationships,"host-parasite relationships (host parasite relationships, host-parasite interactions, parasite host relationships, parasite-host interactions, parasite-host relationships)",https://lod.nal.usda.gov/nalt/834,0.95,False,skos:related,EXCLUDE
+inherited metabolic diseases,inborn errors of metabolism; inherited metabolic disorders,"inherited metabolic diseases (inborn errors of metabolism, inherited metabolic disorders)",https://lod.nal.usda.gov/nalt/2755,0.98,False,skos:related,EXCLUDE
+integrins,,integrins,https://lod.nal.usda.gov/nalt/47468,0.97,False,skos:related,EXCLUDE
+interleukin-13,IL-13; interleukin 13,"interleukin-13 (IL-13, interleukin 13)",https://lod.nal.usda.gov/nalt/222512,0.99,False,skos:related,EXCLUDE
+ketolides,,ketolides,https://lod.nal.usda.gov/nalt/235866,0.99,False,skos:related,EXCLUDE
+lipid metabolism,fat metabolism,lipid metabolism (fat metabolism),https://lod.nal.usda.gov/nalt/17396,0.93,False,skos:related,EXCLUDE
+liquid junction potential,,liquid junction potential,https://lod.nal.usda.gov/nalt/200627,0.99,False,skos:related,EXCLUDE
+liver microsomes,,liver microsomes,https://lod.nal.usda.gov/nalt/50439,0.88,True,skos:broader; skos:narrower,EXCLUDE
+merozoites,,merozoites,https://lod.nal.usda.gov/nalt/32897,0.97,False,skos:related,EXCLUDE
+microbial physiology,bacterial physiology,microbial physiology (bacterial physiology),https://lod.nal.usda.gov/nalt/4636,0.96,False,skos:broader; skos:narrower,EXCLUDE
+microfilament proteins,actin binding proteins; actin-binding proteins,"microfilament proteins (actin binding proteins, actin-binding proteins)",https://lod.nal.usda.gov/nalt/200164,0.91,False,skos:related,EXCLUDE
+mitogenesis,,mitogenesis,https://lod.nal.usda.gov/nalt/217943,0.99,True,skos:broader; skos:narrower,EXCLUDE
+neurophysiology,nervous system physiology; neurobiology; neuroscience,"neurophysiology (nervous system physiology, neurobiology, neuroscience)",https://lod.nal.usda.gov/nalt/9426,0.98,False,skos:broader; skos:narrower,EXCLUDE
+neurotransmitters,neuromediators; neuromodulators; neuroregulators,"neurotransmitters (neuromediators, neuromodulators, neuroregulators)",https://lod.nal.usda.gov/nalt/2522,0.99,False,skos:related,EXCLUDE
+nuclear genome,nuclear DNA,nuclear genome (nuclear DNA),https://lod.nal.usda.gov/nalt/23422,0.97,False,skos:related,EXCLUDE
+nutrient use efficiency,nitrogen use efficiency,nutrient use efficiency (nitrogen use efficiency),https://lod.nal.usda.gov/nalt/54892,0.99,False,skos:broader; skos:narrower,EXCLUDE
+nutrition physiology,,nutrition physiology,https://lod.nal.usda.gov/nalt/10476,0.98,False,skos:broader; skos:narrower,EXCLUDE
+ocular physiology,ocular physiological phenomenon; ocular physiological processes,"ocular physiology (ocular physiological phenomenon, ocular physiological processes)",https://lod.nal.usda.gov/nalt/245877,0.99,False,skos:broader; skos:narrower,EXCLUDE
+pachytene stage,pachynema (meiosis); pachytene,"pachytene stage (pachynema (meiosis), pachytene)",https://lod.nal.usda.gov/nalt/123494,0.95,True,skos:broader; skos:narrower,EXCLUDE
+parasitism,parasitisation; parasitising; parasitization; parasitizing,"parasitism (parasitisation, parasitising, parasitization, parasitizing)",https://lod.nal.usda.gov/nalt/46000,0.99,False,skos:related,EXCLUDE
+pathophysiology,physiopathology,pathophysiology (physiopathology),https://lod.nal.usda.gov/nalt/9411,0.98,False,skos:related,EXCLUDE
+peak oxygen uptake,maximal aerobic capacity; maximal aerobic power; maximal oxygen consumption; maximum oxygen uptake,"peak oxygen uptake (maximal aerobic capacity, maximal aerobic power, maximal oxygen consumption, maximum oxygen uptake)",https://lod.nal.usda.gov/nalt/314948,0.99,False,skos:broader; skos:narrower,EXCLUDE
+physical activity,human activity (physical activity),physical activity (human activity (physical activity)),https://lod.nal.usda.gov/nalt/37116,0.99,False,skos:broader; skos:narrower,EXCLUDE
+physiological regulation,,physiological regulation,https://lod.nal.usda.gov/nalt/45755,0.93,False,skos:broader; skos:narrower,EXCLUDE
+physiological response,,physiological response,https://lod.nal.usda.gov/nalt/34396,0.9,False,skos:broader; skos:narrower,EXCLUDE
+physiological state,physiological status,physiological state (physiological status),https://lod.nal.usda.gov/nalt/190809,0.95,False,skos:broader; skos:narrower,EXCLUDE
+physiologists,,physiologists,https://lod.nal.usda.gov/nalt/55541,0.99,False,skos:related,EXCLUDE
+plant physiology,,plant physiology,https://lod.nal.usda.gov/nalt/1821,0.97,False,skos:broader; skos:narrower,EXCLUDE
+plastid DNA,,plastid DNA,https://lod.nal.usda.gov/nalt/25478,0.98,False,skos:related,EXCLUDE
+plastid genome,,plastid genome,https://lod.nal.usda.gov/nalt/89067,0.98,False,skos:related,EXCLUDE
+protein synthesis,protein anabolism; protein biosynthesis; protein expression,"protein synthesis (protein anabolism, protein biosynthesis, protein expression)",https://lod.nal.usda.gov/nalt/38953,0.98,False,skos:related,EXCLUDE
+psychophysiology,,psychophysiology,https://lod.nal.usda.gov/nalt/317990,0.99,False,skos:broader; skos:narrower,EXCLUDE
+reproduction,,reproduction,https://lod.nal.usda.gov/nalt/12898,0.96,False,skos:broader; skos:narrower,EXCLUDE
+rhoptry proteins,,rhoptry proteins,https://lod.nal.usda.gov/nalt/263930,0.98,False,skos:related,EXCLUDE
+ribosomal DNA,rDNA (ribosomal DNA),ribosomal DNA (rDNA (ribosomal DNA)),https://lod.nal.usda.gov/nalt/34168,0.97,False,skos:related,EXCLUDE
+ribosomal RNA,rRNA (ribosomal RNA); rRNAs (ribosomal RNA),"ribosomal RNA (rRNA (ribosomal RNA), rRNAs (ribosomal RNA))",https://lod.nal.usda.gov/nalt/61502,0.97,False,skos:related,EXCLUDE
+seed storage proteins,,seed storage proteins,https://lod.nal.usda.gov/nalt/198167,0.97,False,skos:related,EXCLUDE
+somatic incompatibility,,somatic incompatibility,https://lod.nal.usda.gov/nalt/210003,0.96,False,skos:broader; skos:narrower,EXCLUDE
+synapse,synapses (nervous system),synapse (synapses (nervous system)),https://lod.nal.usda.gov/nalt/54683,0.99,True,skos:related,EXCLUDE
+synaptonemal complex,synaptinemal complex,synaptonemal complex (synaptinemal complex),https://lod.nal.usda.gov/nalt/51917,0.99,True,skos:broader; skos:narrower,EXCLUDE
+T-cell lymphoma,,T-cell lymphoma,https://lod.nal.usda.gov/nalt/295041,0.97,False,skos:related,EXCLUDE
+taxis (physiology),,taxis (physiology),https://lod.nal.usda.gov/nalt/24726,0.94,False,skos:broader; skos:narrower,EXCLUDE
+thymus gland,,thymus gland,https://lod.nal.usda.gov/nalt/37012,0.98,False,skos:related,EXCLUDE
+tissue distribution,,tissue distribution,https://lod.nal.usda.gov/nalt/58087,0.96,False,skos:broader; skos:narrower,EXCLUDE
+triacylglycerols,neutral fats; neutral lipids; triglycerides,"triacylglycerols (neutral fats, neutral lipids, triglycerides)",https://lod.nal.usda.gov/nalt/3995,0.99,False,skos:related,EXCLUDE
+tropisms,,tropisms,https://lod.nal.usda.gov/nalt/14074,0.98,False,skos:broader; skos:narrower,EXCLUDE
+tubulin,alpha-tubulin; beta-tubulin; delta-tubulin; gamma-tubulin,"tubulin (alpha-tubulin, beta-tubulin, delta-tubulin, gamma-tubulin)",https://lod.nal.usda.gov/nalt/52880,0.98,False,skos:related,EXCLUDE
+villi,villus,villi (villus),https://lod.nal.usda.gov/nalt/47558,0.97,False,skos:related,EXCLUDE
+water requirement,,water requirement,https://lod.nal.usda.gov/nalt/47776,0.95,False,skos:broader; skos:narrower,EXCLUDE
+acrocentric chromosomes,acrocentrics,acrocentric chromosomes (acrocentrics),https://lod.nal.usda.gov/nalt/3078,0.98,True,skos:broader; skos:narrower,EXCLUDE
+adenosinetriphosphatase,ATP hydrolase; ATPase; Ca2+-Mg2+ ATPase; EC 3.6.1.3; adenosine 5'-triphosphatase; adenosine triphosphatase; adenylpyrophosphatase; complex V (mitochondrial electron transport),"adenosinetriphosphatase (ATP hydrolase, ATPase, Ca2+-Mg2+ ATPase, EC 3.6.1.3, adenosine 5'-triphosphatase, adenosine triphosphatase, adenylpyrophosphatase, complex V (mitochondrial electron transport))",https://lod.nal.usda.gov/nalt/4161,0.99,False,skos:related,EXCLUDE
+adhesion,adhesiveness,adhesion (adhesiveness),https://lod.nal.usda.gov/nalt/4199,0.93,False,skos:related,EXCLUDE
+allometry,,allometry,https://lod.nal.usda.gov/nalt/6699,0.99,False,skos:broader; skos:narrower,EXCLUDE
+amniotic fluid,,amniotic fluid,https://lod.nal.usda.gov/nalt/8003,0.97,False,skos:broader; skos:narrower,EXCLUDE
+amyloplast DNA,,amyloplast DNA,https://lod.nal.usda.gov/nalt/220598,0.95,False,skos:related,EXCLUDE
+anabolism,anabolic process,anabolism (anabolic process),https://lod.nal.usda.gov/nalt/71664,0.96,False,skos:broader; skos:narrower,EXCLUDE
+animal development,,animal development,https://lod.nal.usda.gov/nalt/4384,0.97,False,skos:related,EXCLUDE
+animal growth,growth rate (animals),animal growth (growth rate (animals)),https://lod.nal.usda.gov/nalt/9226,0.98,False,skos:related,EXCLUDE
+apicoplast DNA,,apicoplast DNA,https://lod.nal.usda.gov/nalt/220599,0.95,False,skos:related,EXCLUDE
+apicoplast genome,,apicoplast genome,https://lod.nal.usda.gov/nalt/244970,0.95,False,skos:related,EXCLUDE
+bacterial adhesion,bacterial adherence,bacterial adhesion (bacterial adherence),https://lod.nal.usda.gov/nalt/4195,0.98,True,skos:broader; skos:narrower,EXCLUDE
+bacterial artificial chromosomes,BACs (bacterial artificial chromosomes),bacterial artificial chromosomes (BACs (bacterial artificial chromosomes)),https://lod.nal.usda.gov/nalt/15075,0.99,True,skos:broader; skos:narrower,EXCLUDE
+bile secretion,,bile secretion,https://lod.nal.usda.gov/nalt/17174,0.96,False,skos:broader; skos:narrower,EXCLUDE
+bioadhesion,bio-adhesiveness; bioadhesiveness,"bioadhesion (bio-adhesiveness, bioadhesiveness)",https://lod.nal.usda.gov/nalt/316508,0.9,False,skos:related,EXCLUDE
+biocatalysis,biocatalytic activity; biocatalytic processes,"biocatalysis (biocatalytic activity, biocatalytic processes)",https://lod.nal.usda.gov/nalt/253068,0.99,False,skos:broader; skos:narrower,EXCLUDE
+biological development,,biological development,https://lod.nal.usda.gov/nalt/1764,0.92,False,skos:broader; skos:narrower,EXCLUDE
+biomass,crop biomass,biomass (crop biomass),https://lod.nal.usda.gov/nalt/15955,0.99,False,skos:related,EXCLUDE
+biosynthesis,,biosynthesis,https://lod.nal.usda.gov/nalt/17535,0.97,False,skos:broader; skos:narrower,EXCLUDE
+carbohydrate metabolism,,carbohydrate metabolism,https://lod.nal.usda.gov/nalt/22202,0.98,False,skos:broader; skos:narrower,EXCLUDE
+carbon metabolism,,carbon metabolism,https://lod.nal.usda.gov/nalt/292503,0.98,False,skos:broader; skos:narrower,EXCLUDE
+catabolism,catabolic process,catabolism (catabolic process),https://lod.nal.usda.gov/nalt/75194,0.99,False,skos:broader; skos:narrower,EXCLUDE
+catabolite repression,carbon catabolite repression,catabolite repression (carbon catabolite repression),https://lod.nal.usda.gov/nalt/313434,0.99,False,skos:broader; skos:narrower,EXCLUDE
+chemokine CCL5,CC chemokine ligand 5; CCL5 chemokine; RANTES; SCYA5 protein; T cell RNATES protein; T-Cell specific protein p288; TCP228 protein; chemokine (C-C motif) ligand 5; small inducible cytokine A5,"chemokine CCL5 (CC chemokine ligand 5, CCL5 chemokine, RANTES, SCYA5 protein, T cell RNATES protein, T-Cell specific protein p288, TCP228 protein, chemokine (C-C motif) ligand 5, small inducible cytokine A5)",https://lod.nal.usda.gov/nalt/236678,0.99,False,skos:related,EXCLUDE
+chiasmata,,chiasmata,https://lod.nal.usda.gov/nalt/278,0.95,True,skos:broader; skos:narrower,EXCLUDE
+chorion,chorion (insects); chorion (invertebrates); chorion (vertebrates); chorionic villi; chorionic villus; egg shell (insect); eggshell (insect); insect chorion,"chorion (chorion (insects), chorion (invertebrates), chorion (vertebrates), chorionic villi, chorionic villus, egg shell (insect), eggshell (insect), insect chorion)",https://lod.nal.usda.gov/nalt/105270,0.93,False,skos:related,EXCLUDE
+chromosome painting,,chromosome painting,https://lod.nal.usda.gov/nalt/259363,0.96,False,skos:related,EXCLUDE
+compensatory growth,catch-up growth,compensatory growth (catch-up growth),https://lod.nal.usda.gov/nalt/22958,0.98,False,skos:broader; skos:narrower,EXCLUDE
+copper metabolism,,copper metabolism,https://lod.nal.usda.gov/nalt/232199,0.97,False,skos:broader; skos:narrower,EXCLUDE
+dealkylation,,dealkylation,https://lod.nal.usda.gov/nalt/323992,0.99,False,skos:broader; skos:narrower,EXCLUDE
+developmental milestones,,developmental milestones,https://lod.nal.usda.gov/nalt/334414,0.98,False,skos:broader; skos:narrower,EXCLUDE
+dormancy breaking,breaking dormancy,dormancy breaking (breaking dormancy),https://lod.nal.usda.gov/nalt/19663,0.95,False,skos:broader; skos:narrower,EXCLUDE
+energy metabolism,bioenergetics,energy metabolism (bioenergetics),https://lod.nal.usda.gov/nalt/8391,0.96,False,skos:broader; skos:narrower,EXCLUDE
+fungal anatomy,gills (mushrooms),fungal anatomy (gills (mushrooms)),https://lod.nal.usda.gov/nalt/8506,0.99,False,skos:broader; skos:narrower,EXCLUDE
+genotype-phenotype correlation,gene-association study; genotype-phenotype analysis; genotype-phenotype association; genotype-phenotype relationship; genotype-phenotype study,"genotype-phenotype correlation (gene-association study, genotype-phenotype analysis, genotype-phenotype association, genotype-phenotype relationship, genotype-phenotype study)",https://lod.nal.usda.gov/nalt/270455,0.98,False,skos:related,EXCLUDE
+glyoxylate cycle,glyoxylate by-pass; glyoxylate bypass; glyoxylate bypass cycle; glyoxylate shunt,"glyoxylate cycle (glyoxylate by-pass, glyoxylate bypass, glyoxylate bypass cycle, glyoxylate shunt)",https://lod.nal.usda.gov/nalt/17287,0.97,False,skos:related,EXCLUDE
+growth performance,animal growth performance; plant growth performance,"growth performance (animal growth performance, plant growth performance)",https://lod.nal.usda.gov/nalt/199526,0.95,False,skos:broader; skos:narrower,EXCLUDE
+growth promotion,,growth promotion,https://lod.nal.usda.gov/nalt/43988,0.9,False,skos:broader; skos:narrower,EXCLUDE
+H+/K+-exchanging ATPase,"ATP phosphohydrolase (H+/K+-exchanging); EC  3.6.3.10; H+-K+-ATPase; H+/K+-ATPase; H,K-ATPase","H+/K+-exchanging ATPase (ATP phosphohydrolase (H+/K+-exchanging), EC  3.6.3.10, H+-K+-ATPase, H+/K+-ATPase, H,K-ATPase)",https://lod.nal.usda.gov/nalt/237294,0.97,False,skos:broader; skos:narrower,EXCLUDE
+H-transporting ATP synthase,"ATP synthase; ATP synthetase; EC 3.6.1.34; EC 3.6.3.14; F(1)F(0) ATPase; F(1)F(o) ATPase; F0F1-ATPase; F1-ATPase; FoF1-ATPase; H+-ATPase; H+-transporting two-sector ATPase; V-ATPase; V-type ATPase; bacterial Ca2+/Mg2+ ATPase; chloroplast ATPase; chloroplast F(1)F(0) ATPase; chloroplast F(1)F(o) ATPase; coupling factors (F0, F1 and CF1); lysosomal F0F1 ATPase; lysosomal FoF1 ATPase; lysosomal proton-translocating ATPase; mitochondrial ATPase; proton-translocating F-type (FoF1)-ATPases; vacuolar ATPase; vacuolar F0F1 ATPase; vacuolar FoF1 ATPase; vacuolar H+-ATPase; vacuolar membrane H(+)-ATPase; vacuolar proton-pumping ATPase; vacuolar proton-translocating ATPase; vacuolar-type H(+)-ATPase","H-transporting ATP synthase (ATP synthase, ATP synthetase, EC 3.6.1.34, EC 3.6.3.14, F(1)F(0) ATPase, F(1)F(o) ATPase, F0F1-ATPase, F1-ATPase, FoF1-ATPase, H+-ATPase, H+-transporting two-sector ATPase, V-ATPase, V-type ATPase, bacterial Ca2+/Mg2+ ATPase, chloroplast ATPase, chloroplast F(1)F(0) ATPase, chloroplast F(1)F(o) ATPase, coupling factors (F0, F1 and CF1), lysosomal F0F1 ATPase, lysosomal FoF1 ATPase, lysosomal proton-translocating ATPase, mitochondrial ATPase, proton-translocating F-type (FoF1)-ATPases, vacuolar ATPase, vacuolar F0F1 ATPase, vacuolar FoF1 ATPase, vacuolar H+-ATPase, vacuolar membrane H(+)-ATPase, vacuolar proton-pumping ATPase, vacuolar proton-translocating ATPase, vacuolar-type H(+)-ATPase)",https://lod.nal.usda.gov/nalt/13698,0.95,False,skos:broader; skos:narrower,EXCLUDE
+H-transporting ATPase,EC 3.6.3.6,H-transporting ATPase (EC 3.6.3.6),https://lod.nal.usda.gov/nalt/35523,0.96,False,skos:broader; skos:narrower,EXCLUDE
+hormone metabolism,,hormone metabolism,https://lod.nal.usda.gov/nalt/45912,0.97,False,skos:broader; skos:narrower,EXCLUDE
+hypersecretion,,hypersecretion,https://lod.nal.usda.gov/nalt/46596,0.98,False,skos:broader; skos:narrower,EXCLUDE
+ionophores,,ionophores,https://lod.nal.usda.gov/nalt/234,0.99,False,skos:related,EXCLUDE
+loci,,loci,https://lod.nal.usda.gov/nalt/280,0.99,True,skos:broader; skos:narrower,EXCLUDE
+metabolic detoxification,,metabolic detoxification,https://lod.nal.usda.gov/nalt/10484,0.98,False,skos:broader; skos:narrower,EXCLUDE
+metabolic flux analysis,metabolic flux analyses,metabolic flux analysis (metabolic flux analyses),https://lod.nal.usda.gov/nalt/286616,0.97,False,skos:related,EXCLUDE
+metabolic sequestration,,metabolic sequestration,https://lod.nal.usda.gov/nalt/52228,0.97,False,skos:broader; skos:narrower,EXCLUDE
+metabolic studies,,metabolic studies,https://lod.nal.usda.gov/nalt/47904,0.99,False,skos:related,EXCLUDE
+metabolites,anabolites; catabolites,"metabolites (anabolites, catabolites)",https://lod.nal.usda.gov/nalt/8303,0.98,False,skos:related,EXCLUDE
+metabolome,,metabolome,https://lod.nal.usda.gov/nalt/42650,0.98,False,skos:related,EXCLUDE
+metabolomics,metabolic profiling; metabolome analysis; metabonomic study; metabonomics,"metabolomics (metabolic profiling, metabolome analysis, metabonomic study, metabonomics)",https://lod.nal.usda.gov/nalt/17412,0.99,False,skos:related,EXCLUDE
+metacentric chromosomes,,metacentric chromosomes,https://lod.nal.usda.gov/nalt/25875,0.99,True,skos:broader; skos:narrower,EXCLUDE
+milk secretion,,milk secretion,https://lod.nal.usda.gov/nalt/4936,0.96,False,skos:broader; skos:narrower,EXCLUDE
+mineral metabolism,,mineral metabolism,https://lod.nal.usda.gov/nalt/47279,0.98,False,skos:broader; skos:narrower,EXCLUDE
+molecular motor proteins,motility proteins,molecular motor proteins (motility proteins),https://lod.nal.usda.gov/nalt/190002,0.98,False,skos:related,EXCLUDE
+monoploidy,,monoploidy,https://lod.nal.usda.gov/nalt/284412,0.98,True,skos:related,EXCLUDE
+neurosecretion,,neurosecretion,https://lod.nal.usda.gov/nalt/54736,0.97,False,skos:broader; skos:narrower,EXCLUDE
+nitrogen metabolism,,nitrogen metabolism,https://lod.nal.usda.gov/nalt/52233,0.98,False,skos:broader; skos:narrower,EXCLUDE
+nuclear antigens,,nuclear antigens,https://lod.nal.usda.gov/nalt/10364,0.97,False,skos:broader; skos:narrower,EXCLUDE
+nucleoproteins,,nucleoproteins,https://lod.nal.usda.gov/nalt/55381,0.93,False,skos:related,EXCLUDE
+oxidative stress,,oxidative stress,https://lod.nal.usda.gov/nalt/764,0.96,False,skos:related,EXCLUDE
+pentaploidy,,pentaploidy,https://lod.nal.usda.gov/nalt/279339,0.9,True,skos:related,EXCLUDE
+pharmacokinetics,drug absorption; drug biotransformation; drug kinetics; drug metabolism; toxicokinetics,"pharmacokinetics (drug absorption, drug biotransformation, drug kinetics, drug metabolism, toxicokinetics)",https://lod.nal.usda.gov/nalt/34640,0.99,False,skos:broader; skos:narrower,EXCLUDE
+plant development,,plant development,https://lod.nal.usda.gov/nalt/1790,0.96,False,skos:related,EXCLUDE
+plant growth,growth rate (plants),plant growth (growth rate (plants)),https://lod.nal.usda.gov/nalt/20266,0.97,False,skos:related,EXCLUDE
+protamines,,protamines,https://lod.nal.usda.gov/nalt/59899,0.93,False,skos:broader; skos:narrower,EXCLUDE
+protein metabolism,protein catabolism; protein turnover,"protein metabolism (protein catabolism, protein turnover)",https://lod.nal.usda.gov/nalt/7756,0.98,False,skos:broader; skos:narrower,EXCLUDE
+protein secretion,,protein secretion,https://lod.nal.usda.gov/nalt/59935,0.98,False,skos:broader; skos:narrower,EXCLUDE
+proteins,,proteins,https://lod.nal.usda.gov/nalt/876,0.99,False,skos:broader; skos:narrower,EXCLUDE
+pyrophosphatases,EC 3.6.1,pyrophosphatases (EC 3.6.1),https://lod.nal.usda.gov/nalt/2708,0.95,False,skos:broader; skos:narrower,EXCLUDE
+regrowth,,regrowth,https://lod.nal.usda.gov/nalt/43989,0.92,False,skos:broader; skos:narrower,EXCLUDE
+resting periods,torpor,resting periods (torpor),https://lod.nal.usda.gov/nalt/33063,0.94,False,skos:broader; skos:narrower,EXCLUDE
+Robertsonian translocation,,Robertsonian translocation,https://lod.nal.usda.gov/nalt/243987,0.98,True,skos:related,EXCLUDE
+satellite DNA,,satellite DNA,https://lod.nal.usda.gov/nalt/34245,0.97,False,skos:related,EXCLUDE
+seasonal growth,,seasonal growth,https://lod.nal.usda.gov/nalt/43990,0.92,False,skos:broader; skos:narrower,EXCLUDE
+sex chromosomes,,sex chromosomes,https://lod.nal.usda.gov/nalt/25877,0.96,True,skos:broader; skos:narrower,EXCLUDE
+skeletal muscle,,skeletal muscle,https://lod.nal.usda.gov/nalt/35050,0.98,False,skos:related,EXCLUDE
+sodium-potassium-exchanging ATPase,"EC 3.6.1.37; EC 3.6.3.9; Na+, K+ pump; Na+,K+-ATPase; Na+-K+ pump; Na+/K+ ATPase; Na+/K+ pump; Na+/K+-exchanging ATPase; Na,K-activated ATPase; Na/K pump; Na/K-exchanging ATPase; potassium pump; sodium and potassium activated adenosine 5'-triphosphatase; sodium pump; sodium- and potassium-activated adenosine 5'-triphosphatase; sodium- and potassium-activated adenosine 5'-triphosphatases; sodium-and potassium-activated adenosine 5-triphosphatase; sodium-potassium ATPase; sodium-potassium adenosine triphosphatase; sodium-potassium adenosinetriphosphatase; sodium-potassium pump","sodium-potassium-exchanging ATPase (EC 3.6.1.37, EC 3.6.3.9, Na+, K+ pump, Na+,K+-ATPase, Na+-K+ pump, Na+/K+ ATPase, Na+/K+ pump, Na+/K+-exchanging ATPase, Na,K-activated ATPase, Na/K pump, Na/K-exchanging ATPase, potassium pump, sodium and potassium activated adenosine 5'-triphosphatase, sodium pump, sodium- and potassium-activated adenosine 5'-triphosphatase, sodium- and potassium-activated adenosine 5'-triphosphatases, sodium-and potassium-activated adenosine 5-triphosphatase, sodium-potassium ATPase, sodium-potassium adenosine triphosphatase, sodium-potassium adenosinetriphosphatase, sodium-potassium pump)",https://lod.nal.usda.gov/nalt/35525,0.99,False,skos:broader; skos:narrower,EXCLUDE
+specific growth rate,,specific growth rate,https://lod.nal.usda.gov/nalt/199454,0.98,False,skos:broader; skos:narrower,EXCLUDE
+starch granules,starch grains,starch granules (starch grains),https://lod.nal.usda.gov/nalt/8250,0.98,False,skos:related,EXCLUDE
+steroid metabolism,,steroid metabolism,https://lod.nal.usda.gov/nalt/52234,0.97,False,skos:broader; skos:narrower,EXCLUDE
+vimentin,,vimentin,https://lod.nal.usda.gov/nalt/204970,0.95,False,skos:broader; skos:narrower,EXCLUDE
+vitamin metabolism,,vitamin metabolism,https://lod.nal.usda.gov/nalt/52235,0.98,False,skos:broader; skos:narrower,EXCLUDE
+water metabolism,,water metabolism,https://lod.nal.usda.gov/nalt/52236,0.96,False,skos:broader; skos:narrower,EXCLUDE
+yeast artificial chromosomes,YACs (yeast artificial chromosomes),yeast artificial chromosomes (YACs (yeast artificial chromosomes)),https://lod.nal.usda.gov/nalt/25880,0.9,True,skos:broader; skos:narrower,EXCLUDE
+chromosome aberrations,autosomal abnormalities; chromosomal aberrations; chromosomal abnormalities; chromosomal disorders; chromosome abnormalities; chromosome disorders; cytogenetic aberrations; cytogenetic abnormalities,"chromosome aberrations (autosomal abnormalities, chromosomal aberrations, chromosomal abnormalities, chromosomal disorders, chromosome abnormalities, chromosome disorders, cytogenetic aberrations, cytogenetic abnormalities)",https://lod.nal.usda.gov/nalt/25833,0.99,True,skos:broader; skos:narrower,EXCLUDE
+cytogenetic analysis,chromosome analysis,cytogenetic analysis (chromosome analysis),https://lod.nal.usda.gov/nalt/25841,0.96,True,skos:broader; skos:narrower,EXCLUDE
+endocrine system physiology,,endocrine system physiology,https://lod.nal.usda.gov/nalt/9420,0.99,False,skos:broader; skos:narrower,EXCLUDE
+genetic variation,genetic differentiation; genetic divergence; genetic diversity; genetic variability; genotypic diversity,"genetic variation (genetic differentiation, genetic divergence, genetic diversity, genetic variability, genotypic diversity)",https://lod.nal.usda.gov/nalt/10351,0.93,False,skos:related,EXCLUDE
+histone code,histone marks; histone modifications,"histone code (histone marks, histone modifications)",https://lod.nal.usda.gov/nalt/333211,0.98,False,skos:related,EXCLUDE
+hormones,animal hormones,hormones (animal hormones),https://lod.nal.usda.gov/nalt/517,0.99,False,skos:related,EXCLUDE
+importins,importin alpha; importin beta,"importins (importin alpha, importin beta)",https://lod.nal.usda.gov/nalt/196590,0.98,False,skos:broader; skos:narrower,EXCLUDE
+laboratory techniques,laboratory methods; laboratory procedures,"laboratory techniques (laboratory methods, laboratory procedures)",https://lod.nal.usda.gov/nalt/9550,0.99,False,skos:broader; skos:narrower,EXCLUDE
+ligands,,ligands,https://lod.nal.usda.gov/nalt/261978,0.98,False,skos:related,EXCLUDE
+membrane glycoproteins,,membrane glycoproteins,https://lod.nal.usda.gov/nalt/1601,0.98,False,skos:broader; skos:narrower,EXCLUDE
+membrane proteins,gap junction proteins,membrane proteins (gap junction proteins),https://lod.nal.usda.gov/nalt/881,0.96,False,skos:broader; skos:narrower,EXCLUDE
+Mendelian inheritance,Mendelism,Mendelian inheritance (Mendelism),https://lod.nal.usda.gov/nalt/42580,0.98,False,skos:related,EXCLUDE
+minimum inhibitory concentration,MIC (minimum inhibitory concentration); broth microdilution method,"minimum inhibitory concentration (MIC (minimum inhibitory concentration), broth microdilution method)",https://lod.nal.usda.gov/nalt/10185,0.99,False,skos:related,EXCLUDE
+porins,pore proteins,porins (pore proteins),https://lod.nal.usda.gov/nalt/11454,0.98,False,skos:broader; skos:narrower,EXCLUDE
+simple proteins,,simple proteins,https://lod.nal.usda.gov/nalt/6032,0.99,False,skos:broader; skos:narrower,EXCLUDE
+striated muscle,,striated muscle,https://lod.nal.usda.gov/nalt/53776,0.96,False,skos:related,EXCLUDE
+vascular cell adhesion molecules,CD106 antigens; vascular cell adhesion molecule-1,"vascular cell adhesion molecules (CD106 antigens, vascular cell adhesion molecule-1)",https://lod.nal.usda.gov/nalt/312885,0.97,False,skos:broader; skos:narrower,EXCLUDE
+aneuploidy,aneuploids,aneuploidy (aneuploids),https://lod.nal.usda.gov/nalt/8824,0.95,True,skos:broader; skos:narrower,EXCLUDE
+insulin,,insulin,https://lod.nal.usda.gov/nalt/32965,1.0,False,skos:related,EXCLUDE
+metabolic syndrome,metabolic syndrome X; syndrome X (metabolic),"metabolic syndrome (metabolic syndrome X, syndrome X (metabolic))",https://lod.nal.usda.gov/nalt/32966,0.99,False,skos:related,EXCLUDE
+allopolyploidy,alloploids; alloploidy; allopolyploids,"allopolyploidy (alloploids, alloploidy, allopolyploids)",https://lod.nal.usda.gov/nalt/6713,0.95,True,skos:broader; skos:narrower,EXCLUDE
+autopolyploidy,autoploids; autopolyploids,"autopolyploidy (autoploids, autopolyploids)",https://lod.nal.usda.gov/nalt/14038,0.95,True,skos:broader; skos:narrower,EXCLUDE
+autotetraploidy,autotetraploids,autotetraploidy (autotetraploids),https://lod.nal.usda.gov/nalt/295797,0.98,True,skos:broader; skos:narrower,EXCLUDE

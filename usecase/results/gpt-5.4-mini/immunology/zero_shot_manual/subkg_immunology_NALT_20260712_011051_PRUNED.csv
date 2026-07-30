@@ -1,0 +1,276 @@
+prefLabel,altLabels,displayName,uri,confidence,in_hierarchy_gold,relations,classification
+autoimmunity,autoimmune response,autoimmunity (autoimmune response),https://lod.nal.usda.gov/nalt/13995,0.98,True,skos:broader; skos:narrower,EXCLUDE
+biological resistance,biocide resistance,biological resistance (biocide resistance),https://lod.nal.usda.gov/nalt/114,0.99,False,skos:broader; skos:narrower,EXCLUDE
+herd immunity,community immunity,herd immunity (community immunity),https://lod.nal.usda.gov/nalt/263906,0.98,True,skos:broader; skos:narrower,EXCLUDE
+immunoinformatics,computational immunology; immune-based systems; immunocomputing,"immunoinformatics (computational immunology, immune-based systems, immunocomputing)",https://lod.nal.usda.gov/nalt/266183,0.99,True,skos:related,EXCLUDE
+immunologic diseases,immunological diseases,immunologic diseases (immunological diseases),https://lod.nal.usda.gov/nalt/340,0.98,False,skos:related,EXCLUDE
+secondary infection,,secondary infection,https://lod.nal.usda.gov/nalt/266333,0.97,False,skos:related,EXCLUDE
+animal anatomy,human anatomy,animal anatomy (human anatomy),https://lod.nal.usda.gov/nalt/47,0.99,False,skos:broader; skos:narrower,EXCLUDE
+antibody engineering,,antibody engineering,https://lod.nal.usda.gov/nalt/297821,0.94,False,skos:related,EXCLUDE
+bone marrow,,bone marrow,https://lod.nal.usda.gov/nalt/9528,0.91,False,skos:broader; skos:narrower,EXCLUDE
+CRISPR-Cas systems,CRISPR/Cas9 system,CRISPR-Cas systems (CRISPR/Cas9 system),https://lod.nal.usda.gov/nalt/329078,0.98,False,skos:related,EXCLUDE
+hypersensitivity,allergic reaction; allergies; allergy,"hypersensitivity (allergic reaction, allergies, allergy)",https://lod.nal.usda.gov/nalt/6555,0.99,False,skos:related,EXCLUDE
+immune evasion,,immune evasion,https://lod.nal.usda.gov/nalt/31973,0.98,False,skos:related,EXCLUDE
+immunocastration,immuno-castration,immunocastration (immuno-castration),https://lod.nal.usda.gov/nalt/290558,0.97,True,skos:related,EXCLUDE
+immunocompromised population,immunocompromised hosts; immunocompromised individuals,"immunocompromised population (immunocompromised hosts, immunocompromised individuals)",https://lod.nal.usda.gov/nalt/136991,0.96,False,skos:related,EXCLUDE
+insect biology,,insect biology,https://lod.nal.usda.gov/nalt/37357,0.99,False,skos:broader; skos:narrower,EXCLUDE
+skin prick tests,,skin prick tests,https://lod.nal.usda.gov/nalt/311643,0.98,True,skos:related,EXCLUDE
+animal research,,animal research,https://lod.nal.usda.gov/nalt/199785,0.99,False,skos:broader; skos:narrower,EXCLUDE
+animal-friendly affinity reagents,,animal-friendly affinity reagents,https://lod.nal.usda.gov/nalt/84266496,0.96,True,skos:broader; skos:narrower,EXCLUDE
+antibody binding sites,antibody-binding regions; antibody-combining sites; paratopes,"antibody binding sites (antibody-binding regions, antibody-combining sites, paratopes)",https://lod.nal.usda.gov/nalt/261105,0.99,False,skos:related,EXCLUDE
+artificial skin,bioprinted skin; laboratory produced skin; reconstituted skin; skin equivalents; skin substitutes; synthetic skin; tissue-engineered skin,"artificial skin (bioprinted skin, laboratory produced skin, reconstituted skin, skin equivalents, skin substitutes, synthetic skin, tissue-engineered skin)",https://lod.nal.usda.gov/nalt/312748,0.98,False,skos:related,EXCLUDE
+ascites,pulmonary hypertensive syndrome,ascites (pulmonary hypertensive syndrome),https://lod.nal.usda.gov/nalt/733,0.97,True,skos:broader; skos:narrower,EXCLUDE
+autophagosomes,,autophagosomes,https://lod.nal.usda.gov/nalt/336342,0.88,False,skos:related,EXCLUDE
+B-cell lymphoma,diffuse large B-Cell lymphoma; diffuse large-cell lymphoma; histiocytic lymphoma,"B-cell lymphoma (diffuse large B-Cell lymphoma, diffuse large-cell lymphoma, histiocytic lymphoma)",https://lod.nal.usda.gov/nalt/295040,0.98,False,skos:related,EXCLUDE
+biochemical compounds,biological compounds,biochemical compounds (biological compounds),https://lod.nal.usda.gov/nalt/7812,0.99,False,skos:broader; skos:narrower,EXCLUDE
+biochemistry,,biochemistry,https://lod.nal.usda.gov/nalt/17227,0.99,False,skos:related,EXCLUDE
+blood cells,,blood cells,https://lod.nal.usda.gov/nalt/18061,0.9,False,skos:broader; skos:narrower,EXCLUDE
+blood serum,serum,blood serum (serum),https://lod.nal.usda.gov/nalt/18139,0.82,False,skos:related,EXCLUDE
+cells,,cells,https://lod.nal.usda.gov/nalt/2895,0.92,False,skos:broader; skos:narrower,EXCLUDE
+circulatory system,,circulatory system,https://lod.nal.usda.gov/nalt/8968,0.98,False,skos:broader; skos:narrower,EXCLUDE
+drugs,medicines (drugs); pharmaceutical compounds; pharmaceutical products; pharmaceuticals,"drugs (medicines (drugs), pharmaceutical compounds, pharmaceutical products, pharmaceuticals)",https://lod.nal.usda.gov/nalt/286,0.99,False,skos:broader; skos:narrower,EXCLUDE
+endocytosis,pinocytosis,endocytosis (pinocytosis),https://lod.nal.usda.gov/nalt/23424,0.94,False,skos:broader; skos:narrower,EXCLUDE
+excretory-secretory products,excretory secretory products; excretory-secretory proteins,"excretory-secretory products (excretory secretory products, excretory-secretory proteins)",https://lod.nal.usda.gov/nalt/9369,0.88,False,skos:related,EXCLUDE
+exoerythrocytic stage,exoerythrocyte stage,exoerythrocytic stage (exoerythrocyte stage),https://lod.nal.usda.gov/nalt/200593,0.98,False,skos:related,EXCLUDE
+foam cells,,foam cells,https://lod.nal.usda.gov/nalt/40759,0.93,False,skos:broader; skos:narrower,EXCLUDE
+food allergies,food anaphylaxis; food hypersensitivity,"food allergies (food anaphylaxis, food hypersensitivity)",https://lod.nal.usda.gov/nalt/6560,0.97,False,skos:related,EXCLUDE
+gap junctions,,gap junctions,https://lod.nal.usda.gov/nalt/28576,0.97,False,skos:related,EXCLUDE
+genetics,,genetics,https://lod.nal.usda.gov/nalt/9222,0.99,False,skos:broader; skos:narrower,EXCLUDE
+graft compatibility,graft incompatibility; graft rejection (plants); rootstock scion compatibility; rootstock scion incompatibility; rootstock-scion compatibility; rootstock-scion incompatibility,"graft compatibility (graft incompatibility, graft rejection (plants), rootstock scion compatibility, rootstock scion incompatibility, rootstock-scion compatibility, rootstock-scion incompatibility)",https://lod.nal.usda.gov/nalt/28321,0.96,False,skos:related,EXCLUDE
+granulocytes,,granulocytes,https://lod.nal.usda.gov/nalt/16036,0.88,False,skos:broader; skos:narrower,EXCLUDE
+granuloma,,granuloma,https://lod.nal.usda.gov/nalt/748,0.9,False,skos:related,EXCLUDE
+histiocytes,,histiocytes,https://lod.nal.usda.gov/nalt/45636,0.93,False,skos:broader; skos:narrower,EXCLUDE
+immunologic deficiency syndromes,,immunologic deficiency syndromes,https://lod.nal.usda.gov/nalt/39752,0.98,False,skos:related,EXCLUDE
+immunosuppressive agents,immunosuppressants,immunosuppressive agents (immunosuppressants),https://lod.nal.usda.gov/nalt/20596,0.95,True,skos:broader; skos:narrower,EXCLUDE
+immunotherapy,,immunotherapy,https://lod.nal.usda.gov/nalt/10543,0.93,False,skos:related,EXCLUDE
+intercellular adhesion molecule-1,CD54 antigens; ICAM-1 (intercellular adhesion molecule-1),"intercellular adhesion molecule-1 (CD54 antigens, ICAM-1 (intercellular adhesion molecule-1))",https://lod.nal.usda.gov/nalt/293119,0.99,False,skos:related,EXCLUDE
+intercellular junctions,cell junctions,intercellular junctions (cell junctions),https://lod.nal.usda.gov/nalt/23362,0.99,False,skos:broader; skos:narrower,EXCLUDE
+Kupffer cells,,Kupffer cells,https://lod.nal.usda.gov/nalt/48601,0.88,False,skos:broader; skos:narrower,EXCLUDE
+leukocyte count,WBC count; WBC count (white blood cell count); WBC number; WBC number (white blood cell number); differential leucocyte count; differential leukocyte count; leucocyte count; leucocyte number; leukocyte number; white blood cell count; white blood cell number,"leukocyte count (WBC count, WBC count (white blood cell count), WBC number, WBC number (white blood cell number), differential leucocyte count, differential leukocyte count, leucocyte count, leucocyte number, leukocyte number, white blood cell count, white blood cell number)",https://lod.nal.usda.gov/nalt/18079,0.9,False,skos:related,EXCLUDE
+leukopenia,leukocytopenia,leukopenia (leukocytopenia),https://lod.nal.usda.gov/nalt/39763,0.98,False,skos:related,EXCLUDE
+lymph,,lymph,https://lod.nal.usda.gov/nalt/18343,0.9,False,skos:broader; skos:narrower,EXCLUDE
+lymph nodes,lymphnodes,lymph nodes (lymphnodes),https://lod.nal.usda.gov/nalt/50915,0.96,False,skos:broader; skos:narrower,EXCLUDE
+lymphatic diseases,lymphadenopathy; lymphatic system diseases; lymphoproliferative disorders,"lymphatic diseases (lymphadenopathy, lymphatic system diseases, lymphoproliferative disorders)",https://lod.nal.usda.gov/nalt/342,0.97,False,skos:related,EXCLUDE
+monocytes,,monocytes,https://lod.nal.usda.gov/nalt/49956,0.8,False,skos:broader; skos:narrower,EXCLUDE
+mononuclear leukocytes,PBMC (peripheral blood mononuclear cells); peripheral blood mononuclear cells; peripheral blood mononuclear leukocytes,"mononuclear leukocytes (PBMC (peripheral blood mononuclear cells), peripheral blood mononuclear cells, peripheral blood mononuclear leukocytes)",https://lod.nal.usda.gov/nalt/146660,0.86,False,skos:broader; skos:narrower,EXCLUDE
+peptidoglycans,murein,peptidoglycans (murein),https://lod.nal.usda.gov/nalt/206107,0.95,False,skos:related,EXCLUDE
+receptors,,receptors,https://lod.nal.usda.gov/nalt/4370,0.99,False,skos:related,EXCLUDE
+serotypes,serogroups; serovars,"serotypes (serogroups, serovars)",https://lod.nal.usda.gov/nalt/10353,0.98,False,skos:related,EXCLUDE
+surgical transplantation,surgical transplant; transplant surgery,"surgical transplantation (surgical transplant, transplant surgery)",https://lod.nal.usda.gov/nalt/6683,0.99,False,skos:related,EXCLUDE
+T-cell lymphoma,,T-cell lymphoma,https://lod.nal.usda.gov/nalt/295041,0.97,False,skos:related,EXCLUDE
+vaccination,inoculation (vaccination),vaccination (inoculation (vaccination)),https://lod.nal.usda.gov/nalt/9239,0.99,False,skos:related,EXCLUDE
+vaccines,,vaccines,https://lod.nal.usda.gov/nalt/16112,0.99,False,skos:related,EXCLUDE
+allergenicity,,allergenicity,https://lod.nal.usda.gov/nalt/6553,0.82,False,skos:related,EXCLUDE
+animal organs,viscera,animal organs (viscera),https://lod.nal.usda.gov/nalt/8966,0.99,False,skos:broader; skos:narrower,EXCLUDE
+animal tissues,,animal tissues,https://lod.nal.usda.gov/nalt/8967,0.99,False,skos:broader; skos:narrower,EXCLUDE
+antibiotic resistance genes,resistome,antibiotic resistance genes (resistome),https://lod.nal.usda.gov/nalt/310008,0.96,False,skos:related,EXCLUDE
+arrestins,,arrestins,https://lod.nal.usda.gov/nalt/12336,0.94,False,skos:related,EXCLUDE
+autoimmune diseases,,autoimmune diseases,https://lod.nal.usda.gov/nalt/13994,0.97,False,skos:related,EXCLUDE
+bacteriology,,bacteriology,https://lod.nal.usda.gov/nalt/15096,0.95,False,skos:related,EXCLUDE
+biochemical mechanisms,,biochemical mechanisms,https://lod.nal.usda.gov/nalt/17274,0.98,False,skos:broader; skos:narrower,EXCLUDE
+blood banks,blood banking,blood banks (blood banking),https://lod.nal.usda.gov/nalt/291434,0.9,False,skos:related,EXCLUDE
+blood proteins,blood total proteins; plasma proteins; serum proteins; serum total proteins,"blood proteins (blood total proteins, plasma proteins, serum proteins, serum total proteins)",https://lod.nal.usda.gov/nalt/3963,0.88,False,skos:broader; skos:narrower,EXCLUDE
+cancer vaccines,neoplasm vaccines; tumor vaccines; tumour vaccines,"cancer vaccines (neoplasm vaccines, tumor vaccines, tumour vaccines)",https://lod.nal.usda.gov/nalt/316946,0.98,False,skos:related,EXCLUDE
+CD4 lymphocyte count,CD4 cell count; CD4-positive cell count,"CD4 lymphocyte count (CD4 cell count, CD4-positive cell count)",https://lod.nal.usda.gov/nalt/323735,0.95,False,skos:related,EXCLUDE
+cell lines,,cell lines,https://lod.nal.usda.gov/nalt/23379,0.99,False,skos:broader; skos:narrower,EXCLUDE
+cell respiration,cellular respiration; fruit respiration; plant respiration; respiration (cells); respiration (fruits); respiration (plants); respiration (postharvest),"cell respiration (cellular respiration, fruit respiration, plant respiration, respiration (cells), respiration (fruits), respiration (plants), respiration (postharvest))",https://lod.nal.usda.gov/nalt/23423,0.99,False,skos:broader; skos:narrower,EXCLUDE
+disease control,disease management; disease suppression; infection control; pathogen suppression,"disease control (disease management, disease suppression, infection control, pathogen suppression)",https://lod.nal.usda.gov/nalt/290,0.97,False,skos:related,EXCLUDE
+disease diagnosis,diagnostic value,disease diagnosis (diagnostic value),https://lod.nal.usda.gov/nalt/32788,0.95,False,skos:broader; skos:narrower,EXCLUDE
+disease prevalence,,disease prevalence,https://lod.nal.usda.gov/nalt/34041,0.99,False,skos:related,EXCLUDE
+disease surveillance,disease monitoring,disease surveillance (disease monitoring),https://lod.nal.usda.gov/nalt/17543,0.98,False,skos:related,EXCLUDE
+disease susceptibility,diathesis; susceptible to disease; susceptible to illness; susceptible to infection,"disease susceptibility (diathesis, susceptible to disease, susceptible to illness, susceptible to infection)",https://lod.nal.usda.gov/nalt/78062,0.97,False,skos:related,EXCLUDE
+DNA microarrays,DNA chips; DNA microarray technology; cDNA arrays; cDNA microarrays; gene chips; oligonucleotide arrays; oligonucleotide microarrays,"DNA microarrays (DNA chips, DNA microarray technology, cDNA arrays, cDNA microarrays, gene chips, oligonucleotide arrays, oligonucleotide microarrays)",https://lod.nal.usda.gov/nalt/229478,0.96,False,skos:related,EXCLUDE
+elicitors,,elicitors,https://lod.nal.usda.gov/nalt/210530,0.93,False,skos:related,EXCLUDE
+endocrine glands,,endocrine glands,https://lod.nal.usda.gov/nalt/4351,0.99,False,skos:broader; skos:narrower,EXCLUDE
+epidemiological studies,epidemiologic studies; epidemiologic survey; epidemiological surveys,"epidemiological studies (epidemiologic studies, epidemiologic survey, epidemiological surveys)",https://lod.nal.usda.gov/nalt/37565,0.99,False,skos:broader; skos:narrower,EXCLUDE
+epidemiology,epizootiology,epidemiology (epizootiology),https://lod.nal.usda.gov/nalt/149,0.99,False,skos:broader; skos:narrower,EXCLUDE
+fish allergies,fish hypersensitivity,fish allergies (fish hypersensitivity),https://lod.nal.usda.gov/nalt/296877,0.97,False,skos:related,EXCLUDE
+gene-for-gene relationship,,gene-for-gene relationship,https://lod.nal.usda.gov/nalt/34051,0.99,False,skos:related,EXCLUDE
+genes,cistron,genes (cistron),https://lod.nal.usda.gov/nalt/6539,0.98,False,skos:broader; skos:narrower,EXCLUDE
+genetic variation,genetic differentiation; genetic divergence; genetic diversity; genetic variability; genotypic diversity,"genetic variation (genetic differentiation, genetic divergence, genetic diversity, genetic variability, genotypic diversity)",https://lod.nal.usda.gov/nalt/10351,0.98,False,skos:broader; skos:narrower,EXCLUDE
+globulins,,globulins,https://lod.nal.usda.gov/nalt/42271,0.97,False,skos:broader; skos:narrower,EXCLUDE
+guaiac,,guaiac,https://lod.nal.usda.gov/nalt/302394,0.99,False,skos:related,EXCLUDE
+hemocyanin,haemocyanin,hemocyanin (haemocyanin),https://lod.nal.usda.gov/nalt/247658,0.95,False,skos:broader; skos:narrower,EXCLUDE
+hemolymph,haemolymph,hemolymph (haemolymph),https://lod.nal.usda.gov/nalt/26359,0.96,False,skos:related,EXCLUDE
+hemolysins,haemolysins; hemalysins; hemolysin proteins,"hemolysins (haemolysins, hemalysins, hemolysin proteins)",https://lod.nal.usda.gov/nalt/45100,0.97,True,skos:broader; skos:narrower,EXCLUDE
+lipid transfer proteins,glycolipid exchange proteins; glycolipid transfer proteins; lipid exchange proteins; phospholipid transfer proteins,"lipid transfer proteins (glycolipid exchange proteins, glycolipid transfer proteins, lipid exchange proteins, phospholipid transfer proteins)",https://lod.nal.usda.gov/nalt/281496,0.83,False,skos:related,EXCLUDE
+lipids,fats,lipids (fats),https://lod.nal.usda.gov/nalt/3990,0.99,False,skos:broader; skos:narrower,EXCLUDE
+lipopolysaccharide receptors,CD14 antigens; lipoglycan receptors,"lipopolysaccharide receptors (CD14 antigens, lipoglycan receptors)",https://lod.nal.usda.gov/nalt/317540,0.98,False,skos:related,EXCLUDE
+lymphocyte count,lymphocyte number; lymphocyte numbers; total lymphocyte count,"lymphocyte count (lymphocyte number, lymphocyte numbers, total lymphocyte count)",https://lod.nal.usda.gov/nalt/23192,0.92,False,skos:related,EXCLUDE
+mark release recapture,,mark release recapture,https://lod.nal.usda.gov/nalt/306976,0.99,True,skos:broader; skos:narrower,EXCLUDE
+Megathura crenulata,giant keyhole limpet,Megathura crenulata (giant keyhole limpet),https://lod.nal.usda.gov/nalt/276313,0.97,False,skos:related,EXCLUDE
+membrane glycoproteins,,membrane glycoproteins,https://lod.nal.usda.gov/nalt/1601,0.88,False,skos:related,EXCLUDE
+methodology,creative methods; methods; new methodology; new methods; new techniques; novel methods; techniques,"methodology (creative methods, methods, new methodology, new methods, new techniques, novel methods, techniques)",https://lod.nal.usda.gov/nalt/5079,0.99,False,skos:broader; skos:narrower,EXCLUDE
+molluscs,mollusks,molluscs (mollusks),https://lod.nal.usda.gov/nalt/639,0.98,False,skos:related,EXCLUDE
+myasthenia gravis,,myasthenia gravis,https://lod.nal.usda.gov/nalt/301163,0.96,False,skos:related,EXCLUDE
+nanoparticles,Janus nanoparticles; Janus particles; nano-scale particles; nano-sized particles; nanoscale particles,"nanoparticles (Janus nanoparticles, Janus particles, nano-scale particles, nano-sized particles, nanoscale particles)",https://lod.nal.usda.gov/nalt/137895,0.94,False,skos:related,EXCLUDE
+nanotechnology,nanoengineering; nanofabrication technique; nanoscale engineering; nanoscale science; nanoscale technology; nanoscience,"nanotechnology (nanoengineering, nanofabrication technique, nanoscale engineering, nanoscale science, nanoscale technology, nanoscience)",https://lod.nal.usda.gov/nalt/54320,0.98,False,skos:related,EXCLUDE
+nasopharynx,nasopharynges; rhinopharynx,"nasopharynx (nasopharynges, rhinopharynx)",https://lod.nal.usda.gov/nalt/54355,0.99,False,skos:related,EXCLUDE
+neoplasms,cancer (disease); cancers; neoplasia; tumors; tumours,"neoplasms (cancer (disease), cancers, neoplasia, tumors, tumours)",https://lod.nal.usda.gov/nalt/702,0.99,False,skos:related,EXCLUDE
+nuclear proteins,,nuclear proteins,https://lod.nal.usda.gov/nalt/196599,0.95,False,skos:broader; skos:narrower,EXCLUDE
+oropharynx,,oropharynx,https://lod.nal.usda.gov/nalt/234524,0.99,False,skos:related,EXCLUDE
+palate,hard palate; roof of the mouth; soft palate,"palate (hard palate, roof of the mouth, soft palate)",https://lod.nal.usda.gov/nalt/26789,0.98,False,skos:related,EXCLUDE
+pharyngitis,sore throat,pharyngitis (sore throat),https://lod.nal.usda.gov/nalt/229296,0.97,False,skos:related,EXCLUDE
+pharynx,pharynges,pharynx (pharynges),https://lod.nal.usda.gov/nalt/33561,0.93,False,skos:related,EXCLUDE
+plant disease resistance,,plant disease resistance,https://lod.nal.usda.gov/nalt/142532,0.99,False,skos:broader; skos:narrower,EXCLUDE
+plant-incorporated protectants,PIPs (plant incorporated protectants); plant incorporated protectants,"plant-incorporated protectants (PIPs (plant incorporated protectants), plant incorporated protectants)",https://lod.nal.usda.gov/nalt/68395,0.98,False,skos:related,EXCLUDE
+polysaccharides,glycans,polysaccharides (glycans),https://lod.nal.usda.gov/nalt/6365,0.92,False,skos:broader; skos:narrower,EXCLUDE
+prevalence,point prevalence; prevalence ratio,"prevalence (point prevalence, prevalence ratio)",https://lod.nal.usda.gov/nalt/34043,0.99,False,skos:related,EXCLUDE
+proliferating cell nuclear antigen,PCNA (proliferating cell nuclear antigen),proliferating cell nuclear antigen (PCNA (proliferating cell nuclear antigen)),https://lod.nal.usda.gov/nalt/23384,0.97,True,skos:broader; skos:narrower,EXCLUDE
+protein microarrays,protein array analysis; protein array assay; protein arrays; protein biochips; protein chips; protein microarray analysis; protein microchips; protein profiling arrays; protein profiling chips,"protein microarrays (protein array analysis, protein array assay, protein arrays, protein biochips, protein chips, protein microarray analysis, protein microchips, protein profiling arrays, protein profiling chips)",https://lod.nal.usda.gov/nalt/323575,0.96,False,skos:broader; skos:narrower,EXCLUDE
+ring tests,,ring tests,https://lod.nal.usda.gov/nalt/47007,0.9,True,skos:broader; skos:narrower,EXCLUDE
+sweetbreads,,sweetbreads,https://lod.nal.usda.gov/nalt/56065,0.94,False,skos:related,EXCLUDE
+trypanotolerance,,trypanotolerance,https://lod.nal.usda.gov/nalt/34050,0.96,False,skos:broader; skos:narrower,EXCLUDE
+varietal resistance,varietal susceptibility,varietal resistance (varietal susceptibility),https://lod.nal.usda.gov/nalt/42647,0.98,False,skos:related,EXCLUDE
+viruses,,viruses,https://lod.nal.usda.gov/nalt/1138,0.99,False,skos:related,EXCLUDE
+acute dermal exposure,,acute dermal exposure,https://lod.nal.usda.gov/nalt/136634,0.98,False,skos:related,EXCLUDE
+acute dermal toxicity,,acute dermal toxicity,https://lod.nal.usda.gov/nalt/68509,0.98,False,skos:related,EXCLUDE
+adenylate cyclase,"3',5'-cyclic AMP synthetase; ATP diphosphate-lyase (cyclizing); EC 4.6.1.1; adenyl cyclase; adenylyl cyclase; adenylylcyclase","adenylate cyclase (3',5'-cyclic AMP synthetase, ATP diphosphate-lyase (cyclizing), EC 4.6.1.1, adenyl cyclase, adenylyl cyclase, adenylylcyclase)",https://lod.nal.usda.gov/nalt/4180,0.99,False,skos:related,EXCLUDE
+animal tests,,animal tests,https://lod.nal.usda.gov/nalt/68527,0.97,False,skos:broader; skos:narrower,EXCLUDE
+antidotes,,antidotes,https://lod.nal.usda.gov/nalt/10293,0.97,False,skos:broader; skos:narrower,EXCLUDE
+assays,,assays,https://lod.nal.usda.gov/nalt/13160,0.93,False,skos:broader; skos:narrower,EXCLUDE
+bacterial outer membranes,,bacterial outer membranes,https://lod.nal.usda.gov/nalt/336289,0.98,False,skos:related,EXCLUDE
+bacterial toxins,,bacterial toxins,https://lod.nal.usda.gov/nalt/15201,0.93,False,skos:broader; skos:narrower,EXCLUDE
+biocathodes,microbial biocathodes; microbial cathodes,"biocathodes (microbial biocathodes, microbial cathodes)",https://lod.nal.usda.gov/nalt/293071,0.96,False,skos:related,EXCLUDE
+blood,,blood,https://lod.nal.usda.gov/nalt/18059,0.95,False,skos:related,EXCLUDE
+bodily secretions and exudates,,bodily secretions and exudates,https://lod.nal.usda.gov/nalt/48,0.95,False,skos:broader; skos:narrower,EXCLUDE
+CCR1 receptor,C-C CKR1 receptor; C-C chemokine receptor type 1; CD191 antigen; LD78 cytokine receptor; RANTES receptor; chemokine (C-C motif) receptor 1; macrophage inflammatory protein 1alpha receptor,"CCR1 receptor (C-C CKR1 receptor, C-C chemokine receptor type 1, CD191 antigen, LD78 cytokine receptor, RANTES receptor, chemokine (C-C motif) receptor 1, macrophage inflammatory protein 1alpha receptor)",https://lod.nal.usda.gov/nalt/243409,0.99,False,skos:related,EXCLUDE
+CCR3 receptor,C-C chemokine receptor type 3; CC chemokine receptor 3; CC-CKR3 receptor; CD193 antigen; chemokine (C-C motif) receptor 3; cysteine-cysteine chemokine receptor-3,"CCR3 receptor (C-C chemokine receptor type 3, CC chemokine receptor 3, CC-CKR3 receptor, CD193 antigen, chemokine (C-C motif) receptor 3, cysteine-cysteine chemokine receptor-3)",https://lod.nal.usda.gov/nalt/243435,0.99,False,skos:related,EXCLUDE
+CCR5 receptor,C-C chemokine receptor type 5; CC chemokine receptor 5; CC-CKR5 receptor; CD195 antigen; CKR5 receptor; chemokine (C-C motif) receptor 5,"CCR5 receptor (C-C chemokine receptor type 5, CC chemokine receptor 5, CC-CKR5 receptor, CD195 antigen, CKR5 receptor, chemokine (C-C motif) receptor 5)",https://lod.nal.usda.gov/nalt/243453,0.99,False,skos:related,EXCLUDE
+cell membranes,cytoplasmic membranes,cell membranes (cytoplasmic membranes),https://lod.nal.usda.gov/nalt/9529,0.96,False,skos:related,EXCLUDE
+chronic dermal exposure,,chronic dermal exposure,https://lod.nal.usda.gov/nalt/136637,0.97,False,skos:related,EXCLUDE
+cow colostrum,bovine colostrum,cow colostrum (bovine colostrum),https://lod.nal.usda.gov/nalt/18937,0.96,False,skos:broader; skos:narrower,EXCLUDE
+dermal exposure,skin exposure,dermal exposure (skin exposure),https://lod.nal.usda.gov/nalt/740,0.95,False,skos:related,EXCLUDE
+dermal toxicity,skin toxicity,dermal toxicity (skin toxicity),https://lod.nal.usda.gov/nalt/77695,0.97,False,skos:related,EXCLUDE
+diabetes mellitus,,diabetes mellitus,https://lod.nal.usda.gov/nalt/6735,0.99,False,skos:related,EXCLUDE
+edema,oedema,edema (oedema),https://lod.nal.usda.gov/nalt/920,0.98,False,skos:related,EXCLUDE
+electronic chips,electronic chip; electronic-chip; electronic-chips,"electronic chips (electronic chip, electronic-chip, electronic-chips)",https://lod.nal.usda.gov/nalt/229479,0.99,False,skos:related,EXCLUDE
+electronic nose,artificial nose; e-nose; optoelectronic nose,"electronic nose (artificial nose, e-nose, optoelectronic nose)",https://lod.nal.usda.gov/nalt/36227,0.96,False,skos:related,EXCLUDE
+electronic tongue,artificial tongue; magnetic tongue; voltammetric tongue,"electronic tongue (artificial tongue, magnetic tongue, voltammetric tongue)",https://lod.nal.usda.gov/nalt/198343,0.96,False,skos:related,EXCLUDE
+food intolerance,,food intolerance,https://lod.nal.usda.gov/nalt/33400,0.97,False,skos:related,EXCLUDE
+food safety,food control; food protection; food safety control,"food safety (food control, food protection, food safety control)",https://lod.nal.usda.gov/nalt/10482,0.98,False,skos:related,EXCLUDE
+food science,,food science,https://lod.nal.usda.gov/nalt/40829,0.99,False,skos:broader; skos:narrower,EXCLUDE
+food toxins,,food toxins,https://lod.nal.usda.gov/nalt/332261,0.98,False,skos:related,EXCLUDE
+fructose 5-dehydrogenase,D-fructose:acceptor 5-oxidoreductase; EC 1.1.99.11,"fructose 5-dehydrogenase (D-fructose:acceptor 5-oxidoreductase, EC 1.1.99.11)",https://lod.nal.usda.gov/nalt/303743,0.9,False,skos:related,EXCLUDE
+hematology,haematology,hematology (haematology),https://lod.nal.usda.gov/nalt/17474,0.96,False,skos:related,EXCLUDE
+Hepatitis B virus,HBV (Hepatitis B virus),Hepatitis B virus (HBV (Hepatitis B virus)),https://lod.nal.usda.gov/nalt/45135,0.95,False,skos:related,EXCLUDE
+Hepatitis C virus,HCV (Hepatitis C virus),Hepatitis C virus (HCV (Hepatitis C virus)),https://lod.nal.usda.gov/nalt/45122,0.95,False,skos:related,EXCLUDE
+Hepatovirus A,HAV (Hepatitis A virus); HHAV (Human hepatitis A virus); Hepatitis A virus; Human hepatitis A virus; SHAV (Simian hepatitis A virus); Simian hepatitis A virus,"Hepatovirus A (HAV (Hepatitis A virus), HHAV (Human hepatitis A virus), Hepatitis A virus, Human hepatitis A virus, SHAV (Simian hepatitis A virus), Simian hepatitis A virus)",https://lod.nal.usda.gov/nalt/40960,0.99,False,skos:related,EXCLUDE
+histochemistry,histoenzymology,histochemistry (histoenzymology),https://lod.nal.usda.gov/nalt/45640,0.98,False,skos:broader; skos:narrower,EXCLUDE
+hormones,animal hormones,hormones (animal hormones),https://lod.nal.usda.gov/nalt/517,0.98,False,skos:broader; skos:narrower,EXCLUDE
+immune complex diseases,Type III hypersensitivity,immune complex diseases (Type III hypersensitivity),https://lod.nal.usda.gov/nalt/10345,0.95,False,skos:related,EXCLUDE
+islets of Langerhans,alpha cells (pancreatic); beta cells (pancreatic); delta cells (pancreatic); islet cells; pancreas islets; pancreatic B cells; pancreatic D cells; pancreatic alpha cells; pancreatic beta cells; pancreatic delta cells; pancreatic islets; pancreatic polypeptide cells,"islets of Langerhans (alpha cells (pancreatic), beta cells (pancreatic), delta cells (pancreatic), islet cells, pancreas islets, pancreatic B cells, pancreatic D cells, pancreatic alpha cells, pancreatic beta cells, pancreatic delta cells, pancreatic islets, pancreatic polypeptide cells)",https://lod.nal.usda.gov/nalt/6863,0.96,False,skos:related,EXCLUDE
+kallikreins,,kallikreins,https://lod.nal.usda.gov/nalt/35497,0.92,False,skos:broader; skos:narrower,EXCLUDE
+lectins,,lectins,https://lod.nal.usda.gov/nalt/5140,0.9,False,skos:related,EXCLUDE
+magnetic separation,,magnetic separation,https://lod.nal.usda.gov/nalt/47011,0.99,False,skos:broader; skos:narrower,EXCLUDE
+microfilament proteins,actin binding proteins; actin-binding proteins,"microfilament proteins (actin binding proteins, actin-binding proteins)",https://lod.nal.usda.gov/nalt/200164,0.97,False,skos:broader; skos:narrower,EXCLUDE
+muscle protein,,muscle protein,https://lod.nal.usda.gov/nalt/18357,0.99,False,skos:broader; skos:narrower,EXCLUDE
+pancreatic diseases,diseases of the pancreas; pancreas disorders; pancreatic disorders,"pancreatic diseases (diseases of the pancreas, pancreas disorders, pancreatic disorders)",https://lod.nal.usda.gov/nalt/31335,0.98,False,skos:broader; skos:narrower,EXCLUDE
+peptides,,peptides,https://lod.nal.usda.gov/nalt/7813,0.99,False,skos:broader; skos:narrower,EXCLUDE
+phenotype,phenotyping,phenotype (phenotyping),https://lod.nal.usda.gov/nalt/6003,0.97,False,skos:broader; skos:narrower,EXCLUDE
+plant proteins,,plant proteins,https://lod.nal.usda.gov/nalt/889,0.99,False,skos:broader; skos:narrower,EXCLUDE
+pollen,pollen grains,pollen (pollen grains),https://lod.nal.usda.gov/nalt/8701,0.94,False,skos:related,EXCLUDE
+pollen germination,,pollen germination,https://lod.nal.usda.gov/nalt/42879,0.95,False,skos:related,EXCLUDE
+protein subunits,catalytic subunits; enzyme subunits; protein oligomers; protomers,"protein subunits (catalytic subunits, enzyme subunits, protein oligomers, protomers)",https://lod.nal.usda.gov/nalt/37498,0.98,False,skos:related,EXCLUDE
+proteins,,proteins,https://lod.nal.usda.gov/nalt/876,0.97,False,skos:broader; skos:narrower,EXCLUDE
+reporter genes,,reporter genes,https://lod.nal.usda.gov/nalt/42605,0.96,False,skos:related,EXCLUDE
+sensors (equipment),,sensors (equipment),https://lod.nal.usda.gov/nalt/17521,0.99,False,skos:broader; skos:narrower,EXCLUDE
+taxis (physiology),,taxis (physiology),https://lod.nal.usda.gov/nalt/24726,0.95,False,skos:broader; skos:narrower,EXCLUDE
+thymus hormone receptors,thymosin receptors,thymus hormone receptors (thymosin receptors),https://lod.nal.usda.gov/nalt/223582,0.98,False,skos:related,EXCLUDE
+toxins,biotoxins,toxins (biotoxins),https://lod.nal.usda.gov/nalt/10551,0.93,False,skos:related,EXCLUDE
+tuberculosis,,tuberculosis,https://lod.nal.usda.gov/nalt/14191,0.99,False,skos:related,EXCLUDE
+US Food Allergen Labeling and Consumer Protection Act,FALCPA (Food Allergen Labeling and Consumer Protection Act); Food Allergen Labeling and Consumer Protection Act; Food Allergen Labeling and Consumer Protection Act of 2004; Food Allergy Labeling and Consumer Protection Act,"US Food Allergen Labeling and Consumer Protection Act (FALCPA (Food Allergen Labeling and Consumer Protection Act), Food Allergen Labeling and Consumer Protection Act, Food Allergen Labeling and Consumer Protection Act of 2004, Food Allergy Labeling and Consumer Protection Act)",https://lod.nal.usda.gov/nalt/331936,0.99,False,skos:related,EXCLUDE
+vascular cell adhesion molecules,CD106 antigens; vascular cell adhesion molecule-1,"vascular cell adhesion molecules (CD106 antigens, vascular cell adhesion molecule-1)",https://lod.nal.usda.gov/nalt/312885,0.93,False,skos:related,EXCLUDE
+Western blotting,Western blot,Western blotting (Western blot),https://lod.nal.usda.gov/nalt/18198,0.98,True,skos:broader; skos:narrower,EXCLUDE
+abscess,,abscess,https://lod.nal.usda.gov/nalt/1814,0.98,False,skos:broader; skos:narrower,EXCLUDE
+adipocytes,fat cells; lipocytes,"adipocytes (fat cells, lipocytes)",https://lod.nal.usda.gov/nalt/4218,0.96,False,skos:related,EXCLUDE
+adipokine receptors,,adipokine receptors,https://lod.nal.usda.gov/nalt/223475,0.99,False,skos:related,EXCLUDE
+air pouch model,air pouch model of inflammation; murine air pouch model; subcutaneous air pouch model,"air pouch model (air pouch model of inflammation, murine air pouch model, subcutaneous air pouch model)",https://lod.nal.usda.gov/nalt/315299,0.93,False,skos:related,EXCLUDE
+analytical methods,analytical techniques,analytical methods (analytical techniques),https://lod.nal.usda.gov/nalt/8468,0.95,False,skos:broader; skos:narrower,EXCLUDE
+animal use reduction,animal testing reduction,animal use reduction (animal testing reduction),https://lod.nal.usda.gov/nalt/9551,0.97,False,skos:related,EXCLUDE
+animal use refinement,animal testing refinement,animal use refinement (animal testing refinement),https://lod.nal.usda.gov/nalt/8445,0.97,False,skos:related,EXCLUDE
+anti-inflammatory agents,anti-inflammatory drugs; antiinflammatory agents,"anti-inflammatory agents (anti-inflammatory drugs, antiinflammatory agents)",https://lod.nal.usda.gov/nalt/10149,0.96,False,skos:related,EXCLUDE
+antinutritional factors,antinutritive factors,antinutritional factors (antinutritive factors),https://lod.nal.usda.gov/nalt/10475,0.94,False,skos:related,EXCLUDE
+atypical chemokine receptor 3,ACKR3 (atypical chemokine receptor 3); C-X-C chemokine receptor type 7; CMKOR1 (chemokine orphan receptor 1); CXC chemokine receptor 7; CXCR7 receptor; GPR159 (G-protein coupled receptor 159); GPRN1 (G-protein coupled receptor N1); RDC1 (G-protein coupled receptor RDC1); chemokine (C-X-C motif) receptor 7; chemokine (C-X-C) receptor 7,"atypical chemokine receptor 3 (ACKR3 (atypical chemokine receptor 3), C-X-C chemokine receptor type 7, CMKOR1 (chemokine orphan receptor 1), CXC chemokine receptor 7, CXCR7 receptor, GPR159 (G-protein coupled receptor 159), GPRN1 (G-protein coupled receptor N1), RDC1 (G-protein coupled receptor RDC1), chemokine (C-X-C motif) receptor 7, chemokine (C-X-C) receptor 7)",https://lod.nal.usda.gov/nalt/243644,1.0,False,skos:related,EXCLUDE
+bovine mastitis,,bovine mastitis,https://lod.nal.usda.gov/nalt/18973,0.98,False,skos:related,EXCLUDE
+breast feeding,breastfeeding; nursing (breast feeding),"breast feeding (breastfeeding, nursing (breast feeding))",https://lod.nal.usda.gov/nalt/19669,0.97,False,skos:related,EXCLUDE
+breast milk,human milk,breast milk (human milk),https://lod.nal.usda.gov/nalt/19671,0.92,False,skos:related,EXCLUDE
+bronchiolitis,constrictive bronchiolitis; proliferative bronchiolitis,"bronchiolitis (constrictive bronchiolitis, proliferative bronchiolitis)",https://lod.nal.usda.gov/nalt/266344,0.98,False,skos:related,EXCLUDE
+bronchitis,,bronchitis,https://lod.nal.usda.gov/nalt/20024,0.96,False,skos:related,EXCLUDE
+CCR10 receptor,C-C chemokine receptor type 10; CC chemokine receptor 10; GPR2 (G-protein coupled receptor-2); chemokine (C-C motif) receptor 10; chemokine (C-C) receptor 10,"CCR10 receptor (C-C chemokine receptor type 10, CC chemokine receptor 10, GPR2 (G-protein coupled receptor-2), chemokine (C-C motif) receptor 10, chemokine (C-C) receptor 10)",https://lod.nal.usda.gov/nalt/243525,1.0,False,skos:related,EXCLUDE
+CCR4 receptor,C-C chemokine receptor type 4; CC chemokine receptor 4; CC-CKR4 receptor; CD194 antigen; chemokine (C-C motif) receptor 4,"CCR4 receptor (C-C chemokine receptor type 4, CC chemokine receptor 4, CC-CKR4 receptor, CD194 antigen, chemokine (C-C motif) receptor 4)",https://lod.nal.usda.gov/nalt/243444,1.0,False,skos:related,EXCLUDE
+CCR6 receptor,"C-C chemokine receptor type 6; CC chemokine receptor 6; CC-CKR6 receptor; CD196 antigen; CKR6 receptor; GPR-CY4 receptor; GPR39 (G-protein coupled receptor-29); STRL22 (seven-transmembrane receptor, lymphocyte, 22); chemokine (C-C motif) receptor 6; chemokine receptor DCR2; chemokine receptor DRY6","CCR6 receptor (C-C chemokine receptor type 6, CC chemokine receptor 6, CC-CKR6 receptor, CD196 antigen, CKR6 receptor, GPR-CY4 receptor, GPR39 (G-protein coupled receptor-29), STRL22 (seven-transmembrane receptor, lymphocyte, 22), chemokine (C-C motif) receptor 6, chemokine receptor DCR2, chemokine receptor DRY6)",https://lod.nal.usda.gov/nalt/243463,0.98,False,skos:related,EXCLUDE
+CCR7 receptor,C-C chemokine receptor type 7; CC chemokine receptor 7; CC-CKR7 receptor; CD197 antigen; CKR7 receptor; Epstein-Barr virus induced G-protein coupled receptor-1; MIP-3 beta receptor; chemokine (C-C motif) receptor 7; chemokine receptor BLR-2; chemokine receptor EBI-1; lymphocyte-specific G-protein coupled peptide receptor,"CCR7 receptor (C-C chemokine receptor type 7, CC chemokine receptor 7, CC-CKR7 receptor, CD197 antigen, CKR7 receptor, Epstein-Barr virus induced G-protein coupled receptor-1, MIP-3 beta receptor, chemokine (C-C motif) receptor 7, chemokine receptor BLR-2, chemokine receptor EBI-1, lymphocyte-specific G-protein coupled peptide receptor)",https://lod.nal.usda.gov/nalt/243478,0.98,False,skos:related,EXCLUDE
+CCR8 receptor,C-C chemokine receptor type 8; CC chemokine receptor 8; CC-CKR8 receptor; CDw198 antigen; CKR8 receptor; GPR-CY6 (G-protein coupled receptor-CY6); chemokine (C-C motif) receptor 8; chemokine (C-C) receptor 8; chemokine receptor CKRL1; chemokine receptor CLR-L1; chemokine receptor TER1,"CCR8 receptor (C-C chemokine receptor type 8, CC chemokine receptor 8, CC-CKR8 receptor, CDw198 antigen, CKR8 receptor, GPR-CY6 (G-protein coupled receptor-CY6), chemokine (C-C motif) receptor 8, chemokine (C-C) receptor 8, chemokine receptor CKRL1, chemokine receptor CLR-L1, chemokine receptor TER1)",https://lod.nal.usda.gov/nalt/243493,0.98,False,skos:related,EXCLUDE
+CCR9 receptor,C-C chemokine receptor type 9; CC chemokine receptor 9; CC-CKR-9 receptor; CCR9a receptor; CCR9b receptor; CDw199 antigen; CKR-9 receptor; GPR-9-6 (G-protein coupled receptor 9-6); GPR28 (G-protein coupled receptor 28); chemokine (C-C motif) receptor 9; chemokine (C-C) receptor 9,"CCR9 receptor (C-C chemokine receptor type 9, CC chemokine receptor 9, CC-CKR-9 receptor, CCR9a receptor, CCR9b receptor, CDw199 antigen, CKR-9 receptor, GPR-9-6 (G-protein coupled receptor 9-6), GPR28 (G-protein coupled receptor 28), chemokine (C-C motif) receptor 9, chemokine (C-C) receptor 9)",https://lod.nal.usda.gov/nalt/243508,0.98,False,skos:related,EXCLUDE
+CD18 antigen,beta2 integrin; beta2-integrin; integrin beta2,"CD18 antigen (beta2 integrin, beta2-integrin, integrin beta2)",https://lod.nal.usda.gov/nalt/211284,0.99,True,skos:broader; skos:narrower,EXCLUDE
+CD29 antigen,CDw29 antigen; beta1 integrin; integrin beta1,"CD29 antigen (CDw29 antigen, beta1 integrin, integrin beta1)",https://lod.nal.usda.gov/nalt/211289,0.99,True,skos:broader; skos:narrower,EXCLUDE
+cell differentiation,,cell differentiation,https://lod.nal.usda.gov/nalt/3939,0.98,False,skos:related,EXCLUDE
+cell proliferation,cellular proliferation; tissue proliferation,"cell proliferation (cellular proliferation, tissue proliferation)",https://lod.nal.usda.gov/nalt/23357,0.99,False,skos:related,EXCLUDE
+cell viability,cell survival; cellular viability,"cell viability (cell survival, cellular viability)",https://lod.nal.usda.gov/nalt/206983,0.99,False,skos:related,EXCLUDE
+cellulitis,,cellulitis,https://lod.nal.usda.gov/nalt/23496,0.99,False,skos:broader; skos:narrower,EXCLUDE
+CXCR1 receptor,C-X-C chemokine receptor type 1; CC-CKR1 receptor; CD181 antigen; CDw128a antigen; CXC chemokine receptor 1; IL-8a receptor; MDNCF receptor; NAP-1 receptor; chemokine (C-X-C motif) receptor 1; chemokine (C-X-C) receptor 1; interleukin 8 receptor alpha; interleukin 8a receptor; interleukin-8a receptor,"CXCR1 receptor (C-X-C chemokine receptor type 1, CC-CKR1 receptor, CD181 antigen, CDw128a antigen, CXC chemokine receptor 1, IL-8a receptor, MDNCF receptor, NAP-1 receptor, chemokine (C-X-C motif) receptor 1, chemokine (C-X-C) receptor 1, interleukin 8 receptor alpha, interleukin 8a receptor, interleukin-8a receptor)",https://lod.nal.usda.gov/nalt/243533,1.0,False,skos:related,EXCLUDE
+CXCR2 receptor,C-X-C chemokine receptor type 2; CD182 antigen; CDw128b antigen; CXC chemokine receptor 2; chemokine (C-X-C motif) receptor 2; chemokine (C-X-C) receptor 2; interleukin-8 receptor b; interleukin-8 receptor beta; interleukin-8 receptor type b; interleukin-8b receptor,"CXCR2 receptor (C-X-C chemokine receptor type 2, CD182 antigen, CDw128b antigen, CXC chemokine receptor 2, chemokine (C-X-C motif) receptor 2, chemokine (C-X-C) receptor 2, interleukin-8 receptor b, interleukin-8 receptor beta, interleukin-8 receptor type b, interleukin-8b receptor)",https://lod.nal.usda.gov/nalt/243552,1.0,False,skos:related,EXCLUDE
+CXCR3 receptor,C-X-C chemokine receptor type 3; CD183 antigen; CKR-L2; CMKAR3; CXC chemokine receptor 3; CXCR3-A; CXCR3-B; GPR9 (G-protein coupled receptor 9); I-TAC receptor; IP-10 receptor; MIG-R (Mig receptor); chemokine (C-X-C motif) receptor 3; chemokine (C-X-C) receptor 3; interferon-inducible protein 10 receptor,"CXCR3 receptor (C-X-C chemokine receptor type 3, CD183 antigen, CKR-L2, CMKAR3, CXC chemokine receptor 3, CXCR3-A, CXCR3-B, GPR9 (G-protein coupled receptor 9), I-TAC receptor, IP-10 receptor, MIG-R (Mig receptor), chemokine (C-X-C motif) receptor 3, chemokine (C-X-C) receptor 3, interferon-inducible protein 10 receptor)",https://lod.nal.usda.gov/nalt/243568,1.0,False,skos:related,EXCLUDE
+CXCR4 receptor,"C-X-C chemokine receptor type 4; CD184 antigen; CXC chemokine receptor 4; LAP-3 protein; LESTR (leukocyte-derived seven transmembrane domain receptor); LESTR receptor; LPS-associated protein 3; PSSF receptor (pre-B cell growth-stimulating factor receptor); SDF-1 (stromal cell-derived factor 1 receptor); SDF-1 receptor; SDF1-PBSF receptor; chemokine (C-X-C motif) receptor 4; chemokine (C-X-C) receptor 4; fusin; lipopolysaccharide-associated protein 3; neuropeptide Y receptor Y3; seven-transmembrane-segment receptor, spleen","CXCR4 receptor (C-X-C chemokine receptor type 4, CD184 antigen, CXC chemokine receptor 4, LAP-3 protein, LESTR (leukocyte-derived seven transmembrane domain receptor), LESTR receptor, LPS-associated protein 3, PSSF receptor (pre-B cell growth-stimulating factor receptor), SDF-1 (stromal cell-derived factor 1 receptor), SDF-1 receptor, SDF1-PBSF receptor, chemokine (C-X-C motif) receptor 4, chemokine (C-X-C) receptor 4, fusin, lipopolysaccharide-associated protein 3, neuropeptide Y receptor Y3, seven-transmembrane-segment receptor, spleen)",https://lod.nal.usda.gov/nalt/243588,1.0,False,skos:related,EXCLUDE
+CXCR5 receptor,BLR-1 receptor; Burkitt lymphoma receptor 1; C-X-C chemokine receptor type 5; CD185 antigen; CXC chemokine receptor 5; MDR15 receptor; chemokine (C-X-C motif) receptor 5; chemokine (C-X-C) receptor 5,"CXCR5 receptor (BLR-1 receptor, Burkitt lymphoma receptor 1, C-X-C chemokine receptor type 5, CD185 antigen, CXC chemokine receptor 5, MDR15 receptor, chemokine (C-X-C motif) receptor 5, chemokine (C-X-C) receptor 5)",https://lod.nal.usda.gov/nalt/243614,0.98,False,skos:related,EXCLUDE
+CXCR6 receptor,C-X-C chemokine receptor type 6; CD186 antigen; CDw186 antigen; CXC chemokine receptor 6; G-Protein coupled receptor bonzo; G-protein coupled receptor STRL33; STRL33 receptor; bonzo receptor; chemokine (C-X-C motif) receptor 6; chemokine (C-X-C) receptor 6,"CXCR6 receptor (C-X-C chemokine receptor type 6, CD186 antigen, CDw186 antigen, CXC chemokine receptor 6, G-Protein coupled receptor bonzo, G-protein coupled receptor STRL33, STRL33 receptor, bonzo receptor, chemokine (C-X-C motif) receptor 6, chemokine (C-X-C) receptor 6)",https://lod.nal.usda.gov/nalt/243626,0.98,False,skos:related,EXCLUDE
+dyes,coloring agents; colouring agents; stains (dyes),"dyes (coloring agents, colouring agents, stains (dyes))",https://lod.nal.usda.gov/nalt/223,0.99,False,skos:broader; skos:narrower,EXCLUDE
+embryo implantation,blastocyst implantation; nidation,"embryo implantation (blastocyst implantation, nidation)",https://lod.nal.usda.gov/nalt/17933,0.97,False,skos:related,EXCLUDE
+endothelial cells,,endothelial cells,https://lod.nal.usda.gov/nalt/23459,0.95,False,skos:related,EXCLUDE
+erythropoietin,,erythropoietin,https://lod.nal.usda.gov/nalt/28017,0.97,True,skos:broader; skos:narrower,EXCLUDE
+fluorescence,,fluorescence,https://lod.nal.usda.gov/nalt/40702,0.99,False,skos:related,EXCLUDE
+fluorescent dyes,fluorochromes; fluorophores,"fluorescent dyes (fluorochromes, fluorophores)",https://lod.nal.usda.gov/nalt/3057,0.98,False,skos:related,EXCLUDE
+fluorescent proteins,,fluorescent proteins,https://lod.nal.usda.gov/nalt/238046,0.96,False,skos:related,EXCLUDE
+glycoproteins,,glycoproteins,https://lod.nal.usda.gov/nalt/12715,0.93,False,skos:related,EXCLUDE
+labeling techniques,dye labeling; labelling techniques,"labeling techniques (dye labeling, labelling techniques)",https://lod.nal.usda.gov/nalt/34969,0.99,False,skos:broader; skos:narrower,EXCLUDE
+lymphocyte function-associated antigen-1,LFA-1 (lymphocyte function-associated antigen-1); integrin alphaLbeta2; leukocyte function associated antigen-1,"lymphocyte function-associated antigen-1 (LFA-1 (lymphocyte function-associated antigen-1), integrin alphaLbeta2, leukocyte function associated antigen-1)",https://lod.nal.usda.gov/nalt/211305,0.97,True,skos:broader; skos:narrower,EXCLUDE
+nasopharyngitis,,nasopharyngitis,https://lod.nal.usda.gov/nalt/229298,0.99,False,skos:related,EXCLUDE
+nucleotide aptamers,DNA aptamers; DNA oligonucleotide ligands; RNA aptamers; RNA oligonucleotide ligands,"nucleotide aptamers (DNA aptamers, DNA oligonucleotide ligands, RNA aptamers, RNA oligonucleotide ligands)",https://lod.nal.usda.gov/nalt/293157,0.96,False,skos:related,EXCLUDE
+otitis,ear infections,otitis (ear infections),https://lod.nal.usda.gov/nalt/241511,0.99,False,skos:related,EXCLUDE
+pathological processes and conditions,,pathological processes and conditions,https://lod.nal.usda.gov/nalt/319,1.0,False,skos:broader; skos:narrower,EXCLUDE
+peptide hormones,polypeptide hormones,peptide hormones (polypeptide hormones),https://lod.nal.usda.gov/nalt/4226,0.98,False,skos:broader; skos:narrower,EXCLUDE
+periodontitis,pericementitis,periodontitis (pericementitis),https://lod.nal.usda.gov/nalt/244088,0.99,False,skos:related,EXCLUDE
+phosphatidylglycerols,,phosphatidylglycerols,https://lod.nal.usda.gov/nalt/57884,0.98,False,skos:broader; skos:narrower,EXCLUDE
+photosensitivity,,photosensitivity,https://lod.nal.usda.gov/nalt/240795,0.99,False,skos:related,EXCLUDE
+pleiotropy,,pleiotropy,https://lod.nal.usda.gov/nalt/53239,0.99,False,skos:related,EXCLUDE
+pleuropneumonia,pleural pneumonia,pleuropneumonia (pleural pneumonia),https://lod.nal.usda.gov/nalt/89119,0.99,False,skos:related,EXCLUDE
+pododermatitis,bumble foot; ulcerative pododermatitis,"pododermatitis (bumble foot, ulcerative pododermatitis)",https://lod.nal.usda.gov/nalt/89166,0.99,False,skos:related,EXCLUDE
+protein binding,,protein binding,https://lod.nal.usda.gov/nalt/17200,0.98,False,skos:related,EXCLUDE
+transcription factors,sequence-specific DNA-binding factors; transcription regulators; transcription termination factors; transcriptional factors; transcriptional regulators,"transcription factors (sequence-specific DNA-binding factors, transcription regulators, transcription termination factors, transcriptional factors, transcriptional regulators)",https://lod.nal.usda.gov/nalt/34250,0.98,False,skos:broader; skos:narrower,EXCLUDE
+yellow fluorescent protein,,yellow fluorescent protein,https://lod.nal.usda.gov/nalt/230707,0.99,False,skos:related,EXCLUDE
+adhesion,adhesiveness,adhesion (adhesiveness),https://lod.nal.usda.gov/nalt/4199,0.94,False,skos:related,EXCLUDE
+adhesion inhibition assay,bacterial adhesion inhibition assay; cell adhesion inhibition assay,"adhesion inhibition assay (bacterial adhesion inhibition assay, cell adhesion inhibition assay)",https://lod.nal.usda.gov/nalt/295058,0.98,False,skos:related,EXCLUDE
+adiponectin receptors,,adiponectin receptors,https://lod.nal.usda.gov/nalt/223477,0.96,False,skos:related,EXCLUDE
+bacterial adhesion,bacterial adherence,bacterial adhesion (bacterial adherence),https://lod.nal.usda.gov/nalt/4195,0.99,False,skos:broader; skos:narrower,EXCLUDE
+beta catenin,,beta catenin,https://lod.nal.usda.gov/nalt/295011,0.97,False,skos:related,EXCLUDE
+bioadhesion,bio-adhesiveness; bioadhesiveness,"bioadhesion (bio-adhesiveness, bioadhesiveness)",https://lod.nal.usda.gov/nalt/316508,0.98,False,skos:related,EXCLUDE
+cadherins,protocadherins,cadherins (protocadherins),https://lod.nal.usda.gov/nalt/20827,0.93,False,skos:broader; skos:narrower,EXCLUDE
+CCR2 receptor,C-C chemokine receptor type 2; CC chemokine receptor-2; CD192 antigen; chemokine (C-C motif) receptor 2; monocyte chemotactic protein 1 receptor,"CCR2 receptor (C-C chemokine receptor type 2, CC chemokine receptor-2, CD192 antigen, chemokine (C-C motif) receptor 2, monocyte chemotactic protein 1 receptor)",https://lod.nal.usda.gov/nalt/243410,0.99,False,skos:related,EXCLUDE
+cell biology,cellular biology; cytology,"cell biology (cellular biology, cytology)",https://lod.nal.usda.gov/nalt/17472,0.99,False,skos:broader; skos:narrower,EXCLUDE
+cell-matrix junctions,,cell-matrix junctions,https://lod.nal.usda.gov/nalt/294131,0.96,False,skos:related,EXCLUDE
+epithelial cell adhesion molecule,CD326 antigen; CD326 protein,"epithelial cell adhesion molecule (CD326 antigen, CD326 protein)",https://lod.nal.usda.gov/nalt/293063,0.95,False,skos:broader; skos:narrower,EXCLUDE
+focal adhesions,cell-matrix adherens junctions; focal contacts,"focal adhesions (cell-matrix adherens junctions, focal contacts)",https://lod.nal.usda.gov/nalt/294139,0.97,False,skos:related,EXCLUDE
+growth factors,,growth factors,https://lod.nal.usda.gov/nalt/3937,0.98,False,skos:broader; skos:narrower,EXCLUDE
+honokiol,,honokiol,https://lod.nal.usda.gov/nalt/254967,0.9,False,skos:related,EXCLUDE
+leptin receptors,leptin-binding proteins,leptin receptors (leptin-binding proteins),https://lod.nal.usda.gov/nalt/223480,0.98,False,skos:related,EXCLUDE
+leptin replacement therapy,,leptin replacement therapy,https://lod.nal.usda.gov/nalt/235919,0.99,False,skos:related,EXCLUDE
+ligands,,ligands,https://lod.nal.usda.gov/nalt/261978,0.97,False,skos:related,EXCLUDE
+medicinal properties,therapeutic properties,medicinal properties (therapeutic properties),https://lod.nal.usda.gov/nalt/8450,0.98,False,skos:broader; skos:narrower,EXCLUDE
+resistin receptors,,resistin receptors,https://lod.nal.usda.gov/nalt/223485,0.99,False,skos:related,EXCLUDE
+rhoptry,rhoptry organelle,rhoptry (rhoptry organelle),https://lod.nal.usda.gov/nalt/263926,0.98,False,skos:related,EXCLUDE
+stem cell factor,Kit ligand,stem cell factor (Kit ligand),https://lod.nal.usda.gov/nalt/45058,0.93,False,skos:broader; skos:narrower,EXCLUDE
+autophagy,autophagic cell death; autophagic programmed cell death; autophagocytosis; type 2 programmed cell death,"autophagy (autophagic cell death, autophagic programmed cell death, autophagocytosis, type 2 programmed cell death)",https://lod.nal.usda.gov/nalt/206099,0.95,False,skos:related,EXCLUDE
+cell cycle checkpoints,cell cycle arrest,cell cycle checkpoints (cell cycle arrest),https://lod.nal.usda.gov/nalt/232248,0.93,False,skos:related,EXCLUDE
+cell senescence,cellular senescence,cell senescence (cellular senescence),https://lod.nal.usda.gov/nalt/264819,0.92,False,skos:related,EXCLUDE
+cysteine proteinases,EC 3.4.22; cysteine endopeptidases; cysteine proteases; thiol proteases; thiol proteinases; vacuolar processing enzymes,"cysteine proteinases (EC 3.4.22, cysteine endopeptidases, cysteine proteases, thiol proteases, thiol proteinases, vacuolar processing enzymes)",https://lod.nal.usda.gov/nalt/19947,0.96,False,skos:broader; skos:narrower,EXCLUDE
+death domain receptors,death receptors,death domain receptors (death receptors),https://lod.nal.usda.gov/nalt/264095,0.97,False,skos:related,EXCLUDE
+DNA fragmentation,,DNA fragmentation,https://lod.nal.usda.gov/nalt/11246,0.9,False,skos:related,EXCLUDE
+endoplasmic reticulum stress,,endoplasmic reticulum stress,https://lod.nal.usda.gov/nalt/298985,0.91,False,skos:related,EXCLUDE
+hypersensitive response,hypersensitive reaction; hypersensitivity (plants); plant hypersensitivity,"hypersensitive response (hypersensitive reaction, hypersensitivity (plants), plant hypersensitivity)",https://lod.nal.usda.gov/nalt/11247,0.98,False,skos:related,EXCLUDE
+lipotoxicity,,lipotoxicity,https://lod.nal.usda.gov/nalt/261791,0.94,False,skos:related,EXCLUDE
+multiprotein complexes,macromolecular protein complexes,multiprotein complexes (macromolecular protein complexes),https://lod.nal.usda.gov/nalt/146585,0.97,False,skos:broader; skos:narrower,EXCLUDE
+neoplasm cells,cancer cells; circulating cancer cells; circulating neoplastic cells; circulating tumor cells; circulating tumour cells; neoplasma cells; neoplastic cells; tumor cells; tumour cells,"neoplasm cells (cancer cells, circulating cancer cells, circulating neoplastic cells, circulating tumor cells, circulating tumour cells, neoplasma cells, neoplastic cells, tumor cells, tumour cells)",https://lod.nal.usda.gov/nalt/246543,0.98,False,skos:related,EXCLUDE
+pro-apoptotic proteins,anti-apoptotic proteins; apoptosis inducing proteins,"pro-apoptotic proteins (anti-apoptotic proteins, apoptosis inducing proteins)",https://lod.nal.usda.gov/nalt/261849,0.93,False,skos:related,EXCLUDE
+programmed cell death,,programmed cell death,https://lod.nal.usda.gov/nalt/89615,0.96,False,skos:broader; skos:narrower,EXCLUDE
+tumor suppressor protein p53,TRP53 protein; oncoprotein p53; p53 antigen,"tumor suppressor protein p53 (TRP53 protein, oncoprotein p53, p53 antigen)",https://lod.nal.usda.gov/nalt/261837,0.9,False,skos:related,EXCLUDE

@@ -1,0 +1,126 @@
+{
+  "seed_uris": [
+    "https://lod.nal.usda.gov/nalt/2996"
+  ],
+  "gold_root_uri": "https://lod.nal.usda.gov/nalt/17475",
+  "llm_provider": "openai",
+  "llm_model": "gpt-5.4-mini",
+  "run_config": {
+    "benchmark_name": "immunology",
+    "gold_root_label": "Immunology",
+    "seed_labels": [
+      "immunity"
+    ],
+    "max_iterations": 20,
+    "batch_size": 20,
+    "llm_max_workers": 5,
+    "prompt_file": "usecase\\prompts\\gpt-5.4-mini\\immunology.md",
+    "exclude_examples_files": [
+      "usecase\\prompts\\examples\\immunology_label_meta_examples.json"
+    ],
+    "result_mode": "zero_shot_meta"
+  },
+  "metrics": {
+    "true_positive": 207,
+    "false_positive": 146,
+    "false_negative": 32,
+    "precision": 0.5864022662889519,
+    "recall": 0.8661087866108786,
+    "f1": 0.6993243243243242,
+    "excluded_evaluation_count": 18,
+    "gold_positive_count": 239,
+    "raw_gold_positive_count": 248,
+    "unreachable_gold_positive_count": 0,
+    "included_count": 353,
+    "raw_included_count": 366,
+    "pruned_count": 303,
+    "visited_count": 656,
+    "iterations": 9,
+    "true_negative": 282,
+    "accuracy": 0.7331334332833583,
+    "evaluation_total": 667,
+    "reachable_gold_positive_count": 248,
+    "raw_pruned_count": 308,
+    "raw_visited_count": 674
+  },
+  "unreachable_gold_uris": [],
+  "exclude_evaluation_uris": [
+    "https://lod.nal.usda.gov/nalt/10220",
+    "https://lod.nal.usda.gov/nalt/10232",
+    "https://lod.nal.usda.gov/nalt/10342",
+    "https://lod.nal.usda.gov/nalt/11242",
+    "https://lod.nal.usda.gov/nalt/123140",
+    "https://lod.nal.usda.gov/nalt/13160",
+    "https://lod.nal.usda.gov/nalt/136654",
+    "https://lod.nal.usda.gov/nalt/13995",
+    "https://lod.nal.usda.gov/nalt/16112",
+    "https://lod.nal.usda.gov/nalt/18082",
+    "https://lod.nal.usda.gov/nalt/243407",
+    "https://lod.nal.usda.gov/nalt/28015",
+    "https://lod.nal.usda.gov/nalt/28344",
+    "https://lod.nal.usda.gov/nalt/46986",
+    "https://lod.nal.usda.gov/nalt/5134",
+    "https://lod.nal.usda.gov/nalt/6555",
+    "https://lod.nal.usda.gov/nalt/8973",
+    "https://lod.nal.usda.gov/nalt/92012"
+  ],
+  "iterations": [
+    {
+      "iteration": 1,
+      "evaluated": 20,
+      "included": 16,
+      "pruned": 4
+    },
+    {
+      "iteration": 2,
+      "evaluated": 47,
+      "included": 36,
+      "pruned": 11
+    },
+    {
+      "iteration": 3,
+      "evaluated": 130,
+      "included": 90,
+      "pruned": 40
+    },
+    {
+      "iteration": 4,
+      "evaluated": 126,
+      "included": 65,
+      "pruned": 61
+    },
+    {
+      "iteration": 5,
+      "evaluated": 204,
+      "included": 76,
+      "pruned": 128
+    },
+    {
+      "iteration": 6,
+      "evaluated": 91,
+      "included": 50,
+      "pruned": 41
+    },
+    {
+      "iteration": 7,
+      "evaluated": 38,
+      "included": 31,
+      "pruned": 7
+    },
+    {
+      "iteration": 8,
+      "evaluated": 15,
+      "included": 1,
+      "pruned": 14
+    },
+    {
+      "iteration": 9,
+      "evaluated": 2,
+      "included": 0,
+      "pruned": 2
+    }
+  ],
+  "evaluation_rescore": {
+    "method": "offline from retained traversal artifacts"
+  }
+}

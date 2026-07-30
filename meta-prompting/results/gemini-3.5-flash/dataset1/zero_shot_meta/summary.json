@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-07-16T11:02:45Z",
+  "dataset": 1,
+  "strategy": "zero_shot_meta",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash",
+  "context_level": "path_simple",
+  "row_count": 5050,
+  "parse_error_count": 0,
+  "parse_errors": {},
+  "metrics": {
+    "bfs_gated": {
+      "total": 5050,
+      "unmatched": 0,
+      "tp": 1118,
+      "fp": 348,
+      "fn": 616,
+      "tn": 2968,
+      "precision": 0.762619372442019,
+      "recall": 0.6447520184544406,
+      "f1": 0.6987500000000001,
+      "accuracy": 0.8091089108910892
+    },
+    "bfs_gated_kgprune_runtime_rows": {
+      "total": 4400,
+      "unmatched": 0,
+      "tp": 1050,
+      "fp": 305,
+      "fn": 551,
+      "tn": 2494,
+      "precision": 0.7749077490774908,
+      "recall": 0.655840099937539,
+      "f1": 0.7104194857916103,
+      "accuracy": 0.8054545454545454
+    }
+  },
+  "baseline_subset": {
+    "available": true,
+    "error": null
+  },
+  "outputs": {
+    "bfs_csv": "meta-prompting/results/gemini-3.5-flash/dataset1/zero_shot_meta/bfs_gated_predictions.csv"
+  },
+  "prediction_count": 5050
+}

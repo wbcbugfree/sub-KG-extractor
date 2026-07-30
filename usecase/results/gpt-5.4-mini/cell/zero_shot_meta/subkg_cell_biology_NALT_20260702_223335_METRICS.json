@@ -1,0 +1,136 @@
+{
+  "seed_uris": [
+    "https://lod.nal.usda.gov/nalt/2895"
+  ],
+  "gold_root_uri": "https://lod.nal.usda.gov/nalt/17472",
+  "llm_provider": "openai",
+  "llm_model": "gpt-5.4-mini",
+  "run_config": {
+    "benchmark_name": "cell_biology",
+    "gold_root_label": "Cell biology",
+    "seed_labels": [
+      "cells"
+    ],
+    "max_iterations": 20,
+    "batch_size": 20,
+    "llm_max_workers": 5,
+    "prompt_file": "usecase\\prompts\\gpt-5.4-mini\\cell_biology.md",
+    "exclude_examples_files": [
+      "usecase\\prompts\\examples\\cell_biology_label_meta_examples.json"
+    ],
+    "result_mode": "zero_shot_meta"
+  },
+  "metrics": {
+    "true_positive": 275,
+    "false_positive": 86,
+    "false_negative": 140,
+    "precision": 0.7617728531855956,
+    "recall": 0.6626506024096386,
+    "f1": 0.7087628865979381,
+    "excluded_evaluation_count": 11,
+    "gold_positive_count": 415,
+    "raw_gold_positive_count": 424,
+    "unreachable_gold_positive_count": 3,
+    "included_count": 361,
+    "raw_included_count": 366,
+    "pruned_count": 542,
+    "visited_count": 903,
+    "iterations": 11,
+    "true_negative": 477,
+    "accuracy": 0.7689161554192229,
+    "evaluation_total": 978,
+    "reachable_gold_positive_count": 421,
+    "raw_pruned_count": 548,
+    "raw_visited_count": 914
+  },
+  "unreachable_gold_uris": [
+    "https://lod.nal.usda.gov/nalt/23360",
+    "https://lod.nal.usda.gov/nalt/23363",
+    "https://lod.nal.usda.gov/nalt/5146"
+  ],
+  "exclude_evaluation_uris": [
+    "https://lod.nal.usda.gov/nalt/15097",
+    "https://lod.nal.usda.gov/nalt/15200",
+    "https://lod.nal.usda.gov/nalt/1560",
+    "https://lod.nal.usda.gov/nalt/23373",
+    "https://lod.nal.usda.gov/nalt/23380",
+    "https://lod.nal.usda.gov/nalt/23416",
+    "https://lod.nal.usda.gov/nalt/23437",
+    "https://lod.nal.usda.gov/nalt/2350",
+    "https://lod.nal.usda.gov/nalt/42261",
+    "https://lod.nal.usda.gov/nalt/72",
+    "https://lod.nal.usda.gov/nalt/881",
+    "https://lod.nal.usda.gov/nalt/8825"
+  ],
+  "iterations": [
+    {
+      "iteration": 1,
+      "evaluated": 49,
+      "included": 47,
+      "pruned": 2
+    },
+    {
+      "iteration": 2,
+      "evaluated": 112,
+      "included": 47,
+      "pruned": 65
+    },
+    {
+      "iteration": 3,
+      "evaluated": 189,
+      "included": 73,
+      "pruned": 116
+    },
+    {
+      "iteration": 4,
+      "evaluated": 140,
+      "included": 61,
+      "pruned": 79
+    },
+    {
+      "iteration": 5,
+      "evaluated": 163,
+      "included": 63,
+      "pruned": 100
+    },
+    {
+      "iteration": 6,
+      "evaluated": 109,
+      "included": 32,
+      "pruned": 77
+    },
+    {
+      "iteration": 7,
+      "evaluated": 109,
+      "included": 23,
+      "pruned": 86
+    },
+    {
+      "iteration": 8,
+      "evaluated": 25,
+      "included": 8,
+      "pruned": 17
+    },
+    {
+      "iteration": 9,
+      "evaluated": 8,
+      "included": 5,
+      "pruned": 3
+    },
+    {
+      "iteration": 10,
+      "evaluated": 8,
+      "included": 6,
+      "pruned": 2
+    },
+    {
+      "iteration": 11,
+      "evaluated": 1,
+      "included": 0,
+      "pruned": 1
+    }
+  ],
+  "evaluation_rescore": {
+    "method": "offline from retained traversal artifacts"
+  }
+}

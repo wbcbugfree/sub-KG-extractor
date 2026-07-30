@@ -1,0 +1,121 @@
+{
+  "benchmark_name": "cell_biology",
+  "context_level": "labels",
+  "seed_labels": ["cells"],
+  "notes": "Cell Biology ablation: eight contrastive pairs (16 labeled nodes), extending the canonical 12-node pack with synthetic-analogue and intervention boundaries.",
+  "examples": [
+    {
+      "id": "cell_include_01",
+      "seed_label": "cells",
+      "candidate_label": "prokaryotic cells",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_01",
+      "seed_label": "cells",
+      "candidate_label": "bacteria",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    },
+    {
+      "id": "cell_include_02",
+      "seed_label": "cells",
+      "candidate_label": "cultured cells",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_02",
+      "seed_label": "cells",
+      "candidate_label": "cell culture",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    },
+    {
+      "id": "cell_include_03",
+      "seed_label": "cells",
+      "candidate_label": "cytoplasm",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_03",
+      "seed_label": "cells",
+      "candidate_label": "membrane proteins",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    },
+    {
+      "id": "cell_include_04",
+      "seed_label": "cells",
+      "candidate_label": "cytogenetics",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_04",
+      "seed_label": "cells",
+      "candidate_label": "DNA",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    },
+    {
+      "id": "cell_include_05",
+      "seed_label": "cells",
+      "candidate_label": "cell nucleus",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_05",
+      "seed_label": "cells",
+      "candidate_label": "gametogenesis",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    },
+    {
+      "id": "cell_include_06",
+      "seed_label": "cells",
+      "candidate_label": "spores",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_06",
+      "seed_label": "cells",
+      "candidate_label": "Cyanobacteria",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    },
+    {
+      "id": "cell_include_07",
+      "seed_label": "cells",
+      "candidate_label": "stem cells",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_07",
+      "seed_label": "cells",
+      "candidate_label": "artificial cells",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    },
+    {
+      "id": "cell_include_08",
+      "seed_label": "cells",
+      "candidate_label": "cell viability",
+      "decision": "INCLUDE",
+      "source": "contrastive_hierarchy_gold"
+    },
+    {
+      "id": "cell_exclude_08",
+      "seed_label": "cells",
+      "candidate_label": "cell transplantation",
+      "decision": "EXCLUDE",
+      "source": "contrastive_false_positive_gateway"
+    }
+  ]
+}
+

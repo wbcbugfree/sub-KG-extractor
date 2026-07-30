@@ -1,0 +1,1385 @@
+row_id,legacy_row_id,fold,from,starting label,QID,label,depth,target,prediction,correct,reached,decision_source,model_depth
+row2,Q214867|Q17355822,0,Q214867,National Gallery of Art,Q17355822,Yonker Ramp and his Sweetheart,5,0,0,1,False,bfs_auto_prune,
+row3,Q1634926|Q36180,3,Q1634926,Hugo Cassirer,Q36180,writer,3,0,0,1,True,model,3
+row4,Q867510|Q36180,1,Q867510,Cypresses,Q36180,writer,4,0,0,1,True,model,4
+row6,Q21948567|Q36180,4,Q21948567,Sunflowers,Q36180,writer,2,0,0,1,True,model,2
+row7,Q17277888|Q36180,0,Q17277888,Gottlieb Friedrich Reber,Q36180,writer,4,0,0,1,True,model,4
+row8,Q29441758|Q36180,1,Q29441758,Margarete Mauthner,Q36180,writer,5,0,0,1,True,model,5
+row9,Q11770767|Q36180,3,Q11770767,Still life with coffee pot  dishes and fruit,Q36180,writer,2,0,0,1,True,model,2
+row10,Q74128|Q36180,0,Q74128,Alfred Flechtheim,Q36180,writer,3,0,0,1,True,model,3
+row11,Q17277888|Q20275618,0,Q17277888,Gottlieb Friedrich Reber,Q20275618,A Peasant Woman Digging in Front of Her Cottage,5,1,1,1,True,model,5
+row13,Q160236|Q20275618,1,Q160236,Metropolitan Museum of Art,Q20275618,A Peasant Woman Digging in Front of Her Cottage,5,1,1,1,True,model,5
+row14,Q74128|Q20275618,0,Q74128,Alfred Flechtheim,Q20275618,A Peasant Woman Digging in Front of Her Cottage,5,1,1,1,True,model,5
+row21,Q17277888|Q20267520,0,Q17277888,Gottlieb Friedrich Reber,Q20267520,Abraham's Sacrifice of Isaac,5,0,1,0,True,model,5
+row22,Q74128|Q20267520,0,Q74128,Alfred Flechtheim,Q20267520,Abraham's Sacrifice of Isaac,5,0,1,0,True,model,5
+row23,Q867510|Q47309996,1,Q867510,Cypresses,Q47309996,Adolf Wuester,4,1,1,1,True,model,4
+row26,Q160236|Q47309996,1,Q160236,Metropolitan Museum of Art,Q47309996,Adolf Wuester,4,1,1,1,True,model,4
+row37,Q74128|Q13382529,0,Q74128,Alfred Flechtheim,Q13382529,WikiProject about human rights,2,0,0,1,True,model,2
+row42,Q867510|Q18745022,1,Q867510,Cypresses,Q18745022,Alec N. Wildenstein,4,1,1,1,True,model,4
+row46,Q160236|Q24575431,1,Q160236,Metropolitan Museum of Art,Q24575431,Alexander II,5,0,1,0,True,model,5
+row47,Q214867|Q317578,0,Q214867,National Gallery of Art,Q317578,"Alexander Karađorđević, Prince of Serbia",5,0,0,1,True,model,5
+row48,Q26221176|Q7933396,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q7933396,Violin and Grapes,2,1,1,1,True,model,2
+row49,Q17277888|Q7933396,0,Q17277888,Gottlieb Friedrich Reber,Q7933396,Violin and Grapes,3,1,1,1,True,model,3
+row50,Q55680361|Q19681547,4,Q55680361,Oskar Reichel,Q19681547,"View of Pirna, from Sonnestein Castle",3,1,1,1,True,model,3
+row52,Q867510|Q120993,1,Q867510,Cypresses,Q120993,Amedeo Modigliani,5,1,1,1,True,model,5
+row53,Q55680361|Q26221176,4,Q55680361,Oskar Reichel,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,5,1,1,1,True,model,5
+row54,Q21948567|Q333634,4,Q21948567,Sunflowers,Q333634,translator,2,0,0,1,True,model,2
+row55,Q214867|Q333634,0,Q214867,National Gallery of Art,Q333634,translator,5,0,0,1,True,model,5
+row56,Q17277888|Q1234713,0,Q17277888,Gottlieb Friedrich Reber,Q1234713,theologian,4,0,0,1,True,model,4
+row57,Q160236|Q19429021,1,Q160236,Metropolitan Museum of Art,Q19429021,Theodor Fischer,5,1,1,1,True,model,5
+row58,Q160236|Q27980299,1,Q160236,Metropolitan Museum of Art,Q27980299,Apollo and Daphne,5,0,1,0,True,model,5
+row61,Q867510|Q19912997,1,Q867510,Cypresses,Q19912997,Barges at Pontoise,4,1,1,1,True,model,4
+row62,Q17277888|Q19912997,0,Q17277888,Gottlieb Friedrich Reber,Q19912997,Barges at Pontoise,3,1,1,1,True,model,9
+row63,Q74128|Q20267585,0,Q74128,Alfred Flechtheim,Q20267585,The Rape of Europa,5,1,1,1,True,model,5
+row65,Q156426|Q3181656,4,Q156426,Alexej von Jawlensky,Q3181656,The Nuttall Encyclopædia,3,0,0,1,True,model,3
+row68,Q17277888|Q3181656,0,Q17277888,Gottlieb Friedrich Reber,Q3181656,The Nuttall Encyclopædia,4,0,0,1,True,model,6
+row69,Q160236|Q3181656,1,Q160236,Metropolitan Museum of Art,Q3181656,The Nuttall Encyclopædia,3,0,0,1,True,model,5
+row70,Q3783572|Q3181656,2,Q3783572,Harvard Art Museums,Q3181656,The Nuttall Encyclopædia,2,0,0,1,True,model,2
+row72,Q214867|Q3181656,0,Q214867,National Gallery of Art,Q3181656,The Nuttall Encyclopædia,5,0,0,1,False,bfs_auto_prune,
+row73,Q74128|Q3181656,0,Q74128,Alfred Flechtheim,Q3181656,The Nuttall Encyclopædia,5,0,0,1,True,model,8
+row74,Q657415|Q3181656,3,Q657415,Cleveland Museum of Art,Q3181656,The Nuttall Encyclopædia,3,0,0,1,True,model,8
+row75,Q160236|Q26821240,1,Q160236,Metropolitan Museum of Art,Q26821240,Bathing Nymphs,5,0,1,0,True,model,5
+row76,Q160236|Q27980296,1,Q160236,Metropolitan Museum of Art,Q27980296,Birth of Jupiter,5,0,1,0,True,model,5
+row77,Q55680361|Q60474736,4,Q55680361,Oskar Reichel,Q60474736,The Aviator,5,1,1,1,True,model,5
+row81,Q74128|Q37226,0,Q74128,Alfred Flechtheim,Q37226,teacher,5,0,0,1,True,model,5
+row82,Q160236|Q3853758,1,Q160236,Metropolitan Museum of Art,Q3853758,Tarquin and Lucretia,5,1,1,1,True,model,5
+row84,Q867510|Q4114391,1,Q867510,Cypresses,Q4114391,Sytin Military Encyclopedia,4,0,0,1,True,model,4
+row85,Q324935|Q4114391,3,Q324935,Ferenc Hatvany,Q4114391,Sytin Military Encyclopedia,4,0,0,1,False,bfs_auto_prune,
+row86,Q17277888|Q19698487,0,Q17277888,Gottlieb Friedrich Reber,Q19698487,Swedish Publicist's Association Photo Directory 1936,4,0,0,1,True,model,4
+row87,Q17277888|Q10501038,0,Q17277888,Gottlieb Friedrich Reber,Q10501038,Swedish church birth records,5,0,1,0,True,model,5
+row88,Q17277888|Q48761314,0,Q17277888,Gottlieb Friedrich Reber,Q48761314,Swedish Census 1910,3,0,1,0,True,model,3
+row89,Q214867|Q48761314,0,Q214867,National Gallery of Art,Q48761314,Swedish Census 1910,5,0,0,1,False,bfs_auto_prune,
+row90,Q17277888|Q50287368,0,Q17277888,Gottlieb Friedrich Reber,Q50287368,Swedish Census 1900,4,0,1,0,True,model,4
+row91,Q17277888|Q50287327,0,Q17277888,Gottlieb Friedrich Reber,Q50287327,Swedish Census 1890,4,0,1,0,True,model,4
+row92,Q17277888|Q49213654,0,Q17277888,Gottlieb Friedrich Reber,Q49213654,Swedish Census 1880,3,0,1,0,True,model,3
+row93,Q214867|Q49213654,0,Q214867,National Gallery of Art,Q49213654,Swedish Census 1880,5,0,0,1,False,bfs_auto_prune,
+row96,Q1634926|Q158852,3,Q1634926,Hugo Cassirer,Q158852,conductor,5,0,0,1,True,model,5
+row97,Q17277888|Q19180675,0,Q17277888,Gottlieb Friedrich Reber,Q19180675,Small Brockhaus and Efron Encyclopedic Dictionary,4,0,0,1,True,model,4
+row98,Q29441758|Q19180675,1,Q29441758,Margarete Mauthner,Q19180675,Small Brockhaus and Efron Encyclopedic Dictionary,4,0,0,1,True,model,9
+row99,Q3783572|Q19180675,2,Q3783572,Harvard Art Museums,Q19180675,Small Brockhaus and Efron Encyclopedic Dictionary,5,0,0,1,True,model,5
+row101,Q214867|Q19180675,0,Q214867,National Gallery of Art,Q19180675,Small Brockhaus and Efron Encyclopedic Dictionary,3,0,0,1,True,model,3
+row102,Q657415|Q19180675,3,Q657415,Cleveland Museum of Art,Q19180675,Small Brockhaus and Efron Encyclopedic Dictionary,3,0,0,1,True,model,3
+row104,Q867510|Q21785872,1,Q867510,Cypresses,Q21785872,"Edge of the Woods Near L'Hermitage, Pontoise",4,1,1,1,True,model,4
+row107,Q29441758|Q27680201,1,Q29441758,Margarete Mauthner,Q27680201,Riemann's Music Dictionary (1901–1904),2,0,0,1,True,model,2
+row109,Q160236|Q96297,1,Q160236,Metropolitan Museum of Art,Q96297,Emil Georg Bührle,5,1,1,1,True,model,5
+row111,Q17277888|Q5375476,0,Q17277888,Gottlieb Friedrich Reber,Q5375476,Enclosed Field with Peasant,4,1,1,1,True,model,4
+row112,Q160236|Q27980683,1,Q160236,Metropolitan Museum of Art,Q27980683,Portrait of the Artist's daughter Lavinia,5,0,1,0,True,model,5
+row113,Q214867|Q1551926,0,Q214867,National Gallery of Art,Q1551926,Portrait of Stéphane Mallarmé,5,0,0,1,False,bfs_auto_prune,
+row115,Q214867|Q2105271,0,Q214867,National Gallery of Art,Q2105271,Portrait of Mademoiselle Claus,5,0,0,1,False,bfs_auto_prune,
+row116,Q17277888|Q2105269,0,Q17277888,Gottlieb Friedrich Reber,Q2105269,Portrait of Henri Rochefort,4,0,1,0,True,model,4
+row117,Q160236|Q27978043,1,Q160236,Metropolitan Museum of Art,Q27978043,Portrait of Grand Duchess Bianca Capello (1548-1587),5,0,1,0,True,model,5
+row118,Q160236|Q26712700,1,Q160236,Metropolitan Museum of Art,Q26712700,Portrait of Fabrizio Salvaresio,5,0,1,0,True,model,5
+row120,Q214867|Q17815340,0,Q214867,National Gallery of Art,Q17815340,Portrait of Anna van der Aar,5,0,0,1,False,bfs_auto_prune,
+row121,Q160236|Q2842423,1,Q160236,Metropolitan Museum of Art,Q2842423,Portrait of Ambroise Vollard in a Red Headscarf,5,0,1,0,True,model,5
+row122,Q214867|Q2842423,0,Q214867,National Gallery of Art,Q2842423,Portrait of Ambroise Vollard in a Red Headscarf,3,0,0,1,False,bfs_auto_prune,
+row123,Q160236|Q20174444,1,Q160236,Metropolitan Museum of Art,Q20174444,Portrait of a Youth,5,0,1,0,True,model,5
+row124,Q160236|Q28019486,1,Q160236,Metropolitan Museum of Art,Q28019486,Portrait of a Young Lady,5,0,1,0,True,model,5
+row126,Q17277888|Q17275827,0,Q17277888,Gottlieb Friedrich Reber,Q17275827,Portrait of a man in a plumed hat,4,0,1,0,True,model,4
+row127,Q55680361|Q20539227,4,Q55680361,Oskar Reichel,Q20539227,Portrait of a Man and Woman in an Interior,3,1,1,1,True,model,3
+row129,Q214867|Q19911671,0,Q214867,National Gallery of Art,Q19911671,"Portrait of a Man, Said to be Christopher Columbus (born about 1446, died 1506)",5,0,0,1,False,bfs_auto_prune,
+row130,Q160236|Q28020106,1,Q160236,Metropolitan Museum of Art,Q28020106,Portrait of a Bearded Man,5,0,1,0,True,model,5
+row131,Q160236|Q1485141,1,Q160236,Metropolitan Museum of Art,Q1485141,Polish Biographical Dictionary,4,0,0,1,True,model,4
+row132,Q1634926|Q49757,3,Q1634926,Hugo Cassirer,Q49757,poet,3,0,0,1,True,model,3
+row134,Q160236|Q152785,1,Q160236,Metropolitan Museum of Art,Q152785,Pauline Bonaparte,4,0,1,0,True,model,4
+row135,Q160236|Q18662018,1,Q160236,Metropolitan Museum of Art,Q18662018,galerie Georges Petit,3,1,1,1,True,model,3
+row137,Q55680361|Q27431468,4,Q55680361,Oskar Reichel,Q27431468,Galerie St. Etienne,2,1,1,1,True,model,2
+row138,Q17277888|Q20771242,0,Q17277888,Gottlieb Friedrich Reber,Q20771242,gallerist,5,1,1,1,True,model,5
+row140,Q867510|Q47035126,1,Q867510,Cypresses,Q47035126,Gottfried Tanner,4,1,1,1,True,model,4
+row141,Q160236|Q1358886,1,Q160236,Metropolitan Museum of Art,Q1358886,Grand Synagogue of Paris,5,0,0,1,True,model,5
+row143,Q867510|Q1768721,1,Q867510,Cypresses,Q1768721,Gujin Tushu Jicheng,3,0,0,1,True,model,15
+row145,Q26221176|Q1768721,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1768721,Gujin Tushu Jicheng,3,0,0,1,True,model,9
+row148,Q324935|Q1768721,3,Q324935,Ferenc Hatvany,Q1768721,Gujin Tushu Jicheng,3,0,0,1,False,bfs_auto_prune,
+row149,Q160236|Q19211082,1,Q160236,Metropolitan Museum of Art,Q19211082,Orthodox Theological Encyclopedia,3,0,0,1,True,model,3
+row150,Q160236|Q1768721,1,Q160236,Metropolitan Museum of Art,Q1768721,Gujin Tushu Jicheng,3,0,0,1,False,bfs_auto_prune,
+row151,Q214867|Q19222701,0,Q214867,National Gallery of Art,Q19222701,Oesterreichische National-Encyklopädie,5,0,0,1,True,model,5
+row152,Q214867|Q1768721,0,Q214867,National Gallery of Art,Q1768721,Gujin Tushu Jicheng,4,0,0,1,False,bfs_auto_prune,
+row153,Q20178788|Q1768721,2,Q20178788,Still Life with Apples,Q1768721,Gujin Tushu Jicheng,4,0,0,1,False,bfs_auto_prune,
+row154,Q74128|Q1768721,0,Q74128,Alfred Flechtheim,Q1768721,Gujin Tushu Jicheng,4,0,0,1,True,model,10
+row155,Q1634926|Q1573212,3,Q1634926,Hugo Cassirer,Q1573212,Hamburg Biographies,5,0,0,1,True,model,5
+row156,Q26221176|Q1573212,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1573212,Hamburg Biographies,4,0,0,1,True,model,4
+row157,Q160236|Q1573212,1,Q160236,Metropolitan Museum of Art,Q1573212,Hamburg Biographies,5,0,0,1,True,model,5
+row158,Q74128|Q1573212,0,Q74128,Alfred Flechtheim,Q1573212,Hamburg Biographies,3,0,0,1,True,model,3
+row167,Q214867|Q20442391,0,Q214867,National Gallery of Art,Q20442391,Head of a peasant,5,1,0,0,False,bfs_auto_prune,
+row173,Q160236|Q56857488,1,Q160236,Metropolitan Museum of Art,Q56857488,Napoléons moder (Letizia Ramolino Bonaparte),5,0,0,1,True,model,5
+row174,Q160236|Q434077,1,Q160236,Metropolitan Museum of Art,Q434077,"Prince Napoléon-Jérôme, Prince Napoléon",5,0,1,0,True,model,5
+row175,Q17277888|Q54149726,0,Q17277888,Gottlieb Friedrich Reber,Q54149726,Hitler and Genghis Khan,5,0,1,0,True,model,5
+row176,Q55680361|Q49133,4,Q55680361,Oskar Reichel,Q49133,Museum of Fine Arts Boston,2,0,1,0,True,model,2
+row177,Q55680361|Q54149726,4,Q55680361,Oskar Reichel,Q54149726,Hitler and Genghis Khan,5,0,1,0,True,model,5
+row178,Q74128|Q54149726,0,Q74128,Alfred Flechtheim,Q54149726,Hitler and Genghis Khan,5,0,0,1,True,model,5
+row180,Q160236|Q27051827,1,Q160236,Metropolitan Museum of Art,Q27051827,"Hoff's Kurze Biographien, vol 2",5,0,0,1,True,model,5
+row181,Q867510|Q16000367,1,Q867510,Cypresses,Q16000367,horse breeder,5,0,0,1,True,model,5
+row183,Q160236|Q16000367,1,Q160236,Metropolitan Museum of Art,Q16000367,horse breeder,4,0,0,1,True,model,4
+row184,Q160236|Q369234,1,Q160236,Metropolitan Museum of Art,Q369234,Hôtel de Chalon-Luxembourg,5,0,1,0,True,model,5
+row185,Q214867|Q3145951,0,Q214867,National Gallery of Art,Q3145951,Hôtel de Rohan-Montbazon,3,0,0,1,True,model,3
+row186,Q160236|Q19832938,1,Q160236,Metropolitan Museum of Art,Q19832938,hôtel Dodun,5,0,1,0,True,model,5
+row187,Q867510|Q333256,1,Q867510,Cypresses,Q333256,"Hugh Grosvenor, 1st Duke of Westminster",5,0,1,0,True,model,5
+row200,Q1634926|Q1868065,3,Q1634926,Hugo Cassirer,Q1868065,merchant's house,5,0,0,1,True,model,5
+row201,Q74128|Q1868065,0,Q74128,Alfred Flechtheim,Q1868065,merchant's house,4,0,0,1,True,model,4
+row202,Q5147536|Q644687,1,Q5147536,Josef Feinhals,Q644687,illustrator,2,0,0,1,True,model,2
+row203,Q214867|Q644687,0,Q214867,National Gallery of Art,Q644687,illustrator,5,0,0,1,False,bfs_auto_prune,
+row204,Q657415|Q20026460,3,Q657415,Cleveland Museum of Art,Q20026460,Interior with a Woman sewing and a Child,3,1,1,1,True,model,3
+row205,Q657415|Q432,3,Q657415,Cleveland Museum of Art,Q432,Islam,4,0,0,1,True,model,4
+row206,Q3783572|Q17576108,2,Q3783572,Harvard Art Museums,Q17576108,Islamopedia Online,2,0,0,1,True,model,2
+row207,Q160236|Q3837491,1,Q160236,Metropolitan Museum of Art,Q3837491,Jacob Wrestling with the Angel,5,0,1,0,True,model,5
+row208,Q867510|Q3067376,1,Q867510,Cypresses,Q3067376,Jacques Seligmann & Company,3,1,1,1,True,model,3
+row213,Q160236|Q17603041,1,Q160236,Metropolitan Museum of Art,Q17603041,Marthe Hoschedé,3,0,1,0,True,model,3
+row214,Q867510|Q3175096,1,Q867510,Cypresses,Q3175096,Jean Walter,4,1,1,1,True,model,4
+row216,Q4008950|Q2554450,2,Q4008950,Irises,Q2554450,Johanna van Gogh-Bonger,1,1,1,1,True,model,1
+row217,Q17277888|Q1706617,0,Q17277888,Gottlieb Friedrich Reber,Q1706617,Joseph Beuys,5,0,1,0,True,model,5
+row218,Q74128|Q1706617,0,Q74128,Alfred Flechtheim,Q1706617,Joseph Beuys,5,0,1,0,True,model,5
+row219,Q214867|Q9268,0,Q214867,National Gallery of Art,Q9268,Judaism,4,1,0,0,True,model,4
+row220,Q17277888|Q47530987,0,Q17277888,Gottlieb Friedrich Reber,Q47530987,Julius Böhler Jr.,5,1,1,1,True,model,5
+row225,Q160236|Q935182,1,Q160236,Metropolitan Museum of Art,Q935182,Lucien Louis Joseph Napoleon Bonaparte,4,0,1,0,True,model,4
+row226,Q11770767|Q26221124,3,Q11770767,Still life with coffee pot  dishes and fruit,Q26221124,L'Arlésienne,2,0,1,0,True,model,2
+row227,Q160236|Q17519173,1,Q160236,Metropolitan Museum of Art,Q17519173,L'Arlésienne,5,0,1,0,True,model,5
+row228,Q214867|Q17519173,0,Q214867,National Gallery of Art,Q17519173,L'Arlésienne,3,0,0,1,False,bfs_auto_prune,
+row229,Q160236|Q4896868,1,Q160236,Metropolitan Museum of Art,Q4896868,La belle Angèle,5,0,1,0,True,model,5
+row230,Q214867|Q4896868,0,Q214867,National Gallery of Art,Q4896868,La belle Angèle,3,0,0,1,False,bfs_auto_prune,
+row231,Q867510|Q26689481,1,Q867510,Cypresses,Q26689481,La Ferté,5,1,1,1,True,model,5
+row232,Q17277888|Q26689481,0,Q17277888,Gottlieb Friedrich Reber,Q26689481,La Ferté,4,1,1,1,True,model,10
+row233,Q160236|Q20177080,1,Q160236,Metropolitan Museum of Art,Q20177080,Lady with a Fan,5,0,1,0,True,model,5
+row234,Q214867|Q2815948,0,Q214867,National Gallery of Art,Q2815948,landscape architect,4,0,0,1,True,model,4
+row235,Q160236|Q3220784,1,Q160236,Metropolitan Museum of Art,Q3220784,Le Canal Saint-Martin,5,0,1,0,True,model,5
+row236,Q214867|Q3220784,0,Q214867,National Gallery of Art,Q3220784,Le Canal Saint-Martin,5,0,0,1,False,bfs_auto_prune,
+row240,Q867510|Q18347243,1,Q867510,Cypresses,Q18347243,Lefevre Gallery,3,1,1,1,True,model,3
+row243,Q160236|Q19098835,1,Q160236,Metropolitan Museum of Art,Q19098835,Library of the World's Best Literature,3,0,1,0,True,model,9
+row244,Q74128|Q19098835,0,Q74128,Alfred Flechtheim,Q19098835,Library of the World's Best Literature,5,0,1,0,True,model,10
+row245,Q657415|Q19098835,3,Q657415,Cleveland Museum of Art,Q19098835,Library of the World's Best Literature,3,0,1,0,True,model,3
+row246,Q1634926|Q53092134,3,Q1634926,Hugo Cassirer,Q53092134,Lilly Cassirer,5,1,1,1,True,model,5
+row247,Q26221176|Q49870534,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q49870534,Madame Cézanne in a Red Dress,2,1,1,1,True,model,2
+row248,Q55680361|Q49870534,4,Q55680361,Oskar Reichel,Q49870534,Madame Cézanne in a Red Dress,5,1,1,1,True,model,5
+row249,Q74128|Q49870534,0,Q74128,Alfred Flechtheim,Q49870534,Madame Cézanne in a Red Dress,1,1,1,1,True,model,1
+row250,Q160236|Q3189169,1,Q160236,Metropolitan Museum of Art,Q3189169,Julie Bonaparte,4,0,1,0,True,model,4
+row251,Q214867|Q22954841,0,Q214867,National Gallery of Art,Q22954841,Q22954841,5,0,0,1,False,bfs_auto_prune,
+row252,Q160236|Q275336,1,Q160236,Metropolitan Museum of Art,Q275336,"John Stuart, 1st Marquess of Bute",5,0,1,0,True,model,5
+row253,Q214867|Q22954842,0,Q214867,National Gallery of Art,Q22954842,Q22954842,5,0,0,1,False,bfs_auto_prune,
+row256,Q74128|Q90554,0,Q74128,Alfred Flechtheim,Q90554,"Margit Thyssen-Bornemisza, Countess of Batthyány",5,1,1,1,True,model,5
+row263,Q21948567|Q11774156,4,Q21948567,Sunflowers,Q11774156,memoirist,5,0,0,1,True,model,5
+row264,Q160236|Q11774156,1,Q160236,Metropolitan Museum of Art,Q11774156,memoirist,4,0,1,0,True,model,4
+row267,Q214867|Q19219752,0,Q214867,National Gallery of Art,Q19219752,"Meyers Konversations-Lexikon, 4th edition (1885–1890)",4,0,0,1,True,model,4
+row268,Q160236|Q17010072,1,Q160236,Metropolitan Museum of Art,Q17010072,militant,5,0,0,1,True,model,5
+row270,Q17277888|Q219477,0,Q17277888,Gottlieb Friedrich Reber,Q219477,missionary,4,0,0,1,False,bfs_auto_prune,
+row272,Q214867|Q116,0,Q214867,National Gallery of Art,Q116,monarch,5,0,0,1,True,model,5
+row273,Q867510|Q49246672,1,Q867510,Cypresses,Q49246672,Mount of Sainte-Victoire,4,1,1,1,True,model,4
+row275,Q867510|Q12954454,1,Q867510,Cypresses,Q12954454,Nathan Wildenstein,4,1,1,1,True,model,4
+row279,Q867510|Q28837176,1,Q867510,Cypresses,Q28837176,Heilbrunn Timeline of Art History,1,0,1,0,True,model,1
+row281,Q1634926|Q21171699,3,Q1634926,Hugo Cassirer,Q21171699,Hedwig Cassirer,4,1,1,1,True,model,4
+row282,Q17277888|Q22083543,0,Q17277888,Gottlieb Friedrich Reber,Q22083543,Q22083543,4,0,1,0,True,model,4
+row284,Q17277888|Q58366813,0,Q17277888,Gottlieb Friedrich Reber,Q58366813,1877 State Calendar of Sweden,5,0,1,0,True,model,5
+row285,Q17277888|Q21600495,0,Q17277888,Gottlieb Friedrich Reber,Q21600495,Q21600495,5,0,1,0,True,model,5
+row286,Q214867|Q5460604,0,Q214867,National Gallery of Art,Q5460604,Wikipedia:List of articles all languages should have,5,0,0,1,False,bfs_auto_prune,
+row287,Q160236|Q327240,1,Q160236,Metropolitan Museum of Art,Q327240,Norton Simon,5,1,1,1,True,model,5
+row288,Q214867|Q3345156,0,Q214867,National Gallery of Art,Q3345156,Nouvelle Biographie Générale,5,0,0,1,True,model,5
+row289,Q160236|Q191808,1,Q160236,Metropolitan Museum of Art,Q191808,nun,4,0,0,1,True,model,4
+row290,Q160236|Q3346473,1,Q160236,Metropolitan Museum of Art,Q3346473,Nureyev,5,0,1,0,True,model,5
+row291,Q160236|Q27979252,1,Q160236,Metropolitan Museum of Art,Q27979252,Nymph and Hunter,5,0,1,0,True,model,5
+row304,Q160236|Q1225716,1,Q160236,Metropolitan Museum of Art,Q1225716,ornithologist,4,0,1,0,True,model,4
+row305,Q17277888|Q19754058,0,Q17277888,Gottlieb Friedrich Reber,Q19754058,Otto Kallir,4,1,1,1,True,model,4
+row306,Q55680361|Q19754058,4,Q55680361,Oskar Reichel,Q19754058,Otto Kallir,2,1,1,1,True,model,2
+row307,Q74128|Q19754058,0,Q74128,Alfred Flechtheim,Q19754058,Otto Kallir,4,1,1,1,True,model,4
+row308,Q21948567|Q2041543,4,Q21948567,Sunflowers,Q2041543,Ottův slovník naučný,5,0,0,1,True,model,5
+row310,Q21948567|Q17378135,4,Q21948567,Sunflowers,Q17378135,Great Soviet Encyclopedia (1969–1978),5,0,0,1,True,model,5
+row311,Q17277888|Q17378135,0,Q17277888,Gottlieb Friedrich Reber,Q17378135,Great Soviet Encyclopedia (1969–1978),2,0,0,1,True,model,2
+row312,Q55680361|Q17378135,4,Q55680361,Oskar Reichel,Q17378135,Great Soviet Encyclopedia (1969–1978),5,0,0,1,True,model,5
+row313,Q11770767|Q17378135,3,Q11770767,Still life with coffee pot  dishes and fruit,Q17378135,Great Soviet Encyclopedia (1969–1978),2,0,0,1,True,model,2
+row314,Q74128|Q17378135,0,Q74128,Alfred Flechtheim,Q17378135,Great Soviet Encyclopedia (1969–1978),5,0,0,1,True,model,5
+row315,Q867510|Q20078554,1,Q867510,Cypresses,Q20078554,Great Soviet Encyclopedia (1926–1947),4,0,0,1,True,model,4
+row316,Q17277888|Q20078554,0,Q17277888,Gottlieb Friedrich Reber,Q20078554,Great Soviet Encyclopedia (1926–1947),5,0,0,1,True,model,5
+row317,Q55680361|Q20078554,4,Q55680361,Oskar Reichel,Q20078554,Great Soviet Encyclopedia (1926–1947),5,0,0,1,True,model,5
+row318,Q657415|Q20078554,3,Q657415,Cleveland Museum of Art,Q20078554,Great Soviet Encyclopedia (1926–1947),3,0,0,1,True,model,3
+row319,Q26221176|Q2041543,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q2041543,Ottův slovník naučný,5,0,0,1,True,model,5
+row320,Q17277888|Q2041543,0,Q17277888,Gottlieb Friedrich Reber,Q2041543,Ottův slovník naučný,4,0,0,1,True,model,4
+row322,Q17277888|Q4532138,0,Q17277888,Gottlieb Friedrich Reber,Q4532138,Granat Encyclopedic Dictionary,4,0,0,1,False,bfs_auto_prune,
+row323,Q11770767|Q4532138,3,Q11770767,Still life with coffee pot  dishes and fruit,Q4532138,Granat Encyclopedic Dictionary,2,0,0,1,True,model,2
+row324,Q160236|Q4532138,1,Q160236,Metropolitan Museum of Art,Q4532138,Granat Encyclopedic Dictionary,3,0,0,1,False,bfs_auto_prune,
+row326,Q214867|Q4532138,0,Q214867,National Gallery of Art,Q4532138,Granat Encyclopedic Dictionary,4,0,0,1,False,bfs_auto_prune,
+row327,Q74128|Q4532138,0,Q74128,Alfred Flechtheim,Q4532138,Granat Encyclopedic Dictionary,4,0,0,1,False,bfs_auto_prune,
+row331,Q160236|Q1528420,1,Q160236,Metropolitan Museum of Art,Q1528420,Giuseppe Maria Buonaparte,4,0,1,0,True,model,4
+row332,Q160236|Q2041543,1,Q160236,Metropolitan Museum of Art,Q2041543,Ottův slovník naučný,3,0,0,1,True,model,5
+row333,Q3783572|Q2041543,2,Q3783572,Harvard Art Museums,Q2041543,Ottův slovník naučný,2,0,0,1,True,model,2
+row335,Q214867|Q2041543,0,Q214867,National Gallery of Art,Q2041543,Ottův slovník naučný,5,0,0,1,False,bfs_auto_prune,
+row336,Q74128|Q2041543,0,Q74128,Alfred Flechtheim,Q2041543,Ottův slovník naučný,5,0,0,1,True,model,6
+row337,Q160236|Q178513,1,Q160236,Metropolitan Museum of Art,Q178513,Paris Bourse,5,0,1,0,True,model,5
+row338,Q17277888|Q152002,0,Q17277888,Gottlieb Friedrich Reber,Q152002,pastor,4,0,0,1,True,model,4
+row341,Q160236|Q1138524,1,Q160236,Metropolitan Museum of Art,Q1138524,Paulys Realenzyklopädie der klassischen Altertumswissenschaft,4,0,0,1,False,bfs_auto_prune,
+row342,Q26221176|Q5488972,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q5488972,Frank Perls,5,1,1,1,True,model,5
+row343,Q74128|Q5488972,0,Q74128,Alfred Flechtheim,Q5488972,Frank Perls,4,1,1,1,True,model,4
+row345,Q160236|Q105186,1,Q160236,Metropolitan Museum of Art,Q105186,pharmacist,5,0,0,1,True,model,5
+row347,Q26221176|Q4964182,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q4964182,philosopher,5,0,0,1,True,model,5
+row348,Q74128|Q4964182,0,Q74128,Alfred Flechtheim,Q4964182,philosopher,4,0,0,1,True,model,4
+row349,Q214867|Q33231,0,Q214867,National Gallery of Art,Q33231,photographer,5,0,0,1,False,bfs_auto_prune,
+row350,Q20178788|Q4808368,2,Q20178788,Still Life with Apples,Q4808368,Femme nue couchée,2,1,1,1,True,model,2
+row351,Q867510|Q49757,1,Q867510,Cypresses,Q49757,poet,3,0,0,1,True,model,3
+row353,Q1634926|Q1970746,3,Q1634926,Hugo Cassirer,Q1970746,Explanatory Dictionary of the Living Great Russian Language,5,0,0,1,True,model,5
+row354,Q867510|Q1970746,1,Q867510,Cypresses,Q1970746,Explanatory Dictionary of the Living Great Russian Language,4,0,0,1,True,model,4
+row355,Q324935|Q1970746,3,Q324935,Ferenc Hatvany,Q1970746,Explanatory Dictionary of the Living Great Russian Language,4,0,0,1,False,bfs_auto_prune,
+row356,Q74128|Q1970746,0,Q74128,Alfred Flechtheim,Q1970746,Explanatory Dictionary of the Living Great Russian Language,4,0,0,1,True,model,4
+row357,Q11770767|Q49757,3,Q11770767,Still life with coffee pot  dishes and fruit,Q49757,poet,2,0,0,1,True,model,2
+row358,Q214867|Q49757,0,Q214867,National Gallery of Art,Q49757,poet,3,0,0,1,True,model,3
+row360,Q74128|Q49757,0,Q74128,Alfred Flechtheim,Q49757,poet,5,0,0,1,True,model,6
+row361,Q657415|Q49757,3,Q657415,Cleveland Museum of Art,Q49757,poet,3,0,0,1,True,model,3
+row363,Q3783572|Q48968006,2,Q3783572,Harvard Art Museums,Q48968006,encyclopedia.com,5,0,1,0,True,model,5
+row364,Q160236|Q21032589,1,Q160236,Metropolitan Museum of Art,Q21032589,Encyclopedia of Modern Christian Politics (2006 ed.),5,0,0,1,True,model,5
+row366,Q214867|Q867541,0,Q214867,National Gallery of Art,Q867541,Encyclopædia Britannica 11th edition,5,0,0,1,False,bfs_auto_prune,
+row367,Q74128|Q867541,0,Q74128,Alfred Flechtheim,Q867541,Encyclopædia Britannica 11th edition,5,0,0,1,True,model,5
+row368,Q657415|Q867541,3,Q657415,Cleveland Museum of Art,Q867541,Encyclopædia Britannica 11th edition,3,0,0,1,True,model,3
+row369,Q160236|Q455,1,Q160236,Metropolitan Museum of Art,Q455,Encyclopædia Britannica,4,0,0,1,True,model,4
+row370,Q74128|Q455,0,Q74128,Alfred Flechtheim,Q455,Encyclopædia Britannica,5,0,0,1,True,model,5
+row371,Q160236|Q42603,1,Q160236,Metropolitan Museum of Art,Q42603,priest,4,0,0,1,True,model,4
+row372,Q160236|Q42857,1,Q160236,Metropolitan Museum of Art,Q42857,prophet,4,0,0,1,True,model,4
+row373,Q74128|Q42857,0,Q74128,Alfred Flechtheim,Q42857,prophet,5,0,0,1,True,model,5
+row374,Q160236|Q3411287,1,Q160236,Metropolitan Museum of Art,Q3411287,pyramid of bois de Vincennes,5,0,1,0,True,model,5
+row376,Q17277888|Q1397808,0,Q17277888,Gottlieb Friedrich Reber,Q1397808,resistance fighter,4,0,0,1,True,model,4
+row377,Q867510|Q27096203,1,Q867510,Cypresses,Q27096203,Saint John the Baptist,4,1,1,1,True,model,4
+row379,Q26221176|Q27096203,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q27096203,Saint John the Baptist,2,1,1,1,True,model,2
+row380,Q74128|Q27096203,0,Q74128,Alfred Flechtheim,Q27096203,Saint John the Baptist,3,1,1,1,True,model,3
+row383,Q160236|Q177220,1,Q160236,Metropolitan Museum of Art,Q177220,singer,3,0,0,1,True,model,3
+row384,Q657415|Q512314,3,Q657415,Cleveland Museum of Art,Q512314,socialite,5,0,0,1,True,model,5
+row387,Q160236|Q1210353,1,Q160236,Metropolitan Museum of Art,Q1210353,Dictionnaire Infernal,5,0,0,1,True,model,5
+row389,Q17277888|Q379406,0,Q17277888,Gottlieb Friedrich Reber,Q379406,Dictionary of Swedish National Biography,3,0,0,1,True,model,3
+row390,Q160236|Q379406,1,Q160236,Metropolitan Museum of Art,Q379406,Dictionary of Swedish National Biography,5,0,0,1,True,model,5
+row391,Q214867|Q379406,0,Q214867,National Gallery of Art,Q379406,Dictionary of Swedish National Biography,5,0,0,1,False,bfs_auto_prune,
+row392,Q160236|Q16014697,1,Q160236,Metropolitan Museum of Art,Q16014697,"Dictionary of National Biography, second supplement",4,0,0,1,True,model,4
+row393,Q74128|Q16014697,0,Q74128,Alfred Flechtheim,Q16014697,"Dictionary of National Biography, second supplement",5,0,1,0,True,model,5
+row394,Q160236|Q16014700,1,Q160236,Metropolitan Museum of Art,Q16014700,"Dictionary of National Biography, first supplement",4,0,0,1,True,model,4
+row395,Q160236|Q15987216,1,Q160236,Metropolitan Museum of Art,Q15987216,"Dictionary of National Biography, 1885–1900",3,0,0,1,True,model,3
+row396,Q1634926|Q46002746,3,Q1634926,Hugo Cassirer,Q46002746,Dictionary of African Biography,3,0,0,1,True,model,3
+row398,Q55680361|Q4991371,4,Q55680361,Oskar Reichel,Q4991371,soldier,5,0,0,1,True,model,5
+row399,Q3783572|Q7557389,2,Q3783572,Harvard Art Museums,Q7557389,Soldiers Field Soccer Stadium,2,0,0,1,True,model,2
+row402,Q214867|Q19905413,0,Q214867,National Gallery of Art,Q19905413,Spring Flowers,5,0,0,1,False,bfs_auto_prune,
+row403,Q160236|Q3451370,1,Q160236,Metropolitan Museum of Art,Q3451370,Square in Argenteuil,5,0,1,0,True,model,5
+row404,Q214867|Q3451370,0,Q214867,National Gallery of Art,Q3451370,Square in Argenteuil,5,0,0,1,False,bfs_auto_prune,
+row405,Q17277888|Q2259451,0,Q17277888,Gottlieb Friedrich Reber,Q2259451,stage actor,3,0,0,1,True,model,3
+row408,Q160236|Q3873319,1,Q160236,Metropolitan Museum of Art,Q3873319,Still life,5,0,1,0,True,model,5
+row409,Q214867|Q3873319,0,Q214867,National Gallery of Art,Q3873319,Still life,5,0,0,1,False,bfs_auto_prune,
+row410,Q324935|Q20178788,3,Q324935,Ferenc Hatvany,Q20178788,Still Life with Apples,1,1,1,1,True,model,1
+row411,Q160236|Q4239850,1,Q160236,Metropolitan Museum of Art,Q4239850,Concise Literary Encyclopedia,5,0,0,1,True,model,5
+row413,Q55680361|Q24022779,4,Q55680361,Oskar Reichel,Q24022779,Still Life: Potatoes in a Yellow Dish,5,1,1,1,True,model,5
+row414,Q11770767|Q28146931,3,Q11770767,Still life with coffee pot  dishes and fruit,Q28146931,Street in Saintes-Maries,2,1,1,1,True,model,2
+row427,Q160236|Q1766280,1,Q160236,Metropolitan Museum of Art,Q1766280,Svensk uppslagsbok,4,0,0,1,True,model,4
+row429,Q214867|Q302556,0,Q214867,National Gallery of Art,Q302556,Catholic Encyclopedia,5,0,0,1,False,bfs_auto_prune,
+row430,Q74128|Q302556,0,Q74128,Alfred Flechtheim,Q302556,Catholic Encyclopedia,5,0,0,1,True,model,5
+row431,Q657415|Q302556,3,Q657415,Cleveland Museum of Art,Q302556,Catholic Encyclopedia,3,0,0,1,True,model,3
+row433,Q214867|Q1766280,0,Q214867,National Gallery of Art,Q1766280,Svensk uppslagsbok,5,0,0,1,False,bfs_auto_prune,
+row434,Q17277888|Q10685690,0,Q17277888,Gottlieb Friedrich Reber,Q10685690,Svenskt konstnärslexikon,4,0,1,0,True,model,4
+row435,Q17277888|Q50395049,0,Q17277888,Gottlieb Friedrich Reber,Q50395049,Svenskt kvinnobiografiskt lexikon,3,0,1,0,True,model,3
+row436,Q160236|Q50395049,1,Q160236,Metropolitan Museum of Art,Q50395049,Svenskt kvinnobiografiskt lexikon,5,0,0,1,True,model,5
+row437,Q214867|Q50395049,0,Q214867,National Gallery of Art,Q50395049,Svenskt kvinnobiografiskt lexikon,5,0,0,1,False,bfs_auto_prune,
+row438,Q867510|Q1039808,1,Q867510,Cypresses,Q1039808,Carl Montag,5,1,1,1,True,model,5
+row440,Q160236|Q1039808,1,Q160236,Metropolitan Museum of Art,Q1039808,Carl Montag,5,1,1,1,True,model,5
+row441,Q867510|Q3658608,1,Q867510,Cypresses,Q3658608,caricaturist,5,0,0,1,True,model,5
+row442,Q29441758|Q3658608,1,Q29441758,Margarete Mauthner,Q3658608,caricaturist,5,0,0,1,True,model,5
+row443,Q5147536|Q3658608,1,Q5147536,Josef Feinhals,Q3658608,caricaturist,2,0,0,1,True,model,2
+row444,Q21948567|Q907660,4,Q21948567,Sunflowers,Q907660,Canon of Dutch History,5,0,1,0,True,model,5
+row445,Q26221176|Q907660,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q907660,Canon of Dutch History,5,0,0,1,True,model,5
+row448,Q1634926|Q91618,3,Q1634926,Hugo Cassirer,Q91618,Bruno Cassirer,4,1,1,1,True,model,3
+row449,Q156426|Q602358,4,Q156426,Alexej von Jawlensky,Q602358,Brockhaus and Efron Encyclopedic Dictionary,3,0,0,1,False,bfs_auto_prune,
+row450,Q1634926|Q602358,3,Q1634926,Hugo Cassirer,Q602358,Brockhaus and Efron Encyclopedic Dictionary,5,0,0,1,True,model,5
+row451,Q867510|Q602358,1,Q867510,Cypresses,Q602358,Brockhaus and Efron Encyclopedic Dictionary,4,0,0,1,True,model,4
+row453,Q26221176|Q602358,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q602358,Brockhaus and Efron Encyclopedic Dictionary,5,0,0,1,True,model,5
+row454,Q17277888|Q602358,0,Q17277888,Gottlieb Friedrich Reber,Q602358,Brockhaus and Efron Encyclopedic Dictionary,4,0,0,1,True,model,4
+row455,Q29441758|Q602358,1,Q29441758,Margarete Mauthner,Q602358,Brockhaus and Efron Encyclopedic Dictionary,4,0,0,1,True,model,7
+row456,Q324935|Q602358,3,Q324935,Ferenc Hatvany,Q602358,Brockhaus and Efron Encyclopedic Dictionary,4,0,0,1,False,bfs_auto_prune,
+row457,Q160236|Q602358,1,Q160236,Metropolitan Museum of Art,Q602358,Brockhaus and Efron Encyclopedic Dictionary,3,0,0,1,True,model,3
+row458,Q3783572|Q602358,2,Q3783572,Harvard Art Museums,Q602358,Brockhaus and Efron Encyclopedic Dictionary,5,0,0,1,True,model,5
+row461,Q214867|Q602358,0,Q214867,National Gallery of Art,Q602358,Brockhaus and Efron Encyclopedic Dictionary,3,0,0,1,False,bfs_auto_prune,
+row462,Q74128|Q602358,0,Q74128,Alfred Flechtheim,Q602358,Brockhaus and Efron Encyclopedic Dictionary,4,0,0,1,True,model,4
+row463,Q657415|Q602358,3,Q657415,Cleveland Museum of Art,Q602358,Brockhaus and Efron Encyclopedic Dictionary,3,0,0,1,True,model,10
+row465,Q867510|Q7720110,1,Q867510,Cypresses,Q7720110,The Brierwood Pipe,4,0,1,0,True,model,4
+row467,Q26221176|Q7720110,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q7720110,The Brierwood Pipe,2,0,1,0,True,model,2
+row469,Q160236|Q665807,1,Q160236,Metropolitan Museum of Art,Q665807,Biographisches Lexikon des Kaiserthums Oesterreich,3,0,0,1,True,model,3
+row470,Q214867|Q665807,0,Q214867,National Gallery of Art,Q665807,Biographisches Lexikon des Kaiserthums Oesterreich,3,0,0,1,False,bfs_auto_prune,
+row471,Q214867|Q19135478,0,Q214867,National Gallery of Art,Q19135478,Q19135478,5,0,0,1,True,model,5
+row475,Q29441758|Q58488719,1,Q29441758,Margarete Mauthner,Q58488719,Billy Ireland Cartoon Library & Museum biographical files,5,1,0,0,True,model,5
+row476,Q160236|Q3639582,1,Q160236,Metropolitan Museum of Art,Q3639582,Biblioteca Europea di Informazione e Cultura,4,0,0,1,False,bfs_auto_prune,
+row477,Q1634926|Q4086271,3,Q1634926,Hugo Cassirer,Q4086271,Bible Encyclopedia of Archimandrite Nicephorus,5,0,0,1,True,model,5
+row478,Q160236|Q4086271,1,Q160236,Metropolitan Museum of Art,Q4086271,Bible Encyclopedia of Archimandrite Nicephorus,3,0,0,1,True,model,3
+row479,Q74128|Q4086271,0,Q74128,Alfred Flechtheim,Q4086271,Bible Encyclopedia of Archimandrite Nicephorus,4,0,0,1,True,model,4
+row480,Q160236|Q7044697,1,Q160236,Metropolitan Museum of Art,Q7044697,"Betty de Rothschild, Baronne James de Rothschild",5,1,1,1,True,model,5
+row481,Q867510|Q45320214,1,Q867510,Cypresses,Q45320214,Beteiligte Privatpersonen und Körperschaften am NS-Kulturgutraub,5,1,1,1,True,model,19
+row482,Q17277888|Q45320214,0,Q17277888,Gottlieb Friedrich Reber,Q45320214,Beteiligte Privatpersonen und Körperschaften am NS-Kulturgutraub,2,1,1,1,True,model,2
+row486,Q160236|Q1524643,1,Q160236,Metropolitan Museum of Art,Q1524643,Belleville funicular tramway,5,0,1,0,True,model,5
+row487,Q26221197|Q52086999,2,Q26221197,Two Peasant Women Digging in Field with Snow,Q52086999,The Little Yellow Horses (Die kleinen gelben Pferde),2,1,1,1,True,model,2
+row488,Q17277888|Q20267585,0,Q17277888,Gottlieb Friedrich Reber,Q20267585,The Rape of Europa,5,0,1,0,True,model,5
+row489,Q160236|Q18891157,1,Q160236,Metropolitan Museum of Art,Q18891157,The Scream,5,1,1,1,True,model,5
+row490,Q160236|Q117474,1,Q160236,Metropolitan Museum of Art,Q117474,Arthur Stoll,4,1,1,1,True,model,4
+row491,Q160236|Q4799609,1,Q160236,Metropolitan Museum of Art,Q4799609,Arthur M. Sackler,5,1,1,1,True,model,5
+row492,Q214867|Q17391638,0,Q214867,National Gallery of Art,Q17391638,art theorist,5,0,0,1,False,bfs_auto_prune,
+row494,Q160236|Q1630100,1,Q160236,Metropolitan Museum of Art,Q1630100,art model,4,0,0,1,True,model,4
+row495,Q867510|Q30335959,1,Q867510,Cypresses,Q30335959,Art Looting Investigation Unit,4,1,1,1,True,model,4
+row497,Q160236|Q220859,1,Q160236,Metropolitan Museum of Art,Q220859,Arnolfini Portrait,5,0,1,0,True,model,5
+row499,Q160236|Q28790437,1,Q160236,Metropolitan Museum of Art,Q28790437,Armor of Emperor Ferdinand I,1,0,1,0,True,model,1
+row500,Q214867|Q28790437,0,Q214867,National Gallery of Art,Q28790437,Armor of Emperor Ferdinand I,5,0,0,1,False,bfs_auto_prune,
+row501,Q1634926|Q2657718,3,Q1634926,Hugo Cassirer,Q2657718,Armenian Soviet Encyclopedia,4,0,0,1,True,model,4
+row502,Q26221176|Q2657718,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q2657718,Armenian Soviet Encyclopedia,3,0,0,1,True,model,3
+row503,Q74128|Q2657718,0,Q74128,Alfred Flechtheim,Q2657718,Armenian Soviet Encyclopedia,2,0,0,1,True,model,2
+row504,Q160236|Q2478141,1,Q160236,Metropolitan Museum of Art,Q2478141,aristocrat,3,0,0,1,True,model,3
+row505,Q17277888|Q42973,0,Q17277888,Gottlieb Friedrich Reber,Q42973,architect,4,0,0,1,True,model,4
+row506,Q5147536|Q42973,1,Q5147536,Josef Feinhals,Q42973,architect,2,0,0,1,True,model,2
+row509,Q160236|Q64436,1,Q160236,Metropolitan Museum of Art,Q64436,Arc de Triomphe,5,0,0,1,True,model,5
+row510,Q17277888|Q12912667,0,Q17277888,Gottlieb Friedrich Reber,Q12912667,Appletons' Cyclopædia of American Biography,5,0,1,0,True,model,8
+row511,Q160236|Q12912667,1,Q160236,Metropolitan Museum of Art,Q12912667,Appletons' Cyclopædia of American Biography,3,0,0,1,True,model,3
+row512,Q214867|Q39013,0,Q214867,National Gallery of Art,Q39013,The Woman in the Waves,5,0,0,1,False,bfs_auto_prune,
+row515,Q160236|Q15709188,1,Q160236,Metropolitan Museum of Art,Q15709188,View of Volterra,5,0,1,0,True,model,5
+row516,Q160236|Q15709185,1,Q160236,Metropolitan Museum of Art,Q15709185,View of Volterra,5,0,1,0,True,model,5
+row517,Q214867|Q15709188,0,Q214867,National Gallery of Art,Q15709188,View of Volterra,5,0,0,1,False,bfs_auto_prune,
+row518,Q214867|Q15709185,0,Q214867,National Gallery of Art,Q15709185,View of Volterra,5,0,0,1,False,bfs_auto_prune,
+row519,Q867510|Q2837972,1,Q867510,Cypresses,Q2837972,Allez France,5,0,1,0,True,model,5
+row520,Q160236|Q2837972,1,Q160236,Metropolitan Museum of Art,Q2837972,Allez France,4,0,1,0,True,model,4
+row523,Q160236|Q42601013,1,Q160236,Metropolitan Museum of Art,Q42601013,ALIU Detailed Interrogation Report (DIR) No. 6 Bruno Lohse August 1945,5,1,1,1,True,model,5
+row525,Q29441758|Q26221149,1,Q29441758,Margarete Mauthner,Q26221149,Wheat Field with Sheaves,1,1,1,1,True,model,1
+row533,Q160236|Q537720,1,Q160236,Metropolitan Museum of Art,Q537720,Accor Arena,5,0,1,0,True,model,5
+row538,Q17277888|Q20080422,0,Q17277888,Gottlieb Friedrich Reber,Q20080422,Woman with a glass of wine and a child in a garden,2,1,1,1,True,model,2
+row540,Q214867|Q113262,0,Q214867,National Gallery of Art,Q113262,Young man in Mayo costume,5,0,0,1,False,bfs_auto_prune,
+row541,Q160236|Q26772533,1,Q160236,Metropolitan Museum of Art,Q26772533,Young Woman in blue Gown with Feather,5,0,1,0,True,model,5
+row546,Q657415|Q139464,3,Q657415,Cleveland Museum of Art,Q139464,Zachary,3,0,0,1,True,model,3
+row550,Q160236|Q56816048,1,Q160236,Metropolitan Museum of Art,Q56816048,Zur Übernahme des Auktionshauses Paul Graupe durch Hans W. Lange,5,1,1,1,True,model,5
+row551,Q160236|Q350979,1,Q160236,Metropolitan Museum of Art,Q350979,zoologist,4,0,0,1,True,model,4
+row552,Q156426|Q4091878,4,Q156426,Alexej von Jawlensky,Q4091878,Yuzhakov Big Encyclopedia,5,0,0,1,False,bfs_auto_prune,
+row553,Q867510|Q4091878,1,Q867510,Cypresses,Q4091878,Yuzhakov Big Encyclopedia,4,0,0,1,True,model,4
+row554,Q324935|Q4091878,3,Q324935,Ferenc Hatvany,Q4091878,Yuzhakov Big Encyclopedia,4,0,0,1,False,bfs_auto_prune,
+row555,Q160236|Q4091878,1,Q160236,Metropolitan Museum of Art,Q4091878,Yuzhakov Big Encyclopedia,4,0,0,1,True,model,9
+row556,Q74128|Q21711845,0,Q74128,Alfred Flechtheim,Q21711845,Young Woman with a lighted Candle at a Window,5,1,1,1,True,model,5
+row557,Q160236|Q26718316,1,Q160236,Metropolitan Museum of Art,Q26718316,Young Woman in Green Dress,5,0,1,0,True,model,5
+row558,Q160236|Q113262,1,Q160236,Metropolitan Museum of Art,Q113262,Young man in Mayo costume,1,0,1,0,True,model,1
+row559,Q17277888|Q1568434,0,Q17277888,Gottlieb Friedrich Reber,Q1568434,Yale University Art Gallery,4,1,1,1,True,model,4
+row560,Q55680361|Q1568434,4,Q55680361,Oskar Reichel,Q1568434,Yale University Art Gallery,4,1,1,1,True,model,4
+row561,Q160236|Q1568434,1,Q160236,Metropolitan Museum of Art,Q1568434,Yale University Art Gallery,5,1,1,1,True,model,5
+row562,Q74128|Q1568434,0,Q74128,Alfred Flechtheim,Q1568434,Yale University Art Gallery,4,1,1,1,True,model,4
+row563,Q160236|Q1437754,1,Q160236,Metropolitan Museum of Art,Q1437754,xylographer,5,0,0,1,True,model,5
+row564,Q160236|Q926842,1,Q160236,Metropolitan Museum of Art,Q926842,Xiuhcoatl,2,0,1,0,True,model,2
+row565,Q26221176|Q36180,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q36180,writer,2,0,0,1,True,model,2
+row566,Q160236|Q36180,1,Q160236,Metropolitan Museum of Art,Q36180,writer,3,0,0,1,True,model,5
+row567,Q214867|Q36180,0,Q214867,National Gallery of Art,Q36180,writer,4,0,0,1,True,model,4
+row568,Q74128|Q36180,0,Q74128,Alfred Flechtheim,Q36180,writer,3,0,0,1,True,model,3
+row569,Q657415|Q36180,3,Q657415,Cleveland Museum of Art,Q36180,writer,3,0,0,1,True,model,3
+row570,Q21948567|Q28692502,4,Q21948567,Sunflowers,Q28692502,women's rights activist,5,0,0,1,True,model,5
+row571,Q26221176|Q28692502,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q28692502,women's rights activist,5,0,0,1,True,model,5
+row572,Q160236|Q28692502,1,Q160236,Metropolitan Museum of Art,Q28692502,women's rights activist,3,0,0,1,True,model,3
+row575,Q160236|Q8030760,1,Q160236,Metropolitan Museum of Art,Q8030760,Woman with a Parrot,1,0,1,0,True,model,1
+row576,Q214867|Q8030760,0,Q214867,National Gallery of Art,Q8030760,Woman with a Parrot,5,0,0,1,False,bfs_auto_prune,
+row578,Q160236|Q20080422,1,Q160236,Metropolitan Museum of Art,Q20080422,Woman with a glass of wine and a child in a garden,5,1,1,1,True,model,5
+row579,Q214867|Q20080422,0,Q214867,National Gallery of Art,Q20080422,Woman with a glass of wine and a child in a garden,4,1,0,0,False,bfs_auto_prune,
+row580,Q867510|Q20539215,1,Q867510,Cypresses,Q20539215,Woman Sewing before a Garden Window,4,1,1,1,True,model,4
+row582,Q29441758|Q20539215,1,Q29441758,Margarete Mauthner,Q20539215,Woman Sewing before a Garden Window,5,1,1,1,True,model,5
+row583,Q160236|Q20539215,1,Q160236,Metropolitan Museum of Art,Q20539215,Woman Sewing before a Garden Window,3,1,1,1,True,model,3
+row585,Q867510|Q60469188,1,Q867510,Cypresses,Q60469188,Woman Reading,4,1,1,1,True,model,4
+row587,Q29441758|Q60469188,1,Q29441758,Margarete Mauthner,Q60469188,Woman Reading,5,1,1,1,True,model,5
+row588,Q160236|Q60469188,1,Q160236,Metropolitan Museum of Art,Q60469188,Woman Reading,3,1,1,1,True,model,3
+row591,Q160236|Q22965268,1,Q160236,Metropolitan Museum of Art,Q22965268,Woman Playing a Guitar,3,1,1,1,True,model,3
+row592,Q214867|Q22965268,0,Q214867,National Gallery of Art,Q22965268,Woman Playing a Guitar,5,1,0,0,False,bfs_auto_prune,
+row601,Q160236|Q61214,1,Q160236,Metropolitan Museum of Art,Q61214,"Wolfgang William, Count Palatine of Neuburg",2,0,1,0,True,model,2
+row602,Q160236|Q75770,1,Q160236,Metropolitan Museum of Art,Q75770,Count Palatine Wolfgang George Frederick of Neuburg,3,0,1,0,True,model,3
+row606,Q160236|Q54054,1,Q160236,Metropolitan Museum of Art,Q54054,Władysław IV Vasa,5,0,1,0,True,model,5
+row607,Q160236|Q8026087,1,Q160236,Metropolitan Museum of Art,Q8026087,Winston Frederick Churchill Guest,5,0,1,0,True,model,5
+row608,Q160236|Q8016,1,Q160236,Metropolitan Museum of Art,Q8016,Winston Churchill,4,0,1,0,True,model,4
+row610,Q160236|Q20735394,1,Q160236,Metropolitan Museum of Art,Q20735394,Wineglass and a Bowl of Fruit,5,1,1,1,True,model,5
+row611,Q160236|Q16197448,1,Q160236,Metropolitan Museum of Art,Q16197448,William Williams-Hope,2,0,1,0,True,model,2
+row613,Q867510|Q61294807,1,Q867510,Cypresses,Q61294807,William Buchanan,5,0,1,0,True,model,5
+row615,Q160236|Q61294807,1,Q160236,Metropolitan Museum of Art,Q61294807,William Buchanan,4,0,1,0,True,model,4
+row617,Q160236|Q3049525,1,Q160236,Metropolitan Museum of Art,Q3049525,William Bonaparte-Wyse,4,0,1,0,True,model,4
+row619,Q74128|Q19754135,0,Q74128,Alfred Flechtheim,Q19754135,Willem Steenhoff,2,1,1,1,True,model,2
+row621,Q26221176|Q69574,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q69574,Wilhelm Uhde,3,1,1,1,True,model,3
+row622,Q74128|Q69574,0,Q74128,Alfred Flechtheim,Q69574,Wilhelm Uhde,2,1,1,1,True,model,2
+row623,Q160236|Q150652,1,Q160236,Metropolitan Museum of Art,Q150652,Wilhelm I of Germany,5,0,1,0,True,model,5
+row625,Q867510|Q3568152,1,Q867510,Cypresses,Q3568152,Wildenstein Institute,5,1,1,1,True,model,5
+row627,Q160236|Q3568152,1,Q160236,Metropolitan Museum of Art,Q3568152,Wildenstein Institute,4,1,1,1,True,model,4
+row630,Q867510|Q10288082,1,Q867510,Cypresses,Q10288082,Wildenstein & Company,3,1,1,1,True,model,3
+row632,Q29441758|Q10288082,1,Q29441758,Margarete Mauthner,Q10288082,Wildenstein & Company,4,1,1,1,True,model,4
+row633,Q160236|Q10288082,1,Q160236,Metropolitan Museum of Art,Q10288082,Wildenstein & Company,2,1,1,1,True,model,2
+row635,Q55680361|Q28002707,4,Q55680361,Oskar Reichel,Q28002707,Wildbad Gastein in the evening (with Bengal lights),1,1,1,1,True,model,1
+row662,Q160236|Q15092984,1,Q160236,Metropolitan Museum of Art,Q15092984,WikiProject about LGBT-related content,5,0,0,1,True,model,5
+row663,Q26221176|Q13382529,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q13382529,WikiProject about human rights,3,0,1,0,True,model,3
+row664,Q17277888|Q13382529,0,Q17277888,Gottlieb Friedrich Reber,Q13382529,WikiProject about human rights,4,0,1,0,True,model,6
+row678,Q867510|Q26221228,1,Q867510,Cypresses,Q26221228,Wheat Fields after the Rain,5,1,1,1,True,model,5
+row679,Q160236|Q26221228,1,Q160236,Metropolitan Museum of Art,Q26221228,Wheat Fields after the Rain,3,1,1,1,True,model,3
+row683,Q160236|Q300849,1,Q160236,Metropolitan Museum of Art,Q300849,Weilbachs Kunstnerleksikon,3,0,0,1,True,model,3
+row687,Q26221176|Q42882613,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q42882613,"Waterloo Bridge, London",2,1,1,1,True,model,2
+row688,Q74128|Q42882613,0,Q74128,Alfred Flechtheim,Q42882613,"Waterloo Bridge, London",3,1,1,1,True,model,3
+row691,Q17277888|Q11075015,0,Q17277888,Gottlieb Friedrich Reber,Q11075015,war criminal,2,0,1,0,True,model,2
+row692,Q160236|Q11075015,1,Q160236,Metropolitan Museum of Art,Q11075015,war criminal,5,0,0,1,True,model,5
+row693,Q214867|Q11075015,0,Q214867,National Gallery of Art,Q11075015,war criminal,4,0,0,1,False,bfs_auto_prune,
+row694,Q160236|Q164236,1,Q160236,Metropolitan Museum of Art,Q164236,war correspondent,4,0,0,1,True,model,4
+row695,Q17277888|Q2546745,0,Q17277888,Gottlieb Friedrich Reber,Q2546745,Walter Westfeld,4,1,1,1,True,model,4
+row696,Q74128|Q2546745,0,Q74128,Alfred Flechtheim,Q2546745,Walter Westfeld,4,1,1,1,True,model,4
+row697,Q17277888|Q18602666,0,Q17277888,Gottlieb Friedrich Reber,Q18602666,Walter Hofer,1,1,1,1,True,model,1
+row698,Q160236|Q18602666,1,Q160236,Metropolitan Museum of Art,Q18602666,Walter Hofer,4,1,1,1,True,model,4
+row699,Q214867|Q18602666,0,Q214867,National Gallery of Art,Q18602666,Walter Hofer,5,1,0,0,False,bfs_auto_prune,
+row704,Q867510|Q2544162,1,Q867510,Cypresses,Q2544162,Walter Feilchenfeldt,4,1,1,1,True,model,4
+row706,Q17277888|Q2544162,0,Q17277888,Gottlieb Friedrich Reber,Q2544162,Walter Feilchenfeldt,5,1,1,1,True,model,5
+row707,Q160236|Q2544162,1,Q160236,Metropolitan Museum of Art,Q2544162,Walter Feilchenfeldt,2,1,1,1,True,model,2
+row710,Q160236|Q1750541,1,Q160236,Metropolitan Museum of Art,Q1750541,Walter Annenberg,2,1,1,1,True,model,2
+row711,Q160236|Q7963124,1,Q160236,Metropolitan Museum of Art,Q7963124,Wallis Annenberg,3,1,1,1,True,model,3
+row712,Q17277888|Q19885021,0,Q17277888,Gottlieb Friedrich Reber,Q19885021,Wall with Inscriptions,5,0,1,0,True,model,5
+row713,Q55680361|Q19885021,4,Q55680361,Oskar Reichel,Q19885021,Wall with Inscriptions,5,0,1,0,True,model,5
+row714,Q74128|Q19885021,0,Q74128,Alfred Flechtheim,Q19885021,Wall with Inscriptions,5,0,1,0,True,model,5
+row715,Q74128|Q7960534,0,Q74128,Alfred Flechtheim,Q7960534,Waiting,3,1,1,1,True,model,3
+row716,Q160236|Q944225,1,Q160236,Metropolitan Museum of Art,Q944225,Waddesdon Manor,5,0,1,0,True,model,5
+row718,Q160236|Q152564,1,Q160236,Metropolitan Museum of Art,Q152564,Völkischer Beobachter,5,0,0,1,True,model,5
+row719,Q156426|Q4109309,4,Q156426,Alexej von Jawlensky,Q4109309,Vladimir Nikolaevich Veryovkin,2,0,0,1,True,model,2
+row721,Q160236|Q16699463,1,Q160236,Metropolitan Museum of Art,Q16699463,Vladimir Solomirski,3,0,1,0,True,model,3
+row723,Q160236|Q700060,1,Q160236,Metropolitan Museum of Art,Q700060,Vladimir Paley,5,0,1,0,True,model,5
+row726,Q160236|Q2528876,1,Q160236,Metropolitan Museum of Art,Q2528876,Vittorio Cini,5,0,1,0,True,model,5
+row727,Q214867|Q4015210,0,Q214867,National Gallery of Art,Q4015210,Vittoria Contini Bonacossi,3,1,0,0,True,model,3
+row728,Q867510|Q3391743,1,Q867510,Cypresses,Q3391743,visual artist,4,0,1,0,True,model,4
+row730,Q160236|Q3391743,1,Q160236,Metropolitan Museum of Art,Q3391743,visual artist,5,0,0,1,True,model,5
+row731,Q214867|Q3391743,0,Q214867,National Gallery of Art,Q3391743,visual artist,5,0,0,1,False,bfs_auto_prune,
+row732,Q160236|Q27982855,1,Q160236,Metropolitan Museum of Art,Q27982855,Visitation,5,1,1,1,True,model,5
+row734,Q55680361|Q7933396,4,Q55680361,Oskar Reichel,Q7933396,Violin and Grapes,3,1,1,1,True,model,3
+row735,Q74128|Q7933396,0,Q74128,Alfred Flechtheim,Q7933396,Violin and Grapes,1,1,1,1,True,model,1
+row737,Q160236|Q18704648,1,Q160236,Metropolitan Museum of Art,Q18704648,Violet Pure Pitman,4,0,1,0,True,model,4
+row738,Q160236|Q18704645,1,Q160236,Metropolitan Museum of Art,Q18704645,Violet Ormond,4,0,1,0,True,model,4
+row740,Q160236|Q7933233,1,Q160236,Metropolitan Museum of Art,Q7933233,"Violet Cripps, Baroness Parmoor",5,0,1,0,True,model,5
+row743,Q21948567|Q2185351,4,Q21948567,Sunflowers,Q2185351,Vincent Willem van Gogh,2,0,1,0,True,model,2
+row744,Q26221176|Q2185351,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q2185351,Vincent Willem van Gogh,2,0,1,0,True,model,2
+row745,Q160236|Q2185351,1,Q160236,Metropolitan Museum of Art,Q2185351,Vincent Willem van Gogh,5,0,1,0,True,model,5
+row746,Q74128|Q2185351,0,Q74128,Alfred Flechtheim,Q2185351,Vincent Willem van Gogh,3,0,1,0,True,model,3
+row753,Q26221176|Q5582,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q5582,Vincent van Gogh,4,1,1,1,True,model,4
+row754,Q26221176|Q1960369,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1960369,Vincent van Gogh,4,1,1,1,True,model,4
+row756,Q160236|Q5582,1,Q160236,Metropolitan Museum of Art,Q5582,Vincent van Gogh,2,1,1,1,True,model,2
+row757,Q160236|Q1960369,1,Q160236,Metropolitan Museum of Art,Q1960369,Vincent van Gogh,4,1,1,1,True,model,4
+row758,Q17277888|Q19681547,0,Q17277888,Gottlieb Friedrich Reber,Q19681547,"View of Pirna, from Sonnestein Castle",3,1,1,1,True,model,3
+row759,Q74128|Q19681547,0,Q74128,Alfred Flechtheim,Q19681547,"View of Pirna, from Sonnestein Castle",3,1,1,1,True,model,3
+row760,Q657415|Q2567431,3,Q657415,Cleveland Museum of Art,Q2567431,View of Dordrecht,4,1,1,1,True,model,4
+row761,Q74128|Q20560074,0,Q74128,Alfred Flechtheim,Q20560074,View of Beverwijk,5,1,1,1,True,model,5
+row763,Q55680361|Q3557533,4,Q55680361,Oskar Reichel,Q3557533,Victor Rabinowitz,5,0,1,0,True,model,5
+row777,Q1634926|Q1622272,3,Q1634926,Hugo Cassirer,Q1622272,university teacher,3,0,0,1,True,model,3
+row778,Q867510|Q1622272,1,Q867510,Cypresses,Q1622272,university teacher,4,0,0,1,True,model,4
+row779,Q21948567|Q1622272,4,Q21948567,Sunflowers,Q1622272,university teacher,2,0,1,0,True,model,2
+row780,Q26221176|Q1622272,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1622272,university teacher,2,0,0,1,True,model,2
+row781,Q17277888|Q1622272,0,Q17277888,Gottlieb Friedrich Reber,Q1622272,university teacher,4,0,0,1,True,model,4
+row782,Q160236|Q1622272,1,Q160236,Metropolitan Museum of Art,Q1622272,university teacher,3,0,0,1,True,model,3
+row783,Q5147536|Q1622272,1,Q5147536,Josef Feinhals,Q1622272,university teacher,2,0,0,1,True,model,2
+row785,Q74128|Q1622272,0,Q74128,Alfred Flechtheim,Q1622272,university teacher,3,0,0,1,True,model,3
+row786,Q160236|Q14213,1,Q160236,Metropolitan Museum of Art,Q14213,United States Secretary of State,4,0,0,1,False,bfs_auto_prune,
+row787,Q160236|Q1145552,1,Q160236,Metropolitan Museum of Art,Q1145552,UbuWeb,5,0,1,0,True,model,5
+row788,Q160236|Q354034,1,Q160236,Metropolitan Museum of Art,Q354034,type designer,5,0,0,1,True,model,5
+row789,Q21948567|Q20010400,4,Q21948567,Sunflowers,Q20010400,"Two women and a child,  'A Mother's Care'",5,0,1,0,True,model,5
+row790,Q26221176|Q20010400,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q20010400,"Two women and a child,  'A Mother's Care'",5,0,1,0,True,model,5
+row791,Q160236|Q20010400,1,Q160236,Metropolitan Museum of Art,Q20010400,"Two women and a child,  'A Mother's Care'",5,0,1,0,True,model,5
+row792,Q160236|Q17265543,1,Q160236,Metropolitan Museum of Art,Q17265543,Two Riders on the Beach to the left,5,1,1,1,True,model,5
+row793,Q74128|Q26221176,0,Q74128,Alfred Flechtheim,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,1,1,1,1,True,model,1
+row794,Q17277888|Q20553562,0,Q17277888,Gottlieb Friedrich Reber,Q20553562,Two Nudes (Lovers),5,1,1,1,True,model,5
+row795,Q55680361|Q20553562,4,Q55680361,Oskar Reichel,Q20553562,Two Nudes (Lovers),1,1,1,1,True,model,1
+row796,Q74128|Q20553562,0,Q74128,Alfred Flechtheim,Q20553562,Two Nudes (Lovers),5,1,1,1,True,model,5
+row797,Q17277888|Q19883498,0,Q17277888,Gottlieb Friedrich Reber,Q19883498,Two Nudes,3,1,1,1,True,model,3
+row798,Q55680361|Q19883498,4,Q55680361,Oskar Reichel,Q19883498,Two Nudes,3,1,1,1,True,model,3
+row799,Q74128|Q19883498,0,Q74128,Alfred Flechtheim,Q19883498,Two Nudes,3,1,1,1,True,model,3
+row807,Q214867|Q3108260,0,Q214867,National Gallery of Art,Q3108260,Trois Baigneuses,3,1,0,0,False,bfs_auto_prune,
+row809,Q160236|Q27568006,1,Q160236,Metropolitan Museum of Art,Q27568006,Triptych: Holy Family with Saints Catherine and Barbara,5,1,1,1,True,model,5
+row810,Q26221176|Q333634,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q333634,translator,2,0,0,1,True,model,2
+row811,Q29441758|Q333634,1,Q29441758,Margarete Mauthner,Q333634,translator,1,0,0,1,True,model,1
+row812,Q160236|Q333634,1,Q160236,Metropolitan Museum of Art,Q333634,translator,4,0,0,1,True,model,4
+row813,Q74128|Q333634,0,Q74128,Alfred Flechtheim,Q333634,translator,3,0,0,1,True,model,3
+row815,Q160236|Q41213,1,Q160236,Metropolitan Museum of Art,Q41213,Tower of Babel,4,0,1,0,True,model,4
+row823,Q26221176|Q1321055,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1321055,Tilla Durieux,5,1,1,1,True,model,5
+row824,Q26221176|Q78793,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q78793,Tilla Durieux,5,1,1,1,True,model,5
+row825,Q17277888|Q1321055,0,Q17277888,Gottlieb Friedrich Reber,Q1321055,Tilla Durieux,4,1,1,1,True,model,4
+row826,Q17277888|Q78793,0,Q17277888,Gottlieb Friedrich Reber,Q78793,Tilla Durieux,4,1,1,1,True,model,4
+row827,Q29441758|Q78793,1,Q29441758,Margarete Mauthner,Q78793,Tilla Durieux,5,1,1,1,True,model,5
+row828,Q29441758|Q1321055,1,Q29441758,Margarete Mauthner,Q1321055,Tilla Durieux,5,1,1,1,True,model,5
+row829,Q160236|Q1321055,1,Q160236,Metropolitan Museum of Art,Q1321055,Tilla Durieux,1,1,1,1,True,model,1
+row830,Q160236|Q78793,1,Q160236,Metropolitan Museum of Art,Q78793,Tilla Durieux,2,1,1,1,True,model,2
+row831,Q214867|Q1321055,0,Q214867,National Gallery of Art,Q1321055,Tilla Durieux,5,1,0,0,False,bfs_auto_prune,
+row832,Q657415|Q176251,3,Q657415,Cleveland Museum of Art,Q176251,Thyssen-Bornemisza Museum,2,1,1,1,True,model,2
+row833,Q74128|Q21753940,0,Q74128,Alfred Flechtheim,Q21753940,Thyssen-Bornemisza family Collection,5,1,1,1,True,model,5
+row834,Q657415|Q21753940,3,Q657415,Cleveland Museum of Art,Q21753940,Thyssen-Bornemisza family Collection,5,1,1,1,True,model,5
+row838,Q160236|Q17021787,1,Q160236,Metropolitan Museum of Art,Q17021787,Thomas Agnew & Sons,2,1,1,1,True,model,2
+row841,Q867510|Q56555894,1,Q867510,Cypresses,Q56555894,Theodore Schempp,3,1,1,1,True,model,3
+row844,Q26221176|Q56555894,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q56555894,Theodore Schempp,5,1,1,1,True,model,5
+row845,Q17277888|Q56555894,0,Q17277888,Gottlieb Friedrich Reber,Q56555894,Theodore Schempp,2,1,1,1,True,model,8
+row846,Q160236|Q56555894,1,Q160236,Metropolitan Museum of Art,Q56555894,Theodore Schempp,3,1,1,1,True,model,3
+row848,Q74128|Q56555894,0,Q74128,Alfred Flechtheim,Q56555894,Theodore Schempp,5,1,1,1,True,model,5
+row850,Q160236|Q19429021,1,Q160236,Metropolitan Museum of Art,Q19429021,Theodor Fischer,5,1,1,1,True,model,5
+row851,Q21948567|Q317188,4,Q21948567,Sunflowers,Q317188,Theo Van Gogh,2,0,1,0,True,model,2
+row852,Q21948567|Q2659670,4,Q21948567,Sunflowers,Q2659670,Theo van Gogh,3,0,1,0,True,model,3
+row853,Q21948567|Q205456,4,Q21948567,Sunflowers,Q205456,Theo van Gogh,4,0,0,1,True,model,4
+row854,Q26221176|Q317188,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q317188,Theo Van Gogh,2,0,1,0,True,model,2
+row855,Q26221176|Q2659670,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q2659670,Theo van Gogh,3,0,1,0,True,model,3
+row856,Q26221176|Q205456,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q205456,Theo van Gogh,4,0,1,0,True,model,4
+row857,Q160236|Q317188,1,Q160236,Metropolitan Museum of Art,Q317188,Theo Van Gogh,4,0,1,0,True,model,4
+row859,Q74128|Q205456,0,Q74128,Alfred Flechtheim,Q205456,Theo van Gogh,5,0,1,0,True,model,5
+row861,Q74128|Q11613590,0,Q74128,Alfred Flechtheim,Q11613590,theatre designer,5,0,0,1,False,bfs_auto_prune,
+row862,Q11770767|Q103479,3,Q11770767,Still life with coffee pot  dishes and fruit,Q103479,Thea Sternheim,2,1,1,1,True,model,2
+row863,Q160236|Q39013,1,Q160236,Metropolitan Museum of Art,Q39013,The Woman in the Waves,1,0,1,0,True,model,1
+row865,Q17277888|Q42877939,0,Q17277888,Gottlieb Friedrich Reber,Q42877939,The Swimmers,5,1,1,1,True,model,5
+row866,Q55680361|Q42877939,4,Q55680361,Oskar Reichel,Q42877939,The Swimmers,5,1,1,1,True,model,5
+row867,Q74128|Q42877939,0,Q74128,Alfred Flechtheim,Q42877939,The Swimmers,5,1,1,1,True,model,5
+row868,Q160236|Q20267585,1,Q160236,Metropolitan Museum of Art,Q20267585,The Rape of Europa,3,0,1,0,True,model,3
+row869,Q160236|Q20268530,1,Q160236,Metropolitan Museum of Art,Q20268530,The Rape of Europa,3,0,1,0,True,model,3
+row872,Q26221176|Q1810348,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1810348,The Quai Malaquais and the Institute,5,1,1,1,True,model,5
+row873,Q17277888|Q1810348,0,Q17277888,Gottlieb Friedrich Reber,Q1810348,The Quai Malaquais and the Institute,4,1,1,1,True,model,4
+row874,Q29441758|Q1810348,1,Q29441758,Margarete Mauthner,Q1810348,The Quai Malaquais and the Institute,5,1,1,1,True,model,5
+row875,Q160236|Q1810348,1,Q160236,Metropolitan Museum of Art,Q1810348,The Quai Malaquais and the Institute,3,1,1,1,True,model,3
+row877,Q160236|Q29167435,1,Q160236,Metropolitan Museum of Art,Q29167435,The Metropolitan Museum of Art Guide (2012 edition),2,0,1,0,True,model,2
+row878,Q867510|Q55647114,1,Q867510,Cypresses,Q55647114,The Lute Player,5,0,1,0,True,model,5
+row880,Q160236|Q55647114,1,Q160236,Metropolitan Museum of Art,Q55647114,The Lute Player,4,0,1,0,True,model,4
+row882,Q867510|Q21479251,1,Q867510,Cypresses,Q21479251,The Lock at Pontoise,4,1,1,1,True,model,4
+row884,Q29441758|Q21479251,1,Q29441758,Margarete Mauthner,Q21479251,The Lock at Pontoise,5,1,1,1,True,model,5
+row885,Q160236|Q21479251,1,Q160236,Metropolitan Museum of Art,Q21479251,The Lock at Pontoise,3,1,1,1,True,model,3
+row888,Q160236|Q776175,1,Q160236,Metropolitan Museum of Art,Q776175,The Harvesters,1,0,1,0,True,model,1
+row889,Q214867|Q776175,0,Q214867,National Gallery of Art,Q776175,The Harvesters,5,0,0,1,False,bfs_auto_prune,
+row890,Q160236|Q30034332,1,Q160236,Metropolitan Museum of Art,Q30034332,The H. O. Havemeyer Collection,3,0,1,0,True,model,3
+row893,Q160236|Q19905131,1,Q160236,Metropolitan Museum of Art,Q19905131,The Four Trees,3,0,1,0,True,model,3
+row896,Q74128|Q7720110,0,Q74128,Alfred Flechtheim,Q7720110,The Brierwood Pipe,3,1,0,0,True,model,3
+row897,Q74128|Q60474736,0,Q74128,Alfred Flechtheim,Q60474736,The Aviator,1,1,1,1,True,model,1
+row898,Q74128|Q19077875,0,Q74128,Alfred Flechtheim,Q19077875,The American Cyclopædia,5,0,0,1,True,model,5
+row899,Q74128|Q49277733,0,Q74128,Alfred Flechtheim,Q49277733,"Thalia and Melpomene, the Muses of Comedy and Tragedy",3,1,1,1,True,model,3
+row900,Q74128|Q1320883,0,Q74128,Alfred Flechtheim,Q1320883,talent manager,5,0,0,1,False,bfs_auto_prune,
+row902,Q214867|Q524534,0,Q214867,National Gallery of Art,Q524534,Suzanne Manet,4,0,0,1,False,bfs_auto_prune,
+row903,Q74128|Q21948567,0,Q74128,Alfred Flechtheim,Q21948567,Sunflowers,3,1,1,1,True,model,3
+row904,Q74128|Q24022779,0,Q74128,Alfred Flechtheim,Q24022779,Still Life: Potatoes in a Yellow Dish,1,1,1,1,True,model,1
+row905,Q55680361|Q28008262,4,Q55680361,Oskar Reichel,Q28008262,Still Life with Mutton and Hyacinth,1,0,1,0,True,model,1
+row907,Q867510|Q28035859,1,Q867510,Cypresses,Q28035859,Still Life with Mangoes and a Hibiscus Flower,2,1,1,1,True,model,2
+row909,Q29441758|Q28035859,1,Q29441758,Margarete Mauthner,Q28035859,Still Life with Mangoes and a Hibiscus Flower,5,1,1,1,True,model,5
+row910,Q160236|Q28035859,1,Q160236,Metropolitan Museum of Art,Q28035859,Still Life with Mangoes and a Hibiscus Flower,5,1,1,1,True,model,5
+row913,Q74128|Q232972,0,Q74128,Alfred Flechtheim,Q232972,Sonia Delaunay,3,1,0,0,True,model,3
+row914,Q160236|Q7560690,1,Q160236,Metropolitan Museum of Art,Q7560690,Son of Man in Judaism,5,0,0,1,False,bfs_auto_prune,
+row915,Q160236|Q7560691,1,Q160236,Metropolitan Museum of Art,Q7560691,Son of man in Christianity,5,0,0,1,False,bfs_auto_prune,
+row916,Q324935|Q19180675,3,Q324935,Ferenc Hatvany,Q19180675,Small Brockhaus and Efron Encyclopedic Dictionary,4,0,0,1,False,bfs_auto_prune,
+row917,Q74128|Q19180675,0,Q74128,Alfred Flechtheim,Q19180675,Small Brockhaus and Efron Encyclopedic Dictionary,5,0,0,1,True,model,5
+row918,Q3783572|Q2918448,2,Q3783572,Harvard Art Museums,Q2918448,Harvard Museum of the Ancient Near East,2,0,1,0,True,model,2
+row922,Q324935|Q1034379,3,Q324935,Ferenc Hatvany,Q1034379,Sándor Hatvany-Deutsch,1,1,1,1,True,model,1
+row925,Q74128|Q19308411,0,Q74128,Alfred Flechtheim,Q19308411,Sam Salz,2,1,1,1,True,model,2
+row926,Q867510|Q96522,1,Q867510,Cypresses,Q96522,Salman Schocken,1,1,1,1,True,model,1
+row941,Q160236|Q2504617,1,Q160236,Metropolitan Museum of Art,Q2504617,romanist,4,0,0,1,True,model,4
+row943,Q160236|Q55656666,1,Q160236,Metropolitan Museum of Art,Q55656666,"Roman period shears from Trabzon, MET 39.2.2",1,1,1,1,True,model,1
+row944,Q214867|Q55656666,0,Q214867,National Gallery of Art,Q55656666,"Roman period shears from Trabzon, MET 39.2.2",5,1,0,0,False,bfs_auto_prune,
+row945,Q160236|Q22101864,1,Q160236,Metropolitan Museum of Art,Q22101864,Robin Lehman,3,1,1,1,True,model,3
+row946,Q17277888|Q1998160,0,Q17277888,Gottlieb Friedrich Reber,Q1998160,Robert Noortman,5,1,1,1,True,model,5
+row947,Q160236|Q3435730,1,Q160236,Metropolitan Museum of Art,Q3435730,Robert Lehman,2,1,1,1,True,model,2
+row948,Q214867|Q190804,0,Q214867,National Gallery of Art,Q190804,Rijksmuseum,5,1,0,0,False,bfs_auto_prune,
+row949,Q657415|Q190804,3,Q657415,Cleveland Museum of Art,Q190804,Rijksmuseum,5,1,1,1,True,model,5
+row951,Q160236|Q27680201,1,Q160236,Metropolitan Museum of Art,Q27680201,Riemann's Music Dictionary (1901–1904),3,0,0,1,True,model,3
+row953,Q867510|Q2148186,1,Q867510,Cypresses,Q2148186,Rhode Island School of Design Museum,3,1,1,1,True,model,3
+row960,Q867510|Q673751,1,Q867510,Cypresses,Q673751,Reichsleiter Rosenberg Taskforce,5,1,1,1,True,model,5
+row962,Q160236|Q673751,1,Q160236,Metropolitan Museum of Art,Q673751,Reichsleiter Rosenberg Taskforce,4,1,1,1,True,model,4
+row964,Q55680361|Q131572,4,Q55680361,Oskar Reichel,Q131572,refugee,5,1,1,1,True,model,5
+row965,Q74128|Q131572,0,Q74128,Alfred Flechtheim,Q131572,refugee,1,1,1,1,True,model,1
+row966,Q74128|Q131572,0,Q74128,Alfred Flechtheim,Q131572,refugee,1,1,1,1,True,model,1
+row967,Q160236|Q20074801,1,Q160236,Metropolitan Museum of Art,Q20074801,Raising the Young Man of Nain,5,0,1,0,True,model,5
+row968,Q160236|Q57666,1,Q160236,Metropolitan Museum of Art,Q57666,Queen Marie of Romania,5,0,1,0,True,model,5
+row969,Q55680361|Q2516866,4,Q55680361,Oskar Reichel,Q2516866,publisher,5,0,1,0,True,model,5
+row972,Q55680361|Q768717,4,Q55680361,Oskar Reichel,Q768717,private collection,4,1,1,1,True,model,6
+row973,Q74128|Q768717,0,Q74128,Alfred Flechtheim,Q768717,private collection,2,1,1,1,True,model,2
+row974,Q74128|Q20183867,0,Q74128,Alfred Flechtheim,Q20183867,Portrait of Madame Brunet,3,1,1,1,True,model,3
+row975,Q160236|Q18760265,1,Q160236,Metropolitan Museum of Art,Q18760265,Portrait of Herman Doomer,3,0,1,0,True,model,3
+row976,Q74128|Q18056753,0,Q74128,Alfred Flechtheim,Q18056753,Portrait of an unknown man,5,1,1,1,True,model,5
+row977,Q21948567|Q18120969,4,Q21948567,Sunflowers,Q18120969,Portrait of an old woman,5,0,1,0,True,model,5
+row978,Q26221176|Q18120969,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q18120969,Portrait of an old woman,5,0,0,1,True,model,5
+row979,Q160236|Q19905326,1,Q160236,Metropolitan Museum of Art,Q19905326,Portrait of an Old Woman,3,0,1,0,True,model,3
+row980,Q55680361|Q19883952,4,Q55680361,Oskar Reichel,Q19883952,Portrait of an Equilibrist,5,1,1,1,True,model,5
+row981,Q160236|Q17987246,1,Q160236,Metropolitan Museum of Art,Q17987246,"Portrait of an Elderly Man, traditionally called Heer Bodolphe",3,1,1,1,True,model,3
+row982,Q160236|Q20168379,1,Q160236,Metropolitan Museum of Art,Q20168379,Portrait of a Young Woman,3,0,1,0,True,model,3
+row983,Q160236|Q3937730,1,Q160236,Metropolitan Museum of Art,Q3937730,Portrait of a Young Man with a Book,3,0,1,0,True,model,3
+row984,Q55680361|Q20276008,4,Q55680361,Oskar Reichel,Q20276008,Portrait of a Young Artist,3,1,1,1,True,model,3
+row985,Q74128|Q20276008,0,Q74128,Alfred Flechtheim,Q20276008,Portrait of a Young Artist,3,1,1,1,True,model,3
+row986,Q160236|Q3937681,1,Q160236,Metropolitan Museum of Art,Q3937681,Portrait of a Woman with a Man at a Casement,1,0,1,0,True,model,1
+row987,Q214867|Q3937681,0,Q214867,National Gallery of Art,Q3937681,Portrait of a Woman with a Man at a Casement,5,0,0,1,False,bfs_auto_prune,
+row988,Q867510|Q60514834,1,Q867510,Cypresses,Q60514834,Portrait of a Woman as Diana,4,1,1,1,True,model,4
+row990,Q29441758|Q60514834,1,Q29441758,Margarete Mauthner,Q60514834,Portrait of a Woman as Diana,5,1,1,1,True,model,5
+row991,Q160236|Q60514834,1,Q160236,Metropolitan Museum of Art,Q60514834,Portrait of a Woman as Diana,3,1,1,1,True,model,3
+row993,Q160236|Q20167179,1,Q160236,Metropolitan Museum of Art,Q20167179,"Portrait of a Woman, probably a Member of the Van Beresteyn Family",3,0,1,0,True,model,3
+row994,Q160236|Q19913201,1,Q160236,Metropolitan Museum of Art,Q19913201,"Portrait of a Woman, Called Héloïse Abélard",3,0,1,0,True,model,3
+row995,Q160236|Q19912383,1,Q160236,Metropolitan Museum of Art,Q19912383,Portrait of a Woman,3,0,1,0,True,model,3
+row996,Q74128|Q20539227,0,Q74128,Alfred Flechtheim,Q20539227,Portrait of a Man and Woman in an Interior,3,1,1,1,True,model,3
+row997,Q74128|Q18030849,0,Q74128,Alfred Flechtheim,Q18030849,"Portrait of a man, possibly Adriaen van Ostade",5,1,1,1,True,model,5
+row998,Q74128|Q19913398,0,Q74128,Alfred Flechtheim,Q19913398,Portrait of a Man,3,1,1,1,True,model,3
+row999,Q17277888|Q49277675,0,Q17277888,Gottlieb Friedrich Reber,Q49277675,"Polymnia, the Muse of Sacred Hymn",3,1,1,1,True,model,3
+row1000,Q55680361|Q49277675,4,Q55680361,Oskar Reichel,Q49277675,"Polymnia, the Muse of Sacred Hymn",3,1,1,1,True,model,3
+row1001,Q74128|Q49277675,0,Q74128,Alfred Flechtheim,Q49277675,"Polymnia, the Muse of Sacred Hymn",3,1,1,1,True,model,3
+row1002,Q21948567|Q11822840,4,Q21948567,Sunflowers,Q11822840,Polskie encyklopedie,5,0,0,1,True,model,5
+row1003,Q26221176|Q11822840,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q11822840,Polskie encyklopedie,5,0,0,1,True,model,5
+row1004,Q160236|Q11822840,1,Q160236,Metropolitan Museum of Art,Q11822840,Polskie encyklopedie,3,0,1,0,True,model,3
+row1005,Q867510|Q13218361,1,Q867510,Cypresses,Q13218361,polo player,5,0,0,1,True,model,5
+row1007,Q160236|Q13218361,1,Q160236,Metropolitan Museum of Art,Q13218361,polo player,3,0,0,1,True,model,3
+row1009,Q666331|Q82955,4,Q666331,Foundation E.G. Bührle Collection,Q82955,politician,3,0,0,1,True,model,3
+row1011,Q867510|Q82955,1,Q867510,Cypresses,Q82955,politician,3,0,0,1,True,model,3
+row1013,Q17277888|Q82955,0,Q17277888,Gottlieb Friedrich Reber,Q82955,politician,2,0,1,0,True,model,2
+row1014,Q55680361|Q82955,4,Q55680361,Oskar Reichel,Q82955,politician,5,0,0,1,True,model,5
+row1015,Q160236|Q82955,1,Q160236,Metropolitan Museum of Art,Q82955,politician,3,0,0,1,True,model,3
+row1016,Q214867|Q82955,0,Q214867,National Gallery of Art,Q82955,politician,3,0,0,1,True,model,3
+row1017,Q74128|Q82955,0,Q74128,Alfred Flechtheim,Q82955,politician,5,0,0,1,True,model,5
+row1018,Q17277888|Q15958642,0,Q17277888,Gottlieb Friedrich Reber,Q15958642,political writer,5,0,0,1,True,model,5
+row1019,Q55680361|Q15958642,4,Q55680361,Oskar Reichel,Q15958642,political writer,5,0,1,0,True,model,5
+row1020,Q74128|Q15958642,0,Q74128,Alfred Flechtheim,Q15958642,political writer,5,0,0,1,True,model,5
+row1021,Q17277888|Q1238570,0,Q17277888,Gottlieb Friedrich Reber,Q1238570,political scientist,5,0,0,1,True,model,5
+row1022,Q160236|Q36,1,Q160236,Metropolitan Museum of Art,Q36,Poland,4,0,1,0,True,model,4
+row1023,Q21948567|Q49757,4,Q21948567,Sunflowers,Q49757,poet,5,0,0,1,True,model,5
+row1024,Q26221176|Q49757,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q49757,poet,5,0,0,1,True,model,4
+row1025,Q160236|Q49757,1,Q160236,Metropolitan Museum of Art,Q49757,poet,3,0,0,1,True,model,3
+row1026,Q160236|Q1752882,1,Q160236,Metropolitan Museum of Art,Q1752882,Ploskovice,5,0,0,1,True,model,5
+row1027,Q1634926|Q214917,3,Q1634926,Hugo Cassirer,Q214917,playwright,3,0,0,1,True,model,3
+row1028,Q11770767|Q214917,3,Q11770767,Still life with coffee pot  dishes and fruit,Q214917,playwright,2,0,0,1,True,model,2
+row1029,Q160236|Q214917,1,Q160236,Metropolitan Museum of Art,Q214917,playwright,3,0,0,1,True,model,3
+row1030,Q214867|Q214917,0,Q214867,National Gallery of Art,Q214917,playwright,3,0,0,1,True,model,3
+row1031,Q160236|Q3906134,1,Q160236,Metropolitan Museum of Art,Q3906134,Placido Gabrielli,4,0,1,0,True,model,4
+row1033,Q160236|Q253864,1,Q160236,Metropolitan Museum of Art,Q253864,Pietro Toesca,5,0,1,0,True,model,5
+row1036,Q160236|Q17651291,1,Q160236,Metropolitan Museum of Art,Q17651291,Pietà,5,0,1,0,True,model,5
+row1037,Q160236|Q2871551,1,Q160236,Metropolitan Museum of Art,Q2871551,Pierre-Suzanne-Augustin Cochin,5,0,1,0,True,model,5
+row1038,Q214867|Q2871551,0,Q214867,National Gallery of Art,Q2871551,Pierre-Suzanne-Augustin Cochin,5,0,0,1,False,bfs_auto_prune,
+row1040,Q17277888|Q39931,0,Q17277888,Gottlieb Friedrich Reber,Q39931,Pierre-Auguste Renoir,5,1,1,1,True,model,5
+row1041,Q160236|Q39931,1,Q160236,Metropolitan Museum of Art,Q39931,Pierre-Auguste Renoir,2,1,1,1,True,model,2
+row1043,Q160236|Q518966,1,Q160236,Metropolitan Museum of Art,Q518966,Pierre Renoir,3,0,1,0,True,model,3
+row1044,Q160236|Q764398,1,Q160236,Metropolitan Museum of Art,Q764398,Pierre Napoleon Bonaparte,3,0,1,0,True,model,3
+row1045,Q160236|Q2092993,1,Q160236,Metropolitan Museum of Art,Q2092993,Pierre Ernest Prins,5,0,1,0,True,model,5
+row1047,Q160236|Q486748,1,Q160236,Metropolitan Museum of Art,Q486748,pianist,4,0,0,1,True,model,4
+row1049,Q214867|Q486748,0,Q214867,National Gallery of Art,Q486748,pianist,5,0,0,1,False,bfs_auto_prune,
+row1051,Q867510|Q39631,1,Q867510,Cypresses,Q39631,physician,5,0,0,1,True,model,5
+row1052,Q17277888|Q39631,0,Q17277888,Gottlieb Friedrich Reber,Q39631,physician,5,0,0,1,True,model,5
+row1053,Q160236|Q39631,1,Q160236,Metropolitan Museum of Art,Q39631,physician,3,0,0,1,True,model,3
+row1054,Q160236|Q45764132,1,Q160236,Metropolitan Museum of Art,Q45764132,photography collector,5,0,0,1,True,model,5
+row1055,Q867510|Q33231,1,Q867510,Cypresses,Q33231,photographer,4,0,0,1,True,model,4
+row1057,Q17277888|Q33231,0,Q17277888,Gottlieb Friedrich Reber,Q33231,photographer,4,0,1,0,True,model,4
+row1058,Q160236|Q33231,1,Q160236,Metropolitan Museum of Art,Q33231,photographer,3,0,0,1,True,model,3
+row1059,Q5147536|Q33231,1,Q5147536,Josef Feinhals,Q33231,photographer,2,0,1,0,True,model,2
+row1060,Q74128|Q33231,0,Q74128,Alfred Flechtheim,Q33231,photographer,5,0,1,0,True,model,5
+row1061,Q1634926|Q4964182,3,Q1634926,Hugo Cassirer,Q4964182,philosopher,5,0,0,1,True,model,5
+row1062,Q160236|Q4964182,1,Q160236,Metropolitan Museum of Art,Q4964182,philosopher,3,0,0,1,True,model,7
+row1063,Q160236|Q2735601,1,Q160236,Metropolitan Museum of Art,Q2735601,Philippine Élisabeth d'Orléans,5,0,1,0,True,model,5
+row1064,Q160236|Q2087497,1,Q160236,Metropolitan Museum of Art,Q2087497,Philippe-Paul de Ségur,5,0,1,0,True,model,5
+row1065,Q160236|Q155596,1,Q160236,Metropolitan Museum of Art,Q155596,"Philippe, Duke of Orléans, Regent of France",4,0,1,0,True,model,4
+row1069,Q160236|Q91763,1,Q160236,Metropolitan Museum of Art,Q91763,Philipp of Bavaria,5,0,1,0,True,model,5
+row1070,Q160236|Q67198,1,Q160236,Metropolitan Museum of Art,Q67198,"Philip William August, Count Palatine of Neuburg",3,0,1,0,True,model,3
+row1071,Q160236|Q60514,1,Q160236,Metropolitan Museum of Art,Q60514,"Philip William, Elector Palatine",2,0,1,0,True,model,2
+row1072,Q160236|Q170467,1,Q160236,Metropolitan Museum of Art,Q170467,Philip V of Spain,5,0,1,0,True,model,5
+row1073,Q160236|Q1115886,1,Q160236,Metropolitan Museum of Art,Q1115886,Philip Schuyler,4,0,0,1,False,bfs_auto_prune,
+row1074,Q160236|Q690276,1,Q160236,Metropolitan Museum of Art,Q690276,"Philip Prospero, Prince of Asturias",5,0,1,0,True,model,5
+row1075,Q160236|Q62885,1,Q160236,Metropolitan Museum of Art,Q62885,"Philip Louis, Count Palatine of Neuburg",2,0,1,0,True,model,2
+row1076,Q160236|Q7183964,1,Q160236,Metropolitan Museum of Art,Q7183964,Philip Lehman,3,1,1,1,True,model,3
+row1077,Q160236|Q774992,1,Q160236,Metropolitan Museum of Art,Q774992,Philip Jeremiah Schuyler,5,0,0,1,False,bfs_auto_prune,
+row1078,Q160236|Q691402,1,Q160236,Metropolitan Museum of Art,Q691402,Philip IV of Spain,4,0,1,0,True,model,4
+row1079,Q160236|Q34464,1,Q160236,Metropolitan Museum of Art,Q34464,Philip III of Spain,4,0,1,0,True,model,4
+row1080,Q160236|Q34417,1,Q160236,Metropolitan Museum of Art,Q34417,Philip II of Spain,4,0,1,0,True,model,4
+row1082,Q160236|Q169319,1,Q160236,Metropolitan Museum of Art,Q169319,Philip I,5,0,1,0,True,model,5
+row1083,Q160236|Q22088567,1,Q160236,Metropolitan Museum of Art,Q22088567,Philip Hamilton,3,0,0,1,False,bfs_auto_prune,
+row1084,Q160236|Q28124142,1,Q160236,Metropolitan Museum of Art,Q28124142,Philip Hamilton,3,0,0,1,False,bfs_auto_prune,
+row1087,Q160236|Q2086712,1,Q160236,Metropolitan Museum of Art,Q2086712,Philip Florinus of Sulzbach,4,0,1,0,True,model,4
+row1090,Q26221176|Q12362622,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q12362622,philanthropist,2,0,1,0,True,model,2
+row1091,Q17277888|Q12362622,0,Q17277888,Gottlieb Friedrich Reber,Q12362622,philanthropist,3,0,0,1,True,model,3
+row1092,Q55680361|Q12362622,4,Q55680361,Oskar Reichel,Q12362622,philanthropist,5,0,0,1,True,model,5
+row1093,Q160236|Q12362622,1,Q160236,Metropolitan Museum of Art,Q12362622,philanthropist,3,0,0,1,True,model,3
+row1094,Q214867|Q12362622,0,Q214867,National Gallery of Art,Q12362622,philanthropist,3,0,0,1,True,model,3
+row1095,Q74128|Q12362622,0,Q74128,Alfred Flechtheim,Q12362622,philanthropist,3,0,0,1,True,model,3
+row1096,Q657415|Q12362622,3,Q657415,Cleveland Museum of Art,Q12362622,philanthropist,5,0,0,1,True,model,5
+row1097,Q29441758|Q510324,1,Q29441758,Margarete Mauthner,Q510324,Philadelphia Museum of Art,4,1,1,1,True,model,4
+row1098,Q160236|Q510324,1,Q160236,Metropolitan Museum of Art,Q510324,Philadelphia Museum of Art,4,1,1,1,True,model,4
+row1099,Q160236|Q19906011,1,Q160236,Metropolitan Museum of Art,Q19906011,Peasant Woman Cooking by a Fireplace,1,0,1,0,True,model,1
+row1100,Q214867|Q19906011,0,Q214867,National Gallery of Art,Q19906011,Peasant Woman Cooking by a Fireplace,3,0,0,1,False,bfs_auto_prune,
+row1101,Q74128|Q16917809,0,Q74128,Alfred Flechtheim,Q16917809,Pear Tree,5,1,1,1,True,model,5
+row1103,Q214867|Q560643,0,Q214867,National Gallery of Art,Q560643,Paul Rosenberg,4,1,0,0,False,bfs_auto_prune,
+row1112,Q74128|Q15472169,0,Q74128,Alfred Flechtheim,Q15472169,patron of the arts,5,1,1,1,True,model,5
+row1113,Q324935|Q1028181,3,Q324935,Ferenc Hatvany,Q1028181,painter,1,0,0,1,True,model,1
+row1114,Q55680361|Q2498180,4,Q55680361,Oskar Reichel,Q2498180,Orthodox Encyclopedia,5,0,0,1,True,model,5
+row1116,Q74128|Q21888081,0,Q74128,Alfred Flechtheim,Q21888081,Old man with a beard and beret,5,1,1,1,True,model,5
+row1117,Q26221176|Q1752085,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1752085,Norton Simon Museum,5,1,1,1,True,model,5
+row1118,Q74128|Q1752085,0,Q74128,Alfred Flechtheim,Q1752085,Norton Simon Museum,4,1,1,1,True,model,4
+row1119,Q55680361|Q5460604,4,Q55680361,Oskar Reichel,Q5460604,Wikipedia:List of articles all languages should have,5,0,0,1,True,model,5
+row1121,Q74128|Q1029706,0,Q74128,Alfred Flechtheim,Q1029706,New International Encyclopedia,5,0,0,1,True,model,5
+row1122,Q74128|Q19190511,0,Q74128,Alfred Flechtheim,Q19190511,New Encyclopedic Dictionary,5,0,0,1,True,model,5
+row1123,Q17277888|Q328376,0,Q17277888,Gottlieb Friedrich Reber,Q328376,Nazi plunder,5,1,1,1,True,model,10
+row1124,Q55680361|Q328376,4,Q55680361,Oskar Reichel,Q328376,Nazi plunder,5,1,1,1,True,model,16
+row1125,Q160236|Q328376,1,Q160236,Metropolitan Museum of Art,Q328376,Nazi plunder,5,1,1,1,True,model,5
+row1126,Q74128|Q328376,0,Q74128,Alfred Flechtheim,Q328376,Nazi plunder,5,1,1,1,True,model,12
+row1132,Q17277888|Q7320,0,Q17277888,Gottlieb Friedrich Reber,Q7320,Nazi Party,5,1,1,1,True,model,5
+row1133,Q160236|Q7320,1,Q160236,Metropolitan Museum of Art,Q7320,Nazi Party,4,1,1,1,True,model,4
+row1137,Q867510|Q1565911,1,Q867510,Cypresses,Q1565911,"Museum of Fine Arts, Houston",3,1,1,1,True,model,3
+row1141,Q26221176|Q49133,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q49133,Museum of Fine Arts Boston,4,1,1,1,True,model,4
+row1142,Q3783572|Q1420782,2,Q3783572,Harvard Art Museums,Q1420782,Museum of Comparative Zoology,2,0,0,1,True,model,2
+row1144,Q17277888|Q125634,0,Q17277888,Gottlieb Friedrich Reber,Q125634,Museum Folkwang,5,1,1,1,True,model,5
+row1145,Q160236|Q125634,1,Q160236,Metropolitan Museum of Art,Q125634,Museum Folkwang,4,1,1,1,True,model,4
+row1147,Q324935|Q189290,3,Q324935,Ferenc Hatvany,Q189290,military officer,3,1,0,0,True,model,3
+row1150,Q17277888|Q160236,0,Q17277888,Gottlieb Friedrich Reber,Q160236,Metropolitan Museum of Art,5,1,1,1,True,model,5
+row1151,Q214867|Q160236,0,Q214867,National Gallery of Art,Q160236,Metropolitan Museum of Art,4,1,0,0,False,bfs_auto_prune,
+row1153,Q74128|Q51626,0,Q74128,Alfred Flechtheim,Q51626,Messiah,5,1,0,0,True,model,5
+row1154,Q55680361|Q215536,4,Q55680361,Oskar Reichel,Q215536,merchant,5,0,0,1,True,model,5
+row1158,Q867510|Q6762972,1,Q867510,Cypresses,Q6762972,Marie Norton Harriman,5,1,1,1,True,model,5
+row1159,Q160236|Q159660,1,Q160236,Metropolitan Museum of Art,Q159660,"Maria of Austria, Holy Roman Empress",4,0,1,0,True,model,4
+row1161,Q324935|Q587955,3,Q324935,Ferenc Hatvany,Q587955,Marcell Nemes,2,1,1,1,True,model,2
+row1162,Q160236|Q12713481,1,Q160236,Metropolitan Museum of Art,Q12713481,laborer,5,0,0,1,True,model,5
+row1167,Q17277888|Q20540932,0,Q17277888,Gottlieb Friedrich Reber,Q20540932,Mandolin and Fruit Dish,1,1,1,1,True,model,1
+row1168,Q214867|Q20540932,0,Q214867,National Gallery of Art,Q20540932,Mandolin and Fruit Dish,5,1,0,0,False,bfs_auto_prune,
+row1169,Q74128|Q51722332,0,Q74128,Alfred Flechtheim,Q51722332,Magdalena Haberstock,5,1,1,1,True,model,5
+row1170,Q74128|Q10288073,0,Q74128,Alfred Flechtheim,Q10288073,M. Knoedler & Co.,4,1,1,1,True,model,4
+row1171,Q55680361|Q1871838,4,Q55680361,Oskar Reichel,Q1871838,Louis M. Rabinowitz,4,1,1,1,True,model,4
+row1174,Q160236|Q28860117,1,Q160236,Metropolitan Museum of Art,Q28860117,Levy-Hermanos,2,0,1,0,True,model,2
+row1175,Q214867|Q28860117,0,Q214867,National Gallery of Art,Q28860117,Levy-Hermanos,4,0,0,1,False,bfs_auto_prune,
+row1176,Q160236|Q150494,1,Q160236,Metropolitan Museum of Art,Q150494,"Leopold I, Holy Roman Emperor",4,0,1,0,True,model,4
+row1177,Q74128|Q47153187,0,Q74128,Alfred Flechtheim,Q47153187,Leonard C. Hanna Jr.,2,1,1,1,True,model,2
+row1179,Q160236|Q18347243,1,Q160236,Metropolitan Museum of Art,Q18347243,Lefevre Gallery,5,1,1,1,True,model,6
+row1180,Q55680361|Q20087533,4,Q55680361,Oskar Reichel,Q20087533,Le Fumeur,5,1,1,1,True,model,5
+row1181,Q74128|Q20087533,0,Q74128,Alfred Flechtheim,Q20087533,Le Fumeur,5,1,1,1,True,model,5
+row1182,Q160236|Q95569,1,Q160236,Metropolitan Museum of Art,Q95569,Kunsthistorisches Museum,4,1,1,1,True,model,4
+row1183,Q26221176|Q6419949,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q6419949,Klaus Perls,3,1,1,1,True,model,3
+row1184,Q74128|Q6419949,0,Q74128,Alfred Flechtheim,Q6419949,Klaus Perls,2,1,1,1,True,model,2
+row1186,Q74128|Q74432,0,Q74128,Alfred Flechtheim,Q74432,Karl Ernst Osthaus,2,1,1,1,True,model,2
+row1187,Q55680361|Q60010460,4,Q55680361,Oskar Reichel,Q60010460,Kahnweiler gallery,4,1,1,1,True,model,4
+row1188,Q74128|Q60010460,0,Q74128,Alfred Flechtheim,Q60010460,Kahnweiler gallery,2,1,1,1,True,model,2
+row1189,Q74128|Q47530987,0,Q74128,Alfred Flechtheim,Q47530987,Julius Böhler Jr.,5,1,1,1,True,model,5
+row1190,Q74128|Q47531053,0,Q74128,Alfred Flechtheim,Q47531053,Julius Böhler AG,4,1,1,1,True,model,4
+row1191,Q55680361|Q1930187,4,Q55680361,Oskar Reichel,Q1930187,journalist,5,0,0,1,True,model,5
+row1192,Q55680361|Q855,4,Q55680361,Oskar Reichel,Q855,Joseph Stalin,5,0,1,0,True,model,5
+row1193,Q74128|Q855,0,Q74128,Alfred Flechtheim,Q855,Joseph Stalin,5,0,0,1,True,model,5
+row1194,Q74128|Q2554450,0,Q74128,Alfred Flechtheim,Q2554450,Johanna van Gogh-Bonger,2,1,1,1,True,model,2
+row1195,Q74128|Q2208214,0,Q74128,Alfred Flechtheim,Q2208214,Johan Cohen Gosschalk,3,1,1,1,True,model,3
+row1200,Q55680361|Q689638,4,Q55680361,Oskar Reichel,Q689638,Jean-Marie Loret,5,0,1,0,True,model,5
+row1205,Q160236|Q3159990,1,Q160236,Metropolitan Museum of Art,Q3159990,Jacques Seligmann,4,1,1,1,True,model,4
+row1206,Q26221176|Q731126,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q731126,J. Paul Getty Museum,3,1,1,1,True,model,3
+row1207,Q74128|Q731126,0,Q74128,Alfred Flechtheim,Q731126,J. Paul Getty Museum,2,1,1,1,True,model,2
+row1209,Q867510|Q28848149,1,Q867510,Cypresses,Q28848149,J. K. Thannhauser Art Gallery,2,1,1,1,True,model,2
+row1211,Q29441758|Q28848149,1,Q29441758,Margarete Mauthner,Q28848149,J. K. Thannhauser Art Gallery,5,1,1,1,True,model,5
+row1212,Q160236|Q28848149,1,Q160236,Metropolitan Museum of Art,Q28848149,J. K. Thannhauser Art Gallery,5,1,1,1,True,model,5
+row1214,Q74128|Q4008950,0,Q74128,Alfred Flechtheim,Q4008950,Vase with Irises,3,1,1,1,True,model,3
+row1215,Q55680361|Q15924224,4,Q55680361,Oskar Reichel,Q15924224,internist,1,0,1,0,True,model,1
+row1216,Q55680361|Q461,4,Q55680361,Oskar Reichel,Q461,Internet Archive,5,0,1,0,True,model,5
+row1218,Q26221176|Q8458,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q8458,human rights,4,0,0,1,True,model,4
+row1219,Q17277888|Q8458,0,Q17277888,Gottlieb Friedrich Reber,Q8458,human rights,5,0,0,1,True,model,7
+row1220,Q26221176|Q5934356,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q5934356,Hugo Perls,4,1,1,1,True,model,4
+row1221,Q74128|Q5934356,0,Q74128,Alfred Flechtheim,Q5934356,Hugo Perls,3,1,1,1,True,model,3
+row1225,Q17277888|Q65059,0,Q17277888,Gottlieb Friedrich Reber,Q65059,Hermann Josef Abs,5,1,1,1,True,model,5
+row1226,Q160236|Q65059,1,Q160236,Metropolitan Museum of Art,Q65059,Hermann Josef Abs,4,1,1,1,True,model,4
+row1228,Q17277888|Q47906,0,Q17277888,Gottlieb Friedrich Reber,Q47906,Hermann Göring,1,1,1,1,True,model,1
+row1229,Q160236|Q47906,1,Q160236,Metropolitan Museum of Art,Q47906,Hermann Göring,4,1,1,1,True,model,4
+row1230,Q214867|Q47906,0,Q214867,National Gallery of Art,Q47906,Hermann Göring,3,1,0,0,True,model,3
+row1231,Q657415|Q47906,3,Q657415,Cleveland Museum of Art,Q47906,Hermann Göring,5,1,1,1,True,model,5
+row1232,Q867510|Q15432931,1,Q867510,Cypresses,Q15432931,Hermann Bunjes,4,1,1,1,True,model,4
+row1234,Q160236|Q15432931,1,Q160236,Metropolitan Museum of Art,Q15432931,Hermann Bunjes,4,1,1,1,True,model,4
+row1235,Q17277888|Q17421703,0,Q17277888,Gottlieb Friedrich Reber,Q17421703,Henry Pearlman,4,1,1,1,True,model,4
+row1236,Q55680361|Q17421703,4,Q55680361,Oskar Reichel,Q17421703,Henry Pearlman,4,1,1,1,True,model,4
+row1237,Q74128|Q17421703,0,Q74128,Alfred Flechtheim,Q17421703,Henry Pearlman,4,1,1,1,True,model,4
+row1239,Q74128|Q21526824,0,Q74128,Alfred Flechtheim,Q21526824,Head of Christ,3,1,1,1,True,model,3
+row1241,Q74128|Q58328672,0,Q74128,Alfred Flechtheim,Q58328672,Harry G. Sperling,2,1,1,1,True,model,2
+row1242,Q74128|Q670075,0,Q74128,Alfred Flechtheim,Q670075,Hans Heinrich Thyssen-Bornemisza,5,1,1,1,True,model,5
+row1243,Q160236|Q17249501,1,Q160236,Metropolitan Museum of Art,Q17249501,Gustave Manet,4,0,1,0,True,model,4
+row1244,Q160236|Q540752,1,Q160236,Metropolitan Museum of Art,Q540752,Grigory Orlov,4,0,1,0,True,model,4
+row1245,Q160236|Q3776769,1,Q160236,Metropolitan Museum of Art,Q3776769,Grigory Orlov,5,0,1,0,True,model,5
+row1247,Q160236|Q3116663,1,Q160236,Metropolitan Museum of Art,Q3116663,Grigori Alexandrovitch Stroganov,4,0,0,1,True,model,4
+row1248,Q156426|Q28927781,4,Q156426,Alexej von Jawlensky,Q28927781,Great Women Masters of Art,2,0,0,1,True,model,2
+row1249,Q26221176|Q28927781,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q28927781,Great Women Masters of Art,5,0,1,0,True,model,5
+row1250,Q74128|Q28927781,0,Q74128,Alfred Flechtheim,Q28927781,Great Women Masters of Art,4,0,0,1,False,bfs_auto_prune,
+row1251,Q26221176|Q17378135,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q17378135,Great Soviet Encyclopedia (1969–1978),5,0,0,1,True,model,5
+row1252,Q160236|Q17378135,1,Q160236,Metropolitan Museum of Art,Q17378135,Great Soviet Encyclopedia (1969–1978),3,0,0,1,True,model,3
+row1253,Q214867|Q17378135,0,Q214867,National Gallery of Art,Q17378135,Great Soviet Encyclopedia (1969–1978),4,0,0,1,False,bfs_auto_prune,
+row1254,Q156426|Q20078554,4,Q156426,Alexej von Jawlensky,Q20078554,Great Soviet Encyclopedia (1926–1947),5,0,0,1,False,bfs_auto_prune,
+row1255,Q867510|Q20078554,1,Q867510,Cypresses,Q20078554,Great Soviet Encyclopedia (1926–1947),4,0,0,1,True,model,4
+row1257,Q324935|Q20078554,3,Q324935,Ferenc Hatvany,Q20078554,Great Soviet Encyclopedia (1926–1947),4,0,0,1,False,bfs_auto_prune,
+row1258,Q160236|Q20078554,1,Q160236,Metropolitan Museum of Art,Q20078554,Great Soviet Encyclopedia (1926–1947),3,0,0,1,True,model,3
+row1259,Q214867|Q20078554,0,Q214867,National Gallery of Art,Q20078554,Great Soviet Encyclopedia (1926–1947),3,0,0,1,False,bfs_auto_prune,
+row1260,Q74128|Q20078554,0,Q74128,Alfred Flechtheim,Q20078554,Great Soviet Encyclopedia (1926–1947),5,0,0,1,True,model,5
+row1261,Q21948567|Q4091875,4,Q21948567,Sunflowers,Q4091875,,5,0,0,1,True,model,9
+row1262,Q26221176|Q4091875,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q4091875,,5,0,0,1,True,model,9
+row1263,Q160236|Q4091875,1,Q160236,Metropolitan Museum of Art,Q4091875,Great Encyclopedia of Cyril and Methodius,3,0,0,1,True,model,3
+row1265,Q867510|Q627325,1,Q867510,Cypresses,Q627325,graphic designer,5,0,1,0,True,model,5
+row1266,Q160236|Q627325,1,Q160236,Metropolitan Museum of Art,Q627325,graphic designer,4,0,1,0,True,model,4
+row1267,Q5147536|Q627325,1,Q5147536,Josef Feinhals,Q627325,graphic designer,2,0,1,0,True,model,2
+row1269,Q867510|Q1925963,1,Q867510,Cypresses,Q1925963,graphic artist,4,0,0,1,True,model,4
+row1271,Q21948567|Q1925963,4,Q21948567,Sunflowers,Q1925963,graphic artist,5,0,0,1,True,model,5
+row1272,Q26221176|Q1925963,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1925963,graphic artist,5,0,0,1,True,model,5
+row1273,Q29441758|Q1925963,1,Q29441758,Margarete Mauthner,Q1925963,graphic artist,5,0,1,0,True,model,5
+row1274,Q160236|Q1925963,1,Q160236,Metropolitan Museum of Art,Q1925963,graphic artist,3,0,0,1,True,model,3
+row1275,Q74128|Q1925963,0,Q74128,Alfred Flechtheim,Q1925963,graphic artist,4,0,1,0,True,model,6
+row1276,Q160236|Q1090291,1,Q160236,Metropolitan Museum of Art,Q1090291,"Granville Leveson-Gower, 1st Marquess of Stafford",5,0,1,0,True,model,5
+row1277,Q160236|Q240282,1,Q160236,Metropolitan Museum of Art,Q240282,Grand Princess Vera Constantinovna of Russia,4,0,1,0,True,model,4
+row1278,Q160236|Q1188421,1,Q160236,Metropolitan Museum of Art,Q1188421,Grand Duke Vyacheslav Constantinovich of Russia,4,0,1,0,True,model,4
+row1279,Q160236|Q312819,1,Q160236,Metropolitan Museum of Art,Q312819,Grand Duke Vladimir Alexandrovich of Russia,4,0,1,0,True,model,4
+row1280,Q160236|Q428256,1,Q160236,Metropolitan Museum of Art,Q428256,Grand Duke Sergei Mikhailovich of Russia,4,0,1,0,True,model,4
+row1281,Q160236|Q248900,1,Q160236,Metropolitan Museum of Art,Q248900,Grand Duke Sergei Alexandrovich of Russia,4,0,1,0,True,model,4
+row1282,Q160236|Q446676,1,Q160236,Metropolitan Museum of Art,Q446676,Grand Duke Peter Nikolaevich of Russia,4,0,1,0,True,model,4
+row1283,Q160236|Q372964,1,Q160236,Metropolitan Museum of Art,Q372964,Grand Duke Paul Alexandrovich of Russia,4,0,1,0,True,model,4
+row1284,Q160236|Q163863,1,Q160236,Metropolitan Museum of Art,Q163863,Grand Duke Nicholas Nikolaevich of Russia,3,0,1,0,True,model,3
+row1285,Q160236|Q160869,1,Q160236,Metropolitan Museum of Art,Q160869,Grand Duke Nicholas Nikolaevich of Russia,4,0,1,0,True,model,4
+row1286,Q160236|Q535400,1,Q160236,Metropolitan Museum of Art,Q535400,Grand Duke Nicholas Mikhailovich of Russia,4,0,1,0,True,model,4
+row1287,Q160236|Q706075,1,Q160236,Metropolitan Museum of Art,Q706075,Grand Duke Nicholas Constantinovich of Russia,4,0,1,0,True,model,4
+row1288,Q160236|Q371731,1,Q160236,Metropolitan Museum of Art,Q371731,Grand Duke Michael Pavlovich of Russia,4,0,1,0,True,model,4
+row1289,Q160236|Q161199,1,Q160236,Metropolitan Museum of Art,Q161199,Grand Duke Michael Nikolaevich of Russia,3,0,1,0,True,model,3
+row1290,Q160236|Q628679,1,Q160236,Metropolitan Museum of Art,Q628679,Grand Duke Michael Mikhailovich of Russia,4,0,1,0,True,model,4
+row1291,Q160236|Q154444,1,Q160236,Metropolitan Museum of Art,Q154444,Grand Duke Michael Alexandrovich of Russia,5,0,1,0,True,model,5
+row1292,Q160236|Q161106,1,Q160236,Metropolitan Museum of Art,Q161106,Grand Duke Konstantin Pavlovich of Russia,4,0,1,0,True,model,4
+row1293,Q160236|Q446724,1,Q160236,Metropolitan Museum of Art,Q446724,Grand Duke Konstantin Nikolayevich of Russia,3,0,1,0,True,model,3
+row1294,Q160236|Q313832,1,Q160236,Metropolitan Museum of Art,Q313832,Grand Duke Konstantin Konstantinovich of Russia,4,0,1,0,True,model,4
+row1295,Q160236|Q160948,1,Q160236,Metropolitan Museum of Art,Q160948,Grand Duke Kirill Vladimirovich of Russia,5,0,1,0,True,model,5
+row1296,Q160236|Q524451,1,Q160236,Metropolitan Museum of Art,Q524451,Grand Duke George Mikhailovich of Russia,4,0,1,0,True,model,4
+row1297,Q160236|Q170293,1,Q160236,Metropolitan Museum of Art,Q170293,Grand Duke George Alexandrovich of Russia,5,0,1,0,True,model,5
+row1298,Q160236|Q57930,1,Q160236,Metropolitan Museum of Art,Q57930,"Grand Duke Friedrich Franz IV, Grand Duke of Mecklenburg-Schwerin",5,0,1,0,True,model,5
+row1299,Q160236|Q372954,1,Q160236,Metropolitan Museum of Art,Q372954,Grand Duke Dmitri Pavlovich of Russia,5,0,1,0,True,model,5
+row1300,Q160236|Q27606,1,Q160236,Metropolitan Museum of Art,Q27606,Grand Duke Dimitri Constantinovich of Russia,4,0,1,0,True,model,4
+row1301,Q160236|Q373048,1,Q160236,Metropolitan Museum of Art,Q373048,Grand Duke Boris Vladimirovich of Russia,5,0,1,0,True,model,5
+row1302,Q160236|Q502763,1,Q160236,Metropolitan Museum of Art,Q502763,Grand Duke Andrei Vladimirovich of Russia,5,0,1,0,True,model,5
+row1303,Q160236|Q621088,1,Q160236,Metropolitan Museum of Art,Q621088,Grand Duke Alexei Mikhailovich of Russia,4,0,1,0,True,model,4
+row1304,Q160236|Q315726,1,Q160236,Metropolitan Museum of Art,Q315726,Grand Duke Alexei Alexandrovich of Russia,4,0,1,0,True,model,4
+row1305,Q160236|Q2834124,1,Q160236,Metropolitan Museum of Art,Q2834124,Grand Duke Alexander Vladimirovich of Russia,5,0,1,0,True,model,5
+row1306,Q160236|Q464626,1,Q160236,Metropolitan Museum of Art,Q464626,Grand Duke Alexander Mikhailovich of Russia,4,0,1,0,True,model,4
+row1307,Q160236|Q619068,1,Q160236,Metropolitan Museum of Art,Q619068,Grand Duke Alexander Alexandrovich of Russia,5,0,1,0,True,model,5
+row1308,Q160236|Q165113,1,Q160236,Metropolitan Museum of Art,Q165113,Grand Duchess Xenia Alexandrovna of Russia,5,0,1,0,True,model,5
+row1309,Q160236|Q3350444,1,Q160236,Metropolitan Museum of Art,Q3350444,Grand Duchess Olga Pavlovna of Russia,4,0,1,0,True,model,4
+row1310,Q160236|Q166198,1,Q160236,Metropolitan Museum of Art,Q166198,Grand Duchess Maria Pavlovna of Russia,4,0,1,0,True,model,4
+row1311,Q160236|Q235438,1,Q160236,Metropolitan Museum of Art,Q235438,Grand Duchess Maria Pavlovna of Russia,5,0,1,0,True,model,5
+row1312,Q160236|Q234052,1,Q160236,Metropolitan Museum of Art,Q234052,Grand Duchess Maria Nikolaevna of Russia,3,0,1,0,True,model,3
+row1313,Q160236|Q2464532,1,Q160236,Metropolitan Museum of Art,Q2464532,Grand Duchess Maria Mikhailovna of Russia,5,0,1,0,True,model,5
+row1314,Q160236|Q158154,1,Q160236,Metropolitan Museum of Art,Q158154,Grand Duchess Maria Alexandrovna of Russia,4,0,1,0,True,model,4
+row1315,Q160236|Q11768687,1,Q160236,Metropolitan Museum of Art,Q11768687,Grand Duchess Maria Alexandrovna of Russia,5,0,1,0,True,model,5
+row1316,Q160236|Q5594505,1,Q160236,Metropolitan Museum of Art,Q5594505,Grand Duchess Elizabeth Nikolaevna of Russia,3,0,1,0,True,model,3
+row1317,Q160236|Q260550,1,Q160236,Metropolitan Museum of Art,Q260550,Grand Duchess Elizabeth Mikhailovna of Russia,5,0,1,0,True,model,5
+row1318,Q160236|Q5594502,1,Q160236,Metropolitan Museum of Art,Q5594502,Grand Duchess Elizabeth Alexandrovna of Russia,5,0,1,0,True,model,5
+row1319,Q160236|Q232483,1,Q160236,Metropolitan Museum of Art,Q232483,Grand Duchess Elena Vladimirovna of Russia,5,0,1,0,True,model,5
+row1320,Q160236|Q234442,1,Q160236,Metropolitan Museum of Art,Q234442,Grand Duchess Elena Pavlovna of Russia,4,0,1,0,True,model,4
+row1321,Q160236|Q166768,1,Q160236,Metropolitan Museum of Art,Q166768,Grand Duchess Catherine Mikhailovna of Russia,5,0,1,0,True,model,5
+row1322,Q160236|Q232159,1,Q160236,Metropolitan Museum of Art,Q232159,Grand Duchess Anastasia Mikhailovna of Russia,4,0,1,0,True,model,4
+row1323,Q160236|Q233471,1,Q160236,Metropolitan Museum of Art,Q233471,Grand Duchess Alexandra Pavlovna of Russia,4,0,1,0,True,model,4
+row1324,Q160236|Q238478,1,Q160236,Metropolitan Museum of Art,Q238478,Grand Duchess Alexandra Nikolaevna of Russia,3,0,1,0,True,model,3
+row1325,Q160236|Q41450421,1,Q160236,Metropolitan Museum of Art,Q41450421,Grand Duchess Alexandra Mikhailovna of Russia,5,0,1,0,True,model,5
+row1326,Q160236|Q232728,1,Q160236,Metropolitan Museum of Art,Q232728,Grand Duchess Alexandra Georgievna of Russia,5,0,1,0,True,model,5
+row1327,Q160236|Q620933,1,Q160236,Metropolitan Museum of Art,Q620933,Grand Duchess Alexandra Alexandrovna of Russia,4,0,1,0,True,model,4
+row1328,Q26221176|Q4532138,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q4532138,Granat Encyclopedic Dictionary,3,0,0,1,True,model,3
+row1329,Q160236|Q28989,1,Q160236,Metropolitan Museum of Art,Q28989,graf,5,0,0,1,True,model,5
+row1330,Q867510|Q17277888,1,Q867510,Cypresses,Q17277888,Gottlieb Friedrich Reber,5,1,1,1,True,model,18
+row1332,Q214867|Q17277888,0,Q214867,National Gallery of Art,Q17277888,Gottlieb Friedrich Reber,4,1,0,0,False,bfs_auto_prune,
+row1335,Q160236|Q47035126,1,Q160236,Metropolitan Museum of Art,Q47035126,Gottfried Tanner,4,1,1,1,True,model,4
+row1337,Q17277888|Q97753,0,Q17277888,Gottlieb Friedrich Reber,Q97753,Gottfried Bermann,5,1,1,1,True,model,5
+row1338,Q160236|Q97753,1,Q160236,Metropolitan Museum of Art,Q97753,Gottfried Bermann,4,1,1,1,True,model,4
+row1340,Q160236|Q298877,1,Q160236,Metropolitan Museum of Art,Q298877,Giuliano de' Medici,5,0,1,0,True,model,5
+row1342,Q17277888|Q40023372,0,Q17277888,Gottlieb Friedrich Reber,Q40023372,Gisela Fischer,5,1,1,1,True,model,5
+row1343,Q160236|Q40023372,1,Q160236,Metropolitan Museum of Art,Q40023372,Gisela Fischer,4,1,1,1,True,model,4
+row1345,Q867510|Q215626,1,Q867510,Cypresses,Q215626,Georges Wildenstein,4,1,1,1,True,model,4
+row1347,Q29441758|Q215626,1,Q29441758,Margarete Mauthner,Q215626,Georges Wildenstein,5,1,1,1,True,model,5
+row1348,Q160236|Q215626,1,Q160236,Metropolitan Museum of Art,Q215626,Georges Wildenstein,3,1,1,1,True,model,3
+row1349,Q160236|Q44139,1,Q160236,Metropolitan Museum of Art,Q44139,Georges Petit,2,1,1,1,True,model,2
+row1350,Q160236|Q18699918,1,Q160236,Metropolitan Museum of Art,Q18699918,Georges Brauer,2,0,1,0,True,model,2
+row1351,Q160236|Q70189,1,Q160236,Metropolitan Museum of Art,Q70189,"George William, Count Palatine of Zweibrücken-Birkenfeld",5,0,1,0,True,model,5
+row1353,Q160236|Q47414451,1,Q160236,Metropolitan Museum of Art,Q47414451,George Washington,5,0,1,0,True,model,5
+row1354,Q160236|Q334145,1,Q160236,Metropolitan Museum of Art,Q334145,"George Sutherland-Leveson-Gower, 2nd Duke of Sutherland",5,0,1,0,True,model,5
+row1356,Q160236|Q5544847,1,Q160236,Metropolitan Museum of Art,Q5544847,"George Stewart, 8th Earl of Galloway",5,0,1,0,True,model,5
+row1357,Q160236|Q336025,1,Q160236,Metropolitan Museum of Art,Q336025,"George Spencer-Churchill, 8th Duke of Marlborough",3,0,1,0,True,model,3
+row1358,Q160236|Q333601,1,Q160236,Metropolitan Museum of Art,Q333601,"George Spencer-Churchill, 6th Duke of Marlborough",3,0,1,0,True,model,3
+row1359,Q160236|Q333347,1,Q160236,Metropolitan Museum of Art,Q333347,"George Spencer-Churchill, 5th Duke of Marlborough",4,0,1,0,True,model,4
+row1360,Q160236|Q335825,1,Q160236,Metropolitan Museum of Art,Q335825,"George Spencer, 4th Duke of Marlborough",5,0,1,0,True,model,5
+row1361,Q17277888|Q16947320,0,Q17277888,Gottlieb Friedrich Reber,Q16947320,geopolitician,5,0,0,1,True,model,5
+row1362,Q17277888|Q901402,0,Q17277888,Gottlieb Friedrich Reber,Q901402,geographer,5,0,0,1,True,model,5
+row1363,Q160236|Q901402,1,Q160236,Metropolitan Museum of Art,Q901402,geographer,5,0,0,1,True,model,5
+row1365,Q867510|Q80317,1,Q867510,Cypresses,Q80317,Garçon à la pipe,5,1,1,1,True,model,5
+row1366,Q160236|Q80317,1,Q160236,Metropolitan Museum of Art,Q80317,Garçon à la pipe,3,1,1,1,True,model,3
+row1369,Q26221176|Q20771242,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q20771242,gallerist,4,1,1,1,True,model,4
+row1370,Q29441758|Q20771242,1,Q29441758,Margarete Mauthner,Q20771242,gallerist,5,1,1,1,True,model,5
+row1371,Q55680361|Q20771242,4,Q55680361,Oskar Reichel,Q20771242,gallerist,4,1,1,1,True,model,5
+row1372,Q160236|Q20771242,1,Q160236,Metropolitan Museum of Art,Q20771242,gallerist,3,1,1,1,True,model,3
+row1373,Q214867|Q20771242,0,Q214867,National Gallery of Art,Q20771242,gallerist,5,1,0,0,False,bfs_auto_prune,
+row1374,Q74128|Q20771242,0,Q74128,Alfred Flechtheim,Q20771242,gallerist,3,1,1,1,True,model,3
+row1375,Q160236|Q47035109,1,Q160236,Metropolitan Museum of Art,Q47035109,Galerie Tanner,5,1,1,1,True,model,5
+row1376,Q17277888|Q27431468,0,Q17277888,Gottlieb Friedrich Reber,Q27431468,Galerie St. Etienne,4,1,1,1,True,model,4
+row1377,Q74128|Q27431468,0,Q74128,Alfred Flechtheim,Q27431468,Galerie St. Etienne,4,1,1,1,True,model,4
+row1383,Q867510|Q47001605,1,Q867510,Cypresses,Q47001605,Galerie Fischer,3,1,1,1,True,model,3
+row1385,Q160236|Q47001605,1,Q160236,Metropolitan Museum of Art,Q47001605,Galerie Fischer,4,1,1,1,True,model,4
+row1387,Q26221176|Q15305978,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q15305978,galerie Durand-Ruel,3,1,1,1,True,model,3
+row1388,Q74128|Q15305978,0,Q74128,Alfred Flechtheim,Q15305978,galerie Durand-Ruel,4,1,1,1,True,model,4
+row1389,Q160236|Q3094593,1,Q160236,Metropolitan Museum of Art,Q3094593,Galerie Charpentier,2,1,1,1,True,model,2
+row1390,Q867510|Q50990573,1,Q867510,Cypresses,Q50990573,Galerie Cailleux,5,1,1,1,True,model,5
+row1392,Q160236|Q50990573,1,Q160236,Metropolitan Museum of Art,Q50990573,Galerie Cailleux,4,1,1,1,True,model,4
+row1394,Q26221176|Q61446519,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q61446519,Gabrielle Bentinck-Thyssen,5,1,1,1,True,model,5
+row1395,Q74128|Q61446519,0,Q74128,Alfred Flechtheim,Q61446519,Gabrielle Bentinck-Thyssen,4,1,1,1,True,model,4
+row1396,Q17277888|Q21078532,0,Q17277888,Gottlieb Friedrich Reber,Q21078532,G. David Thompson,4,1,1,1,True,model,4
+row1397,Q55680361|Q21078532,4,Q55680361,Oskar Reichel,Q21078532,G. David Thompson,4,1,1,1,True,model,4
+row1398,Q74128|Q21078532,0,Q74128,Alfred Flechtheim,Q21078532,G. David Thompson,4,1,1,1,True,model,4
+row1399,Q867510|Q11455387,1,Q867510,Cypresses,Q11455387,furniture designer,5,0,1,0,True,model,5
+row1400,Q5147536|Q11455387,1,Q5147536,Josef Feinhals,Q11455387,furniture designer,2,0,1,0,True,model,2
+row1402,Q867510|Q1418856,1,Q867510,Cypresses,Q1418856,Fritz Nathan,5,1,1,1,True,model,5
+row1403,Q160236|Q1418856,1,Q160236,Metropolitan Museum of Art,Q1418856,Fritz Nathan,4,1,1,1,True,model,4
+row1405,Q867510|Q19502360,1,Q867510,Cypresses,Q19502360,Fritz Meyer-Fierz,1,1,1,1,True,model,1
+row1408,Q26221176|Q19502360,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q19502360,Fritz Meyer-Fierz,4,1,1,1,True,model,4
+row1409,Q160236|Q19502360,1,Q160236,Metropolitan Museum of Art,Q19502360,Fritz Meyer-Fierz,4,1,1,1,True,model,4
+row1411,Q867510|Q33315010,1,Q867510,Cypresses,Q33315010,Frederick Mont,5,1,1,1,True,model,5
+row1413,Q160236|Q33315010,1,Q160236,Metropolitan Museum of Art,Q33315010,Frederick Mont,4,1,1,1,True,model,4
+row1416,Q160236|Q56291714,1,Q160236,Metropolitan Museum of Art,Q56291714,Franz Kleinberger,5,1,1,1,True,model,5
+row1417,Q160236|Q142,1,Q160236,Metropolitan Museum of Art,Q142,France,4,0,1,0,True,model,4
+row1418,Q214867|Q142,0,Q214867,National Gallery of Art,Q142,France,4,0,0,1,False,bfs_auto_prune,
+row1419,Q160236|Q2142783,1,Q160236,Metropolitan Museum of Art,Q2142783,father of faith,4,0,0,1,True,model,4
+row1420,Q74128|Q2142783,0,Q74128,Alfred Flechtheim,Q2142783,father of faith,5,0,0,1,True,model,5
+row1421,Q17277888|Q1979607,0,Q17277888,Gottlieb Friedrich Reber,Q1979607,financier,5,0,0,1,True,model,5
+row1422,Q324935|Q1979607,3,Q324935,Ferenc Hatvany,Q1979607,financier,3,0,0,1,True,model,3
+row1423,Q160236|Q1979607,1,Q160236,Metropolitan Museum of Art,Q1979607,financier,3,0,0,1,True,model,3
+row1424,Q214867|Q1979607,0,Q214867,National Gallery of Art,Q1979607,financier,3,0,0,1,True,model,3
+row1425,Q74128|Q1979607,0,Q74128,Alfred Flechtheim,Q1979607,financier,5,0,0,1,True,model,5
+row1426,Q1634926|Q1414443,3,Q1634926,Hugo Cassirer,Q1414443,filmmaker,3,0,0,1,True,model,3
+row1427,Q21948567|Q3282637,4,Q21948567,Sunflowers,Q3282637,film producer,5,0,0,1,True,model,8
+row1428,Q26221176|Q3282637,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q3282637,film producer,5,0,0,1,True,model,5
+row1429,Q160236|Q3282637,1,Q160236,Metropolitan Museum of Art,Q3282637,film producer,4,0,0,1,True,model,4
+row1430,Q21948567|Q7042855,4,Q21948567,Sunflowers,Q7042855,film editor,5,0,0,1,True,model,8
+row1431,Q26221176|Q7042855,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q7042855,film editor,5,0,0,1,True,model,5
+row1432,Q160236|Q7042855,1,Q160236,Metropolitan Museum of Art,Q7042855,film editor,4,0,0,1,True,model,4
+row1433,Q21948567|Q2526255,4,Q21948567,Sunflowers,Q2526255,film director,5,0,0,1,True,model,8
+row1434,Q26221176|Q2526255,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q2526255,film director,5,0,0,1,True,model,5
+row1435,Q160236|Q2526255,1,Q160236,Metropolitan Museum of Art,Q2526255,film director,4,0,0,1,True,model,4
+row1437,Q21948567|Q10800557,4,Q21948567,Sunflowers,Q10800557,film actor,5,0,0,1,True,model,6
+row1438,Q26221176|Q10800557,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q10800557,film actor,5,0,0,1,True,model,5
+row1439,Q17277888|Q10800557,0,Q17277888,Gottlieb Friedrich Reber,Q10800557,film actor,3,0,0,1,True,model,3
+row1440,Q160236|Q10800557,1,Q160236,Metropolitan Museum of Art,Q10800557,film actor,3,0,0,1,True,model,3
+row1441,Q214867|Q10800557,0,Q214867,National Gallery of Art,Q10800557,film actor,5,0,0,1,False,bfs_auto_prune,
+row1446,Q20178788|Q324935,2,Q20178788,Still Life with Apples,Q324935,Ferenc Hatvany,1,1,1,1,True,model,1
+row1448,Q160236|Q157103,1,Q160236,Metropolitan Museum of Art,Q157103,"Ferdinand IV, King of the Romans",5,0,1,0,True,model,5
+row1449,Q160236|Q150575,1,Q160236,Metropolitan Museum of Art,Q150575,"Ferdinand III, Holy Roman Emperor",4,0,1,0,True,model,4
+row1450,Q160236|Q150599,1,Q160236,Metropolitan Museum of Art,Q150599,"Ferdinand II, Holy Roman Emperor",3,0,1,0,True,model,3
+row1451,Q324935|Q4808368,3,Q324935,Ferenc Hatvany,Q4808368,Femme nue couchée,1,1,1,1,True,model,1
+row1454,Q160236|Q48525,1,Q160236,Metropolitan Museum of Art,Q48525,federal government of the United States,5,0,0,1,True,model,5
+row1455,Q160236|Q496,1,Q160236,Metropolitan Museum of Art,Q496,feces,2,0,0,1,True,model,2
+row1456,Q26221176|Q3501317,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q3501317,fashion designer,5,0,1,0,True,model,5
+row1457,Q74128|Q3501317,0,Q74128,Alfred Flechtheim,Q3501317,fashion designer,4,0,0,1,False,bfs_auto_prune,
+row1458,Q17277888|Q11900058,0,Q17277888,Gottlieb Friedrich Reber,Q11900058,explorer,5,0,0,1,True,model,5
+row1459,Q160236|Q11900058,1,Q160236,Metropolitan Museum of Art,Q11900058,explorer,3,0,0,1,True,model,3
+row1460,Q156426|Q1970746,4,Q156426,Alexej von Jawlensky,Q1970746,Explanatory Dictionary of the Living Great Russian Language,5,0,0,1,False,bfs_auto_prune,
+row1461,Q160236|Q1970746,1,Q160236,Metropolitan Museum of Art,Q1970746,Explanatory Dictionary of the Living Great Russian Language,4,0,0,1,True,model,7
+row1462,Q17277888|Q76433,0,Q17277888,Gottlieb Friedrich Reber,Q76433,Eva Braun,5,0,1,0,True,model,5
+row1463,Q55680361|Q76433,4,Q55680361,Oskar Reichel,Q76433,Eva Braun,5,0,1,0,True,model,5
+row1464,Q74128|Q76433,0,Q74128,Alfred Flechtheim,Q76433,Eva Braun,5,0,0,1,True,model,5
+row1466,Q160236|Q53563347,1,Q160236,Metropolitan Museum of Art,Q53563347,Eugene Thaw,5,1,1,1,True,model,5
+row1467,Q160236|Q7126304,1,Q160236,Metropolitan Museum of Art,Q7126304,Eugène Manet,4,0,1,0,True,model,4
+row1473,Q867510|Q20730464,1,Q867510,Cypresses,Q20730464,Étienne Bignou,3,1,1,1,True,model,3
+row1475,Q160236|Q20730464,1,Q160236,Metropolitan Museum of Art,Q20730464,Étienne Bignou,3,1,1,1,True,model,3
+row1477,Q26221176|Q1371378,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1371378,ethnologist,4,0,0,1,True,model,4
+row1478,Q74128|Q1371378,0,Q74128,Alfred Flechtheim,Q1371378,ethnologist,3,0,0,1,True,model,3
+row1479,Q21948567|Q10862983,4,Q21948567,Sunflowers,Q10862983,etcher,5,0,0,1,True,model,5
+row1480,Q26221176|Q10862983,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q10862983,etcher,2,0,1,0,True,model,2
+row1481,Q160236|Q10862983,1,Q160236,Metropolitan Museum of Art,Q10862983,etcher,3,0,0,1,True,model,3
+row1482,Q74128|Q10862983,0,Q74128,Alfred Flechtheim,Q10862983,etcher,3,0,1,0,True,model,3
+row1486,Q17277888|Q2186896,0,Q17277888,Gottlieb Friedrich Reber,Q2186896,estate,3,0,1,0,True,model,3
+row1487,Q214867|Q2186896,0,Q214867,National Gallery of Art,Q2186896,estate,5,0,0,1,False,bfs_auto_prune,
+row1488,Q160236|Q860918,1,Q160236,Metropolitan Museum of Art,Q860918,Esperantist,5,0,0,1,True,model,5
+row1489,Q160236|Q1360879,1,Q160236,Metropolitan Museum of Art,Q1360879,Ernst von Mendelssohn-Bartholdy,5,1,1,1,True,model,5
+row1490,Q1634926|Q57188,3,Q1634926,Hugo Cassirer,Q57188,Ernst Cassirer,4,1,1,1,True,model,4
+row1492,Q214867|Q777344,0,Q214867,National Gallery of Art,Q777344,Erich Šlomović,3,1,0,0,False,bfs_auto_prune,
+row1494,Q17277888|Q2894644,0,Q17277888,Gottlieb Friedrich Reber,Q2894644,Ephrussi family,5,1,1,1,True,model,5
+row1495,Q160236|Q2894644,1,Q160236,Metropolitan Museum of Art,Q2894644,Ephrussi family,4,1,1,1,True,model,4
+row1497,Q1634926|Q131524,3,Q1634926,Hugo Cassirer,Q131524,entrepreneur,1,0,0,1,True,model,1
+row1498,Q867510|Q131524,1,Q867510,Cypresses,Q131524,entrepreneur,2,0,0,1,True,model,2
+row1500,Q21948567|Q131524,4,Q21948567,Sunflowers,Q131524,entrepreneur,5,0,0,1,True,model,5
+row1501,Q26221176|Q131524,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q131524,entrepreneur,5,0,0,1,True,model,5
+row1502,Q160236|Q131524,1,Q160236,Metropolitan Museum of Art,Q131524,entrepreneur,3,0,0,1,True,model,3
+row1503,Q5147536|Q131524,1,Q5147536,Josef Feinhals,Q131524,entrepreneur,1,0,0,1,True,model,1
+row1504,Q214867|Q131524,0,Q214867,National Gallery of Art,Q131524,entrepreneur,3,0,0,1,True,model,3
+row1505,Q74128|Q131524,0,Q74128,Alfred Flechtheim,Q131524,entrepreneur,3,0,0,1,True,model,6
+row1506,Q160236|Q3055126,1,Q160236,Metropolitan Museum of Art,Q3055126,entomologist,5,0,0,1,True,model,5
+row1507,Q867510|Q329439,1,Q867510,Cypresses,Q329439,engraver,4,0,0,1,True,model,4
+row1509,Q160236|Q329439,1,Q160236,Metropolitan Museum of Art,Q329439,engraver,5,0,0,1,True,model,5
+row1510,Q74128|Q329439,0,Q74128,Alfred Flechtheim,Q329439,engraver,5,0,1,0,True,model,5
+row1511,Q1634926|Q81096,3,Q1634926,Hugo Cassirer,Q81096,engineer,1,0,0,1,True,model,1
+row1512,Q867510|Q81096,1,Q867510,Cypresses,Q81096,engineer,4,0,0,1,True,model,4
+row1513,Q21948567|Q81096,4,Q21948567,Sunflowers,Q81096,engineer,3,0,0,1,True,model,3
+row1514,Q26221176|Q81096,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q81096,engineer,3,0,0,1,True,model,3
+row1515,Q160236|Q81096,1,Q160236,Metropolitan Museum of Art,Q81096,engineer,4,0,0,1,True,model,4
+row1517,Q74128|Q81096,0,Q74128,Alfred Flechtheim,Q81096,engineer,4,0,0,1,True,model,4
+row1518,Q160236|Q4532135,1,Q160236,Metropolitan Museum of Art,Q4532135,Encyclopedic Lexicon,3,0,0,1,True,model,3
+row1519,Q160236|Q48968006,1,Q160236,Metropolitan Museum of Art,Q48968006,encyclopedia.com,5,0,0,1,True,model,5
+row1520,Q160236|Q753754,1,Q160236,Metropolitan Museum of Art,Q753754,Encyclopedia Americana,5,0,0,1,True,model,5
+row1521,Q160236|Q867541,1,Q160236,Metropolitan Museum of Art,Q867541,Encyclopædia Britannica 11th edition,3,0,0,1,True,model,3
+row1522,Q867510|Q96297,1,Q867510,Cypresses,Q96297,Emil Georg Bührle,4,1,1,1,True,model,4
+row1523,Q160236|Q96297,1,Q160236,Metropolitan Museum of Art,Q96297,Emil Georg Bührle,5,1,1,1,True,model,5
+row1524,Q160236|Q21589753,1,Q160236,Metropolitan Museum of Art,Q21589753,Else Cassirer,4,1,1,1,True,model,4
+row1529,Q26221176|Q33011974,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q33011974,Edwin Suermondt,3,1,1,1,True,model,3
+row1530,Q74128|Q33011974,0,Q74128,Alfred Flechtheim,Q33011974,Edwin Suermondt,2,1,1,1,True,model,2
+row1531,Q26221176|Q43301751,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q43301751,Edward Speelman,5,1,1,1,True,model,5
+row1532,Q74128|Q43301751,0,Q74128,Alfred Flechtheim,Q43301751,Edward Speelman,4,1,1,1,True,model,4
+row1533,Q1634926|Q24255440,3,Q1634926,Hugo Cassirer,Q24255440,Eduard Cassirer,3,1,1,1,True,model,3
+row1534,Q160236|Q24255440,1,Q160236,Metropolitan Museum of Art,Q24255440,Eduard Cassirer,5,1,1,1,True,model,5
+row1535,Q657415|Q28065291,3,Q657415,Cleveland Museum of Art,Q28065291,Edouard von Saher,4,1,1,1,True,model,4
+row1537,Q214867|Q40599,0,Q214867,National Gallery of Art,Q40599,Édouard Manet,4,1,0,0,False,bfs_auto_prune,
+row1538,Q160236|Q2443913,1,Q160236,Metropolitan Museum of Art,Q2443913,Édouard Alphonse James de Rothschild,5,1,1,1,True,model,5
+row1539,Q160236|Q467167,1,Q160236,Metropolitan Museum of Art,Q467167,Edmond James de Rothschild,3,1,1,1,True,model,3
+row1540,Q214867|Q467167,0,Q214867,National Gallery of Art,Q467167,Edmond James de Rothschild,5,1,0,0,False,bfs_auto_prune,
+row1541,Q160236|Q932401,1,Q160236,Metropolitan Museum of Art,Q932401,Edmond Adolphe de Rothschild,3,1,1,1,True,model,3
+row1542,Q867510|Q1607826,1,Q867510,Cypresses,Q1607826,editor,5,0,0,1,True,model,5
+row1544,Q17277888|Q1607826,0,Q17277888,Gottlieb Friedrich Reber,Q1607826,editor,4,0,0,1,True,model,5
+row1545,Q55680361|Q1607826,4,Q55680361,Oskar Reichel,Q1607826,editor,5,0,0,1,True,model,5
+row1546,Q160236|Q1607826,1,Q160236,Metropolitan Museum of Art,Q1607826,editor,4,0,0,1,True,model,4
+row1548,Q74128|Q1607826,0,Q74128,Alfred Flechtheim,Q1607826,editor,5,0,0,1,True,model,5
+row1550,Q21948567|Q5334534,4,Q21948567,Sunflowers,Q5334534,Ed Bass,5,0,1,0,True,model,5
+row1551,Q26221176|Q5334534,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q5334534,Ed Bass,5,0,1,0,True,model,5
+row1552,Q160236|Q188094,1,Q160236,Metropolitan Museum of Art,Q188094,economist,3,0,0,1,False,bfs_auto_prune,
+row1553,Q160236|Q27981616,1,Q160236,Metropolitan Museum of Art,Q27981616,Ecce Homo,5,1,1,1,True,model,5
+row1554,Q17277888|Q13575004,0,Q17277888,Gottlieb Friedrich Reber,Q13575004,E. & A. Silberman Galleries,2,1,1,1,True,model,2
+row1555,Q55680361|Q13575004,4,Q55680361,Oskar Reichel,Q13575004,E. & A. Silberman Galleries,2,1,1,1,True,model,2
+row1556,Q74128|Q13575004,0,Q74128,Alfred Flechtheim,Q13575004,E. & A. Silberman Galleries,2,1,1,1,True,model,2
+row1557,Q160236|Q166886,1,Q160236,Metropolitan Museum of Art,Q166886,duke,5,0,1,0,True,model,5
+row1560,Q160236|Q2034021,1,Q160236,Metropolitan Museum of Art,Q2034021,dressmaker,4,0,0,1,True,model,4
+row1561,Q156426|Q15296811,4,Q156426,Alexej von Jawlensky,Q15296811,drawer,1,0,0,1,True,model,1
+row1563,Q867510|Q15296811,1,Q867510,Cypresses,Q15296811,drawer,5,0,0,1,True,model,5
+row1564,Q21948567|Q15296811,4,Q21948567,Sunflowers,Q15296811,drawer,5,0,0,1,True,model,5
+row1565,Q26221176|Q15296811,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q15296811,drawer,2,0,1,0,True,model,2
+row1566,Q160236|Q15296811,1,Q160236,Metropolitan Museum of Art,Q15296811,drawer,3,0,0,1,True,model,3
+row1567,Q5147536|Q15296811,1,Q5147536,Josef Feinhals,Q15296811,drawer,2,0,0,1,True,model,2
+row1568,Q214867|Q15296811,0,Q214867,National Gallery of Art,Q15296811,drawer,5,0,0,1,False,bfs_auto_prune,
+row1569,Q74128|Q15296811,0,Q74128,Alfred Flechtheim,Q15296811,drawer,3,0,1,0,True,model,3
+row1571,Q867510|Q14623005,1,Q867510,Cypresses,Q14623005,draftsperson,4,0,0,1,True,model,4
+row1573,Q21948567|Q14623005,4,Q21948567,Sunflowers,Q14623005,draftsperson,5,0,1,0,True,model,5
+row1574,Q26221176|Q14623005,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q14623005,draftsperson,5,0,0,1,True,model,5
+row1575,Q160236|Q14623005,1,Q160236,Metropolitan Museum of Art,Q14623005,draftsperson,3,0,0,1,True,model,3
+row1576,Q214867|Q14623005,0,Q214867,National Gallery of Art,Q14623005,draftsperson,5,0,0,1,False,bfs_auto_prune,
+row1577,Q74128|Q14623005,0,Q74128,Alfred Flechtheim,Q14623005,draftsperson,4,0,1,0,True,model,6
+row1578,Q160236|Q35275336,1,Q160236,Metropolitan Museum of Art,Q35275336,Dr. Willi Raeber,4,1,1,1,True,model,4
+row1583,Q214867|Q1968442,0,Q214867,National Gallery of Art,Q1968442,donor,4,1,0,0,True,model,4
+row1586,Q867510|Q25391673,1,Q867510,Cypresses,Q25391673,Domenica Walter,3,1,1,1,True,model,3
+row1588,Q160236|Q25391673,1,Q160236,Metropolitan Museum of Art,Q25391673,Domenica Walter,4,1,1,1,True,model,4
+row1590,Q55680361|Q19883543,4,Q55680361,Oskar Reichel,Q19883543,Doctor Emma Veronika Sanders,3,1,1,1,True,model,3
+row1591,Q74128|Q19883543,0,Q74128,Alfred Flechtheim,Q19883543,Doctor Emma Veronika Sanders,3,1,1,1,True,model,3
+row1592,Q17277888|Q1162163,0,Q17277888,Gottlieb Friedrich Reber,Q1162163,director,2,0,1,0,True,model,2
+row1593,Q160236|Q3455803,1,Q160236,Metropolitan Museum of Art,Q3455803,director,4,0,0,1,True,model,4
+row1594,Q160236|Q1162163,1,Q160236,Metropolitan Museum of Art,Q1162163,director,5,0,0,1,True,model,5
+row1595,Q160236|Q193391,1,Q160236,Metropolitan Museum of Art,Q193391,diplomat,3,0,0,1,True,model,3
+row1596,Q214867|Q193391,0,Q214867,National Gallery of Art,Q193391,diplomat,3,0,0,1,False,bfs_auto_prune,
+row1597,Q74128|Q193391,0,Q74128,Alfred Flechtheim,Q193391,diplomat,5,0,0,1,True,model,5
+row1598,Q867510|Q1221807,1,Q867510,Cypresses,Q1221807,Dieter Bührle,5,1,1,1,True,model,5
+row1599,Q160236|Q452379,1,Q160236,Metropolitan Museum of Art,Q452379,Diego Columbus,3,0,1,0,True,model,3
+row1600,Q160236|Q325909,1,Q160236,Metropolitan Museum of Art,Q325909,Diego Colombos,4,0,0,1,True,model,4
+row1601,Q160236|Q668424,1,Q160236,Metropolitan Museum of Art,Q668424,"Diego, Prince of Asturias",5,0,1,0,True,model,5
+row1604,Q160236|Q46002746,1,Q160236,Metropolitan Museum of Art,Q46002746,Dictionary of African Biography,5,0,0,1,True,model,5
+row1605,Q11770767|Q18939491,3,Q11770767,Still life with coffee pot  dishes and fruit,Q18939491,diarist,3,0,0,1,True,model,3
+row1606,Q160236|Q18939491,1,Q160236,Metropolitan Museum of Art,Q18939491,diarist,4,0,0,1,True,model,4
+row1607,Q74128|Q18939491,0,Q74128,Alfred Flechtheim,Q18939491,diarist,5,0,0,1,True,model,11
+row1608,Q657415|Q18939491,3,Q657415,Cleveland Museum of Art,Q18939491,diarist,3,0,0,1,True,model,3
+row1609,Q1634926|Q27349,3,Q1634926,Hugo Cassirer,Q27349,dentist,4,0,0,1,True,model,4
+row1611,Q160236|Q1186818,1,Q160236,Metropolitan Museum of Art,Q1186818,Den Store Danske Encyklopædi,3,0,0,1,True,model,3
+row1612,Q214867|Q1186818,0,Q214867,National Gallery of Art,Q1186818,Den Store Danske Encyklopædi,5,0,0,1,False,bfs_auto_prune,
+row1613,Q17277888|Q10478639,0,Q17277888,Gottlieb Friedrich Reber,Q10478639,church death record,5,0,1,0,True,model,5
+row1616,Q214867|Q325810,0,Q214867,National Gallery of Art,Q325810,David K. E. Bruce,4,1,0,0,False,bfs_auto_prune,
+row1617,Q867510|Q17254907,1,Q867510,Cypresses,Q17254907,David Graham Carritt,5,1,1,1,True,model,5
+row1619,Q160236|Q17254907,1,Q160236,Metropolitan Museum of Art,Q17254907,David Graham Carritt,4,1,1,1,True,model,4
+row1621,Q867510|Q723358,1,Q867510,Cypresses,Q723358,Daniel Wildenstein,4,1,1,1,True,model,4
+row1623,Q29441758|Q723358,1,Q29441758,Margarete Mauthner,Q723358,Daniel Wildenstein,5,1,1,1,True,model,5
+row1624,Q160236|Q723358,1,Q160236,Metropolitan Museum of Art,Q723358,Daniel Wildenstein,3,1,1,1,True,model,3
+row1628,Q26221176|Q867510,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q867510,Cypresses,5,1,1,1,True,model,5
+row1629,Q160236|Q867510,1,Q160236,Metropolitan Museum of Art,Q867510,Cypresses,5,1,1,1,True,model,5
+row1630,Q17277888|Q4904268,0,Q17277888,Gottlieb Friedrich Reber,Q4904268,Curt Valentin,4,1,1,1,True,model,4
+row1631,Q55680361|Q4904268,4,Q55680361,Oskar Reichel,Q4904268,Curt Valentin,4,1,1,1,True,model,4
+row1632,Q74128|Q4904268,0,Q74128,Alfred Flechtheim,Q4904268,Curt Valentin,4,1,1,1,True,model,4
+row1633,Q1634926|Q674426,3,Q1634926,Hugo Cassirer,Q674426,curator,4,1,1,1,True,model,4
+row1634,Q214867|Q674426,0,Q214867,National Gallery of Art,Q674426,curator,4,1,0,0,True,model,4
+row1635,Q17277888|Q2805058,0,Q17277888,Gottlieb Friedrich Reber,Q2805058,Cupid Complaining to Venus,3,1,1,1,True,model,3
+row1636,Q55680361|Q2805058,4,Q55680361,Oskar Reichel,Q2805058,Cupid Complaining to Venus,3,1,1,1,True,model,3
+row1637,Q74128|Q2805058,0,Q74128,Alfred Flechtheim,Q2805058,Cupid Complaining to Venus,3,1,1,1,True,model,3
+row1638,Q160236|Q1142334,1,Q160236,Metropolitan Museum of Art,Q1142334,Crystal Bridges Museum of American Art,2,0,1,0,True,model,2
+row1641,Q160236|Q6430706,1,Q160236,Metropolitan Museum of Art,Q6430706,critic,5,0,0,1,True,model,5
+row1642,Q160236|Q12299841,1,Q160236,Metropolitan Museum of Art,Q12299841,cricketer,4,0,0,1,True,model,4
+row1643,Q867510|Q60476309,1,Q867510,Cypresses,Q60476309,Countess Széchenyi,4,1,1,1,True,model,4
+row1645,Q160236|Q60476309,1,Q160236,Metropolitan Museum of Art,Q60476309,Countess Széchenyi,5,1,1,1,True,model,5
+row1646,Q160236|Q22932,1,Q160236,Metropolitan Museum of Art,Q22932,count palatine,5,0,0,1,True,model,5
+row1647,Q160236|Q708492,1,Q160236,Metropolitan Museum of Art,Q708492,council member,4,0,0,1,True,model,4
+row1653,Q160236|Q38695,1,Q160236,Metropolitan Museum of Art,Q38695,cooking,2,0,0,1,True,model,2
+row1654,Q214867|Q38695,0,Q214867,National Gallery of Art,Q38695,cooking,4,0,0,1,False,bfs_auto_prune,
+row1655,Q17277888|Q876864,0,Q17277888,Gottlieb Friedrich Reber,Q876864,contributing editor,4,0,0,1,True,model,4
+row1656,Q29441758|Q158852,1,Q29441758,Margarete Mauthner,Q158852,conductor,3,0,0,1,True,model,3
+row1658,Q160236|Q21550489,1,Q160236,Metropolitan Museum of Art,Q21550489,conceptual artist,5,0,1,0,True,model,5
+row1659,Q17277888|Q19883783,0,Q17277888,Gottlieb Friedrich Reber,Q19883783,Composition with Color Planes 5,5,1,1,1,True,model,5
+row1660,Q55680361|Q19883783,4,Q55680361,Oskar Reichel,Q19883783,Composition with Color Planes 5,5,1,1,1,True,model,5
+row1661,Q74128|Q19883783,0,Q74128,Alfred Flechtheim,Q19883783,Composition with Color Planes 5,5,1,1,1,True,model,5
+row1662,Q29441758|Q36834,1,Q29441758,Margarete Mauthner,Q36834,composer,1,0,1,0,True,model,1
+row1663,Q160236|Q36834,1,Q160236,Metropolitan Museum of Art,Q36834,composer,3,0,0,1,True,model,3
+row1665,Q160236|Q1780490,1,Q160236,Metropolitan Museum of Art,Q1780490,communard,3,0,0,1,True,model,3
+row1666,Q214867|Q1780490,0,Q214867,National Gallery of Art,Q1780490,communard,5,0,0,1,False,bfs_auto_prune,
+row1667,Q21948567|Q1086863,4,Q21948567,Sunflowers,Q1086863,columnist,5,0,0,1,True,model,11
+row1668,Q26221176|Q1086863,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1086863,columnist,5,0,0,1,True,model,5
+row1669,Q160236|Q1086863,1,Q160236,Metropolitan Museum of Art,Q1086863,columnist,5,0,0,1,True,model,5
+row1670,Q26221176|Q3243461,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q3243461,collector,4,1,0,0,True,model,4
+row1671,Q17277888|Q3243461,0,Q17277888,Gottlieb Friedrich Reber,Q3243461,collector,2,1,1,1,True,model,2
+row1672,Q29441758|Q3243461,1,Q29441758,Margarete Mauthner,Q3243461,collector,1,1,1,1,True,model,1
+row1673,Q160236|Q3243461,1,Q160236,Metropolitan Museum of Art,Q3243461,collector,4,1,1,1,True,model,4
+row1674,Q214867|Q3243461,0,Q214867,National Gallery of Art,Q3243461,collector,3,1,0,0,True,model,3
+row1675,Q74128|Q3243461,0,Q74128,Alfred Flechtheim,Q3243461,collector,3,1,0,0,True,model,3
+row1676,Q160236|Q3262402,1,Q160236,Metropolitan Museum of Art,Q3262402,cloistered nun,4,0,1,0,True,model,4
+row1678,Q867510|Q60729883,1,Q867510,Cypresses,Q60729883,Cleveland Museum of Art Open Access project,3,0,0,1,True,model,3
+row1680,Q160236|Q60729883,1,Q160236,Metropolitan Museum of Art,Q60729883,Cleveland Museum of Art Open Access project,4,0,0,1,True,model,4
+row1683,Q867510|Q657415,1,Q867510,Cypresses,Q657415,Cleveland Museum of Art,3,1,1,1,True,model,3
+row1685,Q26221176|Q657415,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q657415,Cleveland Museum of Art,1,1,1,1,True,model,1
+row1687,Q74128|Q657415,0,Q74128,Alfred Flechtheim,Q657415,Cleveland Museum of Art,2,1,1,1,True,model,2
+row1690,Q160236|Q2468727,1,Q160236,Metropolitan Museum of Art,Q2468727,classical scholar,5,0,0,1,True,model,5
+row1692,Q17277888|Q53438402,0,Q17277888,Gottlieb Friedrich Reber,Q53438402,Clara Westman,5,0,1,0,True,model,5
+row1693,Q17277888|Q212238,0,Q17277888,Gottlieb Friedrich Reber,Q212238,civil servant,4,0,0,1,True,model,4
+row1694,Q160236|Q59916588,1,Q160236,Metropolitan Museum of Art,Q59916588,City of Toulouse,5,0,1,0,True,model,5
+row1695,Q160236|Q222344,1,Q160236,Metropolitan Museum of Art,Q222344,cinematographer,4,0,0,1,True,model,4
+row1697,Q55680361|Q12306176,4,Q55680361,Oskar Reichel,Q12306176,Christian Tetzen-Lund,4,1,1,1,True,model,4
+row1698,Q74128|Q12306176,0,Q74128,Alfred Flechtheim,Q12306176,Christian Tetzen-Lund,2,1,1,1,True,model,2
+row1699,Q21948567|Q1423891,4,Q21948567,Sunflowers,Q1423891,Christian minister,4,0,0,1,True,model,4
+row1700,Q26221176|Q1423891,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1423891,Christian minister,4,0,0,1,True,model,4
+row1701,Q160236|Q1423891,1,Q160236,Metropolitan Museum of Art,Q1423891,Christian minister,4,0,0,1,True,model,4
+row1702,Q160236|Q657550,1,Q160236,Metropolitan Museum of Art,Q657550,Christian I,5,0,1,0,True,model,5
+row1703,Q160236|Q28020362,1,Q160236,Metropolitan Museum of Art,Q28020362,Christ and the Woman Taken in Adultery,5,0,1,0,True,model,5
+row1704,Q160236|Q26722705,1,Q160236,Metropolitan Museum of Art,Q26722705,Christ and the Woman of Samaria,5,0,1,0,True,model,5
+row1705,Q160236|Q27979524,1,Q160236,Metropolitan Museum of Art,Q27979524,Christ and the Woman of Samaria,5,0,1,0,True,model,5
+row1707,Q26221176|Q593644,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q593644,chemist,4,0,0,1,True,model,7
+row1708,Q160236|Q593644,1,Q160236,Metropolitan Museum of Art,Q593644,chemist,4,0,0,1,True,model,4
+row1709,Q214867|Q593644,0,Q214867,National Gallery of Art,Q593644,chemist,5,0,0,1,False,bfs_auto_prune,
+row1710,Q74128|Q593644,0,Q74128,Alfred Flechtheim,Q593644,chemist,3,0,0,1,True,model,8
+row1711,Q160236|Q1461848,1,Q160236,Metropolitan Museum of Art,Q1461848,Château de Ferrières,5,1,1,1,True,model,5
+row1712,Q160236|Q34064952,1,Q160236,Metropolitan Museum of Art,Q34064952,"Charlotte Spencer-Churchill, Duchess of Marlborough",4,0,1,0,True,model,4
+row1713,Q160236|Q262788,1,Q160236,Metropolitan Museum of Art,Q262788,Charlotte Napoléone Bonaparte,5,0,1,0,True,model,5
+row1715,Q160236|Q2960213,1,Q160236,Metropolitan Museum of Art,Q2960213,Charles Sedelmeyer,2,1,1,1,True,model,2
+row1717,Q160236|Q134309,1,Q160236,Metropolitan Museum of Art,Q134309,Charles IX of France,5,0,1,0,True,model,5
+row1718,Q160236|Q62594,1,Q160236,Metropolitan Museum of Art,Q62594,"Charles III Philip, Elector Palatine",3,0,1,0,True,model,3
+row1719,Q160236|Q36234,1,Q160236,Metropolitan Museum of Art,Q36234,Charles III of Spain,5,0,1,0,True,model,5
+row1720,Q160236|Q36174,1,Q160236,Metropolitan Museum of Art,Q36174,Charles II of Spain,4,0,1,0,True,model,4
+row1725,Q867510|Q21069797,1,Q867510,Cypresses,Q21069797,Charles Carstairs,4,1,1,1,True,model,4
+row1728,Q26221176|Q21069797,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q21069797,Charles Carstairs,5,1,1,1,True,model,5
+row1729,Q17277888|Q21069797,0,Q17277888,Gottlieb Friedrich Reber,Q21069797,Charles Carstairs,5,1,1,1,True,model,8
+row1730,Q160236|Q21069797,1,Q160236,Metropolitan Museum of Art,Q21069797,Charles Carstairs,3,1,1,1,True,model,3
+row1731,Q74128|Q21069797,0,Q74128,Alfred Flechtheim,Q21069797,Charles Carstairs,5,1,1,1,True,model,5
+row1732,Q657415|Q5074681,3,Q657415,Cleveland Museum of Art,Q5074681,Charlene von Saher,5,1,1,1,True,model,5
+row1735,Q160236|Q140686,1,Q160236,Metropolitan Museum of Art,Q140686,chairperson,5,0,0,1,True,model,5
+row1736,Q160236|Q15969109,1,Q160236,Metropolitan Museum of Art,Q15969109,César-Emmanuel-Flavien Henrion de Staal de Magnoncour,2,0,1,0,True,model,2
+row1737,Q160236|Q7541856,1,Q160236,Metropolitan Museum of Art,Q7541856,ceramicist,4,0,1,0,True,model,4
+row1738,Q214867|Q7541856,0,Q214867,National Gallery of Art,Q7541856,ceramicist,5,0,0,1,False,bfs_auto_prune,
+row1740,Q160236|Q235812,1,Q160236,Metropolitan Museum of Art,Q235812,"Cecilie, Crown Princess of Germany",5,0,1,0,True,model,5
+row1741,Q160236|Q250867,1,Q160236,Metropolitan Museum of Art,Q250867,Catholic priest,3,0,0,1,True,model,3
+row1742,Q214867|Q250867,0,Q214867,National Gallery of Art,Q250867,Catholic priest,3,0,0,1,False,bfs_auto_prune,
+row1743,Q160236|Q302556,1,Q160236,Metropolitan Museum of Art,Q302556,Catholic Encyclopedia,4,0,0,1,True,model,4
+row1744,Q160236|Q25393460,1,Q160236,Metropolitan Museum of Art,Q25393460,Catholic deacon,5,0,0,1,True,model,5
+row1745,Q160236|Q234257,1,Q160236,Metropolitan Museum of Art,Q234257,Catherine Pavlovna of Russia,4,0,1,0,True,model,4
+row1747,Q17277888|Q179718,0,Q17277888,Gottlieb Friedrich Reber,Q179718,Catherine of Alexandria,3,0,0,1,True,model,3
+row1748,Q214867|Q179718,0,Q214867,National Gallery of Art,Q179718,Catherine of Alexandria,5,0,0,1,False,bfs_auto_prune,
+row1749,Q160236|Q36450,1,Q160236,Metropolitan Museum of Art,Q36450,Catherine II of Russia,5,0,1,0,True,model,5
+row1750,Q657415|Q36450,3,Q657415,Cleveland Museum of Art,Q36450,Catherine II of Russia,5,0,1,0,True,model,5
+row1754,Q17277888|Q16986324,0,Q17277888,Gottlieb Friedrich Reber,Q16986324,Catalog of the paintings on show at the Rijksmuseum in 1956,5,1,1,1,True,model,3
+row1755,Q214867|Q16986324,0,Q214867,National Gallery of Art,Q16986324,Catalog of the paintings on show at the Rijksmuseum in 1956,5,1,0,0,False,bfs_auto_prune,
+row1756,Q657415|Q16986324,3,Q657415,Cleveland Museum of Art,Q16986324,Catalog of the paintings on show at the Rijksmuseum in 1956,5,1,1,1,True,model,5
+row1757,Q867510|Q5046521,1,Q867510,Cypresses,Q5046521,Carroll Carstairs,5,1,1,1,True,model,5
+row1758,Q160236|Q5046521,1,Q160236,Metropolitan Museum of Art,Q5046521,Carroll Carstairs,4,1,1,1,True,model,4
+row1759,Q26221176|Q1043967,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1043967,Carnegie Museum of Art,3,1,1,1,True,model,3
+row1760,Q160236|Q1043967,1,Q160236,Metropolitan Museum of Art,Q1043967,Carnegie Museum of Art,4,1,1,1,True,model,4
+row1761,Q74128|Q1043967,0,Q74128,Alfred Flechtheim,Q1043967,Carnegie Museum of Art,4,1,1,1,True,model,4
+row1762,Q160236|Q5750314,1,Q160236,Metropolitan Museum of Art,Q5750314,Carlos Fernando de Austria y Manrique,5,0,1,0,True,model,5
+row1764,Q17277888|Q222728,0,Q17277888,Gottlieb Friedrich Reber,Q222728,Carinhall,2,1,1,1,True,model,2
+row1765,Q160236|Q222728,1,Q160236,Metropolitan Museum of Art,Q222728,Carinhall,5,1,1,1,True,model,5
+row1766,Q214867|Q222728,0,Q214867,National Gallery of Art,Q222728,Carinhall,4,1,0,0,False,bfs_auto_prune,
+row1770,Q867510|Q43845,1,Q867510,Cypresses,Q43845,businessperson,2,0,0,1,True,model,2
+row1772,Q21948567|Q43845,4,Q21948567,Sunflowers,Q43845,businessperson,5,0,0,1,True,model,5
+row1773,Q26221176|Q43845,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q43845,businessperson,2,0,0,1,True,model,2
+row1774,Q17277888|Q43845,0,Q17277888,Gottlieb Friedrich Reber,Q43845,businessperson,5,0,0,1,True,model,5
+row1776,Q324935|Q43845,3,Q324935,Ferenc Hatvany,Q43845,businessperson,2,0,0,1,True,model,2
+row1777,Q55680361|Q43845,4,Q55680361,Oskar Reichel,Q43845,businessperson,5,0,0,1,True,model,5
+row1778,Q160236|Q43845,1,Q160236,Metropolitan Museum of Art,Q43845,businessperson,3,0,0,1,True,model,4
+row1780,Q214867|Q43845,0,Q214867,National Gallery of Art,Q43845,businessperson,3,0,0,1,True,model,3
+row1781,Q20178788|Q43845,2,Q20178788,Still Life with Apples,Q43845,businessperson,3,0,0,1,True,model,3
+row1782,Q74128|Q43845,0,Q74128,Alfred Flechtheim,Q43845,businessperson,3,0,0,1,True,model,3
+row1785,Q26221176|Q18223037,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q18223037,Bunch of Asparagus,5,1,1,1,True,model,5
+row1786,Q17277888|Q18223037,0,Q17277888,Gottlieb Friedrich Reber,Q18223037,Bunch of Asparagus,4,1,1,1,True,model,4
+row1787,Q29441758|Q18223037,1,Q29441758,Margarete Mauthner,Q18223037,Bunch of Asparagus,5,1,1,1,True,model,5
+row1788,Q160236|Q18223037,1,Q160236,Metropolitan Museum of Art,Q18223037,Bunch of Asparagus,3,1,1,1,True,model,3
+row1789,Q867510|Q66677,1,Q867510,Cypresses,Q66677,Bruno Paul,4,1,1,1,True,model,4
+row1790,Q160236|Q66677,1,Q160236,Metropolitan Museum of Art,Q66677,Bruno Paul,5,1,1,1,True,model,5
+row1791,Q5147536|Q66677,1,Q5147536,Josef Feinhals,Q66677,Bruno Paul,1,1,1,1,True,model,1
+row1793,Q17277888|Q89582,0,Q17277888,Gottlieb Friedrich Reber,Q89582,Bruno Lohse,5,1,1,1,True,model,5
+row1794,Q160236|Q89582,1,Q160236,Metropolitan Museum of Art,Q89582,Bruno Lohse,4,1,1,1,True,model,4
+row1795,Q160236|Q91618,1,Q160236,Metropolitan Museum of Art,Q91618,Bruno Cassirer,5,1,1,1,True,model,5
+row1797,Q160236|Q2374149,1,Q160236,Metropolitan Museum of Art,Q2374149,botanist,5,0,0,1,True,model,5
+row1798,Q21948567|Q3148760,4,Q21948567,Sunflowers,Q3148760,botanical illustrator,5,0,1,0,True,model,5
+row1799,Q26221176|Q3148760,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q3148760,botanical illustrator,5,0,0,1,True,model,5
+row1800,Q160236|Q3148760,1,Q160236,Metropolitan Museum of Art,Q3148760,botanical illustrator,3,0,0,1,True,model,3
+row1801,Q160236|Q998550,1,Q160236,Metropolitan Museum of Art,Q998550,bookseller,5,0,0,1,True,model,5
+row1802,Q21948567|Q8246794,4,Q21948567,Sunflowers,Q8246794,blogger,5,0,0,1,False,bfs_auto_prune,
+row1803,Q26221176|Q8246794,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q8246794,blogger,5,0,0,1,True,model,5
+row1804,Q160236|Q865736,1,Q160236,Metropolitan Museum of Art,Q865736,Birmingham Museum of Art,4,1,1,1,True,model,4
+row1805,Q160236|Q864503,1,Q160236,Metropolitan Museum of Art,Q864503,biologist,3,0,0,1,True,model,3
+row1806,Q160236|Q36279,1,Q160236,Metropolitan Museum of Art,Q36279,biography,4,0,0,1,False,bfs_auto_prune,
+row1807,Q160236|Q864380,1,Q160236,Metropolitan Museum of Art,Q864380,biographer,4,0,0,1,True,model,4
+row1808,Q214867|Q864380,0,Q214867,National Gallery of Art,Q864380,biographer,3,0,0,1,False,bfs_auto_prune,
+row1809,Q74128|Q864380,0,Q74128,Alfred Flechtheim,Q864380,biographer,5,0,0,1,True,model,11
+row1810,Q657415|Q864380,3,Q657415,Cleveland Museum of Art,Q864380,biographer,3,0,0,1,True,model,3
+row1812,Q867510|Q15619234,1,Q867510,Cypresses,Q15619234,Bignou Gallery,4,1,1,1,True,model,4
+row1814,Q17277888|Q15619234,0,Q17277888,Gottlieb Friedrich Reber,Q15619234,Bignou Gallery,5,1,1,1,True,model,5
+row1815,Q160236|Q15619234,1,Q160236,Metropolitan Museum of Art,Q15619234,Bignou Gallery,2,1,1,1,True,model,2
+row1816,Q657415|Q4086271,3,Q657415,Cleveland Museum of Art,Q4086271,Bible Encyclopedia of Archimandrite Nicephorus,3,0,0,1,True,model,3
+row1818,Q214867|Q45320214,0,Q214867,National Gallery of Art,Q45320214,Beteiligte Privatpersonen und Körperschaften am NS-Kulturgutraub,3,1,1,1,True,model,3
+row1822,Q17277888|Q51037488,0,Q17277888,Gottlieb Friedrich Reber,Q51037488,Berta Fritsch,2,1,1,1,True,model,2
+row1823,Q160236|Q51037488,1,Q160236,Metropolitan Museum of Art,Q51037488,Berta Fritsch,5,1,1,1,True,model,5
+row1825,Q214867|Q826482,0,Q214867,National Gallery of Art,Q826482,Bernheim-Jeune,4,1,0,0,False,bfs_auto_prune,
+row1828,Q26221197|Q825450,2,Q26221197,Two Peasant Women Digging in Field with Snow,Q825450,Bernhard Koehler,1,1,1,1,True,model,1
+row1831,Q160236|Q359047,1,Q160236,Metropolitan Museum of Art,Q359047,Bernard Berenson,4,1,1,1,True,model,4
+row1833,Q867510|Q318815,1,Q867510,Cypresses,Q318815,Bergier commission,4,1,1,1,True,model,4
+row1835,Q160236|Q318815,1,Q160236,Metropolitan Museum of Art,Q318815,Bergier commission,5,1,1,1,True,model,5
+row1837,Q160236|Q554620,1,Q160236,Metropolitan Museum of Art,Q554620,Benjamin de Rothschild,4,1,1,1,True,model,4
+row1838,Q160236|Q2895984,1,Q160236,Metropolitan Museum of Art,Q2895984,Benjamin Altman,2,1,1,1,True,model,2
+row1839,Q74128|Q23559,0,Q74128,Alfred Flechtheim,Q23559,Benito Mussolini,5,1,0,0,True,model,5
+row1841,Q160236|Q30557313,1,Q160236,Metropolitan Museum of Art,Q30557313,Belle Linsky,5,1,1,1,True,model,5
+row1842,Q160236|Q4882133,1,Q160236,Metropolitan Museum of Art,Q4882133,Beldon Katleman,4,0,1,0,True,model,4
+row1844,Q21948567|Q51955019,4,Q21948567,Sunflowers,Q51955019,BEIC Digital Library,5,0,0,1,True,model,5
+row1845,Q26221176|Q51955019,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q51955019,BEIC Digital Library,5,0,0,1,True,model,5
+row1846,Q160236|Q51955019,1,Q160236,Metropolitan Museum of Art,Q51955019,BEIC Digital Library,3,0,0,1,True,model,3
+row1847,Q214867|Q51955019,0,Q214867,National Gallery of Art,Q51955019,BEIC Digital Library,5,0,0,1,False,bfs_auto_prune,
+row1848,Q160236|Q275569,1,Q160236,Metropolitan Museum of Art,Q275569,Béatrice Ephrussi de Rothschild,5,1,1,1,True,model,5
+row1849,Q17277888|Q20276076,0,Q17277888,Gottlieb Friedrich Reber,Q20276076,Bathers by a River,5,1,1,1,True,model,5
+row1850,Q55680361|Q20276076,4,Q55680361,Oskar Reichel,Q20276076,Bathers by a River,5,1,1,1,True,model,5
+row1851,Q74128|Q20276076,0,Q74128,Alfred Flechtheim,Q20276076,Bathers by a River,5,1,1,1,True,model,5
+row1853,Q867510|Q806798,1,Q867510,Cypresses,Q806798,banker,3,0,0,1,True,model,3
+row1854,Q17277888|Q806798,0,Q17277888,Gottlieb Friedrich Reber,Q806798,banker,5,0,0,1,True,model,5
+row1856,Q324935|Q806798,3,Q324935,Ferenc Hatvany,Q806798,banker,2,0,0,1,True,model,2
+row1857,Q55680361|Q806798,4,Q55680361,Oskar Reichel,Q806798,banker,5,0,0,1,True,model,5
+row1858,Q160236|Q806798,1,Q160236,Metropolitan Museum of Art,Q806798,banker,3,0,0,1,True,model,3
+row1860,Q214867|Q806798,0,Q214867,National Gallery of Art,Q806798,banker,3,0,0,1,False,bfs_auto_prune,
+row1861,Q20178788|Q806798,2,Q20178788,Still Life with Apples,Q806798,banker,3,0,0,1,True,model,3
+row1862,Q74128|Q806798,0,Q74128,Alfred Flechtheim,Q806798,banker,5,0,0,1,True,model,5
+row1863,Q29441758|Q806349,1,Q29441758,Margarete Mauthner,Q806349,bandleader,3,0,1,0,True,model,3
+row1864,Q160236|Q2876634,1,Q160236,Metropolitan Museum of Art,Q2876634,B. Altman and Company,3,1,1,1,True,model,3
+row1865,Q160236|Q27978238,1,Q160236,Metropolitan Museum of Art,Q27978238,Autumn with Moses receiving the Ten Commandments,5,0,1,0,True,model,5
+row1867,Q214867|Q766863,0,Q214867,National Gallery of Art,Q766863,Auguste Pellerin,2,1,0,0,True,model,2
+row1868,Q160236|Q766737,1,Q160236,Metropolitan Museum of Art,Q766737,Auguste Manet,3,0,1,0,True,model,3
+row1869,Q214867|Q766737,0,Q214867,National Gallery of Art,Q766737,Auguste Manet,5,0,0,1,False,bfs_auto_prune,
+row1870,Q74128|Q64349,0,Q74128,Alfred Flechtheim,Q64349,August Thyssen,5,1,1,1,True,model,5
+row1878,Q160236|Q16741013,1,Q160236,Metropolitan Museum of Art,Q16741013,art thief,5,1,0,0,True,model,5
+row1881,Q17277888|Q30335959,0,Q17277888,Gottlieb Friedrich Reber,Q30335959,Art Looting Investigation Unit,1,1,1,1,True,model,1
+row1882,Q29441758|Q30335959,1,Q29441758,Margarete Mauthner,Q30335959,Art Looting Investigation Unit,5,1,1,1,True,model,5
+row1883,Q160236|Q30335959,1,Q160236,Metropolitan Museum of Art,Q30335959,Art Looting Investigation Unit,3,1,1,1,True,model,3
+row1885,Q214867|Q30335959,0,Q214867,National Gallery of Art,Q30335959,Art Looting Investigation Unit,3,1,1,1,True,model,3
+row1886,Q74128|Q30335959,0,Q74128,Alfred Flechtheim,Q30335959,Art Looting Investigation Unit,5,1,1,1,True,model,5
+row1887,Q17277888|Q239303,0,Q17277888,Gottlieb Friedrich Reber,Q239303,Art Institute of Chicago,4,1,1,1,True,model,4
+row1888,Q160236|Q239303,1,Q160236,Metropolitan Museum of Art,Q239303,Art Institute of Chicago,4,1,1,1,True,model,4
+row1889,Q74128|Q239303,0,Q74128,Alfred Flechtheim,Q239303,Art Institute of Chicago,4,1,1,1,True,model,4
+row1892,Q160236|Q50637,1,Q160236,Metropolitan Museum of Art,Q50637,art history,3,1,1,1,True,model,3
+row1893,Q214867|Q50637,0,Q214867,National Gallery of Art,Q50637,art history,5,1,0,0,False,bfs_auto_prune,
+row1895,Q867510|Q1792450,1,Q867510,Cypresses,Q1792450,art historian,5,1,1,1,True,model,5
+row1897,Q26221176|Q1792450,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q1792450,art historian,2,1,1,1,True,model,2
+row1898,Q29441758|Q1792450,1,Q29441758,Margarete Mauthner,Q1792450,art historian,5,1,1,1,True,model,5
+row1899,Q55680361|Q1792450,4,Q55680361,Oskar Reichel,Q1792450,art historian,5,1,1,1,True,model,3
+row1900,Q160236|Q1792450,1,Q160236,Metropolitan Museum of Art,Q1792450,art historian,3,1,1,1,True,model,4
+row1902,Q214867|Q1792450,0,Q214867,National Gallery of Art,Q1792450,art historian,4,1,0,0,True,model,4
+row1903,Q74128|Q1792450,0,Q74128,Alfred Flechtheim,Q1792450,art historian,1,1,1,1,True,model,1
+row1905,Q214867|Q705551,0,Q214867,National Gallery of Art,Q705551,Art Gallery of New South Wales,4,1,0,0,False,bfs_auto_prune,
+row1906,Q1634926|Q173950,3,Q1634926,Hugo Cassirer,Q173950,art dealer,2,1,1,1,True,model,2
+row1907,Q867510|Q173950,1,Q867510,Cypresses,Q173950,art dealer,2,1,1,1,True,model,2
+row1910,Q26221176|Q173950,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q173950,art dealer,2,1,1,1,True,model,2
+row1911,Q17277888|Q173950,0,Q17277888,Gottlieb Friedrich Reber,Q173950,art dealer,1,1,1,1,True,model,1
+row1912,Q324935|Q173950,3,Q324935,Ferenc Hatvany,Q173950,art dealer,3,1,1,1,True,model,3
+row1913,Q55680361|Q173950,4,Q55680361,Oskar Reichel,Q173950,art dealer,4,1,1,1,True,model,5
+row1914,Q160236|Q173950,1,Q160236,Metropolitan Museum of Art,Q173950,art dealer,3,1,1,1,True,model,3
+row1916,Q214867|Q173950,0,Q214867,National Gallery of Art,Q173950,art dealer,3,1,1,1,True,model,3
+row1917,Q74128|Q173950,0,Q74128,Alfred Flechtheim,Q173950,art dealer,1,1,1,1,True,model,1
+row1919,Q26221176|Q4164507,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q4164507,art critic,4,1,0,0,True,model,4
+row1920,Q11770767|Q4164507,3,Q11770767,Still life with coffee pot  dishes and fruit,Q4164507,art critic,2,1,1,1,True,model,2
+row1921,Q160236|Q4164507,1,Q160236,Metropolitan Museum of Art,Q4164507,art critic,5,1,1,1,True,model,5
+row1922,Q74128|Q4164507,0,Q74128,Alfred Flechtheim,Q4164507,art critic,3,1,0,0,True,model,3
+row1923,Q156426|Q10732476,4,Q156426,Alexej von Jawlensky,Q10732476,art collector,1,1,1,1,True,model,1
+row1924,Q666331|Q10732476,4,Q666331,Foundation E.G. Bührle Collection,Q10732476,art collector,3,1,1,1,True,model,3
+row1926,Q867510|Q10732476,1,Q867510,Cypresses,Q10732476,art collector,2,1,1,1,True,model,2
+row1928,Q21948567|Q10732476,4,Q21948567,Sunflowers,Q10732476,art collector,2,1,1,1,True,model,2
+row1929,Q26221176|Q10732476,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q10732476,art collector,2,1,1,1,True,model,2
+row1930,Q17277888|Q10732476,0,Q17277888,Gottlieb Friedrich Reber,Q10732476,art collector,1,1,1,1,True,model,1
+row1932,Q29441758|Q10732476,1,Q29441758,Margarete Mauthner,Q10732476,art collector,1,1,1,1,True,model,1
+row1933,Q26221197|Q10732476,2,Q26221197,Two Peasant Women Digging in Field with Snow,Q10732476,art collector,2,1,1,1,True,model,2
+row1934,Q324935|Q10732476,3,Q324935,Ferenc Hatvany,Q10732476,art collector,1,1,1,1,True,model,1
+row1935,Q55680361|Q10732476,4,Q55680361,Oskar Reichel,Q10732476,art collector,1,1,1,1,True,model,1
+row1936,Q11770767|Q10732476,3,Q11770767,Still life with coffee pot  dishes and fruit,Q10732476,art collector,2,1,1,1,True,model,2
+row1937,Q160236|Q10732476,1,Q160236,Metropolitan Museum of Art,Q10732476,art collector,3,1,1,1,True,model,3
+row1938,Q5147536|Q10732476,1,Q5147536,Josef Feinhals,Q10732476,art collector,1,1,1,1,True,model,1
+row1941,Q214867|Q10732476,0,Q214867,National Gallery of Art,Q10732476,art collector,3,1,0,0,False,bfs_auto_prune,
+row1942,Q20178788|Q10732476,2,Q20178788,Still Life with Apples,Q10732476,art collector,2,1,1,1,True,model,2
+row1943,Q74128|Q10732476,0,Q74128,Alfred Flechtheim,Q10732476,art collector,1,1,1,1,True,model,1
+row1944,Q657415|Q10732476,3,Q657415,Cleveland Museum of Art,Q10732476,art collector,3,1,1,1,True,model,3
+row1946,Q214867|Q24909800,0,Q214867,National Gallery of Art,Q24909800,Art+Feminism,4,1,0,0,False,bfs_auto_prune,
+row1949,Q156426|Q2657718,4,Q156426,Alexej von Jawlensky,Q2657718,Armenian Soviet Encyclopedia,5,0,0,1,False,bfs_auto_prune,
+row1950,Q867510|Q2657718,1,Q867510,Cypresses,Q2657718,Armenian Soviet Encyclopedia,4,0,0,1,True,model,4
+row1951,Q21948567|Q2657718,4,Q21948567,Sunflowers,Q2657718,Armenian Soviet Encyclopedia,5,0,0,1,True,model,5
+row1952,Q17277888|Q2657718,0,Q17277888,Gottlieb Friedrich Reber,Q2657718,Armenian Soviet Encyclopedia,2,0,0,1,True,model,2
+row1953,Q324935|Q2657718,3,Q324935,Ferenc Hatvany,Q2657718,Armenian Soviet Encyclopedia,4,0,0,1,False,bfs_auto_prune,
+row1954,Q160236|Q2657718,1,Q160236,Metropolitan Museum of Art,Q2657718,Armenian Soviet Encyclopedia,3,0,0,1,True,model,3
+row1955,Q214867|Q2657718,0,Q214867,National Gallery of Art,Q2657718,Armenian Soviet Encyclopedia,4,0,0,1,False,bfs_auto_prune,
+row1956,Q867510|Q363383,1,Q867510,Cypresses,Q363383,Armand Hammer,4,1,1,1,True,model,4
+row1959,Q26221176|Q363383,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q363383,Armand Hammer,5,1,1,1,True,model,5
+row1960,Q17277888|Q363383,0,Q17277888,Gottlieb Friedrich Reber,Q363383,Armand Hammer,5,1,1,1,True,model,8
+row1961,Q160236|Q363383,1,Q160236,Metropolitan Museum of Art,Q363383,Armand Hammer,3,1,1,1,True,model,3
+row1962,Q74128|Q363383,0,Q74128,Alfred Flechtheim,Q363383,Armand Hammer,5,1,1,1,True,model,5
+row1963,Q1634926|Q42973,3,Q1634926,Hugo Cassirer,Q42973,architect,5,0,0,1,True,model,5
+row1964,Q867510|Q42973,1,Q867510,Cypresses,Q42973,architect,4,0,0,1,True,model,4
+row1965,Q160236|Q42973,1,Q160236,Metropolitan Museum of Art,Q42973,architect,4,0,0,1,True,model,4
+row1967,Q160236|Q113754,1,Q160236,Metropolitan Museum of Art,Q113754,Archduke Wenceslaus of Austria,4,0,1,0,True,model,4
+row1969,Q160236|Q437295,1,Q160236,Metropolitan Museum of Art,Q437295,Archduke Leopold Wilhelm of Austria,2,0,1,0,True,model,2
+row1970,Q214867|Q437295,0,Q214867,National Gallery of Art,Q437295,Archduke Leopold Wilhelm of Austria,2,0,0,1,True,model,2
+row1971,Q160236|Q347422,1,Q160236,Metropolitan Museum of Art,Q347422,Archduke Leopold Joseph of Austria,4,0,1,0,True,model,4
+row1972,Q160236|Q647419,1,Q160236,Metropolitan Museum of Art,Q647419,Archduke Karl Joseph of Austria,5,0,1,0,True,model,5
+row1973,Q160236|Q319764,1,Q160236,Metropolitan Museum of Art,Q319764,"Archduke Joseph, Palatine of Hungary",5,0,1,0,True,model,5
+row1974,Q160236|Q14541808,1,Q160236,Metropolitan Museum of Art,Q14541808,Archduke Johann Karl of Austria,4,0,1,0,True,model,4
+row1975,Q160236|Q327156,1,Q160236,Metropolitan Museum of Art,Q327156,Archduke Ernest of Austria,2,0,1,0,True,model,2
+row1977,Q160236|Q438335,1,Q160236,Metropolitan Museum of Art,Q438335,Archduchess Maria Magdalena of Austria,4,0,1,0,True,model,4
+row1978,Q160236|Q27886480,1,Q160236,Metropolitan Museum of Art,Q27886480,Archduchess Maria Josepha of Austria,4,0,1,0,True,model,4
+row1979,Q160236|Q93381,1,Q160236,Metropolitan Museum of Art,Q93381,Archduchess Maria Anna of Austria,4,0,1,0,True,model,4
+row1980,Q160236|Q112088,1,Q160236,Metropolitan Museum of Art,Q112088,Archduchess Maria Anna Josepha of Austria,4,0,1,0,True,model,4
+row1981,Q160236|Q79158,1,Q160236,Metropolitan Museum of Art,Q79158,Archduchess Margaretha of Austria,4,0,1,0,True,model,4
+row1988,Q160236|Q19960628,1,Q160236,Metropolitan Museum of Art,Q19960628,Archambaud de Talleyrand-Périgord,4,0,1,0,True,model,4
+row1989,Q160236|Q3621491,1,Q160236,Metropolitan Museum of Art,Q3621491,archaeologist,3,0,0,1,True,model,3
+row1990,Q160236|Q187865,1,Q160236,Metropolitan Museum of Art,Q187865,antiquarian seller,5,1,1,1,True,model,5
+row1992,Q214867|Q46596638,0,Q214867,National Gallery of Art,Q46596638,Andrew W. Mellon collection,1,1,0,0,True,model,1
+row1993,Q74128|Q46596638,0,Q74128,Alfred Flechtheim,Q46596638,Andrew W. Mellon collection,5,1,1,1,True,model,5
+row1994,Q26221176|Q446858,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q446858,Andrew W. Mellon,5,1,1,1,True,model,5
+row1996,Q214867|Q446858,0,Q214867,National Gallery of Art,Q446858,Andrew W. Mellon,2,1,0,0,True,model,2
+row1997,Q74128|Q446858,0,Q74128,Alfred Flechtheim,Q446858,Andrew W. Mellon,4,1,1,1,True,model,4
+row2000,Q74128|Q57687611,0,Q74128,Alfred Flechtheim,Q57687611,An Unpublished Head of Christ by Rembrandt,4,1,1,1,True,model,4
+row2003,Q867510|Q28860082,1,Q867510,Cypresses,Q28860082,Amédée Schuffenecker,3,1,1,1,True,model,3
+row2005,Q29441758|Q28860082,1,Q29441758,Margarete Mauthner,Q28860082,Amédée Schuffenecker,4,1,1,1,True,model,4
+row2006,Q160236|Q28860082,1,Q160236,Metropolitan Museum of Art,Q28860082,Amédée Schuffenecker,2,1,1,1,True,model,2
+row2008,Q214867|Q28860082,0,Q214867,National Gallery of Art,Q28860082,Amédée Schuffenecker,4,1,0,0,False,bfs_auto_prune,
+row2010,Q214867|Q459041,0,Q214867,National Gallery of Art,Q459041,Ambroise Vollard,2,1,0,0,True,model,2
+row2011,Q867510|Q106213,1,Q867510,Cypresses,Q106213,Alfred Neven DuMont,5,1,1,1,True,model,5
+row2013,Q26221176|Q74128,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q74128,Alfred Flechtheim,1,1,1,1,True,model,1
+row2014,Q55680361|Q74128,4,Q55680361,Oskar Reichel,Q74128,Alfred Flechtheim,4,1,1,1,True,model,4
+row2015,Q160236|Q2644803,1,Q160236,Metropolitan Museum of Art,Q2644803,Alfred Cassirer,4,1,1,1,True,model,4
+row2016,Q867510|Q2644753,1,Q867510,Cypresses,Q2644753,Alfred Breslauer,4,1,1,1,True,model,4
+row2018,Q160236|Q2644753,1,Q160236,Metropolitan Museum of Art,Q2644753,Alfred Breslauer,4,1,1,1,True,model,4
+row2019,Q160236|Q18379827,1,Q160236,Metropolitan Museum of Art,Q18379827,Alexandre Rosenberg,5,0,1,0,True,model,5
+row2020,Q214867|Q18379827,0,Q214867,National Gallery of Art,Q18379827,Alexandre Rosenberg,5,0,0,1,False,bfs_auto_prune,
+row2023,Q324935|Q2833448,3,Q324935,Ferenc Hatvany,Q2833448,Alexandre Berthier,2,1,1,1,True,model,2
+row2024,Q160236|Q507156,1,Q160236,Metropolitan Museum of Art,Q507156,Alexandre Angélique de Talleyrand-Périgord,5,0,1,0,True,model,5
+row2025,Q160236|Q515770,1,Q160236,Metropolitan Museum of Art,Q515770,Alexandra Zhukovskaya,5,0,1,0,True,model,5
+row2026,Q160236|Q58001,1,Q160236,Metropolitan Museum of Art,Q58001,Alexandra Petrovna of Oldenburg,4,0,1,0,True,model,4
+row2027,Q160236|Q57207,1,Q160236,Metropolitan Museum of Art,Q57207,Alexandra Feodorovna,3,0,1,0,True,model,3
+row2029,Q160236|Q55845962,1,Q160236,Metropolitan Museum of Art,Q55845962,Alexandra Andreevna Dietrichstein,5,0,1,0,True,model,5
+row2030,Q160236|Q2833919,1,Q160236,Metropolitan Museum of Art,Q2833919,Alexandr Nikolajewitsch Iskander,5,0,1,0,True,model,5
+row2033,Q160236|Q2387340,1,Q160236,Metropolitan Museum of Art,Q2387340,Alexander Stroganov,5,0,0,1,False,bfs_auto_prune,
+row2034,Q160236|Q84632,1,Q160236,Metropolitan Museum of Art,Q84632,Alexander Sigismund von der Pfalz-Neuburg,3,0,1,0,True,model,3
+row2037,Q160236|Q1519034,1,Q160236,Metropolitan Museum of Art,Q1519034,Alexander Palace,5,0,1,0,True,model,5
+row2040,Q160236|Q120180,1,Q160236,Metropolitan Museum of Art,Q120180,Alexander III of Russia,4,0,1,0,True,model,4
+row2041,Q160236|Q83171,1,Q160236,Metropolitan Museum of Art,Q83171,Alexander II of Russia,3,0,1,0,True,model,3
+row2042,Q160236|Q15193,1,Q160236,Metropolitan Museum of Art,Q15193,Alexander I of Russia,4,0,1,0,True,model,4
+row2044,Q160236|Q4719071,1,Q160236,Metropolitan Museum of Art,Q4719071,Alexander Hamilton Jr.,3,0,0,1,False,bfs_auto_prune,
+row2045,Q160236|Q28043469,1,Q160236,Metropolitan Museum of Art,Q28043469,"Alexander Hamilton, Jr.",4,0,0,1,False,bfs_auto_prune,
+row2046,Q160236|Q19924921,1,Q160236,Metropolitan Museum of Art,Q19924921,Alexander Hamilton,1,0,1,0,True,model,1
+row2047,Q160236|Q178903,1,Q160236,Metropolitan Museum of Art,Q178903,Alexander Hamilton,2,0,0,1,True,model,2
+row2048,Q160236|Q4719061,1,Q160236,Metropolitan Museum of Art,Q4719061,Alexander Hamilton,4,0,0,1,False,bfs_auto_prune,
+row2049,Q160236|Q4719062,1,Q160236,Metropolitan Museum of Art,Q4719062,Alexander Hamilton,5,0,0,1,False,bfs_auto_prune,
+row2050,Q214867|Q19924921,0,Q214867,National Gallery of Art,Q19924921,Alexander Hamilton,5,0,0,1,False,bfs_auto_prune,
+row2051,Q160236|Q2617314,1,Q160236,Metropolitan Museum of Art,Q2617314,Alexander Charles Vasa,5,0,1,0,True,model,5
+row2053,Q160236|Q72922,1,Q160236,Metropolitan Museum of Art,Q72922,Alexander,5,0,1,0,True,model,5
+row2054,Q26221176|Q23062739,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q23062739,Alex Vömel,3,1,1,1,True,model,3
+row2055,Q74128|Q23062739,0,Q74128,Alfred Flechtheim,Q23062739,Alex Vömel,2,1,1,1,True,model,2
+row2056,Q17277888|Q3609940,0,Q17277888,Gottlieb Friedrich Reber,Q3609940,Alessandro Contini Bonacossi,1,1,1,1,True,model,1
+row2057,Q214867|Q3609940,0,Q214867,National Gallery of Art,Q3609940,Alessandro Contini Bonacossi,2,1,1,1,True,model,2
+row2058,Q29441758|Q18745022,1,Q29441758,Margarete Mauthner,Q18745022,Alec N. Wildenstein,5,1,1,1,True,model,5
+row2059,Q160236|Q18745022,1,Q160236,Metropolitan Museum of Art,Q18745022,Alec N. Wildenstein,3,1,1,1,True,model,3
+row2060,Q160236|Q15954519,1,Q160236,Metropolitan Museum of Art,Q15954519,alchemist,5,0,0,1,True,model,5
+row2065,Q17277888|Q60045,0,Q17277888,Gottlieb Friedrich Reber,Q60045,Albert Speer,5,0,0,1,True,model,5
+row2066,Q55680361|Q60045,4,Q55680361,Oskar Reichel,Q60045,Albert Speer,5,0,1,0,True,model,5
+row2067,Q74128|Q60045,0,Q74128,Alfred Flechtheim,Q60045,Albert Speer,5,0,0,1,True,model,5
+row2069,Q160236|Q69468,1,Q160236,Metropolitan Museum of Art,Q69468,"Albert IV, Duke of Saxe-Eisenach",5,0,1,0,True,model,5
+row2070,Q17277888|Q62537,0,Q17277888,Gottlieb Friedrich Reber,Q62537,Albert Göring,3,0,1,0,True,model,3
+row2071,Q214867|Q62537,0,Q214867,National Gallery of Art,Q62537,Albert Göring,5,0,0,1,False,bfs_auto_prune,
+row2072,Q160236|Q1552207,1,Q160236,Metropolitan Museum of Art,Q1552207,Albert Figdor,2,1,1,1,True,model,2
+row2073,Q160236|Q2830219,1,Q160236,Metropolitan Museum of Art,Q2830219,Alain Renoir,4,0,1,0,True,model,4
+row2075,Q17277888|Q2095549,0,Q17277888,Gottlieb Friedrich Reber,Q2095549,aircraft pilot,2,0,0,1,True,model,2
+row2076,Q160236|Q2095549,1,Q160236,Metropolitan Museum of Art,Q2095549,aircraft pilot,5,0,0,1,True,model,5
+row2077,Q214867|Q2095549,0,Q214867,National Gallery of Art,Q2095549,aircraft pilot,4,0,0,1,False,bfs_auto_prune,
+row2078,Q214867|Q405352,0,Q214867,National Gallery of Art,Q405352,Ailsa Mellon Bruce,3,1,0,0,False,bfs_auto_prune,
+row2079,Q74128|Q405352,0,Q74128,Alfred Flechtheim,Q405352,Ailsa Mellon Bruce,5,1,1,1,True,model,5
+row2080,Q17277888|Q352,0,Q17277888,Gottlieb Friedrich Reber,Q352,Adolf Hitler,4,1,1,1,True,model,4
+row2081,Q55680361|Q352,4,Q55680361,Oskar Reichel,Q352,Adolf Hitler,4,1,1,1,True,model,4
+row2082,Q74128|Q352,0,Q74128,Alfred Flechtheim,Q352,Adolf Hitler,4,1,1,1,True,model,4
+row2083,Q29441758|Q41751676,1,Q29441758,Margarete Mauthner,Q41751676,Adele Lewisohn Lehman,5,0,1,0,True,model,5
+row2085,Q21948567|Q33999,4,Q21948567,Sunflowers,Q33999,actor,5,0,0,1,True,model,6
+row2086,Q26221176|Q33999,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q33999,actor,5,0,0,1,True,model,5
+row2087,Q17277888|Q33999,0,Q17277888,Gottlieb Friedrich Reber,Q33999,actor,5,0,0,1,True,model,5
+row2088,Q160236|Q33999,1,Q160236,Metropolitan Museum of Art,Q33999,actor,3,0,0,1,True,model,3
+row2089,Q657415|Q33999,3,Q657415,Cleveland Museum of Art,Q33999,actor,5,0,0,1,True,model,5
+row2090,Q21948567|Q15253558,4,Q21948567,Sunflowers,Q15253558,activist,5,0,0,1,False,bfs_auto_prune,
+row2091,Q26221176|Q15253558,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q15253558,activist,5,0,0,1,True,model,5
+row2095,Q17277888|Q18785024,0,Q17277888,Gottlieb Friedrich Reber,Q18785024,Abraham Adelsberger,3,1,1,1,True,model,3
+row2096,Q214867|Q18785024,0,Q214867,National Gallery of Art,Q18785024,Abraham Adelsberger,5,1,0,0,False,bfs_auto_prune,
+row2097,Q160236|Q3713914,1,Q160236,Metropolitan Museum of Art,Q3713914,A Woman Seated beside a Vase of Flowers,3,0,1,0,True,model,3
+row2098,Q26221176|Q19989799,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q19989799,A Woman Preparing Bread and Butter for a Boy,4,1,1,1,True,model,4
+row2099,Q74128|Q19989799,0,Q74128,Alfred Flechtheim,Q19989799,A Woman Preparing Bread and Butter for a Boy,3,1,1,1,True,model,3
+row2101,Q26221176|Q12842489,0,Q26221176,Two Poplars in the Alpilles near Saint-Rémy,Q12842489,A Centennial of Independence,2,1,1,1,True,model,2
+row2102,Q55680361|Q12842489,4,Q55680361,Oskar Reichel,Q12842489,A Centennial of Independence,5,1,1,1,True,model,5
+row2103,Q74128|Q12842489,0,Q74128,Alfred Flechtheim,Q12842489,A Centennial of Independence,1,1,1,1,True,model,1
+row2105,Q160236|Q15987490,1,Q160236,Metropolitan Museum of Art,Q15987490,1922 Encyclopædia Britannica,3,0,0,1,True,model,3
+row2106,Q160236|Q13423107,1,Q160236,Metropolitan Museum of Art,Q13423107,1001 Vrouwen uit de Nederlandse geschiedenis,5,0,0,1,True,model,5
+row2110,Q160236|Q55185760,1,Q160236,Metropolitan Museum of Art,Q55185760,'Son of man' as a self-designation of Jesus,4,0,0,1,True,model,4

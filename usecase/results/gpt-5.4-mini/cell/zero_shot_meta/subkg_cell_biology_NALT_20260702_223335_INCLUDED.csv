@@ -1,0 +1,367 @@
+prefLabel,altLabels,displayName,uri,confidence,in_hierarchy_gold,relations,classification
+cells,,cells,https://lod.nal.usda.gov/nalt/2895,1.0,True,,INCLUDE
+acinar cells,acinous cells,acinar cells (acinous cells),https://lod.nal.usda.gov/nalt/2893,0.99,True,skos:broader; skos:narrower,INCLUDE
+adipocytes,fat cells; lipocytes,"adipocytes (fat cells, lipocytes)",https://lod.nal.usda.gov/nalt/4218,0.99,True,skos:broader; skos:narrower,INCLUDE
+aleurone cells,,aleurone cells,https://lod.nal.usda.gov/nalt/6264,0.95,True,skos:broader; skos:narrower,INCLUDE
+antigen-presenting cells,antigen presenting cells,antigen-presenting cells (antigen presenting cells),https://lod.nal.usda.gov/nalt/10342,0.99,True,skos:broader; skos:narrower,INCLUDE
+artificial cells,synthetic cells,artificial cells (synthetic cells),https://lod.nal.usda.gov/nalt/266214,0.98,False,skos:related,INCLUDE
+bacteriocytes,mycetocytes,bacteriocytes (mycetocytes),https://lod.nal.usda.gov/nalt/15235,0.98,True,skos:broader; skos:narrower,INCLUDE
+blood cells,,blood cells,https://lod.nal.usda.gov/nalt/18061,0.99,True,skos:broader; skos:narrower,INCLUDE
+bundle sheath cells,,bundle sheath cells,https://lod.nal.usda.gov/nalt/20383,0.97,True,skos:broader; skos:narrower,INCLUDE
+cell viability,cell survival; cellular viability,"cell viability (cell survival, cellular viability)",https://lod.nal.usda.gov/nalt/206983,0.88,True,skos:related,INCLUDE
+cellular microenvironment,cell microenvironment,cellular microenvironment (cell microenvironment),https://lod.nal.usda.gov/nalt/226485,0.9,True,skos:related,INCLUDE
+chondrocytes,cartilage cells,chondrocytes (cartilage cells),https://lod.nal.usda.gov/nalt/22715,0.99,True,skos:broader; skos:narrower,INCLUDE
+chromaffin cells,,chromaffin cells,https://lod.nal.usda.gov/nalt/23458,0.98,True,skos:broader; skos:narrower,INCLUDE
+chromatophores,,chromatophores,https://lod.nal.usda.gov/nalt/191628,0.84,True,skos:broader; skos:narrower,INCLUDE
+coelomocytes,,coelomocytes,https://lod.nal.usda.gov/nalt/322529,0.97,True,skos:broader; skos:narrower,INCLUDE
+cultured cells,,cultured cells,https://lod.nal.usda.gov/nalt/23380,0.97,True,skos:broader; skos:narrower,INCLUDE
+endothelial cells,,endothelial cells,https://lod.nal.usda.gov/nalt/23459,0.99,True,skos:broader; skos:narrower,INCLUDE
+epithelial cells,,epithelial cells,https://lod.nal.usda.gov/nalt/23460,0.99,True,skos:broader; skos:narrower,INCLUDE
+eukaryotic cells,eucaryotes; eucaryotic cells; eukaryotes,"eukaryotic cells (eucaryotes, eucaryotic cells, eukaryotes)",https://lod.nal.usda.gov/nalt/23461,0.97,True,skos:broader; skos:narrower,INCLUDE
+fibroblasts,dermal fibroblasts; fibroblast cells,"fibroblasts (dermal fibroblasts, fibroblast cells)",https://lod.nal.usda.gov/nalt/23462,0.99,True,skos:broader; skos:narrower,INCLUDE
+germ cells,gametes; germ line; germline; reproductive cells; sex cells; sexual cells,"germ cells (gametes, germ line, germline, reproductive cells, sex cells, sexual cells)",https://lod.nal.usda.gov/nalt/23463,0.99,True,skos:broader; skos:narrower,INCLUDE
+giant cells,polykaryocytes; syncytia; syncytium,"giant cells (polykaryocytes, syncytia, syncytium)",https://lod.nal.usda.gov/nalt/23464,0.98,True,skos:broader; skos:narrower,INCLUDE
+gonadotropic cells,,gonadotropic cells,https://lod.nal.usda.gov/nalt/23465,0.93,True,skos:broader; skos:narrower,INCLUDE
+granulosa cells,,granulosa cells,https://lod.nal.usda.gov/nalt/23466,0.99,True,skos:broader; skos:narrower,INCLUDE
+guard cells,,guard cells,https://lod.nal.usda.gov/nalt/23467,0.97,True,skos:broader; skos:narrower,INCLUDE
+hemocytes,haemocytes,hemocytes (haemocytes),https://lod.nal.usda.gov/nalt/23468,0.96,True,skos:broader; skos:narrower,INCLUDE
+islets of Langerhans,alpha cells (pancreatic); beta cells (pancreatic); delta cells (pancreatic); islet cells; pancreas islets; pancreatic B cells; pancreatic D cells; pancreatic alpha cells; pancreatic beta cells; pancreatic delta cells; pancreatic islets; pancreatic polypeptide cells,"islets of Langerhans (alpha cells (pancreatic), beta cells (pancreatic), delta cells (pancreatic), islet cells, pancreas islets, pancreatic B cells, pancreatic D cells, pancreatic alpha cells, pancreatic beta cells, pancreatic delta cells, pancreatic islets, pancreatic polypeptide cells)",https://lod.nal.usda.gov/nalt/6863,0.98,True,skos:broader; skos:narrower,INCLUDE
+Leydig cells,testicular interstitial cells,Leydig cells (testicular interstitial cells),https://lod.nal.usda.gov/nalt/23472,0.99,True,skos:broader; skos:narrower,INCLUDE
+luteal cells,,luteal cells,https://lod.nal.usda.gov/nalt/23473,0.98,True,skos:broader; skos:narrower,INCLUDE
+mast cells,,mast cells,https://lod.nal.usda.gov/nalt/23474,0.99,True,skos:broader; skos:narrower,INCLUDE
+myocytes,muscle cells,myocytes (muscle cells),https://lod.nal.usda.gov/nalt/23476,0.99,True,skos:broader; skos:narrower,INCLUDE
+neoplasm cells,cancer cells; circulating cancer cells; circulating neoplastic cells; circulating tumor cells; circulating tumour cells; neoplasma cells; neoplastic cells; tumor cells; tumour cells,"neoplasm cells (cancer cells, circulating cancer cells, circulating neoplastic cells, circulating tumor cells, circulating tumour cells, neoplasma cells, neoplastic cells, tumor cells, tumour cells)",https://lod.nal.usda.gov/nalt/246543,0.97,True,skos:broader; skos:narrower,INCLUDE
+neurosecretory cells,,neurosecretory cells,https://lod.nal.usda.gov/nalt/23477,0.95,True,skos:broader; skos:narrower,INCLUDE
+nurse cells,nursing cells,nurse cells (nursing cells),https://lod.nal.usda.gov/nalt/300304,0.96,True,skos:broader; skos:narrower,INCLUDE
+osteoblasts,osteoblastic cells,osteoblasts (osteoblastic cells),https://lod.nal.usda.gov/nalt/23478,0.99,True,skos:broader; skos:narrower,INCLUDE
+osteoclasts,,osteoclasts,https://lod.nal.usda.gov/nalt/18534,0.99,True,skos:broader; skos:narrower,INCLUDE
+phagocytes,phagocytic cells,phagocytes (phagocytic cells),https://lod.nal.usda.gov/nalt/23479,0.98,True,skos:broader; skos:narrower,INCLUDE
+plant root cells,root cells,plant root cells (root cells),https://lod.nal.usda.gov/nalt/328577,0.99,True,skos:broader; skos:narrower,INCLUDE
+prokaryotic cells,procaryotes; procaryotic cells; prokaryotes,"prokaryotic cells (procaryotes, procaryotic cells, prokaryotes)",https://lod.nal.usda.gov/nalt/15097,0.99,True,skos:broader; skos:narrower,INCLUDE
+Schwann cells,,Schwann cells,https://lod.nal.usda.gov/nalt/14271,0.99,True,skos:broader; skos:narrower,INCLUDE
+Sertoli cells,,Sertoli cells,https://lod.nal.usda.gov/nalt/23481,0.99,True,skos:broader; skos:narrower,INCLUDE
+somatic cells,,somatic cells,https://lod.nal.usda.gov/nalt/23482,0.98,True,skos:broader; skos:narrower,INCLUDE
+splenocytes,spleen cells,splenocytes (spleen cells),https://lod.nal.usda.gov/nalt/23483,0.99,True,skos:broader; skos:narrower,INCLUDE
+stromal cells,,stromal cells,https://lod.nal.usda.gov/nalt/149090,0.95,True,skos:broader; skos:narrower,INCLUDE
+tenocytes,,tenocytes,https://lod.nal.usda.gov/nalt/323988,0.94,True,skos:broader; skos:narrower,INCLUDE
+teratocytes,,teratocytes,https://lod.nal.usda.gov/nalt/23486,0.92,True,skos:broader; skos:narrower,INCLUDE
+thecal cells,,thecal cells,https://lod.nal.usda.gov/nalt/23487,0.98,True,skos:broader; skos:narrower,INCLUDE
+vegetative cells,,vegetative cells,https://lod.nal.usda.gov/nalt/23488,0.9,True,skos:broader; skos:narrower,INCLUDE
+aleurone layer,,aleurone layer,https://lod.nal.usda.gov/nalt/6265,0.9,False,skos:broader; skos:narrower,INCLUDE
+apoptosis,type 1 programmed cell death,apoptosis (type 1 programmed cell death),https://lod.nal.usda.gov/nalt/11242,0.98,True,skos:related,INCLUDE
+axons,,axons,https://lod.nal.usda.gov/nalt/14268,0.97,False,skos:related,INCLUDE
+bacteriome,mycetome,bacteriome (mycetome),https://lod.nal.usda.gov/nalt/218603,0.84,False,skos:related,INCLUDE
+blood platelets,thrombocytes,blood platelets (thrombocytes),https://lod.nal.usda.gov/nalt/18080,0.98,True,skos:broader; skos:narrower,INCLUDE
+brown adipocytes,brown fat cells,brown adipocytes (brown fat cells),https://lod.nal.usda.gov/nalt/297926,0.99,True,skos:broader; skos:narrower,INCLUDE
+cardiomyocytes,cardiac muscle cells; cardiac myocytes,"cardiomyocytes (cardiac muscle cells, cardiac myocytes)",https://lod.nal.usda.gov/nalt/210293,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell culture,cell cultures; cell culturing,"cell culture (cell cultures, cell culturing)",https://lod.nal.usda.gov/nalt/23373,0.95,False,skos:related,INCLUDE
+cell death,,cell death,https://lod.nal.usda.gov/nalt/11245,0.96,True,skos:related,INCLUDE
+cell engineering,,cell engineering,https://lod.nal.usda.gov/nalt/206573,0.91,False,skos:related,INCLUDE
+cell lines,,cell lines,https://lod.nal.usda.gov/nalt/23379,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell physiology,,cell physiology,https://lod.nal.usda.gov/nalt/23356,0.99,True,skos:broader; skos:narrower,INCLUDE
+dendritic cells,,dendritic cells,https://lod.nal.usda.gov/nalt/10347,0.99,True,skos:broader; skos:narrower,INCLUDE
+endothelium,,endothelium,https://lod.nal.usda.gov/nalt/22425,0.97,False,skos:related,INCLUDE
+enterocytes,,enterocytes,https://lod.nal.usda.gov/nalt/37326,0.99,True,skos:broader; skos:narrower,INCLUDE
+epidermis (plant),plant epidermis,epidermis (plant) (plant epidermis),https://lod.nal.usda.gov/nalt/37574,0.78,False,skos:broader; skos:narrower,INCLUDE
+epithelium,,epithelium,https://lod.nal.usda.gov/nalt/9530,0.9,False,skos:related,INCLUDE
+erythrocytes,RBCs (red blood cells); red blood cells; red blood corpuscles,"erythrocytes (RBCs (red blood cells), red blood cells, red blood corpuscles)",https://lod.nal.usda.gov/nalt/18081,0.99,True,skos:broader; skos:narrower,INCLUDE
+gametocytes,gamonts,gametocytes (gamonts),https://lod.nal.usda.gov/nalt/32889,0.96,True,skos:broader; skos:narrower,INCLUDE
+goblet cells,,goblet cells,https://lod.nal.usda.gov/nalt/202659,0.99,True,skos:broader; skos:narrower,INCLUDE
+hematopoietic stem cells,haematopoietic progenitor cells; haematopoietic stem cells; hematopoietic progenitor cells,"hematopoietic stem cells (haematopoietic progenitor cells, haematopoietic stem cells, hematopoietic progenitor cells)",https://lod.nal.usda.gov/nalt/264113,0.98,True,skos:related,INCLUDE
+human umbilical vein endothelial cells,,human umbilical vein endothelial cells,https://lod.nal.usda.gov/nalt/216297,0.98,True,skos:broader; skos:narrower,INCLUDE
+leukocytes,WBCs (leukocytes); leucocytes; white blood cells; white blood corpuscles,"leukocytes (WBCs (leukocytes), leucocytes, white blood cells, white blood corpuscles)",https://lod.nal.usda.gov/nalt/18082,0.99,True,skos:related,INCLUDE
+macrophages,,macrophages,https://lod.nal.usda.gov/nalt/40760,0.99,True,skos:broader; skos:narrower,INCLUDE
+megaspores,,megaspores,https://lod.nal.usda.gov/nalt/42843,0.95,True,skos:broader; skos:narrower,INCLUDE
+megasporocytes,embryo sac mother cell; megaspore mother cell,"megasporocytes (embryo sac mother cell, megaspore mother cell)",https://lod.nal.usda.gov/nalt/36824,0.97,True,skos:broader; skos:narrower,INCLUDE
+melanocytes,,melanocytes,https://lod.nal.usda.gov/nalt/50928,0.99,True,skos:broader; skos:narrower,INCLUDE
+mesenchymal stromal cells,Wharton's jelly cells; bone marrow stromal cells; mesenchymal progenitor cells; mesenchymal stem cells; multipotent mesenchymal stromal cells,"mesenchymal stromal cells (Wharton's jelly cells, bone marrow stromal cells, mesenchymal progenitor cells, mesenchymal stem cells, multipotent mesenchymal stromal cells)",https://lod.nal.usda.gov/nalt/317395,0.99,True,skos:broader; skos:narrower,INCLUDE
+microspores,,microspores,https://lod.nal.usda.gov/nalt/42844,0.97,True,skos:broader; skos:narrower,INCLUDE
+microsporocytes,microspore mother cell,microsporocytes (microspore mother cell),https://lod.nal.usda.gov/nalt/42845,0.97,True,skos:broader; skos:narrower,INCLUDE
+monocytes,,monocytes,https://lod.nal.usda.gov/nalt/49956,0.99,True,skos:broader; skos:narrower,INCLUDE
+myoblasts,myoblast cells,myoblasts (myoblast cells),https://lod.nal.usda.gov/nalt/200148,0.99,True,skos:related,INCLUDE
+myotubes,skeletal muscle fibers; skeletal myocytes,"myotubes (skeletal muscle fibers, skeletal myocytes)",https://lod.nal.usda.gov/nalt/260547,0.98,True,skos:broader; skos:narrower,INCLUDE
+neuroglia,glia; glial cells; macroglia; microglia; neuroglial cells,"neuroglia (glia, glial cells, macroglia, microglia, neuroglial cells)",https://lod.nal.usda.gov/nalt/13533,0.99,False,skos:broader; skos:narrower,INCLUDE
+neutrophils,polymorphonuclear leukocytes,neutrophils (polymorphonuclear leukocytes),https://lod.nal.usda.gov/nalt/43664,0.99,True,skos:broader; skos:narrower,INCLUDE
+ova,egg cells; oospheres; ovum,"ova (egg cells, oospheres, ovum)",https://lod.nal.usda.gov/nalt/25673,0.99,True,skos:broader; skos:narrower,INCLUDE
+phagocytosis,phagocytic activity,phagocytosis (phagocytic activity),https://lod.nal.usda.gov/nalt/37025,0.86,True,skos:related,INCLUDE
+pneumocytes,,pneumocytes,https://lod.nal.usda.gov/nalt/191282,0.99,True,skos:broader; skos:narrower,INCLUDE
+protoplasm,,protoplasm,https://lod.nal.usda.gov/nalt/89756,0.92,True,skos:related,INCLUDE
+protoplasts,,protoplasts,https://lod.nal.usda.gov/nalt/30707,0.99,True,skos:broader; skos:narrower,INCLUDE
+root border cells,sloughed root cap cells,root border cells (sloughed root cap cells),https://lod.nal.usda.gov/nalt/328582,0.98,True,skos:broader; skos:narrower,INCLUDE
+somatic cell count,,somatic cell count,https://lod.nal.usda.gov/nalt/52963,0.96,False,skos:related,INCLUDE
+spermatids,,spermatids,https://lod.nal.usda.gov/nalt/42846,0.99,True,skos:broader; skos:narrower,INCLUDE
+spermatocytes,,spermatocytes,https://lod.nal.usda.gov/nalt/42847,0.99,True,skos:broader; skos:narrower,INCLUDE
+spermatogonia,spermatogonium,spermatogonia (spermatogonium),https://lod.nal.usda.gov/nalt/42848,0.99,True,skos:broader; skos:narrower,INCLUDE
+spermatozoa,sperm; spermatozoon,"spermatozoa (sperm, spermatozoon)",https://lod.nal.usda.gov/nalt/3136,0.99,True,skos:broader; skos:narrower,INCLUDE
+white adipocytes,white fat cells,white adipocytes (white fat cells),https://lod.nal.usda.gov/nalt/297921,0.99,True,skos:broader; skos:narrower,INCLUDE
+acrosome,acrosomes,acrosome (acrosomes),https://lod.nal.usda.gov/nalt/3134,0.99,True,skos:broader; skos:narrower,INCLUDE
+acrosome reaction,,acrosome reaction,https://lod.nal.usda.gov/nalt/3137,0.95,False,skos:related,INCLUDE
+animal cell lines,,animal cell lines,https://lod.nal.usda.gov/nalt/308521,0.96,True,skos:broader; skos:narrower,INCLUDE
+astrocytes,astroglia,astrocytes (astroglia),https://lod.nal.usda.gov/nalt/13531,0.99,False,skos:broader; skos:narrower,INCLUDE
+autophagosomes,,autophagosomes,https://lod.nal.usda.gov/nalt/336342,0.98,True,skos:related,INCLUDE
+bone marrow cells,,bone marrow cells,https://lod.nal.usda.gov/nalt/18522,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell communication,cell to cell communication; cell-cell communication; cellular signaling; cellular signalling; intercellular communication,"cell communication (cell to cell communication, cell-cell communication, cellular signaling, cellular signalling, intercellular communication)",https://lod.nal.usda.gov/nalt/23368,0.98,True,skos:broader; skos:narrower,INCLUDE
+cell cycle,,cell cycle,https://lod.nal.usda.gov/nalt/23382,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell cycle checkpoints,cell cycle arrest,cell cycle checkpoints (cell cycle arrest),https://lod.nal.usda.gov/nalt/232248,0.95,True,skos:related,INCLUDE
+cell dedifferentiation,,cell dedifferentiation,https://lod.nal.usda.gov/nalt/23385,0.97,True,skos:broader; skos:narrower,INCLUDE
+cell differentiation,,cell differentiation,https://lod.nal.usda.gov/nalt/3939,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell fusion,,cell fusion,https://lod.nal.usda.gov/nalt/23401,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell growth,cell elongation; cell enlargement,"cell growth (cell elongation, cell enlargement)",https://lod.nal.usda.gov/nalt/23397,0.98,True,skos:broader; skos:narrower,INCLUDE
+cell polarity,,cell polarity,https://lod.nal.usda.gov/nalt/216438,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell respiration,cellular respiration; fruit respiration; plant respiration; respiration (cells); respiration (fruits); respiration (plants); respiration (postharvest),"cell respiration (cellular respiration, fruit respiration, plant respiration, respiration (cells), respiration (fruits), respiration (plants), respiration (postharvest))",https://lod.nal.usda.gov/nalt/23423,0.92,True,skos:broader; skos:narrower,INCLUDE
+cell senescence,cellular senescence,cell senescence (cellular senescence),https://lod.nal.usda.gov/nalt/264819,0.98,True,skos:broader; skos:narrower,INCLUDE
+cell specificity,cellular specificity,cell specificity (cellular specificity),https://lod.nal.usda.gov/nalt/342280,0.93,True,skos:broader; skos:narrower,INCLUDE
+cell structures,cell morphology; cellular structures,"cell structures (cell morphology, cellular structures)",https://lod.nal.usda.gov/nalt/23358,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell suspension culture,cell suspensions,cell suspension culture (cell suspensions),https://lod.nal.usda.gov/nalt/23377,0.98,False,skos:broader; skos:narrower,INCLUDE
+cloning (cells),cell cloning,cloning (cells) (cell cloning),https://lod.nal.usda.gov/nalt/23367,0.97,False,skos:broader; skos:narrower,INCLUDE
+cortical granules,,cortical granules,https://lod.nal.usda.gov/nalt/29311,0.79,True,skos:broader; skos:narrower,INCLUDE
+cytolysis,,cytolysis,https://lod.nal.usda.gov/nalt/14015,0.95,True,skos:broader; skos:narrower,INCLUDE
+cytoplasm,,cytoplasm,https://lod.nal.usda.gov/nalt/23437,0.99,True,skos:broader; skos:narrower,INCLUDE
+embryonic structures,,embryonic structures,https://lod.nal.usda.gov/nalt/8970,0.7,False,skos:related,INCLUDE
+endocytosis,pinocytosis,endocytosis (pinocytosis),https://lod.nal.usda.gov/nalt/23424,0.95,True,skos:broader; skos:narrower,INCLUDE
+endoplasmic reticulum stress,,endoplasmic reticulum stress,https://lod.nal.usda.gov/nalt/298985,0.86,True,skos:broader; skos:narrower,INCLUDE
+epidermis (animal),,epidermis (animal),https://lod.nal.usda.gov/nalt/37573,0.98,False,skos:broader; skos:narrower,INCLUDE
+erythroblasts,,erythroblasts,https://lod.nal.usda.gov/nalt/18524,0.99,True,skos:related,INCLUDE
+erythrocyte membrane,erythrocyte cytoskeleton; erythrocyte ghost; red blood cell membrane; red cell ghost,"erythrocyte membrane (erythrocyte cytoskeleton, erythrocyte ghost, red blood cell membrane, red cell ghost)",https://lod.nal.usda.gov/nalt/316659,0.99,True,skos:related,INCLUDE
+erythropoiesis,erythrocytopoiesis,erythropoiesis (erythrocytopoiesis),https://lod.nal.usda.gov/nalt/38116,0.99,False,skos:related,INCLUDE
+foam cells,,foam cells,https://lod.nal.usda.gov/nalt/40759,0.96,True,skos:broader; skos:narrower,INCLUDE
+granulocytes,,granulocytes,https://lod.nal.usda.gov/nalt/16036,0.99,True,skos:broader; skos:narrower,INCLUDE
+hepatocytes,liver cells,hepatocytes (liver cells),https://lod.nal.usda.gov/nalt/23469,1.0,True,skos:broader; skos:narrower,INCLUDE
+histiocytes,,histiocytes,https://lod.nal.usda.gov/nalt/45636,0.98,True,skos:broader; skos:narrower,INCLUDE
+hybridomas,,hybridomas,https://lod.nal.usda.gov/nalt/23404,0.99,True,skos:broader; skos:narrower,INCLUDE
+intestinal mucosa,intestinal epithelium,intestinal mucosa (intestinal epithelium),https://lod.nal.usda.gov/nalt/33580,0.91,False,skos:related,INCLUDE
+keratinocytes,,keratinocytes,https://lod.nal.usda.gov/nalt/23470,1.0,True,skos:broader; skos:narrower,INCLUDE
+keratinosomes,Odland bodies; lamellar bodies; lamellar granules; membrane-coating granules,"keratinosomes (Odland bodies, lamellar bodies, lamellar granules, membrane-coating granules)",https://lod.nal.usda.gov/nalt/191274,0.98,True,skos:related,INCLUDE
+kidney cells,renal cells,kidney cells (renal cells),https://lod.nal.usda.gov/nalt/23471,0.99,True,skos:broader; skos:narrower,INCLUDE
+Kupffer cells,,Kupffer cells,https://lod.nal.usda.gov/nalt/48601,0.99,True,skos:broader; skos:narrower,INCLUDE
+Langerhans cells,,Langerhans cells,https://lod.nal.usda.gov/nalt/32273,0.99,True,skos:broader; skos:narrower,INCLUDE
+membrane fluidity,,membrane fluidity,https://lod.nal.usda.gov/nalt/23426,0.84,True,skos:broader; skos:narrower,INCLUDE
+membrane fusion,,membrane fusion,https://lod.nal.usda.gov/nalt/217597,0.92,True,skos:broader; skos:narrower,INCLUDE
+membrane permeability,cell membrane permeability,membrane permeability (cell membrane permeability),https://lod.nal.usda.gov/nalt/23427,0.98,True,skos:broader; skos:narrower,INCLUDE
+mitochondria,,mitochondria,https://lod.nal.usda.gov/nalt/53154,0.98,True,skos:related,INCLUDE
+mononuclear leukocytes,PBMC (peripheral blood mononuclear cells); peripheral blood mononuclear cells; peripheral blood mononuclear leukocytes,"mononuclear leukocytes (PBMC (peripheral blood mononuclear cells), peripheral blood mononuclear cells, peripheral blood mononuclear leukocytes)",https://lod.nal.usda.gov/nalt/146660,0.98,True,skos:broader; skos:narrower,INCLUDE
+neural stem cells,neural progenitor cells,neural stem cells (neural progenitor cells),https://lod.nal.usda.gov/nalt/317858,0.98,True,skos:related,INCLUDE
+neurites,,neurites,https://lod.nal.usda.gov/nalt/14270,0.86,False,skos:broader; skos:narrower,INCLUDE
+oligodendroglia,oligodendrocytes,oligodendroglia (oligodendrocytes),https://lod.nal.usda.gov/nalt/87584,0.97,False,skos:broader; skos:narrower,INCLUDE
+oocytes,,oocytes,https://lod.nal.usda.gov/nalt/42877,0.99,True,skos:broader; skos:narrower,INCLUDE
+oogonia,,oogonia,https://lod.nal.usda.gov/nalt/55919,0.99,True,skos:broader; skos:narrower,INCLUDE
+plasmolysis,,plasmolysis,https://lod.nal.usda.gov/nalt/23428,0.9,True,skos:broader; skos:narrower,INCLUDE
+platelet activation,,platelet activation,https://lod.nal.usda.gov/nalt/18144,0.95,False,skos:related,INCLUDE
+platelet aggregation,,platelet aggregation,https://lod.nal.usda.gov/nalt/18145,0.95,False,skos:related,INCLUDE
+polycythemia,erythrocytosis,polycythemia (erythrocytosis),https://lod.nal.usda.gov/nalt/45050,0.94,False,skos:related,INCLUDE
+programmed cell death,,programmed cell death,https://lod.nal.usda.gov/nalt/89615,0.99,True,skos:broader; skos:narrower,INCLUDE
+protoplast fusion,,protoplast fusion,https://lod.nal.usda.gov/nalt/23378,0.86,False,skos:related,INCLUDE
+pyroptosis,pyroptotic cell death,pyroptosis (pyroptotic cell death),https://lod.nal.usda.gov/nalt/327976,0.98,True,skos:broader; skos:narrower,INCLUDE
+respiratory mucosa,respiratory epithelium,respiratory mucosa (respiratory epithelium),https://lod.nal.usda.gov/nalt/202662,0.78,False,skos:related,INCLUDE
+reticulocytes,,reticulocytes,https://lod.nal.usda.gov/nalt/38093,0.99,True,skos:broader; skos:narrower,INCLUDE
+root cap,plant root cap,root cap (plant root cap),https://lod.nal.usda.gov/nalt/61633,0.93,False,skos:related,INCLUDE
+root epidermis,,root epidermis,https://lod.nal.usda.gov/nalt/334628,0.96,False,skos:broader; skos:narrower,INCLUDE
+rumen epithelium,rumen mucosa; ruminal epithelium; ruminal mucosa,"rumen epithelium (rumen mucosa, ruminal epithelium, ruminal mucosa)",https://lod.nal.usda.gov/nalt/37630,0.98,False,skos:broader; skos:narrower,INCLUDE
+seminiferous epithelium,,seminiferous epithelium,https://lod.nal.usda.gov/nalt/37631,0.97,False,skos:broader; skos:narrower,INCLUDE
+sperm capacitation,capacitation of sperm; capacitation of spermatozoa; cryocapacitation; sperm activation; sperm hyperactivation,"sperm capacitation (capacitation of sperm, capacitation of spermatozoa, cryocapacitation, sperm activation, sperm hyperactivation)",https://lod.nal.usda.gov/nalt/9460,0.96,False,skos:related,INCLUDE
+sperm concentration,concentration of sperm; concentration of spermatozoa; spermatic concentration; spermatozoa concentration,"sperm concentration (concentration of sperm, concentration of spermatozoa, spermatic concentration, spermatozoa concentration)",https://lod.nal.usda.gov/nalt/198414,0.95,False,skos:related,INCLUDE
+sperm motility,spermatozoa motility; spermatozoal motility,"sperm motility (spermatozoa motility, spermatozoal motility)",https://lod.nal.usda.gov/nalt/9490,0.96,True,skos:related,INCLUDE
+sperm quality,sperm characteristics; sperm characters; spermatozoa quality,"sperm quality (sperm characteristics, sperm characters, spermatozoa quality)",https://lod.nal.usda.gov/nalt/296215,0.89,True,skos:broader; skos:narrower,INCLUDE
+spermatogenesis,,spermatogenesis,https://lod.nal.usda.gov/nalt/42264,0.99,False,skos:related,INCLUDE
+stem cells,progenitor cells,stem cells (progenitor cells),https://lod.nal.usda.gov/nalt/23484,0.99,True,skos:broader; skos:narrower,INCLUDE
+totipotency,,totipotency,https://lod.nal.usda.gov/nalt/128,0.89,False,skos:related,INCLUDE
+trophozoites,,trophozoites,https://lod.nal.usda.gov/nalt/32916,0.94,False,skos:related,INCLUDE
+vacuoles,vacuolar compartments,vacuoles (vacuolar compartments),https://lod.nal.usda.gov/nalt/56077,0.98,True,skos:related,INCLUDE
+adult stem cells,adult germline stem cells; adult somatic stem cells; germline adult stem cells; oogonial stem cells; somatic adult stem cells; spermatogonial progenitor cells,"adult stem cells (adult germline stem cells, adult somatic stem cells, germline adult stem cells, oogonial stem cells, somatic adult stem cells, spermatogonial progenitor cells)",https://lod.nal.usda.gov/nalt/215122,0.99,True,skos:broader; skos:narrower,INCLUDE
+apoplast,apoplasm; apoplastic compartment; apoplastic component; apoplastic pathway,"apoplast (apoplasm, apoplastic compartment, apoplastic component, apoplastic pathway)",https://lod.nal.usda.gov/nalt/194621,0.92,False,skos:related,INCLUDE
+aster (cell structure),,aster (cell structure),https://lod.nal.usda.gov/nalt/194646,1.0,True,skos:broader; skos:narrower,INCLUDE
+autocrine signaling,autocrine communication,autocrine signaling (autocrine communication),https://lod.nal.usda.gov/nalt/261288,0.98,True,skos:broader; skos:narrower,INCLUDE
+autolysis,,autolysis,https://lod.nal.usda.gov/nalt/14014,0.84,True,skos:broader; skos:narrower,INCLUDE
+basophils,,basophils,https://lod.nal.usda.gov/nalt/16035,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell division,,cell division,https://lod.nal.usda.gov/nalt/8512,0.99,True,skos:related,INCLUDE
+cell membranes,cytoplasmic membranes,cell membranes (cytoplasmic membranes),https://lod.nal.usda.gov/nalt/9529,0.98,True,skos:broader; skos:narrower,INCLUDE
+cell movement,cell locomotion; cell migration; cell motility; cellular migration; cellular motility; cellular movement,"cell movement (cell locomotion, cell migration, cell motility, cellular migration, cellular motility, cellular movement)",https://lod.nal.usda.gov/nalt/15185,0.98,True,skos:broader; skos:narrower,INCLUDE
+cell proliferation,cellular proliferation; tissue proliferation,"cell proliferation (cellular proliferation, tissue proliferation)",https://lod.nal.usda.gov/nalt/23357,0.97,True,skos:related,INCLUDE
+cell walls,,cell walls,https://lod.nal.usda.gov/nalt/23435,0.96,True,skos:broader; skos:narrower,INCLUDE
+cilia,,cilia,https://lod.nal.usda.gov/nalt/23436,0.93,True,skos:broader; skos:narrower,INCLUDE
+cytoplasmic granules,,cytoplasmic granules,https://lod.nal.usda.gov/nalt/25730,0.92,True,skos:broader; skos:narrower,INCLUDE
+cytoplasmic inclusions,,cytoplasmic inclusions,https://lod.nal.usda.gov/nalt/31474,0.91,True,skos:related,INCLUDE
+cytoplasmic vesicles,,cytoplasmic vesicles,https://lod.nal.usda.gov/nalt/264088,0.95,True,skos:broader; skos:narrower,INCLUDE
+cytoskeleton,cytoskeletal filaments,cytoskeleton (cytoskeletal filaments),https://lod.nal.usda.gov/nalt/31472,0.99,True,skos:broader; skos:narrower,INCLUDE
+cytosol,,cytosol,https://lod.nal.usda.gov/nalt/31473,0.97,True,skos:broader; skos:narrower,INCLUDE
+dendrites,,dendrites,https://lod.nal.usda.gov/nalt/32272,0.88,False,skos:broader; skos:narrower,INCLUDE
+electroporation,,electroporation,https://lod.nal.usda.gov/nalt/36237,0.89,False,skos:related,INCLUDE
+embryonic stem cells,,embryonic stem cells,https://lod.nal.usda.gov/nalt/36807,0.99,True,skos:broader; skos:narrower,INCLUDE
+endomembrane system,,endomembrane system,https://lod.nal.usda.gov/nalt/200527,0.87,True,skos:related,INCLUDE
+endoplasmic reticulum,,endoplasmic reticulum,https://lod.nal.usda.gov/nalt/37062,0.99,True,skos:related,INCLUDE
+eosinophils,,eosinophils,https://lod.nal.usda.gov/nalt/37512,0.99,True,skos:broader; skos:narrower,INCLUDE
+erythrocytic stage,erythrocyte stage,erythrocytic stage (erythrocyte stage),https://lod.nal.usda.gov/nalt/200598,0.87,False,skos:related,INCLUDE
+ferroptosis,,ferroptosis,https://lod.nal.usda.gov/nalt/339436,0.86,True,skos:broader; skos:narrower,INCLUDE
+fimbriae,pili; pilus,"fimbriae (pili, pilus)",https://lod.nal.usda.gov/nalt/23438,0.72,True,skos:broader; skos:narrower,INCLUDE
+flagellum,flagella,flagellum (flagella),https://lod.nal.usda.gov/nalt/15186,0.98,True,skos:related,INCLUDE
+germinal vesicle,,germinal vesicle,https://lod.nal.usda.gov/nalt/42876,0.74,True,skos:broader; skos:narrower,INCLUDE
+Golgi apparatus,Golgi body; Golgi complex; dictyosomes,"Golgi apparatus (Golgi body, Golgi complex, dictyosomes)",https://lod.nal.usda.gov/nalt/33284,0.98,True,skos:related,INCLUDE
+hematopoiesis,haematopoiesis; haemopoiesis; hemopoiesis; leukopoiesis; thrombocytopoiesis,"hematopoiesis (haematopoiesis, haemopoiesis, hemopoiesis, leukopoiesis, thrombocytopoiesis)",https://lod.nal.usda.gov/nalt/26361,0.99,False,skos:broader; skos:narrower,INCLUDE
+heterophils,,heterophils,https://lod.nal.usda.gov/nalt/43663,0.92,True,skos:broader; skos:narrower,INCLUDE
+human cell lines,,human cell lines,https://lod.nal.usda.gov/nalt/68542,0.99,True,skos:broader; skos:narrower,INCLUDE
+inclusion bodies,,inclusion bodies,https://lod.nal.usda.gov/nalt/23439,0.78,True,skos:related,INCLUDE
+interphase,G0 phase; G1 phase; G2 phase; S phase,"interphase (G0 phase, G1 phase, G2 phase, S phase)",https://lod.nal.usda.gov/nalt/23383,0.96,True,skos:broader; skos:narrower,INCLUDE
+intracellular space,,intracellular space,https://lod.nal.usda.gov/nalt/238189,0.97,True,skos:broader; skos:narrower,INCLUDE
+lymphocytes,immunocompetent cells; lymphoid cells,"lymphocytes (immunocompetent cells, lymphoid cells)",https://lod.nal.usda.gov/nalt/14420,0.99,True,skos:broader; skos:narrower,INCLUDE
+lysosomes,,lysosomes,https://lod.nal.usda.gov/nalt/50956,0.97,True,skos:related,INCLUDE
+megakaryocytes,,megakaryocytes,https://lod.nal.usda.gov/nalt/18525,0.99,True,skos:broader; skos:narrower,INCLUDE
+mitochondrial membrane,inner mitochondrial membrane; outer mitochondrial membrane,"mitochondrial membrane (inner mitochondrial membrane, outer mitochondrial membrane)",https://lod.nal.usda.gov/nalt/219042,0.9,True,skos:related,INCLUDE
+mitophagy,mitochondrial degradation,mitophagy (mitochondrial degradation),https://lod.nal.usda.gov/nalt/296510,0.93,True,skos:related,INCLUDE
+neurons,cytons; nerve cells; neuronal cells; neurone; neurones,"neurons (cytons, nerve cells, neuronal cells, neurone, neurones)",https://lod.nal.usda.gov/nalt/31449,0.99,False,skos:related,INCLUDE
+organelles,cytoplasmic organelles,organelles (cytoplasmic organelles),https://lod.nal.usda.gov/nalt/23546,0.98,True,skos:broader; skos:narrower,INCLUDE
+osmosis,,osmosis,https://lod.nal.usda.gov/nalt/52083,0.98,False,skos:related,INCLUDE
+oxygen consumption,,oxygen consumption,https://lod.nal.usda.gov/nalt/8382,0.78,False,skos:related,INCLUDE
+paracrine signaling,,paracrine signaling,https://lod.nal.usda.gov/nalt/261291,0.85,True,skos:broader; skos:narrower,INCLUDE
+permeability,,permeability,https://lod.nal.usda.gov/nalt/52082,0.66,False,skos:broader; skos:narrower,INCLUDE
+phagosomes,phagolysosomes,phagosomes (phagolysosomes),https://lod.nal.usda.gov/nalt/56073,0.96,True,skos:broader; skos:narrower,INCLUDE
+physiological transport,biological transport; transcytosis,"physiological transport (biological transport, transcytosis)",https://lod.nal.usda.gov/nalt/3934,0.8,False,skos:related,INCLUDE
+plasma membrane,plasmalemma,plasma membrane (plasmalemma),https://lod.nal.usda.gov/nalt/23409,1.0,True,skos:related,INCLUDE
+protein transport,protein sorting; protein trafficking; protein translocation,"protein transport (protein sorting, protein trafficking, protein translocation)",https://lod.nal.usda.gov/nalt/58086,0.83,False,skos:related,INCLUDE
+proton-motive force,chemiosmosis; chemiosmotic mechanism,"proton-motive force (chemiosmosis, chemiosmotic mechanism)",https://lod.nal.usda.gov/nalt/243920,0.8,False,skos:related,INCLUDE
+pseudopodia,axopodia; filopodia; lamellipodia; lobopodia,"pseudopodia (axopodia, filopodia, lamellipodia, lobopodia)",https://lod.nal.usda.gov/nalt/56074,0.98,True,skos:broader; skos:narrower,INCLUDE
+reticulocyte count,,reticulocyte count,https://lod.nal.usda.gov/nalt/90688,0.9,False,skos:related,INCLUDE
+secretory granules,secretory vesicles; zymogen granules,"secretory granules (secretory vesicles, zymogen granules)",https://lod.nal.usda.gov/nalt/191190,0.96,True,skos:related,INCLUDE
+spermiogenesis,sperm formation,spermiogenesis (sperm formation),https://lod.nal.usda.gov/nalt/63753,0.97,False,skos:broader; skos:narrower,INCLUDE
+subcellular fractions,,subcellular fractions,https://lod.nal.usda.gov/nalt/20189,0.9,True,skos:broader; skos:narrower,INCLUDE
+symplast,symplasm; symplastic compartment; symplastic component; symplastic pathway,"symplast (symplasm, symplastic compartment, symplastic component, symplastic pathway)",https://lod.nal.usda.gov/nalt/148685,0.88,False,skos:related,INCLUDE
+tight junctions,occluding junctions; zonula occludens,"tight junctions (occluding junctions, zonula occludens)",https://lod.nal.usda.gov/nalt/47484,0.86,True,skos:related,INCLUDE
+tonoplast,,tonoplast,https://lod.nal.usda.gov/nalt/23411,0.95,True,skos:related,INCLUDE
+unfolded protein response,,unfolded protein response,https://lod.nal.usda.gov/nalt/146596,0.84,False,skos:related,INCLUDE
+zygote,,zygote,https://lod.nal.usda.gov/nalt/36837,0.98,False,skos:broader; skos:narrower,INCLUDE
+actin,F-actin; G-actin; N-actin; alpha-actin; alpha-isoactin; beta-actin; gamma-actin; isoactin,"actin (F-actin, G-actin, N-actin, alpha-actin, alpha-isoactin, beta-actin, gamma-actin, isoactin)",https://lod.nal.usda.gov/nalt/3179,0.99,False,skos:related,INCLUDE
+alpha catenin,alpha-1 catenin; alpha-E catenin,"alpha catenin (alpha-1 catenin, alpha-E catenin)",https://lod.nal.usda.gov/nalt/295010,0.99,False,skos:related,INCLUDE
+anaphase,,anaphase,https://lod.nal.usda.gov/nalt/8511,0.98,True,skos:broader; skos:narrower,INCLUDE
+B-lymphocytes,B cells (lymphocytes); B lymphocytes; B-cells (lymphocytes),"B-lymphocytes (B cells (lymphocytes), B lymphocytes, B-cells (lymphocytes))",https://lod.nal.usda.gov/nalt/14410,0.99,True,skos:broader; skos:narrower,INCLUDE
+beta catenin,,beta catenin,https://lod.nal.usda.gov/nalt/295011,0.98,False,skos:related,INCLUDE
+blastocyst,,blastocyst,https://lod.nal.usda.gov/nalt/17929,0.94,False,skos:related,INCLUDE
+brush border membrane vesicles,BBMV (cell preparations),brush border membrane vesicles (BBMV (cell preparations)),https://lod.nal.usda.gov/nalt/16111,0.97,True,skos:broader; skos:narrower,INCLUDE
+Ca2-transporting ATPase,Ca pump; Ca-ATPase; Ca2+ pump; Ca2+-ATPase; Ca2+-transporting ATPase; Ca2-ATPase; EC 3.6.3.8; calcium ATPase; calcium adenosine triphosphatase; calcium adenosinetriphosphatase; calcium pump; calcium-transporting ATPase; plasma membrane Ca-ATPase; plasma membrane calcium ATPase; sarcoplasmic reticulum ATPase,"Ca2-transporting ATPase (Ca pump, Ca-ATPase, Ca2+ pump, Ca2+-ATPase, Ca2+-transporting ATPase, Ca2-ATPase, EC 3.6.3.8, calcium ATPase, calcium adenosine triphosphatase, calcium adenosinetriphosphatase, calcium pump, calcium-transporting ATPase, plasma membrane Ca-ATPase, plasma membrane calcium ATPase, sarcoplasmic reticulum ATPase)",https://lod.nal.usda.gov/nalt/20724,0.98,False,skos:related,INCLUDE
+cell membrane structures,,cell membrane structures,https://lod.nal.usda.gov/nalt/294129,0.96,True,skos:broader; skos:narrower,INCLUDE
+cell nucleus,cell nuclei,cell nucleus (cell nuclei),https://lod.nal.usda.gov/nalt/23416,0.99,True,skos:broader; skos:narrower,INCLUDE
+centrosomes,,centrosomes,https://lod.nal.usda.gov/nalt/23715,0.98,True,skos:broader; skos:narrower,INCLUDE
+chloroplast membranes,,chloroplast membranes,https://lod.nal.usda.gov/nalt/219296,0.88,True,skos:broader; skos:narrower,INCLUDE
+chromosome segregation,chromosomal disjunction; chromosome disjunction; chromosome separation,"chromosome segregation (chromosomal disjunction, chromosome disjunction, chromosome separation)",https://lod.nal.usda.gov/nalt/23388,0.97,True,skos:broader; skos:narrower,INCLUDE
+cnidocysts,,cnidocysts,https://lod.nal.usda.gov/nalt/340866,0.86,True,skos:broader; skos:narrower,INCLUDE
+coated vesicles,,coated vesicles,https://lod.nal.usda.gov/nalt/26666,0.9,True,skos:broader; skos:narrower,INCLUDE
+cytokinesis,,cytokinesis,https://lod.nal.usda.gov/nalt/70089,0.98,True,skos:broader; skos:narrower,INCLUDE
+cytoplasmic streaming,protoplasmic streaming,cytoplasmic streaming (protoplasmic streaming),https://lod.nal.usda.gov/nalt/31489,0.97,False,skos:broader; skos:narrower,INCLUDE
+endosomes,,endosomes,https://lod.nal.usda.gov/nalt/27379,0.99,True,skos:broader; skos:narrower,INCLUDE
+exosomes,,exosomes,https://lod.nal.usda.gov/nalt/196334,0.98,True,skos:broader; skos:narrower,INCLUDE
+focal adhesions,cell-matrix adherens junctions; focal contacts,"focal adhesions (cell-matrix adherens junctions, focal contacts)",https://lod.nal.usda.gov/nalt/294139,0.98,True,skos:related,INCLUDE
+gamma catenin,plakoglobin,gamma catenin (plakoglobin),https://lod.nal.usda.gov/nalt/295012,0.97,False,skos:related,INCLUDE
+immunocytes,,immunocytes,https://lod.nal.usda.gov/nalt/46988,0.88,True,skos:broader; skos:narrower,INCLUDE
+induced pluripotent stem cells,fibroblast-derived IPS cells; fibroblast-derived induced pluripotent stem cells; hiPSC (human induced pluripotent stem cells); human induced pluripotent stem cells; iPS cells (induced pluripotent stem cells),"induced pluripotent stem cells (fibroblast-derived IPS cells, fibroblast-derived induced pluripotent stem cells, hiPSC (human induced pluripotent stem cells), human induced pluripotent stem cells, iPS cells (induced pluripotent stem cells))",https://lod.nal.usda.gov/nalt/215129,0.99,True,skos:broader; skos:narrower,INCLUDE
+intercellular junctions,cell junctions,intercellular junctions (cell junctions),https://lod.nal.usda.gov/nalt/23362,0.98,True,skos:broader; skos:narrower,INCLUDE
+intermediate filaments,,intermediate filaments,https://lod.nal.usda.gov/nalt/31500,0.95,True,skos:broader; skos:narrower,INCLUDE
+interneurons,interneurones,interneurons (interneurones),https://lod.nal.usda.gov/nalt/47539,0.98,False,skos:broader; skos:narrower,INCLUDE
+intracellular fluids,,intracellular fluids,https://lod.nal.usda.gov/nalt/238185,0.93,True,skos:broader; skos:narrower,INCLUDE
+lipid bilayers,,lipid bilayers,https://lod.nal.usda.gov/nalt/12603,0.96,True,skos:broader; skos:narrower,INCLUDE
+lipid bodies,liposomes (organelles); oil bodies; oleosomes; spherosomes,"lipid bodies (liposomes (organelles), oil bodies, oleosomes, spherosomes)",https://lod.nal.usda.gov/nalt/50282,0.97,True,skos:broader; skos:narrower,INCLUDE
+locomotion,locomotor activity,locomotion (locomotor activity),https://lod.nal.usda.gov/nalt/50499,0.93,False,skos:related,INCLUDE
+lymphocyte count,lymphocyte number; lymphocyte numbers; total lymphocyte count,"lymphocyte count (lymphocyte number, lymphocyte numbers, total lymphocyte count)",https://lod.nal.usda.gov/nalt/23192,0.95,False,skos:related,INCLUDE
+lymphocyte proliferation,blast transformation; blastogenesis; lymphoblast transformation; lymphocyte activation; lymphocyte stimulation; lymphocyte transformation,"lymphocyte proliferation (blast transformation, blastogenesis, lymphoblast transformation, lymphocyte activation, lymphocyte stimulation, lymphocyte transformation)",https://lod.nal.usda.gov/nalt/23448,0.97,False,skos:related,INCLUDE
+meiosis,reduction division,meiosis (reduction division),https://lod.nal.usda.gov/nalt/23390,0.99,True,skos:broader; skos:narrower,INCLUDE
+membrane potential,resting membrane potential; resting potential; transmembrane potential,"membrane potential (resting membrane potential, resting potential, transmembrane potential)",https://lod.nal.usda.gov/nalt/3910,0.96,False,skos:broader; skos:narrower,INCLUDE
+metaphase,,metaphase,https://lod.nal.usda.gov/nalt/23392,0.92,True,skos:broader; skos:narrower,INCLUDE
+microbodies,glycosomes,microbodies (glycosomes),https://lod.nal.usda.gov/nalt/43307,0.95,True,skos:related,INCLUDE
+microfilaments,actin cytoskeleton; actin filaments; actin microfilaments,"microfilaments (actin cytoskeleton, actin filaments, actin microfilaments)",https://lod.nal.usda.gov/nalt/31501,0.99,True,skos:broader; skos:narrower,INCLUDE
+microsomes,,microsomes,https://lod.nal.usda.gov/nalt/50441,0.88,True,skos:broader; skos:narrower,INCLUDE
+microtubules,,microtubules,https://lod.nal.usda.gov/nalt/31502,0.99,True,skos:broader; skos:narrower,INCLUDE
+microvilli,brush border; microvillus,"microvilli (brush border, microvillus)",https://lod.nal.usda.gov/nalt/20188,0.99,True,skos:broader; skos:narrower,INCLUDE
+mitosis,M phase,mitosis (M phase),https://lod.nal.usda.gov/nalt/23393,0.99,True,skos:broader; skos:narrower,INCLUDE
+mitotic spindle apparatus,mitotic apparatus; mitotic spindle,"mitotic spindle apparatus (mitotic apparatus, mitotic spindle)",https://lod.nal.usda.gov/nalt/53159,0.99,True,skos:broader; skos:narrower,INCLUDE
+natural killer cells,NK cells,natural killer cells (NK cells),https://lod.nal.usda.gov/nalt/48404,0.98,True,skos:broader; skos:narrower,INCLUDE
+nematocysts,,nematocysts,https://lod.nal.usda.gov/nalt/340864,0.9,True,skos:related,INCLUDE
+neurofibrils,,neurofibrils,https://lod.nal.usda.gov/nalt/54722,0.72,True,skos:broader; skos:narrower,INCLUDE
+nuclear inclusions,intranuclear inclusion bodies; nuclear inclusion bodies,"nuclear inclusions (intranuclear inclusion bodies, nuclear inclusion bodies)",https://lod.nal.usda.gov/nalt/47087,0.94,True,skos:broader; skos:narrower,INCLUDE
+nuclear membrane,nuclear envelope,nuclear membrane (nuclear envelope),https://lod.nal.usda.gov/nalt/23408,0.99,True,skos:related,INCLUDE
+peroxisomes,,peroxisomes,https://lod.nal.usda.gov/nalt/47280,0.98,True,skos:related,INCLUDE
+physiology,,physiology,https://lod.nal.usda.gov/nalt/9418,0.68,False,skos:broader; skos:narrower,INCLUDE
+plasmodesmata,,plasmodesmata,https://lod.nal.usda.gov/nalt/47483,0.99,True,skos:related,INCLUDE
+plastids,,plastids,https://lod.nal.usda.gov/nalt/8249,0.99,True,skos:broader; skos:narrower,INCLUDE
+prophase,diakinesis; diplonema (meiosis); diplotene stage; leptonema (meiosis); leptotene stage; zygonema (meiosis); zygotene stage,"prophase (diakinesis, diplonema (meiosis), diplotene stage, leptonema (meiosis), leptotene stage, zygonema (meiosis), zygotene stage)",https://lod.nal.usda.gov/nalt/23394,0.96,True,skos:broader; skos:narrower,INCLUDE
+protein bodies,,protein bodies,https://lod.nal.usda.gov/nalt/203627,0.83,True,skos:broader; skos:narrower,INCLUDE
+rhoptry,rhoptry organelle,rhoptry (rhoptry organelle),https://lod.nal.usda.gov/nalt/263926,0.98,True,skos:broader; skos:narrower,INCLUDE
+ribosomes,,ribosomes,https://lod.nal.usda.gov/nalt/56075,0.99,True,skos:broader; skos:narrower,INCLUDE
+rough endoplasmic reticulum,,rough endoplasmic reticulum,https://lod.nal.usda.gov/nalt/37063,0.99,True,skos:broader; skos:narrower,INCLUDE
+smooth endoplasmic reticulum,,smooth endoplasmic reticulum,https://lod.nal.usda.gov/nalt/37064,0.99,True,skos:broader; skos:narrower,INCLUDE
+synaptic vesicles,neurotransmitter vesicles,synaptic vesicles (neurotransmitter vesicles),https://lod.nal.usda.gov/nalt/264089,0.93,True,skos:broader; skos:narrower,INCLUDE
+synaptogenesis,,synaptogenesis,https://lod.nal.usda.gov/nalt/246202,0.95,False,skos:related,INCLUDE
+synaptosomes,,synaptosomes,https://lod.nal.usda.gov/nalt/65104,0.96,True,skos:broader; skos:narrower,INCLUDE
+T-lymphocytes,T cells; T lymphocytes; T-cells,"T-lymphocytes (T cells, T lymphocytes, T-cells)",https://lod.nal.usda.gov/nalt/23197,0.99,True,skos:broader; skos:narrower,INCLUDE
+telophase,,telophase,https://lod.nal.usda.gov/nalt/23395,0.99,True,skos:broader; skos:narrower,INCLUDE
+thymocytes,,thymocytes,https://lod.nal.usda.gov/nalt/50929,0.97,True,skos:broader; skos:narrower,INCLUDE
+adherens junctions,zonula adherens,adherens junctions (zonula adherens),https://lod.nal.usda.gov/nalt/215661,0.97,True,skos:broader; skos:narrower,INCLUDE
+amyloplasts,,amyloplasts,https://lod.nal.usda.gov/nalt/8248,0.92,True,skos:broader; skos:narrower,INCLUDE
+apicoplasts,,apicoplasts,https://lod.nal.usda.gov/nalt/132362,0.9,True,skos:broader; skos:narrower,INCLUDE
+blastoderm,,blastoderm,https://lod.nal.usda.gov/nalt/17930,0.93,False,skos:broader; skos:narrower,INCLUDE
+CD4 lymphocyte count,CD4 cell count; CD4-positive cell count,"CD4 lymphocyte count (CD4 cell count, CD4-positive cell count)",https://lod.nal.usda.gov/nalt/323735,0.98,False,skos:broader; skos:narrower,INCLUDE
+CD4-positive T-lymphocytes,CD4-positive lymphocytes; T4 cells; T4 lymphocytes,"CD4-positive T-lymphocytes (CD4-positive lymphocytes, T4 cells, T4 lymphocytes)",https://lod.nal.usda.gov/nalt/23191,0.99,True,skos:broader; skos:narrower,INCLUDE
+CD8-positive T-lymphocytes,CD8-positive lymphocytes; T8 cells; T8 lymphocytes,"CD8-positive T-lymphocytes (CD8-positive lymphocytes, T8 cells, T8 lymphocytes)",https://lod.nal.usda.gov/nalt/23199,0.99,True,skos:broader; skos:narrower,INCLUDE
+cell adhesion,adhesion (cells); cellular adhesion; cytoadherence,"cell adhesion (adhesion (cells), cellular adhesion, cytoadherence)",https://lod.nal.usda.gov/nalt/120,0.97,True,skos:related,INCLUDE
+cell nucleolus,cell nucleoli; nucleoli; nucleolus,"cell nucleolus (cell nucleoli, nucleoli, nucleolus)",https://lod.nal.usda.gov/nalt/23413,0.98,True,skos:broader; skos:narrower,INCLUDE
+cell-matrix junctions,,cell-matrix junctions,https://lod.nal.usda.gov/nalt/294131,0.94,True,skos:broader; skos:narrower,INCLUDE
+centrioles,,centrioles,https://lod.nal.usda.gov/nalt/23714,0.96,True,skos:broader; skos:narrower,INCLUDE
+chromosomes,,chromosomes,https://lod.nal.usda.gov/nalt/276,0.88,True,skos:broader; skos:narrower,INCLUDE
+desmosomes,,desmosomes,https://lod.nal.usda.gov/nalt/32600,0.95,True,skos:broader; skos:narrower,INCLUDE
+gap junctions,,gap junctions,https://lod.nal.usda.gov/nalt/28576,0.98,True,skos:broader; skos:narrower,INCLUDE
+glyoxysomes,,glyoxysomes,https://lod.nal.usda.gov/nalt/43306,0.92,True,skos:broader; skos:narrower,INCLUDE
+growth and development,,growth and development,https://lod.nal.usda.gov/nalt/6700,0.72,False,skos:broader; skos:narrower,INCLUDE
+intermediate filament proteins,,intermediate filament proteins,https://lod.nal.usda.gov/nalt/190836,0.92,False,skos:related,INCLUDE
+ion transporting ATPases,,ion transporting ATPases,https://lod.nal.usda.gov/nalt/20726,0.86,False,skos:broader; skos:narrower,INCLUDE
+kinesin,,kinesin,https://lod.nal.usda.gov/nalt/146580,0.84,False,skos:related,INCLUDE
+mammalian embryo,mammalian embryo structures; mammalian embryonic structures,"mammalian embryo (mammalian embryo structures, mammalian embryonic structures)",https://lod.nal.usda.gov/nalt/332058,0.9,False,skos:broader; skos:narrower,INCLUDE
+metabolism,,metabolism,https://lod.nal.usda.gov/nalt/8301,0.83,False,skos:broader; skos:narrower,INCLUDE
+nuclear matrix,,nuclear matrix,https://lod.nal.usda.gov/nalt/23420,0.93,True,skos:broader; skos:narrower,INCLUDE
+nuclear pore,nuclear pore complex,nuclear pore (nuclear pore complex),https://lod.nal.usda.gov/nalt/87310,0.98,True,skos:broader; skos:narrower,INCLUDE
+nuclear proteins,,nuclear proteins,https://lod.nal.usda.gov/nalt/196599,0.91,False,skos:related,INCLUDE
+plasma cells,plasmacytes,plasma cells (plasmacytes),https://lod.nal.usda.gov/nalt/23480,0.99,True,skos:broader; skos:narrower,INCLUDE
+polyribosomes,polysomes,polyribosomes (polysomes),https://lod.nal.usda.gov/nalt/59175,0.92,True,skos:broader; skos:narrower,INCLUDE
+pronucleus,pronuclei,pronucleus (pronuclei),https://lod.nal.usda.gov/nalt/23421,0.9,True,skos:broader; skos:narrower,INCLUDE
+sarcoplasmic reticulum,,sarcoplasmic reticulum,https://lod.nal.usda.gov/nalt/62433,0.98,True,skos:broader; skos:narrower,INCLUDE
+secretion,,secretion,https://lod.nal.usda.gov/nalt/17176,0.84,False,skos:broader; skos:narrower,INCLUDE
+spindle pole body,,spindle pole body,https://lod.nal.usda.gov/nalt/41785,0.96,False,skos:related,INCLUDE
+suppressor cells,suppressor-effector T-lymphocytes; suppressor-inducer T-lymphocytes,"suppressor cells (suppressor-effector T-lymphocytes, suppressor-inducer T-lymphocytes)",https://lod.nal.usda.gov/nalt/65243,0.93,True,skos:broader; skos:narrower,INCLUDE
+trophoblast,,trophoblast,https://lod.nal.usda.gov/nalt/17931,0.98,False,skos:broader; skos:narrower,INCLUDE
+adhesion inhibition assay,bacterial adhesion inhibition assay; cell adhesion inhibition assay,"adhesion inhibition assay (bacterial adhesion inhibition assay, cell adhesion inhibition assay)",https://lod.nal.usda.gov/nalt/295058,0.95,False,skos:related,INCLUDE
+autosomes,,autosomes,https://lod.nal.usda.gov/nalt/14046,0.96,True,skos:broader; skos:narrower,INCLUDE
+B chromosomes,B-type chromosomes; accessory chromosomes; supernumerary chromosomes,"B chromosomes (B-type chromosomes, accessory chromosomes, supernumerary chromosomes)",https://lod.nal.usda.gov/nalt/281186,0.92,True,skos:broader; skos:narrower,INCLUDE
+cell adhesion molecules,intercellular adhesion molecules; leukocyte adhesion molecules,"cell adhesion molecules (intercellular adhesion molecules, leukocyte adhesion molecules)",https://lod.nal.usda.gov/nalt/293054,0.96,False,skos:related,INCLUDE
+centromeres,,centromeres,https://lod.nal.usda.gov/nalt/277,0.95,True,skos:broader; skos:narrower,INCLUDE
+chromatids,,chromatids,https://lod.nal.usda.gov/nalt/279,0.97,True,skos:broader; skos:narrower,INCLUDE
+chromatin,,chromatin,https://lod.nal.usda.gov/nalt/23419,0.98,True,skos:broader; skos:narrower,INCLUDE
+chromosomal instability,chromosome instability,chromosomal instability (chromosome instability),https://lod.nal.usda.gov/nalt/332889,0.9,True,skos:related,INCLUDE
+chromosome fragility,,chromosome fragility,https://lod.nal.usda.gov/nalt/332894,0.91,True,skos:related,INCLUDE
+connexins,,connexins,https://lod.nal.usda.gov/nalt/28575,0.94,False,skos:related,INCLUDE
+costameres,,costameres,https://lod.nal.usda.gov/nalt/294138,0.93,True,skos:broader; skos:narrower,INCLUDE
+cytotoxic T-lymphocytes,CD8+ cytotoxic lymphocytes; cytotoxic T lymphocytes,"cytotoxic T-lymphocytes (CD8+ cytotoxic lymphocytes, cytotoxic T lymphocytes)",https://lod.nal.usda.gov/nalt/23202,0.99,True,skos:broader; skos:narrower,INCLUDE
+histones,,histones,https://lod.nal.usda.gov/nalt/45647,0.92,False,skos:broader; skos:narrower,INCLUDE
+hormone secretion,,hormone secretion,https://lod.nal.usda.gov/nalt/37015,0.93,False,skos:broader; skos:narrower,INCLUDE
+karyopherins,karyopherin alpha; karyopherin beta,"karyopherins (karyopherin alpha, karyopherin beta)",https://lod.nal.usda.gov/nalt/196591,0.88,False,skos:broader; skos:narrower,INCLUDE
+karyotyping,karyotype,karyotyping (karyotype),https://lod.nal.usda.gov/nalt/31438,0.91,True,skos:related,INCLUDE
+nuclear lamina,,nuclear lamina,https://lod.nal.usda.gov/nalt/315677,0.95,True,skos:broader; skos:narrower,INCLUDE
+nucleolus organizer region,nucleolar organiser; nucleolar organiser region; nucleolar organizer; nucleolar organizer region; nucleolus organiser; nucleolus organiser region; nucleolus organizer,"nucleolus organizer region (nucleolar organiser, nucleolar organiser region, nucleolar organizer, nucleolar organizer region, nucleolus organiser, nucleolus organiser region, nucleolus organizer)",https://lod.nal.usda.gov/nalt/281,0.98,True,skos:broader; skos:narrower,INCLUDE
+nucleoporins,nuclear pore complex proteins,nucleoporins (nuclear pore complex proteins),https://lod.nal.usda.gov/nalt/55364,0.96,False,skos:related,INCLUDE
+polytene chromosomes,polyteny,polytene chromosomes (polyteny),https://lod.nal.usda.gov/nalt/25876,0.99,True,skos:broader; skos:narrower,INCLUDE
+submetacentric chromosomes,,submetacentric chromosomes,https://lod.nal.usda.gov/nalt/25878,0.93,True,skos:broader; skos:narrower,INCLUDE
+telocentric chromosomes,,telocentric chromosomes,https://lod.nal.usda.gov/nalt/25879,0.93,True,skos:broader; skos:narrower,INCLUDE
+telomeres,,telomeres,https://lod.nal.usda.gov/nalt/282,0.89,True,skos:broader; skos:narrower,INCLUDE
+chromocenters,,chromocenters,https://lod.nal.usda.gov/nalt/23732,0.99,True,skos:broader; skos:narrower,INCLUDE
+chromosome number,chromosome complement; chromosome count,"chromosome number (chromosome complement, chromosome count)",https://lod.nal.usda.gov/nalt/25866,0.92,True,skos:related,INCLUDE
+heterochromatin,,heterochromatin,https://lod.nal.usda.gov/nalt/25760,0.97,True,skos:broader; skos:narrower,INCLUDE
+insulin secretion,,insulin secretion,https://lod.nal.usda.gov/nalt/45913,0.84,False,skos:broader; skos:narrower,INCLUDE
+kinetochores,kinetochore fiber,kinetochores (kinetochore fiber),https://lod.nal.usda.gov/nalt/23733,0.99,True,skos:broader; skos:narrower,INCLUDE
+nucleosomes,dinucleosomes; polynucleosomes,"nucleosomes (dinucleosomes, polynucleosomes)",https://lod.nal.usda.gov/nalt/25761,0.98,True,skos:broader; skos:narrower,INCLUDE
+ploidy,ploidies,ploidy (ploidies),https://lod.nal.usda.gov/nalt/197574,0.9,True,skos:related,INCLUDE
+sex chromatin,,sex chromatin,https://lod.nal.usda.gov/nalt/25762,0.9,True,skos:broader; skos:narrower,INCLUDE
+dihaploidy,dihaploids,dihaploidy (dihaploids),https://lod.nal.usda.gov/nalt/145231,0.98,True,skos:broader; skos:narrower,INCLUDE
+diploidy,diploids,diploidy (diploids),https://lod.nal.usda.gov/nalt/31439,0.98,True,skos:broader; skos:narrower,INCLUDE
+doubled haploids,doubled haploidy,doubled haploids (doubled haploidy),https://lod.nal.usda.gov/nalt/9954,0.96,True,skos:broader; skos:narrower,INCLUDE
+haploidy,haploids,haploidy (haploids),https://lod.nal.usda.gov/nalt/31440,0.98,True,skos:broader; skos:narrower,INCLUDE
+polyploidy,euploidy; polyploids,"polyploidy (euploidy, polyploids)",https://lod.nal.usda.gov/nalt/6717,0.96,True,skos:broader; skos:narrower,INCLUDE
+anther culture,,anther culture,https://lod.nal.usda.gov/nalt/9953,0.88,False,skos:related,INCLUDE
+endopolyploidy,endomitosis; endoploidy; endopolyploidisation; endopolyploidization; endopolyploids; endoreduplication; somatic polyploidy,"endopolyploidy (endomitosis, endoploidy, endopolyploidisation, endopolyploidization, endopolyploids, endoreduplication, somatic polyploidy)",https://lod.nal.usda.gov/nalt/37039,0.97,True,skos:broader; skos:narrower,INCLUDE
+hexaploidy,hexaploids,hexaploidy (hexaploids),https://lod.nal.usda.gov/nalt/45483,0.86,True,skos:broader; skos:narrower,INCLUDE
+octaploidy,octaploids,octaploidy (octaploids),https://lod.nal.usda.gov/nalt/55620,0.86,True,skos:broader; skos:narrower,INCLUDE
+tetraploidy,tetraploids,tetraploidy (tetraploids),https://lod.nal.usda.gov/nalt/59168,0.92,True,skos:broader; skos:narrower,INCLUDE
+triploidy,sesquidiploids; sesquidiploidy; triploids,"triploidy (sesquidiploids, sesquidiploidy, triploids)",https://lod.nal.usda.gov/nalt/59169,0.91,True,skos:broader; skos:narrower,INCLUDE

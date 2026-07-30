@@ -1,0 +1,910 @@
+{
+  "dataset": 3,
+  "prompt_setting": "zero_shot_manual",
+  "prompt_file": "meta-prompting\\prompts\\manual_dataset3.md",
+  "prompt_sha256": "4cd2b25b4d2fd41fec1d3a5a7e22f816ca159ebba7b15520604686efefab72b4",
+  "effective_prompt_sha256": "ff10ea7731926432a1bb33057eff4d60ba302230757b9ddd62ea25eff68129db",
+  "evaluation_mode": "bfs",
+  "response_schema": "batch_index_classification_confidence_v1",
+  "candidate_identifiers_in_prompt": false,
+  "candidate_identifier_mode": "batch_index",
+  "examples_file": "meta-prompting\\examples\\dataset3_path_simple_manual_examples.json",
+  "examples_sha256": "059c4c98da425ade6632150981ff959deb404864ae3efa129fddc7bf9c7a67f1",
+  "examples_in_prompt": false,
+  "prompt_examples_count": 18,
+  "provider": "deepseek",
+  "model": "deepseek-v4-pro",
+  "reasoning_configuration": "provider_default",
+  "context_level": "path_simple",
+  "max_iterations": 10,
+  "workers": 20,
+  "selected_seed_count": 27,
+  "traversal_decision_rows": 2088,
+  "excluded_example_rows": 21,
+  "bridge_policy": {
+    "enabled": true,
+    "unlabeled_nodes": "traverse_without_llm_decision",
+    "decision_rows": "llm_classified_when_reached",
+    "scored_rows": "sample_rows_only"
+  },
+  "local_graph_filter": {
+    "enabled": true,
+    "skipped_rows_absent_from_local_graph": 23
+  },
+  "metrics": {
+    "total": 2014,
+    "unmatched": 0,
+    "tp": 671,
+    "fp": 104,
+    "fn": 195,
+    "tn": 1044,
+    "precision": 0.8658064516129033,
+    "recall": 0.7748267898383372,
+    "f1": 0.8177940280316879,
+    "accuracy": 0.8515392254220456
+  },
+  "metric_views": {
+    "all_evaluated_rows": {
+      "total": 2014,
+      "unmatched": 0,
+      "tp": 671,
+      "fp": 104,
+      "fn": 195,
+      "tn": 1044,
+      "precision": 0.8658064516129033,
+      "recall": 0.7748267898383372,
+      "f1": 0.8177940280316879,
+      "accuracy": 0.8515392254220456
+    },
+    "kgprune_runtime_rows": {
+      "total": 1384,
+      "unmatched": 0,
+      "tp": 413,
+      "fp": 90,
+      "fn": 117,
+      "tn": 764,
+      "precision": 0.8210735586481114,
+      "recall": 0.779245283018868,
+      "f1": 0.7996127783155857,
+      "accuracy": 0.8504335260115607
+    }
+  },
+  "baseline_subset": {
+    "enabled": true,
+    "runtime_input_dir": "tmp/kgprune_bridge_path_analogy/inputs",
+    "runtime_input_file": "dataset3_gold_decisions_bridge_filtered.csv",
+    "runtime_pairs_total": 1379,
+    "rows_evaluated": 1384,
+    "metrics": {
+      "total": 1384,
+      "unmatched": 0,
+      "tp": 413,
+      "fp": 90,
+      "fn": 117,
+      "tn": 764,
+      "precision": 0.8210735586481114,
+      "recall": 0.779245283018868,
+      "f1": 0.7996127783155857,
+      "accuracy": 0.8504335260115607
+    }
+  },
+  "seed_results": [
+    {
+      "seed_qid": "Q104530765",
+      "seed_label": "Hugo Nathan",
+      "gold_row_count": 107,
+      "iterations": 4,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 27,
+          "included": 18,
+          "excluded": 9,
+          "bridge_nodes_traversed": 8
+        },
+        {
+          "iteration": 2,
+          "evaluated": 52,
+          "included": 29,
+          "excluded": 23,
+          "bridge_nodes_traversed": 10
+        },
+        {
+          "iteration": 3,
+          "evaluated": 22,
+          "included": 11,
+          "excluded": 11,
+          "bridge_nodes_traversed": 4
+        },
+        {
+          "iteration": 4,
+          "evaluated": 5,
+          "included": 4,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 63,
+      "pruned_count": 44,
+      "visited_count": 129,
+      "bridge_nodes_traversed": 22
+    },
+    {
+      "seed_qid": "Q11770767",
+      "seed_label": "Still life with coffee pot  dishes and fruit",
+      "gold_row_count": 13,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 10,
+          "included": 5,
+          "excluded": 5,
+          "bridge_nodes_traversed": 1
+        },
+        {
+          "iteration": 2,
+          "evaluated": 3,
+          "included": 0,
+          "excluded": 3,
+          "bridge_nodes_traversed": 2
+        }
+      ],
+      "included_count": 6,
+      "pruned_count": 8,
+      "visited_count": 17,
+      "bridge_nodes_traversed": 3
+    },
+    {
+      "seed_qid": "Q1201549",
+      "seed_label": "Detroit Institute of Arts",
+      "gold_row_count": 7,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 0,
+          "excluded": 4,
+          "bridge_nodes_traversed": 3
+        }
+      ],
+      "included_count": 1,
+      "pruned_count": 4,
+      "visited_count": 8,
+      "bridge_nodes_traversed": 3
+    },
+    {
+      "seed_qid": "Q156426",
+      "seed_label": "Alexej von Jawlensky",
+      "gold_row_count": 12,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 7,
+          "included": 1,
+          "excluded": 6,
+          "bridge_nodes_traversed": 2
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 6,
+      "visited_count": 10,
+      "bridge_nodes_traversed": 2
+    },
+    {
+      "seed_qid": "Q160236",
+      "seed_label": "Metropolitan Museum of Art",
+      "gold_row_count": 643,
+      "iterations": 5,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 172,
+          "included": 51,
+          "excluded": 121,
+          "bridge_nodes_traversed": 120
+        },
+        {
+          "iteration": 2,
+          "evaluated": 211,
+          "included": 86,
+          "excluded": 125,
+          "bridge_nodes_traversed": 93
+        },
+        {
+          "iteration": 3,
+          "evaluated": 123,
+          "included": 66,
+          "excluded": 57,
+          "bridge_nodes_traversed": 39
+        },
+        {
+          "iteration": 4,
+          "evaluated": 32,
+          "included": 19,
+          "excluded": 13,
+          "bridge_nodes_traversed": 6
+        },
+        {
+          "iteration": 5,
+          "evaluated": 9,
+          "included": 7,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 230,
+      "pruned_count": 318,
+      "visited_count": 806,
+      "bridge_nodes_traversed": 258
+    },
+    {
+      "seed_qid": "Q1634926",
+      "seed_label": "Hugo Cassirer",
+      "gold_row_count": 151,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 65,
+          "included": 31,
+          "excluded": 34,
+          "bridge_nodes_traversed": 35
+        },
+        {
+          "iteration": 2,
+          "evaluated": 40,
+          "included": 22,
+          "excluded": 18,
+          "bridge_nodes_traversed": 9
+        },
+        {
+          "iteration": 3,
+          "evaluated": 41,
+          "included": 10,
+          "excluded": 31,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 64,
+      "pruned_count": 83,
+      "visited_count": 191,
+      "bridge_nodes_traversed": 44
+    },
+    {
+      "seed_qid": "Q17277888",
+      "seed_label": "Gottlieb Friedrich Reber",
+      "gold_row_count": 152,
+      "iterations": 5,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 9,
+          "included": 8,
+          "excluded": 1,
+          "bridge_nodes_traversed": 3
+        },
+        {
+          "iteration": 2,
+          "evaluated": 74,
+          "included": 24,
+          "excluded": 50,
+          "bridge_nodes_traversed": 35
+        },
+        {
+          "iteration": 3,
+          "evaluated": 29,
+          "included": 19,
+          "excluded": 10,
+          "bridge_nodes_traversed": 5
+        },
+        {
+          "iteration": 4,
+          "evaluated": 15,
+          "included": 13,
+          "excluded": 2,
+          "bridge_nodes_traversed": 2
+        },
+        {
+          "iteration": 5,
+          "evaluated": 19,
+          "included": 8,
+          "excluded": 11,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 73,
+      "pruned_count": 74,
+      "visited_count": 192,
+      "bridge_nodes_traversed": 45
+    },
+    {
+      "seed_qid": "Q20178788",
+      "seed_label": "Still Life with Apples",
+      "gold_row_count": 6,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 4,
+          "included": 2,
+          "excluded": 2,
+          "bridge_nodes_traversed": 1
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 2,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 1
+    },
+    {
+      "seed_qid": "Q214867",
+      "seed_label": "National Gallery of Art",
+      "gold_row_count": 151,
+      "iterations": 4,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 33,
+          "included": 9,
+          "excluded": 24,
+          "bridge_nodes_traversed": 27
+        },
+        {
+          "iteration": 2,
+          "evaluated": 52,
+          "included": 32,
+          "excluded": 20,
+          "bridge_nodes_traversed": 12
+        },
+        {
+          "iteration": 3,
+          "evaluated": 41,
+          "included": 14,
+          "excluded": 27,
+          "bridge_nodes_traversed": 8
+        },
+        {
+          "iteration": 4,
+          "evaluated": 15,
+          "included": 1,
+          "excluded": 14,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 57,
+      "pruned_count": 85,
+      "visited_count": 189,
+      "bridge_nodes_traversed": 47
+    },
+    {
+      "seed_qid": "Q21948567",
+      "seed_label": "Sunflowers",
+      "gold_row_count": 48,
+      "iterations": 4,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 7,
+          "included": 3,
+          "excluded": 4,
+          "bridge_nodes_traversed": 1
+        },
+        {
+          "iteration": 2,
+          "evaluated": 29,
+          "included": 14,
+          "excluded": 15,
+          "bridge_nodes_traversed": 14
+        },
+        {
+          "iteration": 3,
+          "evaluated": 17,
+          "included": 5,
+          "excluded": 12,
+          "bridge_nodes_traversed": 1
+        },
+        {
+          "iteration": 4,
+          "evaluated": 1,
+          "included": 0,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 23,
+      "pruned_count": 32,
+      "visited_count": 71,
+      "bridge_nodes_traversed": 16
+    },
+    {
+      "seed_qid": "Q26221176",
+      "seed_label": "Two Poplars in the Alpilles near Saint-Rémy",
+      "gold_row_count": 107,
+      "iterations": 4,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 17,
+          "included": 7,
+          "excluded": 10,
+          "bridge_nodes_traversed": 5
+        },
+        {
+          "iteration": 2,
+          "evaluated": 39,
+          "included": 20,
+          "excluded": 19,
+          "bridge_nodes_traversed": 16
+        },
+        {
+          "iteration": 3,
+          "evaluated": 19,
+          "included": 11,
+          "excluded": 8,
+          "bridge_nodes_traversed": 4
+        },
+        {
+          "iteration": 4,
+          "evaluated": 17,
+          "included": 4,
+          "excluded": 13,
+          "bridge_nodes_traversed": 2
+        }
+      ],
+      "included_count": 43,
+      "pruned_count": 50,
+      "visited_count": 120,
+      "bridge_nodes_traversed": 27
+    },
+    {
+      "seed_qid": "Q26221184",
+      "seed_label": "Olive Picking",
+      "gold_row_count": 15,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 15,
+          "included": 1,
+          "excluded": 14,
+          "bridge_nodes_traversed": 7
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 14,
+      "visited_count": 23,
+      "bridge_nodes_traversed": 7
+    },
+    {
+      "seed_qid": "Q26221197",
+      "seed_label": "Two Peasant Women Digging in Field with Snow",
+      "gold_row_count": 4,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 2,
+          "included": 2,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 5,
+      "pruned_count": 0,
+      "visited_count": 5,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q26221201",
+      "seed_label": "Two Diggers among Trees",
+      "gold_row_count": 44,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 14,
+          "included": 14,
+          "excluded": 0,
+          "bridge_nodes_traversed": 5
+        },
+        {
+          "iteration": 2,
+          "evaluated": 21,
+          "included": 11,
+          "excluded": 10,
+          "bridge_nodes_traversed": 5
+        },
+        {
+          "iteration": 3,
+          "evaluated": 4,
+          "included": 2,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 28,
+      "pruned_count": 12,
+      "visited_count": 50,
+      "bridge_nodes_traversed": 10
+    },
+    {
+      "seed_qid": "Q262234",
+      "seed_label": "Lenbachhaus",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 0,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 1,
+      "pruned_count": 1,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q29441758",
+      "seed_label": "Margarete Mauthner",
+      "gold_row_count": 40,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 27,
+          "included": 16,
+          "excluded": 11,
+          "bridge_nodes_traversed": 9
+        },
+        {
+          "iteration": 2,
+          "evaluated": 9,
+          "included": 8,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 25,
+      "pruned_count": 12,
+      "visited_count": 46,
+      "bridge_nodes_traversed": 9
+    },
+    {
+      "seed_qid": "Q303139",
+      "seed_label": "Belvedere",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 0,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 1,
+      "pruned_count": 1,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q324935",
+      "seed_label": "Ferenc Hatvany",
+      "gold_row_count": 24,
+      "iterations": 3,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 4,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 5,
+          "included": 3,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 6,
+          "included": 2,
+          "excluded": 4,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 10,
+      "pruned_count": 7,
+      "visited_count": 17,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q3783572",
+      "seed_label": "Harvard Art Museums",
+      "gold_row_count": 10,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 6,
+          "included": 0,
+          "excluded": 6,
+          "bridge_nodes_traversed": 1
+        }
+      ],
+      "included_count": 1,
+      "pruned_count": 6,
+      "visited_count": 8,
+      "bridge_nodes_traversed": 1
+    },
+    {
+      "seed_qid": "Q4008950",
+      "seed_label": "Irises",
+      "gold_row_count": 1,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 1,
+          "included": 1,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 2,
+      "pruned_count": 0,
+      "visited_count": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q5147536",
+      "seed_label": "Josef Feinhals",
+      "gold_row_count": 17,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 4,
+          "included": 3,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 10,
+          "included": 0,
+          "excluded": 10,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 4,
+      "pruned_count": 11,
+      "visited_count": 15,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q55680361",
+      "seed_label": "Oskar Reichel",
+      "gold_row_count": 90,
+      "iterations": 5,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 4,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 5,
+          "included": 5,
+          "excluded": 0,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 14,
+          "included": 12,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 4,
+          "evaluated": 17,
+          "included": 15,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 5,
+          "evaluated": 47,
+          "included": 13,
+          "excluded": 34,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 50,
+      "pruned_count": 39,
+      "visited_count": 89,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "seed_qid": "Q657415",
+      "seed_label": "Cleveland Museum of Art",
+      "gold_row_count": 35,
+      "iterations": 2,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 26,
+          "included": 7,
+          "excluded": 19,
+          "bridge_nodes_traversed": 13
+        },
+        {
+          "iteration": 2,
+          "evaluated": 7,
+          "included": 4,
+          "excluded": 3,
+          "bridge_nodes_traversed": 3
+        }
+      ],
+      "included_count": 12,
+      "pruned_count": 22,
+      "visited_count": 50,
+      "bridge_nodes_traversed": 16
+    },
+    {
+      "seed_qid": "Q666331",
+      "seed_label": "Foundation E.G. Bührle Collection",
+      "gold_row_count": 2,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 3,
+          "included": 2,
+          "excluded": 1,
+          "bridge_nodes_traversed": 2
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 1,
+      "visited_count": 6,
+      "bridge_nodes_traversed": 2
+    },
+    {
+      "seed_qid": "Q69860245",
+      "seed_label": "Mór Lipót Herzog",
+      "gold_row_count": 6,
+      "iterations": 1,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 5,
+          "included": 2,
+          "excluded": 3,
+          "bridge_nodes_traversed": 1
+        }
+      ],
+      "included_count": 3,
+      "pruned_count": 3,
+      "visited_count": 7,
+      "bridge_nodes_traversed": 1
+    },
+    {
+      "seed_qid": "Q74128",
+      "seed_label": "Alfred Flechtheim",
+      "gold_row_count": 207,
+      "iterations": 5,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 15,
+          "included": 13,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 2,
+          "evaluated": 20,
+          "included": 18,
+          "excluded": 2,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 3,
+          "evaluated": 50,
+          "included": 23,
+          "excluded": 27,
+          "bridge_nodes_traversed": 1
+        },
+        {
+          "iteration": 4,
+          "evaluated": 42,
+          "included": 18,
+          "excluded": 24,
+          "bridge_nodes_traversed": 6
+        },
+        {
+          "iteration": 5,
+          "evaluated": 28,
+          "included": 6,
+          "excluded": 22,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 79,
+      "pruned_count": 77,
+      "visited_count": 163,
+      "bridge_nodes_traversed": 7
+    },
+    {
+      "seed_qid": "Q867510",
+      "seed_label": "Cypresses",
+      "gold_row_count": 120,
+      "iterations": 4,
+      "iteration_details": [
+        {
+          "iteration": 1,
+          "evaluated": 30,
+          "included": 17,
+          "excluded": 13,
+          "bridge_nodes_traversed": 9
+        },
+        {
+          "iteration": 2,
+          "evaluated": 58,
+          "included": 34,
+          "excluded": 24,
+          "bridge_nodes_traversed": 17
+        },
+        {
+          "iteration": 3,
+          "evaluated": 18,
+          "included": 7,
+          "excluded": 11,
+          "bridge_nodes_traversed": 0
+        },
+        {
+          "iteration": 4,
+          "evaluated": 1,
+          "included": 0,
+          "excluded": 1,
+          "bridge_nodes_traversed": 0
+        }
+      ],
+      "included_count": 59,
+      "pruned_count": 49,
+      "visited_count": 134,
+      "bridge_nodes_traversed": 26
+    }
+  ],
+  "evaluation_exclusion_examples_file": "meta-prompting\\examples\\meta\\dataset3_path_simple_meta_examples.json",
+  "evaluation_exclusion_example_count": 21,
+  "row_count": 2014
+}

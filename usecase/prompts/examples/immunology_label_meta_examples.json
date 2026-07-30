@@ -1,0 +1,26 @@
+{
+  "benchmark_name": "immunology",
+  "context_level": "labels",
+  "seed_labels": ["immunity"],
+  "notes": "Label-only calibration examples for generating an immunology prompt.",
+  "examples": [
+    {"id": "immunology_include_01", "seed_label": "immunity", "candidate_label": "immune response", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "immunology_include_02", "seed_label": "immunity", "candidate_label": "chemokines", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "immunology_include_03", "seed_label": "immunity", "candidate_label": "cytokines", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "immunology_include_04", "seed_label": "immunity", "candidate_label": "immunologic techniques", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "immunology_include_05", "seed_label": "immunity", "candidate_label": "complement", "decision": "INCLUDE", "source": "false_negative_gold"},
+    {"id": "immunology_include_06", "seed_label": "immunity", "candidate_label": "immunohistochemistry", "decision": "INCLUDE", "source": "false_negative_gold"},
+    {"id": "immunology_include_07", "seed_label": "immunity", "candidate_label": "autoimmunity", "decision": "INCLUDE", "source": "false_negative_gold"},
+    {"id": "immunology_include_08", "seed_label": "immunity", "candidate_label": "monoclonal antibodies", "decision": "INCLUDE", "source": "false_negative_gold"},
+    {"id": "immunology_include_09", "seed_label": "immunity", "candidate_label": "serology", "decision": "INCLUDE", "source": "false_negative_gold"},
+    {"id": "immunology_exclude_01", "seed_label": "immunity", "candidate_label": "immune system", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "immunology_exclude_02", "seed_label": "immunity", "candidate_label": "hypersensitivity", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "immunology_exclude_03", "seed_label": "immunity", "candidate_label": "leukocytes", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "immunology_exclude_04", "seed_label": "immunity", "candidate_label": "apoptosis", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "immunology_exclude_05", "seed_label": "immunity", "candidate_label": "vaccines", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "immunology_exclude_06", "seed_label": "immunity", "candidate_label": "assays", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "immunology_exclude_07", "seed_label": "immunity", "candidate_label": "chemokine receptors", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "immunology_exclude_08", "seed_label": "immunity", "candidate_label": "caspase-1", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "immunology_exclude_09", "seed_label": "immunity", "candidate_label": "antigen-presenting cells", "decision": "EXCLUDE", "source": "false_positive_gateway"}
+  ]
+}

@@ -1,0 +1,209 @@
+prefLabel,altLabels,displayName,uri,confidence,in_hierarchy_gold,relations,classification
+biological resistance,biocide resistance,biological resistance (biocide resistance),https://lod.nal.usda.gov/nalt/114,0.95,False,skos:broader; skos:narrower,EXCLUDE
+herd immunity,community immunity,herd immunity (community immunity),https://lod.nal.usda.gov/nalt/263906,0.75,True,skos:broader; skos:narrower,EXCLUDE
+immune system,,immune system,https://lod.nal.usda.gov/nalt/8973,0.9,False,skos:related,EXCLUDE
+immunologic diseases,immunological diseases,immunologic diseases (immunological diseases),https://lod.nal.usda.gov/nalt/340,0.95,False,skos:related,EXCLUDE
+insect immunity,,insect immunity,https://lod.nal.usda.gov/nalt/46974,0.7,True,skos:broader; skos:narrower,EXCLUDE
+secondary infection,,secondary infection,https://lod.nal.usda.gov/nalt/266333,0.9,False,skos:related,EXCLUDE
+antibody engineering,,antibody engineering,https://lod.nal.usda.gov/nalt/297821,0.75,False,skos:related,EXCLUDE
+autoimmune diseases,,autoimmune diseases,https://lod.nal.usda.gov/nalt/13994,0.9,False,skos:related,EXCLUDE
+bioinformatics,computational biology; computational genetics; computational molecular biology,"bioinformatics (computational biology, computational genetics, computational molecular biology)",https://lod.nal.usda.gov/nalt/17402,0.95,False,skos:broader; skos:narrower,EXCLUDE
+CRISPR-Cas systems,CRISPR/Cas9 system,CRISPR-Cas systems (CRISPR/Cas9 system),https://lod.nal.usda.gov/nalt/329078,0.85,False,skos:related,EXCLUDE
+graft rejection,allograft rejection; host versus graft reactions; transplant rejection; transplantation rejection,"graft rejection (allograft rejection, host versus graft reactions, transplant rejection, transplantation rejection)",https://lod.nal.usda.gov/nalt/6679,0.7,True,skos:broader; skos:narrower,EXCLUDE
+graft versus host reactions,,graft versus host reactions,https://lod.nal.usda.gov/nalt/23447,0.7,True,skos:broader; skos:narrower,EXCLUDE
+hypersensitivity,allergic reaction; allergies; allergy,"hypersensitivity (allergic reaction, allergies, allergy)",https://lod.nal.usda.gov/nalt/6555,0.9,False,skos:related,EXCLUDE
+immunocastration,immuno-castration,immunocastration (immuno-castration),https://lod.nal.usda.gov/nalt/290558,0.85,True,skos:related,EXCLUDE
+immunochemistry,,immunochemistry,https://lod.nal.usda.gov/nalt/46984,0.75,True,skos:related,EXCLUDE
+immunocompromised population,immunocompromised hosts; immunocompromised individuals,"immunocompromised population (immunocompromised hosts, immunocompromised individuals)",https://lod.nal.usda.gov/nalt/136991,0.9,False,skos:related,EXCLUDE
+immunogenetics,,immunogenetics,https://lod.nal.usda.gov/nalt/10352,0.75,True,skos:related,EXCLUDE
+immunologic techniques,immunologic tests; immunological techniques; immunological tests; serologic tests; serological tests,"immunologic techniques (immunologic tests, immunological techniques, immunological tests, serologic tests, serological tests)",https://lod.nal.usda.gov/nalt/5134,0.9,True,skos:related,EXCLUDE
+metabolomics,metabolic profiling; metabolome analysis; metabonomic study; metabonomics,"metabolomics (metabolic profiling, metabolome analysis, metabonomic study, metabonomics)",https://lod.nal.usda.gov/nalt/17412,0.95,False,skos:related,EXCLUDE
+proteomics,nutriproteomics,proteomics (nutriproteomics),https://lod.nal.usda.gov/nalt/17414,0.95,False,skos:related,EXCLUDE
+skin prick tests,,skin prick tests,https://lod.nal.usda.gov/nalt/311643,0.75,True,skos:related,EXCLUDE
+allergoids,formalinized allergoids; formalized allergoids,"allergoids (formalinized allergoids, formalized allergoids)",https://lod.nal.usda.gov/nalt/335656,0.8,True,skos:related,EXCLUDE
+animal research,,animal research,https://lod.nal.usda.gov/nalt/199785,0.95,False,skos:broader; skos:narrower,EXCLUDE
+animal-friendly affinity reagents,,animal-friendly affinity reagents,https://lod.nal.usda.gov/nalt/84266496,0.9,True,skos:broader; skos:narrower,EXCLUDE
+antibody microarrays,,antibody microarrays,https://lod.nal.usda.gov/nalt/205675,0.8,True,skos:related,EXCLUDE
+ascites,pulmonary hypertensive syndrome,ascites (pulmonary hypertensive syndrome),https://lod.nal.usda.gov/nalt/733,0.85,True,skos:broader; skos:narrower,EXCLUDE
+autophagosomes,,autophagosomes,https://lod.nal.usda.gov/nalt/336342,0.9,False,skos:related,EXCLUDE
+B-cell lymphoma,diffuse large B-Cell lymphoma; diffuse large-cell lymphoma; histiocytic lymphoma,"B-cell lymphoma (diffuse large B-Cell lymphoma, diffuse large-cell lymphoma, histiocytic lymphoma)",https://lod.nal.usda.gov/nalt/295040,0.95,False,skos:related,EXCLUDE
+biochemical compounds,biological compounds,biochemical compounds (biological compounds),https://lod.nal.usda.gov/nalt/7812,0.95,False,skos:broader; skos:narrower,EXCLUDE
+biochemistry,,biochemistry,https://lod.nal.usda.gov/nalt/17227,0.95,False,skos:related,EXCLUDE
+blood group antigens,,blood group antigens,https://lod.nal.usda.gov/nalt/10357,0.75,True,skos:broader; skos:narrower,EXCLUDE
+blood serum,serum,blood serum (serum),https://lod.nal.usda.gov/nalt/18139,0.95,False,skos:related,EXCLUDE
+cells,,cells,https://lod.nal.usda.gov/nalt/2895,0.95,False,skos:broader; skos:narrower,EXCLUDE
+coproantigens,,coproantigens,https://lod.nal.usda.gov/nalt/10359,0.7,True,skos:broader; skos:narrower,EXCLUDE
+drugs,medicines (drugs); pharmaceutical compounds; pharmaceutical products; pharmaceuticals,"drugs (medicines (drugs), pharmaceutical compounds, pharmaceutical products, pharmaceuticals)",https://lod.nal.usda.gov/nalt/286,0.95,False,skos:broader; skos:narrower,EXCLUDE
+endocytosis,pinocytosis,endocytosis (pinocytosis),https://lod.nal.usda.gov/nalt/23424,0.95,False,skos:broader; skos:narrower,EXCLUDE
+excretory-secretory products,excretory secretory products; excretory-secretory proteins,"excretory-secretory products (excretory secretory products, excretory-secretory proteins)",https://lod.nal.usda.gov/nalt/9369,0.7,False,skos:related,EXCLUDE
+exoantigens,ectoantigens,exoantigens (ectoantigens),https://lod.nal.usda.gov/nalt/10360,0.65,True,skos:broader; skos:narrower,EXCLUDE
+exoerythrocytic stage,exoerythrocyte stage,exoerythrocytic stage (exoerythrocyte stage),https://lod.nal.usda.gov/nalt/200593,0.95,False,skos:related,EXCLUDE
+foam cells,,foam cells,https://lod.nal.usda.gov/nalt/40759,0.8,False,skos:broader; skos:narrower,EXCLUDE
+food allergies,food anaphylaxis; food hypersensitivity,"food allergies (food anaphylaxis, food hypersensitivity)",https://lod.nal.usda.gov/nalt/6560,0.9,False,skos:related,EXCLUDE
+granuloma,,granuloma,https://lod.nal.usda.gov/nalt/748,0.65,False,skos:related,EXCLUDE
+hemolysins,haemolysins; hemalysins; hemolysin proteins,"hemolysins (haemolysins, hemalysins, hemolysin proteins)",https://lod.nal.usda.gov/nalt/45100,0.7,True,skos:broader; skos:narrower,EXCLUDE
+hybridomas,,hybridomas,https://lod.nal.usda.gov/nalt/23404,0.85,True,skos:broader; skos:narrower,EXCLUDE
+immunologic deficiency syndromes,,immunologic deficiency syndromes,https://lod.nal.usda.gov/nalt/39752,0.95,False,skos:related,EXCLUDE
+immunosensors,,immunosensors,https://lod.nal.usda.gov/nalt/217013,0.85,False,skos:related,EXCLUDE
+immunostimulants,,immunostimulants,https://lod.nal.usda.gov/nalt/47012,0.7,True,skos:related,EXCLUDE
+immunosuppressive agents,immunosuppressants,immunosuppressive agents (immunosuppressants),https://lod.nal.usda.gov/nalt/20596,0.95,True,skos:broader; skos:narrower,EXCLUDE
+immunotherapy,,immunotherapy,https://lod.nal.usda.gov/nalt/10543,0.95,False,skos:related,EXCLUDE
+keyhole limpet hemocyanin,keyhole limpet haemocyanin; keyhole-limpet hemacyanin,"keyhole limpet hemocyanin (keyhole limpet haemocyanin, keyhole-limpet hemacyanin)",https://lod.nal.usda.gov/nalt/276316,0.7,True,skos:broader; skos:narrower,EXCLUDE
+myasthenia gravis,,myasthenia gravis,https://lod.nal.usda.gov/nalt/301163,0.95,False,skos:related,EXCLUDE
+nuclear antigens,,nuclear antigens,https://lod.nal.usda.gov/nalt/10364,0.65,True,skos:broader; skos:narrower,EXCLUDE
+peptidoglycans,murein,peptidoglycans (murein),https://lod.nal.usda.gov/nalt/206107,0.6,False,skos:related,EXCLUDE
+plantibodies,plant-derived antibodies; recombinant plant antibodies,"plantibodies (plant-derived antibodies, recombinant plant antibodies)",https://lod.nal.usda.gov/nalt/217764,0.95,True,skos:broader; skos:narrower,EXCLUDE
+protozoan antibodies,,protozoan antibodies,https://lod.nal.usda.gov/nalt/217762,0.7,True,skos:broader; skos:narrower,EXCLUDE
+receptors,,receptors,https://lod.nal.usda.gov/nalt/4370,0.95,False,skos:related,EXCLUDE
+resistance mechanisms,,resistance mechanisms,https://lod.nal.usda.gov/nalt/10180,0.8,False,skos:broader; skos:narrower,EXCLUDE
+reticuloendothelial system,,reticuloendothelial system,https://lod.nal.usda.gov/nalt/46970,0.9,False,skos:broader; skos:narrower,EXCLUDE
+serotypes,serogroups; serovars,"serotypes (serogroups, serovars)",https://lod.nal.usda.gov/nalt/10353,0.7,False,skos:related,EXCLUDE
+T-cell lymphoma,,T-cell lymphoma,https://lod.nal.usda.gov/nalt/295041,0.95,False,skos:related,EXCLUDE
+vaccines,,vaccines,https://lod.nal.usda.gov/nalt/16112,0.7,False,skos:related,EXCLUDE
+adipokines,adipocytokines; adipokine,"adipokines (adipocytokines, adipokine)",https://lod.nal.usda.gov/nalt/132364,0.8,False,skos:related,EXCLUDE
+animal health,,animal health,https://lod.nal.usda.gov/nalt/9232,0.95,False,skos:related,EXCLUDE
+anthrax toxin,Bacillus anthracis calmodulin-dependent adenylate cyclase; Bacillus anthracis endema factor; Bacillus anthracis endema toxin; anthrax edema factor; anthrax lethal factor; anthrax protective antigen,"anthrax toxin (Bacillus anthracis calmodulin-dependent adenylate cyclase, Bacillus anthracis endema factor, Bacillus anthracis endema toxin, anthrax edema factor, anthrax lethal factor, anthrax protective antigen)",https://lod.nal.usda.gov/nalt/237276,0.75,True,skos:broader; skos:narrower,EXCLUDE
+antibiotic resistance genes,resistome,antibiotic resistance genes (resistome),https://lod.nal.usda.gov/nalt/310008,0.95,False,skos:related,EXCLUDE
+antidotes,,antidotes,https://lod.nal.usda.gov/nalt/10293,0.95,False,skos:broader; skos:narrower,EXCLUDE
+arrestins,,arrestins,https://lod.nal.usda.gov/nalt/12336,0.85,False,skos:related,EXCLUDE
+bacteriology,,bacteriology,https://lod.nal.usda.gov/nalt/15096,0.95,False,skos:related,EXCLUDE
+binding sites,,binding sites,https://lod.nal.usda.gov/nalt/17202,0.95,False,skos:broader; skos:narrower,EXCLUDE
+biochemical mechanisms,,biochemical mechanisms,https://lod.nal.usda.gov/nalt/17274,0.95,False,skos:broader; skos:narrower,EXCLUDE
+blood proteins,blood total proteins; plasma proteins; serum proteins; serum total proteins,"blood proteins (blood total proteins, plasma proteins, serum proteins, serum total proteins)",https://lod.nal.usda.gov/nalt/3963,0.85,False,skos:broader; skos:narrower,EXCLUDE
+cancer vaccines,neoplasm vaccines; tumor vaccines; tumour vaccines,"cancer vaccines (neoplasm vaccines, tumor vaccines, tumour vaccines)",https://lod.nal.usda.gov/nalt/316946,0.8,False,skos:related,EXCLUDE
+cardiolipins,diphosphatidylglycerols,cardiolipins (diphosphatidylglycerols),https://lod.nal.usda.gov/nalt/153521,0.9,True,skos:broader; skos:narrower,EXCLUDE
+cell adhesion,adhesion (cells); cellular adhesion; cytoadherence,"cell adhesion (adhesion (cells), cellular adhesion, cytoadherence)",https://lod.nal.usda.gov/nalt/120,0.9,False,skos:related,EXCLUDE
+cell adhesion molecules,intercellular adhesion molecules; leukocyte adhesion molecules,"cell adhesion molecules (intercellular adhesion molecules, leukocyte adhesion molecules)",https://lod.nal.usda.gov/nalt/293054,0.85,False,skos:broader; skos:narrower,EXCLUDE
+cell movement,cell locomotion; cell migration; cell motility; cellular migration; cellular motility; cellular movement,"cell movement (cell locomotion, cell migration, cell motility, cellular migration, cellular motility, cellular movement)",https://lod.nal.usda.gov/nalt/15185,0.95,False,skos:related,EXCLUDE
+cell respiration,cellular respiration; fruit respiration; plant respiration; respiration (cells); respiration (fruits); respiration (plants); respiration (postharvest),"cell respiration (cellular respiration, fruit respiration, plant respiration, respiration (cells), respiration (fruits), respiration (plants), respiration (postharvest))",https://lod.nal.usda.gov/nalt/23423,0.95,False,skos:broader; skos:narrower,EXCLUDE
+colostrum,,colostrum,https://lod.nal.usda.gov/nalt/18315,0.8,False,skos:related,EXCLUDE
+disease control,disease management; disease suppression; infection control; pathogen suppression,"disease control (disease management, disease suppression, infection control, pathogen suppression)",https://lod.nal.usda.gov/nalt/290,0.95,False,skos:related,EXCLUDE
+disease diagnosis,diagnostic value,disease diagnosis (diagnostic value),https://lod.nal.usda.gov/nalt/32788,0.95,False,skos:broader; skos:narrower,EXCLUDE
+disease prevalence,,disease prevalence,https://lod.nal.usda.gov/nalt/34041,0.95,False,skos:related,EXCLUDE
+disease surveillance,disease monitoring,disease surveillance (disease monitoring),https://lod.nal.usda.gov/nalt/17543,0.95,False,skos:related,EXCLUDE
+disease susceptibility,diathesis; susceptible to disease; susceptible to illness; susceptible to infection,"disease susceptibility (diathesis, susceptible to disease, susceptible to illness, susceptible to infection)",https://lod.nal.usda.gov/nalt/78062,0.75,False,skos:related,EXCLUDE
+elicitors,,elicitors,https://lod.nal.usda.gov/nalt/210530,0.7,False,skos:related,EXCLUDE
+epidemiological studies,epidemiologic studies; epidemiologic survey; epidemiological surveys,"epidemiological studies (epidemiologic studies, epidemiologic survey, epidemiological surveys)",https://lod.nal.usda.gov/nalt/37565,0.95,False,skos:broader; skos:narrower,EXCLUDE
+epidemiology,epizootiology,epidemiology (epizootiology),https://lod.nal.usda.gov/nalt/149,0.95,False,skos:broader; skos:narrower,EXCLUDE
+fish allergies,fish hypersensitivity,fish allergies (fish hypersensitivity),https://lod.nal.usda.gov/nalt/296877,0.95,False,skos:related,EXCLUDE
+food allergens,food-allergens,food allergens (food-allergens),https://lod.nal.usda.gov/nalt/217947,0.7,True,skos:broader; skos:narrower,EXCLUDE
+gap junctions,,gap junctions,https://lod.nal.usda.gov/nalt/28576,0.95,False,skos:related,EXCLUDE
+hemagglutination,haemagglutination,hemagglutination (haemagglutination),https://lod.nal.usda.gov/nalt/5132,0.65,True,skos:broader; skos:narrower,EXCLUDE
+hemagglutinins,haemagglutinins,hemagglutinins (haemagglutinins),https://lod.nal.usda.gov/nalt/5139,0.9,True,skos:broader; skos:narrower,EXCLUDE
+hepatitis A antigens,hepatitis A virus antigens,hepatitis A antigens (hepatitis A virus antigens),https://lod.nal.usda.gov/nalt/216653,0.95,True,skos:broader; skos:narrower,EXCLUDE
+hepatitis B antigens,Australia antigens; hepatitis B core antigens; hepatitis B e antigens; hepatitis B surface antigens; hepatitis Be antigens,"hepatitis B antigens (Australia antigens, hepatitis B core antigens, hepatitis B e antigens, hepatitis B surface antigens, hepatitis Be antigens)",https://lod.nal.usda.gov/nalt/216654,0.95,True,skos:broader; skos:narrower,EXCLUDE
+hepatitis C antigens,,hepatitis C antigens,https://lod.nal.usda.gov/nalt/216655,0.95,True,skos:broader; skos:narrower,EXCLUDE
+heterophils,,heterophils,https://lod.nal.usda.gov/nalt/43663,0.7,False,skos:broader; skos:narrower,EXCLUDE
+histiocytosis,,histiocytosis,https://lod.nal.usda.gov/nalt/45637,0.95,False,skos:related,EXCLUDE
+immune complex diseases,Type III hypersensitivity,immune complex diseases (Type III hypersensitivity),https://lod.nal.usda.gov/nalt/10345,0.95,False,skos:related,EXCLUDE
+influenza vaccination,,influenza vaccination,https://lod.nal.usda.gov/nalt/299007,0.95,False,skos:broader; skos:narrower,EXCLUDE
+intercellular junctions,cell junctions,intercellular junctions (cell junctions),https://lod.nal.usda.gov/nalt/23362,0.9,False,skos:broader; skos:narrower,EXCLUDE
+lectins,,lectins,https://lod.nal.usda.gov/nalt/5140,0.65,False,skos:related,EXCLUDE
+ligands,,ligands,https://lod.nal.usda.gov/nalt/261978,0.95,False,skos:related,EXCLUDE
+lipid A,,lipid A,https://lod.nal.usda.gov/nalt/209104,0.6,False,skos:broader; skos:narrower,EXCLUDE
+lipid transfer proteins,glycolipid exchange proteins; glycolipid transfer proteins; lipid exchange proteins; phospholipid transfer proteins,"lipid transfer proteins (glycolipid exchange proteins, glycolipid transfer proteins, lipid exchange proteins, phospholipid transfer proteins)",https://lod.nal.usda.gov/nalt/281496,0.9,False,skos:related,EXCLUDE
+lipids,fats,lipids (fats),https://lod.nal.usda.gov/nalt/3990,0.95,False,skos:broader; skos:narrower,EXCLUDE
+liver,liver (anatomy),liver (liver (anatomy)),https://lod.nal.usda.gov/nalt/9344,0.95,False,skos:related,EXCLUDE
+lymphocyte count,lymphocyte number; lymphocyte numbers; total lymphocyte count,"lymphocyte count (lymphocyte number, lymphocyte numbers, total lymphocyte count)",https://lod.nal.usda.gov/nalt/23192,0.8,False,skos:related,EXCLUDE
+melanoma-specific antigens,melanoma antigens,melanoma-specific antigens (melanoma antigens),https://lod.nal.usda.gov/nalt/293039,0.75,True,skos:broader; skos:narrower,EXCLUDE
+membrane glycoproteins,,membrane glycoproteins,https://lod.nal.usda.gov/nalt/1601,0.95,False,skos:related,EXCLUDE
+neoplasms,cancer (disease); cancers; neoplasia; tumors; tumours,"neoplasms (cancer (disease), cancers, neoplasia, tumors, tumours)",https://lod.nal.usda.gov/nalt/702,0.9,False,skos:related,EXCLUDE
+O-antigens,O-specific polysaccharides,O-antigens (O-specific polysaccharides),https://lod.nal.usda.gov/nalt/312451,0.8,False,skos:broader; skos:narrower,EXCLUDE
+pancreatic insulitis,,pancreatic insulitis,https://lod.nal.usda.gov/nalt/228021,0.85,False,skos:related,EXCLUDE
+peptides,,peptides,https://lod.nal.usda.gov/nalt/7813,0.98,False,skos:broader; skos:narrower,EXCLUDE
+pharyngitis,sore throat,pharyngitis (sore throat),https://lod.nal.usda.gov/nalt/229296,0.95,False,skos:related,EXCLUDE
+plant-incorporated protectants,PIPs (plant incorporated protectants); plant incorporated protectants,"plant-incorporated protectants (PIPs (plant incorporated protectants), plant incorporated protectants)",https://lod.nal.usda.gov/nalt/68395,0.95,False,skos:related,EXCLUDE
+pollen proteins,pollen grain proteins; pollen-coat proteins; pollen-wall proteins,"pollen proteins (pollen grain proteins, pollen-coat proteins, pollen-wall proteins)",https://lod.nal.usda.gov/nalt/278567,0.85,False,skos:related,EXCLUDE
+polysaccharides,glycans,polysaccharides (glycans),https://lod.nal.usda.gov/nalt/6365,0.98,False,skos:broader; skos:narrower,EXCLUDE
+prevalence,point prevalence; prevalence ratio,"prevalence (point prevalence, prevalence ratio)",https://lod.nal.usda.gov/nalt/34043,0.98,False,skos:related,EXCLUDE
+profilins,profilin 1; profilin 2; profilin 3; profilin 4,"profilins (profilin 1, profilin 2, profilin 3, profilin 4)",https://lod.nal.usda.gov/nalt/286136,0.85,False,skos:related,EXCLUDE
+prostate-specific antigen,EC 3.4.21.77; semenogelase,"prostate-specific antigen (EC 3.4.21.77, semenogelase)",https://lod.nal.usda.gov/nalt/148923,0.9,False,skos:related,EXCLUDE
+proteins,,proteins,https://lod.nal.usda.gov/nalt/876,1.0,False,skos:broader; skos:narrower,EXCLUDE
+public health,,public health,https://lod.nal.usda.gov/nalt/28292,0.9,False,skos:related,EXCLUDE
+toxins,biotoxins,toxins (biotoxins),https://lod.nal.usda.gov/nalt/10551,0.7,False,skos:related,EXCLUDE
+tuberculin,,tuberculin,https://lod.nal.usda.gov/nalt/15118,0.7,True,skos:broader; skos:narrower,EXCLUDE
+varietal resistance,varietal susceptibility,varietal resistance (varietal susceptibility),https://lod.nal.usda.gov/nalt/42647,0.85,False,skos:related,EXCLUDE
+vascular cell adhesion molecules,CD106 antigens; vascular cell adhesion molecule-1,"vascular cell adhesion molecules (CD106 antigens, vascular cell adhesion molecule-1)",https://lod.nal.usda.gov/nalt/312885,0.75,False,skos:related,EXCLUDE
+viruses,,viruses,https://lod.nal.usda.gov/nalt/1138,0.95,False,skos:related,EXCLUDE
+abscess,,abscess,https://lod.nal.usda.gov/nalt/1814,0.9,False,skos:broader; skos:narrower,EXCLUDE
+air pouch model,air pouch model of inflammation; murine air pouch model; subcutaneous air pouch model,"air pouch model (air pouch model of inflammation, murine air pouch model, subcutaneous air pouch model)",https://lod.nal.usda.gov/nalt/315299,0.7,False,skos:related,EXCLUDE
+alpha-globulins,,alpha-globulins,https://lod.nal.usda.gov/nalt/192166,0.85,False,skos:broader; skos:narrower,EXCLUDE
+anti-inflammatory agents,anti-inflammatory drugs; antiinflammatory agents,"anti-inflammatory agents (anti-inflammatory drugs, antiinflammatory agents)",https://lod.nal.usda.gov/nalt/10149,0.95,False,skos:related,EXCLUDE
+beta-globulins,,beta-globulins,https://lod.nal.usda.gov/nalt/222462,0.85,False,skos:broader; skos:narrower,EXCLUDE
+bioactive properties,biologic activity; biological activity,"bioactive properties (biologic activity, biological activity)",https://lod.nal.usda.gov/nalt/10240,0.95,False,skos:broader; skos:narrower,EXCLUDE
+biocompatibility,,biocompatibility,https://lod.nal.usda.gov/nalt/68518,0.9,False,skos:related,EXCLUDE
+blood cells,,blood cells,https://lod.nal.usda.gov/nalt/18061,0.9,False,skos:broader; skos:narrower,EXCLUDE
+bovine mastitis,,bovine mastitis,https://lod.nal.usda.gov/nalt/18973,0.95,False,skos:related,EXCLUDE
+bronchiolitis,constrictive bronchiolitis; proliferative bronchiolitis,"bronchiolitis (constrictive bronchiolitis, proliferative bronchiolitis)",https://lod.nal.usda.gov/nalt/266344,0.9,False,skos:related,EXCLUDE
+bronchitis,,bronchitis,https://lod.nal.usda.gov/nalt/20024,0.9,False,skos:related,EXCLUDE
+CCR1 receptor,C-C CKR1 receptor; C-C chemokine receptor type 1; CD191 antigen; LD78 cytokine receptor; RANTES receptor; chemokine (C-C motif) receptor 1; macrophage inflammatory protein 1alpha receptor,"CCR1 receptor (C-C CKR1 receptor, C-C chemokine receptor type 1, CD191 antigen, LD78 cytokine receptor, RANTES receptor, chemokine (C-C motif) receptor 1, macrophage inflammatory protein 1alpha receptor)",https://lod.nal.usda.gov/nalt/243409,0.75,False,skos:related,EXCLUDE
+CCR3 receptor,C-C chemokine receptor type 3; CC chemokine receptor 3; CC-CKR3 receptor; CD193 antigen; chemokine (C-C motif) receptor 3; cysteine-cysteine chemokine receptor-3,"CCR3 receptor (C-C chemokine receptor type 3, CC chemokine receptor 3, CC-CKR3 receptor, CD193 antigen, chemokine (C-C motif) receptor 3, cysteine-cysteine chemokine receptor-3)",https://lod.nal.usda.gov/nalt/243435,0.75,False,skos:related,EXCLUDE
+CCR5 receptor,C-C chemokine receptor type 5; CC chemokine receptor 5; CC-CKR5 receptor; CD195 antigen; CKR5 receptor; chemokine (C-C motif) receptor 5,"CCR5 receptor (C-C chemokine receptor type 5, CC chemokine receptor 5, CC-CKR5 receptor, CD195 antigen, CKR5 receptor, chemokine (C-C motif) receptor 5)",https://lod.nal.usda.gov/nalt/243453,0.75,False,skos:related,EXCLUDE
+cell differentiation,,cell differentiation,https://lod.nal.usda.gov/nalt/3939,0.9,False,skos:related,EXCLUDE
+cell proliferation,cellular proliferation; tissue proliferation,"cell proliferation (cellular proliferation, tissue proliferation)",https://lod.nal.usda.gov/nalt/23357,0.9,False,skos:related,EXCLUDE
+cell viability,cell survival; cellular viability,"cell viability (cell survival, cellular viability)",https://lod.nal.usda.gov/nalt/206983,0.85,False,skos:related,EXCLUDE
+cellulitis,,cellulitis,https://lod.nal.usda.gov/nalt/23496,0.9,False,skos:broader; skos:narrower,EXCLUDE
+edible vaccines,,edible vaccines,https://lod.nal.usda.gov/nalt/35861,0.9,False,skos:related,EXCLUDE
+embryo implantation,blastocyst implantation; nidation,"embryo implantation (blastocyst implantation, nidation)",https://lod.nal.usda.gov/nalt/17933,0.9,False,skos:related,EXCLUDE
+endocrine glands,,endocrine glands,https://lod.nal.usda.gov/nalt/4351,0.95,False,skos:broader; skos:narrower,EXCLUDE
+erythropoietin,,erythropoietin,https://lod.nal.usda.gov/nalt/28017,0.8,True,skos:broader; skos:narrower,EXCLUDE
+glycoproteins,,glycoproteins,https://lod.nal.usda.gov/nalt/12715,0.85,False,skos:related,EXCLUDE
+host-parasite relationships,host parasite relationships; host-parasite interactions; parasite host relationships; parasite-host interactions; parasite-host relationships,"host-parasite relationships (host parasite relationships, host-parasite interactions, parasite host relationships, parasite-host interactions, parasite-host relationships)",https://lod.nal.usda.gov/nalt/834,0.75,False,skos:related,EXCLUDE
+host-pathogen relationships,host pathogen relationships; host-pathogen interactions; pathogen host relationships; pathogen-host relationships; virus-host interactions,"host-pathogen relationships (host pathogen relationships, host-pathogen interactions, pathogen host relationships, pathogen-host relationships, virus-host interactions)",https://lod.nal.usda.gov/nalt/835,0.7,False,skos:related,EXCLUDE
+interferon regulatory factor-6,IRF-6 (interferon regulatory factor-6),interferon regulatory factor-6 (IRF-6 (interferon regulatory factor-6)),https://lod.nal.usda.gov/nalt/215231,0.8,False,skos:broader; skos:narrower,EXCLUDE
+lactoglobulins,,lactoglobulins,https://lod.nal.usda.gov/nalt/48946,0.9,False,skos:broader; skos:narrower,EXCLUDE
+leukocyte count,WBC count; WBC count (white blood cell count); WBC number; WBC number (white blood cell number); differential leucocyte count; differential leukocyte count; leucocyte count; leucocyte number; leukocyte number; white blood cell count; white blood cell number,"leukocyte count (WBC count, WBC count (white blood cell count), WBC number, WBC number (white blood cell number), differential leucocyte count, differential leukocyte count, leucocyte count, leucocyte number, leukocyte number, white blood cell count, white blood cell number)",https://lod.nal.usda.gov/nalt/18079,0.85,False,skos:related,EXCLUDE
+leukopenia,leukocytopenia,leukopenia (leukocytopenia),https://lod.nal.usda.gov/nalt/39763,0.95,False,skos:related,EXCLUDE
+lymphatic system,,lymphatic system,https://lod.nal.usda.gov/nalt/20541,0.95,False,skos:broader; skos:narrower,EXCLUDE
+molecular genetics,biochemical genetics,molecular genetics (biochemical genetics),https://lod.nal.usda.gov/nalt/7772,0.95,False,skos:broader; skos:narrower,EXCLUDE
+myoglobin,,myoglobin,https://lod.nal.usda.gov/nalt/43080,0.98,False,skos:broader; skos:narrower,EXCLUDE
+N'dama,,N'dama,https://lod.nal.usda.gov/nalt/23087,0.98,False,skos:related,EXCLUDE
+nasopharyngitis,,nasopharyngitis,https://lod.nal.usda.gov/nalt/229298,0.95,False,skos:related,EXCLUDE
+otitis,ear infections,otitis (ear infections),https://lod.nal.usda.gov/nalt/241511,0.95,False,skos:related,EXCLUDE
+pathological processes and conditions,,pathological processes and conditions,https://lod.nal.usda.gov/nalt/319,0.98,False,skos:broader; skos:narrower,EXCLUDE
+periodontitis,pericementitis,periodontitis (pericementitis),https://lod.nal.usda.gov/nalt/244088,0.95,False,skos:related,EXCLUDE
+plant diseases and disorders,plant diseases; plant disorders,"plant diseases and disorders (plant diseases, plant disorders)",https://lod.nal.usda.gov/nalt/15134,0.95,False,skos:related,EXCLUDE
+pleiotropy,,pleiotropy,https://lod.nal.usda.gov/nalt/53239,0.9,False,skos:related,EXCLUDE
+pleuropneumonia,pleural pneumonia,pleuropneumonia (pleural pneumonia),https://lod.nal.usda.gov/nalt/89119,0.95,False,skos:related,EXCLUDE
+pododermatitis,bumble foot; ulcerative pododermatitis,"pododermatitis (bumble foot, ulcerative pododermatitis)",https://lod.nal.usda.gov/nalt/89166,0.95,False,skos:related,EXCLUDE
+protein binding,,protein binding,https://lod.nal.usda.gov/nalt/17200,0.95,False,skos:related,EXCLUDE
+protein subunits,catalytic subunits; enzyme subunits; protein oligomers; protomers,"protein subunits (catalytic subunits, enzyme subunits, protein oligomers, protomers)",https://lod.nal.usda.gov/nalt/37498,0.95,False,skos:related,EXCLUDE
+simple proteins,,simple proteins,https://lod.nal.usda.gov/nalt/6032,0.95,False,skos:broader; skos:narrower,EXCLUDE
+sweetbreads,,sweetbreads,https://lod.nal.usda.gov/nalt/56065,0.95,False,skos:related,EXCLUDE
+thrombopoietin,megakaryocyte colony stimulating factor; megakaryocyte growth and development factor; myeloproliferative leukemia virus oncogene ligand; thrombocytopoiesis-stimulating factor; thrombocytopoietin,"thrombopoietin (megakaryocyte colony stimulating factor, megakaryocyte growth and development factor, myeloproliferative leukemia virus oncogene ligand, thrombocytopoiesis-stimulating factor, thrombocytopoietin)",https://lod.nal.usda.gov/nalt/216221,0.7,True,skos:broader; skos:narrower,EXCLUDE
+toxicity,,toxicity,https://lod.nal.usda.gov/nalt/3967,0.95,False,skos:related,EXCLUDE
+transcription factors,sequence-specific DNA-binding factors; transcription regulators; transcription termination factors; transcriptional factors; transcriptional regulators,"transcription factors (sequence-specific DNA-binding factors, transcription regulators, transcription termination factors, transcriptional factors, transcriptional regulators)",https://lod.nal.usda.gov/nalt/34250,0.95,False,skos:broader; skos:narrower,EXCLUDE
+Trypanosoma,trypanosomes,Trypanosoma (trypanosomes),https://lod.nal.usda.gov/nalt/66528,0.85,False,skos:related,EXCLUDE
+apoptosis,type 1 programmed cell death,apoptosis (type 1 programmed cell death),https://lod.nal.usda.gov/nalt/11242,0.9,False,skos:related,EXCLUDE
+CD29 antigen,CDw29 antigen; beta1 integrin; integrin beta1,"CD29 antigen (CDw29 antigen, beta1 integrin, integrin beta1)",https://lod.nal.usda.gov/nalt/211289,0.85,True,skos:broader; skos:narrower,EXCLUDE
+genes,cistron,genes (cistron),https://lod.nal.usda.gov/nalt/6539,0.95,False,skos:broader; skos:narrower,EXCLUDE
+growth factors,,growth factors,https://lod.nal.usda.gov/nalt/3937,0.85,False,skos:broader; skos:narrower,EXCLUDE
+honokiol,,honokiol,https://lod.nal.usda.gov/nalt/254967,0.9,False,skos:related,EXCLUDE
+hormones,animal hormones,hormones (animal hormones),https://lod.nal.usda.gov/nalt/517,0.95,False,skos:broader; skos:narrower,EXCLUDE
+medicinal properties,therapeutic properties,medicinal properties (therapeutic properties),https://lod.nal.usda.gov/nalt/8450,0.95,False,skos:broader; skos:narrower,EXCLUDE
+membrane proteins,gap junction proteins,membrane proteins (gap junction proteins),https://lod.nal.usda.gov/nalt/881,0.95,False,skos:broader; skos:narrower,EXCLUDE
+necrosis,necroses,necrosis (necroses),https://lod.nal.usda.gov/nalt/761,0.8,False,skos:related,EXCLUDE
+stem cell factor,Kit ligand,stem cell factor (Kit ligand),https://lod.nal.usda.gov/nalt/45058,0.75,False,skos:broader; skos:narrower,EXCLUDE
+taxis (physiology),,taxis (physiology),https://lod.nal.usda.gov/nalt/24726,0.9,False,skos:broader; skos:narrower,EXCLUDE
+transgenic resistance,,transgenic resistance,https://lod.nal.usda.gov/nalt/322625,0.9,False,skos:broader; skos:narrower,EXCLUDE
+antifungal properties,anti-yeast activity; antimycotic properties; fungicidal properties; fungistatic activity,"antifungal properties (anti-yeast activity, antimycotic properties, fungicidal properties, fungistatic activity)",https://lod.nal.usda.gov/nalt/10331,0.8,False,skos:related,EXCLUDE
+chitinase,EC 3.2.1.14,chitinase (EC 3.2.1.14),https://lod.nal.usda.gov/nalt/25210,0.7,False,skos:broader; skos:narrower,EXCLUDE
+"endo-1,3(4)-beta-glucanase","EC 3.2.1.6; beta-(1-3,1-4)glucanase; beta-1,3-1,4-glucanase; endo-1, 3(4)-beta-glucanase; endo-1,3(4)-β-glucanase; endo-1,3-1,4-beta-glucanase","endo-1,3(4)-beta-glucanase (EC 3.2.1.6, beta-(1-3,1-4)glucanase, beta-1,3-1,4-glucanase, endo-1, 3(4)-beta-glucanase, endo-1,3(4)-β-glucanase, endo-1,3-1,4-beta-glucanase)",https://lod.nal.usda.gov/nalt/16827,0.75,False,skos:broader; skos:narrower,EXCLUDE
+integrins,,integrins,https://lod.nal.usda.gov/nalt/47468,0.9,False,skos:broader; skos:narrower,EXCLUDE
+pathogenesis,,pathogenesis,https://lod.nal.usda.gov/nalt/765,0.9,False,skos:related,EXCLUDE
+peptide receptors,peptide hormone receptors,peptide receptors (peptide hormone receptors),https://lod.nal.usda.gov/nalt/223335,0.95,False,skos:broader; skos:narrower,EXCLUDE
+plant proteins,,plant proteins,https://lod.nal.usda.gov/nalt/889,0.95,False,skos:broader; skos:narrower,EXCLUDE
+thyroid hormone receptors,,thyroid hormone receptors,https://lod.nal.usda.gov/nalt/223584,0.95,False,skos:broader; skos:narrower,EXCLUDE
+transforming growth factor beta receptors,TGF-beta receptors,transforming growth factor beta receptors (TGF-beta receptors),https://lod.nal.usda.gov/nalt/295036,0.7,False,skos:broader; skos:narrower,EXCLUDE
+caspase-10,EC 3.4.22.63,caspase-10 (EC 3.4.22.63),https://lod.nal.usda.gov/nalt/136675,0.7,False,skos:broader; skos:narrower,EXCLUDE
+caspase-2,EC 3.4.22.55,caspase-2 (EC 3.4.22.55),https://lod.nal.usda.gov/nalt/136660,0.8,False,skos:broader; skos:narrower,EXCLUDE
+caspase-3,EC 3.4.22.56,caspase-3 (EC 3.4.22.56),https://lod.nal.usda.gov/nalt/136662,0.9,False,skos:broader; skos:narrower,EXCLUDE
+caspase-6,EC 3.4.22.59,caspase-6 (EC 3.4.22.59),https://lod.nal.usda.gov/nalt/136669,0.8,False,skos:broader; skos:narrower,EXCLUDE
+caspase-7,EC 3.4.22.60,caspase-7 (EC 3.4.22.60),https://lod.nal.usda.gov/nalt/136667,0.8,False,skos:broader; skos:narrower,EXCLUDE
+caspase-8,EC 3.4.22.61; FLICE protein,"caspase-8 (EC 3.4.22.61, FLICE protein)",https://lod.nal.usda.gov/nalt/136671,0.55,False,skos:broader; skos:narrower,EXCLUDE
+caspase-9,,caspase-9,https://lod.nal.usda.gov/nalt/136674,0.85,False,skos:broader; skos:narrower,EXCLUDE
+cysteine proteinases,EC 3.4.22; cysteine endopeptidases; cysteine proteases; thiol proteases; thiol proteinases; vacuolar processing enzymes,"cysteine proteinases (EC 3.4.22, cysteine endopeptidases, cysteine proteases, thiol proteases, thiol proteinases, vacuolar processing enzymes)",https://lod.nal.usda.gov/nalt/19947,0.9,False,skos:broader; skos:narrower,EXCLUDE
+G-protein coupled receptors,,G-protein coupled receptors,https://lod.nal.usda.gov/nalt/223311,0.95,False,skos:broader; skos:narrower,EXCLUDE
+multiprotein complexes,macromolecular protein complexes,multiprotein complexes (macromolecular protein complexes),https://lod.nal.usda.gov/nalt/146585,0.95,False,skos:broader; skos:narrower,EXCLUDE
+salicylates,,salicylates,https://lod.nal.usda.gov/nalt/52352,0.9,False,skos:related,EXCLUDE
+salicylic acids,,salicylic acids,https://lod.nal.usda.gov/nalt/13133,0.9,False,skos:broader; skos:narrower,EXCLUDE

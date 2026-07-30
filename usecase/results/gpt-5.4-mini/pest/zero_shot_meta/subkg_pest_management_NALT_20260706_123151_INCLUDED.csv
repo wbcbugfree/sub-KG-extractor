@@ -1,0 +1,1152 @@
+prefLabel,altLabels,displayName,uri,confidence,in_hierarchy_gold,relations,classification
+pest control,,pest control,https://lod.nal.usda.gov/nalt/291,1.0,True,,INCLUDE
+pesticides,,pesticides,https://lod.nal.usda.gov/nalt/287,1.0,True,,INCLUDE
+acaricides,miticides,acaricides (miticides),https://lod.nal.usda.gov/nalt/817,0.99,True,skos:broader; skos:narrower,INCLUDE
+adulticides,,adulticides,https://lod.nal.usda.gov/nalt/818,0.98,True,skos:broader; skos:narrower,INCLUDE
+algicides,algaecides,algicides (algaecides),https://lod.nal.usda.gov/nalt/819,0.99,True,skos:broader; skos:narrower,INCLUDE
+avicides,,avicides,https://lod.nal.usda.gov/nalt/820,0.98,True,skos:broader; skos:narrower,INCLUDE
+biocides,biocidal agents; biocidal compounds; biocidal products; biocidal substances,"biocides (biocidal agents, biocidal compounds, biocidal products, biocidal substances)",https://lod.nal.usda.gov/nalt/148552,0.95,False,skos:related,INCLUDE
+biological pest control,biological control of pests,biological pest control (biological control of pests),https://lod.nal.usda.gov/nalt/136198,0.99,True,skos:broader; skos:narrower,INCLUDE
+biopesticides,bio-based pesticides; biobased pesticides; biofungicides; bioherbicides; bioinsecticides; biological insecticides; biological pesticides; biorational pesticides; environmentally friendly pesticides; environmentally-friendly pesticides,"biopesticides (bio-based pesticides, biobased pesticides, biofungicides, bioherbicides, bioinsecticides, biological insecticides, biological pesticides, biorational pesticides, environmentally friendly pesticides, environmentally-friendly pesticides)",https://lod.nal.usda.gov/nalt/17220,0.99,True,skos:broader; skos:narrower,INCLUDE
+bird control,,bird control,https://lod.nal.usda.gov/nalt/17592,0.97,True,skos:broader; skos:narrower,INCLUDE
+carbamate pesticides,,carbamate pesticides,https://lod.nal.usda.gov/nalt/812,0.99,True,skos:broader; skos:narrower,INCLUDE
+chemical control,chemical treatment (disease); chemical treatment (pest),"chemical control (chemical treatment (disease), chemical treatment (pest))",https://lod.nal.usda.gov/nalt/24625,0.93,False,skos:related,INCLUDE
+chemosterilants,,chemosterilants,https://lod.nal.usda.gov/nalt/216949,0.99,True,skos:broader; skos:narrower,INCLUDE
+disinfestation,,disinfestation,https://lod.nal.usda.gov/nalt/28786,0.88,True,skos:broader; skos:narrower,INCLUDE
+foggers,cold foggers; fogging machines; thermal foggers,"foggers (cold foggers, fogging machines, thermal foggers)",https://lod.nal.usda.gov/nalt/284633,0.9,False,skos:related,INCLUDE
+fungicides,antifungal agents (pesticides); fungicidal agents (pesticides),"fungicides (antifungal agents (pesticides), fungicidal agents (pesticides))",https://lod.nal.usda.gov/nalt/821,0.99,True,skos:broader; skos:narrower,INCLUDE
+herbicides,weed killers,herbicides (weed killers),https://lod.nal.usda.gov/nalt/822,0.99,True,skos:broader; skos:narrower,INCLUDE
+insect control,insect pest management,insect control (insect pest management),https://lod.nal.usda.gov/nalt/45983,0.98,True,skos:broader; skos:narrower,INCLUDE
+insecticides,,insecticides,https://lod.nal.usda.gov/nalt/823,0.99,True,skos:broader; skos:narrower,INCLUDE
+Interregional Research Project 4 (IR-4),IR-4 Project; IR-4 program,"Interregional Research Project 4 (IR-4) (IR-4 Project, IR-4 program)",https://lod.nal.usda.gov/nalt/223614,0.91,False,skos:related,INCLUDE
+larvicides,,larvicides,https://lod.nal.usda.gov/nalt/824,0.99,True,skos:broader; skos:narrower,INCLUDE
+metam-potassium,metham-potassium; potassium N-methyldithiocarbamate; potassium methyldithiocarbamate,"metam-potassium (metham-potassium, potassium N-methyldithiocarbamate, potassium methyldithiocarbamate)",https://lod.nal.usda.gov/nalt/98255,0.93,True,skos:broader; skos:narrower,INCLUDE
+mite control,,mite control,https://lod.nal.usda.gov/nalt/53148,0.98,True,skos:broader; skos:narrower,INCLUDE
+mollusc control,control of slugs; control of snails,"mollusc control (control of slugs, control of snails)",https://lod.nal.usda.gov/nalt/53264,0.98,True,skos:broader; skos:narrower,INCLUDE
+molluscicides,,molluscicides,https://lod.nal.usda.gov/nalt/825,0.99,True,skos:broader; skos:narrower,INCLUDE
+nematicides,anti-nematodal agents; antinematodal agents; antinematodals; filaricides,"nematicides (anti-nematodal agents, antinematodal agents, antinematodals, filaricides)",https://lod.nal.usda.gov/nalt/826,0.99,True,skos:broader; skos:narrower,INCLUDE
+organochlorine pesticides,organic chlorine pesticides,organochlorine pesticides (organic chlorine pesticides),https://lod.nal.usda.gov/nalt/813,0.98,True,skos:broader; skos:narrower,INCLUDE
+organophosphorus pesticides,organophosphate pesticides,organophosphorus pesticides (organophosphate pesticides),https://lod.nal.usda.gov/nalt/814,0.98,True,skos:broader; skos:narrower,INCLUDE
+organotin pesticides,,organotin pesticides,https://lod.nal.usda.gov/nalt/815,0.98,True,skos:broader; skos:narrower,INCLUDE
+ovicides,,ovicides,https://lod.nal.usda.gov/nalt/827,0.97,True,skos:broader; skos:narrower,INCLUDE
+pest control equipment,,pest control equipment,https://lod.nal.usda.gov/nalt/386,0.83,False,skos:related,INCLUDE
+pesticide application equipment,,pesticide application equipment,https://lod.nal.usda.gov/nalt/142739,0.92,False,skos:related,INCLUDE
+pesticide formulations,insecticide formulations,pesticide formulations (insecticide formulations),https://lod.nal.usda.gov/nalt/4715,0.99,True,skos:broader; skos:narrower,INCLUDE
+pesticide safety and handling,,pesticide safety and handling,https://lod.nal.usda.gov/nalt/5593,0.97,False,skos:related,INCLUDE
+plant protection,crop protection; plant health protection,"plant protection (crop protection, plant health protection)",https://lod.nal.usda.gov/nalt/30154,0.84,False,skos:related,INCLUDE
+plant-incorporated protectants,PIPs (plant incorporated protectants); plant incorporated protectants,"plant-incorporated protectants (PIPs (plant incorporated protectants), plant incorporated protectants)",https://lod.nal.usda.gov/nalt/68395,0.99,False,skos:related,INCLUDE
+rodent control,,rodent control,https://lod.nal.usda.gov/nalt/57549,0.99,True,skos:broader; skos:narrower,INCLUDE
+rodenticides,rat poisons,rodenticides (rat poisons),https://lod.nal.usda.gov/nalt/828,0.99,True,skos:broader; skos:narrower,INCLUDE
+silvicides,,silvicides,https://lod.nal.usda.gov/nalt/306575,0.9,True,skos:broader; skos:narrower,INCLUDE
+slow-release pesticides,slow-release insecticides,slow-release pesticides (slow-release insecticides),https://lod.nal.usda.gov/nalt/270491,0.98,True,skos:broader; skos:narrower,INCLUDE
+soil drenching,soil drench; soil drenches,"soil drenching (soil drench, soil drenches)",https://lod.nal.usda.gov/nalt/24628,0.86,False,skos:related,INCLUDE
+soil treatment,application to soil; soil application,"soil treatment (application to soil, soil application)",https://lod.nal.usda.gov/nalt/11343,0.88,False,skos:related,INCLUDE
+stored product protection,stored products pest control,stored product protection (stored products pest control),https://lod.nal.usda.gov/nalt/57550,0.98,True,skos:broader; skos:narrower,INCLUDE
+tick control,,tick control,https://lod.nal.usda.gov/nalt/57551,0.98,True,skos:broader; skos:narrower,INCLUDE
+trap crops,,trap crops,https://lod.nal.usda.gov/nalt/30194,0.92,False,skos:related,INCLUDE
+vermin control,,vermin control,https://lod.nal.usda.gov/nalt/305662,0.97,True,skos:broader; skos:narrower,INCLUDE
+"1,3-dichloropropene",,"1,3-dichloropropene",https://lod.nal.usda.gov/nalt/1182,0.99,True,skos:broader; skos:narrower,INCLUDE
+acaricidal properties,,acaricidal properties,https://lod.nal.usda.gov/nalt/2070,0.89,False,skos:related,INCLUDE
+acaricide resistance,acaricide tolerance,acaricide resistance (acaricide tolerance),https://lod.nal.usda.gov/nalt/2077,0.97,False,skos:related,INCLUDE
+acrolein,acraldehyde; acrylaldehyde; acrylic aldehyde; aqualin,"acrolein (acraldehyde, acrylaldehyde, acrylic aldehyde, aqualin)",https://lod.nal.usda.gov/nalt/3103,0.95,True,skos:broader; skos:narrower,INCLUDE
+aldicarb,,aldicarb,https://lod.nal.usda.gov/nalt/6194,1.0,True,skos:broader; skos:narrower,INCLUDE
+aldicarb sulfoxide,,aldicarb sulfoxide,https://lod.nal.usda.gov/nalt/213661,0.98,True,skos:broader; skos:narrower,INCLUDE
+aldoxycarb,aldicarb sulfone,aldoxycarb (aldicarb sulfone),https://lod.nal.usda.gov/nalt/6225,0.98,True,skos:broader; skos:narrower,INCLUDE
+algae control,,algae control,https://lod.nal.usda.gov/nalt/289,0.95,False,skos:related,INCLUDE
+amide fungicides,,amide fungicides,https://lod.nal.usda.gov/nalt/327885,0.88,True,skos:broader; skos:narrower,INCLUDE
+amide herbicides,,amide herbicides,https://lod.nal.usda.gov/nalt/7661,0.94,True,skos:broader; skos:narrower,INCLUDE
+aminocarb,,aminocarb,https://lod.nal.usda.gov/nalt/7860,0.99,True,skos:broader; skos:narrower,INCLUDE
+aminocyclopyrachlor,,aminocyclopyrachlor,https://lod.nal.usda.gov/nalt/231129,0.96,False,skos:related,INCLUDE
+amitraz,,amitraz,https://lod.nal.usda.gov/nalt/2079,0.99,True,skos:broader; skos:narrower,INCLUDE
+ant control,,ant control,https://lod.nal.usda.gov/nalt/105332,0.98,True,skos:broader; skos:narrower,INCLUDE
+anticoagulant rodenticides,,anticoagulant rodenticides,https://lod.nal.usda.gov/nalt/340625,0.99,True,skos:broader; skos:narrower,INCLUDE
+antifungal agents,antifungal agents (drugs); antifungal drugs; antimycotics; fungicidal agents (drugs); fungistats,"antifungal agents (antifungal agents (drugs), antifungal drugs, antimycotics, fungicidal agents (drugs), fungistats)",https://lod.nal.usda.gov/nalt/8119,0.97,False,skos:related,INCLUDE
+antiparasitic agents,antiparasitic drugs; endectocides; parasiticides,"antiparasitic agents (antiparasitic drugs, endectocides, parasiticides)",https://lod.nal.usda.gov/nalt/4410,0.99,False,skos:related,INCLUDE
+application equipment,,application equipment,https://lod.nal.usda.gov/nalt/368,0.84,False,skos:broader; skos:narrower,INCLUDE
+application methods,,application methods,https://lod.nal.usda.gov/nalt/4605,0.84,False,skos:broader; skos:narrower,INCLUDE
+arboricides,,arboricides,https://lod.nal.usda.gov/nalt/300751,0.96,True,skos:broader; skos:narrower,INCLUDE
+aromatic acid herbicides,,aromatic acid herbicides,https://lod.nal.usda.gov/nalt/12289,0.92,True,skos:broader; skos:narrower,INCLUDE
+arsenical herbicides,,arsenical herbicides,https://lod.nal.usda.gov/nalt/12374,0.97,True,skos:broader; skos:narrower,INCLUDE
+azafenidin,,azafenidin,https://lod.nal.usda.gov/nalt/14292,0.99,True,skos:broader; skos:narrower,INCLUDE
+azocyclotin,,azocyclotin,https://lod.nal.usda.gov/nalt/14327,0.99,True,skos:broader; skos:narrower,INCLUDE
+baits,,baits,https://lod.nal.usda.gov/nalt/285,0.88,False,skos:related,INCLUDE
+bed nets,,bed nets,https://lod.nal.usda.gov/nalt/16256,0.9,False,skos:broader; skos:narrower,INCLUDE
+bendiocarb,,bendiocarb,https://lod.nal.usda.gov/nalt/16570,0.99,True,skos:broader; skos:narrower,INCLUDE
+benfuracarb,,benfuracarb,https://lod.nal.usda.gov/nalt/16602,0.98,True,skos:broader; skos:narrower,INCLUDE
+benodanil,,benodanil,https://lod.nal.usda.gov/nalt/16622,0.93,True,skos:broader; skos:narrower,INCLUDE
+benomyl,,benomyl,https://lod.nal.usda.gov/nalt/16623,0.99,True,skos:broader; skos:narrower,INCLUDE
+bentazon,bentazone,bentazon (bentazone),https://lod.nal.usda.gov/nalt/16629,0.98,True,skos:broader; skos:narrower,INCLUDE
+benzimidazole fungicides,,benzimidazole fungicides,https://lod.nal.usda.gov/nalt/16650,0.99,True,skos:broader; skos:narrower,INCLUDE
+benzofuranyl alkylsulfonate herbicides,,benzofuranyl alkylsulfonate herbicides,https://lod.nal.usda.gov/nalt/125100,0.99,True,skos:broader; skos:narrower,INCLUDE
+benzoylcyclohexanedione herbicides,,benzoylcyclohexanedione herbicides,https://lod.nal.usda.gov/nalt/125096,0.99,True,skos:broader; skos:narrower,INCLUDE
+benzyl benzoate,,benzyl benzoate,https://lod.nal.usda.gov/nalt/2080,0.97,True,skos:broader; skos:narrower,INCLUDE
+bifenazate,,bifenazate,https://lod.nal.usda.gov/nalt/213720,0.99,True,skos:broader; skos:narrower,INCLUDE
+biological control,bio-based control; biobased control; biocontrol; parasitoid augmentation; predator augmentation,"biological control (bio-based control, biobased control, biocontrol, parasitoid augmentation, predator augmentation)",https://lod.nal.usda.gov/nalt/13836,0.94,False,skos:related,INCLUDE
+biological insect control,biological control of insects,biological insect control (biological control of insects),https://lod.nal.usda.gov/nalt/276208,0.98,True,skos:broader; skos:narrower,INCLUDE
+biological weed control,biological control of weeds,biological weed control (biological control of weeds),https://lod.nal.usda.gov/nalt/142695,0.97,True,skos:broader; skos:narrower,INCLUDE
+bispyribac-sodium,"sodium 2,6-bis((4,6-dimethoxy-2-pyrimidinyl)oxy)benzoate; sodium 2,6-bis(4,6-dimethoxypyrimidin-2-yloxy)benzoate","bispyribac-sodium (sodium 2,6-bis((4,6-dimethoxy-2-pyrimidinyl)oxy)benzoate, sodium 2,6-bis(4,6-dimethoxypyrimidin-2-yloxy)benzoate)",https://lod.nal.usda.gov/nalt/265258,0.99,True,skos:broader; skos:narrower,INCLUDE
+blasticidin S,blasticidin S hydrochloride; blasticidin-S,"blasticidin S (blasticidin S hydrochloride, blasticidin-S)",https://lod.nal.usda.gov/nalt/10192,0.98,True,skos:broader; skos:narrower,INCLUDE
+boscalid,,boscalid,https://lod.nal.usda.gov/nalt/189906,0.99,True,skos:broader; skos:narrower,INCLUDE
+botanical insecticides,plant-based insecticides,botanical insecticides (plant-based insecticides),https://lod.nal.usda.gov/nalt/18787,0.98,True,skos:broader; skos:narrower,INCLUDE
+botanical pesticides,,botanical pesticides,https://lod.nal.usda.gov/nalt/17496,0.99,True,skos:broader; skos:narrower,INCLUDE
+bromopropylate,,bromopropylate,https://lod.nal.usda.gov/nalt/2081,0.99,True,skos:broader; skos:narrower,INCLUDE
+buthidazole,,buthidazole,https://lod.nal.usda.gov/nalt/20614,0.9,True,skos:broader; skos:narrower,INCLUDE
+butylate,,butylate,https://lod.nal.usda.gov/nalt/20656,0.87,True,skos:broader; skos:narrower,INCLUDE
+calcium polysulfide,calcium polysulphide,calcium polysulfide (calcium polysulphide),https://lod.nal.usda.gov/nalt/21129,0.98,True,skos:broader; skos:narrower,INCLUDE
+cambendichlor,,cambendichlor,https://lod.nal.usda.gov/nalt/21505,0.98,True,skos:broader; skos:narrower,INCLUDE
+carbamate fungicides,,carbamate fungicides,https://lod.nal.usda.gov/nalt/190787,0.95,True,skos:broader; skos:narrower,INCLUDE
+carbamate herbicides,,carbamate herbicides,https://lod.nal.usda.gov/nalt/125102,0.99,True,skos:broader; skos:narrower,INCLUDE
+carbamates,,carbamates,https://lod.nal.usda.gov/nalt/16624,0.93,False,skos:broader; skos:narrower,INCLUDE
+carbaryl,,carbaryl,https://lod.nal.usda.gov/nalt/10497,1.0,True,skos:broader; skos:narrower,INCLUDE
+carbofuran,,carbofuran,https://lod.nal.usda.gov/nalt/22154,1.0,True,skos:broader; skos:narrower,INCLUDE
+carbosulfan,,carbosulfan,https://lod.nal.usda.gov/nalt/22155,1.0,True,skos:broader; skos:narrower,INCLUDE
+carboxin,,carboxin,https://lod.nal.usda.gov/nalt/22269,0.99,True,skos:broader; skos:narrower,INCLUDE
+chemical weed control,chemical weed management,chemical weed control (chemical weed management),https://lod.nal.usda.gov/nalt/255907,0.98,False,skos:related,INCLUDE
+chitin synthesis inhibitors,,chitin synthesis inhibitors,https://lod.nal.usda.gov/nalt/16672,0.99,False,skos:related,INCLUDE
+chlopropham,,chlopropham,https://lod.nal.usda.gov/nalt/22156,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlorfenapyr,,chlorfenapyr,https://lod.nal.usda.gov/nalt/25315,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlorinated hydrocarbons,organochlorines,chlorinated hydrocarbons (organochlorines),https://lod.nal.usda.gov/nalt/22231,0.97,False,skos:related,INCLUDE
+chloroneb,,chloroneb,https://lod.nal.usda.gov/nalt/25429,0.84,True,skos:broader; skos:narrower,INCLUDE
+chloropicrin,trichloronitromethane,chloropicrin (trichloronitromethane),https://lod.nal.usda.gov/nalt/25464,0.97,True,skos:broader; skos:narrower,INCLUDE
+chlorothalonil,,chlorothalonil,https://lod.nal.usda.gov/nalt/25490,0.99,True,skos:broader; skos:narrower,INCLUDE
+cinmethylin,,cinmethylin,https://lod.nal.usda.gov/nalt/26325,0.74,True,skos:broader; skos:narrower,INCLUDE
+cloethocarb,,cloethocarb,https://lod.nal.usda.gov/nalt/22157,0.76,True,skos:broader; skos:narrower,INCLUDE
+clofentezine,,clofentezine,https://lod.nal.usda.gov/nalt/2084,0.99,True,skos:broader; skos:narrower,INCLUDE
+conazole fungicides,,conazole fungicides,https://lod.nal.usda.gov/nalt/14330,0.97,True,skos:broader; skos:narrower,INCLUDE
+control methods,control measures; control methodology; control practices; disease control methods; pest control methods,"control methods (control measures, control methodology, control practices, disease control methods, pest control methods)",https://lod.nal.usda.gov/nalt/10302,0.98,False,skos:broader; skos:narrower,INCLUDE
+CPMF (herbicide),"1-chloro-N-(3,4-dichlorophenyl)-N,N-dimethylformamidine; 1-chloro-N-(3,4-dichlorophenyl)-N,N-dimethylmethanimidamide","CPMF (herbicide) (1-chloro-N-(3,4-dichlorophenyl)-N,N-dimethylformamidine, 1-chloro-N-(3,4-dichlorophenyl)-N,N-dimethylmethanimidamide)",https://lod.nal.usda.gov/nalt/1200,0.93,True,skos:broader; skos:narrower,INCLUDE
+cryolite,,cryolite,https://lod.nal.usda.gov/nalt/30333,0.98,True,skos:broader; skos:narrower,INCLUDE
+cyantraniliprole,,cyantraniliprole,https://lod.nal.usda.gov/nalt/284486,0.99,True,skos:broader; skos:narrower,INCLUDE
+cycloate,,cycloate,https://lod.nal.usda.gov/nalt/22158,0.98,True,skos:broader; skos:narrower,INCLUDE
+cyclohexene oxime herbicides,,cyclohexene oxime herbicides,https://lod.nal.usda.gov/nalt/31058,0.97,True,skos:broader; skos:narrower,INCLUDE
+cyclopropylisoxazole herbicides,,cyclopropylisoxazole herbicides,https://lod.nal.usda.gov/nalt/125104,0.97,True,skos:broader; skos:narrower,INCLUDE
+cyhexatin,,cyhexatin,https://lod.nal.usda.gov/nalt/2086,0.98,True,skos:broader; skos:narrower,INCLUDE
+cymoxanil,,cymoxanil,https://lod.nal.usda.gov/nalt/31185,0.98,True,skos:broader; skos:narrower,INCLUDE
+cyprodinil,,cyprodinil,https://lod.nal.usda.gov/nalt/31285,0.98,True,skos:broader; skos:narrower,INCLUDE
+dazomet,,dazomet,https://lod.nal.usda.gov/nalt/31843,0.99,True,skos:broader; skos:narrower,INCLUDE
+DBCP (pesticide),"1,2-dibromo-3-chloropropane; dibromochloropropane","DBCP (pesticide) (1,2-dibromo-3-chloropropane, dibromochloropropane)",https://lod.nal.usda.gov/nalt/1161,0.99,True,skos:broader; skos:narrower,INCLUDE
+DCB (herbicide),"1,2-dichlorobenzene; o-dichlorobenzene","DCB (herbicide) (1,2-dichlorobenzene, o-dichlorobenzene)",https://lod.nal.usda.gov/nalt/1163,0.91,True,skos:broader; skos:narrower,INCLUDE
+DDT (pesticide),"1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane; 2,4'-DDT; benzochloryl; dichlorodiphenyltrichloroethane; o,p'-DDT; p,p'-DDT","DDT (pesticide) (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane, 2,4'-DDT, benzochloryl, dichlorodiphenyltrichloroethane, o,p'-DDT, p,p'-DDT)",https://lod.nal.usda.gov/nalt/1154,0.99,True,skos:broader; skos:narrower,INCLUDE
+defoliants,chemical defoliation,defoliants (chemical defoliation),https://lod.nal.usda.gov/nalt/218,0.94,False,skos:related,INCLUDE
+desiccant herbicides,,desiccant herbicides,https://lod.nal.usda.gov/nalt/302060,0.96,True,skos:broader; skos:narrower,INCLUDE
+dicarboximide fungicides,,dicarboximide fungicides,https://lod.nal.usda.gov/nalt/22087,0.97,True,skos:broader; skos:narrower,INCLUDE
+dichlofluanid,,dichlofluanid,https://lod.nal.usda.gov/nalt/33213,0.96,True,skos:broader; skos:narrower,INCLUDE
+dichlone,,dichlone,https://lod.nal.usda.gov/nalt/33214,0.95,True,skos:broader; skos:narrower,INCLUDE
+dicloran,,dicloran,https://lod.nal.usda.gov/nalt/33228,0.98,True,skos:broader; skos:narrower,INCLUDE
+dicofol,kelthane (trademark),dicofol (kelthane (trademark)),https://lod.nal.usda.gov/nalt/2087,0.99,True,skos:broader; skos:narrower,INCLUDE
+dinitroaniline herbicides,,dinitroaniline herbicides,https://lod.nal.usda.gov/nalt/33696,0.97,True,skos:broader; skos:narrower,INCLUDE
+dinitrophenol herbicides,,dinitrophenol herbicides,https://lod.nal.usda.gov/nalt/125109,0.98,True,skos:broader; skos:narrower,INCLUDE
+dinocap,,dinocap,https://lod.nal.usda.gov/nalt/2088,0.99,True,skos:broader; skos:narrower,INCLUDE
+diphenyl ether herbicides,,diphenyl ether herbicides,https://lod.nal.usda.gov/nalt/125114,0.98,True,skos:broader; skos:narrower,INCLUDE
+disease control,disease management; disease suppression; infection control; pathogen suppression,"disease control (disease management, disease suppression, infection control, pathogen suppression)",https://lod.nal.usda.gov/nalt/290,0.9,False,skos:related,INCLUDE
+disinfectants,disinfecting agents; germicides; microbicides; microbiocides; sporicides,"disinfectants (disinfecting agents, germicides, microbicides, microbiocides, sporicides)",https://lod.nal.usda.gov/nalt/221,0.96,False,skos:broader; skos:narrower,INCLUDE
+disodium octaborate,disodium octaborate tetrahydrate,disodium octaborate (disodium octaborate tetrahydrate),https://lod.nal.usda.gov/nalt/18624,0.97,False,skos:related,INCLUDE
+disulfoton sulfoxide,,disulfoton sulfoxide,https://lod.nal.usda.gov/nalt/213683,0.99,True,skos:broader; skos:narrower,INCLUDE
+dithianon,,dithianon,https://lod.nal.usda.gov/nalt/34130,0.99,True,skos:broader; skos:narrower,INCLUDE
+dithiocarbamate fungicides,,dithiocarbamate fungicides,https://lod.nal.usda.gov/nalt/34131,0.99,True,skos:broader; skos:narrower,INCLUDE
+dithiocarbamate herbicides,,dithiocarbamate herbicides,https://lod.nal.usda.gov/nalt/125118,0.98,True,skos:broader; skos:narrower,INCLUDE
+DNOC (pesticide),"2-methyl-4,6-dinitrophenol; 4,6-dinitro-o-cresol","DNOC (pesticide) (2-methyl-4,6-dinitrophenol, 4,6-dinitro-o-cresol)",https://lod.nal.usda.gov/nalt/1394,0.99,True,skos:broader; skos:narrower,INCLUDE
+dodine,,dodine,https://lod.nal.usda.gov/nalt/34281,0.98,True,skos:broader; skos:narrower,INCLUDE
+dust formulations,,dust formulations,https://lod.nal.usda.gov/nalt/587,0.97,False,skos:related,INCLUDE
+edifenphos,,edifenphos,https://lod.nal.usda.gov/nalt/35867,0.98,True,skos:broader; skos:narrower,INCLUDE
+emulsifiable concentrates,,emulsifiable concentrates,https://lod.nal.usda.gov/nalt/28462,0.96,False,skos:related,INCLUDE
+endothal,,endothal,https://lod.nal.usda.gov/nalt/37083,0.98,True,skos:broader; skos:narrower,INCLUDE
+endothal-sodium,,endothal-sodium,https://lod.nal.usda.gov/nalt/37084,0.98,True,skos:broader; skos:narrower,INCLUDE
+endrin,,endrin,https://lod.nal.usda.gov/nalt/14209,0.98,True,skos:broader; skos:narrower,INCLUDE
+epoxiconazole,epoxiconazol; epoxyconazole,"epoxiconazole (epoxiconazol, epoxyconazole)",https://lod.nal.usda.gov/nalt/213715,0.92,True,skos:broader; skos:narrower,INCLUDE
+EPTC (herbicide),S-ethyl dipropylcarbamothioate; S-ethyl dipropylthiocarbamate,"EPTC (herbicide) (S-ethyl dipropylcarbamothioate, S-ethyl dipropylthiocarbamate)",https://lod.nal.usda.gov/nalt/22161,0.99,True,skos:broader; skos:narrower,INCLUDE
+ethiofencarb,,ethiofencarb,https://lod.nal.usda.gov/nalt/22162,0.97,True,skos:broader; skos:narrower,INCLUDE
+etoxazole,,etoxazole,https://lod.nal.usda.gov/nalt/213721,0.99,True,skos:broader; skos:narrower,INCLUDE
+fenamiphos sulfone,,fenamiphos sulfone,https://lod.nal.usda.gov/nalt/213691,0.93,True,skos:broader; skos:narrower,INCLUDE
+fenamiphos sulfoxide,,fenamiphos sulfoxide,https://lod.nal.usda.gov/nalt/213692,0.93,True,skos:broader; skos:narrower,INCLUDE
+fenbuconazole,,fenbuconazole,https://lod.nal.usda.gov/nalt/213722,0.95,True,skos:broader; skos:narrower,INCLUDE
+fenbutatin,,fenbutatin,https://lod.nal.usda.gov/nalt/2089,0.96,True,skos:broader; skos:narrower,INCLUDE
+fenbutatin oxide,,fenbutatin oxide,https://lod.nal.usda.gov/nalt/2090,0.98,True,skos:broader; skos:narrower,INCLUDE
+fenhexamid,,fenhexamid,https://lod.nal.usda.gov/nalt/189907,0.94,True,skos:broader; skos:narrower,INCLUDE
+fenpyroximate,,fenpyroximate,https://lod.nal.usda.gov/nalt/2091,0.98,True,skos:broader; skos:narrower,INCLUDE
+fenthion,,fenthion,https://lod.nal.usda.gov/nalt/14210,0.99,True,skos:broader; skos:narrower,INCLUDE
+fenthion sulfone,,fenthion sulfone,https://lod.nal.usda.gov/nalt/213682,0.97,True,skos:broader; skos:narrower,INCLUDE
+fentin acetate,,fentin acetate,https://lod.nal.usda.gov/nalt/39838,0.95,True,skos:broader; skos:narrower,INCLUDE
+fentin hydroxide,triphenyltin hydroxide; triphenyltin oxide,"fentin hydroxide (triphenyltin hydroxide, triphenyltin oxide)",https://lod.nal.usda.gov/nalt/39839,0.95,True,skos:broader; skos:narrower,INCLUDE
+ferbam,,ferbam,https://lod.nal.usda.gov/nalt/22163,0.99,True,skos:broader; skos:narrower,INCLUDE
+fipronil,,fipronil,https://lod.nal.usda.gov/nalt/2092,1.0,True,skos:broader; skos:narrower,INCLUDE
+flea collars,,flea collars,https://lod.nal.usda.gov/nalt/27903,0.9,False,skos:broader; skos:narrower,INCLUDE
+flea control,,flea control,https://lod.nal.usda.gov/nalt/67834,0.99,True,skos:broader; skos:narrower,INCLUDE
+fludioxonil,,fludioxonil,https://lod.nal.usda.gov/nalt/190789,0.88,True,skos:broader; skos:narrower,INCLUDE
+flufenoxuron,,flufenoxuron,https://lod.nal.usda.gov/nalt/2093,0.95,True,skos:broader; skos:narrower,INCLUDE
+fluoroacetic acid,monofluoroacetate; monofluoroacetic acid,"fluoroacetic acid (monofluoroacetate, monofluoroacetic acid)",https://lod.nal.usda.gov/nalt/40727,0.95,False,skos:related,INCLUDE
+fluorochloridone,,fluorochloridone,https://lod.nal.usda.gov/nalt/40728,0.96,True,skos:broader; skos:narrower,INCLUDE
+fluridone,,fluridone,https://lod.nal.usda.gov/nalt/40734,0.98,True,skos:broader; skos:narrower,INCLUDE
+fluroxypyr 1-methylheptyl ester,,fluroxypyr 1-methylheptyl ester,https://lod.nal.usda.gov/nalt/213731,0.93,True,skos:broader; skos:narrower,INCLUDE
+flurtamone,,flurtamone,https://lod.nal.usda.gov/nalt/40736,0.96,True,skos:broader; skos:narrower,INCLUDE
+fluthiacet methyl,,fluthiacet methyl,https://lod.nal.usda.gov/nalt/213704,0.96,True,skos:broader; skos:narrower,INCLUDE
+flutolanil,,flutolanil,https://lod.nal.usda.gov/nalt/40737,0.98,True,skos:broader; skos:narrower,INCLUDE
+formetanate,,formetanate,https://lod.nal.usda.gov/nalt/2094,0.95,True,skos:broader; skos:narrower,INCLUDE
+formetanate hydrochloride,,formetanate hydrochloride,https://lod.nal.usda.gov/nalt/213690,0.99,True,skos:broader; skos:narrower,INCLUDE
+fumigant insecticides,,fumigant insecticides,https://lod.nal.usda.gov/nalt/41749,0.99,True,skos:broader; skos:narrower,INCLUDE
+fumigants,fumigation agents,fumigants (fumigation agents),https://lod.nal.usda.gov/nalt/593,0.98,False,skos:related,INCLUDE
+fungicide application,,fungicide application,https://lod.nal.usda.gov/nalt/81153,0.96,True,skos:related,INCLUDE
+fungicide resistance,fungicide susceptibility; fungicide tolerance; resistance to fungicides; susceptibility to fungicides,"fungicide resistance (fungicide susceptibility, fungicide tolerance, resistance to fungicides, susceptibility to fungicides)",https://lod.nal.usda.gov/nalt/41847,0.98,False,skos:related,INCLUDE
+fungicide use reduction,fungicide reduction; fungicide usage reduction,"fungicide use reduction (fungicide reduction, fungicide usage reduction)",https://lod.nal.usda.gov/nalt/298654,0.9,False,skos:related,INCLUDE
+furathiocarb,,furathiocarb,https://lod.nal.usda.gov/nalt/22164,0.99,True,skos:broader; skos:narrower,INCLUDE
+furilazole,,furilazole,https://lod.nal.usda.gov/nalt/213723,0.95,True,skos:broader; skos:narrower,INCLUDE
+guazatine,,guazatine,https://lod.nal.usda.gov/nalt/41849,0.95,True,skos:broader; skos:narrower,INCLUDE
+halogenated aliphatic herbicides,,halogenated aliphatic herbicides,https://lod.nal.usda.gov/nalt/125119,0.98,True,skos:broader; skos:narrower,INCLUDE
+halosulfuron methyl,,halosulfuron methyl,https://lod.nal.usda.gov/nalt/213737,0.99,True,skos:broader; skos:narrower,INCLUDE
+HCH (pesticide),alpha-BHC; alpha-HCH; alpha-hexachlorocyclohexane; beta-BHC; beta-hexachlorocyclohexane; delta-hexachlorocyclohexane; hexachlorocyclohexane,"HCH (pesticide) (alpha-BHC, alpha-HCH, alpha-hexachlorocyclohexane, beta-BHC, beta-hexachlorocyclohexane, delta-hexachlorocyclohexane, hexachlorocyclohexane)",https://lod.nal.usda.gov/nalt/44715,0.99,True,skos:broader; skos:narrower,INCLUDE
+heptachlor epoxide,,heptachlor epoxide,https://lod.nal.usda.gov/nalt/213677,0.99,True,skos:broader; skos:narrower,INCLUDE
+herbicidal properties,herbicide activity; herbicide properties; herbicide property,"herbicidal properties (herbicide activity, herbicide properties, herbicide property)",https://lod.nal.usda.gov/nalt/45181,0.97,False,skos:related,INCLUDE
+herbicide metabolites,,herbicide metabolites,https://lod.nal.usda.gov/nalt/324607,0.94,False,skos:related,INCLUDE
+herbicide mixtures,,herbicide mixtures,https://lod.nal.usda.gov/nalt/302453,0.98,True,skos:broader; skos:narrower,INCLUDE
+herbicide safeners,herbicide antagonists; herbicide antidotes,"herbicide safeners (herbicide antagonists, herbicide antidotes)",https://lod.nal.usda.gov/nalt/123142,0.97,False,skos:related,INCLUDE
+herbicide use reduction,herbicide reduction; herbicide usage reduction,"herbicide use reduction (herbicide reduction, herbicide usage reduction)",https://lod.nal.usda.gov/nalt/322534,0.89,False,skos:related,INCLUDE
+hexythiazox,,hexythiazox,https://lod.nal.usda.gov/nalt/2095,0.95,True,skos:broader; skos:narrower,INCLUDE
+horticultural oils,horticultural mineral oils; horticultural oil,"horticultural oils (horticultural mineral oils, horticultural oil)",https://lod.nal.usda.gov/nalt/17497,0.98,True,skos:related,INCLUDE
+hydramethylnon,,hydramethylnon,https://lod.nal.usda.gov/nalt/46253,0.99,True,skos:broader; skos:narrower,INCLUDE
+hymexazol,,hymexazol,https://lod.nal.usda.gov/nalt/41851,0.9,True,skos:broader; skos:narrower,INCLUDE
+imidazole fungicides,,imidazole fungicides,https://lod.nal.usda.gov/nalt/28456,0.93,True,skos:broader; skos:narrower,INCLUDE
+imidazolinone herbicides,,imidazolinone herbicides,https://lod.nal.usda.gov/nalt/45203,0.99,True,skos:broader; skos:narrower,INCLUDE
+indoxacarb,indoxycarb,indoxacarb (indoxycarb),https://lod.nal.usda.gov/nalt/47195,0.99,True,skos:broader; skos:narrower,INCLUDE
+inorganic herbicides,,inorganic herbicides,https://lod.nal.usda.gov/nalt/125125,0.94,True,skos:broader; skos:narrower,INCLUDE
+insect attractants,,insect attractants,https://lod.nal.usda.gov/nalt/13781,0.97,False,skos:related,INCLUDE
+insect growth regulators,,insect growth regulators,https://lod.nal.usda.gov/nalt/17498,0.98,False,skos:related,INCLUDE
+insecticidal properties,insecticidal action; insecticide action; insecticide activity; insecticide properties; insecticide property,"insecticidal properties (insecticidal action, insecticide action, insecticide activity, insecticide properties, insecticide property)",https://lod.nal.usda.gov/nalt/47422,0.99,False,skos:related,INCLUDE
+insecticidal proteins,,insecticidal proteins,https://lod.nal.usda.gov/nalt/880,0.98,False,skos:related,INCLUDE
+insecticidal soaps,insecticidal soap,insecticidal soaps (insecticidal soap),https://lod.nal.usda.gov/nalt/17499,0.99,True,skos:broader; skos:narrower,INCLUDE
+insecticide residues,,insecticide residues,https://lod.nal.usda.gov/nalt/47425,0.91,False,skos:related,INCLUDE
+insecticide resistance,insecticide susceptibility; susceptibility to insecticides,"insecticide resistance (insecticide susceptibility, susceptibility to insecticides)",https://lod.nal.usda.gov/nalt/47427,0.97,False,skos:related,INCLUDE
+integrated pest management,'push-pull' strategy; IPM (integrated pest management),"integrated pest management ('push-pull' strategy, IPM (integrated pest management))",https://lod.nal.usda.gov/nalt/17501,0.98,True,skos:related,INCLUDE
+isoprothiolane,,isoprothiolane,https://lod.nal.usda.gov/nalt/41852,0.78,True,skos:broader; skos:narrower,INCLUDE
+kresoxim-methyl,,kresoxim-methyl,https://lod.nal.usda.gov/nalt/213711,0.77,True,skos:broader; skos:narrower,INCLUDE
+lice infestations,louse infestations,lice infestations (louse infestations),https://lod.nal.usda.gov/nalt/50002,0.95,False,skos:related,INCLUDE
+lindane,"1,2,3,4,5,6-hexachlorocyclohexane; gamma BHC (lindane); gamma-HCH; gamma-benzene hexachloride; gamma-hexachlorocyclohexane","lindane (1,2,3,4,5,6-hexachlorocyclohexane, gamma BHC (lindane), gamma-HCH, gamma-benzene hexachloride, gamma-hexachlorocyclohexane)",https://lod.nal.usda.gov/nalt/2096,0.99,True,skos:broader; skos:narrower,INCLUDE
+louse control,lice control,louse control (lice control),https://lod.nal.usda.gov/nalt/69323,0.99,True,skos:broader; skos:narrower,INCLUDE
+mancozeb,,mancozeb,https://lod.nal.usda.gov/nalt/22165,0.98,True,skos:broader; skos:narrower,INCLUDE
+maneb,manganese ethylenebisdithiocarbamate,maneb (manganese ethylenebisdithiocarbamate),https://lod.nal.usda.gov/nalt/22166,0.98,True,skos:broader; skos:narrower,INCLUDE
+mating disruption,,mating disruption,https://lod.nal.usda.gov/nalt/34069,0.92,True,skos:broader; skos:narrower,INCLUDE
+mepanipyrim,,mepanipyrim,https://lod.nal.usda.gov/nalt/213741,0.89,True,skos:broader; skos:narrower,INCLUDE
+mercury fungicides,,mercury fungicides,https://lod.nal.usda.gov/nalt/41853,0.93,True,skos:broader; skos:narrower,INCLUDE
+metaflumizone,,metaflumizone,https://lod.nal.usda.gov/nalt/123096,0.97,True,skos:broader; skos:narrower,INCLUDE
+metam,carbathione; iron methyldithiocarbamate; metam-sodium; metham; metham-sodium; methylcarbamodithioic acid; methyldithiocarbamate; methyldithiocarbamic acid; sodium methyldithiocarbamate; vapam,"metam (carbathione, iron methyldithiocarbamate, metam-sodium, metham, metham-sodium, methylcarbamodithioic acid, methyldithiocarbamate, methyldithiocarbamic acid, sodium methyldithiocarbamate, vapam)",https://lod.nal.usda.gov/nalt/52246,0.99,True,skos:broader; skos:narrower,INCLUDE
+methomyl,,methomyl,https://lod.nal.usda.gov/nalt/22167,0.99,True,skos:broader; skos:narrower,INCLUDE
+methyl bromide,,methyl bromide,https://lod.nal.usda.gov/nalt/41855,0.98,True,skos:broader; skos:narrower,INCLUDE
+methyl isothiocyanate,,methyl isothiocyanate,https://lod.nal.usda.gov/nalt/41856,0.96,True,skos:broader; skos:narrower,INCLUDE
+metiram,,metiram,https://lod.nal.usda.gov/nalt/22168,0.97,True,skos:broader; skos:narrower,INCLUDE
+mexacarbate,,mexacarbate,https://lod.nal.usda.gov/nalt/22169,0.98,True,skos:broader; skos:narrower,INCLUDE
+microbial insecticides,,microbial insecticides,https://lod.nal.usda.gov/nalt/15184,0.98,True,skos:broader; skos:narrower,INCLUDE
+microbial pesticides,,microbial pesticides,https://lod.nal.usda.gov/nalt/17500,0.99,True,skos:broader; skos:narrower,INCLUDE
+milbemycins,,milbemycins,https://lod.nal.usda.gov/nalt/2097,0.93,True,skos:broader; skos:narrower,INCLUDE
+morpholine fungicides,,morpholine fungicides,https://lod.nal.usda.gov/nalt/34280,0.95,True,skos:broader; skos:narrower,INCLUDE
+mosquito control,,mosquito control,https://lod.nal.usda.gov/nalt/47371,0.97,True,skos:broader; skos:narrower,INCLUDE
+mosquito nets,mosquito netting,mosquito nets (mosquito netting),https://lod.nal.usda.gov/nalt/53511,0.9,False,skos:broader; skos:narrower,INCLUDE
+mycoherbicides,,mycoherbicides,https://lod.nal.usda.gov/nalt/45182,0.98,True,skos:broader; skos:narrower,INCLUDE
+nematode control,,nematode control,https://lod.nal.usda.gov/nalt/9380,0.96,False,skos:related,INCLUDE
+neonicotinoid insecticides,neonicotinoids; nicotinoid insecticides; nicotinoids,"neonicotinoid insecticides (neonicotinoids, nicotinoid insecticides, nicotinoids)",https://lod.nal.usda.gov/nalt/132372,0.99,True,skos:broader; skos:narrower,INCLUDE
+nitrile herbicides,,nitrile herbicides,https://lod.nal.usda.gov/nalt/45231,0.91,True,skos:broader; skos:narrower,INCLUDE
+o-phenylphenol,ortho-phenylphenol,o-phenylphenol (ortho-phenylphenol),https://lod.nal.usda.gov/nalt/213675,0.96,True,skos:broader; skos:narrower,INCLUDE
+OCH (pesticide),octachloro-2-cyclohexen-1-one; octachlorocyclohexenone; perchlorocyclohex-2-en-1-one,"OCH (pesticide) (octachloro-2-cyclohexen-1-one, octachlorocyclohexenone, perchlorocyclohex-2-en-1-one)",https://lod.nal.usda.gov/nalt/41857,0.99,True,skos:broader; skos:narrower,INCLUDE
+organochlorine insecticides,,organochlorine insecticides,https://lod.nal.usda.gov/nalt/31048,0.99,True,skos:broader; skos:narrower,INCLUDE
+organophosphorus acaricides,,organophosphorus acaricides,https://lod.nal.usda.gov/nalt/2098,0.98,True,skos:broader; skos:narrower,INCLUDE
+organophosphorus fungicides,,organophosphorus fungicides,https://lod.nal.usda.gov/nalt/327889,0.98,True,skos:broader; skos:narrower,INCLUDE
+organophosphorus herbicides,,organophosphorus herbicides,https://lod.nal.usda.gov/nalt/7895,0.98,True,skos:broader; skos:narrower,INCLUDE
+organophosphorus insecticides,organophosphate insecticides; phosphonate insecticides; phosphoramidate insecticides,"organophosphorus insecticides (organophosphate insecticides, phosphonate insecticides, phosphoramidate insecticides)",https://lod.nal.usda.gov/nalt/2184,0.99,True,skos:broader; skos:narrower,INCLUDE
+organophosphorus nematicides,,organophosphorus nematicides,https://lod.nal.usda.gov/nalt/25517,0.98,True,skos:broader; skos:narrower,INCLUDE
+oxadiazolone herbicides,,oxadiazolone herbicides,https://lod.nal.usda.gov/nalt/125131,0.96,True,skos:broader; skos:narrower,INCLUDE
+oxadixyl,,oxadixyl,https://lod.nal.usda.gov/nalt/41858,0.95,True,skos:broader; skos:narrower,INCLUDE
+oxamyl,,oxamyl,https://lod.nal.usda.gov/nalt/22171,0.99,True,skos:broader; skos:narrower,INCLUDE
+oxazole herbicides,,oxazole herbicides,https://lod.nal.usda.gov/nalt/125133,0.96,True,skos:broader; skos:narrower,INCLUDE
+oxycarboxin,,oxycarboxin,https://lod.nal.usda.gov/nalt/41859,0.97,True,skos:broader; skos:narrower,INCLUDE
+pediculicides,,pediculicides,https://lod.nal.usda.gov/nalt/323890,0.99,True,skos:broader; skos:narrower,INCLUDE
+pelargonic acid,nonanoic acid,pelargonic acid (nonanoic acid),https://lod.nal.usda.gov/nalt/45241,0.95,True,skos:broader; skos:narrower,INCLUDE
+pentachlorophenol,PCP (pentachlorophenol); sodium pentachlorophenate; sodium pentachlorophenoxide,"pentachlorophenol (PCP (pentachlorophenol), sodium pentachlorophenate, sodium pentachlorophenoxide)",https://lod.nal.usda.gov/nalt/41861,0.98,True,skos:broader; skos:narrower,INCLUDE
+penthiopyrad,,penthiopyrad,https://lod.nal.usda.gov/nalt/327895,0.94,True,skos:broader; skos:narrower,INCLUDE
+pest monitoring,,pest monitoring,https://lod.nal.usda.gov/nalt/47465,0.9,True,skos:related,INCLUDE
+pesticide application,,pesticide application,https://lod.nal.usda.gov/nalt/2073,0.98,True,skos:related,INCLUDE
+pesticide mixtures,,pesticide mixtures,https://lod.nal.usda.gov/nalt/53178,0.94,True,skos:broader; skos:narrower,INCLUDE
+phenoxy herbicides,,phenoxy herbicides,https://lod.nal.usda.gov/nalt/125138,0.95,True,skos:broader; skos:narrower,INCLUDE
+phenylenediamine herbicides,,phenylenediamine herbicides,https://lod.nal.usda.gov/nalt/125145,0.93,True,skos:broader; skos:narrower,INCLUDE
+phenylmercury acetate,PMA (phenylmercury acetate),phenylmercury acetate (PMA (phenylmercury acetate)),https://lod.nal.usda.gov/nalt/41862,0.97,True,skos:broader; skos:narrower,INCLUDE
+phoxim,,phoxim,https://lod.nal.usda.gov/nalt/68282,0.99,True,skos:broader; skos:narrower,INCLUDE
+pirimicarb,,pirimicarb,https://lod.nal.usda.gov/nalt/22173,0.99,True,skos:broader; skos:narrower,INCLUDE
+plant pests,crop pests; pests of plants; phytophagous pests; tree pests,"plant pests (crop pests, pests of plants, phytophagous pests, tree pests)",https://lod.nal.usda.gov/nalt/17605,0.98,False,skos:related,INCLUDE
+polychlorobenzoic acid,,polychlorobenzoic acid,https://lod.nal.usda.gov/nalt/41863,0.89,True,skos:broader; skos:narrower,INCLUDE
+potassium phosphite,,potassium phosphite,https://lod.nal.usda.gov/nalt/210462,0.95,True,skos:broader; skos:narrower,INCLUDE
+pour-on formulations,,pour-on formulations,https://lod.nal.usda.gov/nalt/605,0.92,False,skos:related,INCLUDE
+powders,,powders,https://lod.nal.usda.gov/nalt/606,0.84,False,skos:related,INCLUDE
+prohexadione calcium,calcium 3-oxido-5-oxo-4-propanoylcyclohex-3-ene-1-carboxylate; calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate; prohexadion calcium; prohexadione,"prohexadione calcium (calcium 3-oxido-5-oxo-4-propanoylcyclohex-3-ene-1-carboxylate, calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate, prohexadion calcium, prohexadione)",https://lod.nal.usda.gov/nalt/228717,0.9,False,skos:related,INCLUDE
+propargite,,propargite,https://lod.nal.usda.gov/nalt/2099,0.99,True,skos:broader; skos:narrower,INCLUDE
+propoxur,,propoxur,https://lod.nal.usda.gov/nalt/22175,0.99,True,skos:broader; skos:narrower,INCLUDE
+prosulfalin,,prosulfalin,https://lod.nal.usda.gov/nalt/45252,0.95,True,skos:broader; skos:narrower,INCLUDE
+pymetrozine,,pymetrozine,https://lod.nal.usda.gov/nalt/47428,0.98,True,skos:broader; skos:narrower,INCLUDE
+pyrazole herbicides,,pyrazole herbicides,https://lod.nal.usda.gov/nalt/125117,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyrazophos,,pyrazophos,https://lod.nal.usda.gov/nalt/41866,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyrethroid acaricides,,pyrethroid acaricides,https://lod.nal.usda.gov/nalt/2100,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyrethroid insecticides,pyrethroid ester insecticides,pyrethroid insecticides (pyrethroid ester insecticides),https://lod.nal.usda.gov/nalt/6568,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyridaben,,pyridaben,https://lod.nal.usda.gov/nalt/69204,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyridazine herbicides,,pyridazine herbicides,https://lod.nal.usda.gov/nalt/125146,0.98,True,skos:broader; skos:narrower,INCLUDE
+pyridazinone herbicides,,pyridazinone herbicides,https://lod.nal.usda.gov/nalt/25319,0.98,True,skos:broader; skos:narrower,INCLUDE
+pyridine herbicides,,pyridine herbicides,https://lod.nal.usda.gov/nalt/34133,0.98,True,skos:broader; skos:narrower,INCLUDE
+pyrimidine fungicides,,pyrimidine fungicides,https://lod.nal.usda.gov/nalt/39814,0.99,True,skos:broader; skos:narrower,INCLUDE
+quaternary ammonium herbicides,,quaternary ammonium herbicides,https://lod.nal.usda.gov/nalt/125147,0.98,True,skos:broader; skos:narrower,INCLUDE
+quinoxyfen,,quinoxyfen,https://lod.nal.usda.gov/nalt/41867,0.98,True,skos:broader; skos:narrower,INCLUDE
+quintozene,pentachloronitrobenzene,quintozene (pentachloronitrobenzene),https://lod.nal.usda.gov/nalt/41868,0.99,True,skos:broader; skos:narrower,INCLUDE
+rodent repellents,mice repellents; rat repellents,"rodent repellents (mice repellents, rat repellents)",https://lod.nal.usda.gov/nalt/302645,0.99,False,skos:related,INCLUDE
+scarers,scare devices; scaring devices,"scarers (scare devices, scaring devices)",https://lod.nal.usda.gov/nalt/57552,0.95,False,skos:broader; skos:narrower,INCLUDE
+smoke formulations,smokes (formulations),smoke formulations (smokes (formulations)),https://lod.nal.usda.gov/nalt/609,0.97,False,skos:related,INCLUDE
+sodium fluoroacetate,,sodium fluoroacetate,https://lod.nal.usda.gov/nalt/56113,0.99,False,skos:related,INCLUDE
+spinosad,,spinosad,https://lod.nal.usda.gov/nalt/47429,0.99,True,skos:broader; skos:narrower,INCLUDE
+spirodiclofen,,spirodiclofen,https://lod.nal.usda.gov/nalt/2101,0.98,True,skos:broader; skos:narrower,INCLUDE
+spiromesifen,,spiromesifen,https://lod.nal.usda.gov/nalt/213739,0.98,True,skos:broader; skos:narrower,INCLUDE
+sprayers,spray guns,sprayers (spray guns),https://lod.nal.usda.gov/nalt/5870,0.92,False,skos:related,INCLUDE
+spraying equipment,,spraying equipment,https://lod.nal.usda.gov/nalt/11330,0.96,False,skos:broader; skos:narrower,INCLUDE
+sterile insect technique,SIT (sterile insect technique); sterile insect release; sterile male release; sterile release,"sterile insect technique (SIT (sterile insect technique), sterile insect release, sterile male release, sterile release)",https://lod.nal.usda.gov/nalt/47372,0.98,True,skos:broader; skos:narrower,INCLUDE
+storage pests,food storage pests; stored product pests; stored products pests,"storage pests (food storage pests, stored product pests, stored products pests)",https://lod.nal.usda.gov/nalt/41056,0.95,False,skos:related,INCLUDE
+strobilurin fungicides,,strobilurin fungicides,https://lod.nal.usda.gov/nalt/331494,0.84,True,skos:broader; skos:narrower,INCLUDE
+sulfuramid,,sulfuramid,https://lod.nal.usda.gov/nalt/47430,0.92,True,skos:broader; skos:narrower,INCLUDE
+sulfuryl fluoride,,sulfuryl fluoride,https://lod.nal.usda.gov/nalt/40725,0.99,True,skos:broader; skos:narrower,INCLUDE
+tebufenozide,RH-5992,tebufenozide (RH-5992),https://lod.nal.usda.gov/nalt/35594,0.98,True,skos:broader; skos:narrower,INCLUDE
+tecnazene,,tecnazene,https://lod.nal.usda.gov/nalt/41869,0.96,True,skos:broader; skos:narrower,INCLUDE
+terbucarb,,terbucarb,https://lod.nal.usda.gov/nalt/22176,0.9,True,skos:broader; skos:narrower,INCLUDE
+termite control,,termite control,https://lod.nal.usda.gov/nalt/47373,0.99,True,skos:broader; skos:narrower,INCLUDE
+termiticides,,termiticides,https://lod.nal.usda.gov/nalt/829,0.99,True,skos:broader; skos:narrower,INCLUDE
+tetraconazole,,tetraconazole,https://lod.nal.usda.gov/nalt/213717,0.97,True,skos:broader; skos:narrower,INCLUDE
+tetradifon,,tetradifon,https://lod.nal.usda.gov/nalt/2102,0.98,True,skos:broader; skos:narrower,INCLUDE
+thiobencarb,,thiobencarb,https://lod.nal.usda.gov/nalt/22177,0.91,True,skos:broader; skos:narrower,INCLUDE
+thiocarbamate herbicides,,thiocarbamate herbicides,https://lod.nal.usda.gov/nalt/125148,0.98,True,skos:broader; skos:narrower,INCLUDE
+thiocarbonate herbicides,,thiocarbonate herbicides,https://lod.nal.usda.gov/nalt/125149,0.96,True,skos:broader; skos:narrower,INCLUDE
+thiodicarb,,thiodicarb,https://lod.nal.usda.gov/nalt/22178,0.99,True,skos:broader; skos:narrower,INCLUDE
+thiofanox,,thiofanox,https://lod.nal.usda.gov/nalt/22179,0.98,True,skos:broader; skos:narrower,INCLUDE
+thiram,,thiram,https://lod.nal.usda.gov/nalt/41870,0.99,True,skos:broader; skos:narrower,INCLUDE
+tolclofos-methyl,,tolclofos-methyl,https://lod.nal.usda.gov/nalt/41871,0.97,True,skos:broader; skos:narrower,INCLUDE
+tolylfluanid,tolyfluanid,tolylfluanid (tolyfluanid),https://lod.nal.usda.gov/nalt/213681,0.97,True,skos:broader; skos:narrower,INCLUDE
+triallate,tri-allate,triallate (tri-allate),https://lod.nal.usda.gov/nalt/22180,0.98,True,skos:broader; skos:narrower,INCLUDE
+triazamate,,triazamate,https://lod.nal.usda.gov/nalt/47432,0.98,True,skos:broader; skos:narrower,INCLUDE
+triazine fungicides,,triazine fungicides,https://lod.nal.usda.gov/nalt/331486,0.98,True,skos:broader; skos:narrower,INCLUDE
+triazine herbicides,,triazine herbicides,https://lod.nal.usda.gov/nalt/7657,0.99,True,skos:broader; skos:narrower,INCLUDE
+triazinone herbicides,,triazinone herbicides,https://lod.nal.usda.gov/nalt/45277,0.99,True,skos:broader; skos:narrower,INCLUDE
+triazole fungicides,,triazole fungicides,https://lod.nal.usda.gov/nalt/17650,0.99,True,skos:broader; skos:narrower,INCLUDE
+triazole herbicides,,triazole herbicides,https://lod.nal.usda.gov/nalt/7899,0.97,True,skos:broader; skos:narrower,INCLUDE
+triazolone herbicides,,triazolone herbicides,https://lod.nal.usda.gov/nalt/125150,0.99,True,skos:broader; skos:narrower,INCLUDE
+triazolopyrimidine fungicides,,triazolopyrimidine fungicides,https://lod.nal.usda.gov/nalt/331478,0.98,True,skos:broader; skos:narrower,INCLUDE
+triazolopyrimidine herbicides,,triazolopyrimidine herbicides,https://lod.nal.usda.gov/nalt/125151,0.98,True,skos:broader; skos:narrower,INCLUDE
+tributyltin oxide,,tributyltin oxide,https://lod.nal.usda.gov/nalt/56142,0.99,True,skos:broader; skos:narrower,INCLUDE
+tricyclazole,,tricyclazole,https://lod.nal.usda.gov/nalt/41872,0.98,True,skos:broader; skos:narrower,INCLUDE
+tridiphane,,tridiphane,https://lod.nal.usda.gov/nalt/45280,0.97,True,skos:broader; skos:narrower,INCLUDE
+trifloxystrobin,,trifloxystrobin,https://lod.nal.usda.gov/nalt/213719,0.99,True,skos:broader; skos:narrower,INCLUDE
+triflumizole,,triflumizole,https://lod.nal.usda.gov/nalt/213726,0.99,True,skos:broader; skos:narrower,INCLUDE
+trimeturon,,trimeturon,https://lod.nal.usda.gov/nalt/45284,0.98,True,skos:broader; skos:narrower,INCLUDE
+tritac,,tritac,https://lod.nal.usda.gov/nalt/45285,0.78,True,skos:broader; skos:narrower,INCLUDE
+triticonazole,,triticonazole,https://lod.nal.usda.gov/nalt/213735,0.98,True,skos:broader; skos:narrower,INCLUDE
+uracil herbicides,,uracil herbicides,https://lod.nal.usda.gov/nalt/125152,0.99,True,skos:broader; skos:narrower,INCLUDE
+urea fungicides,,urea fungicides,https://lod.nal.usda.gov/nalt/331484,0.99,True,skos:broader; skos:narrower,INCLUDE
+urea herbicides,,urea herbicides,https://lod.nal.usda.gov/nalt/25299,0.99,True,skos:broader; skos:narrower,INCLUDE
+validamycins,,validamycins,https://lod.nal.usda.gov/nalt/10213,0.95,False,skos:related,INCLUDE
+vamidothion,,vamidothion,https://lod.nal.usda.gov/nalt/47433,0.98,True,skos:broader; skos:narrower,INCLUDE
+weed control,weed management; weed prevention; weed suppression; weeding,"weed control (weed management, weed prevention, weed suppression, weeding)",https://lod.nal.usda.gov/nalt/293,0.97,False,skos:related,INCLUDE
+wettable powders,,wettable powders,https://lod.nal.usda.gov/nalt/57564,0.9,False,skos:related,INCLUDE
+zineb,,zineb,https://lod.nal.usda.gov/nalt/22182,0.99,True,skos:broader; skos:narrower,INCLUDE
+ziram,,ziram,https://lod.nal.usda.gov/nalt/22183,0.99,True,skos:broader; skos:narrower,INCLUDE
+"2,2,3-TPA","2,2,3-trichloropanoic acid; 2,2,3-trichloropropionic acid; chloropon","2,2,3-TPA (2,2,3-trichloropanoic acid, 2,2,3-trichloropropionic acid, chloropon)",https://lod.nal.usda.gov/nalt/1335,0.96,True,skos:broader; skos:narrower,INCLUDE
+"2,3,6-TBA","2,3,6-trichlorobenzoic acid","2,3,6-TBA (2,3,6-trichlorobenzoic acid)",https://lod.nal.usda.gov/nalt/1341,0.95,True,skos:broader; skos:narrower,INCLUDE
+"2,4-DEB","2,4-dichlorophenoxyethyl benzoate","2,4-DEB (2,4-dichlorophenoxyethyl benzoate)",https://lod.nal.usda.gov/nalt/1359,0.9,True,skos:broader; skos:narrower,INCLUDE
+"2,4-DEP","tris(2-(2,4-dichlorophenoxy)ethyl)phosphite","2,4-DEP (tris(2-(2,4-dichlorophenoxy)ethyl)phosphite)",https://lod.nal.usda.gov/nalt/1361,0.89,True,skos:broader; skos:narrower,INCLUDE
+acaricide application,,acaricide application,https://lod.nal.usda.gov/nalt/70320,0.98,True,skos:broader; skos:narrower,INCLUDE
+acephate,,acephate,https://lod.nal.usda.gov/nalt/2183,0.99,True,skos:broader; skos:narrower,INCLUDE
+acetamiprid,,acetamiprid,https://lod.nal.usda.gov/nalt/2321,0.99,True,skos:broader; skos:narrower,INCLUDE
+acrinathrin,,acrinathrin,https://lod.nal.usda.gov/nalt/131672,0.98,True,skos:broader; skos:narrower,INCLUDE
+acylamino acid fungicides,,acylamino acid fungicides,https://lod.nal.usda.gov/nalt/331498,0.97,True,skos:broader; skos:narrower,INCLUDE
+aerial application,,aerial application,https://lod.nal.usda.gov/nalt/4604,0.88,False,skos:broader; skos:narrower,INCLUDE
+aerial spraying,,aerial spraying,https://lod.nal.usda.gov/nalt/136780,0.96,False,skos:related,INCLUDE
+air-assisted sprayers,air assisted sprayers; air-blast sprayers,"air-assisted sprayers (air assisted sprayers, air-blast sprayers)",https://lod.nal.usda.gov/nalt/5825,0.94,False,skos:broader; skos:narrower,INCLUDE
+allethrin,,allethrin,https://lod.nal.usda.gov/nalt/6567,0.99,True,skos:broader; skos:narrower,INCLUDE
+allidochlor,CDAA (herbicide),allidochlor (CDAA (herbicide)),https://lod.nal.usda.gov/nalt/6589,0.94,True,skos:broader; skos:narrower,INCLUDE
+alorac,,alorac,https://lod.nal.usda.gov/nalt/125120,0.93,True,skos:broader; skos:narrower,INCLUDE
+ametoctradin,,ametoctradin,https://lod.nal.usda.gov/nalt/331483,0.88,True,skos:broader; skos:narrower,INCLUDE
+ametryn,ametryne,ametryn (ametryne),https://lod.nal.usda.gov/nalt/7656,0.99,True,skos:broader; skos:narrower,INCLUDE
+amicarbazone,,amicarbazone,https://lod.nal.usda.gov/nalt/125010,0.99,True,skos:broader; skos:narrower,INCLUDE
+amides,alkamides; diamides,"amides (alkamides, diamides)",https://lod.nal.usda.gov/nalt/2309,0.96,False,skos:broader; skos:narrower,INCLUDE
+aminobenzoates,,aminobenzoates,https://lod.nal.usda.gov/nalt/224213,0.94,False,skos:related,INCLUDE
+amiprofos-methyl,,amiprofos-methyl,https://lod.nal.usda.gov/nalt/7894,0.98,True,skos:broader; skos:narrower,INCLUDE
+amitrole,,amitrole,https://lod.nal.usda.gov/nalt/7898,0.99,True,skos:broader; skos:narrower,INCLUDE
+ammonium sulfamate,ammonium sulphamate,ammonium sulfamate (ammonium sulphamate),https://lod.nal.usda.gov/nalt/300561,0.97,True,skos:broader; skos:narrower,INCLUDE
+ammonium sulfamidate,AMS (herbicide); monoammonium sulfamate,"ammonium sulfamidate (AMS (herbicide), monoammonium sulfamate)",https://lod.nal.usda.gov/nalt/7983,0.98,True,skos:broader; skos:narrower,INCLUDE
+ampropylfos,,ampropylfos,https://lod.nal.usda.gov/nalt/327893,0.98,True,skos:broader; skos:narrower,INCLUDE
+anilazine,,anilazine,https://lod.nal.usda.gov/nalt/8951,0.97,True,skos:broader; skos:narrower,INCLUDE
+anilide herbicides,,anilide herbicides,https://lod.nal.usda.gov/nalt/7662,0.98,True,skos:broader; skos:narrower,INCLUDE
+anilinopyrimidine fungicides,,anilinopyrimidine fungicides,https://lod.nal.usda.gov/nalt/331476,0.99,True,skos:broader; skos:narrower,INCLUDE
+anilofos,,anilofos,https://lod.nal.usda.gov/nalt/125130,0.99,True,skos:broader; skos:narrower,INCLUDE
+antibiotics,anti-bacterial agents; anti-mycobacterial agents; antibacterial agents; antimycobacterial agents; antitubercular agents; antitubercular drugs; bactericides; bacteriocidal agents; bacteriocides,"antibiotics (anti-bacterial agents, anti-mycobacterial agents, antibacterial agents, antimycobacterial agents, antitubercular agents, antitubercular drugs, bactericides, bacteriocidal agents, bacteriocides)",https://lod.nal.usda.gov/nalt/10186,0.93,False,skos:broader; skos:narrower,INCLUDE
+antifeedants,feeding deterrents,antifeedants (feeding deterrents),https://lod.nal.usda.gov/nalt/5563,0.98,False,skos:related,INCLUDE
+application technology,sprayer technology,application technology (sprayer technology),https://lod.nal.usda.gov/nalt/11323,0.88,False,skos:related,INCLUDE
+aquatic weed control,,aquatic weed control,https://lod.nal.usda.gov/nalt/142745,0.95,False,skos:broader; skos:narrower,INCLUDE
+asulam,,asulam,https://lod.nal.usda.gov/nalt/13543,0.99,True,skos:broader; skos:narrower,INCLUDE
+atomizers,nebulizers,atomizers (nebulizers),https://lod.nal.usda.gov/nalt/11324,0.9,False,skos:broader; skos:narrower,INCLUDE
+atraton,,atraton,https://lod.nal.usda.gov/nalt/13716,0.98,True,skos:broader; skos:narrower,INCLUDE
+atrazine,,atrazine,https://lod.nal.usda.gov/nalt/13718,0.97,True,skos:broader; skos:narrower,INCLUDE
+attractants,,attractants,https://lod.nal.usda.gov/nalt/207,0.93,False,skos:broader; skos:narrower,INCLUDE
+avermectins,,avermectins,https://lod.nal.usda.gov/nalt/1578,0.99,False,skos:broader; skos:narrower,INCLUDE
+azimsulfuron,,azimsulfuron,https://lod.nal.usda.gov/nalt/14307,0.98,True,skos:broader; skos:narrower,INCLUDE
+azinphos-ethyl,,azinphos-ethyl,https://lod.nal.usda.gov/nalt/14312,0.99,True,skos:broader; skos:narrower,INCLUDE
+azinphos-methyl,,azinphos-methyl,https://lod.nal.usda.gov/nalt/14313,0.99,True,skos:broader; skos:narrower,INCLUDE
+bacterial insecticides,,bacterial insecticides,https://lod.nal.usda.gov/nalt/14973,0.99,True,skos:broader; skos:narrower,INCLUDE
+baiting,,baiting,https://lod.nal.usda.gov/nalt/15547,0.91,False,skos:broader; skos:narrower,INCLUDE
+band placement,,band placement,https://lod.nal.usda.gov/nalt/11334,0.93,False,skos:broader; skos:narrower,INCLUDE
+barban,,barban,https://lod.nal.usda.gov/nalt/15805,0.97,True,skos:broader; skos:narrower,INCLUDE
+BCPC (herbicide),(RS)-sec-butyl 3-chlorocarbanilate; 1-methylpropyl (3-chlorophenyl)carbamate; 1-methylpropyl 3-chlorophenylcarbamate; sec-butyl N-(3-chlorophenyl)carbamate,"BCPC (herbicide) ((RS)-sec-butyl 3-chlorocarbanilate, 1-methylpropyl (3-chlorophenyl)carbamate, 1-methylpropyl 3-chlorophenylcarbamate, sec-butyl N-(3-chlorophenyl)carbamate)",https://lod.nal.usda.gov/nalt/1203,0.98,True,skos:broader; skos:narrower,INCLUDE
+benefin,benfluralin,benefin (benfluralin),https://lod.nal.usda.gov/nalt/16601,0.98,True,skos:broader; skos:narrower,INCLUDE
+benfuresate,,benfuresate,https://lod.nal.usda.gov/nalt/125101,0.95,True,skos:broader; skos:narrower,INCLUDE
+benoxacor,,benoxacor,https://lod.nal.usda.gov/nalt/213703,0.97,False,skos:broader; skos:narrower,INCLUDE
+bensulide,,bensulide,https://lod.nal.usda.gov/nalt/16628,0.98,True,skos:broader; skos:narrower,INCLUDE
+benzadox,,benzadox,https://lod.nal.usda.gov/nalt/16639,0.96,True,skos:broader; skos:narrower,INCLUDE
+benzamide fungicides,,benzamide fungicides,https://lod.nal.usda.gov/nalt/331489,0.93,True,skos:broader; skos:narrower,INCLUDE
+benzoylphenylureas,,benzoylphenylureas,https://lod.nal.usda.gov/nalt/7681,0.99,False,skos:related,INCLUDE
+bifenthrin,,bifenthrin,https://lod.nal.usda.gov/nalt/17037,0.99,True,skos:broader; skos:narrower,INCLUDE
+bioallethrin,,bioallethrin,https://lod.nal.usda.gov/nalt/17235,0.99,True,skos:broader; skos:narrower,INCLUDE
+bioethanomethrin,,bioethanomethrin,https://lod.nal.usda.gov/nalt/300814,0.99,True,skos:broader; skos:narrower,INCLUDE
+bioresmethrin,,bioresmethrin,https://lod.nal.usda.gov/nalt/17513,0.99,True,skos:broader; skos:narrower,INCLUDE
+bistrifluron,,bistrifluron,https://lod.nal.usda.gov/nalt/17645,0.98,False,skos:broader; skos:narrower,INCLUDE
+borates,,borates,https://lod.nal.usda.gov/nalt/18623,0.95,False,skos:broader; skos:narrower,INCLUDE
+borax,sodium borate decahydrate; tincal,"borax (sodium borate decahydrate, tincal)",https://lod.nal.usda.gov/nalt/18622,0.97,True,skos:broader; skos:narrower,INCLUDE
+bromacil,,bromacil,https://lod.nal.usda.gov/nalt/19933,0.99,True,skos:broader; skos:narrower,INCLUDE
+bromoxynil,,bromoxynil,https://lod.nal.usda.gov/nalt/19981,0.98,True,skos:broader; skos:narrower,INCLUDE
+brush control,brush management,brush control (brush management),https://lod.nal.usda.gov/nalt/20192,0.96,False,skos:broader; skos:narrower,INCLUDE
+buprofezin,,buprofezin,https://lod.nal.usda.gov/nalt/20428,0.99,False,skos:broader; skos:narrower,INCLUDE
+butamifos,,butamifos,https://lod.nal.usda.gov/nalt/20600,0.98,True,skos:broader; skos:narrower,INCLUDE
+butralin,,butralin,https://lod.nal.usda.gov/nalt/20619,0.96,True,skos:broader; skos:narrower,INCLUDE
+cacodylic acid,dimethylarsinic acid,cacodylic acid (dimethylarsinic acid),https://lod.nal.usda.gov/nalt/12375,0.97,True,skos:broader; skos:narrower,INCLUDE
+cadusafos,,cadusafos,https://lod.nal.usda.gov/nalt/213698,0.99,True,skos:broader; skos:narrower,INCLUDE
+cafenstrole,,cafenstrole,https://lod.nal.usda.gov/nalt/20995,0.95,True,skos:broader; skos:narrower,INCLUDE
+calcium methanearsonate,CMA (herbicide); calcium hydrogen methylarsonate,"calcium methanearsonate (CMA (herbicide), calcium hydrogen methylarsonate)",https://lod.nal.usda.gov/nalt/21114,0.99,True,skos:broader; skos:narrower,INCLUDE
+captafol,,captafol,https://lod.nal.usda.gov/nalt/22086,0.99,True,skos:broader; skos:narrower,INCLUDE
+captan,,captan,https://lod.nal.usda.gov/nalt/22088,0.99,True,skos:broader; skos:narrower,INCLUDE
+carbadox,,carbadox,https://lod.nal.usda.gov/nalt/10425,0.93,False,skos:broader; skos:narrower,INCLUDE
+carbendazim,bavistin,carbendazim (bavistin),https://lod.nal.usda.gov/nalt/9915,0.98,False,skos:related,INCLUDE
+carbetamide,,carbetamide,https://lod.nal.usda.gov/nalt/22153,0.9,True,skos:broader; skos:narrower,INCLUDE
+carbon tetrachloride,tetrachloromethane,carbon tetrachloride (tetrachloromethane),https://lod.nal.usda.gov/nalt/22230,0.92,False,skos:broader; skos:narrower,INCLUDE
+carbophenothion,,carbophenothion,https://lod.nal.usda.gov/nalt/213669,0.99,True,skos:broader; skos:narrower,INCLUDE
+carboxazole,,carboxazole,https://lod.nal.usda.gov/nalt/125134,0.88,True,skos:broader; skos:narrower,INCLUDE
+carfentrazone,,carfentrazone,https://lod.nal.usda.gov/nalt/22484,0.97,True,skos:broader; skos:narrower,INCLUDE
+carpropamid,,carpropamid,https://lod.nal.usda.gov/nalt/22666,0.96,True,skos:broader; skos:narrower,INCLUDE
+CDEA (herbicide),"2-chloro-N,N-diethylacetamide","CDEA (herbicide) (2-chloro-N,N-diethylacetamide)",https://lod.nal.usda.gov/nalt/1376,0.99,True,skos:broader; skos:narrower,INCLUDE
+CEPC (herbicide),2-chloroethyl (3-chlorophenyl)carbamate; 2-chloroethyl 3-chlorocarbanilate,"CEPC (herbicide) (2-chloroethyl (3-chlorophenyl)carbamate, 2-chloroethyl 3-chlorocarbanilate)",https://lod.nal.usda.gov/nalt/1380,0.99,True,skos:broader; skos:narrower,INCLUDE
+ceralure,,ceralure,https://lod.nal.usda.gov/nalt/105898,0.94,False,skos:broader; skos:narrower,INCLUDE
+chemigation,chemi-irrigation; chemirrigation,"chemigation (chemi-irrigation, chemirrigation)",https://lod.nal.usda.gov/nalt/11335,0.95,False,skos:related,INCLUDE
+chloramben,,chloramben,https://lod.nal.usda.gov/nalt/12290,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlorazine,,chlorazine,https://lod.nal.usda.gov/nalt/25297,0.9,True,skos:broader; skos:narrower,INCLUDE
+chlorbufam,1-methyl-2-propynyl (3-chlorophenyl)carbamate; 1-methylprop-2-ynyl 3-chlorocarbanilate; BIPC (chlorbufam),"chlorbufam (1-methyl-2-propynyl (3-chlorophenyl)carbamate, 1-methylprop-2-ynyl 3-chlorocarbanilate, BIPC (chlorbufam))",https://lod.nal.usda.gov/nalt/25300,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlorfenvinphos,,chlorfenvinphos,https://lod.nal.usda.gov/nalt/25316,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlorfluazuron,,chlorfluazuron,https://lod.nal.usda.gov/nalt/16667,0.98,False,skos:broader; skos:narrower,INCLUDE
+chloridazon,pyrazon,chloridazon (pyrazon),https://lod.nal.usda.gov/nalt/25318,0.95,True,skos:broader; skos:narrower,INCLUDE
+chlorophacinone,,chlorophacinone,https://lod.nal.usda.gov/nalt/301102,0.98,True,skos:broader; skos:narrower,INCLUDE
+chloroxynil,,chloroxynil,https://lod.nal.usda.gov/nalt/125127,0.97,True,skos:broader; skos:narrower,INCLUDE
+chlorpropham,CIPC (chlorpropham); chlorophenyl isopropyl carbamate; isopropyl N-(3-Chlorophenol) carbamate,"chlorpropham (CIPC (chlorpropham), chlorophenyl isopropyl carbamate, isopropyl N-(3-Chlorophenol) carbamate)",https://lod.nal.usda.gov/nalt/25515,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlorpyrifos,,chlorpyrifos,https://lod.nal.usda.gov/nalt/25516,1.0,True,skos:broader; skos:narrower,INCLUDE
+chlorpyrifos oxygen analog,,chlorpyrifos oxygen analog,https://lod.nal.usda.gov/nalt/213695,0.96,True,skos:broader; skos:narrower,INCLUDE
+chlorthal-dimethyl,"DCPA (chlorthal-dimethyl); dacthal; dimethyl 2,3,5,6-tetrachloroterephthalate; dimethyl tetrachloroterephthalate","chlorthal-dimethyl (DCPA (chlorthal-dimethyl), dacthal, dimethyl 2,3,5,6-tetrachloroterephthalate, dimethyl tetrachloroterephthalate)",https://lod.nal.usda.gov/nalt/25520,0.98,True,skos:broader; skos:narrower,INCLUDE
+chlorthiamid,,chlorthiamid,https://lod.nal.usda.gov/nalt/25522,0.94,True,skos:broader; skos:narrower,INCLUDE
+cholinesterase inhibitors,acetylcholinesterase inhibitors; anti-cholinesterases; anticholinesterase agents; anticholinesterase drugs,"cholinesterase inhibitors (acetylcholinesterase inhibitors, anti-cholinesterases, anticholinesterase agents, anticholinesterase drugs)",https://lod.nal.usda.gov/nalt/22191,0.95,False,skos:related,INCLUDE
+clethodim,,clethodim,https://lod.nal.usda.gov/nalt/26843,0.97,True,skos:broader; skos:narrower,INCLUDE
+clomeprop,,clomeprop,https://lod.nal.usda.gov/nalt/125139,0.95,True,skos:broader; skos:narrower,INCLUDE
+cloproxydim,,cloproxydim,https://lod.nal.usda.gov/nalt/26961,0.97,True,skos:broader; skos:narrower,INCLUDE
+clopyralid,"3,6-dichloro-2-pyridinecarboxylic acid; 3,6-dichloropicolinic acid; 3,6-dichloropyridine-2-carboxylic acid","clopyralid (3,6-dichloro-2-pyridinecarboxylic acid, 3,6-dichloropicolinic acid, 3,6-dichloropyridine-2-carboxylic acid)",https://lod.nal.usda.gov/nalt/1440,0.98,True,skos:broader; skos:narrower,INCLUDE
+clothianidin,,clothianidin,https://lod.nal.usda.gov/nalt/132371,0.99,True,skos:broader; skos:narrower,INCLUDE
+copper sulfate,CuSO4; copper sulphate; copper(II) sulfate; cupric sulfate; cupric sulphate,"copper sulfate (CuSO4, copper sulphate, copper(II) sulfate, cupric sulfate, cupric sulphate)",https://lod.nal.usda.gov/nalt/28956,0.99,True,skos:broader; skos:narrower,INCLUDE
+coumaphos,coumafos,coumaphos (coumafos),https://lod.nal.usda.gov/nalt/29682,0.99,True,skos:broader; skos:narrower,INCLUDE
+coumarin rodenticides,,coumarin rodenticides,https://lod.nal.usda.gov/nalt/19920,0.98,True,skos:broader; skos:narrower,INCLUDE
+CPPC (herbicide),2-chloro-1-methylethyl (3-chlorophenyl)carbamate,CPPC (herbicide) (2-chloro-1-methylethyl (3-chlorophenyl)carbamate),https://lod.nal.usda.gov/nalt/1374,0.99,True,skos:broader; skos:narrower,INCLUDE
+creosote,coal tar creosote; wood tar creosote,"creosote (coal tar creosote, wood tar creosote)",https://lod.nal.usda.gov/nalt/27361,0.86,False,skos:related,INCLUDE
+crystal proteins,,crystal proteins,https://lod.nal.usda.gov/nalt/30451,0.82,False,skos:related,INCLUDE
+cue-lure,4-(4-(acetyloxy)phenyl)-2-butanone; cuelure; p-(3-oxobutyl)phenyl acetate,"cue-lure (4-(4-(acetyloxy)phenyl)-2-butanone, cuelure, p-(3-oxobutyl)phenyl acetate)",https://lod.nal.usda.gov/nalt/1469,0.95,False,skos:broader; skos:narrower,INCLUDE
+cultural control,,cultural control,https://lod.nal.usda.gov/nalt/28785,0.96,False,skos:broader; skos:narrower,INCLUDE
+cyanazine,,cyanazine,https://lod.nal.usda.gov/nalt/30950,1.0,True,skos:broader; skos:narrower,INCLUDE
+cyazofamid,,cyazofamid,https://lod.nal.usda.gov/nalt/30995,1.0,True,skos:broader; skos:narrower,INCLUDE
+cyclodiene insecticides,,cyclodiene insecticides,https://lod.nal.usda.gov/nalt/6231,1.0,True,skos:broader; skos:narrower,INCLUDE
+cycluron,,cycluron,https://lod.nal.usda.gov/nalt/31082,1.0,True,skos:broader; skos:narrower,INCLUDE
+cyfluthrin,,cyfluthrin,https://lod.nal.usda.gov/nalt/31116,1.0,True,skos:broader; skos:narrower,INCLUDE
+cyhalothrin,,cyhalothrin,https://lod.nal.usda.gov/nalt/31123,1.0,True,skos:broader; skos:narrower,INCLUDE
+cypermethrin,alpha-cypermethrin,cypermethrin (alpha-cypermethrin),https://lod.nal.usda.gov/nalt/31222,0.99,True,skos:broader; skos:narrower,INCLUDE
+cyphenothrin,,cyphenothrin,https://lod.nal.usda.gov/nalt/213730,0.98,True,skos:broader; skos:narrower,INCLUDE
+cyromazine,,cyromazine,https://lod.nal.usda.gov/nalt/25216,0.99,False,skos:broader; skos:narrower,INCLUDE
+dalapon,,dalapon,https://lod.nal.usda.gov/nalt/25334,0.99,True,skos:broader; skos:narrower,INCLUDE
+DDD (pesticide),"2,4'-DDD; TDE (herbicide); dichlorodiphenyldichloroethane; o,p'-DDD","DDD (pesticide) (2,4'-DDD, TDE (herbicide), dichlorodiphenyldichloroethane, o,p'-DDD)",https://lod.nal.usda.gov/nalt/25339,0.97,True,skos:broader; skos:narrower,INCLUDE
+DDE (pesticide),"2, 4'-DDE; 4,4'-DDE; dichlorodiphenyl dichloroethylene; o,p'-DDE; p,p'-DDE","DDE (pesticide) (2, 4'-DDE, 4,4'-DDE, dichlorodiphenyl dichloroethylene, o,p'-DDE, p,p'-DDE)",https://lod.nal.usda.gov/nalt/25340,0.97,True,skos:broader; skos:narrower,INCLUDE
+deltamethrin,,deltamethrin,https://lod.nal.usda.gov/nalt/32233,0.99,True,skos:broader; skos:narrower,INCLUDE
+demeton-s-methyl,,demeton-s-methyl,https://lod.nal.usda.gov/nalt/32246,0.99,True,skos:broader; skos:narrower,INCLUDE
+desmedipham,,desmedipham,https://lod.nal.usda.gov/nalt/22159,0.98,True,skos:broader; skos:narrower,INCLUDE
+desmetryn,desmetryne,desmetryn (desmetryne),https://lod.nal.usda.gov/nalt/32553,0.98,True,skos:broader; skos:narrower,INCLUDE
+diallate,di-allate,diallate (di-allate),https://lod.nal.usda.gov/nalt/32960,0.97,True,skos:broader; skos:narrower,INCLUDE
+diazinon,,diazinon,https://lod.nal.usda.gov/nalt/33166,0.99,True,skos:broader; skos:narrower,INCLUDE
+dicamba,"3,6-dichloro-2-methoxybenzoic acid; 3,6-dichloro-o-anisic acid","dicamba (3,6-dichloro-2-methoxybenzoic acid, 3,6-dichloro-o-anisic acid)",https://lod.nal.usda.gov/nalt/12291,0.98,True,skos:broader; skos:narrower,INCLUDE
+dichlobenil,,dichlobenil,https://lod.nal.usda.gov/nalt/33212,0.99,True,skos:broader; skos:narrower,INCLUDE
+dichloralurea,"2,2,2-trichloro-1-hydroxyethyl urea; DCU (herbicide)","dichloralurea (2,2,2-trichloro-1-hydroxyethyl urea, DCU (herbicide))",https://lod.nal.usda.gov/nalt/1334,0.98,True,skos:broader; skos:narrower,INCLUDE
+dichlormate,,dichlormate,https://lod.nal.usda.gov/nalt/33215,0.98,True,skos:broader; skos:narrower,INCLUDE
+dichlorvos,,dichlorvos,https://lod.nal.usda.gov/nalt/9917,0.99,True,skos:broader; skos:narrower,INCLUDE
+diclosulam,,diclosulam,https://lod.nal.usda.gov/nalt/33229,0.98,True,skos:broader; skos:narrower,INCLUDE
+dicrotophos,,dicrotophos,https://lod.nal.usda.gov/nalt/33249,0.99,True,skos:broader; skos:narrower,INCLUDE
+diethofencarb,,diethofencarb,https://lod.nal.usda.gov/nalt/33483,0.98,True,skos:broader; skos:narrower,INCLUDE
+difenoconazole,,difenoconazole,https://lod.nal.usda.gov/nalt/208905,0.99,True,skos:broader; skos:narrower,INCLUDE
+difenopenten,,difenopenten,https://lod.nal.usda.gov/nalt/33491,0.86,True,skos:broader; skos:narrower,INCLUDE
+difenzoquat,,difenzoquat,https://lod.nal.usda.gov/nalt/33493,0.97,True,skos:broader; skos:narrower,INCLUDE
+diflubenzuron,,diflubenzuron,https://lod.nal.usda.gov/nalt/16668,0.99,False,skos:broader; skos:narrower,INCLUDE
+diflufenican,,diflufenican,https://lod.nal.usda.gov/nalt/8952,0.99,True,skos:broader; skos:narrower,INCLUDE
+diflufenzopyr,,diflufenzopyr,https://lod.nal.usda.gov/nalt/33507,0.92,True,skos:broader; skos:narrower,INCLUDE
+dimefuron,,dimefuron,https://lod.nal.usda.gov/nalt/125132,0.9,True,skos:broader; skos:narrower,INCLUDE
+dimethametryn,,dimethametryn,https://lod.nal.usda.gov/nalt/33653,0.99,True,skos:broader; skos:narrower,INCLUDE
+dimethenamid,dimethenamid-P,dimethenamid (dimethenamid-P),https://lod.nal.usda.gov/nalt/125011,0.99,True,skos:broader; skos:narrower,INCLUDE
+dimethoate,,dimethoate,https://lod.nal.usda.gov/nalt/33654,0.99,True,skos:broader; skos:narrower,INCLUDE
+dimethomorph,,dimethomorph,https://lod.nal.usda.gov/nalt/213718,0.99,True,skos:broader; skos:narrower,INCLUDE
+dimexano,"O,O-dimethyl dithiobis(thioformate); di(methoxythiocarbonyl)disulfide; di(methoxythiocarbonyl)disulfphide; dimethyl dixanthogen; dimexan","dimexano (O,O-dimethyl dithiobis(thioformate), di(methoxythiocarbonyl)disulfide, di(methoxythiocarbonyl)disulfphide, dimethyl dixanthogen, dimexan)",https://lod.nal.usda.gov/nalt/124369,0.9,True,skos:broader; skos:narrower,INCLUDE
+diniconazole,,diniconazole,https://lod.nal.usda.gov/nalt/28445,0.99,True,skos:broader; skos:narrower,INCLUDE
+dinoseb,,dinoseb,https://lod.nal.usda.gov/nalt/33725,0.99,True,skos:broader; skos:narrower,INCLUDE
+dinotefuran,,dinotefuran,https://lod.nal.usda.gov/nalt/132374,0.99,True,skos:broader; skos:narrower,INCLUDE
+diphacinone,difenadion; diphacine; diphenacin; diphenadione,"diphacinone (difenadion, diphacine, diphenacin, diphenadione)",https://lod.nal.usda.gov/nalt/135573,0.99,True,skos:broader; skos:narrower,INCLUDE
+diquat,,diquat,https://lod.nal.usda.gov/nalt/33945,0.98,True,skos:broader; skos:narrower,INCLUDE
+disease and pest management,,disease and pest management,https://lod.nal.usda.gov/nalt/284,0.79,False,skos:broader; skos:narrower,INCLUDE
+disease control programs,disease control programmes,disease control programs (disease control programmes),https://lod.nal.usda.gov/nalt/34018,0.72,False,skos:broader; skos:narrower,INCLUDE
+disinfection,,disinfection,https://lod.nal.usda.gov/nalt/34020,0.9,False,skos:related,INCLUDE
+disparlure,"(7RS,8SR)-7,8-epoxy-2-methyloctadecane; rel-(2R,3S)-2-decyl-3-(5-methylhexyl)oxirane","disparlure ((7RS,8SR)-7,8-epoxy-2-methyloctadecane, rel-(2R,3S)-2-decyl-3-(5-methylhexyl)oxirane)",https://lod.nal.usda.gov/nalt/6,0.93,False,skos:related,INCLUDE
+disulfoton,,disulfoton,https://lod.nal.usda.gov/nalt/34121,0.99,True,skos:related,INCLUDE
+disulfoton sulfone,,disulfoton sulfone,https://lod.nal.usda.gov/nalt/213672,0.92,True,skos:broader; skos:narrower,INCLUDE
+dithiopyr,,dithiopyr,https://lod.nal.usda.gov/nalt/34132,0.99,True,skos:broader; skos:narrower,INCLUDE
+dodemorph,,dodemorph,https://lod.nal.usda.gov/nalt/34279,0.91,True,skos:broader; skos:narrower,INCLUDE
+DSMA (herbicide),disodium methylarsonate,DSMA (herbicide) (disodium methylarsonate),https://lod.nal.usda.gov/nalt/12376,0.97,True,skos:broader; skos:narrower,INCLUDE
+dust,dusts; house dust; housedust,"dust (dusts, house dust, housedust)",https://lod.nal.usda.gov/nalt/194986,0.95,False,skos:related,INCLUDE
+dusting,,dusting,https://lod.nal.usda.gov/nalt/11338,0.95,False,skos:related,INCLUDE
+EBEP (herbicide),ethyl bis(2-ethylhexyl)phosphinate,EBEP (herbicide) (ethyl bis(2-ethylhexyl)phosphinate),https://lod.nal.usda.gov/nalt/35212,0.96,True,skos:broader; skos:narrower,INCLUDE
+ecdysone agonists,,ecdysone agonists,https://lod.nal.usda.gov/nalt/5221,0.98,False,skos:broader; skos:narrower,INCLUDE
+echinocandins,aculeacins; pneumocandins,"echinocandins (aculeacins, pneumocandins)",https://lod.nal.usda.gov/nalt/238075,0.94,False,skos:related,INCLUDE
+ectoparasiticides,ectoparasitic agents,ectoparasiticides (ectoparasitic agents),https://lod.nal.usda.gov/nalt/78936,0.99,False,skos:broader; skos:narrower,INCLUDE
+eglinazine,,eglinazine,https://lod.nal.usda.gov/nalt/36000,0.95,True,skos:broader; skos:narrower,INCLUDE
+endoparasiticides,,endoparasiticides,https://lod.nal.usda.gov/nalt/314371,0.98,False,skos:broader; skos:narrower,INCLUDE
+erbon,,erbon,https://lod.nal.usda.gov/nalt/37809,0.88,True,skos:broader; skos:narrower,INCLUDE
+esfenvalerate,,esfenvalerate,https://lod.nal.usda.gov/nalt/38145,0.99,True,skos:broader; skos:narrower,INCLUDE
+ethalfluralin,,ethalfluralin,https://lod.nal.usda.gov/nalt/38235,0.98,True,skos:broader; skos:narrower,INCLUDE
+ethion,,ethion,https://lod.nal.usda.gov/nalt/38249,0.99,True,skos:broader; skos:narrower,INCLUDE
+ethofumesate,,ethofumesate,https://lod.nal.usda.gov/nalt/38260,0.98,True,skos:broader; skos:narrower,INCLUDE
+ethoprophos,ethoprop,ethoprophos (ethoprop),https://lod.nal.usda.gov/nalt/38262,0.99,True,skos:broader; skos:narrower,INCLUDE
+etofenprox,,etofenprox,https://lod.nal.usda.gov/nalt/38278,0.99,True,skos:broader; skos:narrower,INCLUDE
+EXD (herbicide),"O,O-diethyl dithiobis(thioformate); diethyl dixanthogen; diethyl thioperoxydicarbonate","EXD (herbicide) (O,O-diethyl dithiobis(thioformate), diethyl dixanthogen, diethyl thioperoxydicarbonate)",https://lod.nal.usda.gov/nalt/124375,0.95,True,skos:broader; skos:narrower,INCLUDE
+fenamiphos,,fenamiphos,https://lod.nal.usda.gov/nalt/39812,0.99,True,skos:broader; skos:narrower,INCLUDE
+fenarimol,,fenarimol,https://lod.nal.usda.gov/nalt/39813,0.99,True,skos:broader; skos:narrower,INCLUDE
+fenpropathrin,,fenpropathrin,https://lod.nal.usda.gov/nalt/39833,0.99,True,skos:broader; skos:narrower,INCLUDE
+fensulfothion,,fensulfothion,https://lod.nal.usda.gov/nalt/39837,0.99,True,skos:broader; skos:narrower,INCLUDE
+fenvalerate,,fenvalerate,https://lod.nal.usda.gov/nalt/39846,0.99,True,skos:broader; skos:narrower,INCLUDE
+flonicamid,,flonicamid,https://lod.nal.usda.gov/nalt/132373,0.99,True,skos:broader; skos:narrower,INCLUDE
+florasulam,,florasulam,https://lod.nal.usda.gov/nalt/125016,0.9,True,skos:broader; skos:narrower,INCLUDE
+flucarbazone,,flucarbazone,https://lod.nal.usda.gov/nalt/125012,0.96,True,skos:broader; skos:narrower,INCLUDE
+fluchloralin,,fluchloralin,https://lod.nal.usda.gov/nalt/40673,0.95,True,skos:broader; skos:narrower,INCLUDE
+flucythrinate,,flucythrinate,https://lod.nal.usda.gov/nalt/40674,0.99,True,skos:broader; skos:narrower,INCLUDE
+flumethrin,,flumethrin,https://lod.nal.usda.gov/nalt/40697,0.98,True,skos:broader; skos:narrower,INCLUDE
+flumetsulam,,flumetsulam,https://lod.nal.usda.gov/nalt/40698,0.9,True,skos:broader; skos:narrower,INCLUDE
+flupoxam,,flupoxam,https://lod.nal.usda.gov/nalt/125013,0.86,True,skos:broader; skos:narrower,INCLUDE
+flupropacil,,flupropacil,https://lod.nal.usda.gov/nalt/40732,0.72,True,skos:broader; skos:narrower,INCLUDE
+flupropanate,,flupropanate,https://lod.nal.usda.gov/nalt/125121,0.78,True,skos:broader; skos:narrower,INCLUDE
+fluroxypyr,,fluroxypyr,https://lod.nal.usda.gov/nalt/40735,0.97,True,skos:broader; skos:narrower,INCLUDE
+fluvalinate,tau-fluvalinate,fluvalinate (tau-fluvalinate),https://lod.nal.usda.gov/nalt/40738,0.99,True,skos:broader; skos:narrower,INCLUDE
+foliar application,,foliar application,https://lod.nal.usda.gov/nalt/11339,0.98,False,skos:broader; skos:narrower,INCLUDE
+folpet,,folpet,https://lod.nal.usda.gov/nalt/33175,0.97,True,skos:broader; skos:narrower,INCLUDE
+fomesafen,,fomesafen,https://lod.nal.usda.gov/nalt/7664,0.97,True,skos:broader; skos:narrower,INCLUDE
+fonofos,,fonofos,https://lod.nal.usda.gov/nalt/40825,0.97,True,skos:broader; skos:narrower,INCLUDE
+fosamine,,fosamine,https://lod.nal.usda.gov/nalt/41302,0.93,True,skos:broader; skos:narrower,INCLUDE
+fumigation,,fumigation,https://lod.nal.usda.gov/nalt/28787,0.97,False,skos:related,INCLUDE
+glufosinate,glufosinate ammonium; phosphinothricin,"glufosinate (glufosinate ammonium, phosphinothricin)",https://lod.nal.usda.gov/nalt/43205,0.98,True,skos:broader; skos:narrower,INCLUDE
+glyphosate,N-(phosphonomethyl)glycine; glyphosphate,"glyphosate (N-(phosphonomethyl)glycine, glyphosphate)",https://lod.nal.usda.gov/nalt/43310,0.99,True,skos:broader; skos:narrower,INCLUDE
+glyphosate-trimesium,glyphosatetrimesium; sulfosate; trimethylsulfonium,"glyphosate-trimesium (glyphosatetrimesium, sulfosate, trimethylsulfonium)",https://lod.nal.usda.gov/nalt/68402,0.97,True,skos:broader; skos:narrower,INCLUDE
+gossyplure,,gossyplure,https://lod.nal.usda.gov/nalt/43547,0.98,False,skos:related,INCLUDE
+grandlure,,grandlure,https://lod.nal.usda.gov/nalt/43652,0.98,False,skos:broader; skos:narrower,INCLUDE
+halosafen,,halosafen,https://lod.nal.usda.gov/nalt/44467,0.99,True,skos:broader; skos:narrower,INCLUDE
+halosulfuron,,halosulfuron,https://lod.nal.usda.gov/nalt/44468,0.99,True,skos:broader; skos:narrower,INCLUDE
+heptachlor,heptachlore,heptachlor (heptachlore),https://lod.nal.usda.gov/nalt/31051,0.99,True,skos:related,INCLUDE
+heptenophos,,heptenophos,https://lod.nal.usda.gov/nalt/45156,0.99,True,skos:broader; skos:narrower,INCLUDE
+herbicide application,,herbicide application,https://lod.nal.usda.gov/nalt/82573,0.86,True,skos:broader; skos:narrower,INCLUDE
+herbicide-resistant weeds,herbicide resistant weeds; herbicide tolerant weeds; herbicide-tolerant weeds,"herbicide-resistant weeds (herbicide resistant weeds, herbicide tolerant weeds, herbicide-tolerant weeds)",https://lod.nal.usda.gov/nalt/45191,0.92,False,skos:related,INCLUDE
+hexaconazole,,hexaconazole,https://lod.nal.usda.gov/nalt/28447,0.99,True,skos:broader; skos:narrower,INCLUDE
+hexaflumuron,,hexaflumuron,https://lod.nal.usda.gov/nalt/16669,1.0,False,skos:broader; skos:narrower,INCLUDE
+hexazinone,,hexazinone,https://lod.nal.usda.gov/nalt/45488,0.98,True,skos:broader; skos:narrower,INCLUDE
+imazalil,,imazalil,https://lod.nal.usda.gov/nalt/28448,0.99,True,skos:broader; skos:narrower,INCLUDE
+imazamethabenz,,imazamethabenz,https://lod.nal.usda.gov/nalt/46941,0.99,True,skos:broader; skos:narrower,INCLUDE
+imazamethabenz-methyl,,imazamethabenz-methyl,https://lod.nal.usda.gov/nalt/213693,0.99,True,skos:broader; skos:narrower,INCLUDE
+imazamox,,imazamox,https://lod.nal.usda.gov/nalt/45202,0.99,True,skos:broader; skos:narrower,INCLUDE
+imazapic,,imazapic,https://lod.nal.usda.gov/nalt/46942,0.99,True,skos:broader; skos:narrower,INCLUDE
+imazapyr,,imazapyr,https://lod.nal.usda.gov/nalt/46943,0.98,True,skos:broader; skos:narrower,INCLUDE
+imazaquin,,imazaquin,https://lod.nal.usda.gov/nalt/46944,0.98,True,skos:broader; skos:narrower,INCLUDE
+imazethapyr,,imazethapyr,https://lod.nal.usda.gov/nalt/46945,0.98,True,skos:broader; skos:narrower,INCLUDE
+imidacloprid,,imidacloprid,https://lod.nal.usda.gov/nalt/46948,0.99,True,skos:broader; skos:narrower,INCLUDE
+insect infestations,,insect infestations,https://lod.nal.usda.gov/nalt/284492,0.92,False,skos:broader; skos:narrower,INCLUDE
+insect traps,,insect traps,https://lod.nal.usda.gov/nalt/36841,0.96,False,skos:related,INCLUDE
+insecticide application,,insecticide application,https://lod.nal.usda.gov/nalt/83516,0.99,True,skos:broader; skos:narrower,INCLUDE
+integrated weed management,,integrated weed management,https://lod.nal.usda.gov/nalt/47464,0.93,False,skos:broader; skos:narrower,INCLUDE
+interrow tillage,,interrow tillage,https://lod.nal.usda.gov/nalt/47069,0.84,False,skos:related,INCLUDE
+iodobonil,,iodobonil,https://lod.nal.usda.gov/nalt/125128,0.91,True,skos:broader; skos:narrower,INCLUDE
+ioxynil,,ioxynil,https://lod.nal.usda.gov/nalt/45204,0.99,True,skos:broader; skos:narrower,INCLUDE
+ipazine,,ipazine,https://lod.nal.usda.gov/nalt/45205,0.95,True,skos:broader; skos:narrower,INCLUDE
+iprodione,,iprodione,https://lod.nal.usda.gov/nalt/33176,0.99,True,skos:broader; skos:narrower,INCLUDE
+iprovalicarb,,iprovalicarb,https://lod.nal.usda.gov/nalt/190788,0.98,True,skos:broader; skos:narrower,INCLUDE
+isazofos,,isazofos,https://lod.nal.usda.gov/nalt/47797,0.99,True,skos:broader; skos:narrower,INCLUDE
+isocarbamid,,isocarbamid,https://lod.nal.usda.gov/nalt/45206,0.9,True,skos:broader; skos:narrower,INCLUDE
+isocil,,isocil,https://lod.nal.usda.gov/nalt/45207,0.93,True,skos:broader; skos:narrower,INCLUDE
+isofenphos,,isofenphos,https://lod.nal.usda.gov/nalt/47866,0.99,True,skos:broader; skos:narrower,INCLUDE
+isopropalin,,isopropalin,https://lod.nal.usda.gov/nalt/45209,0.98,True,skos:broader; skos:narrower,INCLUDE
+isothiocyanates,,isothiocyanates,https://lod.nal.usda.gov/nalt/6757,0.88,False,skos:broader; skos:narrower,INCLUDE
+isouron,,isouron,https://lod.nal.usda.gov/nalt/47908,0.89,True,skos:broader; skos:narrower,INCLUDE
+isoxaben,,isoxaben,https://lod.nal.usda.gov/nalt/7665,0.99,True,skos:broader; skos:narrower,INCLUDE
+isoxachlortole,,isoxachlortole,https://lod.nal.usda.gov/nalt/125105,0.76,True,skos:broader; skos:narrower,INCLUDE
+isoxaflutole,,isoxaflutole,https://lod.nal.usda.gov/nalt/45210,0.99,True,skos:broader; skos:narrower,INCLUDE
+juvenile hormone analogs,JHA (juvenile hormone analog); juvenile hormone analogues; juvenoids,"juvenile hormone analogs (JHA (juvenile hormone analog), juvenile hormone analogues, juvenoids)",https://lod.nal.usda.gov/nalt/39831,0.99,False,skos:broader; skos:narrower,INCLUDE
+juvenile hormone antagonists,anti-juvenile hormone,juvenile hormone antagonists (anti-juvenile hormone),https://lod.nal.usda.gov/nalt/44428,0.98,False,skos:broader; skos:narrower,INCLUDE
+karbutilate,,karbutilate,https://lod.nal.usda.gov/nalt/45211,0.99,True,skos:broader; skos:narrower,INCLUDE
+lambda-cyhalothrin,,lambda-cyhalothrin,https://lod.nal.usda.gov/nalt/49027,0.99,True,skos:broader; skos:narrower,INCLUDE
+lenacil,,lenacil,https://lod.nal.usda.gov/nalt/45213,0.99,True,skos:broader; skos:narrower,INCLUDE
+leptophos,,leptophos,https://lod.nal.usda.gov/nalt/49766,0.99,True,skos:broader; skos:narrower,INCLUDE
+lufenuron,,lufenuron,https://lod.nal.usda.gov/nalt/25217,0.99,False,skos:broader; skos:narrower,INCLUDE
+malaoxon,malathion oxygen analog,malaoxon (malathion oxygen analog),https://lod.nal.usda.gov/nalt/213670,0.99,True,skos:broader; skos:narrower,INCLUDE
+malathion,,malathion,https://lod.nal.usda.gov/nalt/51269,1.0,True,skos:broader; skos:narrower,INCLUDE
+maleic hydrazide,"1,2,3,6-tetrahydro-3,6-dioxopyridazine; 1,2-dihydro-3,6-pyradizinedione; 1,2-dihydropyridazine-3,6-dione; 6-hydroxy-3(2H)-pyridazinone; MH (herbicide); maleic acid hydrazide","maleic hydrazide (1,2,3,6-tetrahydro-3,6-dioxopyridazine, 1,2-dihydro-3,6-pyradizinedione, 1,2-dihydropyridazine-3,6-dione, 6-hydroxy-3(2H)-pyridazinone, MH (herbicide), maleic acid hydrazide)",https://lod.nal.usda.gov/nalt/45214,0.97,True,skos:broader; skos:narrower,INCLUDE
+mammal repellents,,mammal repellents,https://lod.nal.usda.gov/nalt/302643,0.98,False,skos:broader; skos:narrower,INCLUDE
+manual weed control,handweeding,manual weed control (handweeding),https://lod.nal.usda.gov/nalt/44545,0.98,False,skos:broader; skos:narrower,INCLUDE
+mating disruptors,,mating disruptors,https://lod.nal.usda.gov/nalt/306977,0.91,False,skos:related,INCLUDE
+mechanical weed control,machine weeding; mechanical weeding; mechnical weed management,"mechanical weed control (machine weeding, mechanical weeding, mechnical weed management)",https://lod.nal.usda.gov/nalt/51009,0.98,False,skos:broader; skos:narrower,INCLUDE
+medinoterb,,medinoterb,https://lod.nal.usda.gov/nalt/125113,0.93,True,skos:broader; skos:narrower,INCLUDE
+mesotrione,,mesotrione,https://lod.nal.usda.gov/nalt/45217,0.97,True,skos:broader; skos:narrower,INCLUDE
+metabolic inhibitors,,metabolic inhibitors,https://lod.nal.usda.gov/nalt/25215,0.92,False,skos:broader; skos:narrower,INCLUDE
+metalyxyl-M,"methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)-D-alaninate; methyl N-(methoxyacetyl)-N-2,6-xylyl-D-alaninate","metalyxyl-M (methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)-D-alaninate, methyl N-(methoxyacetyl)-N-2,6-xylyl-D-alaninate)",https://lod.nal.usda.gov/nalt/288836,0.97,True,skos:broader; skos:narrower,INCLUDE
+metamitron,,metamitron,https://lod.nal.usda.gov/nalt/52248,0.97,True,skos:broader; skos:narrower,INCLUDE
+metazachlor,,metazachlor,https://lod.nal.usda.gov/nalt/25356,0.97,True,skos:broader; skos:narrower,INCLUDE
+methabenzthiazuron,,methabenzthiazuron,https://lod.nal.usda.gov/nalt/52301,0.97,True,skos:broader; skos:narrower,INCLUDE
+methamidophos,,methamidophos,https://lod.nal.usda.gov/nalt/52302,0.99,True,skos:broader; skos:narrower,INCLUDE
+methazole,,methazole,https://lod.nal.usda.gov/nalt/45221,0.96,True,skos:broader; skos:narrower,INCLUDE
+methoprotryn,,methoprotryn,https://lod.nal.usda.gov/nalt/45223,0.96,True,skos:broader; skos:narrower,INCLUDE
+methoxyacrylate strobilurin fungicides,,methoxyacrylate strobilurin fungicides,https://lod.nal.usda.gov/nalt/331491,0.98,True,skos:broader; skos:narrower,INCLUDE
+methoxychlor,,methoxychlor,https://lod.nal.usda.gov/nalt/52341,0.99,True,skos:broader; skos:narrower,INCLUDE
+methyl iodide,iodomethane,methyl iodide (iodomethane),https://lod.nal.usda.gov/nalt/125123,0.98,True,skos:broader; skos:narrower,INCLUDE
+methylarsonic acid,MAA (methylarsonic acid),methylarsonic acid (MAA (methylarsonic acid)),https://lod.nal.usda.gov/nalt/45224,0.94,True,skos:broader; skos:narrower,INCLUDE
+methylcarbamates,methyl carbamates,methylcarbamates (methyl carbamates),https://lod.nal.usda.gov/nalt/22185,0.9,False,skos:broader; skos:narrower,INCLUDE
+metolachlor ethanesulfonic acid,ESA-metolachlor; MESA (metolachlor ethane sulfonic acid); metolachlor ethane sulfonic acid; metolachlor sulfonic acid; metolachlor-ESA,"metolachlor ethanesulfonic acid (ESA-metolachlor, MESA (metolachlor ethane sulfonic acid), metolachlor ethane sulfonic acid, metolachlor sulfonic acid, metolachlor-ESA)",https://lod.nal.usda.gov/nalt/324679,0.92,True,skos:related,INCLUDE
+metolachlor oxanilic acid,MOXA (metolachlor oxanilic acid); OXA-metolachlor,"metolachlor oxanilic acid (MOXA (metolachlor oxanilic acid), OXA-metolachlor)",https://lod.nal.usda.gov/nalt/324677,0.92,True,skos:related,INCLUDE
+metosulam,,metosulam,https://lod.nal.usda.gov/nalt/45225,0.88,True,skos:broader; skos:narrower,INCLUDE
+metribuzin,,metribuzin,https://lod.nal.usda.gov/nalt/52485,0.97,True,skos:broader; skos:narrower,INCLUDE
+mevinphos,,mevinphos,https://lod.nal.usda.gov/nalt/52507,0.98,True,skos:broader; skos:narrower,INCLUDE
+MGK-264,N-Octyl bicycloheptene dicarboximide,MGK-264 (N-Octyl bicycloheptene dicarboximide),https://lod.nal.usda.gov/nalt/213673,0.97,True,skos:broader; skos:narrower,INCLUDE
+monoammonium methylarsonate,MAMA (herbicide); MAMA (monoammonium methylarsonate); ammonium hydrogen methylarsonate,"monoammonium methylarsonate (MAMA (herbicide), MAMA (monoammonium methylarsonate), ammonium hydrogen methylarsonate)",https://lod.nal.usda.gov/nalt/7969,0.98,True,skos:broader; skos:narrower,INCLUDE
+monocrotophos,,monocrotophos,https://lod.nal.usda.gov/nalt/53365,0.99,True,skos:broader; skos:narrower,INCLUDE
+monoisouron,,monoisouron,https://lod.nal.usda.gov/nalt/125135,0.92,True,skos:broader; skos:narrower,INCLUDE
+moxidectin,milbemycin B,moxidectin (milbemycin B),https://lod.nal.usda.gov/nalt/9928,0.9,True,skos:broader; skos:narrower,INCLUDE
+MSMA (herbicide),monosodium methane arsonate; monosodium methanearsonate; monosodium methylarsonate,"MSMA (herbicide) (monosodium methane arsonate, monosodium methanearsonate, monosodium methylarsonate)",https://lod.nal.usda.gov/nalt/12377,0.99,True,skos:broader; skos:narrower,INCLUDE
+muscalure,(Z)-9-tricosene,muscalure ((Z)-9-tricosene),https://lod.nal.usda.gov/nalt/105816,0.99,False,skos:broader; skos:narrower,INCLUDE
+myclobutanil,,myclobutanil,https://lod.nal.usda.gov/nalt/28449,0.98,True,skos:broader; skos:narrower,INCLUDE
+mycoinsecticides,fungal insecticides,mycoinsecticides (fungal insecticides),https://lod.nal.usda.gov/nalt/41801,0.99,True,skos:broader; skos:narrower,INCLUDE
+naled,,naled,https://lod.nal.usda.gov/nalt/54302,0.99,True,skos:broader; skos:narrower,INCLUDE
+napropamide,,napropamide,https://lod.nal.usda.gov/nalt/7666,0.95,True,skos:broader; skos:narrower,INCLUDE
+naptalam,,naptalam,https://lod.nal.usda.gov/nalt/7667,0.95,True,skos:broader; skos:narrower,INCLUDE
+natamycin,,natamycin,https://lod.nal.usda.gov/nalt/10324,0.9,False,skos:broader; skos:narrower,INCLUDE
+nitenpyram,,nitenpyram,https://lod.nal.usda.gov/nalt/33044,0.98,True,skos:broader; skos:narrower,INCLUDE
+nitralin,,nitralin,https://lod.nal.usda.gov/nalt/45230,0.9,True,skos:broader; skos:narrower,INCLUDE
+nitrophenyl ether herbicides,,nitrophenyl ether herbicides,https://lod.nal.usda.gov/nalt/125115,0.97,True,skos:broader; skos:narrower,INCLUDE
+norflurazon,,norflurazon,https://lod.nal.usda.gov/nalt/55221,0.99,True,skos:broader; skos:narrower,INCLUDE
+novaluron,,novaluron,https://lod.nal.usda.gov/nalt/123158,0.99,False,skos:broader; skos:narrower,INCLUDE
+noxious weeds,,noxious weeds,https://lod.nal.usda.gov/nalt/4544,0.86,False,skos:related,INCLUDE
+nozzles,spray jets; spray nozzles,"nozzles (spray jets, spray nozzles)",https://lod.nal.usda.gov/nalt/39456,0.98,False,skos:broader; skos:narrower,INCLUDE
+nuarimol,,nuarimol,https://lod.nal.usda.gov/nalt/55357,0.98,True,skos:broader; skos:narrower,INCLUDE
+nursery pests,,nursery pests,https://lod.nal.usda.gov/nalt/314221,0.94,False,skos:broader; skos:narrower,INCLUDE
+oligomycin,,oligomycin,https://lod.nal.usda.gov/nalt/10326,0.86,False,skos:broader; skos:narrower,INCLUDE
+organothiophosphate insecticides,,organothiophosphate insecticides,https://lod.nal.usda.gov/nalt/14299,0.99,True,skos:broader; skos:narrower,INCLUDE
+oryzalin,,oryzalin,https://lod.nal.usda.gov/nalt/45235,0.99,True,skos:broader; skos:narrower,INCLUDE
+oxadiargyl,,oxadiargyl,https://lod.nal.usda.gov/nalt/45236,0.99,True,skos:broader; skos:narrower,INCLUDE
+oxadiazoles,,oxadiazoles,https://lod.nal.usda.gov/nalt/311548,0.89,False,skos:broader; skos:narrower,INCLUDE
+oxadiazon,,oxadiazon,https://lod.nal.usda.gov/nalt/45237,0.99,True,skos:broader; skos:narrower,INCLUDE
+paraoxon,,paraoxon,https://lod.nal.usda.gov/nalt/56129,0.97,True,skos:broader; skos:narrower,INCLUDE
+parasitoses,ectoparasitoses; parasitic diseases; parasitic infections; parasitic infestations,"parasitoses (ectoparasitoses, parasitic diseases, parasitic infections, parasitic infestations)",https://lod.nal.usda.gov/nalt/10499,0.84,False,skos:related,INCLUDE
+parathion,,parathion,https://lod.nal.usda.gov/nalt/56120,0.99,True,skos:broader; skos:narrower,INCLUDE
+parathion ethyl,,parathion ethyl,https://lod.nal.usda.gov/nalt/213674,0.99,True,skos:broader; skos:narrower,INCLUDE
+paratransgenesis,,paratransgenesis,https://lod.nal.usda.gov/nalt/277578,0.78,False,skos:related,INCLUDE
+pebulate,PEBC (herbicide); S-propyl butylethylcarbamothioate; S-propyl butylethylthiocarbamate,"pebulate (PEBC (herbicide), S-propyl butylethylcarbamothioate, S-propyl butylethylthiocarbamate)",https://lod.nal.usda.gov/nalt/45240,0.95,True,skos:broader; skos:narrower,INCLUDE
+pediculosis,,pediculosis,https://lod.nal.usda.gov/nalt/50005,0.97,False,skos:broader; skos:narrower,INCLUDE
+penconazole,,penconazole,https://lod.nal.usda.gov/nalt/28450,0.83,True,skos:broader; skos:narrower,INCLUDE
+pencycuron,,pencycuron,https://lod.nal.usda.gov/nalt/41860,0.97,True,skos:broader; skos:narrower,INCLUDE
+pendimethalin,,pendimethalin,https://lod.nal.usda.gov/nalt/45242,0.98,True,skos:broader; skos:narrower,INCLUDE
+permethrin,,permethrin,https://lod.nal.usda.gov/nalt/57493,0.99,True,skos:broader; skos:narrower,INCLUDE
+perthane,ethylan,perthane (ethylan),https://lod.nal.usda.gov/nalt/213705,0.98,True,skos:broader; skos:narrower,INCLUDE
+pesticidal plants,insecticidal plants; nematicidal plants; pesticide crops,"pesticidal plants (insecticidal plants, nematicidal plants, pesticide crops)",https://lod.nal.usda.gov/nalt/18788,0.84,False,skos:related,INCLUDE
+pesticidal properties,bioherbicidal potential; pesticidal action; pesticidal activity; pesticidal effects; pesticide action; pesticide activity; pesticide properties,"pesticidal properties (bioherbicidal potential, pesticidal action, pesticidal activity, pesticidal effects, pesticide action, pesticide activity, pesticide properties)",https://lod.nal.usda.gov/nalt/2071,0.87,False,skos:broader; skos:narrower,INCLUDE
+pesticide resistance,knockdown resistance; nematicide resistance; pesticide tolerance,"pesticide resistance (knockdown resistance, nematicide resistance, pesticide tolerance)",https://lod.nal.usda.gov/nalt/133,0.9,False,skos:broader; skos:narrower,INCLUDE
+phenisopham,,phenisopham,https://lod.nal.usda.gov/nalt/45244,0.78,True,skos:broader; skos:narrower,INCLUDE
+phenmedipham,,phenmedipham,https://lod.nal.usda.gov/nalt/22172,0.94,True,skos:broader; skos:narrower,INCLUDE
+phenothrin,,phenothrin,https://lod.nal.usda.gov/nalt/57749,0.99,True,skos:broader; skos:narrower,INCLUDE
+phenoxyacetic herbicides,,phenoxyacetic herbicides,https://lod.nal.usda.gov/nalt/125141,0.91,True,skos:broader; skos:narrower,INCLUDE
+phenoxybutyric herbicides,,phenoxybutyric herbicides,https://lod.nal.usda.gov/nalt/125142,0.91,True,skos:broader; skos:narrower,INCLUDE
+phenoxypropionic herbicides,,phenoxypropionic herbicides,https://lod.nal.usda.gov/nalt/125143,0.91,True,skos:broader; skos:narrower,INCLUDE
+phenylmercury nitrate,,phenylmercury nitrate,https://lod.nal.usda.gov/nalt/10327,0.92,True,skos:broader; skos:narrower,INCLUDE
+phenylurea herbicides,,phenylurea herbicides,https://lod.nal.usda.gov/nalt/57759,0.91,True,skos:broader; skos:narrower,INCLUDE
+phorate,,phorate,https://lod.nal.usda.gov/nalt/56131,0.99,True,skos:broader; skos:narrower,INCLUDE
+phorate oxygen analog,Phorate oxon,phorate oxygen analog (Phorate oxon),https://lod.nal.usda.gov/nalt/213701,0.99,True,skos:broader; skos:narrower,INCLUDE
+phorate sulfone,,phorate sulfone,https://lod.nal.usda.gov/nalt/213668,0.98,True,skos:broader; skos:narrower,INCLUDE
+phosalone,,phosalone,https://lod.nal.usda.gov/nalt/56121,0.99,True,skos:broader; skos:narrower,INCLUDE
+phosmet,,phosmet,https://lod.nal.usda.gov/nalt/56122,0.99,True,skos:broader; skos:narrower,INCLUDE
+phosphamidon,,phosphamidon,https://lod.nal.usda.gov/nalt/56130,0.99,True,skos:broader; skos:narrower,INCLUDE
+physical control,,physical control,https://lod.nal.usda.gov/nalt/68703,0.98,False,skos:broader; skos:narrower,INCLUDE
+picloram,"4-amino-3,5,6-trichloro-2-pyridinecarboxylic acid; 4-amino-3,5,6-trichloropicolinic acid; 4-amino-3,5,6-trichloropyridine-2-carboxylic acid","picloram (4-amino-3,5,6-trichloro-2-pyridinecarboxylic acid, 4-amino-3,5,6-trichloropicolinic acid, 4-amino-3,5,6-trichloropyridine-2-carboxylic acid)",https://lod.nal.usda.gov/nalt/12292,0.98,True,skos:broader; skos:narrower,INCLUDE
+piperophos,,piperophos,https://lod.nal.usda.gov/nalt/45245,0.99,True,skos:broader; skos:narrower,INCLUDE
+plant and animal inspection,,plant and animal inspection,https://lod.nal.usda.gov/nalt/9238,0.9,False,skos:broader; skos:narrower,INCLUDE
+plant disease control,,plant disease control,https://lod.nal.usda.gov/nalt/142470,0.95,False,skos:broader; skos:narrower,INCLUDE
+portable sprayers,,portable sprayers,https://lod.nal.usda.gov/nalt/48521,0.87,False,skos:broader; skos:narrower,INCLUDE
+postemergent weed control,post-emergence weed control; post-emergent weed control; postemergence weed control,"postemergent weed control (post-emergence weed control, post-emergent weed control, postemergence weed control)",https://lod.nal.usda.gov/nalt/59363,0.99,False,skos:broader; skos:narrower,INCLUDE
+potassium cyanate,KOCN (herbicide),potassium cyanate (KOCN (herbicide)),https://lod.nal.usda.gov/nalt/30949,0.99,True,skos:broader; skos:narrower,INCLUDE
+prallethrin,,prallethrin,https://lod.nal.usda.gov/nalt/213729,0.99,True,skos:broader; skos:narrower,INCLUDE
+preemergent weed control,,preemergent weed control,https://lod.nal.usda.gov/nalt/59557,0.99,False,skos:broader; skos:narrower,INCLUDE
+preharvest treatment,preharvest application; preharvest sprays,"preharvest treatment (preharvest application, preharvest sprays)",https://lod.nal.usda.gov/nalt/11359,0.88,False,skos:related,INCLUDE
+prochloraz,,prochloraz,https://lod.nal.usda.gov/nalt/28451,0.99,True,skos:broader; skos:narrower,INCLUDE
+procyazine,,procyazine,https://lod.nal.usda.gov/nalt/45246,0.99,True,skos:broader; skos:narrower,INCLUDE
+procymidone,,procymidone,https://lod.nal.usda.gov/nalt/33177,0.99,True,skos:broader; skos:narrower,INCLUDE
+prodiamine,,prodiamine,https://lod.nal.usda.gov/nalt/45247,0.99,True,skos:broader; skos:narrower,INCLUDE
+profluralin,,profluralin,https://lod.nal.usda.gov/nalt/45248,0.99,True,skos:broader; skos:narrower,INCLUDE
+profoxydim,,profoxydim,https://lod.nal.usda.gov/nalt/31060,0.98,True,skos:broader; skos:narrower,INCLUDE
+proglinazine,,proglinazine,https://lod.nal.usda.gov/nalt/45249,0.97,True,skos:broader; skos:narrower,INCLUDE
+prometon,,prometon,https://lod.nal.usda.gov/nalt/59784,0.99,True,skos:broader; skos:narrower,INCLUDE
+prometryn,prometryne,prometryn (prometryne),https://lod.nal.usda.gov/nalt/59785,0.99,True,skos:broader; skos:narrower,INCLUDE
+pronamide,,pronamide,https://lod.nal.usda.gov/nalt/45250,0.99,True,skos:broader; skos:narrower,INCLUDE
+propamocarb,,propamocarb,https://lod.nal.usda.gov/nalt/41864,0.99,True,skos:broader; skos:narrower,INCLUDE
+propazine,,propazine,https://lod.nal.usda.gov/nalt/59798,0.99,True,skos:broader; skos:narrower,INCLUDE
+propetamphos,,propetamphos,https://lod.nal.usda.gov/nalt/56123,0.99,True,skos:broader; skos:narrower,INCLUDE
+propham,,propham,https://lod.nal.usda.gov/nalt/22174,0.98,True,skos:broader; skos:narrower,INCLUDE
+propiconazole,,propiconazole,https://lod.nal.usda.gov/nalt/28452,0.99,True,skos:broader; skos:narrower,INCLUDE
+propoxycarbazone,,propoxycarbazone,https://lod.nal.usda.gov/nalt/59855,0.99,True,skos:broader; skos:narrower,INCLUDE
+propyzamide,,propyzamide,https://lod.nal.usda.gov/nalt/7668,0.99,True,skos:broader; skos:narrower,INCLUDE
+proxan,IPX (herbicide); O-isopropyl hydrogen dithiocarbonate,"proxan (IPX (herbicide), O-isopropyl hydrogen dithiocarbonate)",https://lod.nal.usda.gov/nalt/45253,0.98,True,skos:broader; skos:narrower,INCLUDE
+proxan-sodium,,proxan-sodium,https://lod.nal.usda.gov/nalt/45254,0.97,True,skos:broader; skos:narrower,INCLUDE
+pyraclonil,,pyraclonil,https://lod.nal.usda.gov/nalt/125129,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyraclostrobin,,pyraclostrobin,https://lod.nal.usda.gov/nalt/41865,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyraflufen ethyl,,pyraflufen ethyl,https://lod.nal.usda.gov/nalt/213740,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyrethrins,pyrethroids,pyrethrins (pyrethroids),https://lod.nal.usda.gov/nalt/53410,0.99,False,skos:related,INCLUDE
+pyriclor,,pyriclor,https://lod.nal.usda.gov/nalt/45257,0.98,True,skos:broader; skos:narrower,INCLUDE
+pyridate,,pyridate,https://lod.nal.usda.gov/nalt/45258,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyriproxyfen,,pyriproxyfen,https://lod.nal.usda.gov/nalt/60627,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyrithiobac,,pyrithiobac,https://lod.nal.usda.gov/nalt/12293,0.98,True,skos:broader; skos:narrower,INCLUDE
+pyroxasulfone,,pyroxasulfone,https://lod.nal.usda.gov/nalt/125136,0.99,True,skos:broader; skos:narrower,INCLUDE
+pyroxsulam,,pyroxsulam,https://lod.nal.usda.gov/nalt/342872,0.99,True,skos:broader; skos:narrower,INCLUDE
+quinclorac,,quinclorac,https://lod.nal.usda.gov/nalt/12294,0.98,True,skos:broader; skos:narrower,INCLUDE
+quinmerac,,quinmerac,https://lod.nal.usda.gov/nalt/12295,0.98,True,skos:broader; skos:narrower,INCLUDE
+quinonamid,,quinonamid,https://lod.nal.usda.gov/nalt/45260,0.9,True,skos:broader; skos:narrower,INCLUDE
+resmethrin,,resmethrin,https://lod.nal.usda.gov/nalt/60628,0.99,True,skos:broader; skos:narrower,INCLUDE
+"s,s,s-tributyl phosphorotrithioate",DEF (Tribufos); DEF (defoliant); tribufos; tribuphos,"s,s,s-tributyl phosphorotrithioate (DEF (Tribufos), DEF (defoliant), tribufos, tribuphos)",https://lod.nal.usda.gov/nalt/31961,0.86,False,skos:related,INCLUDE
+saflufenacil,,saflufenacil,https://lod.nal.usda.gov/nalt/302068,0.91,True,skos:broader; skos:narrower,INCLUDE
+sanitation,,sanitation,https://lod.nal.usda.gov/nalt/28733,0.74,False,skos:broader; skos:narrower,INCLUDE
+sanitation felling,,sanitation felling,https://lod.nal.usda.gov/nalt/306615,0.88,False,skos:related,INCLUDE
+scrub control,,scrub control,https://lod.nal.usda.gov/nalt/306639,0.71,False,skos:broader; skos:narrower,INCLUDE
+secbumeton,,secbumeton,https://lod.nal.usda.gov/nalt/45262,0.93,True,skos:broader; skos:narrower,INCLUDE
+seed destructors,,seed destructors,https://lod.nal.usda.gov/nalt/322531,0.77,False,skos:related,INCLUDE
+sesone,,sesone,https://lod.nal.usda.gov/nalt/45263,0.89,True,skos:broader; skos:narrower,INCLUDE
+sethoxydim,,sethoxydim,https://lod.nal.usda.gov/nalt/45264,0.97,True,skos:broader; skos:narrower,INCLUDE
+simazine,,simazine,https://lod.nal.usda.gov/nalt/63117,0.95,True,skos:broader; skos:narrower,INCLUDE
+simeton,,simeton,https://lod.nal.usda.gov/nalt/45266,0.94,True,skos:broader; skos:narrower,INCLUDE
+simetryn,simetryne,simetryn (simetryne),https://lod.nal.usda.gov/nalt/63118,0.94,True,skos:broader; skos:narrower,INCLUDE
+sodium chlorate,,sodium chlorate,https://lod.nal.usda.gov/nalt/25295,0.91,True,skos:broader; skos:narrower,INCLUDE
+sodium monochloroacetate,"SMA (herbicide); SMCA (herbicide); chloroacetic acid, sodium salt; monochloroacetic acid, sodium salt; sodium chloroacetate","sodium monochloroacetate (SMA (herbicide), SMCA (herbicide), chloroacetic acid, sodium salt, monochloroacetic acid, sodium salt, sodium chloroacetate)",https://lod.nal.usda.gov/nalt/124397,0.89,True,skos:broader; skos:narrower,INCLUDE
+soil fumigants,soil sterilants,soil fumigants (soil sterilants),https://lod.nal.usda.gov/nalt/302887,0.98,False,skos:broader; skos:narrower,INCLUDE
+soil fumigation,,soil fumigation,https://lod.nal.usda.gov/nalt/41750,0.97,False,skos:related,INCLUDE
+spinosyn A,spinosyn-A,spinosyn A (spinosyn-A),https://lod.nal.usda.gov/nalt/332152,0.99,False,skos:related,INCLUDE
+spinosyn D,spinosyn-D,spinosyn D (spinosyn-D),https://lod.nal.usda.gov/nalt/332154,0.99,False,skos:related,INCLUDE
+sulcotrione,,sulcotrione,https://lod.nal.usda.gov/nalt/125097,0.99,True,skos:broader; skos:narrower,INCLUDE
+sulfallate,2-chloroallyl diethyldithiocarbamate; CDEC (herbicide),"sulfallate (2-chloroallyl diethyldithiocarbamate, CDEC (herbicide))",https://lod.nal.usda.gov/nalt/1378,0.99,True,skos:broader; skos:narrower,INCLUDE
+sulfentrazone,,sulfentrazone,https://lod.nal.usda.gov/nalt/45268,0.99,True,skos:broader; skos:narrower,INCLUDE
+sulfonamide herbicides,,sulfonamide herbicides,https://lod.nal.usda.gov/nalt/125017,0.97,True,skos:broader; skos:narrower,INCLUDE
+sulfonylurea herbicides,sulfonyl urea herbicides; sulfonyl-urea herbicides,"sulfonylurea herbicides (sulfonyl urea herbicides, sulfonyl-urea herbicides)",https://lod.nal.usda.gov/nalt/16626,0.97,True,skos:broader; skos:narrower,INCLUDE
+sulfoxaflor,,sulfoxaflor,https://lod.nal.usda.gov/nalt/341217,0.99,True,skos:broader; skos:narrower,INCLUDE
+swep,,swep,https://lod.nal.usda.gov/nalt/45269,0.98,True,skos:broader; skos:narrower,INCLUDE
+synthetic pheromones,,synthetic pheromones,https://lod.nal.usda.gov/nalt/296744,0.98,False,skos:related,INCLUDE
+tebuconazole,folicur,tebuconazole (folicur),https://lod.nal.usda.gov/nalt/28453,0.99,True,skos:broader; skos:narrower,INCLUDE
+tebupirimfos,phostebupirim,tebupirimfos (phostebupirim),https://lod.nal.usda.gov/nalt/213724,0.99,True,skos:broader; skos:narrower,INCLUDE
+teflubenzuron,,teflubenzuron,https://lod.nal.usda.gov/nalt/16670,0.99,False,skos:broader; skos:narrower,INCLUDE
+tefluthrin,,tefluthrin,https://lod.nal.usda.gov/nalt/60629,0.99,True,skos:broader; skos:narrower,INCLUDE
+tefuryltrione,,tefuryltrione,https://lod.nal.usda.gov/nalt/125098,0.99,True,skos:broader; skos:narrower,INCLUDE
+tembotrione,,tembotrione,https://lod.nal.usda.gov/nalt/125099,0.99,True,skos:broader; skos:narrower,INCLUDE
+terbacil,,terbacil,https://lod.nal.usda.gov/nalt/45270,0.99,True,skos:broader; skos:narrower,INCLUDE
+terbufos,,terbufos,https://lod.nal.usda.gov/nalt/56132,0.99,True,skos:broader; skos:narrower,INCLUDE
+terbumeton,,terbumeton,https://lod.nal.usda.gov/nalt/45272,0.99,True,skos:broader; skos:narrower,INCLUDE
+terbuthylazine,,terbuthylazine,https://lod.nal.usda.gov/nalt/65586,0.99,True,skos:broader; skos:narrower,INCLUDE
+terbutryn,,terbutryn,https://lod.nal.usda.gov/nalt/65587,0.95,True,skos:broader; skos:narrower,INCLUDE
+tetrachlorvinphos,stirofos,tetrachlorvinphos (stirofos),https://lod.nal.usda.gov/nalt/56124,0.99,True,skos:broader; skos:narrower,INCLUDE
+tetramethrin,,tetramethrin,https://lod.nal.usda.gov/nalt/60630,0.99,True,skos:broader; skos:narrower,INCLUDE
+thiabendazole,5-hydroxythiabendazole,thiabendazole (5-hydroxythiabendazole),https://lod.nal.usda.gov/nalt/9936,0.91,False,skos:related,INCLUDE
+thiacloprid,,thiacloprid,https://lod.nal.usda.gov/nalt/132376,0.99,True,skos:broader; skos:narrower,INCLUDE
+thiadiazolylurea herbicides,,thiadiazolylurea herbicides,https://lod.nal.usda.gov/nalt/125155,0.88,True,skos:broader; skos:narrower,INCLUDE
+thiamethoxam,,thiamethoxam,https://lod.nal.usda.gov/nalt/47431,0.99,True,skos:broader; skos:narrower,INCLUDE
+thiazopyr,,thiazopyr,https://lod.nal.usda.gov/nalt/60639,0.93,True,skos:broader; skos:narrower,INCLUDE
+thiocarbamates,,thiocarbamates,https://lod.nal.usda.gov/nalt/22187,0.78,False,skos:broader; skos:narrower,INCLUDE
+thiophanate-ethyl,,thiophanate-ethyl,https://lod.nal.usda.gov/nalt/241732,0.93,True,skos:broader; skos:narrower,INCLUDE
+thiophanate-methyl,methyl-thiophanate,thiophanate-methyl (methyl-thiophanate),https://lod.nal.usda.gov/nalt/16651,0.97,True,skos:broader; skos:narrower,INCLUDE
+topramezone,,topramezone,https://lod.nal.usda.gov/nalt/125137,0.93,True,skos:broader; skos:narrower,INCLUDE
+toxaphene,camphechlor,toxaphene (camphechlor),https://lod.nal.usda.gov/nalt/21599,0.99,True,skos:broader; skos:narrower,INCLUDE
+tralomethrin,,tralomethrin,https://lod.nal.usda.gov/nalt/213694,0.99,True,skos:broader; skos:narrower,INCLUDE
+trapping,,trapping,https://lod.nal.usda.gov/nalt/22090,0.96,False,skos:related,INCLUDE
+triadimefon,,triadimefon,https://lod.nal.usda.gov/nalt/28454,0.99,True,skos:broader; skos:narrower,INCLUDE
+triadimenol,,triadimenol,https://lod.nal.usda.gov/nalt/28455,0.99,True,skos:broader; skos:narrower,INCLUDE
+triazofenamide,,triazofenamide,https://lod.nal.usda.gov/nalt/66324,0.92,True,skos:broader; skos:narrower,INCLUDE
+triazoles,,triazoles,https://lod.nal.usda.gov/nalt/14331,0.86,False,skos:broader; skos:narrower,INCLUDE
+triazophos,,triazophos,https://lod.nal.usda.gov/nalt/56125,0.99,True,skos:broader; skos:narrower,INCLUDE
+trichlorfon,,trichlorfon,https://lod.nal.usda.gov/nalt/9937,0.99,True,skos:broader; skos:narrower,INCLUDE
+triclopyr,"3,5,6-TPA; 3,5,6-trichloro-2-pyridyloxyacetic acid; triclopyr butoxyethyl ester; triclopyr triethylamine salt; triclopyr-(3,5,6-trichloro-2-pyridl-oxyacetic acid)","triclopyr (3,5,6-TPA, 3,5,6-trichloro-2-pyridyloxyacetic acid, triclopyr butoxyethyl ester, triclopyr triethylamine salt, triclopyr-(3,5,6-trichloro-2-pyridl-oxyacetic acid))",https://lod.nal.usda.gov/nalt/45279,0.98,True,skos:broader; skos:narrower,INCLUDE
+tridemorph,,tridemorph,https://lod.nal.usda.gov/nalt/53499,0.98,True,skos:broader; skos:narrower,INCLUDE
+triflumuron,,triflumuron,https://lod.nal.usda.gov/nalt/16671,0.99,False,skos:broader; skos:narrower,INCLUDE
+trifluralin,trifluraline,trifluralin (trifluraline),https://lod.nal.usda.gov/nalt/45282,0.99,True,skos:broader; skos:narrower,INCLUDE
+trifopsime,,trifopsime,https://lod.nal.usda.gov/nalt/125140,0.97,True,skos:broader; skos:narrower,INCLUDE
+triforine,,triforine,https://lod.nal.usda.gov/nalt/41873,0.93,True,skos:broader; skos:narrower,INCLUDE
+trimedlure,"1,1-dimethylethyl 4(or 5)-chloro-2-methylcyclohexanecarboxylate; tert-butyl 4(or 5)-chloro-2-methylcyclohexanecarboxylate","trimedlure (1,1-dimethylethyl 4(or 5)-chloro-2-methylcyclohexanecarboxylate, tert-butyl 4(or 5)-chloro-2-methylcyclohexanecarboxylate)",https://lod.nal.usda.gov/nalt/1156,0.96,False,skos:broader; skos:narrower,INCLUDE
+vinclozolin,,vinclozolin,https://lod.nal.usda.gov/nalt/33178,0.98,True,skos:broader; skos:narrower,INCLUDE
+viral insecticides,,viral insecticides,https://lod.nal.usda.gov/nalt/47419,0.96,True,skos:broader; skos:narrower,INCLUDE
+"2,4,5-T","2,4,5-trichlorophenoxy acetic acid; 2,4,5-trichlorophenoxyacetic acid","2,4,5-T (2,4,5-trichlorophenoxy acetic acid, 2,4,5-trichlorophenoxyacetic acid)",https://lod.nal.usda.gov/nalt/1343,0.99,True,skos:broader; skos:narrower,INCLUDE
+"2,4,5-TB","2,4,5-trichlorophenoxy butyric acid; 2,4,5-trichlorophenoxybutyric acid","2,4,5-TB (2,4,5-trichlorophenoxy butyric acid, 2,4,5-trichlorophenoxybutyric acid)",https://lod.nal.usda.gov/nalt/1346,0.99,True,skos:broader; skos:narrower,INCLUDE
+"2,4-D","2,4-dichlorophenoxy acetic acid; 2,4-dichlorophenoxyacetic acid","2,4-D (2,4-dichlorophenoxy acetic acid, 2,4-dichlorophenoxyacetic acid)",https://lod.nal.usda.gov/nalt/1353,0.99,True,skos:broader; skos:narrower,INCLUDE
+"2,4-DB","2,4-dichlorophenoxy butyric acid; 2,4-dichlorophenoxybutyric acid","2,4-DB (2,4-dichlorophenoxy butyric acid, 2,4-dichlorophenoxybutyric acid)",https://lod.nal.usda.gov/nalt/1356,0.99,True,skos:broader; skos:narrower,INCLUDE
+"3,4-DA","3,4-dichlorophenoxy acetic acid; 3,4-dichlorophenoxyacetic acid","3,4-DA (3,4-dichlorophenoxy acetic acid, 3,4-dichlorophenoxyacetic acid)",https://lod.nal.usda.gov/nalt/1427,0.95,True,skos:broader; skos:narrower,INCLUDE
+"3,4-DB","4-(3,4-dichlorophenoxy)butanoic acid; 4-(3,4-dichlorophenoxy)butyric acid","3,4-DB (4-(3,4-dichlorophenoxy)butanoic acid, 4-(3,4-dichlorophenoxy)butyric acid)",https://lod.nal.usda.gov/nalt/1430,0.95,True,skos:broader; skos:narrower,INCLUDE
+4-chlorophenoxy butyric acid,4-(4-chlorophenoxy)butanoic acid; 4-(4-chlorophenoxy)butyric acid; 4-CPB (herbicide),"4-chlorophenoxy butyric acid (4-(4-chlorophenoxy)butanoic acid, 4-(4-chlorophenoxy)butyric acid, 4-CPB (herbicide))",https://lod.nal.usda.gov/nalt/1473,0.99,True,skos:broader; skos:narrower,INCLUDE
+4-CPA,4-chlorophenoxy acetic acid; 4-chlorophenoxyacetic acid,"4-CPA (4-chlorophenoxy acetic acid, 4-chlorophenoxyacetic acid)",https://lod.nal.usda.gov/nalt/1481,0.99,True,skos:broader; skos:narrower,INCLUDE
+4-CPP,4-chlorophenoxy propionic acid; 4-chlorophenoxypropanoic acid; 4-chlorophenoxypropionic acid,"4-CPP (4-chlorophenoxy propionic acid, 4-chlorophenoxypropanoic acid, 4-chlorophenoxypropionic acid)",https://lod.nal.usda.gov/nalt/1484,0.98,True,skos:broader; skos:narrower,INCLUDE
+abamectin,,abamectin,https://lod.nal.usda.gov/nalt/1576,0.99,False,skos:broader; skos:narrower,INCLUDE
+acetamides,,acetamides,https://lod.nal.usda.gov/nalt/2308,0.9,False,skos:broader; skos:narrower,INCLUDE
+acifluorfen,,acifluorfen,https://lod.nal.usda.gov/nalt/2888,0.98,True,skos:broader; skos:narrower,INCLUDE
+acrylamides,,acrylamides,https://lod.nal.usda.gov/nalt/3164,0.9,False,skos:broader; skos:narrower,INCLUDE
+aldrin,,aldrin,https://lod.nal.usda.gov/nalt/6230,0.99,True,skos:broader; skos:narrower,INCLUDE
+allyl isothiocyanate,,allyl isothiocyanate,https://lod.nal.usda.gov/nalt/6756,0.94,False,skos:broader; skos:narrower,INCLUDE
+anilides,,anilides,https://lod.nal.usda.gov/nalt/2319,0.92,False,skos:broader; skos:narrower,INCLUDE
+animal parasites and pests,animal pests; pests of animals,"animal parasites and pests (animal pests, pests of animals)",https://lod.nal.usda.gov/nalt/9233,0.88,False,skos:related,INCLUDE
+anticoagulants,,anticoagulants,https://lod.nal.usda.gov/nalt/10260,0.91,False,skos:related,INCLUDE
+antifeeding activity,antifeedant activity; antifeedant effect; antifeeding effect; antifeeding properties,"antifeeding activity (antifeedant activity, antifeedant effect, antifeeding effect, antifeeding properties)",https://lod.nal.usda.gov/nalt/10303,0.97,False,skos:related,INCLUDE
+antifungal properties,anti-yeast activity; antimycotic properties; fungicidal properties; fungistatic activity,"antifungal properties (anti-yeast activity, antimycotic properties, fungicidal properties, fungistatic activity)",https://lod.nal.usda.gov/nalt/10331,0.95,False,skos:related,INCLUDE
+antiparasitic properties,antiparasitic activity,antiparasitic properties (antiparasitic activity),https://lod.nal.usda.gov/nalt/238211,0.96,False,skos:related,INCLUDE
+application parameters,application measurements; application variables; spray variables,"application parameters (application measurements, application variables, spray variables)",https://lod.nal.usda.gov/nalt/11319,0.84,False,skos:broader; skos:narrower,INCLUDE
+application timing,application date,application timing (application date),https://lod.nal.usda.gov/nalt/11322,0.79,False,skos:related,INCLUDE
+aryloxyphenoxypropionic acid herbicides,,aryloxyphenoxypropionic acid herbicides,https://lod.nal.usda.gov/nalt/125144,0.94,True,skos:broader; skos:narrower,INCLUDE
+atomization,atomisation; nebulisation; nebulization,"atomization (atomisation, nebulisation, nebulization)",https://lod.nal.usda.gov/nalt/13665,0.9,False,skos:related,INCLUDE
+azamethiphos,,azamethiphos,https://lod.nal.usda.gov/nalt/14298,0.99,True,skos:broader; skos:narrower,INCLUDE
+Bacillus sphaericus,,Bacillus sphaericus,https://lod.nal.usda.gov/nalt/14569,0.92,False,skos:related,INCLUDE
+Bacillus thuringiensis,Bacillus cereus var. thuringiensis; Bt (Bacillus thuringiensis),"Bacillus thuringiensis (Bacillus cereus var. thuringiensis, Bt (Bacillus thuringiensis))",https://lod.nal.usda.gov/nalt/14583,0.99,False,skos:related,INCLUDE
+benalaxyl,benalaxyl-M,benalaxyl (benalaxyl-M),https://lod.nal.usda.gov/nalt/190785,0.92,True,skos:broader; skos:narrower,INCLUDE
+bensulfuron,,bensulfuron,https://lod.nal.usda.gov/nalt/16625,0.98,True,skos:broader; skos:narrower,INCLUDE
+bensulfuron-methyl,,bensulfuron-methyl,https://lod.nal.usda.gov/nalt/16627,0.98,True,skos:broader; skos:narrower,INCLUDE
+benzoylprop,,benzoylprop,https://lod.nal.usda.gov/nalt/16673,0.95,True,skos:broader; skos:narrower,INCLUDE
+benzyl isothiocyanate,,benzyl isothiocyanate,https://lod.nal.usda.gov/nalt/16676,0.9,False,skos:broader; skos:narrower,INCLUDE
+bifenox,,bifenox,https://lod.nal.usda.gov/nalt/17036,0.92,True,skos:broader; skos:narrower,INCLUDE
+biofumigation,biofumigants,biofumigation (biofumigants),https://lod.nal.usda.gov/nalt/188846,0.96,False,skos:broader; skos:narrower,INCLUDE
+biological resistance,biocide resistance,biological resistance (biocide resistance),https://lod.nal.usda.gov/nalt/114,0.9,False,skos:broader; skos:narrower,INCLUDE
+boric acid,,boric acid,https://lod.nal.usda.gov/nalt/18626,0.95,False,skos:broader; skos:narrower,INCLUDE
+brodifacoum,,brodifacoum,https://lod.nal.usda.gov/nalt/19919,0.99,True,skos:broader; skos:narrower,INCLUDE
+bromadiolone,,bromadiolone,https://lod.nal.usda.gov/nalt/19934,0.99,True,skos:broader; skos:narrower,INCLUDE
+bromophos,,bromophos,https://lod.nal.usda.gov/nalt/9913,0.98,True,skos:broader; skos:narrower,INCLUDE
+buturon,,buturon,https://lod.nal.usda.gov/nalt/20655,0.97,True,skos:broader; skos:narrower,INCLUDE
+calcium borate,,calcium borate,https://lod.nal.usda.gov/nalt/222445,0.89,False,skos:broader; skos:narrower,INCLUDE
+cerulenin,,cerulenin,https://lod.nal.usda.gov/nalt/260561,0.93,False,skos:broader; skos:narrower,INCLUDE
+chalcanthite,,chalcanthite,https://lod.nal.usda.gov/nalt/222194,0.92,False,skos:related,INCLUDE
+chlorates,,chlorates,https://lod.nal.usda.gov/nalt/25294,0.98,False,skos:broader; skos:narrower,INCLUDE
+chlorbromuron,,chlorbromuron,https://lod.nal.usda.gov/nalt/25298,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlordane,chlordan,chlordane (chlordan),https://lod.nal.usda.gov/nalt/25301,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlordecone,,chlordecone,https://lod.nal.usda.gov/nalt/25302,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlorimuron,,chlorimuron,https://lod.nal.usda.gov/nalt/25332,0.97,True,skos:broader; skos:narrower,INCLUDE
+chlorimuron ethyl,,chlorimuron ethyl,https://lod.nal.usda.gov/nalt/213686,0.97,True,skos:broader; skos:narrower,INCLUDE
+chloroacetanilide herbicides,,chloroacetanilide herbicides,https://lod.nal.usda.gov/nalt/2480,0.98,True,skos:broader; skos:narrower,INCLUDE
+chlorotoluron,chlortoluron,chlorotoluron (chlortoluron),https://lod.nal.usda.gov/nalt/25492,0.98,True,skos:broader; skos:narrower,INCLUDE
+chloroxuron,,chloroxuron,https://lod.nal.usda.gov/nalt/25513,0.98,True,skos:broader; skos:narrower,INCLUDE
+chlorphoxim,,chlorphoxim,https://lod.nal.usda.gov/nalt/25514,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlorpyrifos-methyl,,chlorpyrifos-methyl,https://lod.nal.usda.gov/nalt/25518,0.99,True,skos:broader; skos:narrower,INCLUDE
+chlorsulfuron,,chlorsulfuron,https://lod.nal.usda.gov/nalt/25519,0.98,True,skos:broader; skos:narrower,INCLUDE
+cross resistance,cross-resistance,cross resistance (cross-resistance),https://lod.nal.usda.gov/nalt/30204,0.88,False,skos:broader; skos:narrower,INCLUDE
+Cuscuta,,Cuscuta,https://lod.nal.usda.gov/nalt/30878,0.92,False,skos:related,INCLUDE
+cyclosulfamuron,,cyclosulfamuron,https://lod.nal.usda.gov/nalt/31079,0.98,True,skos:broader; skos:narrower,INCLUDE
+deet,"N,N-diethyl-3-methylbenzamide; N,N-diethyl-m-toluamide; N,N-diethyl-meta-toluamide; diethyltoluamide","deet (N,N-diethyl-3-methylbenzamide, N,N-diethyl-m-toluamide, N,N-diethyl-meta-toluamide, diethyltoluamide)",https://lod.nal.usda.gov/nalt/7684,0.99,False,skos:broader; skos:narrower,INCLUDE
+dichlorprop,,dichlorprop,https://lod.nal.usda.gov/nalt/33216,0.97,True,skos:broader; skos:narrower,INCLUDE
+dieldrin,,dieldrin,https://lod.nal.usda.gov/nalt/31049,0.99,True,skos:broader; skos:narrower,INCLUDE
+difenacoum,,difenacoum,https://lod.nal.usda.gov/nalt/29692,0.99,True,skos:broader; skos:narrower,INCLUDE
+difenoxuron,,difenoxuron,https://lod.nal.usda.gov/nalt/33492,0.98,True,skos:broader; skos:narrower,INCLUDE
+diuron,,diuron,https://lod.nal.usda.gov/nalt/34151,0.99,True,skos:broader; skos:narrower,INCLUDE
+doramectin,,doramectin,https://lod.nal.usda.gov/nalt/14127,0.97,False,skos:broader; skos:narrower,INCLUDE
+emergence traps,,emergence traps,https://lod.nal.usda.gov/nalt/36839,0.72,False,skos:broader; skos:narrower,INCLUDE
+endosulfan,,endosulfan,https://lod.nal.usda.gov/nalt/31050,0.99,True,skos:broader; skos:narrower,INCLUDE
+eprinomectin,,eprinomectin,https://lod.nal.usda.gov/nalt/14128,0.98,False,skos:broader; skos:narrower,INCLUDE
+ethamet-sulfuron,,ethamet-sulfuron,https://lod.nal.usda.gov/nalt/38236,0.98,True,skos:broader; skos:narrower,INCLUDE
+ethidimuron,,ethidimuron,https://lod.nal.usda.gov/nalt/38247,0.98,True,skos:broader; skos:narrower,INCLUDE
+etrimfos,,etrimfos,https://lod.nal.usda.gov/nalt/38281,0.99,True,skos:broader; skos:narrower,INCLUDE
+famphur,,famphur,https://lod.nal.usda.gov/nalt/39454,0.99,True,skos:broader; skos:narrower,INCLUDE
+fan nozzles,fan pattern nozzles; flat-fan nozzles,"fan nozzles (fan pattern nozzles, flat-fan nozzles)",https://lod.nal.usda.gov/nalt/39455,0.93,False,skos:broader; skos:narrower,INCLUDE
+fenitrothion,fenitrotion,fenitrothion (fenitrotion),https://lod.nal.usda.gov/nalt/39817,0.99,True,skos:broader; skos:narrower,INCLUDE
+fenoprop,,fenoprop,https://lod.nal.usda.gov/nalt/39828,0.98,True,skos:broader; skos:narrower,INCLUDE
+fenoxycarb,,fenoxycarb,https://lod.nal.usda.gov/nalt/39830,0.99,False,skos:broader; skos:narrower,INCLUDE
+fenuron,,fenuron,https://lod.nal.usda.gov/nalt/39842,0.97,True,skos:broader; skos:narrower,INCLUDE
+fenuron TCA,fenuron-trichloroacetic acid,fenuron TCA (fenuron-trichloroacetic acid),https://lod.nal.usda.gov/nalt/39843,0.97,True,skos:broader; skos:narrower,INCLUDE
+flamprop,,flamprop,https://lod.nal.usda.gov/nalt/8953,0.98,True,skos:broader; skos:narrower,INCLUDE
+flocoumafen,,flocoumafen,https://lod.nal.usda.gov/nalt/29693,0.99,True,skos:broader; skos:narrower,INCLUDE
+flufenacet,,flufenacet,https://lod.nal.usda.gov/nalt/125014,0.92,True,skos:broader; skos:narrower,INCLUDE
+fluometuron,,fluometuron,https://lod.nal.usda.gov/nalt/40701,0.89,True,skos:broader; skos:narrower,INCLUDE
+fluopyram,,fluopyram,https://lod.nal.usda.gov/nalt/327888,0.91,True,skos:broader; skos:narrower,INCLUDE
+fluorodifen,,fluorodifen,https://lod.nal.usda.gov/nalt/40729,0.94,True,skos:broader; skos:narrower,INCLUDE
+fluoroglycofen,,fluoroglycofen,https://lod.nal.usda.gov/nalt/40730,0.93,True,skos:broader; skos:narrower,INCLUDE
+flupyrsulfuron,,flupyrsulfuron,https://lod.nal.usda.gov/nalt/124408,0.9,True,skos:broader; skos:narrower,INCLUDE
+foliar spraying,,foliar spraying,https://lod.nal.usda.gov/nalt/40783,0.97,False,skos:broader; skos:narrower,INCLUDE
+fumagillin,fumidil B,fumagillin (fumidil B),https://lod.nal.usda.gov/nalt/316092,0.88,False,skos:broader; skos:narrower,INCLUDE
+funnel traps,,funnel traps,https://lod.nal.usda.gov/nalt/41877,0.96,False,skos:broader; skos:narrower,INCLUDE
+halofenozide,,halofenozide,https://lod.nal.usda.gov/nalt/44427,0.99,False,skos:broader; skos:narrower,INCLUDE
+Heracleum mantegazzianum,cartwheel flower; cartwheel-flower; giant hogweed,"Heracleum mantegazzianum (cartwheel flower, cartwheel-flower, giant hogweed)",https://lod.nal.usda.gov/nalt/22724,0.98,False,skos:related,INCLUDE
+human-landing catches,human-landing collections,human-landing catches (human-landing collections),https://lod.nal.usda.gov/nalt/329710,0.9,False,skos:broader; skos:narrower,INCLUDE
+Hydrilla verticillata,Florida elodea; Indian star-vine; water-thyme,"Hydrilla verticillata (Florida elodea, Indian star-vine, water-thyme)",https://lod.nal.usda.gov/nalt/40619,0.98,False,skos:related,INCLUDE
+hydroprene,,hydroprene,https://lod.nal.usda.gov/nalt/46412,0.99,False,skos:broader; skos:narrower,INCLUDE
+in-row tillage,in-row cultivation; in-row subsoiling; intrarow tillage; within-row tillage,"in-row tillage (in-row cultivation, in-row subsoiling, intrarow tillage, within-row tillage)",https://lod.nal.usda.gov/nalt/47065,0.92,False,skos:related,INCLUDE
+irrigation,herbigation; watering (crops),"irrigation (herbigation, watering (crops))",https://lod.nal.usda.gov/nalt/24709,0.9,False,skos:related,INCLUDE
+isoproturon,,isoproturon,https://lod.nal.usda.gov/nalt/47891,0.98,True,skos:broader; skos:narrower,INCLUDE
+ivermectin,,ivermectin,https://lod.nal.usda.gov/nalt/14129,0.96,False,skos:broader; skos:narrower,INCLUDE
+juvenile hormones,JH (juvenile hormones); juvenile hormone I; juvenile hormone II; juvenile hormone III,"juvenile hormones (JH (juvenile hormones), juvenile hormone I, juvenile hormone II, juvenile hormone III)",https://lod.nal.usda.gov/nalt/45930,0.95,False,skos:related,INCLUDE
+knapsack sprayers,,knapsack sprayers,https://lod.nal.usda.gov/nalt/48519,0.99,False,skos:broader; skos:narrower,INCLUDE
+lactofen,,lactofen,https://lod.nal.usda.gov/nalt/45212,0.99,True,skos:broader; skos:narrower,INCLUDE
+Lepidium appelianum,Cardaria pubescens; Hymenophysa pubescens; hairy whitetop,"Lepidium appelianum (Cardaria pubescens, Hymenophysa pubescens, hairy whitetop)",https://lod.nal.usda.gov/nalt/22381,0.98,False,skos:related,INCLUDE
+Lepidium draba,whitetop,Lepidium draba (whitetop),https://lod.nal.usda.gov/nalt/49645,0.98,False,skos:related,INCLUDE
+Leptochloa chinensis,Asian sprangletop; Poa chinensis,"Leptochloa chinensis (Asian sprangletop, Poa chinensis)",https://lod.nal.usda.gov/nalt/12948,0.96,False,skos:related,INCLUDE
+light traps,,light traps,https://lod.nal.usda.gov/nalt/17869,0.95,False,skos:broader; skos:narrower,INCLUDE
+Limnophila sessiliflora,Hottonia sessiliflora; ambulia,"Limnophila sessiliflora (Hottonia sessiliflora, ambulia)",https://lod.nal.usda.gov/nalt/7495,0.97,False,skos:related,INCLUDE
+Linaria vulgaris,butter-and-eggs (common name); yellow toadflax,"Linaria vulgaris (butter-and-eggs (common name), yellow toadflax)",https://lod.nal.usda.gov/nalt/20632,0.98,False,skos:related,INCLUDE
+linuron,,linuron,https://lod.nal.usda.gov/nalt/50256,0.98,True,skos:broader; skos:narrower,INCLUDE
+Lonicera japonica,Japanese honeysuckle,Lonicera japonica (Japanese honeysuckle),https://lod.nal.usda.gov/nalt/48035,0.97,False,skos:related,INCLUDE
+Lycium ferocissimum,African boxthorn; Lycium ferrocissimum,"Lycium ferocissimum (African boxthorn, Lycium ferrocissimum)",https://lod.nal.usda.gov/nalt/4848,0.97,False,skos:related,INCLUDE
+Lythrum salicaria,purple loosestrife; purple lythrum; spiked loosestrife,"Lythrum salicaria (purple loosestrife, purple lythrum, spiked loosestrife)",https://lod.nal.usda.gov/nalt/50967,0.98,False,skos:related,INCLUDE
+Malaise traps,,Malaise traps,https://lod.nal.usda.gov/nalt/47410,0.95,False,skos:broader; skos:narrower,INCLUDE
+MCPA (herbicide),2-(4-chloro-2-methylphenoxy)acetic acid; 2-methyl-4-chlorophenoxy acetic acid; 2-methyl-4-chlorophenoxyacetic acid; 4-(2-methyl-4-chlorophenoxy)acetic acid; 4-chloro-2-methylphenoxy acetic acid; 4-chloro-o-tolyloxyacetic acid; methyl chlorophenoxy acetic acid,"MCPA (herbicide) (2-(4-chloro-2-methylphenoxy)acetic acid, 2-methyl-4-chlorophenoxy acetic acid, 2-methyl-4-chlorophenoxyacetic acid, 4-(2-methyl-4-chlorophenoxy)acetic acid, 4-chloro-2-methylphenoxy acetic acid, 4-chloro-o-tolyloxyacetic acid, methyl chlorophenoxy acetic acid)",https://lod.nal.usda.gov/nalt/1479,0.99,True,skos:broader; skos:narrower,INCLUDE
+MCPB (herbicide),4-(4-chloro-2-methylphenoxy)butanoic acid,MCPB (herbicide) (4-(4-chloro-2-methylphenoxy)butanoic acid),https://lod.nal.usda.gov/nalt/1471,0.99,True,skos:broader; skos:narrower,INCLUDE
+mecoprop,,mecoprop,https://lod.nal.usda.gov/nalt/45215,0.99,True,skos:broader; skos:narrower,INCLUDE
+mefluidide,,mefluidide,https://lod.nal.usda.gov/nalt/45216,0.99,True,skos:broader; skos:narrower,INCLUDE
+metalaxyl,"methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)-DL-alaninate; methyl N-(methyoxyacetyl)-N-2,6-xylyl-DL-alaninate","metalaxyl (methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)-DL-alaninate, methyl N-(methyoxyacetyl)-N-2,6-xylyl-DL-alaninate)",https://lod.nal.usda.gov/nalt/41854,0.99,True,skos:broader; skos:narrower,INCLUDE
+methidathion,,methidathion,https://lod.nal.usda.gov/nalt/52330,0.99,True,skos:broader; skos:narrower,INCLUDE
+methiocarb,,methiocarb,https://lod.nal.usda.gov/nalt/52331,0.99,False,skos:broader; skos:narrower,INCLUDE
+methoprene,,methoprene,https://lod.nal.usda.gov/nalt/48223,0.99,False,skos:broader; skos:narrower,INCLUDE
+methoxyfenozide,RH-2485,methoxyfenozide (RH-2485),https://lod.nal.usda.gov/nalt/35593,0.99,False,skos:broader; skos:narrower,INCLUDE
+metobromuron,,metobromuron,https://lod.nal.usda.gov/nalt/52484,0.99,True,skos:broader; skos:narrower,INCLUDE
+metoxuron,,metoxuron,https://lod.nal.usda.gov/nalt/45226,0.99,True,skos:broader; skos:narrower,INCLUDE
+metsulfuron,,metsulfuron,https://lod.nal.usda.gov/nalt/52503,0.99,True,skos:broader; skos:narrower,INCLUDE
+mirex,,mirex,https://lod.nal.usda.gov/nalt/31052,1.0,True,skos:broader; skos:narrower,INCLUDE
+molluscicidal properties,molluscicide activity; molluscicide property,"molluscicidal properties (molluscicide activity, molluscicide property)",https://lod.nal.usda.gov/nalt/53270,0.98,False,skos:broader; skos:narrower,INCLUDE
+monalide,,monalide,https://lod.nal.usda.gov/nalt/45227,0.99,True,skos:broader; skos:narrower,INCLUDE
+monolinuron,,monolinuron,https://lod.nal.usda.gov/nalt/53382,0.99,True,skos:broader; skos:narrower,INCLUDE
+monuron,"3-(4-chlorophenyl)-1,1-dimethylurea; 3-(p-chlorophenyl)-1,1-dimethylurea; CMU (herbicide); N'-(4-chlorophenyl)-N,N-dimethylurea; chlorfenidim","monuron (3-(4-chlorophenyl)-1,1-dimethylurea, 3-(p-chlorophenyl)-1,1-dimethylurea, CMU (herbicide), N'-(4-chlorophenyl)-N,N-dimethylurea, chlorfenidim)",https://lod.nal.usda.gov/nalt/45228,0.99,True,skos:broader; skos:narrower,INCLUDE
+monuron TCA,"3-(4-chlorophenyl)-1,1-dimethyluronium trichloroacetate; 3-(p-chlorophenyl)-1,1-dimethylurea trichloroacetate; monuron trichloroacetate; monuron-TCA","monuron TCA (3-(4-chlorophenyl)-1,1-dimethyluronium trichloroacetate, 3-(p-chlorophenyl)-1,1-dimethylurea trichloroacetate, monuron trichloroacetate, monuron-TCA)",https://lod.nal.usda.gov/nalt/45229,0.99,True,skos:broader; skos:narrower,INCLUDE
+neburon,,neburon,https://lod.nal.usda.gov/nalt/54447,0.99,True,skos:broader; skos:narrower,INCLUDE
+nematicidal properties,nematicide property; nematocidal activity,"nematicidal properties (nematicide property, nematocidal activity)",https://lod.nal.usda.gov/nalt/54512,0.99,False,skos:broader; skos:narrower,INCLUDE
+niclosamide,,niclosamide,https://lod.nal.usda.gov/nalt/7692,0.98,False,skos:broader; skos:narrower,INCLUDE
+nicosulfuron,,nicosulfuron,https://lod.nal.usda.gov/nalt/54804,0.93,True,skos:broader; skos:narrower,INCLUDE
+nitrofen,,nitrofen,https://lod.nal.usda.gov/nalt/45232,0.97,True,skos:broader; skos:narrower,INCLUDE
+nitrofluorfen,,nitrofluorfen,https://lod.nal.usda.gov/nalt/45233,0.97,True,skos:broader; skos:narrower,INCLUDE
+nitroscanate,,nitroscanate,https://lod.nal.usda.gov/nalt/9929,0.95,False,skos:broader; skos:narrower,INCLUDE
+oestrosis,,oestrosis,https://lod.nal.usda.gov/nalt/311300,0.96,False,skos:broader; skos:narrower,INCLUDE
+omethoate,,omethoate,https://lod.nal.usda.gov/nalt/55822,0.99,True,skos:broader; skos:narrower,INCLUDE
+Onopordum acanthium,Scotch cottonthistle; Scotch thistle; cotton thistle; cotton-thistle; cottonthistle; heraldic thistle,"Onopordum acanthium (Scotch cottonthistle, Scotch thistle, cotton thistle, cotton-thistle, cottonthistle, heraldic thistle)",https://lod.nal.usda.gov/nalt/29644,0.93,False,skos:related,INCLUDE
+Orobanche,broomrape,Orobanche (broomrape),https://lod.nal.usda.gov/nalt/55316,0.96,False,skos:related,INCLUDE
+oviposition attractants,,oviposition attractants,https://lod.nal.usda.gov/nalt/13782,0.95,False,skos:broader; skos:narrower,INCLUDE
+ovitraps,oviposition traps,ovitraps (oviposition traps),https://lod.nal.usda.gov/nalt/47411,0.99,False,skos:broader; skos:narrower,INCLUDE
+oxasulfuron,,oxasulfuron,https://lod.nal.usda.gov/nalt/125154,0.96,True,skos:broader; skos:narrower,INCLUDE
+oxydemeton-methyl,metasystox-R,oxydemeton-methyl (metasystox-R),https://lod.nal.usda.gov/nalt/56135,0.99,True,skos:broader; skos:narrower,INCLUDE
+oxyfluorfen,,oxyfluorfen,https://lod.nal.usda.gov/nalt/45238,0.99,True,skos:broader; skos:narrower,INCLUDE
+parathion-methyl,methyl parathion; methyl-parathion,"parathion-methyl (methyl parathion, methyl-parathion)",https://lod.nal.usda.gov/nalt/52351,0.99,True,skos:broader; skos:narrower,INCLUDE
+pediculosis capitis,,pediculosis capitis,https://lod.nal.usda.gov/nalt/57164,0.97,False,skos:broader; skos:narrower,INCLUDE
+Pediculus,,Pediculus,https://lod.nal.usda.gov/nalt/57163,0.95,False,skos:related,INCLUDE
+pesticide selectivity,,pesticide selectivity,https://lod.nal.usda.gov/nalt/133093,0.94,False,skos:broader; skos:narrower,INCLUDE
+pesticide synergists,,pesticide synergists,https://lod.nal.usda.gov/nalt/5567,0.98,False,skos:related,INCLUDE
+pheromone traps,,pheromone traps,https://lod.nal.usda.gov/nalt/47412,0.95,False,skos:broader; skos:narrower,INCLUDE
+phosphonates,organophosphonates; phosphonic acid esters,"phosphonates (organophosphonates, phosphonic acid esters)",https://lod.nal.usda.gov/nalt/56126,0.95,False,skos:broader; skos:narrower,INCLUDE
+phosphoric triamides,,phosphoric triamides,https://lod.nal.usda.gov/nalt/7695,0.94,False,skos:broader; skos:narrower,INCLUDE
+phosphorodiamides,,phosphorodiamides,https://lod.nal.usda.gov/nalt/7696,0.94,False,skos:broader; skos:narrower,INCLUDE
+picoxystrobin,,picoxystrobin,https://lod.nal.usda.gov/nalt/331867,0.92,True,skos:broader; skos:narrower,INCLUDE
+pirimiphos-methyl,,pirimiphos-methyl,https://lod.nal.usda.gov/nalt/56136,0.99,True,skos:broader; skos:narrower,INCLUDE
+plant cultural practices,agronomic practices; crop husbandry; cultural methods (plants); cultural practices (plants); plant care; plant culture; plant growing methods; plant growing practices,"plant cultural practices (agronomic practices, crop husbandry, cultural methods (plants), cultural practices (plants), plant care, plant culture, plant growing methods, plant growing practices)",https://lod.nal.usda.gov/nalt/20,0.88,False,skos:broader; skos:narrower,INCLUDE
+plant growth substances,PGRs (growth regulators); exogenous plant growth regulators; plant growth factors; plant growth regulating chemicals; plant growth regulating compounds; plant growth regulating substances; plant growth regulators,"plant growth substances (PGRs (growth regulators), exogenous plant growth regulators, plant growth factors, plant growth regulating chemicals, plant growth regulating compounds, plant growth regulating substances, plant growth regulators)",https://lod.nal.usda.gov/nalt/14070,0.9,False,skos:broader; skos:narrower,INCLUDE
+precocenes,precocene I; precocene II; precocene III,"precocenes (precocene I, precocene II, precocene III)",https://lod.nal.usda.gov/nalt/48224,0.93,False,skos:broader; skos:narrower,INCLUDE
+primisulfuron,,primisulfuron,https://lod.nal.usda.gov/nalt/59620,0.9,True,skos:broader; skos:narrower,INCLUDE
+primisulfuron-methyl,"methyl 2-(4,6-bis(difluoromethoxy)pyrimidin-2-ylcarbamoylsulfamoyl)benzoate","primisulfuron-methyl (methyl 2-(4,6-bis(difluoromethoxy)pyrimidin-2-ylcarbamoylsulfamoyl)benzoate)",https://lod.nal.usda.gov/nalt/265319,0.98,True,skos:broader; skos:narrower,INCLUDE
+profenofos,,profenofos,https://lod.nal.usda.gov/nalt/56137,0.99,True,skos:broader; skos:narrower,INCLUDE
+propanil,"3,4-dichloropropionanilide; DCPA (propanil)","propanil (3,4-dichloropropionanilide, DCPA (propanil))",https://lod.nal.usda.gov/nalt/1434,0.99,True,skos:broader; skos:narrower,INCLUDE
+prosulfuron,,prosulfuron,https://lod.nal.usda.gov/nalt/59897,0.98,True,skos:broader; skos:narrower,INCLUDE
+protein synthesis inhibitors,,protein synthesis inhibitors,https://lod.nal.usda.gov/nalt/10216,0.95,False,skos:broader; skos:narrower,INCLUDE
+Pueraria montana var. lobata,Dolichos hirsutus; Dolichos lobatus; Neustanthus chinensis; Pachyrhizus thunbergianus; Pueraria hirsuta; Pueraria lobata; Pueraria lobata var. chinensis; Pueraria thunbergiana; kudzu,"Pueraria montana var. lobata (Dolichos hirsutus, Dolichos lobatus, Neustanthus chinensis, Pachyrhizus thunbergianus, Pueraria hirsuta, Pueraria lobata, Pueraria lobata var. chinensis, Pueraria thunbergiana, kudzu)",https://lod.nal.usda.gov/nalt/34322,0.96,False,skos:related,INCLUDE
+pyraoxystrobin,,pyraoxystrobin,https://lod.nal.usda.gov/nalt/331868,0.96,True,skos:broader; skos:narrower,INCLUDE
+pyrimethanil,,pyrimethanil,https://lod.nal.usda.gov/nalt/213707,0.97,True,skos:broader; skos:narrower,INCLUDE
+quinalphos,,quinalphos,https://lod.nal.usda.gov/nalt/56138,0.98,True,skos:broader; skos:narrower,INCLUDE
+repellents,,repellents,https://lod.nal.usda.gov/nalt/249,0.99,False,skos:broader; skos:narrower,INCLUDE
+resistance management,,resistance management,https://lod.nal.usda.gov/nalt/34012,0.92,False,skos:related,INCLUDE
+Reynoutria japonica,Fallopia japonica; Fallopia japonica var. japonica; Japanese knotweed; Polygonum cuspidatum; Polygonum cuspidatum var. compactum; Polygonum cuspidatum var. cuspidatum; Polygonum reynoutria,"Reynoutria japonica (Fallopia japonica, Fallopia japonica var. japonica, Japanese knotweed, Polygonum cuspidatum, Polygonum cuspidatum var. compactum, Polygonum cuspidatum var. cuspidatum, Polygonum reynoutria)",https://lod.nal.usda.gov/nalt/39381,0.98,False,skos:related,INCLUDE
+rimsulfuron,,rimsulfuron,https://lod.nal.usda.gov/nalt/61576,0.99,True,skos:broader; skos:narrower,INCLUDE
+rodenticidal properties,rodenticide activity; rodenticide property,"rodenticidal properties (rodenticide activity, rodenticide property)",https://lod.nal.usda.gov/nalt/57562,0.97,False,skos:broader; skos:narrower,INCLUDE
+Rosa multiflora,Rosa multiflora var. carnea; Rosa multiflora var. platyphylla; Rosa x floribunda; multiflora rose,"Rosa multiflora (Rosa multiflora var. carnea, Rosa multiflora var. platyphylla, Rosa x floribunda, multiflora rose)",https://lod.nal.usda.gov/nalt/53695,0.95,False,skos:related,INCLUDE
+Rottboellia cochinchinensis,Manisuris exaltata; Rottboellia exaltata; Stegosia cochinchinensis; itch grass; itchgrass,"Rottboellia cochinchinensis (Manisuris exaltata, Rottboellia exaltata, Stegosia cochinchinensis, itch grass, itchgrass)",https://lod.nal.usda.gov/nalt/47942,0.98,False,skos:related,INCLUDE
+Salsola vermiculata,Damascus saltwort; wormleaf salsola,"Salsola vermiculata (Damascus saltwort, wormleaf salsola)",https://lod.nal.usda.gov/nalt/31678,0.88,False,skos:related,INCLUDE
+Salvinia auriculata,Salvinia rotundifolia,Salvinia auriculata (Salvinia rotundifolia),https://lod.nal.usda.gov/nalt/55343,0.94,False,skos:related,INCLUDE
+Salvinia biloba,,Salvinia biloba,https://lod.nal.usda.gov/nalt/55344,0.94,False,skos:related,INCLUDE
+Salvinia herzogii,,Salvinia herzogii,https://lod.nal.usda.gov/nalt/55345,0.94,False,skos:related,INCLUDE
+Salvinia molesta,aquarium water moss; giant Salvinia; kariba weed,"Salvinia molesta (aquarium water moss, giant Salvinia, kariba weed)",https://lod.nal.usda.gov/nalt/11471,1.0,False,skos:related,INCLUDE
+selamectin,,selamectin,https://lod.nal.usda.gov/nalt/14130,0.98,False,skos:broader; skos:narrower,INCLUDE
+sex attractants,,sex attractants,https://lod.nal.usda.gov/nalt/13783,0.92,False,skos:broader; skos:narrower,INCLUDE
+sex pheromones,,sex pheromones,https://lod.nal.usda.gov/nalt/47393,0.99,False,skos:related,INCLUDE
+Sicyos angulatus,,Sicyos angulatus,https://lod.nal.usda.gov/nalt/55346,0.96,False,skos:related,INCLUDE
+siduron,,siduron,https://lod.nal.usda.gov/nalt/63063,0.98,True,skos:broader; skos:narrower,INCLUDE
+silvex,,silvex,https://lod.nal.usda.gov/nalt/45265,0.98,True,skos:broader; skos:narrower,INCLUDE
+sodium borate,sodium diborate; sodium tetraborate,"sodium borate (sodium diborate, sodium tetraborate)",https://lod.nal.usda.gov/nalt/18625,0.93,False,skos:broader; skos:narrower,INCLUDE
+sticky traps,sticky cards; yellow sticky traps,"sticky traps (sticky cards, yellow sticky traps)",https://lod.nal.usda.gov/nalt/47414,0.98,False,skos:broader; skos:narrower,INCLUDE
+Striga,witchweeds,Striga (witchweeds),https://lod.nal.usda.gov/nalt/55350,0.96,False,skos:related,INCLUDE
+sulfometuron,"2-(4,6-dimethylpyrimidin-2-ylcarbamoylsulfamoyl)benzoic acid","sulfometuron (2-(4,6-dimethylpyrimidin-2-ylcarbamoylsulfamoyl)benzoic acid)",https://lod.nal.usda.gov/nalt/65197,0.98,True,skos:broader; skos:narrower,INCLUDE
+sulfometuron methyl,"methyl 2-(((((4,6-dimethyl-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)benzoate; methyl 2-(4,6-dimethylpyrimidin-2-ylcarbamoylsulfamoyl)benzoate","sulfometuron methyl (methyl 2-(((((4,6-dimethyl-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)benzoate, methyl 2-(4,6-dimethylpyrimidin-2-ylcarbamoylsulfamoyl)benzoate)",https://lod.nal.usda.gov/nalt/213728,0.98,True,skos:broader; skos:narrower,INCLUDE
+sulfonanilide herbicides,,sulfonanilide herbicides,https://lod.nal.usda.gov/nalt/125015,0.95,True,skos:broader; skos:narrower,INCLUDE
+sulprofos,,sulprofos,https://lod.nal.usda.gov/nalt/56139,0.99,True,skos:broader; skos:narrower,INCLUDE
+tebuthiuron,,tebuthiuron,https://lod.nal.usda.gov/nalt/65525,0.92,True,skos:broader; skos:narrower,INCLUDE
+temephos,,temephos,https://lod.nal.usda.gov/nalt/56140,0.99,True,skos:broader; skos:narrower,INCLUDE
+thiazafluron,,thiazafluron,https://lod.nal.usda.gov/nalt/45275,0.93,True,skos:broader; skos:narrower,INCLUDE
+thifensulfuron,,thifensulfuron,https://lod.nal.usda.gov/nalt/45276,0.98,True,skos:broader; skos:narrower,INCLUDE
+thifensulfuron methyl,,thifensulfuron methyl,https://lod.nal.usda.gov/nalt/65200,0.99,True,skos:broader; skos:narrower,INCLUDE
+thiometon,,thiometon,https://lod.nal.usda.gov/nalt/56141,0.99,True,skos:broader; skos:narrower,INCLUDE
+traps,,traps,https://lod.nal.usda.gov/nalt/15545,0.95,False,skos:related,INCLUDE
+triasulfuron,,triasulfuron,https://lod.nal.usda.gov/nalt/65201,0.97,True,skos:broader; skos:narrower,INCLUDE
+tribenuron,,tribenuron,https://lod.nal.usda.gov/nalt/65202,0.97,True,skos:broader; skos:narrower,INCLUDE
+trifloxysulfuron,,trifloxysulfuron,https://lod.nal.usda.gov/nalt/123036,0.97,True,skos:broader; skos:narrower,INCLUDE
+triflusulfuron,,triflusulfuron,https://lod.nal.usda.gov/nalt/45283,0.97,True,skos:broader; skos:narrower,INCLUDE
+vector control,,vector control,https://lod.nal.usda.gov/nalt/292,0.98,False,skos:broader; skos:narrower,INCLUDE
+warfarin,,warfarin,https://lod.nal.usda.gov/nalt/10266,0.97,False,skos:related,INCLUDE
+water traps,,water traps,https://lod.nal.usda.gov/nalt/47416,0.96,False,skos:broader; skos:narrower,INCLUDE
+zinc borate,,zinc borate,https://lod.nal.usda.gov/nalt/305290,0.89,False,skos:broader; skos:narrower,INCLUDE
+acetochlor,,acetochlor,https://lod.nal.usda.gov/nalt/2479,0.99,True,skos:broader; skos:narrower,INCLUDE
+alachlor,,alachlor,https://lod.nal.usda.gov/nalt/5936,0.99,True,skos:broader; skos:narrower,INCLUDE
+alpha-endosulfan,a-endosulfan; alpha-benzoepin; alpha-thiodan; endosulfan 1; endosulfan A; endosulfan I,"alpha-endosulfan (a-endosulfan, alpha-benzoepin, alpha-thiodan, endosulfan 1, endosulfan A, endosulfan I)",https://lod.nal.usda.gov/nalt/257177,0.99,True,skos:broader; skos:narrower,INCLUDE
+antiprotozoal properties,antiprotozoal activity,antiprotozoal properties (antiprotozoal activity),https://lod.nal.usda.gov/nalt/315754,0.84,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. aizawai,Bacillus thuringiensis serovar. aizawai; Bacillus thuringiensis ssp. aizawai,"Bacillus thuringiensis subsp. aizawai (Bacillus thuringiensis serovar. aizawai, Bacillus thuringiensis ssp. aizawai)",https://lod.nal.usda.gov/nalt/14943,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. alesti,Bacillus thuringiensis serovar. alesti; Bacillus thuringiensis ssp. alesti; Bacillus thuringiensis var. alesti,"Bacillus thuringiensis subsp. alesti (Bacillus thuringiensis serovar. alesti, Bacillus thuringiensis ssp. alesti, Bacillus thuringiensis var. alesti)",https://lod.nal.usda.gov/nalt/14944,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. berliner,Bacillus thuringiensis serovar. berliner; Bacillus thuringiensis ssp. berliner; Bacillus thuringiensis var. berliner,"Bacillus thuringiensis subsp. berliner (Bacillus thuringiensis serovar. berliner, Bacillus thuringiensis ssp. berliner, Bacillus thuringiensis var. berliner)",https://lod.nal.usda.gov/nalt/14945,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. canadensis,Bacillus thuringiensis serovar canadensis; Bacillus thuringiensis ssp. canadensis,"Bacillus thuringiensis subsp. canadensis (Bacillus thuringiensis serovar canadensis, Bacillus thuringiensis ssp. canadensis)",https://lod.nal.usda.gov/nalt/277425,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. colmeri,Bacillus thuringiensis ssp. colmeri,Bacillus thuringiensis subsp. colmeri (Bacillus thuringiensis ssp. colmeri),https://lod.nal.usda.gov/nalt/277434,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. dakota,Bacillus thuringiensis serovar. dakota; Bacillus thuringiensis ssp. dakota; Bacillus thuringiensis var. dakota,"Bacillus thuringiensis subsp. dakota (Bacillus thuringiensis serovar. dakota, Bacillus thuringiensis ssp. dakota, Bacillus thuringiensis var. dakota)",https://lod.nal.usda.gov/nalt/14946,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. darmstadiensis,Bacillus thuringiensis serovar. darmstadiensis; Bacillus thuringiensis ssp. darmstadiensis; Bacillus thuringiensis var. darmstadiensis,"Bacillus thuringiensis subsp. darmstadiensis (Bacillus thuringiensis serovar. darmstadiensis, Bacillus thuringiensis ssp. darmstadiensis, Bacillus thuringiensis var. darmstadiensis)",https://lod.nal.usda.gov/nalt/14947,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. entomocidus,Bacillus thuringiensis serovar. entomocidus; Bacillus thuringiensis ssp. entomocidus; Bacillus thuringiensis var. entomocidus,"Bacillus thuringiensis subsp. entomocidus (Bacillus thuringiensis serovar. entomocidus, Bacillus thuringiensis ssp. entomocidus, Bacillus thuringiensis var. entomocidus)",https://lod.nal.usda.gov/nalt/14948,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. finitimus,Bacillus thuringiensis serovar. finitimus; Bacillus thuringiensis ssp. finitimus; Bacillus thuringiensis var. finitimus,"Bacillus thuringiensis subsp. finitimus (Bacillus thuringiensis serovar. finitimus, Bacillus thuringiensis ssp. finitimus, Bacillus thuringiensis var. finitimus)",https://lod.nal.usda.gov/nalt/14949,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. fukuokaensis,Bacillus thuringiensis serovar. fukuokaensis; Bacillus thuringiensis ssp. fukuokaensis; Bacillus thuringiensis var. fukuokaensis,"Bacillus thuringiensis subsp. fukuokaensis (Bacillus thuringiensis serovar. fukuokaensis, Bacillus thuringiensis ssp. fukuokaensis, Bacillus thuringiensis var. fukuokaensis)",https://lod.nal.usda.gov/nalt/14950,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. galleriae,Bacillus thuringiensis serovar. galleriae; Bacillus thuringiensis ssp. galleriae; Bacillus thuringiensis var. galleriae,"Bacillus thuringiensis subsp. galleriae (Bacillus thuringiensis serovar. galleriae, Bacillus thuringiensis ssp. galleriae, Bacillus thuringiensis var. galleriae)",https://lod.nal.usda.gov/nalt/14951,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. higo,Bacillus thuringiensis serovar. higo; Bacillus thuringiensis ssp. higo; Bacillus thuringiensis var. higo,"Bacillus thuringiensis subsp. higo (Bacillus thuringiensis serovar. higo, Bacillus thuringiensis ssp. higo, Bacillus thuringiensis var. higo)",https://lod.nal.usda.gov/nalt/14952,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. israelensis,Bacillus thuringiensis serovar. israelensis; Bacillus thuringiensis ssp. israelensis; Bacillus thuringiensis var. israelensis,"Bacillus thuringiensis subsp. israelensis (Bacillus thuringiensis serovar. israelensis, Bacillus thuringiensis ssp. israelensis, Bacillus thuringiensis var. israelensis)",https://lod.nal.usda.gov/nalt/14953,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. japonensis,Bacillus thuringiensis serovar japonensis; Bacillus thuringiensis serovar. japonensis; Bacillus thuringiensis ssp. japonensis; Bacillus thuringiensis var. japonensis,"Bacillus thuringiensis subsp. japonensis (Bacillus thuringiensis serovar japonensis, Bacillus thuringiensis serovar. japonensis, Bacillus thuringiensis ssp. japonensis, Bacillus thuringiensis var. japonensis)",https://lod.nal.usda.gov/nalt/14954,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. jegathesan,Bacillus thuringiensis serovar. jegathesan; Bacillus thuringiensis ssp. jegathesan; Bacillus thuringiensis var. jegathesan,"Bacillus thuringiensis subsp. jegathesan (Bacillus thuringiensis serovar. jegathesan, Bacillus thuringiensis ssp. jegathesan, Bacillus thuringiensis var. jegathesan)",https://lod.nal.usda.gov/nalt/14955,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. kenyae,Bacillus thuringiensis serovar. kenyae; Bacillus thuringiensis ssp. kenyae; Bacillus thuringiensis var. kenyae,"Bacillus thuringiensis subsp. kenyae (Bacillus thuringiensis serovar. kenyae, Bacillus thuringiensis ssp. kenyae, Bacillus thuringiensis var. kenyae)",https://lod.nal.usda.gov/nalt/14956,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. kumamotoensis,Bacillus thuringiensis serovar. kumamotoensis; Bacillus thuringiensis ssp. kumamotoensis; Bacillus thuringiensis var. kumamotoensis,"Bacillus thuringiensis subsp. kumamotoensis (Bacillus thuringiensis serovar. kumamotoensis, Bacillus thuringiensis ssp. kumamotoensis, Bacillus thuringiensis var. kumamotoensis)",https://lod.nal.usda.gov/nalt/14957,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. kunthalanags3,Bacillus thuringiensis serovar. kunthalanags3; Bacillus thuringiensis ssp. kunthalanags3,"Bacillus thuringiensis subsp. kunthalanags3 (Bacillus thuringiensis serovar. kunthalanags3, Bacillus thuringiensis ssp. kunthalanags3)",https://lod.nal.usda.gov/nalt/14958,0.98,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. kunthalaRX24,Bacillus thuringiensis serovar. kunthalaRX24; Bacillus thuringiensis ssp. kunthalaRX24,"Bacillus thuringiensis subsp. kunthalaRX24 (Bacillus thuringiensis serovar. kunthalaRX24, Bacillus thuringiensis ssp. kunthalaRX24)",https://lod.nal.usda.gov/nalt/14959,0.98,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. kurstaki,Bacillus thuringiensis kurstaki; Bacillus thuringiensis serovar. kurstaki; Bacillus thuringiensis ssp kurstaki; Bacillus thuringiensis ssp. kurstaki; Bacillus thuringiensis var. kurstaki,"Bacillus thuringiensis subsp. kurstaki (Bacillus thuringiensis kurstaki, Bacillus thuringiensis serovar. kurstaki, Bacillus thuringiensis ssp kurstaki, Bacillus thuringiensis ssp. kurstaki, Bacillus thuringiensis var. kurstaki)",https://lod.nal.usda.gov/nalt/14962,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. medellin,Bacillus thuringiensis serovar. medellin; Bacillus thuringiensis ssp. medellin; Bacillus thuringiensis var. medellin,"Bacillus thuringiensis subsp. medellin (Bacillus thuringiensis serovar. medellin, Bacillus thuringiensis ssp. medellin, Bacillus thuringiensis var. medellin)",https://lod.nal.usda.gov/nalt/14964,0.92,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. san-diego,Bacillus thuringiensis serovar. san-diego; Bacillus thuringiensis ssp. san-diego; Bacillus thuringiensis var. san-diego,"Bacillus thuringiensis subsp. san-diego (Bacillus thuringiensis serovar. san-diego, Bacillus thuringiensis ssp. san-diego, Bacillus thuringiensis var. san-diego)",https://lod.nal.usda.gov/nalt/14967,0.94,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. tenebrionis,Bacillus thuringiensis serovar. tenebrionis; Bacillus thuringiensis ssp. tenebrionis; Bacillus thuringiensis var. tenebrionis,"Bacillus thuringiensis subsp. tenebrionis (Bacillus thuringiensis serovar. tenebrionis, Bacillus thuringiensis ssp. tenebrionis, Bacillus thuringiensis var. tenebrionis)",https://lod.nal.usda.gov/nalt/14969,0.99,False,skos:broader; skos:narrower,INCLUDE
+Bacillus thuringiensis subsp. thuringiensis,Bacillus thuringiensis serovar. thuringiensis; Bacillus thuringiensis ssp. thuringiensis; Bacillus thuringiensis var. thuringiensis,"Bacillus thuringiensis subsp. thuringiensis (Bacillus thuringiensis serovar. thuringiensis, Bacillus thuringiensis ssp. thuringiensis, Bacillus thuringiensis var. thuringiensis)",https://lod.nal.usda.gov/nalt/14970,0.98,False,skos:broader; skos:narrower,INCLUDE
+bait traps,,bait traps,https://lod.nal.usda.gov/nalt/15543,0.99,False,skos:broader; skos:narrower,INCLUDE
+beta-endosulfan,b-endosulfan; beta endosulfan; beta-benzoepin; beta-thiodan; beta-thionex; endosulfan 2; endosulfan B; endosulfan II,"beta-endosulfan (b-endosulfan, beta endosulfan, beta-benzoepin, beta-thiodan, beta-thionex, endosulfan 2, endosulfan B, endosulfan II)",https://lod.nal.usda.gov/nalt/257178,0.99,True,skos:broader; skos:narrower,INCLUDE
+bird repellents,avian repellents,bird repellents (avian repellents),https://lod.nal.usda.gov/nalt/17595,0.98,False,skos:broader; skos:narrower,INCLUDE
+blacklight traps,,blacklight traps,https://lod.nal.usda.gov/nalt/17868,0.99,False,skos:broader; skos:narrower,INCLUDE
+butachlor,,butachlor,https://lod.nal.usda.gov/nalt/20598,0.97,True,skos:broader; skos:narrower,INCLUDE
+CDC light traps,Centers for Disease Control and Prevention light traps; Centers for Disease Control light traps,"CDC light traps (Centers for Disease Control and Prevention light traps, Centers for Disease Control light traps)",https://lod.nal.usda.gov/nalt/23205,0.98,False,skos:broader; skos:narrower,INCLUDE
+cis-chlordane,c-chlordane; chlordane cis,"cis-chlordane (c-chlordane, chlordane cis)",https://lod.nal.usda.gov/nalt/213665,0.99,True,skos:broader; skos:narrower,INCLUDE
+clofop,,clofop,https://lod.nal.usda.gov/nalt/26941,0.95,True,skos:broader; skos:narrower,INCLUDE
+cloransulam,,cloransulam,https://lod.nal.usda.gov/nalt/26962,0.95,True,skos:broader; skos:narrower,INCLUDE
+culling (plants),rogue removal; rogueing; roguing,"culling (plants) (rogue removal, rogueing, roguing)",https://lod.nal.usda.gov/nalt/104900,0.91,False,skos:broader; skos:narrower,INCLUDE
+cyhalofop,,cyhalofop,https://lod.nal.usda.gov/nalt/31122,0.98,True,skos:broader; skos:narrower,INCLUDE
+delachlor,,delachlor,https://lod.nal.usda.gov/nalt/32060,0.98,True,skos:broader; skos:narrower,INCLUDE
+diclofop,,diclofop,https://lod.nal.usda.gov/nalt/33227,0.99,True,skos:broader; skos:narrower,INCLUDE
+diclofop-methyl,"methyl (RS)-2-(4-(2,4-dichlorophenoxy)phenoxy)propanoate; methyl 2-(4-(2,4-dichlorophenoxy)phenoxy)propanoate","diclofop-methyl (methyl (RS)-2-(4-(2,4-dichlorophenoxy)phenoxy)propanoate, methyl 2-(4-(2,4-dichlorophenoxy)phenoxy)propanoate)",https://lod.nal.usda.gov/nalt/265298,0.99,True,skos:broader; skos:narrower,INCLUDE
+diethatyl,,diethatyl,https://lod.nal.usda.gov/nalt/25355,0.98,True,skos:broader; skos:narrower,INCLUDE
+dimethachlor,,dimethachlor,https://lod.nal.usda.gov/nalt/33652,0.99,True,skos:broader; skos:narrower,INCLUDE
+electrocuting traps,,electrocuting traps,https://lod.nal.usda.gov/nalt/36194,0.91,False,skos:broader; skos:narrower,INCLUDE
+endosulfan lactone,endolacton; endolactone; endosulfan-lacton,"endosulfan lactone (endolacton, endolactone, endosulfan-lacton)",https://lod.nal.usda.gov/nalt/324612,0.97,True,skos:broader; skos:narrower,INCLUDE
+endosulfan sulfate,endosulfan sulphate,endosulfan sulfate (endosulfan sulphate),https://lod.nal.usda.gov/nalt/213697,0.98,True,skos:broader; skos:narrower,INCLUDE
+fenoxaprop,,fenoxaprop,https://lod.nal.usda.gov/nalt/39829,0.91,True,skos:broader; skos:narrower,INCLUDE
+fluazifop,,fluazifop,https://lod.nal.usda.gov/nalt/40671,0.97,True,skos:broader; skos:narrower,INCLUDE
+fluazifop-P,fluazifop-P-butyl,fluazifop-P (fluazifop-P-butyl),https://lod.nal.usda.gov/nalt/40672,0.98,True,skos:broader; skos:narrower,INCLUDE
+genetic resistance,genetic control (diseases); genetic control (pests),"genetic resistance (genetic control (diseases), genetic control (pests))",https://lod.nal.usda.gov/nalt/17455,0.9,False,skos:broader; skos:narrower,INCLUDE
+haloxyfop,,haloxyfop,https://lod.nal.usda.gov/nalt/44476,0.97,True,skos:broader; skos:narrower,INCLUDE
+horizontal resistance,nonspecific resistance,horizontal resistance (nonspecific resistance),https://lod.nal.usda.gov/nalt/152,0.88,False,skos:broader; skos:narrower,INCLUDE
+induced resistance,,induced resistance,https://lod.nal.usda.gov/nalt/17456,0.94,False,skos:broader; skos:narrower,INCLUDE
+insect pheromones,,insect pheromones,https://lod.nal.usda.gov/nalt/5160,0.96,False,skos:related,INCLUDE
+insect repellents,,insect repellents,https://lod.nal.usda.gov/nalt/31959,0.98,False,skos:broader; skos:narrower,INCLUDE
+mefenoxam,R-metalaxyl; metalaxyl-M; ridomil,"mefenoxam (R-metalaxyl, metalaxyl-M, ridomil)",https://lod.nal.usda.gov/nalt/234906,1.0,True,skos:broader; skos:narrower,INCLUDE
+metolachlor,S-metolachlor; SMOC (S-metolachlor),"metolachlor (S-metolachlor, SMOC (S-metolachlor))",https://lod.nal.usda.gov/nalt/25357,1.0,True,skos:broader; skos:narrower,INCLUDE
+nicarbazin,,nicarbazin,https://lod.nal.usda.gov/nalt/8955,0.92,False,skos:broader; skos:narrower,INCLUDE
+oviposition deterrents,,oviposition deterrents,https://lod.nal.usda.gov/nalt/56413,0.9,False,skos:broader; skos:narrower,INCLUDE
+oxyclozanide,,oxyclozanide,https://lod.nal.usda.gov/nalt/8956,0.88,False,skos:broader; skos:narrower,INCLUDE
+perfluidone,,perfluidone,https://lod.nal.usda.gov/nalt/45243,0.98,True,skos:broader; skos:narrower,INCLUDE
+piperonyl butoxide,,piperonyl butoxide,https://lod.nal.usda.gov/nalt/45396,0.99,False,skos:related,INCLUDE
+plant growth control,,plant growth control,https://lod.nal.usda.gov/nalt/34963,0.9,False,skos:related,INCLUDE
+plant growth inhibitors,plant growth retardants; seed germination inhibitors,"plant growth inhibitors (plant growth retardants, seed germination inhibitors)",https://lod.nal.usda.gov/nalt/214242,0.94,False,skos:broader; skos:narrower,INCLUDE
+preplanting treatment,,preplanting treatment,https://lod.nal.usda.gov/nalt/11360,0.76,False,skos:broader; skos:narrower,INCLUDE
+pretilachlor,,pretilachlor,https://lod.nal.usda.gov/nalt/25358,0.96,True,skos:broader; skos:narrower,INCLUDE
+propachlor,,propachlor,https://lod.nal.usda.gov/nalt/25359,0.98,True,skos:broader; skos:narrower,INCLUDE
+propaquizafop,,propaquizafop,https://lod.nal.usda.gov/nalt/124298,0.98,True,skos:broader; skos:narrower,INCLUDE
+pruning,shearing (plants); thinning (cutting of branches); thinning (of canopy); tree surgery; trimming (plants),"pruning (shearing (plants), thinning (cutting of branches), thinning (of canopy), tree surgery, trimming (plants))",https://lod.nal.usda.gov/nalt/32141,0.82,False,skos:broader; skos:narrower,INCLUDE
+prynachlor,,prynachlor,https://lod.nal.usda.gov/nalt/45255,0.97,True,skos:broader; skos:narrower,INCLUDE
+quizalofop,ethyl (2R)-2-(4-((6-chloroquinoxalin-2-yl)oxy)phenoxy)propionate; ethyl (2R)-2-(4-(6-chloranylquinoxalin-2-yl)oxyphenoxy)propanoate; ethyl (2R)-2-(4-(6-chloroquinoxalin-2-yl)oxyphenoxy)propanoate; quizalofop-ethyl; quizalofop-p-ethyl,"quizalofop (ethyl (2R)-2-(4-((6-chloroquinoxalin-2-yl)oxy)phenoxy)propionate, ethyl (2R)-2-(4-(6-chloranylquinoxalin-2-yl)oxyphenoxy)propanoate, ethyl (2R)-2-(4-(6-chloroquinoxalin-2-yl)oxyphenoxy)propanoate, quizalofop-ethyl, quizalofop-p-ethyl)",https://lod.nal.usda.gov/nalt/45261,0.98,True,skos:broader; skos:narrower,INCLUDE
+Salsola,tumbleweed,Salsola (tumbleweed),https://lod.nal.usda.gov/nalt/24738,0.9,False,skos:broader; skos:narrower,INCLUDE
+seed treatment,,seed treatment,https://lod.nal.usda.gov/nalt/58549,0.97,False,skos:broader; skos:narrower,INCLUDE
+spray deposition,spray drop deposition,spray deposition (spray drop deposition),https://lod.nal.usda.gov/nalt/11352,0.93,False,skos:broader; skos:narrower,INCLUDE
+spray drift,pesticide drift,spray drift (pesticide drift),https://lod.nal.usda.gov/nalt/11353,0.99,False,skos:broader; skos:narrower,INCLUDE
+streptomycin,,streptomycin,https://lod.nal.usda.gov/nalt/7873,0.98,False,skos:related,INCLUDE
+Striga asiatica,Asiatic witchweed; Striga lutea,"Striga asiatica (Asiatic witchweed, Striga lutea)",https://lod.nal.usda.gov/nalt/12967,0.95,False,skos:broader; skos:narrower,INCLUDE
+Striga gesnerioides,Striga orobanchoides,Striga gesnerioides (Striga orobanchoides),https://lod.nal.usda.gov/nalt/65035,0.95,False,skos:broader; skos:narrower,INCLUDE
+Striga hermonthica,,Striga hermonthica,https://lod.nal.usda.gov/nalt/65036,0.95,False,skos:broader; skos:narrower,INCLUDE
+synergism,,synergism,https://lod.nal.usda.gov/nalt/17302,0.86,False,skos:related,INCLUDE
+synergists,,synergists,https://lod.nal.usda.gov/nalt/255,0.88,False,skos:related,INCLUDE
+terbuchlor,,terbuchlor,https://lod.nal.usda.gov/nalt/45271,0.97,True,skos:broader; skos:narrower,INCLUDE
+thiotepa,,thiotepa,https://lod.nal.usda.gov/nalt/57896,0.89,False,skos:broader; skos:narrower,INCLUDE
+thuringiensin,,thuringiensin,https://lod.nal.usda.gov/nalt/14976,0.91,False,skos:related,INCLUDE
+trans-chlordane,chlordane trans; t-chlordane,"trans-chlordane (chlordane trans, t-chlordane)",https://lod.nal.usda.gov/nalt/213662,0.98,True,skos:broader; skos:narrower,INCLUDE
+xylachlor,,xylachlor,https://lod.nal.usda.gov/nalt/45286,0.9,True,skos:broader; skos:narrower,INCLUDE
+zinc compounds,,zinc compounds,https://lod.nal.usda.gov/nalt/327822,0.93,False,skos:broader; skos:narrower,INCLUDE
+aggregation pheromones,,aggregation pheromones,https://lod.nal.usda.gov/nalt/5157,0.97,False,skos:related,INCLUDE
+alarm pheromones,,alarm pheromones,https://lod.nal.usda.gov/nalt/5966,0.97,False,skos:related,INCLUDE
+aminoglycosides,,aminoglycosides,https://lod.nal.usda.gov/nalt/7864,0.86,False,skos:broader; skos:narrower,INCLUDE
+antiaggregation pheromones,anti-aggregation pheromones,antiaggregation pheromones (anti-aggregation pheromones),https://lod.nal.usda.gov/nalt/5159,0.96,False,skos:related,INCLUDE
+brood pheromone,,brood pheromone,https://lod.nal.usda.gov/nalt/20041,0.85,False,skos:broader; skos:narrower,INCLUDE
+coccidiostats,anticoccidial agents; anticoccidials,"coccidiostats (anticoccidial agents, anticoccidials)",https://lod.nal.usda.gov/nalt/10269,0.94,False,skos:broader; skos:narrower,INCLUDE
+dihydrostreptomycin,dihydrostreptomycin sulfate,dihydrostreptomycin (dihydrostreptomycin sulfate),https://lod.nal.usda.gov/nalt/10200,0.95,False,skos:broader; skos:narrower,INCLUDE
+drift spraying,,drift spraying,https://lod.nal.usda.gov/nalt/302117,0.95,False,skos:related,INCLUDE
+geraniol,lemonol,geraniol (lemonol),https://lod.nal.usda.gov/nalt/6150,0.91,False,skos:related,INCLUDE
+growth inhibitors,growth retardants,growth inhibitors (growth retardants),https://lod.nal.usda.gov/nalt/302390,0.96,False,skos:broader; skos:narrower,INCLUDE
+inorganic compounds,inorganic chemicals,inorganic compounds (inorganic chemicals),https://lod.nal.usda.gov/nalt/265,0.78,False,skos:broader; skos:narrower,INCLUDE
+MGK-326,dipropyl isocinchomeronate,MGK-326 (dipropyl isocinchomeronate),https://lod.nal.usda.gov/nalt/213732,0.99,False,skos:broader; skos:narrower,INCLUDE
+Nasonov pheromone,,Nasonov pheromone,https://lod.nal.usda.gov/nalt/45796,0.84,False,skos:broader; skos:narrower,INCLUDE
+organometallic compounds,,organometallic compounds,https://lod.nal.usda.gov/nalt/56084,0.72,False,skos:broader; skos:narrower,INCLUDE
+oviposition pheromones,,oviposition pheromones,https://lod.nal.usda.gov/nalt/47391,0.95,False,skos:related,INCLUDE
+phenylurea compounds,phenyl urea compounds,phenylurea compounds (phenyl urea compounds),https://lod.nal.usda.gov/nalt/54802,0.93,False,skos:broader; skos:narrower,INCLUDE
+queen pheromones,,queen pheromones,https://lod.nal.usda.gov/nalt/47392,0.9,False,skos:related,INCLUDE
+seed dressings,seed coatings; seed pelleting; seed pelletization,"seed dressings (seed coatings, seed pelleting, seed pelletization)",https://lod.nal.usda.gov/nalt/62758,0.96,False,skos:broader; skos:narrower,INCLUDE
+systemic acquired resistance,,systemic acquired resistance,https://lod.nal.usda.gov/nalt/46601,0.84,False,skos:broader; skos:narrower,INCLUDE
+transgenic resistance,,transgenic resistance,https://lod.nal.usda.gov/nalt/322625,0.82,False,skos:broader; skos:narrower,INCLUDE
+varietal resistance,varietal susceptibility,varietal resistance (varietal susceptibility),https://lod.nal.usda.gov/nalt/42647,0.91,False,skos:broader; skos:narrower,INCLUDE
+zinc phosphide,,zinc phosphide,https://lod.nal.usda.gov/nalt/57887,0.99,False,skos:broader; skos:narrower,INCLUDE
+zinc pyrithione,pyrithion-zink; pyrithione zinc; zinc pyridinethione,"zinc pyrithione (pyrithion-zink, pyrithione zinc, zinc pyridinethione)",https://lod.nal.usda.gov/nalt/327056,0.97,False,skos:broader; skos:narrower,INCLUDE
+aluminum compounds,aluminium compounds,aluminum compounds (aluminium compounds),https://lod.nal.usda.gov/nalt/327630,0.77,False,skos:broader; skos:narrower,INCLUDE
+barium compounds,,barium compounds,https://lod.nal.usda.gov/nalt/260422,0.82,False,skos:broader; skos:narrower,INCLUDE
+calcium compounds,,calcium compounds,https://lod.nal.usda.gov/nalt/331567,0.73,False,skos:broader; skos:narrower,INCLUDE
+copper pyrithione,,copper pyrithione,https://lod.nal.usda.gov/nalt/327055,0.95,False,skos:broader; skos:narrower,INCLUDE
+ipsdienol,,ipsdienol,https://lod.nal.usda.gov/nalt/297556,0.94,False,skos:broader; skos:narrower,INCLUDE
+low volume spraying,ultralow volume spraying; very low volume spraying,"low volume spraying (ultralow volume spraying, very low volume spraying)",https://lod.nal.usda.gov/nalt/50686,0.99,False,skos:related,INCLUDE
+nerol,,nerol,https://lod.nal.usda.gov/nalt/207447,0.78,False,skos:related,INCLUDE
+organomercury compounds,organic mercury compounds; organomercurials,"organomercury compounds (organic mercury compounds, organomercurials)",https://lod.nal.usda.gov/nalt/52151,0.93,False,skos:broader; skos:narrower,INCLUDE
+ozone,,ozone,https://lod.nal.usda.gov/nalt/47324,0.92,False,skos:broader; skos:narrower,INCLUDE
+phosphides,,phosphides,https://lod.nal.usda.gov/nalt/47325,0.99,False,skos:broader; skos:narrower,INCLUDE
+roxarsone,3-nitro-4-hydroxy benzene arsenic acid,roxarsone (3-nitro-4-hydroxy benzene arsenic acid),https://lod.nal.usda.gov/nalt/12379,0.95,False,skos:broader; skos:narrower,INCLUDE
+silver compounds,,silver compounds,https://lod.nal.usda.gov/nalt/254464,0.73,False,skos:broader; skos:narrower,INCLUDE
+spectinomycin,,spectinomycin,https://lod.nal.usda.gov/nalt/10209,0.87,False,skos:broader; skos:narrower,INCLUDE
+zinc phthalocyanine,Zn(II)-phthalocyanine; Zn-phthalocyanine,"zinc phthalocyanine (Zn(II)-phthalocyanine, Zn-phthalocyanine)",https://lod.nal.usda.gov/nalt/328277,0.85,False,skos:broader; skos:narrower,INCLUDE
+copper,,copper,https://lod.nal.usda.gov/nalt/28946,0.73,False,skos:related,INCLUDE
+Ips,,Ips,https://lod.nal.usda.gov/nalt/47664,0.86,False,skos:related,INCLUDE
+methylmercury compounds,methyl mercury; methyl mercury cations; methyl mercury compounds; methylmercury; methylmercury cations,"methylmercury compounds (methyl mercury, methyl mercury cations, methyl mercury compounds, methylmercury, methylmercury cations)",https://lod.nal.usda.gov/nalt/52346,0.82,False,skos:broader; skos:narrower,INCLUDE
+ozonation,ozone treatment; ozonization,"ozonation (ozone treatment, ozonization)",https://lod.nal.usda.gov/nalt/24676,0.95,False,skos:related,INCLUDE
+silver chloride,AgCl (silver chloride),silver chloride (AgCl (silver chloride)),https://lod.nal.usda.gov/nalt/254461,0.76,False,skos:broader; skos:narrower,INCLUDE
+silver nitrate,,silver nitrate,https://lod.nal.usda.gov/nalt/54861,0.88,False,skos:broader; skos:narrower,INCLUDE
+spray volume,,spray volume,https://lod.nal.usda.gov/nalt/11363,0.79,False,skos:related,INCLUDE
+cupric oxide,copper (II) oxide,cupric oxide (copper (II) oxide),https://lod.nal.usda.gov/nalt/248003,0.95,False,skos:related,INCLUDE
+Ips acuminatus,,Ips acuminatus,https://lod.nal.usda.gov/nalt/47665,0.97,False,skos:broader; skos:narrower,INCLUDE
+Ips avulsus,small southern pine engraver,Ips avulsus (small southern pine engraver),https://lod.nal.usda.gov/nalt/47666,0.98,False,skos:broader; skos:narrower,INCLUDE
+Ips calligraphus,sixspined ips,Ips calligraphus (sixspined ips),https://lod.nal.usda.gov/nalt/47667,0.98,False,skos:broader; skos:narrower,INCLUDE
+Ips cembrae,,Ips cembrae,https://lod.nal.usda.gov/nalt/295498,0.97,False,skos:broader; skos:narrower,INCLUDE
+Ips confusus,pinyon ips,Ips confusus (pinyon ips),https://lod.nal.usda.gov/nalt/128419,0.98,False,skos:broader; skos:narrower,INCLUDE
+Ips grandicollis,Eastern fivespined ips,Ips grandicollis (Eastern fivespined ips),https://lod.nal.usda.gov/nalt/35173,0.98,False,skos:broader; skos:narrower,INCLUDE
+Ips lecontei,Arizona fivespined ips,Ips lecontei (Arizona fivespined ips),https://lod.nal.usda.gov/nalt/128421,0.98,False,skos:broader; skos:narrower,INCLUDE
+Ips mexicanus,Ips radiatae,Ips mexicanus (Ips radiatae),https://lod.nal.usda.gov/nalt/295501,0.97,False,skos:broader; skos:narrower,INCLUDE
+Ips paraconfusus,California fivespined ips,Ips paraconfusus (California fivespined ips),https://lod.nal.usda.gov/nalt/21221,0.98,False,skos:broader; skos:narrower,INCLUDE
+Ips perturbatus,Northern spruce engraver beetle,Ips perturbatus (Northern spruce engraver beetle),https://lod.nal.usda.gov/nalt/47668,0.97,False,skos:broader; skos:narrower,INCLUDE
+Ips pini,Ips oregoni; North American pine engraver; pine engraver,"Ips pini (Ips oregoni, North American pine engraver, pine engraver)",https://lod.nal.usda.gov/nalt/47669,0.99,False,skos:broader; skos:narrower,INCLUDE
+Ips plastographus,,Ips plastographus,https://lod.nal.usda.gov/nalt/295500,0.96,False,skos:broader; skos:narrower,INCLUDE
+Ips sexdentatus,six-toothed bark beetle,Ips sexdentatus (six-toothed bark beetle),https://lod.nal.usda.gov/nalt/47670,0.99,False,skos:broader; skos:narrower,INCLUDE

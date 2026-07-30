@@ -1,0 +1,569 @@
+prefLabel,altLabels,displayName,uri,confidence,in_hierarchy_gold,relations,classification
+direct push technology,,direct push technology,https://lod.nal.usda.gov/nalt/216922,0.95,False,skos:related,EXCLUDE
+geophytes,,geophytes,https://lod.nal.usda.gov/nalt/217420,0.95,False,skos:related,EXCLUDE
+air,,air,https://lod.nal.usda.gov/nalt/5822,0.9,False,skos:related,EXCLUDE
+capillary fringe,,capillary fringe,https://lod.nal.usda.gov/nalt/21979,0.7,False,skos:related,EXCLUDE
+earthworm burrows,earthworm channels,earthworm burrows (earthworm channels),https://lod.nal.usda.gov/nalt/35127,0.7,True,skos:broader; skos:narrower,EXCLUDE
+permafrost,permafrost areas,permafrost (permafrost areas),https://lod.nal.usda.gov/nalt/27783,0.7,True,skos:broader; skos:narrower,EXCLUDE
+phytodesalination,phyto-desalination,phytodesalination (phyto-desalination),https://lod.nal.usda.gov/nalt/235923,0.9,False,skos:related,EXCLUDE
+plant litter,leaf litter; litterfall,"plant litter (leaf litter, litterfall)",https://lod.nal.usda.gov/nalt/41163,0.7,True,skos:broader; skos:narrower,EXCLUDE
+plant-water relations,plant water relations; water-plant relations,"plant-water relations (plant water relations, water-plant relations)",https://lod.nal.usda.gov/nalt/34627,0.95,False,skos:related,EXCLUDE
+soil suitability,,soil suitability,https://lod.nal.usda.gov/nalt/63434,0.75,True,skos:broader; skos:narrower,EXCLUDE
+soil water balance,field water balance; soil water budget,"soil water balance (field water balance, soil water budget)",https://lod.nal.usda.gov/nalt/40115,0.7,True,skos:related,EXCLUDE
+water,,water,https://lod.nal.usda.gov/nalt/6435,0.95,False,skos:broader; skos:narrower,EXCLUDE
+wheel tracks,tramlines (controlled traffic),wheel tracks (tramlines (controlled traffic)),https://lod.nal.usda.gov/nalt/1012,0.95,True,skos:broader; skos:narrower,EXCLUDE
+worm casts,earthworm casts,worm casts (earthworm casts),https://lod.nal.usda.gov/nalt/35131,0.9,True,skos:broader; skos:narrower,EXCLUDE
+age,age differences,age (age differences),https://lod.nal.usda.gov/nalt/110,0.7,False,skos:related,EXCLUDE
+age determination,,age determination,https://lod.nal.usda.gov/nalt/5066,1.0,False,skos:related,EXCLUDE
+biological resources,biotic resources,biological resources (biotic resources),https://lod.nal.usda.gov/nalt/17323,0.85,False,skos:broader; skos:narrower,EXCLUDE
+biomass,crop biomass,biomass (crop biomass),https://lod.nal.usda.gov/nalt/15955,0.9,False,skos:related,EXCLUDE
+climate,macroclimate,climate (macroclimate),https://lod.nal.usda.gov/nalt/76121,0.95,False,skos:related,EXCLUDE
+corn soils,maize soils,corn soils (maize soils),https://lod.nal.usda.gov/nalt/29188,0.75,True,skos:broader; skos:narrower,EXCLUDE
+diagenesis,,diagenesis,https://lod.nal.usda.gov/nalt/324774,0.95,True,skos:broader; skos:narrower,EXCLUDE
+drained conditions,,drained conditions,https://lod.nal.usda.gov/nalt/34495,0.65,True,skos:broader; skos:narrower,EXCLUDE
+dry environmental conditions,arid conditions; arid environments; aridity; dry environment; dry environments; xeric conditions; xeric environment; xeric environments; xeric habitats,"dry environmental conditions (arid conditions, arid environments, aridity, dry environment, dry environments, xeric conditions, xeric environment, xeric environments, xeric habitats)",https://lod.nal.usda.gov/nalt/12165,0.95,False,skos:related,EXCLUDE
+eluviation,,eluviation,https://lod.nal.usda.gov/nalt/36324,0.65,True,skos:related,EXCLUDE
+environmental factors,abiotic factors; ecofactors; ecological factors; environment factors; environmental conditions; environmental filters; environmental variables,"environmental factors (abiotic factors, ecofactors, ecological factors, environment factors, environmental conditions, environmental filters, environmental variables)",https://lod.nal.usda.gov/nalt/4631,0.95,False,skos:broader; skos:narrower,EXCLUDE
+flooded conditions,water logging; waterlogged conditions; waterlogging,"flooded conditions (water logging, waterlogged conditions, waterlogging)",https://lod.nal.usda.gov/nalt/40586,0.95,True,skos:broader; skos:narrower,EXCLUDE
+humification,,humification,https://lod.nal.usda.gov/nalt/17317,0.65,False,skos:related,EXCLUDE
+illuviation,,illuviation,https://lod.nal.usda.gov/nalt/46935,0.65,True,skos:related,EXCLUDE
+irrigated conditions,irrigated sites; irrigated stands,"irrigated conditions (irrigated sites, irrigated stands)",https://lod.nal.usda.gov/nalt/47756,0.9,True,skos:broader; skos:narrower,EXCLUDE
+irrigation systems,irrigation equipment,irrigation systems (irrigation equipment),https://lod.nal.usda.gov/nalt/16017,0.95,True,skos:related,EXCLUDE
+leaching,,leaching,https://lod.nal.usda.gov/nalt/36326,0.95,True,skos:related,EXCLUDE
+measurement,,measurement,https://lod.nal.usda.gov/nalt/2179,0.95,False,skos:broader; skos:narrower,EXCLUDE
+minerals,,minerals,https://lod.nal.usda.gov/nalt/18621,0.8,False,skos:related,EXCLUDE
+petrographic microscopy,,petrographic microscopy,https://lod.nal.usda.gov/nalt/292313,0.95,False,skos:related,EXCLUDE
+phytomass,plant biomass,phytomass (plant biomass),https://lod.nal.usda.gov/nalt/288721,0.95,False,skos:related,EXCLUDE
+rocks,,rocks,https://lod.nal.usda.gov/nalt/16264,1.0,False,skos:related,EXCLUDE
+saturated conditions,,saturated conditions,https://lod.nal.usda.gov/nalt/11566,0.95,True,skos:broader; skos:narrower,EXCLUDE
+soil map,,soil map,https://lod.nal.usda.gov/nalt/225108,0.95,False,skos:related,EXCLUDE
+soil monolith preparation,,soil monolith preparation,https://lod.nal.usda.gov/nalt/306983,0.95,False,skos:related,EXCLUDE
+streambank stability,stream bank stability,streambank stability (stream bank stability),https://lod.nal.usda.gov/nalt/37933,0.9,True,skos:broader; skos:narrower,EXCLUDE
+subsidence,,subsidence,https://lod.nal.usda.gov/nalt/51611,0.75,False,skos:related,EXCLUDE
+sugarcane soils,,sugarcane soils,https://lod.nal.usda.gov/nalt/30694,0.75,True,skos:broader; skos:narrower,EXCLUDE
+trafficability,,trafficability,https://lod.nal.usda.gov/nalt/63364,0.65,True,skos:broader; skos:narrower,EXCLUDE
+water potential,plant water potential,water potential (plant water potential),https://lod.nal.usda.gov/nalt/49436,0.8,False,skos:broader; skos:narrower,EXCLUDE
+water quality,groundwater quality; water clarity,"water quality (groundwater quality, water clarity)",https://lod.nal.usda.gov/nalt/26766,0.95,False,skos:related,EXCLUDE
+wet environmental conditions,hydric conditions; hygric conditions; wet conditions (environment); wet environment; wet environments,"wet environmental conditions (hydric conditions, hygric conditions, wet conditions (environment), wet environment, wet environments)",https://lod.nal.usda.gov/nalt/11520,0.95,False,skos:related,EXCLUDE
+wet-dry cycles,moist dry cycles; moist-dry cycles; wet dry cycles,"wet-dry cycles (moist dry cycles, moist-dry cycles, wet dry cycles)",https://lod.nal.usda.gov/nalt/53217,0.75,True,skos:broader; skos:narrower,EXCLUDE
+alkaline hydrolysis,alkali hydrolysis,alkaline hydrolysis (alkali hydrolysis),https://lod.nal.usda.gov/nalt/221851,0.8,False,skos:related,EXCLUDE
+alluvial land,,alluvial land,https://lod.nal.usda.gov/nalt/300532,0.95,False,skos:related,EXCLUDE
+alluvial plains,alluvial floodplains,alluvial plains (alluvial floodplains),https://lod.nal.usda.gov/nalt/71307,0.95,False,skos:related,EXCLUDE
+alluvium,alluvial deposits,alluvium (alluvial deposits),https://lod.nal.usda.gov/nalt/6750,0.8,False,skos:related,EXCLUDE
+aluminum,Al3+; aluminium,"aluminum (Al3+, aluminium)",https://lod.nal.usda.gov/nalt/7265,0.9,False,skos:related,EXCLUDE
+anaerobic conditions,anoxic conditions; hypoxic conditions,"anaerobic conditions (anoxic conditions, hypoxic conditions)",https://lod.nal.usda.gov/nalt/8377,0.7,False,skos:related,EXCLUDE
+bank erosion,river bank erosion; riverbank erosion; stream bank erosion; streambank erosion,"bank erosion (river bank erosion, riverbank erosion, stream bank erosion, streambank erosion)",https://lod.nal.usda.gov/nalt/15759,0.95,True,skos:related,EXCLUDE
+bauxite,,bauxite,https://lod.nal.usda.gov/nalt/270508,0.95,False,skos:related,EXCLUDE
+beaches,,beaches,https://lod.nal.usda.gov/nalt/16124,0.95,False,skos:related,EXCLUDE
+biochar,biomass char,biochar (biomass char),https://lod.nal.usda.gov/nalt/148682,0.95,False,skos:related,EXCLUDE
+biomineralization,biomineralisation,biomineralization (biomineralisation),https://lod.nal.usda.gov/nalt/255618,0.9,False,skos:related,EXCLUDE
+bogs,,bogs,https://lod.nal.usda.gov/nalt/18399,0.95,False,skos:related,EXCLUDE
+brownfields,,brownfields,https://lod.nal.usda.gov/nalt/68704,0.95,False,skos:related,EXCLUDE
+buffers,pH control substances,buffers (pH control substances),https://lod.nal.usda.gov/nalt/209,0.95,False,skos:related,EXCLUDE
+buried seeds,seed bank (soil); seed banks in soil; seedbank (soil); seedbanks in soil; soil seed banks; soil seedbanks,"buried seeds (seed bank (soil), seed banks in soil, seedbank (soil), seedbanks in soil, soil seed banks, soil seedbanks)",https://lod.nal.usda.gov/nalt/20438,0.95,False,skos:related,EXCLUDE
+calcicoles,calcicolous species,calcicoles (calcicolous species),https://lod.nal.usda.gov/nalt/6432,0.95,False,skos:related,EXCLUDE
+calcifuges,,calcifuges,https://lod.nal.usda.gov/nalt/2735,0.95,False,skos:related,EXCLUDE
+capacitance probes,,capacitance probes,https://lod.nal.usda.gov/nalt/21956,0.95,False,skos:related,EXCLUDE
+cerrado,,cerrado,https://lod.nal.usda.gov/nalt/19641,0.95,False,skos:related,EXCLUDE
+chalk grasslands,limestone grasslands; lowland calcareous grasslands,"chalk grasslands (limestone grasslands, lowland calcareous grasslands)",https://lod.nal.usda.gov/nalt/301234,0.9,False,skos:related,EXCLUDE
+chaparral,,chaparral,https://lod.nal.usda.gov/nalt/24428,0.95,False,skos:related,EXCLUDE
+chemical bases,,chemical bases,https://lod.nal.usda.gov/nalt/10,0.7,False,skos:related,EXCLUDE
+coastal ecosystems,,coastal ecosystems,https://lod.nal.usda.gov/nalt/327278,0.95,False,skos:related,EXCLUDE
+coastal plains,,coastal plains,https://lod.nal.usda.gov/nalt/6752,0.95,False,skos:related,EXCLUDE
+coastal sediments,,coastal sediments,https://lod.nal.usda.gov/nalt/314278,0.75,False,skos:related,EXCLUDE
+coastal zone management,beach management; coastline management,"coastal zone management (beach management, coastline management)",https://lod.nal.usda.gov/nalt/234762,0.95,False,skos:related,EXCLUDE
+coasts,coastlines,coasts (coastlines),https://lod.nal.usda.gov/nalt/27369,0.95,False,skos:related,EXCLUDE
+cover crops,,cover crops,https://lod.nal.usda.gov/nalt/28616,0.8,False,skos:related,EXCLUDE
+desertification,,desertification,https://lod.nal.usda.gov/nalt/32537,0.75,False,skos:related,EXCLUDE
+dissolved organic matter,,dissolved organic matter,https://lod.nal.usda.gov/nalt/34080,0.7,False,skos:related,EXCLUDE
+dissolved potassium,aqueous potassium,dissolved potassium (aqueous potassium),https://lod.nal.usda.gov/nalt/324588,0.7,False,skos:related,EXCLUDE
+disturbed land,,disturbed land,https://lod.nal.usda.gov/nalt/302024,0.75,False,skos:related,EXCLUDE
+duneland plants,,duneland plants,https://lod.nal.usda.gov/nalt/302135,0.95,False,skos:related,EXCLUDE
+dunes,sand dunes,dunes (sand dunes),https://lod.nal.usda.gov/nalt/16127,0.75,False,skos:related,EXCLUDE
+ecology,bionomics; macroecology,"ecology (bionomics, macroecology)",https://lod.nal.usda.gov/nalt/352,0.9,False,skos:broader; skos:narrower,EXCLUDE
+ecosystem respiration,,ecosystem respiration,https://lod.nal.usda.gov/nalt/189757,0.85,False,skos:related,EXCLUDE
+ecosystems,biomes,ecosystems (biomes),https://lod.nal.usda.gov/nalt/5579,0.9,False,skos:broader; skos:narrower,EXCLUDE
+environmental degradation,ecological degradation; ecological deterioration; environmental deterioration,"environmental degradation (ecological degradation, ecological deterioration, environmental deterioration)",https://lod.nal.usda.gov/nalt/2715,0.85,False,skos:broader; skos:narrower,EXCLUDE
+environmental quality,,environmental quality,https://lod.nal.usda.gov/nalt/5850,0.9,False,skos:related,EXCLUDE
+eolian deposits,aeolian deposits,eolian deposits (aeolian deposits),https://lod.nal.usda.gov/nalt/4578,0.7,False,skos:related,EXCLUDE
+eolian sands,aeolian sands,eolian sands (aeolian sands),https://lod.nal.usda.gov/nalt/299135,0.7,False,skos:related,EXCLUDE
+fens,fenlands,fens (fenlands),https://lod.nal.usda.gov/nalt/39810,0.85,False,skos:related,EXCLUDE
+fertilizer application,application of fertilisers; application of fertilizers; fertilisation (fertilisers); fertilisation (soils); fertiliser application; fertilization (fertilizers); fertilization (soils); fertilizer treatment,"fertilizer application (application of fertilisers, application of fertilizers, fertilisation (fertilisers), fertilisation (soils), fertiliser application, fertilization (fertilizers), fertilization (soils), fertilizer treatment)",https://lod.nal.usda.gov/nalt/11357,0.9,True,skos:related,EXCLUDE
+fertilizer requirements,crop nutrient requirements; fertiliser requirements,"fertilizer requirements (crop nutrient requirements, fertiliser requirements)",https://lod.nal.usda.gov/nalt/30138,0.9,False,skos:related,EXCLUDE
+fire severity,,fire severity,https://lod.nal.usda.gov/nalt/124424,0.85,False,skos:related,EXCLUDE
+fish ponds,,fish ponds,https://lod.nal.usda.gov/nalt/6352,0.95,False,skos:related,EXCLUDE
+forest damage,forest destruction; forest disturbance,"forest damage (forest destruction, forest disturbance)",https://lod.nal.usda.gov/nalt/41127,1.0,False,skos:related,EXCLUDE
+forest land,forestland,forest land (forestland),https://lod.nal.usda.gov/nalt/80856,1.0,False,skos:related,EXCLUDE
+forests,,forests,https://lod.nal.usda.gov/nalt/18644,1.0,False,skos:related,EXCLUDE
+fungal antagonists,yeast antagonists,fungal antagonists (yeast antagonists),https://lod.nal.usda.gov/nalt/9864,1.0,False,skos:related,EXCLUDE
+geology,,geology,https://lod.nal.usda.gov/nalt/497,0.7,False,skos:broader; skos:narrower,EXCLUDE
+glaciation,deglaciation; glacial recession; glacial retreat,"glaciation (deglaciation, glacial recession, glacial retreat)",https://lod.nal.usda.gov/nalt/105807,1.0,False,skos:related,EXCLUDE
+glaciers,glacial ice,glaciers (glacial ice),https://lod.nal.usda.gov/nalt/105752,1.0,False,skos:related,EXCLUDE
+golf courses,golf greens,golf courses (golf greens),https://lod.nal.usda.gov/nalt/69257,1.0,False,skos:related,EXCLUDE
+grasslands,natural grasslands,grasslands (natural grasslands),https://lod.nal.usda.gov/nalt/9709,1.0,False,skos:related,EXCLUDE
+gravel pits,,gravel pits,https://lod.nal.usda.gov/nalt/302324,1.0,True,skos:broader; skos:narrower,EXCLUDE
+gypsum,,gypsum,https://lod.nal.usda.gov/nalt/44152,0.7,False,skos:related,EXCLUDE
+gypsum requirement,,gypsum requirement,https://lod.nal.usda.gov/nalt/963,0.85,True,skos:related,EXCLUDE
+habitats,,habitats,https://lod.nal.usda.gov/nalt/11506,0.8,False,skos:broader; skos:narrower,EXCLUDE
+halophiles,halophilic microorganisms; halophilic organisms,"halophiles (halophilic microorganisms, halophilic organisms)",https://lod.nal.usda.gov/nalt/239616,0.95,False,skos:related,EXCLUDE
+halophytes,,halophytes,https://lod.nal.usda.gov/nalt/44457,0.95,False,skos:related,EXCLUDE
+halotropism,,halotropism,https://lod.nal.usda.gov/nalt/243888,0.95,False,skos:related,EXCLUDE
+heathlands,heath land; heath lands; heathland; moor (vegetation type); moor land; moor lands; moorland; moorlands; moors (vegetation type),"heathlands (heath land, heath lands, heathland, moor (vegetation type), moor land, moor lands, moorland, moorlands, moors (vegetation type))",https://lod.nal.usda.gov/nalt/148616,0.75,False,skos:related,EXCLUDE
+highlands,hill land; uplands,"highlands (hill land, uplands)",https://lod.nal.usda.gov/nalt/7026,0.85,False,skos:related,EXCLUDE
+Holocene epoch,,Holocene epoch,https://lod.nal.usda.gov/nalt/290833,0.95,False,skos:related,EXCLUDE
+humid zones,humid climate,humid zones (humid climate),https://lod.nal.usda.gov/nalt/26892,0.9,False,skos:related,EXCLUDE
+hydraulic head,,hydraulic head,https://lod.nal.usda.gov/nalt/324642,0.95,False,skos:related,EXCLUDE
+hydrodynamic dispersion,,hydrodynamic dispersion,https://lod.nal.usda.gov/nalt/46319,0.95,False,skos:related,EXCLUDE
+hydrologic data,hydrological data,hydrologic data (hydrological data),https://lod.nal.usda.gov/nalt/46369,0.9,False,skos:broader; skos:narrower,EXCLUDE
+immiscible displacement,,immiscible displacement,https://lod.nal.usda.gov/nalt/46320,0.9,False,skos:related,EXCLUDE
+iron,Fe2+; ferric iron; ferrous iron,"iron (Fe2+, ferric iron, ferrous iron)",https://lod.nal.usda.gov/nalt/33434,0.7,False,skos:related,EXCLUDE
+irrigated farming,irrigated crop production; irrigated fields,"irrigated farming (irrigated crop production, irrigated fields)",https://lod.nal.usda.gov/nalt/30152,0.9,False,skos:related,EXCLUDE
+irrigated pastures,,irrigated pastures,https://lod.nal.usda.gov/nalt/302575,0.95,False,skos:related,EXCLUDE
+lacustrine sediments,lacustrine deposits,lacustrine sediments (lacustrine deposits),https://lod.nal.usda.gov/nalt/48973,0.75,False,skos:related,EXCLUDE
+lakes,lochs,lakes (lochs),https://lod.nal.usda.gov/nalt/48975,1.0,False,skos:related,EXCLUDE
+land degradation,land deterioration,land degradation (land deterioration),https://lod.nal.usda.gov/nalt/189524,0.85,False,skos:related,EXCLUDE
+land restoration,land reclamation; land rehabilitation; land revegetation; revegetation,"land restoration (land reclamation, land rehabilitation, land revegetation, revegetation)",https://lod.nal.usda.gov/nalt/35688,0.9,False,skos:related,EXCLUDE
+lichen crusts,,lichen crusts,https://lod.nal.usda.gov/nalt/306781,0.85,True,skos:broader; skos:narrower,EXCLUDE
+liming materials,lime (minerals); lime material; lime materials,"liming materials (lime (minerals), lime material, lime materials)",https://lod.nal.usda.gov/nalt/5566,0.9,False,skos:related,EXCLUDE
+live mulches,living mulches,live mulches (living mulches),https://lod.nal.usda.gov/nalt/28618,0.9,True,skos:related,EXCLUDE
+losses from soil,,losses from soil,https://lod.nal.usda.gov/nalt/49405,0.7,True,skos:broader; skos:narrower,EXCLUDE
+lowlands,bottomlands; lowland areas,"lowlands (bottomlands, lowland areas)",https://lod.nal.usda.gov/nalt/18874,0.95,False,skos:related,EXCLUDE
+lysimeters,,lysimeters,https://lod.nal.usda.gov/nalt/50948,0.95,False,skos:related,EXCLUDE
+mangrove ecosystems,,mangrove ecosystems,https://lod.nal.usda.gov/nalt/327283,0.95,False,skos:related,EXCLUDE
+mangrove forests,,mangrove forests,https://lod.nal.usda.gov/nalt/41214,0.95,False,skos:related,EXCLUDE
+mangrove sediments,,mangrove sediments,https://lod.nal.usda.gov/nalt/327286,0.7,False,skos:related,EXCLUDE
+mangrove swamps,,mangrove swamps,https://lod.nal.usda.gov/nalt/14207,0.9,False,skos:related,EXCLUDE
+manure amendments,animal manure amendment; poultry manure amendment,"manure amendments (animal manure amendment, poultry manure amendment)",https://lod.nal.usda.gov/nalt/323553,0.9,False,skos:related,EXCLUDE
+meadows,,meadows,https://lod.nal.usda.gov/nalt/191224,0.9,False,skos:related,EXCLUDE
+Mediterranean climate,Mediterranean environment; Mediterranean type climate; Mediterranean type environment; Mediterranean-type climate; Mediterranean-type environment,"Mediterranean climate (Mediterranean environment, Mediterranean type climate, Mediterranean type environment, Mediterranean-type climate, Mediterranean-type environment)",https://lod.nal.usda.gov/nalt/26893,0.9,False,skos:related,EXCLUDE
+Mehlich-3 phosphorus,,Mehlich-3 phosphorus,https://lod.nal.usda.gov/nalt/325691,0.7,True,skos:related,EXCLUDE
+microbial ecology,bacterial ecology; microbial ecosystem,"microbial ecology (bacterial ecology, microbial ecosystem)",https://lod.nal.usda.gov/nalt/17348,0.9,False,skos:related,EXCLUDE
+microhabitats,,microhabitats,https://lod.nal.usda.gov/nalt/44185,0.9,False,skos:related,EXCLUDE
+microporous membranes,,microporous membranes,https://lod.nal.usda.gov/nalt/291884,0.9,False,skos:related,EXCLUDE
+mine spoil,minespoil,mine spoil (minespoil),https://lod.nal.usda.gov/nalt/27359,0.7,False,skos:related,EXCLUDE
+mine tailings,mining tailings,mine tailings (mining tailings),https://lod.nal.usda.gov/nalt/86132,0.7,False,skos:related,EXCLUDE
+mineral cycle,mineral cycling,mineral cycle (mineral cycling),https://lod.nal.usda.gov/nalt/304957,0.7,False,skos:related,EXCLUDE
+mining,mining industry,mining (mining industry),https://lod.nal.usda.gov/nalt/2725,0.9,False,skos:related,EXCLUDE
+miscible displacement,miscible-phase displacement,miscible displacement (miscible-phase displacement),https://lod.nal.usda.gov/nalt/46321,0.7,False,skos:related,EXCLUDE
+mountains,mountain belts,mountains (mountain belts),https://lod.nal.usda.gov/nalt/7027,0.9,False,skos:related,EXCLUDE
+mushroom compost,,mushroom compost,https://lod.nal.usda.gov/nalt/148611,0.9,True,skos:related,EXCLUDE
+mushroom growing,mushroom cultivation; mushroom culture; mushroom farming; mushroom production,"mushroom growing (mushroom cultivation, mushroom culture, mushroom farming, mushroom production)",https://lod.nal.usda.gov/nalt/41686,0.95,False,skos:related,EXCLUDE
+mycorrhizae,mycorrhizas; mycorrhization,"mycorrhizae (mycorrhizas, mycorrhization)",https://lod.nal.usda.gov/nalt/35802,0.75,False,skos:related,EXCLUDE
+neutron probes,,neutron probes,https://lod.nal.usda.gov/nalt/54754,0.95,False,skos:related,EXCLUDE
+Pampas region,,Pampas region,https://lod.nal.usda.gov/nalt/693,0.95,False,skos:related,EXCLUDE
+parent rock,,parent rock,https://lod.nal.usda.gov/nalt/225111,0.75,False,skos:related,EXCLUDE
+peatlands,peat bogs,peatlands (peat bogs),https://lod.nal.usda.gov/nalt/18404,0.8,False,skos:related,EXCLUDE
+pedotransfer functions,,pedotransfer functions,https://lod.nal.usda.gov/nalt/46386,0.9,False,skos:related,EXCLUDE
+piedmont,,piedmont,https://lod.nal.usda.gov/nalt/49168,0.9,False,skos:related,EXCLUDE
+plant nutrition,diagnosis of plant nutrient status; mineral nutrition (plants); plant analysis of nutrient status; plant macronutrients; plant nutrient status,"plant nutrition (diagnosis of plant nutrient status, mineral nutrition (plants), plant analysis of nutrient status, plant macronutrients, plant nutrient status)",https://lod.nal.usda.gov/nalt/17679,0.95,False,skos:related,EXCLUDE
+playas,,playas,https://lod.nal.usda.gov/nalt/58777,0.95,False,skos:related,EXCLUDE
+plowing,ploughing,plowing (ploughing),https://lod.nal.usda.gov/nalt/58845,0.95,True,skos:related,EXCLUDE
+porosimetry,,porosimetry,https://lod.nal.usda.gov/nalt/313500,0.85,False,skos:related,EXCLUDE
+porous media,,porous media,https://lod.nal.usda.gov/nalt/575,0.75,False,skos:related,EXCLUDE
+prairies,rolling prairies,prairies (rolling prairies),https://lod.nal.usda.gov/nalt/43758,0.95,False,skos:related,EXCLUDE
+quarries,,quarries,https://lod.nal.usda.gov/nalt/305175,0.95,True,skos:broader; skos:narrower,EXCLUDE
+rangelands,grassland range; range lands; rangeland; shrub range,"rangelands (grassland range, range lands, rangeland, shrub range)",https://lod.nal.usda.gov/nalt/28610,0.95,False,skos:related,EXCLUDE
+rhizosphere competence,,rhizosphere competence,https://lod.nal.usda.gov/nalt/28001,0.85,True,skos:broader; skos:narrower,EXCLUDE
+riparian areas,riparian corridors; riparian sites; riparian zones; river banks; stream banks,"riparian areas (riparian corridors, riparian sites, riparian zones, river banks, stream banks)",https://lod.nal.usda.gov/nalt/49142,0.95,False,skos:related,EXCLUDE
+riparian buffers,hydroriparian buffers; riparian buffer strips; riparian forest buffers,"riparian buffers (hydroriparian buffers, riparian buffer strips, riparian forest buffers)",https://lod.nal.usda.gov/nalt/28600,0.95,False,skos:related,EXCLUDE
+riparian forests,riverine forests,riparian forests (riverine forests),https://lod.nal.usda.gov/nalt/41243,0.95,False,skos:related,EXCLUDE
+riparian grasslands,,riparian grasslands,https://lod.nal.usda.gov/nalt/305584,0.9,False,skos:related,EXCLUDE
+river deltas,deltas (landforms),river deltas (deltas (landforms)),https://lod.nal.usda.gov/nalt/32184,0.9,False,skos:related,EXCLUDE
+rivers,,rivers,https://lod.nal.usda.gov/nalt/21953,0.95,False,skos:related,EXCLUDE
+root zone drying,partial root zone drying; partial root zone irrigation; partial root-zone drying; partial root-zone irrigation; partial rootzone drying; root-zone drying,"root zone drying (partial root zone drying, partial root zone irrigation, partial root-zone drying, partial root-zone irrigation, partial rootzone drying, root-zone drying)",https://lod.nal.usda.gov/nalt/188594,0.85,True,skos:related,EXCLUDE
+salt marsh plants,saltmarsh plants; tidal marsh plants; tidemarsh flora; tidemarsh plants,"salt marsh plants (saltmarsh plants, tidal marsh plants, tidemarsh flora, tidemarsh plants)",https://lod.nal.usda.gov/nalt/44459,0.95,False,skos:related,EXCLUDE
+salt marshes,saltmarshes; tidal marshes,"salt marshes (saltmarshes, tidal marshes)",https://lod.nal.usda.gov/nalt/51566,0.9,False,skos:related,EXCLUDE
+salt stress,saline stress; salinity stress,"salt stress (saline stress, salinity stress)",https://lod.nal.usda.gov/nalt/1732,0.65,False,skos:related,EXCLUDE
+savannas,savannahs,savannas (savannahs),https://lod.nal.usda.gov/nalt/62470,0.9,False,skos:related,EXCLUDE
+sediment texture,,sediment texture,https://lod.nal.usda.gov/nalt/329272,0.7,False,skos:related,EXCLUDE
+sediments,sediment; sediment grains; sedimentary materials (geological),"sediments (sediment, sediment grains, sedimentary materials (geological))",https://lod.nal.usda.gov/nalt/6755,0.85,False,skos:related,EXCLUDE
+semiarid zones,cold semi-arid climate; hot semi-arid climate; semi-arid zones; semiarid climate; semiarid conditions; steppe climate,"semiarid zones (cold semi-arid climate, hot semi-arid climate, semi-arid zones, semiarid climate, semiarid conditions, steppe climate)",https://lod.nal.usda.gov/nalt/26894,0.9,False,skos:related,EXCLUDE
+shrublands,brushlands; brushwood; bushlands; macchia; maquis; scrub; scrublands; semi-desert scrub,"shrublands (brushlands, brushwood, bushlands, macchia, maquis, scrub, scrublands, semi-desert scrub)",https://lod.nal.usda.gov/nalt/62665,0.9,False,skos:related,EXCLUDE
+soil amendments,,soil amendments,https://lod.nal.usda.gov/nalt/63193,0.95,True,skos:related,EXCLUDE
+soil analysis,soil testing,soil analysis (soil testing),https://lod.nal.usda.gov/nalt/179,0.95,True,skos:related,EXCLUDE
+soil bacteria,soil bacterial communities,soil bacteria (soil bacterial communities),https://lod.nal.usda.gov/nalt/15090,0.95,False,skos:related,EXCLUDE
+soil biota,edaphon; soil organisms,"soil biota (edaphon, soil organisms)",https://lod.nal.usda.gov/nalt/278109,0.95,True,skos:related,EXCLUDE
+soil erosion,erosion of soil; soil piping,"soil erosion (erosion of soil, soil piping)",https://lod.nal.usda.gov/nalt/501,0.95,True,skos:broader; skos:narrower,EXCLUDE
+soil erosion models,erosion models,soil erosion models (erosion models),https://lod.nal.usda.gov/nalt/5215,0.95,True,skos:related,EXCLUDE
+soil fauna,soil mesofauna; soil microfauna,"soil fauna (soil mesofauna, soil microfauna)",https://lod.nal.usda.gov/nalt/59977,0.95,True,skos:related,EXCLUDE
+soil food webs,terrestrial food webs,soil food webs (terrestrial food webs),https://lod.nal.usda.gov/nalt/41066,0.95,True,skos:broader; skos:narrower,EXCLUDE
+soil microorganisms,soil microbes; soil microbial flora; soil microbial systems; soil microbiota; soil microflora,"soil microorganisms (soil microbes, soil microbial flora, soil microbial systems, soil microbiota, soil microflora)",https://lod.nal.usda.gov/nalt/52768,0.95,False,skos:related,EXCLUDE
+soil movement,,soil movement,https://lod.nal.usda.gov/nalt/41622,0.8,True,skos:broader; skos:narrower,EXCLUDE
+soil remediation,,soil remediation,https://lod.nal.usda.gov/nalt/137734,0.95,False,skos:related,EXCLUDE
+soil restoration,soil reclamation; soil recycling,"soil restoration (soil reclamation, soil recycling)",https://lod.nal.usda.gov/nalt/213546,0.95,False,skos:related,EXCLUDE
+soil washing,,soil washing,https://lod.nal.usda.gov/nalt/37470,0.95,False,skos:related,EXCLUDE
+sowing date,date of seeding; date of sowing; seeding date; seeding time; sowing time; time of seeding; time of sowing,"sowing date (date of seeding, date of sowing, seeding date, seeding time, sowing time, time of seeding, time of sowing)",https://lod.nal.usda.gov/nalt/43987,0.95,False,skos:related,EXCLUDE
+spoil banks,,spoil banks,https://lod.nal.usda.gov/nalt/302682,0.85,False,skos:related,EXCLUDE
+steppes,,steppes,https://lod.nal.usda.gov/nalt/49171,0.9,False,skos:related,EXCLUDE
+stream channels,river beds; riverbeds; stream beds; streambeds,"stream channels (river beds, riverbeds, stream beds, streambeds)",https://lod.nal.usda.gov/nalt/64259,1.0,False,skos:related,EXCLUDE
+stream flow,streamflow,stream flow (streamflow),https://lod.nal.usda.gov/nalt/15967,1.0,False,skos:related,EXCLUDE
+streams,creeks; water streams,"streams (creeks, water streams)",https://lod.nal.usda.gov/nalt/37535,1.0,False,skos:related,EXCLUDE
+subduction,,subduction,https://lod.nal.usda.gov/nalt/335253,1.0,True,skos:broader; skos:narrower,EXCLUDE
+swamps,swamp,swamps (swamp),https://lod.nal.usda.gov/nalt/51394,0.9,False,skos:related,EXCLUDE
+taiga,taiga vegetation,taiga (taiga vegetation),https://lod.nal.usda.gov/nalt/18645,0.95,False,skos:related,EXCLUDE
+temperate grasses,,temperate grasses,https://lod.nal.usda.gov/nalt/331382,1.0,False,skos:related,EXCLUDE
+temperature,,temperature,https://lod.nal.usda.gov/nalt/5861,0.7,False,skos:broader; skos:narrower,EXCLUDE
+terraces,,terraces,https://lod.nal.usda.gov/nalt/49172,0.75,False,skos:related,EXCLUDE
+thermal properties,,thermal properties,https://lod.nal.usda.gov/nalt/44804,0.65,False,skos:related,EXCLUDE
+tillage,soil cultivation; soil tillage; tillage systems,"tillage (soil cultivation, soil tillage, tillage systems)",https://lod.nal.usda.gov/nalt/25207,0.95,True,skos:related,EXCLUDE
+titratable acidity,titrable acidity,titratable acidity (titrable acidity),https://lod.nal.usda.gov/nalt/2829,0.65,False,skos:related,EXCLUDE
+Triassic period,,Triassic period,https://lod.nal.usda.gov/nalt/290837,1.0,False,skos:related,EXCLUDE
+tropical agriculture,subtropical agriculture,tropical agriculture (subtropical agriculture),https://lod.nal.usda.gov/nalt/5503,1.0,False,skos:related,EXCLUDE
+tropical plants,tropical trees,tropical plants (tropical trees),https://lod.nal.usda.gov/nalt/306178,1.0,False,skos:related,EXCLUDE
+tundra,Arctic tundra,tundra (Arctic tundra),https://lod.nal.usda.gov/nalt/7028,1.0,False,skos:related,EXCLUDE
+urban agriculture,,urban agriculture,https://lod.nal.usda.gov/nalt/185778,1.0,False,skos:related,EXCLUDE
+urban horticulture,,urban horticulture,https://lod.nal.usda.gov/nalt/68414,1.0,False,skos:related,EXCLUDE
+vegetation cover,ground cover percentage; ground coverage; percent ground cover; percent ground coverage; percent plant cover; percent plant coverage; percent soil cover; percent soil coverage; percent vegetation cover; percent vegetation coverage; plant cover percentage; soil cover percentage,"vegetation cover (ground cover percentage, ground coverage, percent ground cover, percent ground coverage, percent plant cover, percent plant coverage, percent soil cover, percent soil coverage, percent vegetation cover, percent vegetation coverage, plant cover percentage, soil cover percentage)",https://lod.nal.usda.gov/nalt/28604,0.8,False,skos:related,EXCLUDE
+vineyards,,vineyards,https://lod.nal.usda.gov/nalt/5375,1.0,False,skos:related,EXCLUDE
+volcanic islands,,volcanic islands,https://lod.nal.usda.gov/nalt/302693,1.0,False,skos:related,EXCLUDE
+volcanoes,,volcanoes,https://lod.nal.usda.gov/nalt/49173,1.0,False,skos:related,EXCLUDE
+water flow,water circulation,water flow (water circulation),https://lod.nal.usda.gov/nalt/43956,0.65,False,skos:related,EXCLUDE
+water quantity,,water quantity,https://lod.nal.usda.gov/nalt/46378,0.65,False,skos:related,EXCLUDE
+weathering,,weathering,https://lod.nal.usda.gov/nalt/51645,0.55,False,skos:related,EXCLUDE
+wetlands,,wetlands,https://lod.nal.usda.gov/nalt/18403,0.9,False,skos:related,EXCLUDE
+wilting,,wilting,https://lod.nal.usda.gov/nalt/952,0.95,False,skos:related,EXCLUDE
+woodlands,timberlands,woodlands (timberlands),https://lod.nal.usda.gov/nalt/58391,0.95,False,skos:related,EXCLUDE
+abrasion resistance,,abrasion resistance,https://lod.nal.usda.gov/nalt/1795,0.7,False,skos:broader; skos:narrower,EXCLUDE
+acid deposition,acid fog; acidic fog; atmospheric acid deposition; atmospheric acid precipitation; atmospheric acidic deposition; atmospheric acidic precipitation,"acid deposition (acid fog, acidic fog, atmospheric acid deposition, atmospheric acid precipitation, atmospheric acidic deposition, atmospheric acidic precipitation)",https://lod.nal.usda.gov/nalt/2712,0.95,False,skos:related,EXCLUDE
+acidulants,,acidulants,https://lod.nal.usda.gov/nalt/196,0.95,False,skos:related,EXCLUDE
+agricultural pollution,,agricultural pollution,https://lod.nal.usda.gov/nalt/336108,0.9,False,skos:related,EXCLUDE
+alkali tolerance,,alkali tolerance,https://lod.nal.usda.gov/nalt/214216,0.9,False,skos:related,EXCLUDE
+allozymes,alloenzymes,allozymes (alloenzymes),https://lod.nal.usda.gov/nalt/6676,0.95,False,skos:related,EXCLUDE
+alpine meadows,,alpine meadows,https://lod.nal.usda.gov/nalt/191230,0.85,False,skos:related,EXCLUDE
+anion exchange resins,,anion exchange resins,https://lod.nal.usda.gov/nalt/9598,0.95,False,skos:related,EXCLUDE
+anions,,anions,https://lod.nal.usda.gov/nalt/9602,0.65,False,skos:related,EXCLUDE
+anisotropy,,anisotropy,https://lod.nal.usda.gov/nalt/316650,0.7,False,skos:broader; skos:narrower,EXCLUDE
+antinutritional factors,antinutritive factors,antinutritional factors (antinutritive factors),https://lod.nal.usda.gov/nalt/10475,0.95,False,skos:related,EXCLUDE
+antioxidant activity,antioxidant defence; antioxidant defense; antioxidative activity; radical absorbing activity,"antioxidant activity (antioxidant defence, antioxidant defense, antioxidative activity, radical absorbing activity)",https://lod.nal.usda.gov/nalt/10489,0.95,False,skos:broader; skos:narrower,EXCLUDE
+antioxidant enzymes,anti-oxidant enzymes; anti-oxidative enzymes; antioxidative enzymes,"antioxidant enzymes (anti-oxidant enzymes, anti-oxidative enzymes, antioxidative enzymes)",https://lod.nal.usda.gov/nalt/331338,0.95,False,skos:broader; skos:narrower,EXCLUDE
+bioavailability,,bioavailability,https://lod.nal.usda.gov/nalt/10477,0.9,False,skos:broader; skos:narrower,EXCLUDE
+biocatalysis,biocatalytic activity; biocatalytic processes,"biocatalysis (biocatalytic activity, biocatalytic processes)",https://lod.nal.usda.gov/nalt/253068,0.95,False,skos:related,EXCLUDE
+biocatalysts,,biocatalysts,https://lod.nal.usda.gov/nalt/154063,0.95,False,skos:related,EXCLUDE
+biochemical compounds,biological compounds,biochemical compounds (biological compounds),https://lod.nal.usda.gov/nalt/7812,0.9,False,skos:broader; skos:narrower,EXCLUDE
+biocompatibility,,biocompatibility,https://lod.nal.usda.gov/nalt/68518,0.95,False,skos:broader; skos:narrower,EXCLUDE
+biodegradability,biodegradable,biodegradability (biodegradable),https://lod.nal.usda.gov/nalt/17308,0.85,False,skos:broader; skos:narrower,EXCLUDE
+biogeochemical cycles,nutrient cycles; nutrient cycling,"biogeochemical cycles (nutrient cycles, nutrient cycling)",https://lod.nal.usda.gov/nalt/17315,0.7,False,skos:broader; skos:narrower,EXCLUDE
+bioscouring,enzymatic scouring,bioscouring (enzymatic scouring),https://lod.nal.usda.gov/nalt/239599,0.95,False,skos:related,EXCLUDE
+blood pH,,blood pH,https://lod.nal.usda.gov/nalt/2753,0.95,False,skos:broader; skos:narrower,EXCLUDE
+calcium carbonate,,calcium carbonate,https://lod.nal.usda.gov/nalt/21098,0.65,False,skos:related,EXCLUDE
+carbon sequestration,carbon dioxide sequestration; carbon storage; soil carbon sequestration,"carbon sequestration (carbon dioxide sequestration, carbon storage, soil carbon sequestration)",https://lod.nal.usda.gov/nalt/17382,0.7,False,skos:related,EXCLUDE
+carbon sinks,carbon pools; carbon stocks; carbon stores,"carbon sinks (carbon pools, carbon stocks, carbon stores)",https://lod.nal.usda.gov/nalt/75002,0.7,False,skos:related,EXCLUDE
+carbonization,carbonisation,carbonization (carbonisation),https://lod.nal.usda.gov/nalt/231417,0.9,False,skos:related,EXCLUDE
+cation exchange resins,,cation exchange resins,https://lod.nal.usda.gov/nalt/23047,0.9,False,skos:related,EXCLUDE
+cations,,cations,https://lod.nal.usda.gov/nalt/23048,0.65,False,skos:broader; skos:narrower,EXCLUDE
+center of gravity,centre of gravity; centre of mass,"center of gravity (centre of gravity, centre of mass)",https://lod.nal.usda.gov/nalt/301780,0.95,False,skos:broader; skos:narrower,EXCLUDE
+chemical analysis,acid digestion methods,chemical analysis (acid digestion methods),https://lod.nal.usda.gov/nalt/173,0.7,False,skos:broader; skos:narrower,EXCLUDE
+chemical composition,biochemical composition; chemical formation,"chemical composition (biochemical composition, chemical formation)",https://lod.nal.usda.gov/nalt/12908,0.65,False,skos:broader; skos:narrower,EXCLUDE
+chemical speciation,,chemical speciation,https://lod.nal.usda.gov/nalt/24697,0.75,False,skos:related,EXCLUDE
+chemistry,,chemistry,https://lod.nal.usda.gov/nalt/8467,0.95,False,skos:broader; skos:narrower,EXCLUDE
+chronosequences,,chronosequences,https://lod.nal.usda.gov/nalt/25891,0.7,True,skos:broader; skos:narrower,EXCLUDE
+climosequences,,climosequences,https://lod.nal.usda.gov/nalt/26909,0.7,True,skos:broader; skos:narrower,EXCLUDE
+combustion efficiency,,combustion efficiency,https://lod.nal.usda.gov/nalt/301773,0.95,False,skos:broader; skos:narrower,EXCLUDE
+container-grown plants,container crops; container grown plants; potted plants,"container-grown plants (container crops, container grown plants, potted plants)",https://lod.nal.usda.gov/nalt/28711,0.95,False,skos:related,EXCLUDE
+controlled traffic systems,CTF (controlled traffic farming); controlled traffic; controlled traffic farming; controlled wheel traffic,"controlled traffic systems (CTF (controlled traffic farming), controlled traffic, controlled traffic farming, controlled wheel traffic)",https://lod.nal.usda.gov/nalt/28801,0.95,True,skos:related,EXCLUDE
+deacidification,,deacidification,https://lod.nal.usda.gov/nalt/2771,0.95,False,skos:related,EXCLUDE
+decayed wood,decayed timber; timber decay; wood decay,"decayed wood (decayed timber, timber decay, wood decay)",https://lod.nal.usda.gov/nalt/31898,0.9,False,skos:related,EXCLUDE
+denitrification,,denitrification,https://lod.nal.usda.gov/nalt/24662,0.7,True,skos:broader; skos:narrower,EXCLUDE
+dielectrics,,dielectrics,https://lod.nal.usda.gov/nalt/302084,0.9,False,skos:related,EXCLUDE
+digestive enzymes,,digestive enzymes,https://lod.nal.usda.gov/nalt/6882,0.95,False,skos:broader; skos:narrower,EXCLUDE
+droplet size,,droplet size,https://lod.nal.usda.gov/nalt/11351,0.95,False,skos:broader; skos:narrower,EXCLUDE
+durability,service life,durability (service life),https://lod.nal.usda.gov/nalt/34894,0.75,False,skos:broader; skos:narrower,EXCLUDE
+earthquakes,,earthquakes,https://lod.nal.usda.gov/nalt/498,1.0,False,skos:related,EXCLUDE
+electrical moisture meters,,electrical moisture meters,https://lod.nal.usda.gov/nalt/302190,0.95,False,skos:related,EXCLUDE
+emissions,immissions,emissions (immissions),https://lod.nal.usda.gov/nalt/34940,0.7,False,skos:broader; skos:narrower,EXCLUDE
+energy content,caloric content; caloric value (nonphysiological); calorie content; energy value (nonphysiological); food energy (food composition); fuel value; gross energy content,"energy content (caloric content, caloric value (nonphysiological), calorie content, energy value (nonphysiological), food energy (food composition), fuel value, gross energy content)",https://lod.nal.usda.gov/nalt/21409,0.95,False,skos:broader; skos:narrower,EXCLUDE
+entransy,,entransy,https://lod.nal.usda.gov/nalt/323986,0.95,False,skos:broader; skos:narrower,EXCLUDE
+enzyme stability,enzymatic stability; enzymic stability,"enzyme stability (enzymatic stability, enzymic stability)",https://lod.nal.usda.gov/nalt/136232,0.75,False,skos:broader; skos:narrower,EXCLUDE
+enzymology,,enzymology,https://lod.nal.usda.gov/nalt/3930,0.95,False,skos:related,EXCLUDE
+equilibrium moisture content,,equilibrium moisture content,https://lod.nal.usda.gov/nalt/302223,0.7,False,skos:broader; skos:narrower,EXCLUDE
+eutrophication,nutrient enrichment (aquatic environment); nutrient enrichment (eutrophication),"eutrophication (nutrient enrichment (aquatic environment), nutrient enrichment (eutrophication))",https://lod.nal.usda.gov/nalt/37441,0.9,False,skos:related,EXCLUDE
+extensibility,,extensibility,https://lod.nal.usda.gov/nalt/28402,0.65,False,skos:broader; skos:narrower,EXCLUDE
+extracellular enzymes,exoenzymes,extracellular enzymes (exoenzymes),https://lod.nal.usda.gov/nalt/315658,0.9,False,skos:broader; skos:narrower,EXCLUDE
+filterability,,filterability,https://lod.nal.usda.gov/nalt/40178,0.65,False,skos:broader; skos:narrower,EXCLUDE
+fire resistance,fire tolerance,fire resistance (fire tolerance),https://lod.nal.usda.gov/nalt/138,0.7,False,skos:broader; skos:narrower,EXCLUDE
+flammability,,flammability,https://lod.nal.usda.gov/nalt/40411,0.7,False,skos:broader; skos:narrower,EXCLUDE
+foaming,,foaming,https://lod.nal.usda.gov/nalt/40763,0.7,False,skos:broader; skos:narrower,EXCLUDE
+food composition,,food composition,https://lod.nal.usda.gov/nalt/10481,0.95,False,skos:related,EXCLUDE
+food matrix,,food matrix,https://lod.nal.usda.gov/nalt/17238,0.95,False,skos:related,EXCLUDE
+fossil fuels,fossil energy resources; fossil oils,"fossil fuels (fossil energy resources, fossil oils)",https://lod.nal.usda.gov/nalt/105519,0.95,False,skos:related,EXCLUDE
+freeze-thaw cycles,freeze thaw cycles; freezing-thawing,"freeze-thaw cycles (freeze thaw cycles, freezing-thawing)",https://lod.nal.usda.gov/nalt/41517,0.65,False,skos:related,EXCLUDE
+global carbon budget,carbon budget,global carbon budget (carbon budget),https://lod.nal.usda.gov/nalt/43058,0.9,False,skos:related,EXCLUDE
+glomalin,,glomalin,https://lod.nal.usda.gov/nalt/41806,0.7,False,skos:related,EXCLUDE
+groundwater contamination,aquifer contamination; contaminants in groundwater; contamination of ground water; contamination of groundwater; ground water contamination; ground water pollution; groundwater contaminants; groundwater pollution,"groundwater contamination (aquifer contamination, contaminants in groundwater, contamination of ground water, contamination of groundwater, ground water contamination, ground water pollution, groundwater contaminants, groundwater pollution)",https://lod.nal.usda.gov/nalt/28740,0.95,False,skos:related,EXCLUDE
+growing media,plant culture media; plant growing media,"growing media (plant culture media, plant growing media)",https://lod.nal.usda.gov/nalt/623,0.85,False,skos:broader; skos:narrower,EXCLUDE
+half life,half lives; half-life; half-lives; halflife,"half life (half lives, half-life, half-lives, halflife)",https://lod.nal.usda.gov/nalt/44379,0.9,False,skos:broader; skos:narrower,EXCLUDE
+hardness,crispness; crunchiness; softness,"hardness (crispness, crunchiness, softness)",https://lod.nal.usda.gov/nalt/30059,0.9,False,skos:broader; skos:narrower,EXCLUDE
+home gardens,domestic gardens; private gardens,"home gardens (domestic gardens, private gardens)",https://lod.nal.usda.gov/nalt/34347,0.95,False,skos:related,EXCLUDE
+humidity,,humidity,https://lod.nal.usda.gov/nalt/46148,0.95,False,skos:related,EXCLUDE
+hydrolases,EC 3,hydrolases (EC 3),https://lod.nal.usda.gov/nalt/2707,0.7,False,skos:broader; skos:narrower,EXCLUDE
+hydrophilicity,,hydrophilicity,https://lod.nal.usda.gov/nalt/211868,0.65,False,skos:broader; skos:narrower,EXCLUDE
+hydrophobicity,Lotus effect; superhydrophobicity,"hydrophobicity (Lotus effect, superhydrophobicity)",https://lod.nal.usda.gov/nalt/46401,0.9,False,skos:broader; skos:narrower,EXCLUDE
+hyperaccumulators,hyperaccumulator plants; metallophytes,"hyperaccumulators (hyperaccumulator plants, metallophytes)",https://lod.nal.usda.gov/nalt/17228,0.95,False,skos:related,EXCLUDE
+hysteresis,,hysteresis,https://lod.nal.usda.gov/nalt/46791,0.7,False,skos:broader; skos:narrower,EXCLUDE
+immobilization in soil,immobilisation in soil,immobilization in soil (immobilisation in soil),https://lod.nal.usda.gov/nalt/46959,0.65,True,skos:broader; skos:narrower,EXCLUDE
+immobilized enzymes,enzyme immobilisation; enzyme immobilization; immobilised enzymes,"immobilized enzymes (enzyme immobilisation, enzyme immobilization, immobilised enzymes)",https://lod.nal.usda.gov/nalt/17540,0.95,False,skos:broader; skos:narrower,EXCLUDE
+intracellular enzymes,endoenzymes,intracellular enzymes (endoenzymes),https://lod.nal.usda.gov/nalt/315659,0.95,False,skos:broader; skos:narrower,EXCLUDE
+ion exchange,,ion exchange,https://lod.nal.usda.gov/nalt/143143,0.65,False,skos:broader; skos:narrower,EXCLUDE
+ionic strength,ion strength effects,ionic strength (ion strength effects),https://lod.nal.usda.gov/nalt/47616,0.9,False,skos:broader; skos:narrower,EXCLUDE
+ions,,ions,https://lod.nal.usda.gov/nalt/235,0.95,False,skos:related,EXCLUDE
+irritant properties,,irritant properties,https://lod.nal.usda.gov/nalt/47786,0.95,False,skos:broader; skos:narrower,EXCLUDE
+isoelectric point,PI value,isoelectric point (PI value),https://lod.nal.usda.gov/nalt/47859,0.95,False,skos:broader; skos:narrower,EXCLUDE
+isomerases,EC 5,isomerases (EC 5),https://lod.nal.usda.gov/nalt/6216,0.95,False,skos:broader; skos:narrower,EXCLUDE
+isomerization,isomerisation; isomerising; isomerism; isomerizing,"isomerization (isomerisation, isomerising, isomerism, isomerizing)",https://lod.nal.usda.gov/nalt/24673,0.95,False,skos:broader; skos:narrower,EXCLUDE
+isotropy,,isotropy,https://lod.nal.usda.gov/nalt/316652,0.75,False,skos:broader; skos:narrower,EXCLUDE
+isozymes,isoenzymes,isozymes (isoenzymes),https://lod.nal.usda.gov/nalt/37499,0.95,False,skos:related,EXCLUDE
+leaching requirement,,leaching requirement,https://lod.nal.usda.gov/nalt/964,0.75,True,skos:broader; skos:narrower,EXCLUDE
+ligases,EC 6; synthetases,"ligases (EC 6, synthetases)",https://lod.nal.usda.gov/nalt/22235,0.95,False,skos:broader; skos:narrower,EXCLUDE
+lipophilicity,,lipophilicity,https://lod.nal.usda.gov/nalt/84810,0.95,False,skos:broader; skos:narrower,EXCLUDE
+liquefaction,,liquefaction,https://lod.nal.usda.gov/nalt/214718,0.7,False,skos:broader; skos:narrower,EXCLUDE
+lyases,EC 4,lyases (EC 4),https://lod.nal.usda.gov/nalt/22240,0.95,False,skos:broader; skos:narrower,EXCLUDE
+microbial enzymes,,microbial enzymes,https://lod.nal.usda.gov/nalt/325270,0.9,False,skos:broader; skos:narrower,EXCLUDE
+mineralization,mineralisation,mineralization (mineralisation),https://lod.nal.usda.gov/nalt/17422,0.7,False,skos:related,EXCLUDE
+molecular weight,molar mass; molecular mass,"molecular weight (molar mass, molecular mass)",https://lod.nal.usda.gov/nalt/53248,0.95,False,skos:broader; skos:narrower,EXCLUDE
+multienzyme complexes,,multienzyme complexes,https://lod.nal.usda.gov/nalt/136338,0.95,False,skos:broader; skos:narrower,EXCLUDE
+nail-holding capacity,nail holding capacity,nail-holding capacity (nail holding capacity),https://lod.nal.usda.gov/nalt/51643,0.95,False,skos:broader; skos:narrower,EXCLUDE
+nanomaterials,carbon nanomaterials; nano-sized materials; nanoscale materials; nanostructured materials; nanostructures,"nanomaterials (carbon nanomaterials, nano-sized materials, nanoscale materials, nanostructured materials, nanostructures)",https://lod.nal.usda.gov/nalt/137885,0.95,False,skos:broader; skos:narrower,EXCLUDE
+nanowires,atomic wires; molecular wires; nano scale wires; nano wires; nano-sized wires; nanoscale wires; quantum wires,"nanowires (atomic wires, molecular wires, nano scale wires, nano wires, nano-sized wires, nanoscale wires, quantum wires)",https://lod.nal.usda.gov/nalt/137952,0.95,False,skos:related,EXCLUDE
+nitrification,nitratation; nitritation,"nitrification (nitratation, nitritation)",https://lod.nal.usda.gov/nalt/24675,0.7,True,skos:broader; skos:narrower,EXCLUDE
+nitrogen,dinitrogen,nitrogen (dinitrogen),https://lod.nal.usda.gov/nalt/53079,0.95,False,skos:related,EXCLUDE
+nitrogen fertilizers,N fertilisers; N fertilizers; nitrogen fertilisers,"nitrogen fertilizers (N fertilisers, N fertilizers, nitrogen fertilisers)",https://lod.nal.usda.gov/nalt/7966,0.9,True,skos:related,EXCLUDE
+nitrogen fixation,diazotrophy; dinitrogen fixation,"nitrogen fixation (diazotrophy, dinitrogen fixation)",https://lod.nal.usda.gov/nalt/17288,0.9,True,skos:related,EXCLUDE
+nitrogen-fixing bacteria,diazotrophic bacteria; diazotrophs; nitrogen fixing bacteria,"nitrogen-fixing bacteria (diazotrophic bacteria, diazotrophs, nitrogen fixing bacteria)",https://lod.nal.usda.gov/nalt/15084,0.9,False,skos:related,EXCLUDE
+nuclear membrane,nuclear envelope,nuclear membrane (nuclear envelope),https://lod.nal.usda.gov/nalt/23408,0.95,False,skos:related,EXCLUDE
+nutrient management,agricultural nutrient management; crop nutrient management; nutrient management (soil); soil nutrient management,"nutrient management (agricultural nutrient management, crop nutrient management, nutrient management (soil), soil nutrient management)",https://lod.nal.usda.gov/nalt/5414,0.9,False,skos:related,EXCLUDE
+nutrient offtake,crop offtake; nitrogen offtake,"nutrient offtake (crop offtake, nitrogen offtake)",https://lod.nal.usda.gov/nalt/966,0.85,True,skos:broader; skos:narrower,EXCLUDE
+nutrient-nutrient interactions,dietary nutrient interactions; nutrient interactions; nutrient nutrient interactions,"nutrient-nutrient interactions (dietary nutrient interactions, nutrient interactions, nutrient nutrient interactions)",https://lod.nal.usda.gov/nalt/17240,0.7,False,skos:related,EXCLUDE
+nutritive value,biologic nutritional availability; biological nutritional availability; dietary value; fattening value; feed nutritive value; feed value; feeding value; food nutritive value; food value; nutrient value; nutritional characteristics; nutritional quality; nutritional value; nutritive ratio; nutritive value index; quality for nutrition,"nutritive value (biologic nutritional availability, biological nutritional availability, dietary value, fattening value, feed nutritive value, feed value, feeding value, food nutritive value, food value, nutrient value, nutritional characteristics, nutritional quality, nutritional value, nutritive ratio, nutritive value index, quality for nutrition)",https://lod.nal.usda.gov/nalt/10486,0.95,False,skos:related,EXCLUDE
+organic compounds,organic chemicals,organic compounds (organic chemicals),https://lod.nal.usda.gov/nalt/270,0.85,False,skos:related,EXCLUDE
+osmolality,,osmolality,https://lod.nal.usda.gov/nalt/106004,0.85,False,skos:broader; skos:narrower,EXCLUDE
+osmolarity,,osmolarity,https://lod.nal.usda.gov/nalt/56336,0.85,False,skos:broader; skos:narrower,EXCLUDE
+oxidoreductases,EC 1; dehydrogenases; oxidases; reductases,"oxidoreductases (EC 1, dehydrogenases, oxidases, reductases)",https://lod.nal.usda.gov/nalt/3974,0.85,False,skos:broader; skos:narrower,EXCLUDE
+partition coefficients,,partition coefficients,https://lod.nal.usda.gov/nalt/55618,0.7,False,skos:broader; skos:narrower,EXCLUDE
+pesticide persistence,,pesticide persistence,https://lod.nal.usda.gov/nalt/37451,0.95,False,skos:broader; skos:narrower,EXCLUDE
+phenolsulfonphthalein,phenol red; sulfonphthal; sulphental,"phenolsulfonphthalein (phenol red, sulfonphthal, sulphental)",https://lod.nal.usda.gov/nalt/297135,0.95,False,skos:related,EXCLUDE
+photosensitivity,,photosensitivity,https://lod.nal.usda.gov/nalt/240795,0.95,False,skos:broader; skos:narrower,EXCLUDE
+photostability,light stability; photostabilisation; photostabilising; photostabilization; photostabilizing,"photostability (light stability, photostabilisation, photostabilising, photostabilization, photostabilizing)",https://lod.nal.usda.gov/nalt/50041,0.95,False,skos:broader; skos:narrower,EXCLUDE
+physics,,physics,https://lod.nal.usda.gov/nalt/975,0.85,False,skos:broader; skos:narrower,EXCLUDE
+physiological transport,biological transport; transcytosis,"physiological transport (biological transport, transcytosis)",https://lod.nal.usda.gov/nalt/3934,0.95,False,skos:related,EXCLUDE
+phytoliths,,phytoliths,https://lod.nal.usda.gov/nalt/27355,0.65,False,skos:broader; skos:narrower,EXCLUDE
+plant containers,flower pots; flowerpots,"plant containers (flower pots, flowerpots)",https://lod.nal.usda.gov/nalt/28718,0.95,False,skos:related,EXCLUDE
+plant moisture,,plant moisture,https://lod.nal.usda.gov/nalt/324715,0.95,False,skos:related,EXCLUDE
+pollen rain,,pollen rain,https://lod.nal.usda.gov/nalt/266238,0.95,False,skos:related,EXCLUDE
+pollution,contaminants in environment; environmental contaminants; environmental contamination; environmental pollution,"pollution (contaminants in environment, environmental contaminants, environmental contamination, environmental pollution)",https://lod.nal.usda.gov/nalt/5845,0.85,False,skos:broader; skos:narrower,EXCLUDE
+pot culture,,pot culture,https://lod.nal.usda.gov/nalt/28719,0.95,False,skos:related,EXCLUDE
+potted flowering plants,,potted flowering plants,https://lod.nal.usda.gov/nalt/28716,0.95,False,skos:related,EXCLUDE
+potted foliage plants,,potted foliage plants,https://lod.nal.usda.gov/nalt/28717,0.95,False,skos:related,EXCLUDE
+primary productivity,primary production (ecology),primary productivity (primary production (ecology)),https://lod.nal.usda.gov/nalt/362,0.8,False,skos:related,EXCLUDE
+proton-motive force,chemiosmosis; chemiosmotic mechanism,"proton-motive force (chemiosmosis, chemiosmotic mechanism)",https://lod.nal.usda.gov/nalt/243920,0.95,False,skos:broader; skos:narrower,EXCLUDE
+puffing,,puffing,https://lod.nal.usda.gov/nalt/59693,0.7,False,skos:broader; skos:narrower,EXCLUDE
+quantum dots,semiconductor nanocrystal quantum dots; semiconductor quantum dots,"quantum dots (semiconductor nanocrystal quantum dots, semiconductor quantum dots)",https://lod.nal.usda.gov/nalt/138026,0.95,False,skos:related,EXCLUDE
+recombinases,resolvases,recombinases (resolvases),https://lod.nal.usda.gov/nalt/334763,1.0,False,skos:broader; skos:narrower,EXCLUDE
+rhizodeposition,root deposition,rhizodeposition (root deposition),https://lod.nal.usda.gov/nalt/61272,0.7,True,skos:broader; skos:narrower,EXCLUDE
+rhizoplane,,rhizoplane,https://lod.nal.usda.gov/nalt/61283,0.8,True,skos:broader; skos:narrower,EXCLUDE
+rhizosphere bacteria,rhizobacteria,rhizosphere bacteria (rhizobacteria),https://lod.nal.usda.gov/nalt/123183,0.9,False,skos:related,EXCLUDE
+rhizosphere fungi,rhizosphere fungus,rhizosphere fungi (rhizosphere fungus),https://lod.nal.usda.gov/nalt/41820,0.9,False,skos:related,EXCLUDE
+ribozymes,catalytic RNA,ribozymes (catalytic RNA),https://lod.nal.usda.gov/nalt/300841,1.0,False,skos:broader; skos:narrower,EXCLUDE
+rockwool,rock wool; stone wool; stonewool,"rockwool (rock wool, stone wool, stonewool)",https://lod.nal.usda.gov/nalt/290602,0.85,False,skos:related,EXCLUDE
+saline springs,salt-water springs,saline springs (salt-water springs),https://lod.nal.usda.gov/nalt/312770,1.0,False,skos:related,EXCLUDE
+saturated flow,saturated water flow,saturated flow (saturated water flow),https://lod.nal.usda.gov/nalt/59559,0.65,False,skos:related,EXCLUDE
+screw-holding capacity,screw holding capacity; screw holding properties,"screw-holding capacity (screw holding capacity, screw holding properties)",https://lod.nal.usda.gov/nalt/51644,0.95,False,skos:broader; skos:narrower,EXCLUDE
+semiconductors,,semiconductors,https://lod.nal.usda.gov/nalt/138035,0.95,False,skos:related,EXCLUDE
+silica,cristobalite; silicon dioxide,"silica (cristobalite, silicon dioxide)",https://lod.nal.usda.gov/nalt/56445,0.85,False,skos:related,EXCLUDE
+soil flushing,,soil flushing,https://lod.nal.usda.gov/nalt/290382,0.9,False,skos:related,EXCLUDE
+soil resource management,,soil resource management,https://lod.nal.usda.gov/nalt/54411,0.9,False,skos:related,EXCLUDE
+soil-plant interactions,plant soil interactions; plant soil relations; plant soil relationships; plant-soil interactions; soil plant interactions; soil plant nutrient relations,"soil-plant interactions (plant soil interactions, plant soil relations, plant soil relationships, plant-soil interactions, soil plant interactions, soil plant nutrient relations)",https://lod.nal.usda.gov/nalt/35113,0.85,False,skos:related,EXCLUDE
+solubility,,solubility,https://lod.nal.usda.gov/nalt/58068,0.6,False,skos:broader; skos:narrower,EXCLUDE
+sorption isotherms,Langmuir and Freundlich isotherm,sorption isotherms (Langmuir and Freundlich isotherm),https://lod.nal.usda.gov/nalt/46150,0.65,False,skos:related,EXCLUDE
+steady flow,,steady flow,https://lod.nal.usda.gov/nalt/63471,0.9,False,skos:related,EXCLUDE
+stress relaxation,,stress relaxation,https://lod.nal.usda.gov/nalt/32001,0.85,False,skos:broader; skos:narrower,EXCLUDE
+surface quality,,surface quality,https://lod.nal.usda.gov/nalt/58059,0.9,False,skos:broader; skos:narrower,EXCLUDE
+thermostable enzymes,,thermostable enzymes,https://lod.nal.usda.gov/nalt/313504,0.95,False,skos:broader; skos:narrower,EXCLUDE
+thioredoxins,cytosolic thioredoxins; mitochondrial thioredoxins; thioredoxin 1; thioredoxin 2; thioredoxin proteins,"thioredoxins (cytosolic thioredoxins, mitochondrial thioredoxins, thioredoxin 1, thioredoxin 2, thioredoxin proteins)",https://lod.nal.usda.gov/nalt/291568,0.95,False,skos:broader; skos:narrower,EXCLUDE
+transferases,EC 2,transferases (EC 2),https://lod.nal.usda.gov/nalt/3997,0.95,False,skos:broader; skos:narrower,EXCLUDE
+urea cycle enzymes,,urea cycle enzymes,https://lod.nal.usda.gov/nalt/54880,0.95,False,skos:broader; skos:narrower,EXCLUDE
+vapor pressure deficit,vapour pressure deficit,vapor pressure deficit (vapour pressure deficit),https://lod.nal.usda.gov/nalt/324729,0.9,False,skos:related,EXCLUDE
+vibrational properties,,vibrational properties,https://lod.nal.usda.gov/nalt/58060,0.7,False,skos:broader; skos:narrower,EXCLUDE
+water activity,,water activity,https://lod.nal.usda.gov/nalt/53219,0.75,False,skos:related,EXCLUDE
+water analysis,,water analysis,https://lod.nal.usda.gov/nalt/181,0.95,False,skos:related,EXCLUDE
+water uptake,water absorption,water uptake (water absorption),https://lod.nal.usda.gov/nalt/46559,0.7,False,skos:broader; skos:narrower,EXCLUDE
+wettability,,wettability,https://lod.nal.usda.gov/nalt/58072,0.65,False,skos:broader; skos:narrower,EXCLUDE
+absorbance,optical density,absorbance (optical density),https://lod.nal.usda.gov/nalt/1833,0.95,False,skos:related,EXCLUDE
+absorption,,absorption,https://lod.nal.usda.gov/nalt/1836,0.7,False,skos:related,EXCLUDE
+acid pulping,,acid pulping,https://lod.nal.usda.gov/nalt/214018,0.95,False,skos:related,EXCLUDE
+acid tolerance,acid resistance; acid resistance (organisms),"acid tolerance (acid resistance, acid resistance (organisms))",https://lod.nal.usda.gov/nalt/135,0.95,False,skos:related,EXCLUDE
+acid treatment,,acid treatment,https://lod.nal.usda.gov/nalt/2721,0.9,False,skos:related,EXCLUDE
+acid value,acid number (acid value); neutralization number,"acid value (acid number (acid value), neutralization number)",https://lod.nal.usda.gov/nalt/189240,0.95,False,skos:related,EXCLUDE
+acid-base balance,acid base balance; acid base equilibrium; acid-base equilibrium,"acid-base balance (acid base balance, acid base equilibrium, acid-base equilibrium)",https://lod.nal.usda.gov/nalt/2710,0.7,False,skos:related,EXCLUDE
+acidosis,metabolic acidosis,acidosis (metabolic acidosis),https://lod.nal.usda.gov/nalt/2754,1.0,False,skos:related,EXCLUDE
+acids,,acids,https://lod.nal.usda.gov/nalt/9,0.75,False,skos:related,EXCLUDE
+aerodynamic properties,,aerodynamic properties,https://lod.nal.usda.gov/nalt/299120,0.9,False,skos:broader; skos:narrower,EXCLUDE
+alkalosis,,alkalosis,https://lod.nal.usda.gov/nalt/225422,1.0,False,skos:related,EXCLUDE
+amides,alkamides; diamides,"amides (alkamides, diamides)",https://lod.nal.usda.gov/nalt/2309,0.85,False,skos:broader; skos:narrower,EXCLUDE
+amidines,,amidines,https://lod.nal.usda.gov/nalt/7708,0.85,False,skos:broader; skos:narrower,EXCLUDE
+amino compounds,,amino compounds,https://lod.nal.usda.gov/nalt/7731,0.95,False,skos:broader; skos:narrower,EXCLUDE
+azides,,azides,https://lod.nal.usda.gov/nalt/14304,0.95,False,skos:broader; skos:narrower,EXCLUDE
+azo compounds,,azo compounds,https://lod.nal.usda.gov/nalt/14314,0.95,False,skos:broader; skos:narrower,EXCLUDE
+bioadhesion,bio-adhesiveness; bioadhesiveness,"bioadhesion (bio-adhesiveness, bioadhesiveness)",https://lod.nal.usda.gov/nalt/316508,0.7,False,skos:broader; skos:narrower,EXCLUDE
+calcium,Ca2+,calcium (Ca2+),https://lod.nal.usda.gov/nalt/6421,0.65,False,skos:related,EXCLUDE
+capacitance,electric capacitance; electrical capacitance,"capacitance (electric capacitance, electrical capacitance)",https://lod.nal.usda.gov/nalt/21954,0.7,False,skos:broader; skos:narrower,EXCLUDE
+capacitors,,capacitors,https://lod.nal.usda.gov/nalt/259163,0.95,False,skos:related,EXCLUDE
+carbon,vitreous carbon,carbon (vitreous carbon),https://lod.nal.usda.gov/nalt/3913,0.8,False,skos:broader; skos:narrower,EXCLUDE
+cell adhesion,adhesion (cells); cellular adhesion; cytoadherence,"cell adhesion (adhesion (cells), cellular adhesion, cytoadherence)",https://lod.nal.usda.gov/nalt/120,0.95,False,skos:related,EXCLUDE
+cement glands,,cement glands,https://lod.nal.usda.gov/nalt/230064,0.95,False,skos:related,EXCLUDE
+chemical reactions,biochemical reactions,chemical reactions (biochemical reactions),https://lod.nal.usda.gov/nalt/3982,0.75,False,skos:broader; skos:narrower,EXCLUDE
+cold stability,,cold stability,https://lod.nal.usda.gov/nalt/27784,0.65,False,skos:broader; skos:narrower,EXCLUDE
+color sorting,colour sorting,color sorting (colour sorting),https://lod.nal.usda.gov/nalt/301769,0.95,False,skos:related,EXCLUDE
+decolorization,color removal; colour removal; decoloration; decolorisation; decolouration; decolourisation; decolourization,"decolorization (color removal, colour removal, decoloration, decolorisation, decolouration, decolourisation, decolourization)",https://lod.nal.usda.gov/nalt/17980,0.9,False,skos:related,EXCLUDE
+diazo compounds,,diazo compounds,https://lod.nal.usda.gov/nalt/33167,0.95,False,skos:broader; skos:narrower,EXCLUDE
+diazonium compounds,,diazonium compounds,https://lod.nal.usda.gov/nalt/309144,0.95,False,skos:broader; skos:narrower,EXCLUDE
+dielectric properties,,dielectric properties,https://lod.nal.usda.gov/nalt/33331,0.7,False,skos:broader; skos:narrower,EXCLUDE
+dimensions,,dimensions,https://lod.nal.usda.gov/nalt/33650,0.85,False,skos:related,EXCLUDE
+discoloration,discolouration,discoloration (discolouration),https://lod.nal.usda.gov/nalt/28021,0.9,False,skos:related,EXCLUDE
+dispersibility,,dispersibility,https://lod.nal.usda.gov/nalt/34075,0.7,False,skos:broader; skos:narrower,EXCLUDE
+dissolved organic carbon,soluble organic carbon,dissolved organic carbon (soluble organic carbon),https://lod.nal.usda.gov/nalt/34079,0.8,False,skos:broader; skos:narrower,EXCLUDE
+dissolved organic nitrogen,DON (dissolved organic nitrogen); dissolved organic N,"dissolved organic nitrogen (DON (dissolved organic nitrogen), dissolved organic N)",https://lod.nal.usda.gov/nalt/185745,0.8,False,skos:broader; skos:narrower,EXCLUDE
+dough quality,dough characteristics,dough quality (dough characteristics),https://lod.nal.usda.gov/nalt/211981,0.95,False,skos:related,EXCLUDE
+elasticity (mechanics),,elasticity (mechanics),https://lod.nal.usda.gov/nalt/36124,0.75,False,skos:broader; skos:narrower,EXCLUDE
+electric impedance,electrical impedance,electric impedance (electrical impedance),https://lod.nal.usda.gov/nalt/17333,0.75,False,skos:broader; skos:narrower,EXCLUDE
+electricity and magnetism,magnetism and electricity,electricity and magnetism (magnetism and electricity),https://lod.nal.usda.gov/nalt/36181,1.0,False,skos:broader; skos:narrower,EXCLUDE
+electrodialysis,,electrodialysis,https://lod.nal.usda.gov/nalt/271028,1.0,False,skos:related,EXCLUDE
+emulsifying properties,emulsification properties; emulsion properties,"emulsifying properties (emulsification properties, emulsion properties)",https://lod.nal.usda.gov/nalt/36930,0.85,False,skos:broader; skos:narrower,EXCLUDE
+evapotranspiration,,evapotranspiration,https://lod.nal.usda.gov/nalt/38819,0.9,False,skos:related,EXCLUDE
+flakes,,flakes,https://lod.nal.usda.gov/nalt/589,0.7,False,skos:related,EXCLUDE
+fluorescence recovery after photobleaching,FRAP (fluorescence recovery after photobleaching),fluorescence recovery after photobleaching (FRAP (fluorescence recovery after photobleaching)),https://lod.nal.usda.gov/nalt/262830,0.95,False,skos:related,EXCLUDE
+foaming properties,,foaming properties,https://lod.nal.usda.gov/nalt/40765,0.7,False,skos:broader; skos:narrower,EXCLUDE
+food texture,crumb (food),food texture (crumb (food)),https://lod.nal.usda.gov/nalt/80809,0.95,False,skos:related,EXCLUDE
+friction,,friction,https://lod.nal.usda.gov/nalt/41582,0.85,False,skos:related,EXCLUDE
+fruit quality,,fruit quality,https://lod.nal.usda.gov/nalt/28022,0.9,False,skos:related,EXCLUDE
+gelling properties,,gelling properties,https://lod.nal.usda.gov/nalt/41764,0.75,False,skos:broader; skos:narrower,EXCLUDE
+glutinous rice,sticky rice; sweet rice; waxy rice,"glutinous rice (sticky rice, sweet rice, waxy rice)",https://lod.nal.usda.gov/nalt/68074,1.0,False,skos:related,EXCLUDE
+guanidines,guanidine hydrochloride,guanidines (guanidine hydrochloride),https://lod.nal.usda.gov/nalt/5204,1.0,False,skos:broader; skos:narrower,EXCLUDE
+heat stability,heat lability,heat stability (heat lability),https://lod.nal.usda.gov/nalt/44789,0.7,False,skos:broader; skos:narrower,EXCLUDE
+heat tolerance,critical thermal maxima; critical thermal maximum; heat resistance (organisms); thermal tolerance; thermotolerance,"heat tolerance (critical thermal maxima, critical thermal maximum, heat resistance (organisms), thermal tolerance, thermotolerance)",https://lod.nal.usda.gov/nalt/140,1.0,False,skos:related,EXCLUDE
+heat transfer,heat exchange; thermal conduction,"heat transfer (heat exchange, thermal conduction)",https://lod.nal.usda.gov/nalt/44780,1.0,False,skos:related,EXCLUDE
+heterocyclic nitrogen compounds,organonitrogen heterocyclic compounds,heterocyclic nitrogen compounds (organonitrogen heterocyclic compounds),https://lod.nal.usda.gov/nalt/3047,0.7,False,skos:broader; skos:narrower,EXCLUDE
+hydraulic resistance,,hydraulic resistance,https://lod.nal.usda.gov/nalt/306859,0.75,False,skos:broader; skos:narrower,EXCLUDE
+hydrazides,,hydrazides,https://lod.nal.usda.gov/nalt/31686,0.95,False,skos:broader; skos:narrower,EXCLUDE
+hydrazines,,hydrazines,https://lod.nal.usda.gov/nalt/1169,0.95,False,skos:broader; skos:narrower,EXCLUDE
+imides,,imides,https://lod.nal.usda.gov/nalt/30946,0.95,False,skos:broader; skos:narrower,EXCLUDE
+imines,,imines,https://lod.nal.usda.gov/nalt/309236,0.95,False,skos:broader; skos:narrower,EXCLUDE
+isotropic membranes,,isotropic membranes,https://lod.nal.usda.gov/nalt/291882,0.95,False,skos:related,EXCLUDE
+light extinction coefficient,,light extinction coefficient,https://lod.nal.usda.gov/nalt/325684,0.95,False,skos:related,EXCLUDE
+magnesium,,magnesium,https://lod.nal.usda.gov/nalt/6422,0.95,False,skos:related,EXCLUDE
+mass density,,mass density,https://lod.nal.usda.gov/nalt/325688,0.85,False,skos:broader; skos:narrower,EXCLUDE
+materials science,,materials science,https://lod.nal.usda.gov/nalt/33648,0.95,False,skos:related,EXCLUDE
+mechanics,,mechanics,https://lod.nal.usda.gov/nalt/2134,0.95,False,skos:broader; skos:narrower,EXCLUDE
+membrane permeability,cell membrane permeability,membrane permeability (cell membrane permeability),https://lod.nal.usda.gov/nalt/23427,0.9,False,skos:broader; skos:narrower,EXCLUDE
+microbial carbon,microbial biomass carbon,microbial carbon (microbial biomass carbon),https://lod.nal.usda.gov/nalt/324696,0.7,False,skos:broader; skos:narrower,EXCLUDE
+microbial nitrogen,microbial biomass nitrogen,microbial nitrogen (microbial biomass nitrogen),https://lod.nal.usda.gov/nalt/324700,0.7,False,skos:broader; skos:narrower,EXCLUDE
+modulus of elasticity,Young's modulus; elastic modulus; elasticity modulus,"modulus of elasticity (Young's modulus, elastic modulus, elasticity modulus)",https://lod.nal.usda.gov/nalt/53200,0.9,False,skos:broader; skos:narrower,EXCLUDE
+modulus of rupture,,modulus of rupture,https://lod.nal.usda.gov/nalt/51781,0.9,False,skos:broader; skos:narrower,EXCLUDE
+nitriles,,nitriles,https://lod.nal.usda.gov/nalt/8217,0.95,False,skos:broader; skos:narrower,EXCLUDE
+nitro compounds,nitrated compounds; organic nitro compounds,"nitro compounds (nitrated compounds, organic nitro compounds)",https://lod.nal.usda.gov/nalt/241718,0.95,False,skos:broader; skos:narrower,EXCLUDE
+nitrogen compounds,nitrogenous compounds,nitrogen compounds (nitrogenous compounds),https://lod.nal.usda.gov/nalt/269,0.75,False,skos:broader; skos:narrower,EXCLUDE
+nitroso compounds,,nitroso compounds,https://lod.nal.usda.gov/nalt/22364,0.95,False,skos:broader; skos:narrower,EXCLUDE
+optical properties,optical activities; optical activity,"optical properties (optical activities, optical activity)",https://lod.nal.usda.gov/nalt/1835,0.7,False,skos:broader; skos:narrower,EXCLUDE
+Ostwald ripening,Ostwald coarsening,Ostwald ripening (Ostwald coarsening),https://lod.nal.usda.gov/nalt/235266,0.95,False,skos:related,EXCLUDE
+oximes,,oximes,https://lod.nal.usda.gov/nalt/31059,0.95,False,skos:broader; skos:narrower,EXCLUDE
+p-anisidine value,anisidine value,p-anisidine value (anisidine value),https://lod.nal.usda.gov/nalt/192292,0.95,False,skos:related,EXCLUDE
+pasting properties,pasting; pasting behavior; pasting behaviour; pasting characteristics,"pasting properties (pasting, pasting behavior, pasting behaviour, pasting characteristics)",https://lod.nal.usda.gov/nalt/41765,1.0,False,skos:broader; skos:narrower,EXCLUDE
+plant residues,forestry residues; plant wastes (green plants); tree residues,"plant residues (forestry residues, plant wastes (green plants), tree residues)",https://lod.nal.usda.gov/nalt/849,0.7,False,skos:broader; skos:narrower,EXCLUDE
+potassium,,potassium,https://lod.nal.usda.gov/nalt/6405,0.65,False,skos:related,EXCLUDE
+pound cakes,,pound cakes,https://lod.nal.usda.gov/nalt/291368,1.0,False,skos:related,EXCLUDE
+quaternary ammonium compounds,,quaternary ammonium compounds,https://lod.nal.usda.gov/nalt/2521,0.7,False,skos:broader; skos:narrower,EXCLUDE
+radioactive pollution,,radioactive pollution,https://lod.nal.usda.gov/nalt/332466,1.0,False,skos:broader; skos:narrower,EXCLUDE
+redox reactions,oxidation reduction reactions; reduction oxidation reactions,"redox reactions (oxidation reduction reactions, reduction oxidation reactions)",https://lod.nal.usda.gov/nalt/24681,0.7,False,skos:related,EXCLUDE
+rheology,,rheology,https://lod.nal.usda.gov/nalt/58073,0.7,False,skos:related,EXCLUDE
+rheometers,,rheometers,https://lod.nal.usda.gov/nalt/240634,1.0,False,skos:related,EXCLUDE
+rheometry,,rheometry,https://lod.nal.usda.gov/nalt/240633,1.0,False,skos:related,EXCLUDE
+roots,plant roots,roots (plant roots),https://lod.nal.usda.gov/nalt/4425,1.0,False,skos:related,EXCLUDE
+roughness length,,roughness length,https://lod.nal.usda.gov/nalt/325655,0.65,False,skos:related,EXCLUDE
+saline groundwater,saline ground water,saline groundwater (saline ground water),https://lod.nal.usda.gov/nalt/326474,1.0,False,skos:related,EXCLUDE
+saline water,salt water; saltwater,"saline water (salt water, saltwater)",https://lod.nal.usda.gov/nalt/19128,0.95,False,skos:related,EXCLUDE
+semicarbazones,,semicarbazones,https://lod.nal.usda.gov/nalt/56098,0.98,False,skos:broader; skos:narrower,EXCLUDE
+sensometrics,,sensometrics,https://lod.nal.usda.gov/nalt/308348,0.98,False,skos:related,EXCLUDE
+sodium,,sodium,https://lod.nal.usda.gov/nalt/6407,0.75,False,skos:related,EXCLUDE
+storage modulus,,storage modulus,https://lod.nal.usda.gov/nalt/61206,0.95,False,skos:broader; skos:narrower,EXCLUDE
+strength (mechanics),,strength (mechanics),https://lod.nal.usda.gov/nalt/16569,0.7,False,skos:broader; skos:narrower,EXCLUDE
+total volatile basic nitrogen,,total volatile basic nitrogen,https://lod.nal.usda.gov/nalt/214571,0.95,False,skos:broader; skos:narrower,EXCLUDE
+viscoelasticity,,viscoelasticity,https://lod.nal.usda.gov/nalt/61207,0.7,False,skos:broader; skos:narrower,EXCLUDE
+viscosity,absolute viscosity; kinematic viscosity; viscometric properties,"viscosity (absolute viscosity, kinematic viscosity, viscometric properties)",https://lod.nal.usda.gov/nalt/57054,0.7,False,skos:broader; skos:narrower,EXCLUDE
+water binding capacity,,water binding capacity,https://lod.nal.usda.gov/nalt/41767,0.65,False,skos:broader; skos:narrower,EXCLUDE
+water salinity,,water salinity,https://lod.nal.usda.gov/nalt/96068,0.85,False,skos:broader; skos:narrower,EXCLUDE
+water vapor,water vapour,water vapor (water vapour),https://lod.nal.usda.gov/nalt/105956,0.85,False,skos:related,EXCLUDE
+wood properties,,wood properties,https://lod.nal.usda.gov/nalt/33649,0.95,False,skos:related,EXCLUDE
+zeta potential,electrokinetic potential,zeta potential (electrokinetic potential),https://lod.nal.usda.gov/nalt/219067,0.65,False,skos:broader; skos:narrower,EXCLUDE
+zinc,,zinc,https://lod.nal.usda.gov/nalt/33438,0.95,False,skos:related,EXCLUDE
+blue carbon,,blue carbon,https://lod.nal.usda.gov/nalt/325121,0.9,False,skos:related,EXCLUDE
+carbon cycle,,carbon cycle,https://lod.nal.usda.gov/nalt/74995,0.7,False,skos:related,EXCLUDE
+cationic surfactants,,cationic surfactants,https://lod.nal.usda.gov/nalt/238506,0.95,False,skos:related,EXCLUDE
+dietary minerals,microelements (dietary); micronutrients (animal); micronutrients (dietary minerals),"dietary minerals (microelements (dietary), micronutrients (animal), micronutrients (dietary minerals))",https://lod.nal.usda.gov/nalt/21092,0.95,False,skos:related,EXCLUDE
+Kjeldahl method,Kjeldahl technique,Kjeldahl method (Kjeldahl technique),https://lod.nal.usda.gov/nalt/8488,0.95,False,skos:related,EXCLUDE
+nonionic surfactants,,nonionic surfactants,https://lod.nal.usda.gov/nalt/55165,0.95,False,skos:related,EXCLUDE
+nonmetallic elements,,nonmetallic elements,https://lod.nal.usda.gov/nalt/12371,0.9,False,skos:broader; skos:narrower,EXCLUDE
+organic acids and salts,organic acids,organic acids and salts (organic acids),https://lod.nal.usda.gov/nalt/2882,0.6,False,skos:broader; skos:narrower,EXCLUDE
+organophosphorus compounds,organic phosphorus compounds; organophosphates,"organophosphorus compounds (organic phosphorus compounds, organophosphates)",https://lod.nal.usda.gov/nalt/31069,0.65,False,skos:related,EXCLUDE
+phosphides,,phosphides,https://lod.nal.usda.gov/nalt/47325,0.9,False,skos:related,EXCLUDE
+surfactants,amphiphiles; amphiphilic molecules; surface active agents; surface active substances; wetters,"surfactants (amphiphiles, amphiphilic molecules, surface active agents, surface active substances, wetters)",https://lod.nal.usda.gov/nalt/254,0.95,False,skos:related,EXCLUDE
+tensiometers,,tensiometers,https://lod.nal.usda.gov/nalt/51741,0.95,False,skos:related,EXCLUDE
+wood bond strength,timber bond strength,wood bond strength (timber bond strength),https://lod.nal.usda.gov/nalt/300965,1.0,False,skos:related,EXCLUDE
+wood bonding,wood gluing,wood bonding (wood gluing),https://lod.nal.usda.gov/nalt/67392,1.0,False,skos:related,EXCLUDE
+aluminum phosphate,aluminium phosphate,aluminum phosphate (aluminium phosphate),https://lod.nal.usda.gov/nalt/7273,0.9,False,skos:broader; skos:narrower,EXCLUDE
+ammonium phosphates,ammo-phos,ammonium phosphates (ammo-phos),https://lod.nal.usda.gov/nalt/7914,0.9,False,skos:broader; skos:narrower,EXCLUDE
+calcinosis,pathological calcification; tumoral calcinosis,"calcinosis (pathological calcification, tumoral calcinosis)",https://lod.nal.usda.gov/nalt/21083,1.0,False,skos:related,EXCLUDE
+calcium phosphates,calcium phosphate,calcium phosphates (calcium phosphate),https://lod.nal.usda.gov/nalt/10640,0.9,False,skos:broader; skos:narrower,EXCLUDE
+dissolved phosphorus,,dissolved phosphorus,https://lod.nal.usda.gov/nalt/324589,0.75,False,skos:broader; skos:narrower,EXCLUDE
+elastic deformation,,elastic deformation,https://lod.nal.usda.gov/nalt/242023,0.95,False,skos:broader; skos:narrower,EXCLUDE
+electroviscosity,electroviscous effects,electroviscosity (electroviscous effects),https://lod.nal.usda.gov/nalt/291603,0.95,False,skos:related,EXCLUDE
+inorganic compounds,inorganic chemicals,inorganic compounds (inorganic chemicals),https://lod.nal.usda.gov/nalt/265,0.9,False,skos:broader; skos:narrower,EXCLUDE
+inorganic salts,,inorganic salts,https://lod.nal.usda.gov/nalt/12365,0.9,False,skos:broader; skos:narrower,EXCLUDE
+inositol phosphates,,inositol phosphates,https://lod.nal.usda.gov/nalt/47349,0.95,False,skos:broader; skos:narrower,EXCLUDE
+iron phosphates,,iron phosphates,https://lod.nal.usda.gov/nalt/39902,0.9,False,skos:broader; skos:narrower,EXCLUDE
+lead phosphates,lead (II) phosphate; lead orthophosphate,"lead phosphates (lead (II) phosphate, lead orthophosphate)",https://lod.nal.usda.gov/nalt/327816,0.9,False,skos:broader; skos:narrower,EXCLUDE
+loss modulus,,loss modulus,https://lod.nal.usda.gov/nalt/192580,0.95,False,skos:related,EXCLUDE
+magnesium phosphates,,magnesium phosphates,https://lod.nal.usda.gov/nalt/51141,0.9,False,skos:broader; skos:narrower,EXCLUDE
+mechanical stress,,mechanical stress,https://lod.nal.usda.gov/nalt/1734,0.95,False,skos:broader; skos:narrower,EXCLUDE
+metaphosphates,polymetaphosphates,metaphosphates (polymetaphosphates),https://lod.nal.usda.gov/nalt/52256,0.9,False,skos:broader; skos:narrower,EXCLUDE
+nitrogen content,,nitrogen content,https://lod.nal.usda.gov/nalt/7829,0.75,False,skos:broader; skos:narrower,EXCLUDE
+nitrophosphates,,nitrophosphates,https://lod.nal.usda.gov/nalt/54904,0.9,False,skos:broader; skos:narrower,EXCLUDE
+organic fertilizers,organic fertilisers,organic fertilizers (organic fertilisers),https://lod.nal.usda.gov/nalt/9313,0.95,True,skos:related,EXCLUDE
+organic salts,organic acid salts,organic salts (organic acid salts),https://lod.nal.usda.gov/nalt/17173,0.9,False,skos:broader; skos:narrower,EXCLUDE
+orthophosphates,reactive phosphates,orthophosphates (reactive phosphates),https://lod.nal.usda.gov/nalt/56252,0.7,False,skos:broader; skos:narrower,EXCLUDE
+phosphoric acid,,phosphoric acid,https://lod.nal.usda.gov/nalt/47318,0.9,False,skos:related,EXCLUDE
+phosphorus fertilizers,phosphate fertilisers; phosphate fertilizers; phosphorus fertilisers,"phosphorus fertilizers (phosphate fertilisers, phosphate fertilizers, phosphorus fertilisers)",https://lod.nal.usda.gov/nalt/7982,0.9,True,skos:related,EXCLUDE
+polyphosphates,,polyphosphates,https://lod.nal.usda.gov/nalt/57878,0.9,False,skos:broader; skos:narrower,EXCLUDE
+potassium phosphates,,potassium phosphates,https://lod.nal.usda.gov/nalt/33890,0.9,False,skos:broader; skos:narrower,EXCLUDE
+sodium phosphate,trisodium phosphate,sodium phosphate (trisodium phosphate),https://lod.nal.usda.gov/nalt/57880,0.9,False,skos:broader; skos:narrower,EXCLUDE
+soluble phosphates,,soluble phosphates,https://lod.nal.usda.gov/nalt/325194,0.7,False,skos:broader; skos:narrower,EXCLUDE
+soluble phosphorus,,soluble phosphorus,https://lod.nal.usda.gov/nalt/325185,0.7,False,skos:broader; skos:narrower,EXCLUDE
+superphosphates,,superphosphates,https://lod.nal.usda.gov/nalt/57881,0.9,False,skos:broader; skos:narrower,EXCLUDE
+thiophosphate,thiophosphoric acid,thiophosphate (thiophosphoric acid),https://lod.nal.usda.gov/nalt/200768,0.9,False,skos:broader; skos:narrower,EXCLUDE
+torsional stress,,torsional stress,https://lod.nal.usda.gov/nalt/305916,0.7,False,skos:broader; skos:narrower,EXCLUDE
+total dissolved nitrogen,,total dissolved nitrogen,https://lod.nal.usda.gov/nalt/185744,0.9,False,skos:broader; skos:narrower,EXCLUDE
+urea phosphates,,urea phosphates,https://lod.nal.usda.gov/nalt/57882,0.9,False,skos:broader; skos:narrower,EXCLUDE
+water quality analysis,,water quality analysis,https://lod.nal.usda.gov/nalt/67237,0.9,False,skos:related,EXCLUDE
+water soluble phosphates,,water soluble phosphates,https://lod.nal.usda.gov/nalt/325640,0.7,False,skos:related,EXCLUDE
+wind stress,,wind stress,https://lod.nal.usda.gov/nalt/305758,0.9,False,skos:broader; skos:narrower,EXCLUDE
+molybdate reactive phosphorus,,molybdate reactive phosphorus,https://lod.nal.usda.gov/nalt/325188,0.9,False,skos:broader; skos:narrower,EXCLUDE
+total dissolved phosphorus,total soluble phosphorus,total dissolved phosphorus (total soluble phosphorus),https://lod.nal.usda.gov/nalt/324722,0.9,False,skos:broader; skos:narrower,EXCLUDE
+total particulate phosphorus,,total particulate phosphorus,https://lod.nal.usda.gov/nalt/325186,0.9,False,skos:broader; skos:narrower,EXCLUDE
+allophane,,allophane,https://lod.nal.usda.gov/nalt/6707,0.7,False,skos:broader; skos:narrower,EXCLUDE
+bentonite,,bentonite,https://lod.nal.usda.gov/nalt/16638,0.9,False,skos:broader; skos:narrower,EXCLUDE
+biotite,,biotite,https://lod.nal.usda.gov/nalt/17550,0.85,False,skos:broader; skos:narrower,EXCLUDE
+chlorite (mineral),,chlorite (mineral),https://lod.nal.usda.gov/nalt/25353,0.85,False,skos:broader; skos:narrower,EXCLUDE
+halloysite,,halloysite,https://lod.nal.usda.gov/nalt/26743,0.7,False,skos:broader; skos:narrower,EXCLUDE
+illite,,illite,https://lod.nal.usda.gov/nalt/26745,0.7,False,skos:broader; skos:narrower,EXCLUDE
+imogolite,,imogolite,https://lod.nal.usda.gov/nalt/26746,0.7,False,skos:broader; skos:narrower,EXCLUDE
+kaolin,,kaolin,https://lod.nal.usda.gov/nalt/26736,0.7,False,skos:broader; skos:narrower,EXCLUDE
+kaolinite,,kaolinite,https://lod.nal.usda.gov/nalt/26748,0.7,False,skos:broader; skos:narrower,EXCLUDE
+laponite,laponite nanoclay,laponite (laponite nanoclay),https://lod.nal.usda.gov/nalt/293017,0.95,False,skos:related,EXCLUDE
+mica,sericite,mica (sericite),https://lod.nal.usda.gov/nalt/26749,0.85,False,skos:broader; skos:narrower,EXCLUDE
+montmorillonite,,montmorillonite,https://lod.nal.usda.gov/nalt/26750,0.7,False,skos:broader; skos:narrower,EXCLUDE
+muscovite,,muscovite,https://lod.nal.usda.gov/nalt/26751,0.85,False,skos:broader; skos:narrower,EXCLUDE
+nanoclays,,nanoclays,https://lod.nal.usda.gov/nalt/138086,0.85,False,skos:related,EXCLUDE
+palygorskite,,palygorskite,https://lod.nal.usda.gov/nalt/26752,0.7,False,skos:broader; skos:narrower,EXCLUDE
+sepiolite,,sepiolite,https://lod.nal.usda.gov/nalt/26753,0.7,False,skos:broader; skos:narrower,EXCLUDE
+silicate minerals,,silicate minerals,https://lod.nal.usda.gov/nalt/12729,0.85,False,skos:broader; skos:narrower,EXCLUDE
+smectite,beidellite,smectite (beidellite),https://lod.nal.usda.gov/nalt/16477,0.65,False,skos:broader; skos:narrower,EXCLUDE
+vermiculite,,vermiculite,https://lod.nal.usda.gov/nalt/26754,0.65,False,skos:broader; skos:narrower,EXCLUDE
+materials,,materials,https://lod.nal.usda.gov/nalt/560,0.85,False,skos:broader; skos:narrower,EXCLUDE

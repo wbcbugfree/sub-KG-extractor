@@ -1,0 +1,106 @@
+{
+  "seed_uris": [
+    "https://lod.nal.usda.gov/nalt/291",
+    "https://lod.nal.usda.gov/nalt/287"
+  ],
+  "gold_root_uri": "https://lod.nal.usda.gov/nalt/34011",
+  "llm_provider": "deepseek",
+  "llm_model": "deepseek-v4-pro",
+  "run_config": {
+    "benchmark_name": "pest_management",
+    "gold_root_label": "Pest management",
+    "seed_labels": [
+      "pest control",
+      "pesticides"
+    ],
+    "max_iterations": 20,
+    "batch_size": 20,
+    "llm_max_workers": 5,
+    "prompt_file": "usecase\\prompts\\manual\\pest_management.md",
+    "result_mode": "zero_shot_manual",
+    "exclude_examples_files": [
+      "usecase\\prompts\\examples\\pest_management_label_meta_examples.json"
+    ]
+  },
+  "metrics": {
+    "true_positive": 813,
+    "false_positive": 71,
+    "false_negative": 39,
+    "true_negative": 295,
+    "precision": 0.919683257918552,
+    "recall": 0.954225352112676,
+    "f1": 0.9366359447004609,
+    "accuracy": 0.909688013136289,
+    "evaluation_total": 1218,
+    "excluded_evaluation_count": 9,
+    "gold_positive_count": 852,
+    "raw_gold_positive_count": 859,
+    "unreachable_gold_positive_count": 1,
+    "included_count": 884,
+    "raw_included_count": 892,
+    "pruned_count": 332,
+    "visited_count": 1216,
+    "iterations": 6,
+    "reachable_gold_positive_count": 858,
+    "raw_pruned_count": 333,
+    "raw_visited_count": 1225
+  },
+  "unreachable_gold_uris": [
+    "https://lod.nal.usda.gov/nalt/57556"
+  ],
+  "exclude_evaluation_uris": [
+    "https://lod.nal.usda.gov/nalt/136198",
+    "https://lod.nal.usda.gov/nalt/13718",
+    "https://lod.nal.usda.gov/nalt/13836",
+    "https://lod.nal.usda.gov/nalt/14235",
+    "https://lod.nal.usda.gov/nalt/14583",
+    "https://lod.nal.usda.gov/nalt/17432",
+    "https://lod.nal.usda.gov/nalt/20523",
+    "https://lod.nal.usda.gov/nalt/287",
+    "https://lod.nal.usda.gov/nalt/300751",
+    "https://lod.nal.usda.gov/nalt/45983",
+    "https://lod.nal.usda.gov/nalt/4715",
+    "https://lod.nal.usda.gov/nalt/609"
+  ],
+  "iterations": [
+    {
+      "iteration": 1,
+      "evaluated": 59,
+      "included": 44,
+      "pruned": 15
+    },
+    {
+      "iteration": 2,
+      "evaluated": 403,
+      "included": 285,
+      "pruned": 118
+    },
+    {
+      "iteration": 3,
+      "evaluated": 526,
+      "included": 406,
+      "pruned": 120
+    },
+    {
+      "iteration": 4,
+      "evaluated": 191,
+      "included": 124,
+      "pruned": 67
+    },
+    {
+      "iteration": 5,
+      "evaluated": 42,
+      "included": 31,
+      "pruned": 11
+    },
+    {
+      "iteration": 6,
+      "evaluated": 2,
+      "included": 0,
+      "pruned": 2
+    }
+  ],
+  "evaluation_rescore": {
+    "method": "offline from retained traversal artifacts"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "seed_order": [
+    "Q214867",
+    "Q74128",
+    "Q17277888",
+    "Q26221176",
+    "Q5147536",
+    "Q867510",
+    "Q160236",
+    "Q29441758",
+    "Q26221197",
+    "Q20178788",
+    "Q3783572",
+    "Q4008950",
+    "Q11770767",
+    "Q324935",
+    "Q657415",
+    "Q1634926",
+    "Q21948567",
+    "Q156426",
+    "Q666331",
+    "Q55680361"
+  ],
+  "search_seed": 20260509,
+  "iterations": 1000000,
+  "local_restart_candidates": 30,
+  "local_swap_rounds": 4,
+  "avg_seen_percent": 45.8535,
+  "folds": [
+    {
+      "fold": 0,
+      "seen": 184,
+      "total": 485,
+      "seen_percent": 37.9381
+    },
+    {
+      "fold": 1,
+      "seen": 194,
+      "total": 485,
+      "seen_percent": 40.0
+    },
+    {
+      "fold": 2,
+      "seen": 7,
+      "total": 15,
+      "seen_percent": 46.6667
+    },
+    {
+      "fold": 3,
+      "seen": 61,
+      "total": 83,
+      "seen_percent": 73.494
+    },
+    {
+      "fold": 4,
+      "seen": 24,
+      "total": 77,
+      "seen_percent": 31.1688
+    }
+  ]
+}

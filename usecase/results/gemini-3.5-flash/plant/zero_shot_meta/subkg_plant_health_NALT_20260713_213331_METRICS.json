@@ -1,0 +1,101 @@
+{
+  "seed_uris": [
+    "https://lod.nal.usda.gov/nalt/15134",
+    "https://lod.nal.usda.gov/nalt/30154"
+  ],
+  "gold_root_uri": "https://lod.nal.usda.gov/nalt/941",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3.5-flash",
+  "run_config": {
+    "benchmark_name": "plant_health",
+    "gold_root_label": "Plant health",
+    "seed_labels": [
+      "plant diseases and disorders",
+      "plant protection"
+    ],
+    "max_iterations": 20,
+    "batch_size": 20,
+    "llm_max_workers": 5,
+    "prompt_file": "usecase\\prompts\\gemini-3.5-flash\\plant_health.md",
+    "result_mode": "zero_shot_meta",
+    "exclude_examples_files": [
+      "usecase\\prompts\\examples\\plant_health_label_meta_examples.json"
+    ]
+  },
+  "metrics": {
+    "true_positive": 211,
+    "false_positive": 65,
+    "false_negative": 8,
+    "true_negative": 423,
+    "precision": 0.7644927536231884,
+    "recall": 0.9634703196347032,
+    "f1": 0.8525252525252524,
+    "accuracy": 0.8967468175388967,
+    "evaluation_total": 707,
+    "excluded_evaluation_count": 12,
+    "gold_positive_count": 219,
+    "raw_gold_positive_count": 225,
+    "unreachable_gold_positive_count": 0,
+    "included_count": 276,
+    "raw_included_count": 283,
+    "pruned_count": 429,
+    "visited_count": 705,
+    "iterations": 5,
+    "reachable_gold_positive_count": 225,
+    "raw_pruned_count": 433,
+    "raw_visited_count": 716
+  },
+  "unreachable_gold_uris": [],
+  "exclude_evaluation_uris": [
+    "https://lod.nal.usda.gov/nalt/1091",
+    "https://lod.nal.usda.gov/nalt/123142",
+    "https://lod.nal.usda.gov/nalt/14974",
+    "https://lod.nal.usda.gov/nalt/151",
+    "https://lod.nal.usda.gov/nalt/1735",
+    "https://lod.nal.usda.gov/nalt/17605",
+    "https://lod.nal.usda.gov/nalt/284",
+    "https://lod.nal.usda.gov/nalt/287",
+    "https://lod.nal.usda.gov/nalt/291",
+    "https://lod.nal.usda.gov/nalt/324313",
+    "https://lod.nal.usda.gov/nalt/329",
+    "https://lod.nal.usda.gov/nalt/49434",
+    "https://lod.nal.usda.gov/nalt/58572",
+    "https://lod.nal.usda.gov/nalt/766",
+    "https://lod.nal.usda.gov/nalt/9355"
+  ],
+  "iterations": [
+    {
+      "iteration": 1,
+      "evaluated": 54,
+      "included": 37,
+      "pruned": 17
+    },
+    {
+      "iteration": 2,
+      "evaluated": 223,
+      "included": 146,
+      "pruned": 77
+    },
+    {
+      "iteration": 3,
+      "evaluated": 248,
+      "included": 76,
+      "pruned": 172
+    },
+    {
+      "iteration": 4,
+      "evaluated": 131,
+      "included": 22,
+      "pruned": 109
+    },
+    {
+      "iteration": 5,
+      "evaluated": 58,
+      "included": 0,
+      "pruned": 58
+    }
+  ],
+  "evaluation_rescore": {
+    "method": "offline from retained traversal artifacts"
+  }
+}

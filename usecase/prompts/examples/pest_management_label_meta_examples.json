@@ -1,0 +1,20 @@
+{
+  "benchmark_name": "pest_management",
+  "context_level": "labels",
+  "seed_labels": ["pest control"],
+  "notes": "Label-only calibration examples for generating a pest management prompt. Excludes emphasize actual false-positive gateways.",
+  "examples": [
+    {"id": "pest_include_01", "seed_label": "pest control", "candidate_label": "pesticides", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "pest_include_02", "seed_label": "pest control", "candidate_label": "insect control", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "pest_include_03", "seed_label": "pest control", "candidate_label": "biological pest control", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "pest_include_04", "seed_label": "pest control", "candidate_label": "pesticide formulations", "decision": "INCLUDE", "source": "representative_hierarchy_gold"},
+    {"id": "pest_include_05", "seed_label": "pest control", "candidate_label": "atrazine", "decision": "INCLUDE", "source": "false_negative_gold"},
+    {"id": "pest_include_06", "seed_label": "pest control", "candidate_label": "arboricides", "decision": "INCLUDE", "source": "false_negative_gold"},
+    {"id": "pest_exclude_01", "seed_label": "pest control", "candidate_label": "biological control", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "pest_exclude_02", "seed_label": "pest control", "candidate_label": "smoke formulations", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "pest_exclude_03", "seed_label": "pest control", "candidate_label": "burning", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "pest_exclude_04", "seed_label": "pest control", "candidate_label": "plant fats and oils", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "pest_exclude_05", "seed_label": "pest control", "candidate_label": "Bacillus thuringiensis", "decision": "EXCLUDE", "source": "false_positive_gateway"},
+    {"id": "pest_exclude_06", "seed_label": "pest control", "candidate_label": "natural enemies", "decision": "EXCLUDE", "source": "false_positive_gateway"}
+  ]
+}
