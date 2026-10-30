@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "status": "complete",
+  "splits": 20,
+  "selected_configurations": 40,
+  "evaluations": 120,
+  "inputs": {
+    "protocol_sha256": "90b79b1db4a1f453cf37b2d86db945483e9dbedda5fc5a9d52b71dfce7bc0d8b",
+    "benchmark_sha256": "8bbcb1cd8b7053eecb8f07134f4013dc8ea8f2140d3bfdb816238f909fe0c465",
+    "embedding_sha256": "2d2d7616c6762f6f95e380467c3d9dacbe8b686d0f173da08bf342521eeda0d5"
+  },
+  "implementation": {
+    "usecase/baselines/common.py": "20053d03d6892b9c05d503a7fa0a18e69a5294f0f95a00571a8b99926378a5fe",
+    "usecase/baselines/model_runner.py": "ef3fba241497c8acfc82d941c0c815407ea1746feed2f67f14013a50997f92d4",
+    "usecase/baselines/run_experiments.py": "1ae53454cafe372ff125b26273b4658863467a0f2797da6e82212dfded34ecde",
+    "reproduction/src/models_on_labeled_decisions/lstm_pruning.py": "774f82c30f1c5da564c4297f5b345412093c8bd368a6b659508bd1a93de712c4",
+    "reproduction/src/models_on_labeled_decisions/sequence_analogy_pruning.py": "447615146ec73831e8e94fc10bfdd3e6329819e244ac2fc9f9e2bbd967cb0501"
+  },
+  "selected_models_sha256": "10df7ef2a2a78479cf6ee2374220d34705085ee2e2f5a0d1b1aa19bcfed22dde",
+  "historical_protocol_sha256": [
+    "09264ef1f1a608feddceb8dc162a2477720bc07eaea623047b32c666a3bff22b",
+    "687c9b79c79a7a235acab6de7afcf31270bf2940d3d0478361de247dfc8a2adb"
+  ],
+  "provenance": "Final records preserve their original signatures. The unified protocol enumerates all 20 splits; numerical model, feature and scoring behavior is unchanged by this storage refactor.",
+  "search_record_directory": "tmp/nalt-baselines/search",
+  "costs": {
+    "fits": 320,
+    "search_fits": 240,
+    "seed_repeat_fits": 80,
+    "training_seconds": 11735.912934000095,
+    "peak_process_rss_mb": 1988.964352,
+    "embedding_seconds": 366.233061299994
+  },
+  "executions": [
+    {
+      "schedules": [
+        1
+      ],
+      "protocol_sha256": "09264ef1f1a608feddceb8dc162a2477720bc07eaea623047b32c666a3bff22b",
+      "benchmark_sha256": "8bbcb1cd8b7053eecb8f07134f4013dc8ea8f2140d3bfdb816238f909fe0c465",
+      "unique_fits": 80,
+      "test_evaluations": 30,
+      "workers": 2,
+      "invocation_wall_seconds": 2332.1053897000093
+    },
+    {
+      "schedules": [
+        2,
+        3,
+        4
+      ],
+      "started_utc": "2026-10-29T13:47:26.066435+00:00",
+      "workers": 2,
+      "protocol_sha256": "687c9b79c79a7a235acab6de7afcf31270bf2940d3d0478361de247dfc8a2adb",
+      "runner_sha256": "bb0fd4c42281547c61f0bedd88c28bfa11201c5d14f7af77da8d6cb962b3170f",
+      "python_executable": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\tmp\\nalt-baselines\\env\\Scripts\\python.exe",
+      "completed_utc": "2026-10-29T15:44:21.353700+00:00",
+      "original_files_verified": 205,
+      "invocation_wall_seconds": 7015.2876684000075,
+      "unique_fits": 320,
+      "reused_fits": 80,
+      "new_fits": 240,
+      "test_evaluations": 120,
+      "new_test_evaluations": 90,
+      "reused_test_evaluations": 30
+    }
+  ],
+  "environment": {
+    "python": "3.10.19 (main, Feb 12 2026, 00:37:08) [MSC v.1944 64 bit (AMD64)]",
+    "executable": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\tmp\\nalt-baselines\\env\\Scripts\\python.exe",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "packages": {
+      "numpy": "1.23.5",
+      "tensorflow": "2.12.0rc1",
+      "tensorflow-intel": "2.12.0rc1",
+      "scikit-learn": "1.2.1",
+      "h5py": "3.8.0"
+    }
+  }
+}

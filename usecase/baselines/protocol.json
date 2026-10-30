@@ -1,0 +1,178 @@
+{
+  "version": "nalt-pa-lstm-v2",
+  "branch_order": [
+    "soil_science",
+    "pest_management",
+    "plant_health",
+    "immunology",
+    "cell_biology"
+  ],
+  "root_mask": "all_five_benchmark_roots_and_incident_edges",
+  "training_branches": 3,
+  "validation_rotation": "each_other_branch",
+  "maximum_iterations": 20,
+  "decision_population": "original_reachable_gold_union_observed_negative_pool_minus_demonstrations_and_masked_roots",
+  "unreached_prediction": 0,
+  "path_policy": "label_free_multisource_shortest_path_on_frozen_candidate_graph",
+  "class_weight": "inverse_training_class_frequency",
+  "selection_seed": 41,
+  "reporting_seeds": [
+    41,
+    42,
+    43
+  ],
+  "thresholds": {
+    "start": 0.0,
+    "stop": 1.0,
+    "step": 0.01
+  },
+  "pbg": {
+    "upstream_commit": "6fccd3f572f530469fe97ee63669524c686bcc2a",
+    "dimension": 200,
+    "operator": "translation",
+    "comparator": "dot",
+    "loss_fn": "softmax",
+    "dynamic_relations": true,
+    "global_emb": false,
+    "learning_rates": [
+      0.03,
+      0.1
+    ],
+    "relation_lr": 0.01,
+    "epoch_checkpoints": [
+      4,
+      10,
+      25
+    ],
+    "batch_size": 10000,
+    "num_batch_negs": 500,
+    "num_uniform_negs": 500,
+    "edge_validation_fraction": 0.05,
+    "edge_split_seed": 73,
+    "training_seed": 41,
+    "evaluation_seed": 73,
+    "workers": 1,
+    "refit_selected_on_all_edges": true
+  },
+  "lstm": {
+    "padding": "before",
+    "batch_size": 32,
+    "epoch_cap": 200,
+    "patience": 20,
+    "configurations": [
+      {
+        "id": "lstm_01",
+        "length": 4,
+        "units": 128,
+        "learning_rate": 0.001
+      },
+      {
+        "id": "lstm_02",
+        "length": 4,
+        "units": 64,
+        "learning_rate": 0.001
+      },
+      {
+        "id": "lstm_03",
+        "length": 8,
+        "units": 128,
+        "learning_rate": 0.001
+      },
+      {
+        "id": "lstm_04",
+        "length": 4,
+        "units": 128,
+        "learning_rate": 0.003
+      },
+      {
+        "id": "lstm_05",
+        "length": 8,
+        "units": 128,
+        "learning_rate": 0.003
+      },
+      {
+        "id": "lstm_06",
+        "length": 8,
+        "units": 64,
+        "learning_rate": 0.001
+      }
+    ]
+  },
+  "pa": {
+    "padding": "between",
+    "batch_size": 32,
+    "epoch_cap": 50,
+    "patience": 5,
+    "analogy_configuration": "C1",
+    "training_analogies_per_decision": 10,
+    "validation_analogies_per_decision": 10,
+    "prediction_references": 20,
+    "reference_selection": "random_training_KEEP_only",
+    "training_reference_excludes_same_seed": true,
+    "analogy_augmentation": [],
+    "mc_dropout_passes": 10,
+    "configurations": [
+      {
+        "id": "pa_01",
+        "length": 4,
+        "filters": [
+          16,
+          8
+        ],
+        "dropout": 0.0,
+        "learning_rate": 0.001
+      },
+      {
+        "id": "pa_02",
+        "length": 4,
+        "filters": [
+          4,
+          2
+        ],
+        "dropout": 0.0,
+        "learning_rate": 0.001
+      },
+      {
+        "id": "pa_03",
+        "length": 8,
+        "filters": [
+          16,
+          8
+        ],
+        "dropout": 0.0,
+        "learning_rate": 0.001
+      },
+      {
+        "id": "pa_04",
+        "length": 4,
+        "filters": [
+          16,
+          8
+        ],
+        "dropout": 0.3,
+        "learning_rate": 0.001
+      },
+      {
+        "id": "pa_05",
+        "length": 4,
+        "filters": [
+          16,
+          8
+        ],
+        "dropout": 0.0,
+        "learning_rate": 0.003
+      },
+      {
+        "id": "pa_06",
+        "length": 8,
+        "filters": [
+          4,
+          2
+        ],
+        "dropout": 0.3,
+        "learning_rate": 0.001
+      }
+    ]
+  },
+  "configuration_selection": "seed_41_validation_f1_precision_recall_fewer_parameters_then_protocol_order"
+}

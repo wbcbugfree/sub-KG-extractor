@@ -1970,7 +1970,8 @@ def evaluate_candidate_rows(prompt, rows, context_level, provider, model, batch_
 
 
 def run_bfs_for_seed(seed_qid, seed_label, gold_rows, graph_context, prompt, args,
-                     decision_rows=None):
+                     decision_rows=None, classifier=None):
+    classify = classifier or evaluate_candidate_rows
     labels, edges_by_subj, edges_by_obj, allowed_nodes = seed_graph_indexes(seed_qid, graph_context)
     labels.setdefault(seed_qid, seed_label)
     traversal_rows = list(decision_rows or gold_rows)
@@ -2011,7 +2012,7 @@ def run_bfs_for_seed(seed_qid, seed_label, gold_rows, graph_context, prompt, arg
         if not candidates:
             break
 
-        batch_results = evaluate_candidate_rows(
+        batch_results = classify(
             prompt,
             candidates,
             args.context_level,
@@ -3635,7 +3636,7 @@ def main():
     eval_p.add_argument("--sample-seed", type=int, default=42)
     eval_p.add_argument("--sample-file", type=Path,
                         help="Existing sample CSV whose row_id order should be reused exactly.")
-    eval_p.add_argument("--batch-size", type=int, default=10)
+    eval_p.add_argument("--batch-size", type=int, default=20)
     eval_p.add_argument("--max-iterations", type=int, default=10,
                         help="Maximum prune-gated BFS iterations in --eval-mode bfs.")
     eval_p.add_argument("--workers", type=int, default=1,

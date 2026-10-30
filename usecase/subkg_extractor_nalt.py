@@ -890,8 +890,19 @@ def iterative_nalt_extraction(
     result_mode=None,
     exclude_evaluation_uris=None,
     exclude_examples_files=None,
+    classifier=None,
 ):
-    resolved_provider = resolve_provider(llm_provider, llm_model)
+    """Run gated BFS, optionally using a supplied frontier classifier.
+
+    The callback accepts the same keyword arguments as classify_candidates.
+    It owns its provider client; explicit provider/model names are required.
+    Traversal and evaluation are identical for built-in and supplied classifiers.
+    """
+    if classifier is not None and (llm_provider == "auto" or not llm_model):
+        raise ValueError("A supplied classifier requires an explicit provider and model")
+    resolved_provider = (
+        llm_provider if classifier is not None else resolve_provider(llm_provider, llm_model)
+    )
     resolved_model = llm_model or default_model_for_provider(resolved_provider)
     resolved_result_mode = result_mode or infer_result_mode(prompt_file)
     if resolved_result_mode not in RESULT_MODES:
@@ -935,7 +946,7 @@ def iterative_nalt_extraction(
         key=lambda row: (row["prefLabel"].casefold(), row["uri"]),
     )
     client = None
-    if max_iterations > 0:
+    if max_iterations > 0 and classifier is None:
         client = get_llm_client(resolved_provider, config_path=config_path)
 
     iteration = 0
@@ -951,7 +962,7 @@ def iterative_nalt_extraction(
         for node in new_nodes:
             all_visited[node["uri"]] = node
 
-        classified_nodes = classify_candidates(
+        classified_nodes = (classifier or classify_candidates)(
             client=client,
             model=resolved_model,
             seed_label=seed_topic,

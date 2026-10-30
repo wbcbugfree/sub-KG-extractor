@@ -1,0 +1,272 @@
+{
+  "protocol_sha256": "09264ef1f1a608feddceb8dc162a2477720bc07eaea623047b32c666a3bff22b",
+  "benchmark_sha256": "8bbcb1cd8b7053eecb8f07134f4013dc8ea8f2140d3bfdb816238f909fe0c465",
+  "upstream_commit": "6fccd3f572f530469fe97ee63669524c686bcc2a",
+  "torch_version": "2.1.2+cpu",
+  "selection_metric": "sampled link-prediction MRR on held-out unordered endpoint-pair groups",
+  "validation_trials": [
+    {
+      "learning_rate": 0.03,
+      "epochs": 4,
+      "statistics": {
+        "count": 10204,
+        "metrics": {
+          "loss": 15.922521288373432,
+          "pos_rank": 177.6924245393963,
+          "mrr": 0.13331164971654064,
+          "r1": 0.028714229713837712,
+          "r10": 0.3427577420619365,
+          "r50": 0.5044100352802823,
+          "auc": 0.8133084990379157
+        }
+      },
+      "evaluation_seed": 73,
+      "checkpoint": "pbg\\lr_0.03\\epoch_4"
+    },
+    {
+      "learning_rate": 0.03,
+      "epochs": 10,
+      "statistics": {
+        "count": 10204,
+        "metrics": {
+          "loss": 18.845054109065686,
+          "pos_rank": 184.7298608388867,
+          "mrr": 0.13404477385622246,
+          "r1": 0.017297138377107016,
+          "r10": 0.3690709525676205,
+          "r50": 0.522687181497452,
+          "auc": 0.8075754650547569
+        }
+      },
+      "evaluation_seed": 73,
+      "checkpoint": "pbg\\lr_0.03\\epoch_10"
+    },
+    {
+      "learning_rate": 0.03,
+      "epochs": 25,
+      "statistics": {
+        "count": 10204,
+        "metrics": {
+          "loss": 20.6012580659239,
+          "pos_rank": 189.93840650725207,
+          "mrr": 0.13244026915693413,
+          "r1": 0.011319090552724422,
+          "r10": 0.37671501372010974,
+          "r50": 0.531703253626029,
+          "auc": 0.8017934237401283
+        }
+      },
+      "evaluation_seed": 73,
+      "checkpoint": "pbg\\lr_0.03\\epoch_25"
+    },
+    {
+      "learning_rate": 0.1,
+      "epochs": 4,
+      "statistics": {
+        "count": 10204,
+        "metrics": {
+          "loss": 24.073664433065463,
+          "pos_rank": 191.23990591924735,
+          "mrr": 0.1160235067574663,
+          "r1": 0.003724029792238338,
+          "r10": 0.34363974911799294,
+          "r50": 0.49813798510388085,
+          "auc": 0.8031654380457581
+        }
+      },
+      "evaluation_seed": 73,
+      "checkpoint": "pbg\\lr_0.1\\epoch_4"
+    },
+    {
+      "learning_rate": 0.1,
+      "epochs": 10,
+      "statistics": {
+        "count": 10204,
+        "metrics": {
+          "loss": 24.420583954515386,
+          "pos_rank": 184.08094864758917,
+          "mrr": 0.11984094177120483,
+          "r1": 0.001715013720109761,
+          "r10": 0.3541748333986672,
+          "r50": 0.5161211289690317,
+          "auc": 0.8134065143784464
+        }
+      },
+      "evaluation_seed": 73,
+      "checkpoint": "pbg\\lr_0.1\\epoch_10"
+    },
+    {
+      "learning_rate": 0.1,
+      "epochs": 25,
+      "statistics": {
+        "count": 10204,
+        "metrics": {
+          "loss": 24.93507964860594,
+          "pos_rank": 183.69017052136417,
+          "mrr": 0.12134345369402542,
+          "r1": 0.002548020384163073,
+          "r10": 0.35863386907095257,
+          "r50": 0.5180811446491572,
+          "auc": 0.8136515029385154
+        }
+      },
+      "evaluation_seed": 73,
+      "checkpoint": "pbg\\lr_0.1\\epoch_25"
+    }
+  ],
+  "selected": {
+    "learning_rate": 0.03,
+    "epochs": 10,
+    "statistics": {
+      "count": 10204,
+      "metrics": {
+        "loss": 18.845054109065686,
+        "pos_rank": 184.7298608388867,
+        "mrr": 0.13404477385622246,
+        "r1": 0.017297138377107016,
+        "r10": 0.3690709525676205,
+        "r50": 0.522687181497452,
+        "auc": 0.8075754650547569
+      }
+    },
+    "evaluation_seed": 73,
+    "checkpoint": "pbg\\lr_0.03\\epoch_10"
+  },
+  "search_training": [
+    {
+      "config": {
+        "entities": {
+          "concept": {
+            "num_partitions": 1
+          }
+        },
+        "relations": [
+          {
+            "name": "skos",
+            "lhs": "concept",
+            "rhs": "concept",
+            "operator": "translation"
+          }
+        ],
+        "entity_path": "tmp/nalt-baselines/pbg/entities",
+        "edge_paths": [
+          "tmp/nalt-baselines/pbg/edges_train"
+        ],
+        "checkpoint_path": "tmp/nalt-baselines/pbg/lr_0.03",
+        "dimension": 200,
+        "global_emb": false,
+        "comparator": "dot",
+        "loss_fn": "softmax",
+        "dynamic_relations": true,
+        "lr": 0.03,
+        "relation_lr": 0.01,
+        "num_epochs": 25,
+        "batch_size": 10000,
+        "num_batch_negs": 500,
+        "num_uniform_negs": 500,
+        "eval_num_batch_negs": 500,
+        "eval_num_uniform_negs": 500,
+        "workers": 1,
+        "num_edge_chunks": 1,
+        "eval_fraction": 0.0,
+        "checkpoint_preservation_interval": 1
+      },
+      "seconds": 134.28168660000665,
+      "seed": 41
+    },
+    {
+      "config": {
+        "entities": {
+          "concept": {
+            "num_partitions": 1
+          }
+        },
+        "relations": [
+          {
+            "name": "skos",
+            "lhs": "concept",
+            "rhs": "concept",
+            "operator": "translation"
+          }
+        ],
+        "entity_path": "tmp/nalt-baselines/pbg/entities",
+        "edge_paths": [
+          "tmp/nalt-baselines/pbg/edges_train"
+        ],
+        "checkpoint_path": "tmp/nalt-baselines/pbg/lr_0.1",
+        "dimension": 200,
+        "global_emb": false,
+        "comparator": "dot",
+        "loss_fn": "softmax",
+        "dynamic_relations": true,
+        "lr": 0.1,
+        "relation_lr": 0.01,
+        "num_epochs": 25,
+        "batch_size": 10000,
+        "num_batch_negs": 500,
+        "num_uniform_negs": 500,
+        "eval_num_batch_negs": 500,
+        "eval_num_uniform_negs": 500,
+        "workers": 1,
+        "num_edge_chunks": 1,
+        "eval_fraction": 0.0,
+        "checkpoint_preservation_interval": 1
+      },
+      "seconds": 152.6938458000077,
+      "seed": 41
+    }
+  ],
+  "final_training": {
+    "config": {
+      "entities": {
+        "concept": {
+          "num_partitions": 1
+        }
+      },
+      "relations": [
+        {
+          "name": "skos",
+          "lhs": "concept",
+          "rhs": "concept",
+          "operator": "translation"
+        }
+      ],
+      "entity_path": "tmp/nalt-baselines/pbg/entities",
+      "edge_paths": [
+        "tmp/nalt-baselines/pbg/edges_all"
+      ],
+      "checkpoint_path": "tmp/nalt-baselines/pbg/final",
+      "dimension": 200,
+      "global_emb": false,
+      "comparator": "dot",
+      "loss_fn": "softmax",
+      "dynamic_relations": true,
+      "lr": 0.03,
+      "relation_lr": 0.01,
+      "num_epochs": 10,
+      "batch_size": 10000,
+      "num_batch_negs": 500,
+      "num_uniform_negs": 500,
+      "eval_num_batch_negs": 500,
+      "eval_num_uniform_negs": 500,
+      "workers": 1,
+      "num_edge_chunks": 1,
+      "eval_fraction": 0.0,
+      "checkpoint_preservation_interval": null
+    },
+    "seconds": 58.539976100000786,
+    "seed": 41
+  },
+  "embedding": {
+    "path": "tmp\\nalt-baselines\\embeddings.npy",
+    "sha256": "2d2d7616c6762f6f95e380467c3d9dacbe8b686d0f173da08bf342521eeda0d5",
+    "shape": [
+      76691,
+      200
+    ],
+    "trained_nodes": 76682,
+    "unembedded_rows": 9
+  },
+  "wall_seconds": 366.233061299994,
+  "compatibility": "Windows checkpoint snapshot copies replace symbolic links; worker RNG is explicitly seeded"
+}

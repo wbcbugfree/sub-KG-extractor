@@ -1,0 +1,2486 @@
+[
+  {
+    "branch": "soil_science",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/subkg_soil_science_NALT_20260712_163933_METRICS.json",
+    "metrics": {
+      "tp": 883,
+      "fp": 65,
+      "fn": 149,
+      "tn": 887,
+      "n": 1984,
+      "precision": 0.9314345991561181,
+      "recall": 0.8556201550387597,
+      "f1": 0.8919191919191919,
+      "accuracy": 0.8921370967741935
+    },
+    "original_predictions_rescored": {
+      "tp": 883,
+      "fp": 65,
+      "fn": 149,
+      "tn": 887,
+      "n": 1984,
+      "precision": 0.9314345991561181,
+      "recall": 0.8556201550387597,
+      "f1": 0.8919191919191919,
+      "accuracy": 0.8921370967741935
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1367,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 7,
+        "included": 5,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 66,
+        "included": 56,
+        "pruned": 10
+      },
+      {
+        "iteration": 3,
+        "evaluated": 262,
+        "included": 227,
+        "pruned": 35
+      },
+      {
+        "iteration": 4,
+        "evaluated": 309,
+        "included": 146,
+        "pruned": 163
+      },
+      {
+        "iteration": 5,
+        "evaluated": 309,
+        "included": 196,
+        "pruned": 113
+      },
+      {
+        "iteration": 6,
+        "evaluated": 379,
+        "included": 315,
+        "pruned": 64
+      },
+      {
+        "iteration": 7,
+        "evaluated": 24,
+        "included": 4,
+        "pruned": 20
+      },
+      {
+        "iteration": 8,
+        "evaluated": 9,
+        "included": 3,
+        "pruned": 6
+      },
+      {
+        "iteration": 9,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "soil_science",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/deepseek-v4-pro/soil/zero_shot_meta/subkg_soil_science_NALT_20260713_000413_METRICS.json",
+    "metrics": {
+      "tp": 818,
+      "fp": 116,
+      "fn": 214,
+      "tn": 836,
+      "n": 1984,
+      "precision": 0.8758029978586723,
+      "recall": 0.7926356589147286,
+      "f1": 0.832146490335707,
+      "accuracy": 0.8336693548387096
+    },
+    "original_predictions_rescored": {
+      "tp": 818,
+      "fp": 116,
+      "fn": 214,
+      "tn": 836,
+      "n": 1984,
+      "precision": 0.8758029978586723,
+      "recall": 0.7926356589147286,
+      "f1": 0.832146490335707,
+      "accuracy": 0.8336693548387096
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1506,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 7,
+        "included": 5,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 66,
+        "included": 54,
+        "pruned": 12
+      },
+      {
+        "iteration": 3,
+        "evaluated": 260,
+        "included": 227,
+        "pruned": 33
+      },
+      {
+        "iteration": 4,
+        "evaluated": 309,
+        "included": 132,
+        "pruned": 177
+      },
+      {
+        "iteration": 5,
+        "evaluated": 363,
+        "included": 199,
+        "pruned": 164
+      },
+      {
+        "iteration": 6,
+        "evaluated": 408,
+        "included": 301,
+        "pruned": 107
+      },
+      {
+        "iteration": 7,
+        "evaluated": 24,
+        "included": 10,
+        "pruned": 14
+      },
+      {
+        "iteration": 8,
+        "evaluated": 41,
+        "included": 5,
+        "pruned": 36
+      },
+      {
+        "iteration": 9,
+        "evaluated": 4,
+        "included": 1,
+        "pruned": 3
+      },
+      {
+        "iteration": 10,
+        "evaluated": 22,
+        "included": 3,
+        "pruned": 19
+      },
+      {
+        "iteration": 11,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "soil_science",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gemini-3.5-flash/soil/zero_shot_manual/subkg_soil_science_NALT_20260713_153913_METRICS.json",
+    "metrics": {
+      "tp": 851,
+      "fp": 30,
+      "fn": 181,
+      "tn": 922,
+      "n": 1984,
+      "precision": 0.9659477866061293,
+      "recall": 0.8246124031007752,
+      "f1": 0.8897020386826974,
+      "accuracy": 0.8936491935483871
+    },
+    "original_predictions_rescored": {
+      "tp": 851,
+      "fp": 30,
+      "fn": 181,
+      "tn": 922,
+      "n": 1984,
+      "precision": 0.9659477866061293,
+      "recall": 0.8246124031007752,
+      "f1": 0.8897020386826974,
+      "accuracy": 0.8936491935483871
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1251,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 7,
+        "included": 5,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 66,
+        "included": 54,
+        "pruned": 12
+      },
+      {
+        "iteration": 3,
+        "evaluated": 260,
+        "included": 227,
+        "pruned": 33
+      },
+      {
+        "iteration": 4,
+        "evaluated": 302,
+        "included": 126,
+        "pruned": 176
+      },
+      {
+        "iteration": 5,
+        "evaluated": 263,
+        "included": 169,
+        "pruned": 94
+      },
+      {
+        "iteration": 6,
+        "evaluated": 338,
+        "included": 300,
+        "pruned": 38
+      },
+      {
+        "iteration": 7,
+        "evaluated": 11,
+        "included": 3,
+        "pruned": 8
+      },
+      {
+        "iteration": 8,
+        "evaluated": 2,
+        "included": 1,
+        "pruned": 1
+      },
+      {
+        "iteration": 9,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "soil_science",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gemini-3.5-flash/soil/zero_shot_meta/subkg_soil_science_NALT_20260713_160613_METRICS.json",
+    "metrics": {
+      "tp": 758,
+      "fp": 32,
+      "fn": 274,
+      "tn": 920,
+      "n": 1984,
+      "precision": 0.959493670886076,
+      "recall": 0.7344961240310077,
+      "f1": 0.8320526893523601,
+      "accuracy": 0.8457661290322581
+    },
+    "original_predictions_rescored": {
+      "tp": 758,
+      "fp": 32,
+      "fn": 274,
+      "tn": 920,
+      "n": 1984,
+      "precision": 0.959493670886076,
+      "recall": 0.7344961240310077,
+      "f1": 0.8320526893523601,
+      "accuracy": 0.8457661290322581
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1089,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 7,
+        "included": 5,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 66,
+        "included": 55,
+        "pruned": 11
+      },
+      {
+        "iteration": 3,
+        "evaluated": 264,
+        "included": 195,
+        "pruned": 69
+      },
+      {
+        "iteration": 4,
+        "evaluated": 247,
+        "included": 103,
+        "pruned": 144
+      },
+      {
+        "iteration": 5,
+        "evaluated": 199,
+        "included": 145,
+        "pruned": 54
+      },
+      {
+        "iteration": 6,
+        "evaluated": 300,
+        "included": 289,
+        "pruned": 11
+      },
+      {
+        "iteration": 7,
+        "evaluated": 2,
+        "included": 1,
+        "pruned": 1
+      },
+      {
+        "iteration": 8,
+        "evaluated": 3,
+        "included": 0,
+        "pruned": 3
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "soil_science",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/subkg_soil_science_NALT_20260711_192210_METRICS.json",
+    "metrics": {
+      "tp": 862,
+      "fp": 98,
+      "fn": 170,
+      "tn": 854,
+      "n": 1984,
+      "precision": 0.8979166666666667,
+      "recall": 0.8352713178294574,
+      "f1": 0.8654618473895582,
+      "accuracy": 0.8649193548387096
+    },
+    "original_predictions_rescored": {
+      "tp": 862,
+      "fp": 98,
+      "fn": 170,
+      "tn": 854,
+      "n": 1984,
+      "precision": 0.8979166666666667,
+      "recall": 0.8352713178294574,
+      "f1": 0.8654618473895582,
+      "accuracy": 0.8649193548387096
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1503,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 7,
+        "included": 5,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 66,
+        "included": 55,
+        "pruned": 11
+      },
+      {
+        "iteration": 3,
+        "evaluated": 257,
+        "included": 229,
+        "pruned": 28
+      },
+      {
+        "iteration": 4,
+        "evaluated": 306,
+        "included": 154,
+        "pruned": 152
+      },
+      {
+        "iteration": 5,
+        "evaluated": 344,
+        "included": 211,
+        "pruned": 133
+      },
+      {
+        "iteration": 6,
+        "evaluated": 458,
+        "included": 301,
+        "pruned": 157
+      },
+      {
+        "iteration": 7,
+        "evaluated": 34,
+        "included": 5,
+        "pruned": 29
+      },
+      {
+        "iteration": 8,
+        "evaluated": 22,
+        "included": 4,
+        "pruned": 18
+      },
+      {
+        "iteration": 9,
+        "evaluated": 8,
+        "included": 0,
+        "pruned": 8
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "soil_science",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gpt-5.4-mini/soil/zero_shot_meta/subkg_soil_science_NALT_20260706_122939_METRICS.json",
+    "metrics": {
+      "tp": 816,
+      "fp": 121,
+      "fn": 216,
+      "tn": 831,
+      "n": 1984,
+      "precision": 0.8708644610458911,
+      "recall": 0.7906976744186046,
+      "f1": 0.8288471305231082,
+      "accuracy": 0.8301411290322581
+    },
+    "original_predictions_rescored": {
+      "tp": 816,
+      "fp": 121,
+      "fn": 216,
+      "tn": 831,
+      "n": 1984,
+      "precision": 0.8708644610458911,
+      "recall": 0.7906976744186046,
+      "f1": 0.8288471305231082,
+      "accuracy": 0.8301411290322581
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1451,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 7,
+        "included": 5,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 66,
+        "included": 56,
+        "pruned": 10
+      },
+      {
+        "iteration": 3,
+        "evaluated": 261,
+        "included": 226,
+        "pruned": 35
+      },
+      {
+        "iteration": 4,
+        "evaluated": 300,
+        "included": 137,
+        "pruned": 163
+      },
+      {
+        "iteration": 5,
+        "evaluated": 356,
+        "included": 198,
+        "pruned": 158
+      },
+      {
+        "iteration": 6,
+        "evaluated": 425,
+        "included": 309,
+        "pruned": 116
+      },
+      {
+        "iteration": 7,
+        "evaluated": 26,
+        "included": 4,
+        "pruned": 22
+      },
+      {
+        "iteration": 8,
+        "evaluated": 1,
+        "included": 1,
+        "pruned": 0
+      },
+      {
+        "iteration": 9,
+        "evaluated": 7,
+        "included": 4,
+        "pruned": 3
+      },
+      {
+        "iteration": 10,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "pest_management",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/deepseek-v4-pro/pest/zero_shot_manual/subkg_pest_management_NALT_20260712_221707_METRICS.json",
+    "metrics": {
+      "tp": 813,
+      "fp": 71,
+      "fn": 39,
+      "tn": 1314,
+      "n": 2237,
+      "precision": 0.919683257918552,
+      "recall": 0.954225352112676,
+      "f1": 0.9366359447004609,
+      "accuracy": 0.9508270004470273
+    },
+    "original_predictions_rescored": {
+      "tp": 813,
+      "fp": 71,
+      "fn": 39,
+      "tn": 1314,
+      "n": 2237,
+      "precision": 0.919683257918552,
+      "recall": 0.954225352112676,
+      "f1": 0.9366359447004609,
+      "accuracy": 0.9508270004470273
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1225,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 59,
+        "included": 44,
+        "pruned": 15
+      },
+      {
+        "iteration": 2,
+        "evaluated": 403,
+        "included": 285,
+        "pruned": 118
+      },
+      {
+        "iteration": 3,
+        "evaluated": 526,
+        "included": 406,
+        "pruned": 120
+      },
+      {
+        "iteration": 4,
+        "evaluated": 191,
+        "included": 124,
+        "pruned": 67
+      },
+      {
+        "iteration": 5,
+        "evaluated": 42,
+        "included": 31,
+        "pruned": 11
+      },
+      {
+        "iteration": 6,
+        "evaluated": 2,
+        "included": 0,
+        "pruned": 2
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "pest_management",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/deepseek-v4-pro/pest/zero_shot_meta/subkg_pest_management_NALT_20260713_001600_METRICS.json",
+    "metrics": {
+      "tp": 829,
+      "fp": 217,
+      "fn": 23,
+      "tn": 1168,
+      "n": 2237,
+      "precision": 0.7925430210325047,
+      "recall": 0.9730046948356808,
+      "f1": 0.8735511064278187,
+      "accuracy": 0.8927134555207867
+    },
+    "original_predictions_rescored": {
+      "tp": 829,
+      "fp": 217,
+      "fn": 23,
+      "tn": 1168,
+      "n": 2237,
+      "precision": 0.7925430210325047,
+      "recall": 0.9730046948356808,
+      "f1": 0.8735511064278187,
+      "accuracy": 0.8927134555207867
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1462,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 59,
+        "included": 49,
+        "pruned": 10
+      },
+      {
+        "iteration": 2,
+        "evaluated": 409,
+        "included": 319,
+        "pruned": 90
+      },
+      {
+        "iteration": 3,
+        "evaluated": 656,
+        "included": 467,
+        "pruned": 189
+      },
+      {
+        "iteration": 4,
+        "evaluated": 238,
+        "included": 155,
+        "pruned": 83
+      },
+      {
+        "iteration": 5,
+        "evaluated": 75,
+        "included": 48,
+        "pruned": 27
+      },
+      {
+        "iteration": 6,
+        "evaluated": 19,
+        "included": 11,
+        "pruned": 8
+      },
+      {
+        "iteration": 7,
+        "evaluated": 3,
+        "included": 2,
+        "pruned": 1
+      },
+      {
+        "iteration": 8,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "pest_management",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gemini-3.5-flash/pest/zero_shot_manual/subkg_pest_management_NALT_20260713_154256_METRICS.json",
+    "metrics": {
+      "tp": 809,
+      "fp": 50,
+      "fn": 43,
+      "tn": 1335,
+      "n": 2237,
+      "precision": 0.9417927823050058,
+      "recall": 0.9495305164319249,
+      "f1": 0.945645821157218,
+      "accuracy": 0.9584264640143049
+    },
+    "original_predictions_rescored": {
+      "tp": 809,
+      "fp": 50,
+      "fn": 43,
+      "tn": 1335,
+      "n": 2237,
+      "precision": 0.9417927823050058,
+      "recall": 0.9495305164319249,
+      "f1": 0.945645821157218,
+      "accuracy": 0.9584264640143049
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1180,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 59,
+        "included": 39,
+        "pruned": 20
+      },
+      {
+        "iteration": 2,
+        "evaluated": 384,
+        "included": 272,
+        "pruned": 112
+      },
+      {
+        "iteration": 3,
+        "evaluated": 513,
+        "included": 400,
+        "pruned": 113
+      },
+      {
+        "iteration": 4,
+        "evaluated": 183,
+        "included": 122,
+        "pruned": 61
+      },
+      {
+        "iteration": 5,
+        "evaluated": 38,
+        "included": 30,
+        "pruned": 8
+      },
+      {
+        "iteration": 6,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "pest_management",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gemini-3.5-flash/pest/zero_shot_meta/subkg_pest_management_NALT_20260713_161109_METRICS.json",
+    "metrics": {
+      "tp": 832,
+      "fp": 188,
+      "fn": 20,
+      "tn": 1197,
+      "n": 2237,
+      "precision": 0.8156862745098039,
+      "recall": 0.9765258215962441,
+      "f1": 0.8888888888888888,
+      "accuracy": 0.9070183281180152
+    },
+    "original_predictions_rescored": {
+      "tp": 832,
+      "fp": 188,
+      "fn": 20,
+      "tn": 1197,
+      "n": 2237,
+      "precision": 0.8156862745098039,
+      "recall": 0.9765258215962441,
+      "f1": 0.8888888888888888,
+      "accuracy": 0.9070183281180152
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1460,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 59,
+        "included": 42,
+        "pruned": 17
+      },
+      {
+        "iteration": 2,
+        "evaluated": 393,
+        "included": 308,
+        "pruned": 85
+      },
+      {
+        "iteration": 3,
+        "evaluated": 652,
+        "included": 470,
+        "pruned": 182
+      },
+      {
+        "iteration": 4,
+        "evaluated": 259,
+        "included": 151,
+        "pruned": 108
+      },
+      {
+        "iteration": 5,
+        "evaluated": 72,
+        "included": 48,
+        "pruned": 24
+      },
+      {
+        "iteration": 6,
+        "evaluated": 23,
+        "included": 7,
+        "pruned": 16
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "pest_management",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gpt-5.4-mini/pest/zero_shot_manual/subkg_pest_management_NALT_20260712_010918_METRICS.json",
+    "metrics": {
+      "tp": 717,
+      "fp": 127,
+      "fn": 135,
+      "tn": 1258,
+      "n": 2237,
+      "precision": 0.8495260663507109,
+      "recall": 0.8415492957746479,
+      "f1": 0.8455188679245284,
+      "accuracy": 0.8828788556101922
+    },
+    "original_predictions_rescored": {
+      "tp": 717,
+      "fp": 127,
+      "fn": 135,
+      "tn": 1258,
+      "n": 2237,
+      "precision": 0.8495260663507109,
+      "recall": 0.8415492957746479,
+      "f1": 0.8455188679245284,
+      "accuracy": 0.8828788556101922
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1382,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 59,
+        "included": 37,
+        "pruned": 22
+      },
+      {
+        "iteration": 2,
+        "evaluated": 374,
+        "included": 250,
+        "pruned": 124
+      },
+      {
+        "iteration": 3,
+        "evaluated": 515,
+        "included": 368,
+        "pruned": 147
+      },
+      {
+        "iteration": 4,
+        "evaluated": 299,
+        "included": 152,
+        "pruned": 147
+      },
+      {
+        "iteration": 5,
+        "evaluated": 94,
+        "included": 34,
+        "pruned": 60
+      },
+      {
+        "iteration": 6,
+        "evaluated": 20,
+        "included": 6,
+        "pruned": 14
+      },
+      {
+        "iteration": 7,
+        "evaluated": 7,
+        "included": 1,
+        "pruned": 6
+      },
+      {
+        "iteration": 8,
+        "evaluated": 11,
+        "included": 1,
+        "pruned": 10
+      },
+      {
+        "iteration": 9,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "pest_management",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gpt-5.4-mini/pest/zero_shot_meta/subkg_pest_management_NALT_20260706_123151_METRICS.json",
+    "metrics": {
+      "tp": 760,
+      "fp": 382,
+      "fn": 92,
+      "tn": 1003,
+      "n": 2237,
+      "precision": 0.6654991243432574,
+      "recall": 0.892018779342723,
+      "f1": 0.7622868605817452,
+      "accuracy": 0.7881090746535538
+    },
+    "original_predictions_rescored": {
+      "tp": 760,
+      "fp": 382,
+      "fn": 92,
+      "tn": 1003,
+      "n": 2237,
+      "precision": 0.6654991243432574,
+      "recall": 0.892018779342723,
+      "f1": 0.7622868605817452,
+      "accuracy": 0.7881090746535538
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 2045,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 59,
+        "included": 44,
+        "pruned": 15
+      },
+      {
+        "iteration": 2,
+        "evaluated": 400,
+        "included": 301,
+        "pruned": 99
+      },
+      {
+        "iteration": 3,
+        "evaluated": 665,
+        "included": 447,
+        "pruned": 218
+      },
+      {
+        "iteration": 4,
+        "evaluated": 483,
+        "included": 211,
+        "pruned": 272
+      },
+      {
+        "iteration": 5,
+        "evaluated": 258,
+        "included": 88,
+        "pruned": 170
+      },
+      {
+        "iteration": 6,
+        "evaluated": 62,
+        "included": 23,
+        "pruned": 39
+      },
+      {
+        "iteration": 7,
+        "evaluated": 56,
+        "included": 14,
+        "pruned": 42
+      },
+      {
+        "iteration": 8,
+        "evaluated": 30,
+        "included": 7,
+        "pruned": 23
+      },
+      {
+        "iteration": 9,
+        "evaluated": 30,
+        "included": 14,
+        "pruned": 16
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "plant_health",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/deepseek-v4-pro/plant/zero_shot_manual/subkg_plant_health_NALT_20260712_223206_METRICS.json",
+    "metrics": {
+      "tp": 210,
+      "fp": 7,
+      "fn": 9,
+      "tn": 1275,
+      "n": 1501,
+      "precision": 0.967741935483871,
+      "recall": 0.958904109589041,
+      "f1": 0.963302752293578,
+      "accuracy": 0.9893404397068621
+    },
+    "original_predictions_rescored": {
+      "tp": 210,
+      "fp": 7,
+      "fn": 9,
+      "tn": 1275,
+      "n": 1501,
+      "precision": 0.967741935483871,
+      "recall": 0.958904109589041,
+      "f1": 0.963302752293578,
+      "accuracy": 0.9893404397068621
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 499,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 54,
+        "included": 34,
+        "pruned": 20
+      },
+      {
+        "iteration": 2,
+        "evaluated": 183,
+        "included": 131,
+        "pruned": 52
+      },
+      {
+        "iteration": 3,
+        "evaluated": 190,
+        "included": 46,
+        "pruned": 144
+      },
+      {
+        "iteration": 4,
+        "evaluated": 63,
+        "included": 7,
+        "pruned": 56
+      },
+      {
+        "iteration": 5,
+        "evaluated": 7,
+        "included": 0,
+        "pruned": 7
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "plant_health",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/deepseek-v4-pro/plant/zero_shot_meta/subkg_plant_health_NALT_20260713_122326_METRICS.json",
+    "metrics": {
+      "tp": 210,
+      "fp": 22,
+      "fn": 9,
+      "tn": 1260,
+      "n": 1501,
+      "precision": 0.9051724137931034,
+      "recall": 0.958904109589041,
+      "f1": 0.9312638580931264,
+      "accuracy": 0.9793471019320453
+    },
+    "original_predictions_rescored": {
+      "tp": 210,
+      "fp": 22,
+      "fn": 9,
+      "tn": 1260,
+      "n": 1501,
+      "precision": 0.9051724137931034,
+      "recall": 0.958904109589041,
+      "f1": 0.9312638580931264,
+      "accuracy": 0.9793471019320453
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 573,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 54,
+        "included": 39,
+        "pruned": 15
+      },
+      {
+        "iteration": 2,
+        "evaluated": 229,
+        "included": 136,
+        "pruned": 93
+      },
+      {
+        "iteration": 3,
+        "evaluated": 199,
+        "included": 50,
+        "pruned": 149
+      },
+      {
+        "iteration": 4,
+        "evaluated": 59,
+        "included": 8,
+        "pruned": 51
+      },
+      {
+        "iteration": 5,
+        "evaluated": 15,
+        "included": 2,
+        "pruned": 13
+      },
+      {
+        "iteration": 6,
+        "evaluated": 15,
+        "included": 0,
+        "pruned": 15
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "plant_health",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gemini-3.5-flash/plant/zero_shot_manual/subkg_plant_health_NALT_20260713_155226_METRICS.json",
+    "metrics": {
+      "tp": 205,
+      "fp": 3,
+      "fn": 14,
+      "tn": 1279,
+      "n": 1501,
+      "precision": 0.9855769230769231,
+      "recall": 0.9360730593607306,
+      "f1": 0.9601873536299765,
+      "accuracy": 0.988674217188541
+    },
+    "original_predictions_rescored": {
+      "tp": 205,
+      "fp": 3,
+      "fn": 14,
+      "tn": 1279,
+      "n": 1501,
+      "precision": 0.9855769230769231,
+      "recall": 0.9360730593607306,
+      "f1": 0.9601873536299765,
+      "accuracy": 0.988674217188541
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 467,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 54,
+        "included": 34,
+        "pruned": 20
+      },
+      {
+        "iteration": 2,
+        "evaluated": 183,
+        "included": 127,
+        "pruned": 56
+      },
+      {
+        "iteration": 3,
+        "evaluated": 173,
+        "included": 41,
+        "pruned": 132
+      },
+      {
+        "iteration": 4,
+        "evaluated": 48,
+        "included": 7,
+        "pruned": 41
+      },
+      {
+        "iteration": 5,
+        "evaluated": 7,
+        "included": 0,
+        "pruned": 7
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "plant_health",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gemini-3.5-flash/plant/zero_shot_meta/subkg_plant_health_NALT_20260713_213331_METRICS.json",
+    "metrics": {
+      "tp": 211,
+      "fp": 65,
+      "fn": 8,
+      "tn": 1217,
+      "n": 1501,
+      "precision": 0.7644927536231884,
+      "recall": 0.9634703196347032,
+      "f1": 0.8525252525252526,
+      "accuracy": 0.9513657561625583
+    },
+    "original_predictions_rescored": {
+      "tp": 211,
+      "fp": 65,
+      "fn": 8,
+      "tn": 1217,
+      "n": 1501,
+      "precision": 0.7644927536231884,
+      "recall": 0.9634703196347032,
+      "f1": 0.8525252525252526,
+      "accuracy": 0.9513657561625583
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 716,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 54,
+        "included": 37,
+        "pruned": 17
+      },
+      {
+        "iteration": 2,
+        "evaluated": 223,
+        "included": 146,
+        "pruned": 77
+      },
+      {
+        "iteration": 3,
+        "evaluated": 248,
+        "included": 76,
+        "pruned": 172
+      },
+      {
+        "iteration": 4,
+        "evaluated": 131,
+        "included": 22,
+        "pruned": 109
+      },
+      {
+        "iteration": 5,
+        "evaluated": 58,
+        "included": 0,
+        "pruned": 58
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "plant_health",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gpt-5.4-mini/plant/zero_shot_manual/subkg_plant_health_NALT_20260711_192825_METRICS.json",
+    "metrics": {
+      "tp": 207,
+      "fp": 54,
+      "fn": 12,
+      "tn": 1228,
+      "n": 1501,
+      "precision": 0.7931034482758621,
+      "recall": 0.9452054794520548,
+      "f1": 0.8625,
+      "accuracy": 0.9560293137908061
+    },
+    "original_predictions_rescored": {
+      "tp": 207,
+      "fp": 54,
+      "fn": 12,
+      "tn": 1228,
+      "n": 1501,
+      "precision": 0.7931034482758621,
+      "recall": 0.9452054794520548,
+      "f1": 0.8625,
+      "accuracy": 0.9560293137908061
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 660,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 54,
+        "included": 37,
+        "pruned": 17
+      },
+      {
+        "iteration": 2,
+        "evaluated": 189,
+        "included": 137,
+        "pruned": 52
+      },
+      {
+        "iteration": 3,
+        "evaluated": 253,
+        "included": 64,
+        "pruned": 189
+      },
+      {
+        "iteration": 4,
+        "evaluated": 104,
+        "included": 17,
+        "pruned": 87
+      },
+      {
+        "iteration": 5,
+        "evaluated": 47,
+        "included": 8,
+        "pruned": 39
+      },
+      {
+        "iteration": 6,
+        "evaluated": 11,
+        "included": 0,
+        "pruned": 11
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "plant_health",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gpt-5.4-mini/plant/zero_shot_meta/subkg_plant_health_NALT_20260709_150853_METRICS.json",
+    "metrics": {
+      "tp": 214,
+      "fp": 210,
+      "fn": 5,
+      "tn": 1072,
+      "n": 1501,
+      "precision": 0.5047169811320755,
+      "recall": 0.9771689497716894,
+      "f1": 0.6656298600311042,
+      "accuracy": 0.8567621585609594
+    },
+    "original_predictions_rescored": {
+      "tp": 214,
+      "fp": 210,
+      "fn": 5,
+      "tn": 1072,
+      "n": 1501,
+      "precision": 0.5047169811320755,
+      "recall": 0.9771689497716894,
+      "f1": 0.6656298600311042,
+      "accuracy": 0.8567621585609594
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 1330,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 54,
+        "included": 36,
+        "pruned": 18
+      },
+      {
+        "iteration": 2,
+        "evaluated": 203,
+        "included": 145,
+        "pruned": 58
+      },
+      {
+        "iteration": 3,
+        "evaluated": 291,
+        "included": 90,
+        "pruned": 201
+      },
+      {
+        "iteration": 4,
+        "evaluated": 254,
+        "included": 62,
+        "pruned": 192
+      },
+      {
+        "iteration": 5,
+        "evaluated": 290,
+        "included": 65,
+        "pruned": 225
+      },
+      {
+        "iteration": 6,
+        "evaluated": 87,
+        "included": 20,
+        "pruned": 67
+      },
+      {
+        "iteration": 7,
+        "evaluated": 116,
+        "included": 6,
+        "pruned": 110
+      },
+      {
+        "iteration": 8,
+        "evaluated": 31,
+        "included": 3,
+        "pruned": 28
+      },
+      {
+        "iteration": 9,
+        "evaluated": 2,
+        "included": 0,
+        "pruned": 2
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "immunology",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/deepseek-v4-pro/immunology/zero_shot_manual/subkg_immunology_NALT_20260712_222138_METRICS.json",
+    "metrics": {
+      "tp": 216,
+      "fp": 62,
+      "fn": 23,
+      "tn": 574,
+      "n": 875,
+      "precision": 0.7769784172661871,
+      "recall": 0.9037656903765691,
+      "f1": 0.8355899419729207,
+      "accuracy": 0.9028571428571428
+    },
+    "original_predictions_rescored": {
+      "tp": 216,
+      "fp": 62,
+      "fn": 23,
+      "tn": 574,
+      "n": 875,
+      "precision": 0.7769784172661871,
+      "recall": 0.9037656903765691,
+      "f1": 0.8355899419729207,
+      "accuracy": 0.9028571428571428
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 518,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 20,
+        "included": 16,
+        "pruned": 4
+      },
+      {
+        "iteration": 2,
+        "evaluated": 53,
+        "included": 41,
+        "pruned": 12
+      },
+      {
+        "iteration": 3,
+        "evaluated": 149,
+        "included": 100,
+        "pruned": 49
+      },
+      {
+        "iteration": 4,
+        "evaluated": 140,
+        "included": 50,
+        "pruned": 90
+      },
+      {
+        "iteration": 5,
+        "evaluated": 109,
+        "included": 72,
+        "pruned": 37
+      },
+      {
+        "iteration": 6,
+        "evaluated": 40,
+        "included": 10,
+        "pruned": 30
+      },
+      {
+        "iteration": 7,
+        "evaluated": 5,
+        "included": 1,
+        "pruned": 4
+      },
+      {
+        "iteration": 8,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "immunology",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/deepseek-v4-pro/immunology/zero_shot_meta/subkg_immunology_NALT_20260713_002159_METRICS.json",
+    "metrics": {
+      "tp": 165,
+      "fp": 104,
+      "fn": 74,
+      "tn": 532,
+      "n": 875,
+      "precision": 0.6133828996282528,
+      "recall": 0.6903765690376569,
+      "f1": 0.6496062992125984,
+      "accuracy": 0.7965714285714286
+    },
+    "original_predictions_rescored": {
+      "tp": 165,
+      "fp": 104,
+      "fn": 74,
+      "tn": 532,
+      "n": 875,
+      "precision": 0.6133828996282528,
+      "recall": 0.6903765690376569,
+      "f1": 0.6496062992125984,
+      "accuracy": 0.7965714285714286
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 488,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 20,
+        "included": 14,
+        "pruned": 6
+      },
+      {
+        "iteration": 2,
+        "evaluated": 45,
+        "included": 30,
+        "pruned": 15
+      },
+      {
+        "iteration": 3,
+        "evaluated": 101,
+        "included": 61,
+        "pruned": 40
+      },
+      {
+        "iteration": 4,
+        "evaluated": 107,
+        "included": 42,
+        "pruned": 65
+      },
+      {
+        "iteration": 5,
+        "evaluated": 96,
+        "included": 47,
+        "pruned": 49
+      },
+      {
+        "iteration": 6,
+        "evaluated": 61,
+        "included": 49,
+        "pruned": 12
+      },
+      {
+        "iteration": 7,
+        "evaluated": 40,
+        "included": 31,
+        "pruned": 9
+      },
+      {
+        "iteration": 8,
+        "evaluated": 17,
+        "included": 5,
+        "pruned": 12
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "immunology",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gemini-3.5-flash/immunology/zero_shot_manual/subkg_immunology_NALT_20260713_154555_METRICS.json",
+    "metrics": {
+      "tp": 214,
+      "fp": 61,
+      "fn": 25,
+      "tn": 575,
+      "n": 875,
+      "precision": 0.7781818181818182,
+      "recall": 0.895397489539749,
+      "f1": 0.8326848249027238,
+      "accuracy": 0.9017142857142857
+    },
+    "original_predictions_rescored": {
+      "tp": 214,
+      "fp": 61,
+      "fn": 25,
+      "tn": 575,
+      "n": 875,
+      "precision": 0.7781818181818182,
+      "recall": 0.895397489539749,
+      "f1": 0.8326848249027238,
+      "accuracy": 0.9017142857142857
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 501,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 20,
+        "included": 15,
+        "pruned": 5
+      },
+      {
+        "iteration": 2,
+        "evaluated": 46,
+        "included": 36,
+        "pruned": 10
+      },
+      {
+        "iteration": 3,
+        "evaluated": 122,
+        "included": 79,
+        "pruned": 43
+      },
+      {
+        "iteration": 4,
+        "evaluated": 136,
+        "included": 61,
+        "pruned": 75
+      },
+      {
+        "iteration": 5,
+        "evaluated": 118,
+        "included": 70,
+        "pruned": 48
+      },
+      {
+        "iteration": 6,
+        "evaluated": 54,
+        "included": 25,
+        "pruned": 29
+      },
+      {
+        "iteration": 7,
+        "evaluated": 4,
+        "included": 0,
+        "pruned": 4
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "immunology",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gemini-3.5-flash/immunology/zero_shot_meta/subkg_immunology_NALT_20260713_173150_METRICS.json",
+    "metrics": {
+      "tp": 197,
+      "fp": 50,
+      "fn": 42,
+      "tn": 586,
+      "n": 875,
+      "precision": 0.7975708502024291,
+      "recall": 0.8242677824267782,
+      "f1": 0.8106995884773662,
+      "accuracy": 0.8948571428571429
+    },
+    "original_predictions_rescored": {
+      "tp": 197,
+      "fp": 50,
+      "fn": 42,
+      "tn": 586,
+      "n": 875,
+      "precision": 0.7975708502024291,
+      "recall": 0.8242677824267782,
+      "f1": 0.8106995884773662,
+      "accuracy": 0.8948571428571429
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 472,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 20,
+        "included": 15,
+        "pruned": 5
+      },
+      {
+        "iteration": 2,
+        "evaluated": 46,
+        "included": 32,
+        "pruned": 14
+      },
+      {
+        "iteration": 3,
+        "evaluated": 120,
+        "included": 81,
+        "pruned": 39
+      },
+      {
+        "iteration": 4,
+        "evaluated": 124,
+        "included": 48,
+        "pruned": 76
+      },
+      {
+        "iteration": 5,
+        "evaluated": 90,
+        "included": 38,
+        "pruned": 52
+      },
+      {
+        "iteration": 6,
+        "evaluated": 48,
+        "included": 38,
+        "pruned": 10
+      },
+      {
+        "iteration": 7,
+        "evaluated": 22,
+        "included": 4,
+        "pruned": 18
+      },
+      {
+        "iteration": 8,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "immunology",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gpt-5.4-mini/immunology/zero_shot_manual/subkg_immunology_NALT_20260712_011051_METRICS.json",
+    "metrics": {
+      "tp": 215,
+      "fp": 89,
+      "fn": 24,
+      "tn": 547,
+      "n": 875,
+      "precision": 0.7072368421052632,
+      "recall": 0.899581589958159,
+      "f1": 0.7918968692449355,
+      "accuracy": 0.8708571428571429
+    },
+    "original_predictions_rescored": {
+      "tp": 215,
+      "fp": 89,
+      "fn": 24,
+      "tn": 547,
+      "n": 875,
+      "precision": 0.7072368421052632,
+      "recall": 0.899581589958159,
+      "f1": 0.7918968692449355,
+      "accuracy": 0.8708571428571429
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 591,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 20,
+        "included": 14,
+        "pruned": 6
+      },
+      {
+        "iteration": 2,
+        "evaluated": 43,
+        "included": 33,
+        "pruned": 10
+      },
+      {
+        "iteration": 3,
+        "evaluated": 121,
+        "included": 76,
+        "pruned": 45
+      },
+      {
+        "iteration": 4,
+        "evaluated": 126,
+        "included": 63,
+        "pruned": 63
+      },
+      {
+        "iteration": 5,
+        "evaluated": 142,
+        "included": 83,
+        "pruned": 59
+      },
+      {
+        "iteration": 6,
+        "evaluated": 88,
+        "included": 31,
+        "pruned": 57
+      },
+      {
+        "iteration": 7,
+        "evaluated": 23,
+        "included": 3,
+        "pruned": 20
+      },
+      {
+        "iteration": 8,
+        "evaluated": 27,
+        "included": 13,
+        "pruned": 14
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "immunology",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gpt-5.4-mini/immunology/zero_shot_meta/subkg_immunology_NALT_20260706_155045_METRICS.json",
+    "metrics": {
+      "tp": 207,
+      "fp": 146,
+      "fn": 32,
+      "tn": 490,
+      "n": 875,
+      "precision": 0.5864022662889519,
+      "recall": 0.8661087866108786,
+      "f1": 0.6993243243243243,
+      "accuracy": 0.7965714285714286
+    },
+    "original_predictions_rescored": {
+      "tp": 207,
+      "fp": 146,
+      "fn": 32,
+      "tn": 490,
+      "n": 875,
+      "precision": 0.5864022662889519,
+      "recall": 0.8661087866108786,
+      "f1": 0.6993243243243243,
+      "accuracy": 0.7965714285714286
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 673,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 20,
+        "included": 16,
+        "pruned": 4
+      },
+      {
+        "iteration": 2,
+        "evaluated": 47,
+        "included": 36,
+        "pruned": 11
+      },
+      {
+        "iteration": 3,
+        "evaluated": 130,
+        "included": 90,
+        "pruned": 40
+      },
+      {
+        "iteration": 4,
+        "evaluated": 126,
+        "included": 65,
+        "pruned": 61
+      },
+      {
+        "iteration": 5,
+        "evaluated": 203,
+        "included": 76,
+        "pruned": 127
+      },
+      {
+        "iteration": 6,
+        "evaluated": 91,
+        "included": 50,
+        "pruned": 41
+      },
+      {
+        "iteration": 7,
+        "evaluated": 38,
+        "included": 31,
+        "pruned": 7
+      },
+      {
+        "iteration": 8,
+        "evaluated": 15,
+        "included": 1,
+        "pruned": 14
+      },
+      {
+        "iteration": 9,
+        "evaluated": 2,
+        "included": 0,
+        "pruned": 2
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "cell_biology",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/deepseek-v4-pro/cell/zero_shot_manual/subkg_cell_biology_NALT_20260712_222829_METRICS.json",
+    "metrics": {
+      "tp": 311,
+      "fp": 77,
+      "fn": 104,
+      "tn": 813,
+      "n": 1305,
+      "precision": 0.8015463917525774,
+      "recall": 0.7493975903614458,
+      "f1": 0.7745952677459527,
+      "accuracy": 0.8613026819923372
+    },
+    "original_predictions_rescored": {
+      "tp": 311,
+      "fp": 77,
+      "fn": 104,
+      "tn": 813,
+      "n": 1305,
+      "precision": 0.8015463917525774,
+      "recall": 0.7493975903614458,
+      "f1": 0.7745952677459527,
+      "accuracy": 0.8613026819923372
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 891,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 49,
+        "included": 47,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 122,
+        "included": 57,
+        "pruned": 65
+      },
+      {
+        "iteration": 3,
+        "evaluated": 243,
+        "included": 111,
+        "pruned": 132
+      },
+      {
+        "iteration": 4,
+        "evaluated": 197,
+        "included": 75,
+        "pruned": 122
+      },
+      {
+        "iteration": 5,
+        "evaluated": 149,
+        "included": 59,
+        "pruned": 90
+      },
+      {
+        "iteration": 6,
+        "evaluated": 52,
+        "included": 20,
+        "pruned": 32
+      },
+      {
+        "iteration": 7,
+        "evaluated": 43,
+        "included": 11,
+        "pruned": 32
+      },
+      {
+        "iteration": 8,
+        "evaluated": 16,
+        "included": 5,
+        "pruned": 11
+      },
+      {
+        "iteration": 9,
+        "evaluated": 8,
+        "included": 8,
+        "pruned": 0
+      },
+      {
+        "iteration": 10,
+        "evaluated": 6,
+        "included": 1,
+        "pruned": 5
+      },
+      {
+        "iteration": 11,
+        "evaluated": 5,
+        "included": 0,
+        "pruned": 5
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "cell_biology",
+    "model": "deepseek-v4-pro",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260714_144851_METRICS.json",
+    "metrics": {
+      "tp": 301,
+      "fp": 39,
+      "fn": 114,
+      "tn": 851,
+      "n": 1305,
+      "precision": 0.8852941176470588,
+      "recall": 0.7253012048192771,
+      "f1": 0.7973509933774835,
+      "accuracy": 0.8827586206896552
+    },
+    "original_predictions_rescored": {
+      "tp": 301,
+      "fp": 39,
+      "fn": 114,
+      "tn": 851,
+      "n": 1305,
+      "precision": 0.8852941176470588,
+      "recall": 0.7253012048192771,
+      "f1": 0.7973509933774835,
+      "accuracy": 0.8827586206896552
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 780,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 49,
+        "included": 45,
+        "pruned": 4
+      },
+      {
+        "iteration": 2,
+        "evaluated": 114,
+        "included": 47,
+        "pruned": 67
+      },
+      {
+        "iteration": 3,
+        "evaluated": 153,
+        "included": 61,
+        "pruned": 92
+      },
+      {
+        "iteration": 4,
+        "evaluated": 123,
+        "included": 57,
+        "pruned": 66
+      },
+      {
+        "iteration": 5,
+        "evaluated": 156,
+        "included": 59,
+        "pruned": 97
+      },
+      {
+        "iteration": 6,
+        "evaluated": 84,
+        "included": 19,
+        "pruned": 65
+      },
+      {
+        "iteration": 7,
+        "evaluated": 49,
+        "included": 31,
+        "pruned": 18
+      },
+      {
+        "iteration": 8,
+        "evaluated": 34,
+        "included": 15,
+        "pruned": 19
+      },
+      {
+        "iteration": 9,
+        "evaluated": 14,
+        "included": 12,
+        "pruned": 2
+      },
+      {
+        "iteration": 10,
+        "evaluated": 3,
+        "included": 0,
+        "pruned": 3
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "cell_biology",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gemini-3.5-flash/cell/zero_shot_manual/subkg_cell_biology_NALT_20260713_154930_METRICS.json",
+    "metrics": {
+      "tp": 287,
+      "fp": 52,
+      "fn": 128,
+      "tn": 838,
+      "n": 1305,
+      "precision": 0.8466076696165191,
+      "recall": 0.691566265060241,
+      "f1": 0.7612732095490716,
+      "accuracy": 0.8620689655172413
+    },
+    "original_predictions_rescored": {
+      "tp": 287,
+      "fp": 52,
+      "fn": 128,
+      "tn": 838,
+      "n": 1305,
+      "precision": 0.8466076696165191,
+      "recall": 0.691566265060241,
+      "f1": 0.7612732095490716,
+      "accuracy": 0.8620689655172413
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 772,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 49,
+        "included": 47,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 122,
+        "included": 51,
+        "pruned": 71
+      },
+      {
+        "iteration": 3,
+        "evaluated": 204,
+        "included": 93,
+        "pruned": 111
+      },
+      {
+        "iteration": 4,
+        "evaluated": 182,
+        "included": 78,
+        "pruned": 104
+      },
+      {
+        "iteration": 5,
+        "evaluated": 139,
+        "included": 55,
+        "pruned": 84
+      },
+      {
+        "iteration": 6,
+        "evaluated": 55,
+        "included": 15,
+        "pruned": 40
+      },
+      {
+        "iteration": 7,
+        "evaluated": 15,
+        "included": 2,
+        "pruned": 13
+      },
+      {
+        "iteration": 8,
+        "evaluated": 2,
+        "included": 2,
+        "pruned": 0
+      },
+      {
+        "iteration": 9,
+        "evaluated": 3,
+        "included": 0,
+        "pruned": 3
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "cell_biology",
+    "model": "gemini-3.5-flash",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gemini-3.5-flash/cell/zero_shot_meta/subkg_cell_biology_NALT_20260714_182323_METRICS.json",
+    "metrics": {
+      "tp": 286,
+      "fp": 29,
+      "fn": 129,
+      "tn": 861,
+      "n": 1305,
+      "precision": 0.9079365079365079,
+      "recall": 0.689156626506024,
+      "f1": 0.7835616438356164,
+      "accuracy": 0.878927203065134
+    },
+    "original_predictions_rescored": {
+      "tp": 286,
+      "fp": 29,
+      "fn": 129,
+      "tn": 861,
+      "n": 1305,
+      "precision": 0.9079365079365079,
+      "recall": 0.689156626506024,
+      "f1": 0.7835616438356164,
+      "accuracy": 0.878927203065134
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 748,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 49,
+        "included": 46,
+        "pruned": 3
+      },
+      {
+        "iteration": 2,
+        "evaluated": 120,
+        "included": 44,
+        "pruned": 76
+      },
+      {
+        "iteration": 3,
+        "evaluated": 146,
+        "included": 52,
+        "pruned": 94
+      },
+      {
+        "iteration": 4,
+        "evaluated": 119,
+        "included": 56,
+        "pruned": 63
+      },
+      {
+        "iteration": 5,
+        "evaluated": 130,
+        "included": 43,
+        "pruned": 87
+      },
+      {
+        "iteration": 6,
+        "evaluated": 53,
+        "included": 15,
+        "pruned": 38
+      },
+      {
+        "iteration": 7,
+        "evaluated": 37,
+        "included": 17,
+        "pruned": 20
+      },
+      {
+        "iteration": 8,
+        "evaluated": 27,
+        "included": 12,
+        "pruned": 15
+      },
+      {
+        "iteration": 9,
+        "evaluated": 19,
+        "included": 17,
+        "pruned": 2
+      },
+      {
+        "iteration": 10,
+        "evaluated": 39,
+        "included": 13,
+        "pruned": 26
+      },
+      {
+        "iteration": 11,
+        "evaluated": 7,
+        "included": 5,
+        "pruned": 2
+      },
+      {
+        "iteration": 12,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "cell_biology",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_manual",
+    "source": "usecase/results/gpt-5.4-mini/cell/zero_shot_manual/subkg_cell_biology_NALT_20260711_192658_METRICS.json",
+    "metrics": {
+      "tp": 295,
+      "fp": 87,
+      "fn": 120,
+      "tn": 803,
+      "n": 1305,
+      "precision": 0.7722513089005235,
+      "recall": 0.7108433734939759,
+      "f1": 0.740276035131744,
+      "accuracy": 0.8413793103448276
+    },
+    "original_predictions_rescored": {
+      "tp": 295,
+      "fp": 87,
+      "fn": 120,
+      "tn": 803,
+      "n": 1305,
+      "precision": 0.7722513089005235,
+      "recall": 0.7108433734939759,
+      "f1": 0.740276035131744,
+      "accuracy": 0.8413793103448276
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 933,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 49,
+        "included": 47,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 112,
+        "included": 45,
+        "pruned": 67
+      },
+      {
+        "iteration": 3,
+        "evaluated": 187,
+        "included": 77,
+        "pruned": 110
+      },
+      {
+        "iteration": 4,
+        "evaluated": 183,
+        "included": 65,
+        "pruned": 118
+      },
+      {
+        "iteration": 5,
+        "evaluated": 164,
+        "included": 70,
+        "pruned": 94
+      },
+      {
+        "iteration": 6,
+        "evaluated": 108,
+        "included": 34,
+        "pruned": 74
+      },
+      {
+        "iteration": 7,
+        "evaluated": 75,
+        "included": 27,
+        "pruned": 48
+      },
+      {
+        "iteration": 8,
+        "evaluated": 35,
+        "included": 10,
+        "pruned": 25
+      },
+      {
+        "iteration": 9,
+        "evaluated": 9,
+        "included": 3,
+        "pruned": 6
+      },
+      {
+        "iteration": 10,
+        "evaluated": 4,
+        "included": 3,
+        "pruned": 1
+      },
+      {
+        "iteration": 11,
+        "evaluated": 5,
+        "included": 5,
+        "pruned": 0
+      },
+      {
+        "iteration": 12,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  },
+  {
+    "branch": "cell_biology",
+    "model": "gpt-5.4-mini",
+    "mode": "zero_shot_meta",
+    "source": "usecase/results/gpt-5.4-mini/cell/zero_shot_meta/subkg_cell_biology_NALT_20260702_223335_METRICS.json",
+    "metrics": {
+      "tp": 275,
+      "fp": 86,
+      "fn": 140,
+      "tn": 804,
+      "n": 1305,
+      "precision": 0.7617728531855956,
+      "recall": 0.6626506024096386,
+      "f1": 0.7087628865979382,
+      "accuracy": 0.8268199233716476
+    },
+    "original_predictions_rescored": {
+      "tp": 275,
+      "fp": 86,
+      "fn": 140,
+      "tn": 804,
+      "n": 1305,
+      "precision": 0.7617728531855956,
+      "recall": 0.6626506024096386,
+      "f1": 0.7087628865979382,
+      "accuracy": 0.8268199233716476
+    },
+    "scored_inclusions_lost_after_mask": 0,
+    "replayed_visited": 914,
+    "iterations": [
+      {
+        "iteration": 1,
+        "evaluated": 49,
+        "included": 47,
+        "pruned": 2
+      },
+      {
+        "iteration": 2,
+        "evaluated": 112,
+        "included": 47,
+        "pruned": 65
+      },
+      {
+        "iteration": 3,
+        "evaluated": 189,
+        "included": 73,
+        "pruned": 116
+      },
+      {
+        "iteration": 4,
+        "evaluated": 140,
+        "included": 61,
+        "pruned": 79
+      },
+      {
+        "iteration": 5,
+        "evaluated": 163,
+        "included": 63,
+        "pruned": 100
+      },
+      {
+        "iteration": 6,
+        "evaluated": 109,
+        "included": 32,
+        "pruned": 77
+      },
+      {
+        "iteration": 7,
+        "evaluated": 109,
+        "included": 23,
+        "pruned": 86
+      },
+      {
+        "iteration": 8,
+        "evaluated": 25,
+        "included": 8,
+        "pruned": 17
+      },
+      {
+        "iteration": 9,
+        "evaluated": 8,
+        "included": 5,
+        "pruned": 3
+      },
+      {
+        "iteration": 10,
+        "evaluated": 8,
+        "included": 6,
+        "pruned": 2
+      },
+      {
+        "iteration": 11,
+        "evaluated": 1,
+        "included": 0,
+        "pruned": 1
+      }
+    ],
+    "interpretation": "cached LLM judgments replayed under common mask; no new provider calls"
+  }
+]
