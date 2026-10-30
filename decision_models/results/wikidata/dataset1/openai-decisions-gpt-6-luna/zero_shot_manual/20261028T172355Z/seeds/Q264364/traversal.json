@@ -1,0 +1,68 @@
+{
+  "seed_qid": "Q264364",
+  "seed_label": "Common Gateway Interface",
+  "included_qids": [
+    "Q11016",
+    "Q264364"
+  ],
+  "pruned_qids": [
+    "Q1001378",
+    "Q10952243",
+    "Q12739",
+    "Q1415656",
+    "Q19292902",
+    "Q211017",
+    "Q23001701",
+    "Q348091",
+    "Q54006339",
+    "Q56297438",
+    "Q6764311",
+    "Q6887246",
+    "Q6941971",
+    "Q743030",
+    "Q7449091",
+    "Q911772"
+  ],
+  "visited_qids": [
+    "Q1001378",
+    "Q10952243",
+    "Q11016",
+    "Q12739",
+    "Q1415656",
+    "Q19292902",
+    "Q211017",
+    "Q23001701",
+    "Q264364",
+    "Q348091",
+    "Q54006339",
+    "Q56297438",
+    "Q6764311",
+    "Q6887246",
+    "Q6941971",
+    "Q743030",
+    "Q7449091",
+    "Q911772"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 16,
+      "included": 0,
+      "excluded": 16,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:36.518811+00:00",
+  "finished_at_utc": "2026-10-28T17:24:37.088915+00:00",
+  "wall_seconds": 0.5701019999978598,
+  "frontier_exhausted": true
+}

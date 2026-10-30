@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3266",
+    "legacy_row_id": "Q55692|Q756230",
+    "seed_qid": "Q55692",
+    "seed_label": "Active Directory",
+    "qid": "Q756230",
+    "label": "directory service",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q55692",
+    "parent_label": "Active Directory",
+    "path": "Active Directory --instance of--> directory service",
+    "uri": "http://www.wikidata.org/entity/Q756230",
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

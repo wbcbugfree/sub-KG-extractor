@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q280761",
+  "seed_label": "Windows Media Video",
+  "included_qids": [
+    "Q26085352",
+    "Q280761"
+  ],
+  "pruned_qids": [
+    "Q17154458",
+    "Q18155479"
+  ],
+  "visited_qids": [
+    "Q17154458",
+    "Q18155479",
+    "Q26085352",
+    "Q280761"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 0,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:59.262002+00:00",
+  "finished_at_utc": "2026-10-28T17:43:59.874654+00:00",
+  "wall_seconds": 0.6126499999954831,
+  "frontier_exhausted": true
+}

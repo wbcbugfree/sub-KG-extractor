@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q379626",
+  "seed_label": "Advanced Message Queuing Protocol",
+  "included_qids": [
+    "Q15087423",
+    "Q15836568",
+    "Q379626",
+    "Q8777"
+  ],
+  "pruned_qids": [
+    "Q20665104",
+    "Q2164287",
+    "Q25670"
+  ],
+  "visited_qids": [
+    "Q15087423",
+    "Q15836568",
+    "Q20665104",
+    "Q2164287",
+    "Q25670",
+    "Q379626",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 1,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:09.567102+00:00",
+  "finished_at_utc": "2026-10-28T16:42:10.233511+00:00",
+  "wall_seconds": 0.6664000999880955,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1429",
+    "legacy_row_id": "Q152763|Q56256173",
+    "seed_qid": "Q152763",
+    "seed_label": "lithium compounds",
+    "qid": "Q56256173",
+    "label": "class of chemical compounds with similar applications or functions",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q152763",
+    "parent_label": "lithium compounds",
+    "path": "lithium compounds --instance of--> class of chemical compounds with similar applications or functions",
+    "uri": "http://www.wikidata.org/entity/Q56256173",
+    "classification": "INCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.57,
+    "p_exclude": 0.43,
+    "selected_probability": 0.57,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

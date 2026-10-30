@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q212633",
+  "seed_label": "H.264/MPEG-4 AVC",
+  "included_qids": [
+    "Q1206939",
+    "Q1562489",
+    "Q212633",
+    "Q55935585",
+    "Q7927899"
+  ],
+  "pruned_qids": [
+    "Q25388255",
+    "Q300851",
+    "Q55936923",
+    "Q731128"
+  ],
+  "visited_qids": [
+    "Q1206939",
+    "Q1562489",
+    "Q212633",
+    "Q25388255",
+    "Q300851",
+    "Q55935585",
+    "Q55936923",
+    "Q731128",
+    "Q7927899"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 2,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:39.923064+00:00",
+  "finished_at_utc": "2026-10-28T17:45:40.875652+00:00",
+  "wall_seconds": 0.952594800008228,
+  "frontier_exhausted": true
+}

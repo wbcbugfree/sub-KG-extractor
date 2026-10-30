@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1423",
+    "legacy_row_id": "Q77590|Q627436",
+    "seed_qid": "Q77590",
+    "seed_label": "civil engineering",
+    "qid": "Q627436",
+    "label": "field of work",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q77590",
+    "parent_label": "civil engineering",
+    "path": "civil engineering --instance of--> field of work",
+    "uri": "http://www.wikidata.org/entity/Q627436",
+    "classification": "INCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.6,
+    "p_exclude": 0.4,
+    "selected_probability": 0.6,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "seed_qid": "Q41609",
+  "seed_label": "Domain Name System Security Extensions",
+  "included_qids": [
+    "Q2101564",
+    "Q41609"
+  ],
+  "pruned_qids": [
+    "Q2275513"
+  ],
+  "visited_qids": [
+    "Q2101564",
+    "Q2275513",
+    "Q41609"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:11.048714+00:00",
+  "finished_at_utc": "2026-10-28T16:42:11.659730+00:00",
+  "wall_seconds": 0.611016999988351,
+  "frontier_exhausted": true
+}

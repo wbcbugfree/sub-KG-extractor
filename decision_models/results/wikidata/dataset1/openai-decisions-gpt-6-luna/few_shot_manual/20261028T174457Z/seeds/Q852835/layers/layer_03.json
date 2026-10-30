@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2867",
+    "legacy_row_id": "Q852835|Q54287532",
+    "seed_qid": "Q852835",
+    "seed_label": "customer",
+    "qid": "Q54287532",
+    "label": "child role",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q1707847",
+    "parent_label": "role",
+    "path": "customer --instance of--> role --has subclass--> role --has subclass--> child role",
+    "uri": "http://www.wikidata.org/entity/Q54287532",
+    "classification": "INCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.6,
+    "p_exclude": 0.4,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

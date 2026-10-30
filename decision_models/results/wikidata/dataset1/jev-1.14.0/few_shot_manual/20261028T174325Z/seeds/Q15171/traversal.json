@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q15171",
+  "seed_label": "Address Resolution Protocol",
+  "included_qids": [
+    "Q15171",
+    "Q15836568"
+  ],
+  "pruned_qids": [
+    "Q1422324",
+    "Q2622793",
+    "Q28380029",
+    "Q290378",
+    "Q3359815",
+    "Q5013874",
+    "Q8777"
+  ],
+  "visited_qids": [
+    "Q1422324",
+    "Q15171",
+    "Q15836568",
+    "Q2622793",
+    "Q28380029",
+    "Q290378",
+    "Q3359815",
+    "Q5013874",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 0,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:38.319524+00:00",
+  "finished_at_utc": "2026-10-28T17:43:39.047871+00:00",
+  "wall_seconds": 0.7283469999965746,
+  "frontier_exhausted": true
+}

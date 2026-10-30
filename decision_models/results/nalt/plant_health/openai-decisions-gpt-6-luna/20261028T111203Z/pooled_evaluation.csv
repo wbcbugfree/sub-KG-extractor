@@ -1,0 +1,756 @@
+uri,prefLabel,gold_include,visited,final_classification,model_classification,decision_source,p_include,p_exclude
+https://lod.nal.usda.gov/nalt/10052,anthracnose,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/10053,fungal diseases of plants,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/10095,disturbed soils,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/10142,anti-infective properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/10180,resistance mechanisms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10363,neoplasm antigens,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10478,chemical constituents of plants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10499,parasitoses,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/106,birds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/106009,phytophagous mites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/10685,Hoplolaimidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/10687,Aphelenchidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/10689,soil nematodes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/10691,Aphelenchoididae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/11,salts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11130,Clavibacter michiganensis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/11242,apoptosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11245,cell death,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11246,DNA fragmentation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11247,hypersensitive response,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11295,Venturia inaequalis,False,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/11308,apples,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/11311,bitter pit,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/11341,inoculation methods,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/11357,fertilizer application,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1139,cold injury,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/114,biological resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/1140,heat injury,False,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/1141,mechanical damage,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/1142,radiation injury,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/1149,nematology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/1223,16SrI (Aster yellows group),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1227,Aster yellows phytoplasma,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/123241,root crown,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/124234,Graphocephala atropunctata,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/12561,Potyvirus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/12578,defoliation,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/1258,16SrIV (Coconut lethal yellows group),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/1260,Carludovica palmata leaf yellowing phytoplasma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1261,Coconut lethal yellowing phytoplasma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1262,Yucatan coconut lethal decline phytoplasma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/126484,Moniliophthora perniciosa,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/127,senescence (aging),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/127300,"Forestry, Wildland Management",False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/127307,"Plant Production, Gardening",False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/127308,"Research, Technology, Methods",False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/127706,sugarcane byproducts,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/1290,Candidatus Phytoplasma mali,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/12935,Diaphorina citri,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/131694,leaf galls,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/13231,aster yellows,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/13232,phytoplasmal diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/132404,uterine neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/13555,Heteroderidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/136,cold tolerance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/13656,storms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/13658,meteorological parameters,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136653,caspases,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136654,caspase-1,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136660,caspase-2,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136662,caspase-3,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136664,caspase-4,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136666,caspase-5,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136667,caspase-7,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136669,caspase-6,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136671,caspase-8,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136674,caspase-9,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136675,caspase-10,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136677,caspase-11,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136679,caspase-12,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136950,etiological agents,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/137,drought tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/138193,forest restoration,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/139,flooding tolerance,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/140,heat tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/14074,tropisms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/141,lodging resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/142532,plant disease resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/144670,windthrow,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/145,salt tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/14615,Erwinia amylovora,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/146596,unfolded protein response,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146600,stress response,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/146609,girdling,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/150,decay resistance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15086,plant pathogenic bacteria,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/15089,seed-borne bacteria,False,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/15131,bacterial diseases of plants,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/15134,plant diseases and disorders,True,True,INCLUDE,,seed,,
+https://lod.nal.usda.gov/nalt/15135,bacterial wetwood,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/15136,bacterial wilt,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/15137,citrus variegated chlorosis,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/15138,Pierce's disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/15139,ratoon stunting disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/15140,yellow vine disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/15154,infectious diseases,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/15211,Enterobacter nimipressuralis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/15212,wetwood,False,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/15216,vascular wilt,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/15217,Clavibacter,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/15218,Corynebacterium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/15219,Erwinia,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/15220,Pseudomonas,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/154508,actinorhizae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/158,hypothermia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15852,Hordeum vulgare,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/16,crop production,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/162,botany,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/16204,beans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/16338,Beet necrotic yellow vein virus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/16539,Belonolaimidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/16721,citrus fruits,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/17220,biopesticides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/173,chemical analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1730,cold stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1731,heat stress,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/1732,salt stress,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/17320,white-rot fungi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1733,water stress,False,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/1734,mechanical stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17346,molecular farming,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/17374,food spoilage,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17456,induced resistance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17515,biosecurity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17518,crop biosecurity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/1757,behavior disorders,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17678,fruit diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/17679,plant nutrition,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/17811,black Sigatoka,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/17812,Mycosphaerella fijiensis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/17904,blast disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/17905,Magnaporthe grisea,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/17980,decolorization,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18026,leaf blight,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1823,leaf abscission,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/18240,blue-stain fungi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18245,stain fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/18644,forests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/18657,boring insects,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/187953,head blight,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/18851,Botrytis cinerea,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/18857,Phytophthora infestans,False,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/188614,head rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/189055,stem rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/189057,crown rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/189059,leaf rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/189519,wood degradation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/18968,genetic disorders,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/190065,zebra chip disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/19257,stems,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/19272,wood,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/192970,cobweb disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/193011,winterkill,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/19478,cabbage,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/196151,agroinfiltration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/196168,blister rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/196169,white pine blister rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/196205,silver scurf,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/196568,biotic stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/198218,leaf rolling,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/198220,leaf curling,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/198222,thermal stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/198272,pancreatic neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/198731,orange rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/198745,Ophiosphaerella,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/198746,spring dead spot,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/198760,black point disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/19967,ergot alkaloids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/20,plant cultural practices,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/200534,Magnaporthe oryzae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/20087,brown-rot fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/20101,decay fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/20122,browsing,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/20170,bruising (plant),True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/20174,postharvest injuries,True,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/20266,plant growth,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/202739,kidney neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/203547,Dickeya,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/20440,seeds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/20571,economic analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/206099,autophagy,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/206247,osmotic stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/20642,Juglans cinerea,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/206431,heart rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/20670,Buxus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/2069,mites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/208418,rhizomania,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/209762,ear blight,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21,soil management,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/210116,lignotubers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/210530,elicitors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/210908,stripe rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/211611,odontogenic neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/212103,Ustilaginoidea virens,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/212254,Puccinia striiformis f. tritici,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/212514,Raffaelea,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/21389,Criconematidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/214239,almond leaf scorch,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/214273,wildfire disease,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/214740,Swiss needle cast,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/214741,Phaeocryptopus gaeumannii,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/216696,chocolate spot disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/216769,urinary bladder neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/218,defoliants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/21812,Candidatus Liberibacter,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/21818,greening disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/21832,sugarcane,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/218474,fungal brown spot,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/21882,stem cankers,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/220318,storm damage,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/220319,wind damage,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/220990,bull's eye rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/222118,bacterial ring rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/222403,bud sport,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/22355,carcinogenesis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/226165,snow blight,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/226178,buckeye rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/226534,hollow heart,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/22739,pecans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/227578,Fusicladium caryigenum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/228109,gray mold,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/228473,Ophiognomonia clavigignenti-juglandacearum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/22867,Castanea sativa,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/232248,cell cycle checkpoints,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/23356,cell physiology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23357,cell proliferation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/233847,physical phenomena,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/234078,Cicadulina bipunctata,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/234477,predatory fungi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/234504,Plenodomus biglobosus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/2350,bacteria,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/235049,black root rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/23541,pulp,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/235607,clubroot,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/23775,Gaeumannomyces graminis var. tritici,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/23905,Bretziella fagacearum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/23908,Ceratocystis ulmi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/239502,Pratylenchus loosi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/24011,Cercospora,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/24019,Cercospora sojina,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/24020,Cercospora zeae-maydis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/24025,frogeye leaf spot,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/24096,seed certification,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/241657,skin neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24287,Thielaviopsis basicola,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/243125,laryngeal neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/243166,splenic neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/246543,neoplasm cells,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24679,photochemical reactions,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24692,saline soils,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/24785,Cryphonectria parasitica,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/248017,Elsinoe batatas,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/248038,sweet potato scab,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/248052,grey leaf spot disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/24945,chilling injury,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/250627,bacterial canker,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/25275,chlamydospores,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/253146,hail nets,False,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/25331,sodium chloride,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/259065,Guignardia citricarpa,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/259605,Fusarium mangiferae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/261791,lipotoxicity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/261837,tumor suppressor protein p53,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/261849,pro-apoptotic proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/262793,zonate leaf spot,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/262795,yellow Sigatoka,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/263008,coffee berry disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/263009,Colletotrichum kahawae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/263011,black shank disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/264095,death domain receptors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/264819,cell senescence,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26543,fruit peels,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/26546,Ophiovirus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26552,tangerines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/26573,Xylella fastidiosa,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/266327,net blotch,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/266495,Blueberry mosaic associated virus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/266497,blueberry mosaic disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/26713,Leifsonia xyli subsp. xyli,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/26718,Claviceps purpurea,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/26720,ergot,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/26724,Hypomyces,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/26788,congenital abnormalities,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26854923,diseases and disorders (animal and human),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2715,environmental degradation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/273869,false smut,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/273881,head and neck neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/274127,soybean sudden death syndrome,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/27566,Theobroma cacao,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/27573,lethal yellowing,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/276071,gall-inducing insects,False,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/27703,coffee beans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/277273,cold shock response,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/27767,cold,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/27771,frost injury,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/27790,frost resistance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/277933,charcoal rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/278068,maize wallaby ear disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/278493,conidiomata,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/278557,cisgenes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/278562,cisgenic plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/278612,intragenic plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/27940,Colletotrichum acutatum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/28019,color,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28021,discoloration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/281119,Irish potato famine,False,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/281632,Ophiostoma novo-ulmi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/28171,smut diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/284231,leaf wetness,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/28532,conifers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/28535,conifer needles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/28537,leaves,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/285882,bean rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/2862,metabolic diseases,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/286248,digestive system neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/286567,mango malformation disease,True,True,INCLUDE,INCLUDE,openai_decisions,1.0,0.0
+https://lod.nal.usda.gov/nalt/288429,citrus black spot,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/290,disease control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/290721,pod rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/290725,frosty pod rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/29137,Zea mays,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/291549,hyponasty,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/292365,blackleg of crucifers,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/292378,blackleg of potato,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/298654,fungicide use reduction,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/298985,endoplasmic reticulum stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/300222,brain neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30063,Cristulariella,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/300759,Armillaria root rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/300802,beech bark disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/30097,Cronartium comandrae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/300977,browse plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/30099,Cronartium fusiforme,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/301007,browsing damage,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/30101,Cronartium ribicola,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/30113,crop damage,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/30114,crop losses,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30115,economic threshold,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30118,crop entomology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/301230,ceratoulmin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/30125,crop insurance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30128,disaster assistance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30138,fertilizer requirements,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/301428,frost protection,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30154,plant protection,True,True,INCLUDE,,seed,,
+https://lod.nal.usda.gov/nalt/301610,fusiform rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/301719,agricultural productivity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/301857,terminal crook disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/302009,debarking,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/302024,disturbed land,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/302040,dendroecology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/302120,drought injury,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302253,foliage plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/302255,plant analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302256,leaf analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30260,crown galls,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/30264,crown rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/30265,plant rots,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/30451,crystal proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/304866,pollen analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/305450,rain damage,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/305525,regeneration surveys,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/305566,residual forests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/305617,butt rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/305693,wood dust,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306664,seed damage,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/306694,seed pests,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/306705,seed-borne organisms,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/306719,salt injury,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306766,laurel wilt,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/306883,phyllody,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/307372,necroptosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/307841,olive knot disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/30828,postharvest treatment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/308281,sudden oak death,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/3096,Arecaceae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/309987,muck soils,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/310250,Panama disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/310277,apple proliferation disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/311283,Texas Phoenix palm decline,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/312566,sugarcane rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/312568,orange rust of sugarcane,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/312908,Podosphaera macularis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/31320,cyst nematodes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/313483,osteonecrosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/314192,defoliating insects,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/314221,nursery pests,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/314238,cone and seed pests,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/314552,plant nutrient resorption,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/314628,wood spalting,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/314630,spalting fungi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/315576,stem blight,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/315580,gummy stem blight,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/316252,brown rot disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/316276,seed rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/316281,black pod rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/316327,acute oak decline,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/316342,corn rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/316344,Southern corn rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/31674,trampling damage,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/31687,damping off,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/31688,seedling diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/316946,cancer vaccines,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/317772,glioma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31862,mortality,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31897,soft-rot fungi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31898,decayed wood,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31899,plant pathogenic fungi,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/319,pathological processes and conditions,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31900,postharvest diseases,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/31919,decline,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/31920,forest decline,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/31997,herbivores,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/31998,leaf area,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/32028,desiccation (plant physiology),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/32062,Neotylenchidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/322,diseases and disorders (animals and humans),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/323613,postharvest storage,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/323679,ustiloxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/323686,rice false smut,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/32390,Fusarium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/324036,Alternaria arborescens,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/324041,gangrene,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/324042,Phoma leaf spot disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/324046,Phoma stem canker disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/325,animal injuries,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/325534,bacterial soft rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/326052,bacterial leaf streak,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/326984,citrus canker,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/326991,Xanthomonas axonopodis pv. aurantifolii,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/32790,storage quality,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/327976,pyroptosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/328473,rhizome rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/330,noninfectious diseases,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/330897,karnal bunt,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/331424,bacterial speck,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/331426,tomato bacterial speck,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/331445,internal browning,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/331461,antibrowning agents,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/3317,Lauraceae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/332093,oleocellosis,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/33319,die-off,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/33321,fish kills,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/333384,bud galls,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/33355,water deprivation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/334024,specific leaf area,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334025,leaf dry matter content,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334036,specific leaf weight,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334053,leaf nitrogen content,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334648,stripe rust of wheat,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/334649,stripe rust of barley,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/334656,Puccinia striiformis f. hordei,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/335198,weather fleck,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/336987,Calonectria pseudonaviculata,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/336998,boxwood blight,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/336999,Calonectria henricotiae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/337007,Pseudonectria buxi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/337056,butternut canker,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/337417,sharka disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/339082,laminated root rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/339098,Lophodermium needle cast,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/339101,comandra blister rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/33990,drought,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/34000,photoyellowing,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34011,pest management,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/340145,cercosporiosis,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/34027,metastasis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/340356,oak wilt,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/34051,gene-for-gene relationship,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/341161,rice grain yellowing,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/341214,fig endosepsis,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/341741,ink disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/342466,cedar apple rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/342641,bacterial brown spot,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/34329,Glycine max,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/343376,Alternaria brown spot,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/343715,potato blight,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/34433,Pseudotsuga menziesii,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/34450,downy mildew,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/34451,mildews,False,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/34627,plant-water relations,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/34954,dwarfing,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/34962,growth retardation,False,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/35078,ear rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/35113,soil-plant interactions,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35802,mycorrhizae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35861,edible vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/35864,transgenic plants,False,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/36798,embolism,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/37050,endomycorrhizae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37053,endoparasites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/37056,endophytes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/37057,seed-borne fungi,False,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/37062,endoplasmic reticulum,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37258,Pectobacterium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/3816,antineoplastic agents,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/38705,Prunus domestica,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/39335,Quercus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/39377,wheat,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/39451,famine,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/39933,fertilizer injury,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/40096,figs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/40141,Tylenchidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/40266,fire scars,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/40586,flooded conditions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/40782,foliar diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/41082,foot rot (plant),True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/41127,forest damage,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/41128,forest health,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/41129,tree damage,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/41131,forest trees,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/41132,tree diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/41137,forest pests,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41149,forest insects,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/41620,frost,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41656,fruit crops,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/41694,pods,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/41782,pycnidia,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/41791,fungal wilt,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/41792,powdery mildew,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/41793,rust diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/41794,snow molds,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/41795,sooty molds,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/41796,take-all disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/41813,Fusarium wilt,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/41814,Verticillium wilt,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/41816,molds (fungi),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/41837,sapstain fungi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41933,scab diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/41947,Fusarium oxysporum f. sp. cubense,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/42041,recombinant fusion proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/42121,Gaeumannomyces graminis var. graminis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/42221,root galls,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/42222,stem galls,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/42607,transgenes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/42644,genetic transformation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/4265,decision making,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/43085,Gloeocercospora sorghi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/43567,Paratylenchidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/4405,product quality,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/44114,gummosis,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/44138,Gymnosporangium juniperi-virginianae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/4425,roots,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/44297,hail,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/4446,Pucciniales,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/45009,Helminthosporium solani,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/45182,mycoherbicides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/45292,phytophagous insects,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/45608,Pratylenchidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/46060,Rosa,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/4628,organisms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/46558,hyperhydricity,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/46559,water uptake,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/46600,pathogenesis-related proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46601,systemic acquired resistance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46703,Verticillium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/46824,ice damage,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/47227,infarction,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47422,insecticidal properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/47436,leafrollers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/47629,Ipomoea batatas,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/47647,sweet potatoes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/4824,Citrus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/495,fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/49776,Plenodomus lingam,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/4983,Armillaria,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/49832,root lesion nematodes,False,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/50041,photostability,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50493,Pinus taeda,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/50508,lodging,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/50574,Longidoridae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/50627,Lophodermium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/50832,tomatoes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/51068,Macrophomina phaseolina,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/51389,Mangifera indica,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/52045,Meloidogyne,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/52046,Meloidogynidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/52055,root-knot nematodes,False,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/52184,ring nematodes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/52232,obesity-related diseases,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/52292,wind,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/53264,mollusc control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/53265,slugs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/53266,snails,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/53334,Moniliophthora roreri,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/53414,Trichodoridae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/5404,plant care equipment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/54135,Mycosphaerella musicola,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/5414,nutrient management,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5431,economic outlook and situation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/54365,nastic movement,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/54461,Nectria coccinea,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/54523,Tylenchulidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/54592,warts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/54612,Tilletia indica,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/5537,Agrobacterium radiobacter,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/55446,nutrient solutions,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/55875,onion yellows,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/5621,leafminers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/56277,Oryza sativa,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/5631,plant breeding,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/56337,osmotic pressure,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/57067,plant pathogens,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/57491,wilting point,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/57515,Phytophthora,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/57662,Phakopsora pachyrhizi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/58,Nematoda,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/58067,salinity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/58153,Phytophthora nicotianae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/58154,Phytophthora palmivora,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/58156,Phytophthora ramorum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/5845,pollution,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/58565,replant disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/58566,root diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/58567,rose rosette disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/58568,scald diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/58569,seed-borne diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/58570,soil-borne diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/58571,woolliness,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/58596,plant pathology,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/58597,tree mortality,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/58605,tree nutrition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/58608,seed pathology,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/58609,postharvest physiology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/58620,virus-free plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/58628,stumps,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/58631,root rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/58632,stem rot,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/58701,Plasmodiophora brassicae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/58800,Pleospora,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/58801,Pleospora betae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/58803,Venturia (Pleosporales),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/58850,Plum pox virus,False,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/59358,postharvest losses,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59360,postharvest systems,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/59404,potatoes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/59405,Solanum tuberosum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/59508,Pratylenchus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/59536,rain,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/60202,Pseudomonas syringae pv. tabaci,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6025,Albugo,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/6026,Peronosporales,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/60304,Pseudomonas syringae pv. savastanoi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/60329,Pseudomonas syringae pv. tomato,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/60484,Puccinia,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/60496,Puccinia polysora,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/60498,Puccinia recondita,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/60500,Puccinia striiformis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/60624,Pyrenophora teres,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/61276,rhizomes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/62719,winter,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/64225,storage temperature,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/6555,hypersensitivity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6585,Brassicaceae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/66764,Uromyces,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/6700,growth and development,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/6737,Cynipidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/67485,Xanthomonas axonopodis pv. citri,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/6768,almonds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/67851,fruit cracking,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/67893,disease-free plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/68066,wet deposition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/68395,plant-incorporated protectants,False,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/68414,urban horticulture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/69021,snow damage,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/702,neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/703,adenoma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/704,carcinoma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/70456,acid rain,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/705,fibroma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/706,hemangioma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/707,leukemia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7077,Alternaria alternata,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/708,lipoma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/709,lymphoma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/710,melanoma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/711,mesothelioma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/712,papilloma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/713,sarcoma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7140,crops,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/715,breast neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/717,colorectal neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/71923,anticarcinogenic agents,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/71981,antineoplastic activity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/720,liver neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/72098,apple scab,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/721,lung neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/722,mammary neoplasms (animal),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/723,ovarian neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/724,prostatic neoplasms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/725,sarcoid,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/726,thymoma,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/727,transmissible venereal tumors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/728,wounds and injuries,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/729,abiotic stress,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/732,animal stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/735,bites and stings,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7537,Fagus grandifolia,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/75612,chestnut blight,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/761,necrosis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/7610,Pinus elliottii,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/770,tissue degeneration,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/78372,Dutch elm disease,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/80434,fire blight,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/80851,forest diseases,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/81176,Fusarium head blight,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/8128,Dolichodoridae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/81474,genetically modified plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/81888,granivores,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/823,insecticides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/825,molluscicides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/8255,Phlaeothripidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/826,nematicides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/838,pathogens,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/839,pests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/8468,analytical methods,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8478,Diagnosis and Recommendation Integrated System,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/851,plant anatomy,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8545,bacterial infections,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/876,proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/877,antimicrobial proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/880,insecticidal proteins,False,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/88268,pecan scab,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/8929,Anguinidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/8933,plant parasitic nematodes,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/89615,programmed cell death,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9084,animal welfare,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/9121,disease models,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/924,hypoxia,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/9282,burns (injuries),False,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/92833,soybean rust,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/9286,frostbite,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9324,nutrition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9330,diet-related diseases,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9359,invertebrates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/9380,nematode control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/940,signs and symptoms (plants),True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/9408,viroids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/9409,histopathology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9411,pathophysiology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/942,blight,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/943,cankers (plants),True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/944,chlorosis,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/945,dieback,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/946,epinasty,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/947,galls,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/948,leaf blotch,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/949,lesions (plant),True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/950,plant tumors,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/951,scorch,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/952,wilting,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/953,witches' broom,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/9560,tissue culture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/95877,viral diseases of plants,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/968,soil fertility,False,False,EXCLUDE,,unreached,,

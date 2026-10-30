@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row213",
+    "legacy_row_id": "Q850661|Q6138701",
+    "seed_qid": "Q850661",
+    "seed_label": "XQuery",
+    "qid": "Q6138701",
+    "label": "RDF query language",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q60551191",
+    "parent_label": "graph query language",
+    "path": "XQuery --instance of--> query language --has subclass--> graph query language --has subclass--> RDF query language",
+    "uri": "http://www.wikidata.org/entity/Q6138701",
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

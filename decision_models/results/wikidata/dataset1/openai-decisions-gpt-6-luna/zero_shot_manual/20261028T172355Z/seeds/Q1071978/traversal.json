@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q1071978",
+  "seed_label": "Réseau Ferré de France",
+  "included_qids": [
+    "Q1071978",
+    "Q3591583",
+    "Q521458"
+  ],
+  "pruned_qids": [
+    "Q2946028"
+  ],
+  "visited_qids": [
+    "Q1071978",
+    "Q2946028",
+    "Q3591583",
+    "Q521458"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:59.334423+00:00",
+  "finished_at_utc": "2026-10-28T17:24:00.027971+00:00",
+  "wall_seconds": 0.6935473999910755,
+  "frontier_exhausted": true
+}

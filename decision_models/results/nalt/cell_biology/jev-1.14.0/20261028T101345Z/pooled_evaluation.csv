@@ -1,0 +1,1186 @@
+uri,prefLabel,gold_include,visited,final_classification,model_classification,decision_source,p_include,p_exclude
+https://lod.nal.usda.gov/nalt/1597,ABC transporters,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/729,abiotic stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/245234,abnormal hemoglobin,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/2340,acetic acid,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2345,acetic acid bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/326230,acetogens,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2510,acetyl coenzyme A,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2893,acinar cells,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/3078,acrocentric chromosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3134,acrosome,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/3137,acrosome reaction,False,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/3179,actin,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/154508,actinorhizae,False,True,EXCLUDE,EXCLUDE,jev,0.15,0.85
+https://lod.nal.usda.gov/nalt/3909,action potentials,False,True,INCLUDE,INCLUDE,jev,0.81,0.19
+https://lod.nal.usda.gov/nalt/3931,active transport,False,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/3936,activins,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/105992,adaptive immunity,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/4161,adenosinetriphosphatase,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/215661,adherens junctions,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/4196,adhesins,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/4199,adhesion,False,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/295058,adhesion inhibition assay,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/4218,adipocytes,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/70809,adipogenesis,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/132364,adipokines,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/132363,adiponectin,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/196331,adipophilin,False,True,EXCLUDE,EXCLUDE,jev,0.19,0.81
+https://lod.nal.usda.gov/nalt/4220,adipose tissue,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/4285,adolescence,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4289,adolescents,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/215122,adult stem cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/187692,adulthood,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/790,adults,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4444,aeciospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/218969,aedeagus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4629,aerobiosis,False,True,EXCLUDE,EXCLUDE,jev,0.21,0.79
+https://lod.nal.usda.gov/nalt/110,age,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6002,albino,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6264,aleurone cells,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/6265,aleurone layer,False,True,EXCLUDE,EXCLUDE,jev,0.27,0.73
+https://lod.nal.usda.gov/nalt/6549,allelopathy,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/6713,allopolyploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/279357,allotetraploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/295010,alpha catenin,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/7403,amastigotes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/281571,amino acid receptors,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/314589,amphidiploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/220598,amyloplast DNA,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/8248,amyloplasts,True,True,INCLUDE,INCLUDE,jev,0.93,0.07
+https://lod.nal.usda.gov/nalt/264298,amyotrophic lateral sclerosis,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/8375,anaerobiosis,False,True,EXCLUDE,EXCLUDE,jev,0.3,0.7
+https://lod.nal.usda.gov/nalt/8501,anamorphs,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8511,anaphase,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/8586,anatomy and morphology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8824,aneuploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/308521,animal cell lines,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/9196,animal fertility,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/29278,animal ovaries,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/9397,animal pathogenic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9234,animal pathogens,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3138,animal reproduction,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/732,animal stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8967,animal tissues,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/196260,anion pumps,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/7519,anovulation,False,True,EXCLUDE,EXCLUDE,jev,0.34,0.66
+https://lod.nal.usda.gov/nalt/9953,anther culture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8700,anthers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10230,antibody formation,False,True,EXCLUDE,EXCLUDE,jev,0.19,0.81
+https://lod.nal.usda.gov/nalt/10340,antigen presentation,False,True,INCLUDE,INCLUDE,jev,0.63,0.37
+https://lod.nal.usda.gov/nalt/10342,antigen-presenting cells,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/316636,antimitotic agents,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/220599,apicoplast DNA,False,True,EXCLUDE,EXCLUDE,jev,0.18,0.82
+https://lod.nal.usda.gov/nalt/244970,apicoplast genome,False,True,EXCLUDE,EXCLUDE,jev,0.13,0.87
+https://lod.nal.usda.gov/nalt/132362,apicoplasts,True,True,INCLUDE,INCLUDE,jev,0.93,0.07
+https://lod.nal.usda.gov/nalt/194621,apoplast,False,True,INCLUDE,INCLUDE,jev,0.82,0.18
+https://lod.nal.usda.gov/nalt/296072,apoplastic fluids,True,True,EXCLUDE,EXCLUDE,jev,0.4,0.6
+https://lod.nal.usda.gov/nalt/11242,apoptosis,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/278515,apothecia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/310004,aquatic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11423,aquatic organisms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/266214,artificial cells,False,True,INCLUDE,INCLUDE,jev,0.85,0.15
+https://lod.nal.usda.gov/nalt/12600,artificial membranes,False,True,EXCLUDE,EXCLUDE,jev,0.32,0.68
+https://lod.nal.usda.gov/nalt/196712,ascomata,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/125421,Ascomycota,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12859,ascospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/278524,ascostromata,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12897,asexual reproduction,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/13184,assimilation (physiology),False,True,EXCLUDE,EXCLUDE,jev,0.12,0.88
+https://lod.nal.usda.gov/nalt/194646,aster (cell structure),True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/13531,astrocytes,False,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/291870,asymmetric membranes,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/13544,asynapsis,True,True,INCLUDE,INCLUDE,jev,0.83,0.17
+https://lod.nal.usda.gov/nalt/261288,autocrine signaling,True,True,EXCLUDE,EXCLUDE,jev,0.36,0.64
+https://lod.nal.usda.gov/nalt/14014,autolysis,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/336342,autophagosomes,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/206099,autophagy,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/14038,autopolyploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14046,autosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/295797,autotetraploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/342287,autotomy,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/72652,autotrophic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14050,autotrophs,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/214454,axonal transport,False,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/14268,axons,False,True,INCLUDE,INCLUDE,jev,0.94,0.06
+https://lod.nal.usda.gov/nalt/281186,B chromosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/295040,B-cell lymphoma,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/14410,B-lymphocytes,True,True,INCLUDE,INCLUDE,jev,0.79,0.21
+https://lod.nal.usda.gov/nalt/4195,bacterial adhesion,True,True,INCLUDE,INCLUDE,jev,0.52,0.48
+https://lod.nal.usda.gov/nalt/15075,bacterial artificial chromosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/209940,bacterial biomass,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/283949,bacterial culture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/189796,bacterial growth,False,True,EXCLUDE,EXCLUDE,jev,0.48,0.52
+https://lod.nal.usda.gov/nalt/8545,bacterial infections,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15095,bacterial motility,True,True,INCLUDE,INCLUDE,jev,0.79,0.21
+https://lod.nal.usda.gov/nalt/336289,bacterial outer membranes,True,True,INCLUDE,INCLUDE,jev,0.73,0.27
+https://lod.nal.usda.gov/nalt/15199,bacterial spores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15235,bacteriocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/300792,bacteriods,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15096,bacteriology,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/218603,bacteriome,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/9527,basement membrane,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/196719,basidiomata,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/125431,Basidiomycota,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16011,basidiospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16035,basophils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/295011,beta catenin,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/316457,beta-3 adrenergic receptors,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/323527,beta-lactamase bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/316508,bioadhesion,False,True,INCLUDE,INCLUDE,jev,0.68,0.32
+https://lod.nal.usda.gov/nalt/316504,bioadhesives,False,True,EXCLUDE,EXCLUDE,jev,0.27,0.73
+https://lod.nal.usda.gov/nalt/231463,bioelectricity,False,True,EXCLUDE,EXCLUDE,jev,0.45,0.55
+https://lod.nal.usda.gov/nalt/228596,bioencapsulation,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/1764,biological development,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/107,biological properties and phenomena,False,True,EXCLUDE,EXCLUDE,jev,0.25,0.75
+https://lod.nal.usda.gov/nalt/114,biological resistance,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/334618,birch pollen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334102,bird pollination,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/235049,black root rot,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17929,blastocyst,False,True,INCLUDE,INCLUDE,jev,0.69,0.31
+https://lod.nal.usda.gov/nalt/17930,blastoderm,False,True,INCLUDE,INCLUDE,jev,0.56,0.44
+https://lod.nal.usda.gov/nalt/196708,blastospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18059,blood,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/291434,blood banks,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/18073,blood cell counts,False,True,EXCLUDE,EXCLUDE,jev,0.26,0.74
+https://lod.nal.usda.gov/nalt/18061,blood cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/18089,blood circulation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10264,blood coagulation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18077,blood platelet count,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/18080,blood platelets,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/18186,bloodstream forms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/49,body fluids,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/18500,bone diseases,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/9528,bone marrow,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/18522,bone marrow cells,True,True,INCLUDE,INCLUDE,jev,0.76,0.24
+https://lod.nal.usda.gov/nalt/18498,bone metabolism,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/18501,bone resorption,False,True,INCLUDE,INCLUDE,jev,0.57,0.43
+https://lod.nal.usda.gov/nalt/335076,booting stage,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15202,botulinum toxin,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/19214,bradyzoites,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9337,brain,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/148763,brefeldin A,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/297926,brown adipocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/4228,brown adipose tissue,False,True,EXCLUDE,EXCLUDE,jev,0.14,0.86
+https://lod.nal.usda.gov/nalt/16111,brush border membrane vesicles,True,True,EXCLUDE,EXCLUDE,jev,0.16,0.84
+https://lod.nal.usda.gov/nalt/222403,bud sport,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/20383,bundle sheath cells,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/20724,Ca2-transporting ATPase,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/20827,cadherins,False,True,EXCLUDE,EXCLUDE,jev,0.22,0.78
+https://lod.nal.usda.gov/nalt/297917,calcium ionophores,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/219898,calcium signaling,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/243947,California mastitis test,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/17285,Calvin cycle,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/22355,carcinogenesis,False,True,EXCLUDE,EXCLUDE,jev,0.12,0.88
+https://lod.nal.usda.gov/nalt/210293,cardiomyocytes,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/18060,cardiovascular system,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/329239,carpospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/329448,carposporogenesis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/22713,cartilage,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136654,caspase-1,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136675,caspase-10,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/136677,caspase-11,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/136679,caspase-12,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136660,caspase-2,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136662,caspase-3,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136664,caspase-4,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136666,caspase-5,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136669,caspase-6,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136667,caspase-7,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/136671,caspase-8,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136674,caspase-9,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/136653,caspases,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/295005,catenins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/235861,cathelicidins,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/196259,cation pumps,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/293046,CD146 antigen,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/323735,CD4 lymphocyte count,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/23191,CD4-positive T-lymphocytes,True,True,INCLUDE,INCLUDE,jev,0.8,0.2
+https://lod.nal.usda.gov/nalt/23199,CD8-positive T-lymphocytes,True,True,INCLUDE,INCLUDE,jev,0.83,0.17
+https://lod.nal.usda.gov/nalt/277515,cecropins,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/120,cell adhesion,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/293054,cell adhesion molecules,False,True,EXCLUDE,EXCLUDE,jev,0.36,0.64
+https://lod.nal.usda.gov/nalt/23368,cell communication,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/284597,cell culture containers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23382,cell cycle,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/232248,cell cycle checkpoints,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/11245,cell death,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/23385,cell dedifferentiation,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/3939,cell differentiation,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/8512,cell division,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/206573,cell engineering,False,True,EXCLUDE,EXCLUDE,jev,0.22,0.78
+https://lod.nal.usda.gov/nalt/23400,cell free system,True,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/23401,cell fusion,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23397,cell growth,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/190510,cell harvesting,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23379,cell lines,True,True,INCLUDE,INCLUDE,jev,0.91,0.09
+https://lod.nal.usda.gov/nalt/294129,cell membrane structures,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/9529,cell membranes,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/15185,cell movement,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/23413,cell nucleolus,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/23356,cell physiology,True,True,INCLUDE,INCLUDE,jev,0.93,0.07
+https://lod.nal.usda.gov/nalt/216438,cell polarity,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/23357,cell proliferation,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23423,cell respiration,True,True,INCLUDE,INCLUDE,jev,0.55,0.45
+https://lod.nal.usda.gov/nalt/264819,cell senescence,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/342280,cell specificity,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/23358,cell structures,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/23377,cell suspension culture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23441,cell transplantation,False,True,EXCLUDE,EXCLUDE,jev,0.16,0.84
+https://lod.nal.usda.gov/nalt/206983,cell viability,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23359,cell wall components,True,True,INCLUDE,INCLUDE,jev,0.71,0.29
+https://lod.nal.usda.gov/nalt/23435,cell walls,True,True,INCLUDE,INCLUDE,jev,0.92,0.08
+https://lod.nal.usda.gov/nalt/294131,cell-matrix junctions,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/10341,cell-mediated immunity,False,True,EXCLUDE,EXCLUDE,jev,0.15,0.85
+https://lod.nal.usda.gov/nalt/2895,cells,True,True,INCLUDE,,seed,,
+https://lod.nal.usda.gov/nalt/226485,cellular microenvironment,True,True,INCLUDE,INCLUDE,jev,0.9,0.1
+https://lod.nal.usda.gov/nalt/215655,cellulolytic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/291537,cellulose fibrils,False,True,EXCLUDE,EXCLUDE,jev,0.26,0.74
+https://lod.nal.usda.gov/nalt/291539,cellulose microfibrils,False,True,EXCLUDE,EXCLUDE,jev,0.22,0.78
+https://lod.nal.usda.gov/nalt/9216,cellulosic fibers,False,True,EXCLUDE,EXCLUDE,jev,0.24,0.76
+https://lod.nal.usda.gov/nalt/23495,cellulosome,True,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/230064,cement glands,False,True,EXCLUDE,EXCLUDE,jev,0.24,0.76
+https://lod.nal.usda.gov/nalt/23714,centrioles,True,True,INCLUDE,INCLUDE,jev,0.93,0.07
+https://lod.nal.usda.gov/nalt/277,centromeres,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23715,centrosomes,True,True,INCLUDE,INCLUDE,jev,0.94,0.06
+https://lod.nal.usda.gov/nalt/23952,cercariae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/336331,chaperone-mediated autophagy,True,True,INCLUDE,INCLUDE,jev,0.76,0.24
+https://lod.nal.usda.gov/nalt/10478,chemical constituents of plants,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/236678,chemokine CCL5,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/123140,chemokines,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/214483,chemosymbiosis,False,True,EXCLUDE,EXCLUDE,jev,0.19,0.81
+https://lod.nal.usda.gov/nalt/278,chiasmata,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/187691,childhood,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24981,chimerism,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25268,Chlamydomonas reinhardtii,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25275,chlamydospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25453,chlorophyll,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/25474,chloroplast DNA,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/297806,chloroplast genes,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/75782,chloroplast genome,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/219296,chloroplast membranes,True,True,EXCLUDE,EXCLUDE,jev,0.36,0.64
+https://lod.nal.usda.gov/nalt/317144,chloroplast proteins,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/317299,chloroplast RNA,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/291579,chloroplast thioredoxins,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/317761,chloroplast transit peptides,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/25479,chloroplasts,True,True,INCLUDE,INCLUDE,jev,0.92,0.08
+https://lod.nal.usda.gov/nalt/22715,chondrocytes,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/105270,chorion,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/23458,chromaffin cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/25729,chromaffin granules,True,True,INCLUDE,INCLUDE,jev,0.79,0.21
+https://lod.nal.usda.gov/nalt/279,chromatids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23419,chromatin,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/191628,chromatophores,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/23732,chromocenters,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/220600,chromoplast DNA,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/25832,chromoplasts,True,True,INCLUDE,INCLUDE,jev,0.85,0.15
+https://lod.nal.usda.gov/nalt/332889,chromosomal instability,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25833,chromosome aberrations,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25834,chromosome addition,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25835,chromosome breakage,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/322710,chromosome duplication,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25836,chromosome elimination,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/332894,chromosome fragility,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25837,chromosome inversions,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25865,chromosome morphology,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25866,chromosome number,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/259363,chromosome painting,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/13546,chromosome pairing,True,True,INCLUDE,INCLUDE,jev,0.73,0.27
+https://lod.nal.usda.gov/nalt/23388,chromosome segregation,True,True,INCLUDE,INCLUDE,jev,0.89,0.11
+https://lod.nal.usda.gov/nalt/25838,chromosome substitution,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25839,chromosome translocation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25874,chromosome transmission,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/276,chromosomes,True,True,EXCLUDE,EXCLUDE,jev,0.4,0.6
+https://lod.nal.usda.gov/nalt/23436,cilia,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/9419,circulatory system physiology,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/26664,clathrin,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/196715,cleistothecia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23367,cloning (cells),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9461,clutch size,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/340866,cnidocysts,True,True,INCLUDE,INCLUDE,jev,0.61,0.39
+https://lod.nal.usda.gov/nalt/26666,coated vesicles,True,True,INCLUDE,INCLUDE,jev,0.84,0.16
+https://lod.nal.usda.gov/nalt/68522,coculture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/322529,coelomocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/1139,cold injury,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/241641,cold shock proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/277273,cold shock response,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1730,cold stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15079,coliform bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/204413,color vision,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28122,commensalism,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/146576,cones (retina),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8505,conidia,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/209141,conidiation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4227,connective tissues,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/28575,connexins,False,True,EXCLUDE,EXCLUDE,jev,0.43,0.57
+https://lod.nal.usda.gov/nalt/879,contractile proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9463,copulation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/240237,coral bleaching,False,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/29277,corpus luteum,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/29311,cortical granules,True,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/294138,costameres,True,True,INCLUDE,INCLUDE,jev,0.9,0.1
+https://lod.nal.usda.gov/nalt/24805,crossing over,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23731,crossover interference,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/200594,cryptozoites,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/284389,culture dishes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/284384,culture flasks,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/619,culture media,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/291555,cultured meat,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23432,cyanide-resistant respiration,True,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/23433,cyanide-sensitive respiration,True,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/31342,cysticercoids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31379,cysts (developmental stages),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25841,cytogenetic analysis,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/70089,cytokinesis,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/14015,cytolysis,True,True,INCLUDE,INCLUDE,jev,0.9,0.1
+https://lod.nal.usda.gov/nalt/25730,cytoplasmic granules,True,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/31474,cytoplasmic inclusions,True,True,INCLUDE,INCLUDE,jev,0.94,0.06
+https://lod.nal.usda.gov/nalt/31489,cytoplasmic streaming,False,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/264088,cytoplasmic vesicles,True,True,INCLUDE,INCLUDE,jev,0.92,0.08
+https://lod.nal.usda.gov/nalt/190838,cytoskeletal proteins,False,True,EXCLUDE,EXCLUDE,jev,0.12,0.88
+https://lod.nal.usda.gov/nalt/31472,cytoskeleton,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/31473,cytosol,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/23202,cytotoxic T-lymphocytes,True,True,EXCLUDE,EXCLUDE,jev,0.48,0.52
+https://lod.nal.usda.gov/nalt/240461,DEAD-box RNA helicases,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/264095,death domain receptors,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/32272,dendrites,False,True,INCLUDE,INCLUDE,jev,0.59,0.41
+https://lod.nal.usda.gov/nalt/10347,dendritic cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/15080,denitrifying bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32322,denitrifying microorganisms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/291225,deslorelin acetate,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/190839,desmin,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/32600,desmosomes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23389,desynapsis,True,True,INCLUDE,INCLUDE,jev,0.57,0.43
+https://lod.nal.usda.gov/nalt/4287,developmental stages,False,True,EXCLUDE,EXCLUDE,jev,0.14,0.86
+https://lod.nal.usda.gov/nalt/145231,dihaploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31439,diploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8826,disomics,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11246,DNA fragmentation,False,True,EXCLUDE,EXCLUDE,jev,0.44,0.56
+https://lod.nal.usda.gov/nalt/262472,DNA packaging,True,True,EXCLUDE,EXCLUDE,jev,0.42,0.58
+https://lod.nal.usda.gov/nalt/34224,DNA replication,False,True,EXCLUDE,EXCLUDE,jev,0.36,0.64
+https://lod.nal.usda.gov/nalt/9954,doubled haploids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/311388,dough growth stages,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4249,drug delivery systems,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/242721,dynamins,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/189757,ecosystem respiration,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/35941,egg composition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9203,egg fertility,False,True,EXCLUDE,EXCLUDE,jev,0.34,0.66
+https://lod.nal.usda.gov/nalt/35944,egg hatchability,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/982,egg masses,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/35937,egg membranes,True,True,EXCLUDE,EXCLUDE,jev,0.36,0.64
+https://lod.nal.usda.gov/nalt/35938,egg quality,True,True,EXCLUDE,EXCLUDE,jev,0.33,0.67
+https://lod.nal.usda.gov/nalt/35939,egg shell,True,True,EXCLUDE,EXCLUDE,jev,0.17,0.83
+https://lod.nal.usda.gov/nalt/302173,egg shell defects,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/105274,egg shell membranes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35963,egg shell quality,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35973,egg shell thickness,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35964,egg weight,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35940,egg yolk,True,True,EXCLUDE,EXCLUDE,jev,0.43,0.57
+https://lod.nal.usda.gov/nalt/35981,egg yolk color,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24837,eggs,False,True,EXCLUDE,EXCLUDE,jev,0.42,0.58
+https://lod.nal.usda.gov/nalt/36096,elaioplasts,True,True,INCLUDE,INCLUDE,jev,0.94,0.06
+https://lod.nal.usda.gov/nalt/4411,elderly,False,True,EXCLUDE,EXCLUDE,jev,0.08,0.92
+https://lod.nal.usda.gov/nalt/36156,electric field,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/36174,electrical treatment,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/271028,electrodialysis,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/125072,electrofusion,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/17286,electron transport chain,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/282559,electroosmosis,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/17332,electrophysiology,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/36237,electroporation,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/8004,embryo (animal),False,True,EXCLUDE,EXCLUDE,jev,0.25,0.75
+https://lod.nal.usda.gov/nalt/36807,embryonic stem cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/8970,embryonic structures,False,True,EXCLUDE,EXCLUDE,jev,0.29,0.71
+https://lod.nal.usda.gov/nalt/4351,endocrine glands,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/23424,endocytosis,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/200527,endomembrane system,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/37062,endoplasmic reticulum,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/298985,endoplasmic reticulum stress,True,True,EXCLUDE,EXCLUDE,jev,0.35,0.65
+https://lod.nal.usda.gov/nalt/37039,endopolyploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/27379,endosomes,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/327459,endospore forming bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37080,endospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37081,endosymbionts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23459,endothelial cells,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/68181,endothelins,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/22425,endothelium,False,True,EXCLUDE,EXCLUDE,jev,0.2,0.8
+https://lod.nal.usda.gov/nalt/7184,Enterobacteriaceae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37326,enterocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/9398,enteropathogens,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14975,entomopathogenic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37474,enzymatic hydrolysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37512,eosinophils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37573,epidermis (animal),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37574,epidermis (plant),False,True,EXCLUDE,EXCLUDE,jev,0.34,0.66
+https://lod.nal.usda.gov/nalt/32886,epimastigotes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/293063,epithelial cell adhesion molecule,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/23460,epithelial cells,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/9530,epithelium,False,True,EXCLUDE,EXCLUDE,jev,0.33,0.67
+https://lod.nal.usda.gov/nalt/18524,erythroblasts,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/18078,erythrocyte count,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/316659,erythrocyte membrane,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/18170,erythrocyte sedimentation rate,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/18081,erythrocytes,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/200598,erythrocytic stage,False,True,INCLUDE,INCLUDE,jev,0.51,0.49
+https://lod.nal.usda.gov/nalt/38116,erythropoiesis,False,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/329999,ethylene signaling pathway,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/220601,etioplast DNA,False,True,EXCLUDE,EXCLUDE,jev,0.22,0.78
+https://lod.nal.usda.gov/nalt/25481,etioplasts,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/298202,euhydration,False,True,EXCLUDE,EXCLUDE,jev,0.23,0.77
+https://lod.nal.usda.gov/nalt/23461,eukaryotic cells,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/146655,exine,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23425,exocytosis,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/200593,exoerythrocytic stage,False,True,INCLUDE,INCLUDE,jev,0.6,0.4
+https://lod.nal.usda.gov/nalt/196334,exosomes,True,True,INCLUDE,INCLUDE,jev,0.72,0.28
+https://lod.nal.usda.gov/nalt/30702,explants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/315658,extracellular enzymes,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/18341,extracellular fluids,True,True,EXCLUDE,EXCLUDE,jev,0.42,0.58
+https://lod.nal.usda.gov/nalt/38966,extracellular matrix,True,True,INCLUDE,INCLUDE,jev,0.69,0.31
+https://lod.nal.usda.gov/nalt/23361,extracellular space,True,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/299590,Fabry disease,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/315570,fecal bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24114,female reproductive system,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/334605,fern spores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/339436,ferroptosis,True,True,INCLUDE,INCLUDE,jev,0.92,0.08
+https://lod.nal.usda.gov/nalt/23462,fibroblasts,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/23438,fimbriae,True,True,INCLUDE,INCLUDE,jev,0.86,0.14
+https://lod.nal.usda.gov/nalt/32887,fingerlings,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32888,fish fry,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/144694,flagellin,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/15186,flagellum,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/261318,fledglings,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9966,flowering,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/295790,fluorescein diacetate,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/262830,fluorescence recovery after photobleaching,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/277455,fly pollination,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/40759,foam cells,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/294139,focal adhesions,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/27606,food quality,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334298,forensic palynology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/298294,froglets,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9286,frostbite,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8506,fungal anatomy,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/4445,fungal spores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/213798,fungus gardening,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/42145,gait,False,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/32889,gametocytes,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/240810,gametolysin,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/32890,gametophytes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/295012,gamma catenin,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/1617,ganglia,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/324041,gangrene,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/28576,gap junctions,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/7766,gene banks,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/14043,gene expression regulation,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/19698,genetic lines,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/9219,genetic resources,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/283766,genetic similarity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10351,genetic variation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42648,genome,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/270455,genotype-phenotype correlation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23463,germ cells,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/189495,germ tube,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42876,germinal vesicle,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/42878,germination,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42649,germplasm,False,True,INCLUDE,INCLUDE,jev,0.68,0.32
+https://lod.nal.usda.gov/nalt/17325,germplasm conservation,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/42653,germplasm evaluation,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/224224,germplasm exchange,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/283965,germplasm regeneration,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/42882,germplasm releases,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/23464,giant cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/33857,Giardia,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/200635,giardin protein,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/317772,glioma,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/323535,gliotoxins,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/285612,glucagon-like peptide 2,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/245231,glucosephosphate dehydrogenase deficiency,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/281574,glutamate receptors,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/12715,glycoproteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17287,glyoxylate cycle,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/43306,glyoxysomes,True,True,INCLUDE,INCLUDE,jev,0.85,0.15
+https://lod.nal.usda.gov/nalt/202659,goblet cells,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/33284,Golgi apparatus,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/23465,gonadotropic cells,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/15081,Gram-negative bacteria,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/15082,Gram-positive bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25455,grana,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/16036,granulocytes,True,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/748,granuloma,False,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23466,granulosa cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/313200,grimace scale,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6700,growth and development,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306947,growth curves,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34962,growth retardation,False,True,EXCLUDE,EXCLUDE,jev,0.14,0.86
+https://lod.nal.usda.gov/nalt/23467,guard cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/31440,haploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334296,harmomegathy,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/291462,haustoria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44798,heat shock proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/240471,heat shock response,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1731,heat stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/219906,heat-shock protein 70,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/264333,heat-shock protein 90,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/38091,hematocrit,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/339,hematologic diseases,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/17474,hematology,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/26361,hematopoiesis,False,True,INCLUDE,INCLUDE,jev,0.85,0.15
+https://lod.nal.usda.gov/nalt/264113,hematopoietic stem cells,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/45073,hemicellulose,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/23468,hemocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/26359,hemolymph,False,True,EXCLUDE,EXCLUDE,jev,0.17,0.83
+https://lod.nal.usda.gov/nalt/750,hemolysis,True,True,INCLUDE,INCLUDE,jev,0.92,0.08
+https://lod.nal.usda.gov/nalt/18096,hemostasis,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/23469,hepatocytes,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/25760,heterochromatin,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31441,heterokaryon,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/43663,heterophils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/337289,heterotrophic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45483,hexaploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45636,histiocytes,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/45637,histiocytosis,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/226534,hollow heart,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/45754,homeostasis,False,True,EXCLUDE,EXCLUDE,jev,0.43,0.57
+https://lod.nal.usda.gov/nalt/31442,homokaryon,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37014,hormonal regulation,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/833,host specificity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/840,host strains,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/834,host-parasite relationships,False,True,EXCLUDE,EXCLUDE,jev,0.13,0.87
+https://lod.nal.usda.gov/nalt/836,hosts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/68542,human cell lines,True,True,INCLUDE,INCLUDE,jev,0.93,0.07
+https://lod.nal.usda.gov/nalt/216297,human umbilical vein endothelial cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23404,hybridomas,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/208098,hydrogen-oxidizing bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/276140,hyperemia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46558,hyperhydricity,False,True,EXCLUDE,EXCLUDE,jev,0.2,0.8
+https://lod.nal.usda.gov/nalt/11247,hypersensitive response,False,True,EXCLUDE,EXCLUDE,jev,0.19,0.81
+https://lod.nal.usda.gov/nalt/41780,hyphae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46758,hypothalamic regulation,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/158,hypothermia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/278516,hysterothecia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32891,immatures,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10232,immune response,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/8973,immune system,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/46988,immunocytes,True,True,INCLUDE,INCLUDE,jev,0.86,0.14
+https://lod.nal.usda.gov/nalt/246169,immunological synapse,True,True,INCLUDE,INCLUDE,jev,0.8,0.2
+https://lod.nal.usda.gov/nalt/17475,immunology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/329494,immunophenotype,False,True,EXCLUDE,EXCLUDE,jev,0.41,0.59
+https://lod.nal.usda.gov/nalt/14257,in vitro culture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47060,in vitro regeneration,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23439,inclusion bodies,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/215129,induced pluripotent stem cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/32892,infancy,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/791,infants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47227,infarction,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/2755,inherited metabolic diseases,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/105991,innate immunity,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/296625,innexins,False,True,EXCLUDE,EXCLUDE,jev,0.28,0.72
+https://lod.nal.usda.gov/nalt/17438,insect development,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32893,instars,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47468,integrins,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/293119,intercellular adhesion molecule-1,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/23362,intercellular junctions,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/222512,interleukin-13,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/190836,intermediate filament proteins,False,True,EXCLUDE,EXCLUDE,jev,0.24,0.76
+https://lod.nal.usda.gov/nalt/31500,intermediate filaments,True,True,INCLUDE,INCLUDE,jev,0.89,0.11
+https://lod.nal.usda.gov/nalt/47539,interneurons,False,True,INCLUDE,INCLUDE,jev,0.57,0.43
+https://lod.nal.usda.gov/nalt/23383,interphase,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/1841,intestinal absorption,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/33580,intestinal mucosa,False,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/334604,intine,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/315659,intracellular enzymes,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/238185,intracellular fluids,True,True,INCLUDE,INCLUDE,jev,0.73,0.27
+https://lod.nal.usda.gov/nalt/238189,intracellular space,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/21103,ion channels,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/47612,ion transport,False,True,INCLUDE,INCLUDE,jev,0.55,0.45
+https://lod.nal.usda.gov/nalt/234,ionophores,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/6863,islets of Langerhans,True,True,INCLUDE,INCLUDE,jev,0.79,0.21
+https://lod.nal.usda.gov/nalt/291882,isotropic membranes,False,True,EXCLUDE,EXCLUDE,jev,0.4,0.6
+https://lod.nal.usda.gov/nalt/32894,juveniles,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/196591,karyopherins,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/31438,karyotyping,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/222893,keratinocyte growth factor receptor,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/23470,keratinocytes,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/191274,keratinosomes,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/235866,ketolides,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/23471,kidney cells,True,True,INCLUDE,INCLUDE,jev,0.91,0.09
+https://lod.nal.usda.gov/nalt/9343,kidneys,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/146580,kinesin,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/23733,kinetochores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/298731,kleptoplasts,True,True,INCLUDE,INCLUDE,jev,0.91,0.09
+https://lod.nal.usda.gov/nalt/298738,kleptoplasty,False,True,INCLUDE,INCLUDE,jev,0.76,0.24
+https://lod.nal.usda.gov/nalt/48601,Kupffer cells,True,True,INCLUDE,INCLUDE,jev,0.82,0.18
+https://lod.nal.usda.gov/nalt/9550,laboratory techniques,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15083,lactic acid bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32273,Langerhans cells,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/23027,larvae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334639,leaf epidermis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/314555,leaf nutrient resorption,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/84498,lecithins,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/231910,leukemia inhibitory factor,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/18079,leukocyte count,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/18082,leukocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/39763,leukopenia,False,True,EXCLUDE,EXCLUDE,jev,0.32,0.68
+https://lod.nal.usda.gov/nalt/246142,Lewy bodies,True,True,INCLUDE,INCLUDE,jev,0.72,0.28
+https://lod.nal.usda.gov/nalt/23472,Leydig cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/50010,life cycle (organisms),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/261978,ligands,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18228,light,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50030,light harvesting complex,False,True,EXCLUDE,EXCLUDE,jev,0.17,0.83
+https://lod.nal.usda.gov/nalt/50048,lignin,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/209104,lipid A,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/12603,lipid bilayers,True,True,INCLUDE,INCLUDE,jev,0.75,0.25
+https://lod.nal.usda.gov/nalt/50282,lipid bodies,True,True,INCLUDE,INCLUDE,jev,0.89,0.11
+https://lod.nal.usda.gov/nalt/17396,lipid metabolism,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/281496,lipid transfer proteins,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/276896,lipolytic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12604,liposomes (artificial),False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/271991,lipoteichoic acids,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/261791,lipotoxicity,False,True,EXCLUDE,EXCLUDE,jev,0.21,0.79
+https://lod.nal.usda.gov/nalt/328546,liquid egg yolk,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/200627,liquid junction potential,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/229418,liquid membranes,False,True,EXCLUDE,EXCLUDE,jev,0.33,0.67
+https://lod.nal.usda.gov/nalt/9344,liver,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/50439,liver microsomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50442,liver regeneration,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/280,loci,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50499,locomotion,False,True,INCLUDE,INCLUDE,jev,0.82,0.18
+https://lod.nal.usda.gov/nalt/23473,luteal cells,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/10362,lymphocyte antigens,False,True,EXCLUDE,EXCLUDE,jev,0.15,0.85
+https://lod.nal.usda.gov/nalt/23192,lymphocyte count,False,True,EXCLUDE,EXCLUDE,jev,0.15,0.85
+https://lod.nal.usda.gov/nalt/23448,lymphocyte proliferation,False,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/14420,lymphocytes,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/50956,lysosomes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/310092,macroautophagy,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/46969,macrophage activation,False,True,INCLUDE,INCLUDE,jev,0.76,0.24
+https://lod.nal.usda.gov/nalt/40760,macrophages,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/312994,magnetotactic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9205,male fertility,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/20336,male reproductive system,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/332058,mammalian embryo,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/2896,mammary glands,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/42154,mannans,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/23474,mast cells,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/213507,mating types,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4400,mature plants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32895,maturity stage,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/246188,mechanotransduction,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18525,megakaryocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/42843,megaspores,True,True,INCLUDE,INCLUDE,jev,0.78,0.22
+https://lod.nal.usda.gov/nalt/36824,megasporocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/42262,megasporogenesis,False,True,INCLUDE,INCLUDE,jev,0.75,0.25
+https://lod.nal.usda.gov/nalt/23390,meiosis,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23391,meiotic drive,True,True,EXCLUDE,EXCLUDE,jev,0.31,0.69
+https://lod.nal.usda.gov/nalt/51962,melanin,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/51963,melanization,False,True,EXCLUDE,EXCLUDE,jev,0.44,0.56
+https://lod.nal.usda.gov/nalt/50928,melanocytes,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/204398,melanogenesis,False,True,EXCLUDE,EXCLUDE,jev,0.27,0.73
+https://lod.nal.usda.gov/nalt/304933,melanosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334299,melissopalynology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23426,membrane fluidity,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/217597,membrane fusion,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/1601,membrane glycoproteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23427,membrane permeability,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/3910,membrane potential,False,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/42580,Mendelian inheritance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32896,meronts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32897,merozoites,False,True,EXCLUDE,EXCLUDE,jev,0.49,0.51
+https://lod.nal.usda.gov/nalt/317395,mesenchymal stromal cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/52217,messenger RNA,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/25875,metacentric chromosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32898,metacercariae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31341,metacestodes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32899,metacyclic forms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/27901,metalloproteinases,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/23392,metaphase,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/5079,methodology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/338845,microbial adhesion,False,True,INCLUDE,INCLUDE,jev,0.9,0.1
+https://lod.nal.usda.gov/nalt/44016,microbial growth,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4636,microbial physiology,False,True,EXCLUDE,EXCLUDE,jev,0.23,0.77
+https://lod.nal.usda.gov/nalt/43307,microbodies,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/219588,microdialysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/200164,microfilament proteins,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/31501,microfilaments,True,True,INCLUDE,INCLUDE,jev,0.89,0.11
+https://lod.nal.usda.gov/nalt/309754,micronucleus tests,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/5881,microorganisms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30703,micropropagation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50441,microsomes,True,True,EXCLUDE,EXCLUDE,jev,0.34,0.66
+https://lod.nal.usda.gov/nalt/42844,microspores,True,True,INCLUDE,INCLUDE,jev,0.87,0.13
+https://lod.nal.usda.gov/nalt/42845,microsporocytes,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/42263,microsporogenesis,False,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/31502,microtubules,True,True,INCLUDE,INCLUDE,jev,0.91,0.09
+https://lod.nal.usda.gov/nalt/20188,microvilli,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/10185,minimum inhibitory concentration,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32901,miracidia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53154,mitochondria,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/34167,mitochondrial DNA,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/308393,mitochondrial genes,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/244932,mitochondrial genome,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/219042,mitochondrial membrane,True,True,INCLUDE,INCLUDE,jev,0.85,0.15
+https://lod.nal.usda.gov/nalt/296511,mitochondrial turnover,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/217943,mitogenesis,True,True,INCLUDE,INCLUDE,jev,0.86,0.14
+https://lod.nal.usda.gov/nalt/314424,mitogens,False,True,EXCLUDE,EXCLUDE,jev,0.08,0.92
+https://lod.nal.usda.gov/nalt/296510,mitophagy,True,True,INCLUDE,INCLUDE,jev,0.94,0.06
+https://lod.nal.usda.gov/nalt/23393,mitosis,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/53159,mitotic spindle apparatus,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/31443,mixoploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/190002,molecular motor proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/277897,monocarboxylic acid transporters,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/49956,monocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/146660,mononuclear leukocytes,True,True,INCLUDE,INCLUDE,jev,0.9,0.1
+https://lod.nal.usda.gov/nalt/284412,monoploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/296223,monosaccharide transport proteins,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/8827,monosomics,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325418,monosulcate pollen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35923,motor neurons,False,True,EXCLUDE,EXCLUDE,jev,0.23,0.77
+https://lod.nal.usda.gov/nalt/316514,mucoadhesion,False,True,INCLUDE,INCLUDE,jev,0.81,0.19
+https://lod.nal.usda.gov/nalt/23407,mucosa,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/7777,mutation,False,True,EXCLUDE,EXCLUDE,jev,0.27,0.73
+https://lod.nal.usda.gov/nalt/53835,mutualism,False,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/301163,myasthenia gravis,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/41781,mycelium,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35802,mycorrhizae,False,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/52086,myelin proteins,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/51883,myelin sheath,False,True,INCLUDE,INCLUDE,jev,0.89,0.11
+https://lod.nal.usda.gov/nalt/54148,myelination,False,True,INCLUDE,INCLUDE,jev,0.68,0.32
+https://lod.nal.usda.gov/nalt/200148,myoblasts,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/22397,myocardium,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/23476,myocytes,True,True,INCLUDE,INCLUDE,jev,0.83,0.17
+https://lod.nal.usda.gov/nalt/200160,myofibrillar proteins,True,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/53774,myofibrils,True,True,INCLUDE,INCLUDE,jev,0.56,0.44
+https://lod.nal.usda.gov/nalt/287136,myogenic regulatory factors,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/287139,myogenin,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/260547,myotubes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/32227,myxobacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/138085,nanomedicine,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/259874,nanopores,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/48404,natural killer cells,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/307372,necroptosis,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/761,necrosis,False,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/340864,nematocysts,True,True,INCLUDE,INCLUDE,jev,0.77,0.23
+https://lod.nal.usda.gov/nalt/246543,neoplasm cells,True,True,INCLUDE,INCLUDE,jev,0.85,0.15
+https://lod.nal.usda.gov/nalt/702,neoplasms,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/14269,nerve fibers,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/324029,nerve regeneration,False,True,EXCLUDE,EXCLUDE,jev,0.44,0.56
+https://lod.nal.usda.gov/nalt/9535,nerve tissue,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/8977,nervous system,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/317858,neural stem cells,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/86909,neurilemma,False,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/14270,neurites,False,True,INCLUDE,INCLUDE,jev,0.83,0.17
+https://lod.nal.usda.gov/nalt/199237,neurodevelopment,False,True,EXCLUDE,EXCLUDE,jev,0.14,0.86
+https://lod.nal.usda.gov/nalt/54722,neurofibrils,True,True,INCLUDE,INCLUDE,jev,0.83,0.17
+https://lod.nal.usda.gov/nalt/199243,neurogenesis,False,True,INCLUDE,INCLUDE,jev,0.92,0.08
+https://lod.nal.usda.gov/nalt/13533,neuroglia,False,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/31449,neurons,False,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/9426,neurophysiology,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/246161,neuroplasticity,False,True,INCLUDE,INCLUDE,jev,0.91,0.09
+https://lod.nal.usda.gov/nalt/23477,neurosecretory cells,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/29267,neurosecretory system,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/2522,neurotransmitters,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/43664,neutrophils,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/334283,nexine,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/204409,night vision,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/238321,niosomes,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/240360,nitrifying bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15084,nitrogen-fixing bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9559,nonanimal tests,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/23422,nuclear genome,False,True,EXCLUDE,EXCLUDE,jev,0.22,0.78
+https://lod.nal.usda.gov/nalt/47087,nuclear inclusions,True,True,INCLUDE,INCLUDE,jev,0.87,0.13
+https://lod.nal.usda.gov/nalt/315677,nuclear lamina,True,True,INCLUDE,INCLUDE,jev,0.81,0.19
+https://lod.nal.usda.gov/nalt/23420,nuclear matrix,True,True,INCLUDE,INCLUDE,jev,0.91,0.09
+https://lod.nal.usda.gov/nalt/23408,nuclear membrane,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/87310,nuclear pore,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/196599,nuclear proteins,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/42572,nucleocytoplasmic interaction,False,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/87320,nucleocytoplasmic transport,False,True,INCLUDE,INCLUDE,jev,0.93,0.07
+https://lod.nal.usda.gov/nalt/281,nucleolus organizer region,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/55364,nucleoporins,False,True,EXCLUDE,EXCLUDE,jev,0.12,0.88
+https://lod.nal.usda.gov/nalt/55381,nucleoproteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25761,nucleosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8828,nullisomics,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/300304,nurse cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/5414,nutrient management,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/69417,nutrient resorption (physiology),False,True,INCLUDE,INCLUDE,jev,0.63,0.37
+https://lod.nal.usda.gov/nalt/55447,nutrient transport,False,True,INCLUDE,INCLUDE,jev,0.81,0.19
+https://lod.nal.usda.gov/nalt/47552,nutrient uptake,False,True,INCLUDE,INCLUDE,jev,0.86,0.14
+https://lod.nal.usda.gov/nalt/10476,nutrition physiology,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/32903,nymphs,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/312451,O-antigens,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/215663,occludins,False,True,EXCLUDE,EXCLUDE,jev,0.17,0.83
+https://lod.nal.usda.gov/nalt/55620,octaploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/87584,oligodendroglia,False,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/17447,ontogeny,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42877,oocytes,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/9479,oogenesis,False,True,INCLUDE,INCLUDE,jev,0.83,0.17
+https://lod.nal.usda.gov/nalt/55919,oogonia,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/32904,ookinetes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41808,oospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/192484,opsin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25480,organelle genome,False,True,EXCLUDE,EXCLUDE,jev,0.45,0.55
+https://lod.nal.usda.gov/nalt/23546,organelles,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/53498,organogenesis,False,True,EXCLUDE,EXCLUDE,jev,0.12,0.88
+https://lod.nal.usda.gov/nalt/56341,osmoregulation,False,True,INCLUDE,INCLUDE,jev,0.86,0.14
+https://lod.nal.usda.gov/nalt/52083,osmosis,False,True,INCLUDE,INCLUDE,jev,0.77,0.23
+https://lod.nal.usda.gov/nalt/56337,osmotic pressure,False,True,EXCLUDE,EXCLUDE,jev,0.37,0.63
+https://lod.nal.usda.gov/nalt/56339,osmotic treatment,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/143,osmotolerance,False,True,INCLUDE,INCLUDE,jev,0.89,0.11
+https://lod.nal.usda.gov/nalt/23478,osteoblasts,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/18534,osteoclasts,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/313483,osteonecrosis,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/25673,ova,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/9032,ova transfer,False,True,EXCLUDE,EXCLUDE,jev,0.14,0.86
+https://lod.nal.usda.gov/nalt/30722,ovarian follicles,False,True,EXCLUDE,EXCLUDE,jev,0.13,0.87
+https://lod.nal.usda.gov/nalt/827,ovicides,False,True,EXCLUDE,EXCLUDE,jev,0.14,0.86
+https://lod.nal.usda.gov/nalt/9480,ovipary,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/9481,oviposition,False,True,EXCLUDE,EXCLUDE,jev,0.08,0.92
+https://lod.nal.usda.gov/nalt/9482,ovulation,False,True,INCLUDE,INCLUDE,jev,0.76,0.24
+https://lod.nal.usda.gov/nalt/764,oxidative stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8382,oxygen consumption,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/278020,P-glycoproteins,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/123494,pachytene stage,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/18792,palynology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2897,pancreas,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/228021,pancreatic insulitis,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/296627,pannexins,False,True,EXCLUDE,EXCLUDE,jev,0.26,0.74
+https://lod.nal.usda.gov/nalt/25846,paracentric inversion,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/261291,paracrine signaling,True,True,EXCLUDE,EXCLUDE,jev,0.45,0.55
+https://lod.nal.usda.gov/nalt/9356,parasites,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/46000,parasitism,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/23685,Parkinson disease,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/2898,parotid gland,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/124435,parr,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15187,pathogenicity,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/319,pathological processes and conditions,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/279339,pentaploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/206113,peptidoglycan hydrolase,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25847,pericentric inversion,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14032,peripheral nervous system,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/278514,perithecia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/52082,permeability,False,True,INCLUDE,INCLUDE,jev,0.74,0.26
+https://lod.nal.usda.gov/nalt/47280,peroxisomes,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/23479,phagocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/37025,phagocytosis,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/56073,phagosomes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/131681,phospholipid-hydroperoxide glutathione peroxidase,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/199358,photoaging,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/57953,photoreceptors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23434,photorespiration,True,True,EXCLUDE,EXCLUDE,jev,0.19,0.81
+https://lod.nal.usda.gov/nalt/315014,photosymbiosis,False,True,EXCLUDE,EXCLUDE,jev,0.26,0.74
+https://lod.nal.usda.gov/nalt/14059,photosynthesis,False,True,EXCLUDE,EXCLUDE,jev,0.17,0.83
+https://lod.nal.usda.gov/nalt/14048,photosynthetic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25482,photosystem I,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/25483,photosystem II,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/57963,phototransduction,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15085,phylloplane bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37116,physical activity,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/24620,physical chemistry,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/1796,physical properties,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/2828,physicochemical properties,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/45755,physiological regulation,False,True,INCLUDE,INCLUDE,jev,0.53,0.47
+https://lod.nal.usda.gov/nalt/34396,physiological response,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3934,physiological transport,False,True,INCLUDE,INCLUDE,jev,0.84,0.16
+https://lod.nal.usda.gov/nalt/9418,physiology,False,True,EXCLUDE,EXCLUDE,jev,0.12,0.88
+https://lod.nal.usda.gov/nalt/124,pigmentation,False,True,EXCLUDE,EXCLUDE,jev,0.41,0.59
+https://lod.nal.usda.gov/nalt/17171,pigments,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334607,pine pollen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/36836,placenta,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/851,plant anatomy,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/30920,plant cuticle,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1790,plant development,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/314617,plant germplasm,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/314552,plant nutrient resorption,False,True,INCLUDE,INCLUDE,jev,0.56,0.44
+https://lod.nal.usda.gov/nalt/17679,plant nutrition,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/15086,plant pathogenic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/328577,plant root cells,True,True,INCLUDE,INCLUDE,jev,0.94,0.06
+https://lod.nal.usda.gov/nalt/766,plant stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15840,plant tissues,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34627,plant-water relations,False,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/23480,plasma cells,True,True,INCLUDE,INCLUDE,jev,0.9,0.1
+https://lod.nal.usda.gov/nalt/23409,plasma membrane,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/47483,plasmodesmata,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/23428,plasmolysis,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/25478,plastid DNA,False,True,EXCLUDE,EXCLUDE,jev,0.17,0.83
+https://lod.nal.usda.gov/nalt/89067,plastid genome,False,True,EXCLUDE,EXCLUDE,jev,0.24,0.76
+https://lod.nal.usda.gov/nalt/8249,plastids,True,True,INCLUDE,INCLUDE,jev,0.92,0.08
+https://lod.nal.usda.gov/nalt/18144,platelet activation,False,True,INCLUDE,INCLUDE,jev,0.83,0.17
+https://lod.nal.usda.gov/nalt/18145,platelet aggregation,False,True,INCLUDE,INCLUDE,jev,0.82,0.18
+https://lod.nal.usda.gov/nalt/32905,plerocercoids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/197574,ploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/191282,pneumocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/8701,pollen,False,True,EXCLUDE,EXCLUDE,jev,0.19,0.81
+https://lod.nal.usda.gov/nalt/304866,pollen analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334188,pollen characteristics,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334205,pollen color,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/304868,pollen competition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42879,pollen germination,False,True,EXCLUDE,EXCLUDE,jev,0.46,0.54
+https://lod.nal.usda.gov/nalt/307006,pollen loads,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334198,pollen morphology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334252,pollen productivity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/278567,pollen proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/266238,pollen rain,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334302,pollen sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334197,pollen size,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334282,pollen tectum,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334269,pollen tetrad,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/304872,pollen trapping,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59057,pollen tubes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334176,pollen viability,False,True,INCLUDE,INCLUDE,jev,0.76,0.24
+https://lod.nal.usda.gov/nalt/334600,pollen walls,True,True,EXCLUDE,EXCLUDE,jev,0.2,0.8
+https://lod.nal.usda.gov/nalt/334348,pollenkitt,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7175,pollination,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/8702,pollinia (pollen),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45050,polycythemia,False,True,EXCLUDE,EXCLUDE,jev,0.08,0.92
+https://lod.nal.usda.gov/nalt/6717,polyploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59175,polyribosomes,True,True,INCLUDE,INCLUDE,jev,0.51,0.49
+https://lod.nal.usda.gov/nalt/25876,polytene chromosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11454,porins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59362,post-translational modification,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/189989,postlarvae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/189995,prejuveniles,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32906,prepupae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/261849,pro-apoptotic proteins,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/32907,procyclic forms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4405,product quality,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/89615,programmed cell death,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23384,proliferating cell nuclear antigen,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/32908,promastigotes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23421,pronucleus,True,True,INCLUDE,INCLUDE,jev,0.9,0.1
+https://lod.nal.usda.gov/nalt/12615,propagation materials,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23394,prophase,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/15087,propionic acid bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/203627,protein bodies,True,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/59913,protein folding,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/38953,protein synthesis,False,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/58086,protein transport,False,True,INCLUDE,INCLUDE,jev,0.64,0.36
+https://lod.nal.usda.gov/nalt/270537,protein unfolding,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/876,proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32271,proteolysis,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/276897,proteolytic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325588,protolignin,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/311369,proton extrusion,False,True,EXCLUDE,EXCLUDE,jev,0.45,0.55
+https://lod.nal.usda.gov/nalt/3935,proton pump,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/243920,proton-motive force,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/36246,protons,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/89756,protoplasm,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/23378,protoplast fusion,False,True,INCLUDE,INCLUDE,jev,0.89,0.11
+https://lod.nal.usda.gov/nalt/30707,protoplasts,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/56074,pseudopodia,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/15088,psychrophilic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/60432,psychrotrophic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4446,Pucciniales,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7283,pulmonary alveoli,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/32909,pupae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/209975,pycniospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2708,pyrophosphatases,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/327976,pyroptosis,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23372,quorum sensing,False,True,EXCLUDE,EXCLUDE,jev,0.37,0.63
+https://lod.nal.usda.gov/nalt/25873,reciprocal translocation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17441,regeneration (biological),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12898,reproduction,False,True,EXCLUDE,EXCLUDE,jev,0.08,0.92
+https://lod.nal.usda.gov/nalt/132367,resistin,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/298136,respiratory burst,True,True,INCLUDE,INCLUDE,jev,0.59,0.41
+https://lod.nal.usda.gov/nalt/202662,respiratory mucosa,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/90688,reticulocyte count,False,True,EXCLUDE,EXCLUDE,jev,0.17,0.83
+https://lod.nal.usda.gov/nalt/38093,reticulocytes,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/46970,reticuloendothelial system,False,True,EXCLUDE,EXCLUDE,jev,0.42,0.58
+https://lod.nal.usda.gov/nalt/38995,retina,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/317435,retinitis pigmentosa,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/194991,reverse osmosis,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/6723,Rhizobium,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/33,Rhodophyta,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/263926,rhoptry,True,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/263930,rhoptry proteins,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/34168,ribosomal DNA,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/61502,ribosomal RNA,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/56075,ribosomes,True,True,INCLUDE,INCLUDE,jev,0.93,0.07
+https://lod.nal.usda.gov/nalt/10538,RNA,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/264024,RNA packaging,True,True,EXCLUDE,EXCLUDE,jev,0.35,0.65
+https://lod.nal.usda.gov/nalt/7177,RNA splicing,False,True,EXCLUDE,EXCLUDE,jev,0.12,0.88
+https://lod.nal.usda.gov/nalt/312235,RNA splicing factors,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/225409,RNA transport,False,True,INCLUDE,INCLUDE,jev,0.85,0.15
+https://lod.nal.usda.gov/nalt/243987,Robertsonian translocation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146572,rods (retina),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/328582,root border cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/61633,root cap,False,True,EXCLUDE,EXCLUDE,jev,0.19,0.81
+https://lod.nal.usda.gov/nalt/334628,root epidermis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/55104,root nodules,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4425,roots,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/37063,rough endoplasmic reticulum,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/37630,rumen epithelium,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2899,salivary glands,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/145,salt tolerance,False,True,EXCLUDE,EXCLUDE,jev,0.26,0.74
+https://lod.nal.usda.gov/nalt/123187,saplings,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/54163,sarcomeres,True,True,INCLUDE,INCLUDE,jev,0.76,0.24
+https://lod.nal.usda.gov/nalt/62433,sarcoplasmic reticulum,True,True,INCLUDE,INCLUDE,jev,0.95,0.05
+https://lod.nal.usda.gov/nalt/34245,satellite DNA,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32910,schizonts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14271,Schwann cells,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/62732,second messengers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/191190,secretory granules,True,True,INCLUDE,INCLUDE,jev,0.93,0.07
+https://lod.nal.usda.gov/nalt/198167,seed storage proteins,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/15089,seed-borne bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32911,seedlings,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/20440,seeds,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/51929,segregation distortion,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18324,semen,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/9034,semen banks,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/296230,semen quality,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/37631,seminiferous epithelium,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/127,senescence (aging),False,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/4780,sensory neurons,False,True,EXCLUDE,EXCLUDE,jev,0.26,0.74
+https://lod.nal.usda.gov/nalt/24722,sensory receptors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/54682,sensory system,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23481,Sertoli cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/25762,sex chromatin,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25877,sex chromosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334289,sexine,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/39946,sexual reproduction,False,True,EXCLUDE,EXCLUDE,jev,0.41,0.59
+https://lod.nal.usda.gov/nalt/23371,signal transduction,True,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/35050,skeletal muscle,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/241657,skin neoplasms,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/61600,small nuclear RNA,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/124432,smolts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37064,smooth endoplasmic reticulum,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/283211,SNARE proteins,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/341866,sodium channel blockers,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/15090,soil bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/52963,somatic cell count,False,True,EXCLUDE,EXCLUDE,jev,0.11,0.89
+https://lod.nal.usda.gov/nalt/23482,somatic cells,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/46235,somatic hybridization,False,True,EXCLUDE,EXCLUDE,jev,0.47,0.53
+https://lod.nal.usda.gov/nalt/132647,somatic mutation,False,True,INCLUDE,INCLUDE,jev,0.82,0.18
+https://lod.nal.usda.gov/nalt/38094,spectrin,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/9460,sperm capacitation,False,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/47567,sperm competition,False,True,EXCLUDE,EXCLUDE,jev,0.23,0.77
+https://lod.nal.usda.gov/nalt/198414,sperm concentration,False,True,EXCLUDE,EXCLUDE,jev,0.27,0.73
+https://lod.nal.usda.gov/nalt/9490,sperm motility,True,True,INCLUDE,INCLUDE,jev,0.92,0.08
+https://lod.nal.usda.gov/nalt/296215,sperm quality,True,True,INCLUDE,INCLUDE,jev,0.58,0.42
+https://lod.nal.usda.gov/nalt/9491,sperm transport,False,True,EXCLUDE,EXCLUDE,jev,0.29,0.71
+https://lod.nal.usda.gov/nalt/42846,spermatids,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/42847,spermatocytes,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/42264,spermatogenesis,False,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/42848,spermatogonia,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/47405,spermatophores,False,True,EXCLUDE,EXCLUDE,jev,0.44,0.56
+https://lod.nal.usda.gov/nalt/323012,spermatozeugmata,True,True,EXCLUDE,EXCLUDE,jev,0.48,0.52
+https://lod.nal.usda.gov/nalt/3136,spermatozoa,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/63753,spermiogenesis,False,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/341337,spiderlings,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41785,spindle pole body,False,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/9348,spleen,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/23483,splenocytes,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/56076,spliceosomes,True,True,INCLUDE,INCLUDE,jev,0.65,0.35
+https://lod.nal.usda.gov/nalt/42880,spore germination,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/233513,spore traps,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15091,spore-forming bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32912,sporocysts (Protozoa),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32913,sporophytes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/252751,sporopollenin,False,True,EXCLUDE,EXCLUDE,jev,0.09,0.91
+https://lod.nal.usda.gov/nalt/32914,sporozoites,False,True,EXCLUDE,EXCLUDE,jev,0.08,0.92
+https://lod.nal.usda.gov/nalt/8250,starch granules,False,True,EXCLUDE,EXCLUDE,jev,0.36,0.64
+https://lod.nal.usda.gov/nalt/23484,stem cells,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/146600,stress response,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53776,striated muscle,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/149090,stromal cells,True,True,INCLUDE,INCLUDE,jev,0.96,0.04
+https://lod.nal.usda.gov/nalt/20189,subcellular fractions,True,True,INCLUDE,INCLUDE,jev,0.78,0.22
+https://lod.nal.usda.gov/nalt/25878,submetacentric chromosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/190298,suicide genes,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/15092,sulfate-reducing bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/343477,superfecundation,False,True,EXCLUDE,EXCLUDE,jev,0.06,0.94
+https://lod.nal.usda.gov/nalt/343476,superfetation,False,True,EXCLUDE,EXCLUDE,jev,0.12,0.88
+https://lod.nal.usda.gov/nalt/9037,superovulation,False,True,EXCLUDE,EXCLUDE,jev,0.23,0.77
+https://lod.nal.usda.gov/nalt/65243,suppressor cells,True,True,INCLUDE,INCLUDE,jev,0.91,0.09
+https://lod.nal.usda.gov/nalt/37082,symbionts,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/28123,symbiosis,False,True,INCLUDE,INCLUDE,jev,0.64,0.36
+https://lod.nal.usda.gov/nalt/14034,sympathetic nervous system,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/148685,symplast,False,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/65313,symporters,False,True,EXCLUDE,EXCLUDE,jev,0.07,0.93
+https://lod.nal.usda.gov/nalt/283883,synanthropes,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/54683,synapse,True,True,INCLUDE,INCLUDE,jev,0.69,0.31
+https://lod.nal.usda.gov/nalt/54717,synaptic transmission,False,True,INCLUDE,INCLUDE,jev,0.55,0.45
+https://lod.nal.usda.gov/nalt/264089,synaptic vesicles,True,True,INCLUDE,INCLUDE,jev,0.58,0.42
+https://lod.nal.usda.gov/nalt/246202,synaptogenesis,False,True,INCLUDE,INCLUDE,jev,0.81,0.19
+https://lod.nal.usda.gov/nalt/51917,synaptonemal complex,True,True,INCLUDE,INCLUDE,jev,0.88,0.12
+https://lod.nal.usda.gov/nalt/65104,synaptosomes,True,True,EXCLUDE,EXCLUDE,jev,0.43,0.57
+https://lod.nal.usda.gov/nalt/295041,T-cell lymphoma,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/23197,T-lymphocytes,True,True,INCLUDE,INCLUDE,jev,0.94,0.06
+https://lod.nal.usda.gov/nalt/32915,tachyzoites,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/291508,target of rapamycin signaling pathways,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/271989,teichoic acids,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/41787,teleomorphs,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/41809,teliospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25879,telocentric chromosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/282,telomeres,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23395,telophase,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/28572,tendons,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/323988,tenocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/23486,teratocytes,True,True,INCLUDE,INCLUDE,jev,0.83,0.17
+https://lod.nal.usda.gov/nalt/43422,testes,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/59168,tetraploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8829,tetrasomics,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23487,thecal cells,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/15093,thermoduric bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15094,thermophilic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18368,thermoregulation,False,True,EXCLUDE,EXCLUDE,jev,0.03,0.97
+https://lod.nal.usda.gov/nalt/325861,thiazolyl blue,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/18109,thrombocytopenia,False,True,EXCLUDE,EXCLUDE,jev,0.17,0.83
+https://lod.nal.usda.gov/nalt/23410,thylakoids,True,True,INCLUDE,INCLUDE,jev,0.62,0.38
+https://lod.nal.usda.gov/nalt/50929,thymocytes,True,True,INCLUDE,INCLUDE,jev,0.97,0.03
+https://lod.nal.usda.gov/nalt/37012,thymus gland,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/47484,tight junctions,True,True,INCLUDE,INCLUDE,jev,1.0,0.0
+https://lod.nal.usda.gov/nalt/9560,tissue culture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/770,tissue degeneration,False,True,EXCLUDE,EXCLUDE,jev,0.22,0.78
+https://lod.nal.usda.gov/nalt/44735,tissue repair,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23411,tonoplast,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/128,totipotency,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/271059,transient receptor potential channels,False,True,EXCLUDE,EXCLUDE,jev,0.02,0.98
+https://lod.nal.usda.gov/nalt/17197,transport proteins,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/1600,transporters,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/3995,triacylglycerols,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/334267,tricolporate pollen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59169,triploidy,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8830,trisomics,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14058,trophic relationships,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/17931,trophoblast,False,True,INCLUDE,INCLUDE,jev,0.73,0.27
+https://lod.nal.usda.gov/nalt/32916,trophozoites,False,True,INCLUDE,INCLUDE,jev,0.54,0.46
+https://lod.nal.usda.gov/nalt/199112,troponin T,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/32917,trypomastigotes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/52880,tubulin,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/261837,tumor suppressor protein p53,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/245155,type I secretion system,False,True,EXCLUDE,EXCLUDE,jev,0.32,0.68
+https://lod.nal.usda.gov/nalt/245157,type IV secretion system,False,True,EXCLUDE,EXCLUDE,jev,0.26,0.74
+https://lod.nal.usda.gov/nalt/245158,type V secretion system,False,True,EXCLUDE,EXCLUDE,jev,0.22,0.78
+https://lod.nal.usda.gov/nalt/244123,type VI secretion system,False,True,EXCLUDE,EXCLUDE,jev,0.28,0.72
+https://lod.nal.usda.gov/nalt/220015,ubiquitins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146596,unfolded protein response,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/55450,uptake mechanisms,False,True,INCLUDE,INCLUDE,jev,0.78,0.22
+https://lod.nal.usda.gov/nalt/209752,urediniospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/316971,USDA National Plant Germplasm System,False,True,EXCLUDE,EXCLUDE,jev,0.0,1.0
+https://lod.nal.usda.gov/nalt/56077,vacuoles,True,True,INCLUDE,INCLUDE,jev,0.98,0.02
+https://lod.nal.usda.gov/nalt/20384,vascular bundles,False,True,EXCLUDE,EXCLUDE,jev,0.05,0.95
+https://lod.nal.usda.gov/nalt/312885,vascular cell adhesion molecules,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23488,vegetative cells,True,True,INCLUDE,INCLUDE,jev,0.92,0.08
+https://lod.nal.usda.gov/nalt/200645,ventral adhesive disk,True,True,INCLUDE,INCLUDE,jev,0.72,0.28
+https://lod.nal.usda.gov/nalt/231401,ventral receptacle,False,True,EXCLUDE,EXCLUDE,jev,0.1,0.9
+https://lod.nal.usda.gov/nalt/129,viability,False,True,INCLUDE,INCLUDE,jev,0.56,0.44
+https://lod.nal.usda.gov/nalt/309738,viability assays,False,True,EXCLUDE,EXCLUDE,jev,0.01,0.99
+https://lod.nal.usda.gov/nalt/47558,villi,False,True,EXCLUDE,EXCLUDE,jev,0.04,0.96
+https://lod.nal.usda.gov/nalt/204970,vimentin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/189798,viral growth,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/246154,viral inclusion bodies,True,True,EXCLUDE,EXCLUDE,jev,0.47,0.53
+https://lod.nal.usda.gov/nalt/283951,virus culture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334489,viscin threads,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/38987,vision,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35956,vitelline membrane,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/55918,vitellogenesis,False,True,EXCLUDE,EXCLUDE,jev,0.46,0.54
+https://lod.nal.usda.gov/nalt/67170,vitellogenin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/62962,W chromosome,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46559,water uptake,False,True,INCLUDE,INCLUDE,jev,0.85,0.15
+https://lod.nal.usda.gov/nalt/297921,white adipocytes,True,True,INCLUDE,INCLUDE,jev,0.99,0.01
+https://lod.nal.usda.gov/nalt/62963,X chromosome,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/62964,Y chromosome,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25880,yeast artificial chromosomes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35962,yolk proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/342929,young of the year,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/62965,Z chromosome,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/56390,zona pellucida,True,True,INCLUDE,INCLUDE,jev,0.72,0.28
+https://lod.nal.usda.gov/nalt/63966,zoospores,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/226161,zygospores,True,False,EXCLUDE,,unreached,,

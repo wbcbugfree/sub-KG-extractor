@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q422057",
+  "seed_label": "Institut national de recherche et de sécurité",
+  "included_qids": [
+    "Q109640306",
+    "Q31855",
+    "Q3726309",
+    "Q422057",
+    "Q7315155"
+  ],
+  "pruned_qids": [
+    "Q1141791",
+    "Q20820271",
+    "Q57910923",
+    "Q90614242",
+    "Q99052531"
+  ],
+  "visited_qids": [
+    "Q109640306",
+    "Q1141791",
+    "Q20820271",
+    "Q31855",
+    "Q3726309",
+    "Q422057",
+    "Q57910923",
+    "Q7315155",
+    "Q90614242",
+    "Q99052531"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 3,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:04.208418+00:00",
+  "finished_at_utc": "2026-10-28T17:46:04.988924+00:00",
+  "wall_seconds": 0.7804977999912808,
+  "frontier_exhausted": true
+}

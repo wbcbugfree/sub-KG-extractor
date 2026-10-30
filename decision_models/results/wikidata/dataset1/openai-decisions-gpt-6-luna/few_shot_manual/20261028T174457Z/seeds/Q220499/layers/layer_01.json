@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4828",
+    "legacy_row_id": "Q220499|Q81941037",
+    "seed_qid": "Q220499",
+    "seed_label": "streaming media",
+    "qid": "Q81941037",
+    "label": "product distribution method",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q220499",
+    "parent_label": "streaming media",
+    "path": "streaming media --instance of--> product distribution method",
+    "uri": "http://www.wikidata.org/entity/Q81941037",
+    "classification": "INCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.53,
+    "p_exclude": 0.47,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

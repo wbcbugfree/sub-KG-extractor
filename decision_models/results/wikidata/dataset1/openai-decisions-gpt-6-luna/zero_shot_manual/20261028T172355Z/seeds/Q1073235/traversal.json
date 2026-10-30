@@ -1,0 +1,62 @@
+{
+  "seed_qid": "Q1073235",
+  "seed_label": "China Communications Standards Association",
+  "included_qids": [
+    "Q1073235",
+    "Q1328899",
+    "Q15277759",
+    "Q4830453",
+    "Q7835148",
+    "Q783794"
+  ],
+  "pruned_qids": [
+    "Q105547053",
+    "Q16968466",
+    "Q220142",
+    "Q2566474",
+    "Q294801",
+    "Q51885731",
+    "Q52162350",
+    "Q56342478",
+    "Q659206"
+  ],
+  "visited_qids": [
+    "Q105547053",
+    "Q1073235",
+    "Q1328899",
+    "Q15277759",
+    "Q16968466",
+    "Q220142",
+    "Q2566474",
+    "Q294801",
+    "Q4830453",
+    "Q51885731",
+    "Q52162350",
+    "Q56342478",
+    "Q659206",
+    "Q7835148",
+    "Q783794"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 11,
+      "included": 2,
+      "excluded": 9,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:59.539477+00:00",
+  "finished_at_utc": "2026-10-28T17:24:00.414048+00:00",
+  "wall_seconds": 0.8745668000046862,
+  "frontier_exhausted": true
+}

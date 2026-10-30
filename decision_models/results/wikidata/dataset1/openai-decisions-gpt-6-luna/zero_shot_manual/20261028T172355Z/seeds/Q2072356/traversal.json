@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q2072356",
+  "seed_label": "Amazon Elastic Compute Cloud",
+  "included_qids": [
+    "Q13403358",
+    "Q1346018",
+    "Q2072356",
+    "Q3958022",
+    "Q483639"
+  ],
+  "pruned_qids": [
+    "Q1153767",
+    "Q5635755",
+    "Q6746653",
+    "Q914359"
+  ],
+  "visited_qids": [
+    "Q1153767",
+    "Q13403358",
+    "Q1346018",
+    "Q2072356",
+    "Q3958022",
+    "Q483639",
+    "Q5635755",
+    "Q6746653",
+    "Q914359"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 2,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:27.051692+00:00",
+  "finished_at_utc": "2026-10-28T17:24:27.931590+00:00",
+  "wall_seconds": 0.8798964000015985,
+  "frontier_exhausted": true
+}

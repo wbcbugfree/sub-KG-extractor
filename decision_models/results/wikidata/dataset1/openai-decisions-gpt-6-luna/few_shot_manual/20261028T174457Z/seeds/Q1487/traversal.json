@@ -1,0 +1,58 @@
+{
+  "seed_qid": "Q1487",
+  "seed_label": "hacker",
+  "included_qids": [
+    "Q12737077",
+    "Q1487",
+    "Q264965",
+    "Q5637247"
+  ],
+  "pruned_qids": [
+    "Q1022116",
+    "Q1162746",
+    "Q13584036",
+    "Q1470206",
+    "Q188976",
+    "Q1940032",
+    "Q2697987",
+    "Q5136459",
+    "Q7445029"
+  ],
+  "visited_qids": [
+    "Q1022116",
+    "Q1162746",
+    "Q12737077",
+    "Q13584036",
+    "Q1470206",
+    "Q1487",
+    "Q188976",
+    "Q1940032",
+    "Q264965",
+    "Q2697987",
+    "Q5136459",
+    "Q5637247",
+    "Q7445029"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 10,
+      "included": 1,
+      "excluded": 9,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:16.370091+00:00",
+  "finished_at_utc": "2026-10-28T17:45:17.567436+00:00",
+  "wall_seconds": 1.1973354999936419,
+  "frontier_exhausted": true
+}

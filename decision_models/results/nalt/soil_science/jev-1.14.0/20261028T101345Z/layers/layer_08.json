@@ -1,0 +1,55 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/52246",
+    "prefLabel": "metam",
+    "altLabels": [
+      "carbathione",
+      "iron methyldithiocarbamate",
+      "metam-sodium",
+      "metham",
+      "metham-sodium",
+      "methylcarbamodithioic acid",
+      "methyldithiocarbamate",
+      "methyldithiocarbamic acid",
+      "sodium methyldithiocarbamate",
+      "vapam"
+    ],
+    "displayName": "metam (carbathione, iron methyldithiocarbamate, metam-sodium, metham, metham-sodium, methylcarbamodithioic acid, methyldithiocarbamate, methyldithiocarbamic acid, sodium methyldithiocarbamate, vapam)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/62344",
+    "prefLabel": "sand stabilization",
+    "altLabels": [
+      "sand stabilisation"
+    ],
+    "displayName": "sand stabilization (sand stabilisation)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.47,
+    "p_exclude": 0.53,
+    "selected_probability": 0.53,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  }
+]

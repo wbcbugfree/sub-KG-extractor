@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q388",
+  "seed_label": "Linux",
+  "included_qids": [
+    "Q16082297",
+    "Q16889133",
+    "Q170584",
+    "Q241317",
+    "Q388",
+    "Q9135"
+  ],
+  "pruned_qids": [
+    "Q15545584"
+  ],
+  "visited_qids": [
+    "Q15545584",
+    "Q16082297",
+    "Q16889133",
+    "Q170584",
+    "Q241317",
+    "Q388",
+    "Q9135"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 5,
+      "included": 4,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:47.565087+00:00",
+  "finished_at_utc": "2026-10-28T17:24:48.299957+00:00",
+  "wall_seconds": 0.734881199998199,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q115637",
+  "seed_label": "Mobile Station Roaming Number",
+  "included_qids": [
+    "Q110609500",
+    "Q115637",
+    "Q4392007",
+    "Q853614"
+  ],
+  "pruned_qids": [
+    "Q110861089",
+    "Q111653916",
+    "Q1268470",
+    "Q1541645",
+    "Q1649137",
+    "Q369494",
+    "Q54975531",
+    "Q98512004"
+  ],
+  "visited_qids": [
+    "Q110609500",
+    "Q110861089",
+    "Q111653916",
+    "Q115637",
+    "Q1268470",
+    "Q1541645",
+    "Q1649137",
+    "Q369494",
+    "Q4392007",
+    "Q54975531",
+    "Q853614",
+    "Q98512004"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 10,
+      "included": 2,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:03.550841+00:00",
+  "finished_at_utc": "2026-10-28T17:24:04.184135+00:00",
+  "wall_seconds": 0.6333003000036115,
+  "frontier_exhausted": true
+}

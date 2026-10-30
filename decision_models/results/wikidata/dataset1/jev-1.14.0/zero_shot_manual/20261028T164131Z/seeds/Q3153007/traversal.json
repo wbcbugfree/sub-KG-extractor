@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q3153007",
+  "seed_label": "distributed artificial intelligence",
+  "included_qids": [
+    "Q11862829",
+    "Q3153007"
+  ],
+  "pruned_qids": [
+    "Q109425807",
+    "Q184784",
+    "Q2001056",
+    "Q60310061",
+    "Q6168352",
+    "Q64800624",
+    "Q64801099",
+    "Q65054879"
+  ],
+  "visited_qids": [
+    "Q109425807",
+    "Q11862829",
+    "Q184784",
+    "Q2001056",
+    "Q3153007",
+    "Q60310061",
+    "Q6168352",
+    "Q64800624",
+    "Q64801099",
+    "Q65054879"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 0,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:06.551788+00:00",
+  "finished_at_utc": "2026-10-28T16:42:07.189783+00:00",
+  "wall_seconds": 0.6379968999972334,
+  "frontier_exhausted": true
+}

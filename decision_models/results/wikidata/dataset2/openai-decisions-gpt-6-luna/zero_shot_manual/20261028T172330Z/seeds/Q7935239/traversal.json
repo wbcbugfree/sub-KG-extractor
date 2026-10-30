@@ -1,0 +1,43 @@
+{
+  "seed_qid": "Q7935239",
+  "seed_label": "Virtuoso Universal Server",
+  "included_qids": [
+    "Q1130645",
+    "Q215819",
+    "Q319417",
+    "Q3539533",
+    "Q3932296",
+    "Q7935239"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1130645",
+    "Q215819",
+    "Q319417",
+    "Q3539533",
+    "Q3932296",
+    "Q7935239"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:46.483023+00:00",
+  "finished_at_utc": "2026-10-28T17:23:47.191940+00:00",
+  "wall_seconds": 0.7089148000086425,
+  "frontier_exhausted": true
+}

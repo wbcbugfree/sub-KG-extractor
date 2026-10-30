@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q195",
+  "seed_label": "chocolate",
+  "included_qids": [
+    "Q1063560",
+    "Q13261",
+    "Q1365365",
+    "Q181042",
+    "Q195",
+    "Q23461185",
+    "Q25403900",
+    "Q5159627",
+    "Q757388"
+  ],
+  "pruned_qids": [
+    "Q10987",
+    "Q2596997",
+    "Q752276"
+  ],
+  "visited_qids": [
+    "Q1063560",
+    "Q10987",
+    "Q13261",
+    "Q1365365",
+    "Q181042",
+    "Q195",
+    "Q23461185",
+    "Q25403900",
+    "Q2596997",
+    "Q5159627",
+    "Q752276",
+    "Q757388"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 9,
+      "included": 7,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:42:40.973769+00:00",
+  "finished_at_utc": "2026-10-28T17:42:41.715215+00:00",
+  "wall_seconds": 0.7414528999943286,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q10290274",
+  "seed_label": "Gmsk",
+  "included_qids": [
+    "Q10290274"
+  ],
+  "pruned_qids": [
+    "Q11016"
+  ],
+  "visited_qids": [
+    "Q10290274",
+    "Q11016"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:33.850946+00:00",
+  "finished_at_utc": "2026-10-28T16:41:34.140614+00:00",
+  "wall_seconds": 0.28966850000142585,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,17 @@
+{
+  "command": [
+    "C:\\Users\\wang479\\miniconda3\\python.exe",
+    "-u",
+    "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\openai_decisions_nalt.py",
+    "--benchmark",
+    "plant_health",
+    "--output-dir",
+    "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\results\\nalt\\plant_health\\openai-decisions-gpt-6-luna\\20261028T111203Z"
+  ],
+  "started_at_utc": "2026-10-28T11:12:29.476758+00:00",
+  "finished_at_utc": "2026-10-28T11:13:42.725247+00:00",
+  "exit_code": 0,
+  "process_wall_seconds": 73.24849929999618,
+  "status": "complete",
+  "run_dir": "decision_models/results/nalt/plant_health/openai-decisions-gpt-6-luna/20261028T111203Z"
+}

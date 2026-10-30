@@ -1,0 +1,66 @@
+{
+  "seed_qid": "Q1139866",
+  "seed_label": "Dofus",
+  "included_qids": [
+    "Q101900049",
+    "Q1139866",
+    "Q116634",
+    "Q4485157",
+    "Q67016067",
+    "Q6895044",
+    "Q7889"
+  ],
+  "pruned_qids": [
+    "Q14411698",
+    "Q16021388",
+    "Q28004621",
+    "Q54767",
+    "Q55588631",
+    "Q65073088",
+    "Q78444225",
+    "Q7927920",
+    "Q89691527",
+    "Q958821"
+  ],
+  "visited_qids": [
+    "Q101900049",
+    "Q1139866",
+    "Q116634",
+    "Q14411698",
+    "Q16021388",
+    "Q28004621",
+    "Q4485157",
+    "Q54767",
+    "Q55588631",
+    "Q65073088",
+    "Q67016067",
+    "Q6895044",
+    "Q78444225",
+    "Q7889",
+    "Q7927920",
+    "Q89691527",
+    "Q958821"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 15,
+      "included": 5,
+      "excluded": 10,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:17.436558+00:00",
+  "finished_at_utc": "2026-10-28T16:30:18.194794+00:00",
+  "wall_seconds": 0.7582456000018283,
+  "frontier_exhausted": true
+}

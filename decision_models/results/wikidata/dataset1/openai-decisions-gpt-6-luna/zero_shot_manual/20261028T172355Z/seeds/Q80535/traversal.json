@@ -1,0 +1,66 @@
+{
+  "seed_qid": "Q80535",
+  "seed_label": "MIDI",
+  "included_qids": [
+    "Q132364",
+    "Q165194",
+    "Q20819677",
+    "Q235557",
+    "Q5004612",
+    "Q80535"
+  ],
+  "pruned_qids": [
+    "Q109772972",
+    "Q133862",
+    "Q28858025",
+    "Q28858054",
+    "Q29053484",
+    "Q4825885",
+    "Q58182284",
+    "Q6045205",
+    "Q60738905",
+    "Q7598414",
+    "Q974922"
+  ],
+  "visited_qids": [
+    "Q109772972",
+    "Q132364",
+    "Q133862",
+    "Q165194",
+    "Q20819677",
+    "Q235557",
+    "Q28858025",
+    "Q28858054",
+    "Q29053484",
+    "Q4825885",
+    "Q5004612",
+    "Q58182284",
+    "Q6045205",
+    "Q60738905",
+    "Q7598414",
+    "Q80535",
+    "Q974922"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 14,
+      "included": 3,
+      "excluded": 11,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:25:06.202669+00:00",
+  "finished_at_utc": "2026-10-28T17:25:07.055455+00:00",
+  "wall_seconds": 0.8527864999923622,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,58 @@
+{
+  "seed_qid": "Q169411",
+  "seed_label": "Unified Modeling Language",
+  "included_qids": [
+    "Q169411",
+    "Q1993334",
+    "Q28920117",
+    "Q28920181",
+    "Q29077376",
+    "Q4117397",
+    "Q899523",
+    "Q9143"
+  ],
+  "pruned_qids": [
+    "Q189224",
+    "Q28920795",
+    "Q28923013",
+    "Q75988682",
+    "Q7998546"
+  ],
+  "visited_qids": [
+    "Q169411",
+    "Q189224",
+    "Q1993334",
+    "Q28920117",
+    "Q28920181",
+    "Q28920795",
+    "Q28923013",
+    "Q29077376",
+    "Q4117397",
+    "Q75988682",
+    "Q7998546",
+    "Q899523",
+    "Q9143"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 10,
+      "included": 5,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:16.186084+00:00",
+  "finished_at_utc": "2026-10-28T17:24:16.935047+00:00",
+  "wall_seconds": 0.7489601000124821,
+  "frontier_exhausted": true
+}

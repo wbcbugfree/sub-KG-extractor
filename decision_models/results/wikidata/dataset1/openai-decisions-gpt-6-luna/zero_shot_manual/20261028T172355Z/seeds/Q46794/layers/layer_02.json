@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4224",
+    "legacy_row_id": "Q46794|Q56191572",
+    "seed_qid": "Q46794",
+    "seed_label": "Subversion",
+    "qid": "Q56191572",
+    "label": "Escornabot",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q341",
+    "parent_label": "free software",
+    "path": "Subversion --instance of--> free software --has subclass--> Escornabot",
+    "uri": "http://www.wikidata.org/entity/Q56191572",
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

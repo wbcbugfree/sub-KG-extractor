@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row40",
+    "legacy_row_id": "Q42490|Q14406742",
+    "seed_qid": "Q42490",
+    "seed_label": "Asterix",
+    "qid": "Q14406742",
+    "label": "comic book series",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q42490",
+    "parent_label": "Asterix",
+    "path": "Asterix --instance of--> comic book series",
+    "uri": "http://www.wikidata.org/entity/Q14406742",
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

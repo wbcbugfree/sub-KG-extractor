@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q875932",
+  "seed_label": "digital watermarking",
+  "included_qids": [
+    "Q875932"
+  ],
+  "pruned_qids": [
+    "Q80071"
+  ],
+  "visited_qids": [
+    "Q80071",
+    "Q875932"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:27.489306+00:00",
+  "finished_at_utc": "2026-10-28T16:42:27.833048+00:00",
+  "wall_seconds": 0.34374350000871345,
+  "frontier_exhausted": true
+}

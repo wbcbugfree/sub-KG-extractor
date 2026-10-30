@@ -1,0 +1,58 @@
+{
+  "seed_qid": "Q11288",
+  "seed_label": "web server",
+  "included_qids": [
+    "Q11288",
+    "Q17155032",
+    "Q4485156",
+    "Q48835386"
+  ],
+  "pruned_qids": [
+    "Q1756442",
+    "Q21674818",
+    "Q2392270",
+    "Q24839054",
+    "Q4434361",
+    "Q459708",
+    "Q5439692",
+    "Q570871",
+    "Q6407552"
+  ],
+  "visited_qids": [
+    "Q11288",
+    "Q17155032",
+    "Q1756442",
+    "Q21674818",
+    "Q2392270",
+    "Q24839054",
+    "Q4434361",
+    "Q4485156",
+    "Q459708",
+    "Q48835386",
+    "Q5439692",
+    "Q570871",
+    "Q6407552"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 10,
+      "included": 1,
+      "excluded": 9,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:01.663825+00:00",
+  "finished_at_utc": "2026-10-28T17:24:02.582956+00:00",
+  "wall_seconds": 0.9191242000088096,
+  "frontier_exhausted": true
+}

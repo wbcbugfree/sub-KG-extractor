@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q189620",
+  "seed_label": "SOAP",
+  "included_qids": [
+    "Q15836568",
+    "Q189620"
+  ],
+  "pruned_qids": [
+    "Q2622793",
+    "Q3359815",
+    "Q5013874",
+    "Q8777"
+  ],
+  "visited_qids": [
+    "Q15836568",
+    "Q189620",
+    "Q2622793",
+    "Q3359815",
+    "Q5013874",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 0,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:47.299725+00:00",
+  "finished_at_utc": "2026-10-28T17:43:47.980406+00:00",
+  "wall_seconds": 0.6807056999969063,
+  "frontier_exhausted": true
+}

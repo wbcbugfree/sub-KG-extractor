@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4067",
+    "legacy_row_id": "Q206047|Q317623",
+    "seed_qid": "Q206047",
+    "seed_label": "Asynchronous Transfer Mode",
+    "qid": "Q317623",
+    "label": "technical standard",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q206047",
+    "parent_label": "Asynchronous Transfer Mode",
+    "path": "Asynchronous Transfer Mode --instance of--> technical standard",
+    "uri": "http://www.wikidata.org/entity/Q317623",
+    "classification": "INCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.84,
+    "p_exclude": 0.16,
+    "selected_probability": 0.84,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

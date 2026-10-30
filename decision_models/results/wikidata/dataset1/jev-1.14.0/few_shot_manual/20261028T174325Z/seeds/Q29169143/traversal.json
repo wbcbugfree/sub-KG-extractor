@@ -1,0 +1,54 @@
+{
+  "seed_qid": "Q29169143",
+  "seed_label": "data scientist",
+  "included_qids": [
+    "Q28640",
+    "Q29169143"
+  ],
+  "pruned_qids": [
+    "Q10468547",
+    "Q15839299",
+    "Q182436",
+    "Q24884545",
+    "Q3333733",
+    "Q4164871",
+    "Q4220920",
+    "Q56489540",
+    "Q778000"
+  ],
+  "visited_qids": [
+    "Q10468547",
+    "Q15839299",
+    "Q182436",
+    "Q24884545",
+    "Q28640",
+    "Q29169143",
+    "Q3333733",
+    "Q4164871",
+    "Q4220920",
+    "Q56489540",
+    "Q778000"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 0,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:01.016283+00:00",
+  "finished_at_utc": "2026-10-28T17:44:01.690652+00:00",
+  "wall_seconds": 0.6743673999881139,
+  "frontier_exhausted": true
+}

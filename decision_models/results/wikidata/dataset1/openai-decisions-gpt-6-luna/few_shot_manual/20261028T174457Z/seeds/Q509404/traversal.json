@@ -1,0 +1,62 @@
+{
+  "seed_qid": "Q509404",
+  "seed_label": "Alcatel-Lucent",
+  "included_qids": [
+    "Q1058914",
+    "Q161726",
+    "Q2401749",
+    "Q4830453",
+    "Q509404"
+  ],
+  "pruned_qids": [
+    "Q105547053",
+    "Q1132207",
+    "Q11885129",
+    "Q1200676",
+    "Q1529128",
+    "Q16968466",
+    "Q220142",
+    "Q2566474",
+    "Q90316218",
+    "Q96603167"
+  ],
+  "visited_qids": [
+    "Q105547053",
+    "Q1058914",
+    "Q1132207",
+    "Q11885129",
+    "Q1200676",
+    "Q1529128",
+    "Q161726",
+    "Q16968466",
+    "Q220142",
+    "Q2401749",
+    "Q2566474",
+    "Q4830453",
+    "Q509404",
+    "Q90316218",
+    "Q96603167"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 12,
+      "included": 2,
+      "excluded": 10,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:12.115850+00:00",
+  "finished_at_utc": "2026-10-28T17:46:13.073645+00:00",
+  "wall_seconds": 0.9577941000025021,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,52 @@
+{
+  "started_at_utc": "2026-10-27T13:35:47.504854+00:00",
+  "status": "complete",
+  "benchmark_name": "plant_health",
+  "requested_model": "jev-1.14.0",
+  "source_path": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\tmp\\nalt-baseline-source\\nalt-full_dwn_20240716.rdf",
+  "source_sha256": "71a3e2e5ca84e5f680e1ebbf3fa7a5892415c58de716334b5add27b54af6d168",
+  "python": "3.13.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "dependencies": {
+    "rdflib": "7.6.0",
+    "pydantic": "2.13.4",
+    "openai": "3.10.0"
+  },
+  "code_hashes": {
+    "decision_models/jev_nalt.py": "d7c7cdbef0ee75b035e974ac4749c3074366e2e63d23d5eecb5c683c896ce622",
+    "usecase/subkg_extractor_nalt.py": "10485acb775b7e26c614cbf4d8204e39ee689148c18b6c49697e5d5289e23386"
+  },
+  "settings": {
+    "batch_size": 20,
+    "max_workers": 5,
+    "max_iterations": 20,
+    "request_timeout_seconds": 60,
+    "transport": "curl",
+    "max_attempts": 3,
+    "primitive": "choice",
+    "decision_rule": "provider Choice (argmax)",
+    "confidence_gating": false,
+    "fallback_provider": null
+  },
+  "prompt_path": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\usecase\\prompts\\manual\\plant_health.md",
+  "prompt_file_sha256": "6d1ecccef1f6f919cc288f1cfdb038a07a7096e507b73355e2547da467302d80",
+  "transmitted_prompt_sha256": "6d1ecccef1f6f919cc288f1cfdb038a07a7096e507b73355e2547da467302d80",
+  "examples_path": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\usecase\\prompts\\examples\\plant_health_label_meta_examples.json",
+  "examples_sha256": "f9e17f695b55360839d41802e3201a9cbb2fe2bc24c9b44021743a5bf0feda72",
+  "preset": {
+    "gold_root_label": "Plant health",
+    "gold_root_uri": "https://lod.nal.usda.gov/nalt/941",
+    "seed_labels": [
+      "plant diseases and disorders",
+      "plant protection"
+    ],
+    "output_subdir": "plant",
+    "benchmark_name": "plant_health"
+  },
+  "live_inference_started_at_utc": "2026-10-27T13:36:41.345653+00:00",
+  "finished_at_utc": "2026-10-27T13:36:46.659958+00:00",
+  "elapsed_seconds": 59.15559690000373,
+  "response_models": [
+    "jev-1.14.0"
+  ]
+}

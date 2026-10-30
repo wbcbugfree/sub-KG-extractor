@@ -1,0 +1,42 @@
+{
+  "seed_qid": "Q79578",
+  "seed_label": "Google Web Toolkit",
+  "included_qids": [
+    "Q1193246",
+    "Q2533324",
+    "Q79578"
+  ],
+  "pruned_qids": [
+    "Q1691212",
+    "Q341"
+  ],
+  "visited_qids": [
+    "Q1193246",
+    "Q1691212",
+    "Q2533324",
+    "Q341",
+    "Q79578"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:20.726088+00:00",
+  "finished_at_utc": "2026-10-28T17:44:21.544644+00:00",
+  "wall_seconds": 0.8185561999998754,
+  "frontier_exhausted": true
+}

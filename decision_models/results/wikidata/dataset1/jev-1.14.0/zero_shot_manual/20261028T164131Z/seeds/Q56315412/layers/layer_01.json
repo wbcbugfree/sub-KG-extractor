@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row499",
+    "legacy_row_id": "Q56315412|Q20819677",
+    "seed_qid": "Q56315412",
+    "seed_label": "eSIM",
+    "qid": "Q20819677",
+    "label": "technical specification",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q56315412",
+    "parent_label": "eSIM",
+    "path": "eSIM --instance of--> technical specification",
+    "uri": "http://www.wikidata.org/entity/Q20819677",
+    "classification": "INCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.72,
+    "p_exclude": 0.28,
+    "selected_probability": 0.72,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

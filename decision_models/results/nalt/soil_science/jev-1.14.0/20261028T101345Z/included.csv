@@ -1,0 +1,903 @@
+uri,prefLabel,altLabels,classification,p_include,p_exclude,selected_probability,provider_confidence,decision_source,iteration,batch,candidate_number,response_model,in_hierarchy_gold,scored,relations
+https://lod.nal.usda.gov/nalt/63334,soil,,INCLUDE,,,,,seed,0,,,,True,True,
+https://lod.nal.usda.gov/nalt/5823,soil air,soil atmosphere; soil gases,INCLUDE,0.99,0.01,0.99,0.98,jev,1,1,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26939,soil morphological features,,INCLUDE,1.0,0.0,1.0,1.0,jev,1,1,4,jev-1.14.0,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5084,soil properties,,INCLUDE,0.98,0.02,0.98,0.96,jev,1,1,5,jev-1.14.0,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10094,soil types,,INCLUDE,1.0,0.0,1.0,1.0,jev,1,1,6,jev-1.14.0,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21983,soil water,soil moisture,INCLUDE,0.99,0.01,0.99,0.98,jev,1,1,7,jev-1.14.0,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5081,age of soil,soil age,INCLUDE,0.99,0.01,0.99,0.98,jev,2,1,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10092,anthropogenic soil types,,INCLUDE,0.99,0.01,0.99,0.98,jev,2,1,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/2734,chemical soil types,,INCLUDE,0.98,0.02,0.98,0.96,jev,2,1,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12168,climatic soil types,,INCLUDE,0.96,0.04,0.96,0.92,jev,2,1,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5473,cultural soil types,,INCLUDE,0.97,0.03,0.97,0.94,jev,2,1,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/7016,ecological soil types,,INCLUDE,0.95,0.05,0.95,0.9,jev,2,1,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35823,edaphic factors,soil environment,INCLUDE,0.97,0.03,0.97,0.94,jev,2,1,10,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/37925,erodibility,,INCLUDE,0.95,0.05,0.95,0.9,jev,2,1,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6337,genetic soil types,,INCLUDE,1.0,0.0,1.0,1.0,jev,2,1,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6754,lithological soil types,,INCLUDE,0.98,0.02,0.98,0.96,jev,2,1,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6710,mineralogical soil types,,INCLUDE,0.98,0.02,0.98,0.96,jev,2,1,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/306961,ortsteins,,INCLUDE,0.96,0.04,0.96,0.92,jev,2,1,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20443,paleosolic soil types,palaeosolic soil types; palaeosols,INCLUDE,0.99,0.01,0.99,0.98,jev,2,1,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/314998,pedodiversity,soil diversity,INCLUDE,0.99,0.01,0.99,0.98,jev,2,1,18,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/16123,physiographic soil types,,INCLUDE,0.97,0.03,0.97,0.94,jev,2,1,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/14083,plant available water,soil water availability,INCLUDE,0.89,0.11,0.89,0.78,jev,2,2,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61634,root channels,,INCLUDE,0.66,0.34,0.66,0.32,jev,2,2,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/333471,sodium adsorption ratio,,INCLUDE,0.58,0.42,0.58,0.16,jev,2,2,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/63353,soil biological properties,biochemical properties of soil; biological properties of soil; soil biochemical properties; soil microbiological properties,INCLUDE,1.0,0.0,1.0,1.0,jev,2,2,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9595,soil chemical properties,chemical properties of soil,INCLUDE,1.0,0.0,1.0,1.0,jev,2,2,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63360,soil color,soil colour,INCLUDE,1.0,0.0,1.0,1.0,jev,2,2,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/307017,soil concretions,,INCLUDE,0.98,0.02,0.98,0.96,jev,2,2,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/29788,soil cracks,,INCLUDE,0.99,0.01,0.99,0.98,jev,2,2,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63371,soil crusts,,INCLUDE,0.99,0.01,0.99,0.98,jev,2,2,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63373,soil depth,soil thickness,INCLUDE,1.0,0.0,1.0,1.0,jev,2,2,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63378,soil fabric,,INCLUDE,0.97,0.03,0.97,0.94,jev,2,2,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6796345,soil fatty acids,,INCLUDE,0.84,0.16,0.84,0.68,jev,2,2,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/959,soil formation,pedogenesis; pedogenetic evolution; pedogenetic processes; pedogenic evolution; pedogenic processes; soil evolution; soil genesis,INCLUDE,1.0,0.0,1.0,1.0,jev,2,2,16,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63388,soil heterogeneity,soil variability,INCLUDE,1.0,0.0,1.0,1.0,jev,2,2,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/1558,soil horizons,,INCLUDE,1.0,0.0,1.0,1.0,jev,2,2,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/29789,soil mechanical properties,engineering properties of soil,INCLUDE,0.97,0.03,0.97,0.94,jev,2,2,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63408,soil morphology,,INCLUDE,1.0,0.0,1.0,1.0,jev,2,2,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53536,soil mottles,,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41386,soil pans,,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5142,soil physical properties,physical characteristics of soil; physical properties of soil; physical soil features; soil physical conditions,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/51081,soil pore system,soil pores,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,4,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63433,soil pore water,,INCLUDE,0.95,0.05,0.95,0.9,jev,2,3,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63413,soil profiles,,INCLUDE,1.0,0.0,1.0,1.0,jev,2,3,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63358,soil solution,,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,7,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/306891,soil structural units,,INCLUDE,0.97,0.03,0.97,0.94,jev,2,3,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63417,soil structure,,INCLUDE,1.0,0.0,1.0,1.0,jev,2,3,9,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63434,soil suitability,,INCLUDE,0.92,0.08,0.92,0.84,jev,2,3,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63416,soil surface layers,,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63409,soil voids,,INCLUDE,0.97,0.03,0.97,0.94,jev,2,3,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40115,soil water balance,field water balance; soil water budget,INCLUDE,0.96,0.04,0.96,0.92,jev,2,3,13,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63393,soil water potential,,INCLUDE,0.98,0.02,0.98,0.96,jev,2,3,14,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/11565,soil water regimes,soil moisture regimes,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,15,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/45699,stratigraphic soil types,,INCLUDE,0.85,0.15,0.85,0.7,jev,2,3,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26757,structural soil types,,INCLUDE,0.93,0.07,0.93,0.86,jev,2,3,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63414,subsoil,sub-soil,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63415,subsurface soil layers,soil sub-surface layers; soil subsurface layers; sub-surface soil layers,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26742,textural soil types,,INCLUDE,0.99,0.01,0.99,0.98,jev,2,3,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/1559,topsoil,top soil; top-soil,INCLUDE,1.0,0.0,1.0,1.0,jev,2,4,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/313626,topsoil water,topsoil moisture; topsoil wetness,INCLUDE,0.97,0.03,0.97,0.94,jev,2,4,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/325180,volumetric water content,volumetric soil water content,INCLUDE,0.75,0.25,0.75,0.5,jev,2,4,3,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/1556,A horizons,A-horizons,INCLUDE,1.0,0.0,1.0,1.0,jev,3,1,1,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/2732,acid soils,acidic soils,INCLUDE,1.0,0.0,1.0,1.0,jev,3,1,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/2737,acid sulfate soils,acid sulphate soils,INCLUDE,1.0,0.0,1.0,1.0,jev,3,1,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5141,aggregate stability,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,1,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5472,agricultural soils,farmland soil,INCLUDE,0.93,0.07,0.93,0.86,jev,3,1,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6431,alkaline soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,1,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6709,allophanic soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,1,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6753,alluvial soils,flood plain soils; floodplain soils,INCLUDE,0.97,0.03,0.97,0.94,jev,3,1,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9594,anion exchange capacity,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,1,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/300735,anthropogenic horizons,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,1,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11440,aquic regimes,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,1,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11657,arable soils,arable land,INCLUDE,0.6,0.4,0.6,0.2,jev,3,1,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12103,argillic horizons,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,1,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/300755,argilluvic soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,1,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12167,arid soils,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,1,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12171,aridic regimes,torric regimes,INCLUDE,0.84,0.16,0.84,0.68,jev,3,1,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/14081,available water capacity,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,1,19,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/14413,B horizons,B-horizons,INCLUDE,1.0,0.0,1.0,1.0,jev,3,1,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15965,basaltic soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,2,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15975,base saturation,,INCLUDE,0.86,0.14,0.86,0.72,jev,3,2,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/16122,beach soils,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,2,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/300823,biological soil crusts,biocrusts; soil biological crusts,INCLUDE,0.99,0.01,0.99,0.98,jev,3,2,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18400,bog soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,2,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18873,bottomland soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,2,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20442,buried soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,2,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20534,burnt soils,,INCLUDE,0.93,0.07,0.93,0.86,jev,3,2,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20702,C horizons,C-horizons,INCLUDE,0.99,0.01,0.99,0.98,jev,3,2,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21069,calcareous soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,2,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23045,cation exchange capacity,,INCLUDE,0.89,0.11,0.89,0.78,jev,3,2,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24086,cerrado soils,,INCLUDE,0.93,0.07,0.93,0.86,jev,3,2,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24304,chalk soils,,INCLUDE,0.93,0.07,0.93,0.86,jev,3,2,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24429,chaparral soils,,INCLUDE,0.8,0.2,0.8,0.6,jev,3,2,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26559,citrus soils,,INCLUDE,0.75,0.25,0.75,0.5,jev,3,2,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26741,clay loam soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,2,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26755,clay soils,clayey soils,INCLUDE,0.98,0.02,0.98,0.96,jev,3,2,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26756,claypan soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,2,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26938,clods,soil clods,INCLUDE,0.99,0.01,0.99,0.98,jev,3,3,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/27363,coarse-textured soils,coarse textured soils; coarse-grained soils,INCLUDE,1.0,0.0,1.0,1.0,jev,3,3,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/27368,coastal plain soils,,INCLUDE,0.95,0.05,0.95,0.9,jev,3,3,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/27365,coastal soils,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,3,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26886,cold soils,,INCLUDE,0.91,0.09,0.91,0.82,jev,3,3,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/28315,compacted soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,3,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/29188,corn soils,maize soils,INCLUDE,0.6,0.4,0.6,0.2,jev,3,3,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/32183,delta soils,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,3,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/32536,desert soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,3,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/33019,diagnostic horizons,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,3,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10095,disturbed soils,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,3,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/27366,dune soils,,INCLUDE,0.88,0.12,0.88,0.76,jev,3,3,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/302131,duneland soils,,INCLUDE,0.88,0.12,0.88,0.76,jev,3,3,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35059,E horizons,E-horizons,INCLUDE,1.0,0.0,1.0,1.0,jev,3,3,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/36324,eluviation,,INCLUDE,0.77,0.23,0.77,0.54,jev,3,3,19,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/299127,eolian soils,aeolian soils,INCLUDE,0.99,0.01,0.99,0.98,jev,3,4,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10096,eroded soils,eroded sites,INCLUDE,0.82,0.18,0.82,0.64,jev,3,4,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/333650,erodibility index,soil erodibility index; soil erosion index,INCLUDE,0.99,0.01,0.99,0.98,jev,3,4,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35690,fen soils,fenland soils,INCLUDE,0.97,0.03,0.97,0.94,jev,3,4,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40100,field capacity,,INCLUDE,0.96,0.04,0.96,0.92,jev,3,4,5,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/40204,fine-textured soils,fine textured soils; fine-grained soils,INCLUDE,1.0,0.0,1.0,1.0,jev,3,4,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40743,fluvial soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,4,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35691,forest soils,,INCLUDE,0.96,0.04,0.96,0.92,jev,3,4,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41306,fossil soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,4,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41385,fragipans,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,4,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/301420,frigid soils,arctic soils,INCLUDE,0.89,0.11,0.89,0.78,jev,3,4,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42998,glacial soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,4,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43655,granite soils,,INCLUDE,0.63,0.37,0.63,0.26,jev,3,4,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30686,grassland soils,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,4,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43765,gravelly soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,4,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44151,gypsiferous soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,5,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/213766,hardpans,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,5,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35692,heathland soils,,INCLUDE,0.83,0.17,0.83,0.66,jev,3,5,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45698,holocene soils,,INCLUDE,0.76,0.24,0.76,0.52,jev,3,5,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30688,horticultural soils,,INCLUDE,0.75,0.25,0.75,0.5,jev,3,5,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/17317,humification,,INCLUDE,0.74,0.26,0.74,0.48,jev,3,5,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/196731,hydric soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,5,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42655,hydromorphic soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,5,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46933,illitic soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,5,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46935,illuviation,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,5,11,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/30689,irrigated soils,,INCLUDE,0.93,0.07,0.93,0.86,jev,3,5,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48282,kaolinitic soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,5,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48974,lacustrine soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,5,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/315620,laterites,lateritic soils,INCLUDE,1.0,0.0,1.0,1.0,jev,3,5,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30690,lawn soils,,INCLUDE,0.76,0.24,0.76,0.52,jev,3,5,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/49395,layered soils,,INCLUDE,0.91,0.09,0.91,0.82,jev,3,5,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/36326,leaching,,INCLUDE,0.8,0.2,0.8,0.6,jev,3,5,20,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/50174,limestone soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,6,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50479,loam soils,loamy soils,INCLUDE,1.0,0.0,1.0,1.0,jev,3,6,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/105831,loamy sand soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,6,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50384,loess soils,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,6,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/51080,macropores,,INCLUDE,0.96,0.04,0.96,0.92,jev,3,6,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35693,mangrove soils,,INCLUDE,0.93,0.07,0.93,0.86,jev,3,6,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/289944,meadow soils,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,6,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/52785,micropores,,INCLUDE,0.95,0.05,0.95,0.9,jev,3,6,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10099,mined soils,mined land,INCLUDE,0.7,0.3,0.7,0.4,jev,3,6,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24688,mineral soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,6,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53085,montmorillonitic soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,6,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53434,moraine soils,,INCLUDE,0.93,0.07,0.93,0.86,jev,3,6,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53550,mountain soils,,INCLUDE,0.9,0.1,0.9,0.8,jev,3,6,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30691,mushroom casing soils,,INCLUDE,0.68,0.32,0.68,0.36,jev,3,6,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10100,old field soils,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,6,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30692,orchard soils,,INCLUDE,0.8,0.2,0.8,0.6,jev,3,6,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/55521,organic horizons,O horizons; Oa horizons; Oe horizons; Oi horizons,INCLUDE,0.99,0.01,0.99,0.98,jev,3,6,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24689,organic soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,6,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/234472,ornithogenic soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,7,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10101,paddy soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,7,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35694,pampas soils,,INCLUDE,0.95,0.05,0.95,0.9,jev,3,7,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24690,peat soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,7,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58076,piedmont soils,,INCLUDE,0.86,0.14,0.86,0.72,jev,3,7,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58077,playa soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,7,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58797,pleistocene soils,,INCLUDE,0.83,0.17,0.83,0.66,jev,3,7,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58843,plow pans,plough pans,INCLUDE,0.97,0.03,0.97,0.94,jev,3,7,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/304858,podzolization,podzolisation,INCLUDE,1.0,0.0,1.0,1.0,jev,3,7,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10102,polluted soils,contaminated soils,INCLUDE,0.99,0.01,0.99,0.98,jev,3,7,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34504,poorly drained soils,poorly drained conditions,INCLUDE,0.97,0.03,0.97,0.94,jev,3,7,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35695,prairie soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,7,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/60729,quaternary soils,,INCLUDE,0.77,0.23,0.77,0.54,jev,3,7,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35696,rangeland soils,,INCLUDE,0.8,0.2,0.8,0.6,jev,3,7,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10103,reclaimed soils,polder soils,INCLUDE,0.94,0.06,0.94,0.88,jev,3,7,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10104,reservoir soils,,INCLUDE,0.66,0.34,0.66,0.32,jev,3,7,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30693,rice soils,,INCLUDE,0.92,0.08,0.92,0.84,jev,3,7,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/127717,riparian soils,river bank soils; riverbank soils,INCLUDE,0.95,0.05,0.95,0.9,jev,3,7,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/305595,river terrace soils,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,8,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10105,roadside soils,,INCLUDE,0.83,0.17,0.83,0.66,jev,3,8,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24691,saline sodic soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,8,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24692,saline soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,8,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35697,salt marsh soils,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,8,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50385,sandstone soils,,INCLUDE,0.76,0.24,0.76,0.52,jev,3,8,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/105828,sandy clay loam soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,8,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/105829,sandy clay soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,8,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/62359,sandy loam soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,8,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/62360,sandy soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,8,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35698,savanna soils,savannah soils,INCLUDE,0.92,0.08,0.92,0.84,jev,3,8,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35699,scrubland soils,,INCLUDE,0.89,0.11,0.89,0.78,jev,3,8,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50386,sedimentary soils,,INCLUDE,0.75,0.25,0.75,0.5,jev,3,8,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26887,semiarid soils,semi-arid soils,INCLUDE,0.92,0.08,0.92,0.84,jev,3,8,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50387,serpentine soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,8,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/225160,shrink-swell potential,,INCLUDE,0.95,0.05,0.95,0.9,jev,3,8,18,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63100,silt loam soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,8,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/286875,silty clay loam soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,8,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/105830,silty clay soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,9,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63101,silty soils,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,9,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53086,smectitic soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,9,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24693,sodic soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,9,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5150,soil aggregates,aggregates (soil); macroaggregates (soil),INCLUDE,0.99,0.01,0.99,0.98,jev,3,9,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/17421,soil biology,soil microbiology,INCLUDE,0.97,0.03,0.97,0.94,jev,3,9,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/325462,soil buffering capacity,soil buffer capacity,INCLUDE,0.99,0.01,0.99,0.98,jev,3,9,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24696,soil chemistry,soil colloid chemistry,INCLUDE,0.98,0.02,0.98,0.96,jev,3,9,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/33020,soil classification,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,9,9,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/958,soil degradation,soil deterioration,INCLUDE,1.0,0.0,1.0,1.0,jev,3,9,10,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/20351,soil density,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,9,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20441,soil ecology,,INCLUDE,0.93,0.07,0.93,0.86,jev,3,9,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/156625,soil ecosystems,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,9,13,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/316816,soil electrical conductivity,soil electric conductivity; soil electroconductivity,INCLUDE,0.98,0.02,0.98,0.96,jev,3,9,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37500,soil enzymes,,INCLUDE,0.87,0.13,0.87,0.74,jev,3,9,15,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/967,soil exhaustion,,INCLUDE,0.96,0.04,0.96,0.92,jev,3,9,16,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/968,soil fertility,fertility (soil),INCLUDE,1.0,0.0,1.0,1.0,jev,3,9,17,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/186601,soil habitats,,INCLUDE,0.54,0.46,0.54,0.08,jev,3,9,18,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/14082,soil hydraulic properties,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,9,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/225108,soil map,,INCLUDE,0.96,0.04,0.96,0.92,jev,3,9,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/63400,soil matric potential,soil matric head; soil water tension,INCLUDE,0.99,0.01,0.99,0.98,jev,3,10,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63402,soil mechanics,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,10,2,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/35129,soil micromorphology,soil microstructure,INCLUDE,1.0,0.0,1.0,1.0,jev,3,10,3,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/53089,soil mineralogy,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,10,4,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/306983,soil monolith preparation,,INCLUDE,0.95,0.05,0.95,0.9,jev,3,10,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/34081,soil organic matter,organic matter (soil),INCLUDE,0.99,0.01,0.99,0.98,jev,3,10,6,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/42771,soil parent materials,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,10,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/57248,soil penetration resistance,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,10,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/2736,soil pH,soil acidity; soil alkalinity,INCLUDE,1.0,0.0,1.0,1.0,jev,3,10,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63363,soil physics,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,10,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/955,soil processes and phenomena,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,10,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/970,soil productivity,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,10,12,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/35826,soil quality,soil condition; soil health,INCLUDE,1.0,0.0,1.0,1.0,jev,3,10,13,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/17423,soil respiration,soil basal respiration,INCLUDE,0.98,0.02,0.98,0.96,jev,3,10,14,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/44460,soil salinity,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,10,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61970,soil salinization,salinisation (soil); salinization (soil); soil salinisation,INCLUDE,1.0,0.0,1.0,1.0,jev,3,10,16,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/26739,soil separates,soil fractionation; soil fractions,INCLUDE,0.99,0.01,0.99,0.98,jev,3,10,17,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63338,soil slaking,soil aggregate breakdown,INCLUDE,0.99,0.01,0.99,0.98,jev,3,10,18,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/61959,soil sodicity,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,10,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/28494,soil strength,cone index,INCLUDE,0.99,0.01,0.99,0.98,jev,3,10,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5144,soil surface sealing,soil sealing,INCLUDE,0.98,0.02,0.98,0.96,jev,3,11,1,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/61641,soil temperature,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,11,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26740,soil texture,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,11,3,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63426,soil thermal properties,thermal properties of soil,INCLUDE,0.99,0.01,0.99,0.98,jev,3,11,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/36325,soil transport processes,mass transport in soil; solute movement (soil); solute transport (soil); transport processes (soil),INCLUDE,0.96,0.04,0.96,0.92,jev,3,11,5,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/304816,soil water constants,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,11,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21959,soil water content,soil moisture content,INCLUDE,1.0,0.0,1.0,1.0,jev,3,11,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63463,soil water deficit,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,11,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63394,soil water retention,,INCLUDE,1.0,0.0,1.0,1.0,jev,3,11,9,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63464,soil water storage,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,11,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/502,soil weathering,rock erosion; soil aging,INCLUDE,0.82,0.18,0.82,0.64,jev,3,11,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/63390,spodic horizons,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,11,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/302686,spoil heap soils,,INCLUDE,0.89,0.11,0.89,0.78,jev,3,11,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58078,steepland soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,11,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35700,steppe soils,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,11,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/64223,stony soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,11,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26888,subarctic soils,sub-arctic soils,INCLUDE,0.97,0.03,0.97,0.94,jev,3,11,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26889,subtropical soils,sub-tropical soils,INCLUDE,0.94,0.06,0.94,0.88,jev,3,11,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30694,sugarcane soils,,INCLUDE,0.9,0.1,0.9,0.8,jev,3,12,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35701,suppressive soils,soil suppression,INCLUDE,0.99,0.01,0.99,0.98,jev,3,12,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35702,swamp soils,,INCLUDE,0.96,0.04,0.96,0.92,jev,3,12,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35703,taiga soils,,INCLUDE,0.89,0.11,0.89,0.78,jev,3,12,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26890,temperate soils,,INCLUDE,0.92,0.08,0.92,0.84,jev,3,12,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/148684,terra preta,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,12,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58079,terrace soils,,INCLUDE,0.88,0.12,0.88,0.76,jev,3,12,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63442,tilth,,INCLUDE,0.96,0.04,0.96,0.92,jev,3,12,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/313619,topsoil water content,topsoil moisture content,INCLUDE,0.97,0.03,0.97,0.94,jev,3,12,9,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63364,trafficability,,INCLUDE,0.66,0.34,0.66,0.32,jev,3,12,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26891,tropical soils,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,12,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35704,tundra soils,,INCLUDE,0.93,0.07,0.93,0.86,jev,3,12,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42656,U.S. Soil Taxonomy,Soil Taxonomy (United States); USDA Soil Taxonomy; United States Soil Taxonomy,INCLUDE,0.99,0.01,0.99,0.98,jev,3,12,14,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/216302,U.S. Soil Taxonomy types,American soil classification types; USDA Soil Taxonomy types; United States Soil Taxonomy types,INCLUDE,0.97,0.03,0.97,0.94,jev,3,12,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46147,udic regimes,perudic regimes,INCLUDE,0.83,0.17,0.83,0.66,jev,3,12,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11621,Ultisols,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,12,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45552,upland soils,,INCLUDE,0.96,0.04,0.96,0.92,jev,3,12,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10106,urban soils,,INCLUDE,0.97,0.03,0.97,0.94,jev,3,12,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63473,ustic regimes,,INCLUDE,0.72,0.28,0.72,0.44,jev,3,13,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24694,variable charge soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,13,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30695,vineyard soils,,INCLUDE,0.83,0.17,0.83,0.66,jev,3,13,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35705,virgin soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,3,13,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50389,volcanic soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,13,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24695,water repellent soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,3,13,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/325649,water stable soil aggregates,water stable aggregates,INCLUDE,0.99,0.01,0.99,0.98,jev,3,13,10,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63384,weathering sequences,,INCLUDE,0.57,0.43,0.57,0.14,jev,3,13,11,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/35706,wetland soils,,INCLUDE,0.96,0.04,0.96,0.92,jev,3,13,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/57491,wilting point,permanent wilting point,INCLUDE,0.86,0.14,0.86,0.72,jev,3,13,16,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/35707,woodland soils,,INCLUDE,0.83,0.17,0.83,0.66,jev,3,13,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216303,World Reference Base for Soil Resources groups,International soil classification reference groups; WRB reference groups; WRB reference soil groups; WRB references; WRB soil groups; WRB soil types; World Reference Base for Soil Resources types; World Reference Base reference groups; World Reference Base soil reference groups; World Reference Base soil types; World Reference Base types,INCLUDE,1.0,0.0,1.0,1.0,jev,3,13,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/51864,xeric regimes,xeric soils,INCLUDE,0.84,0.16,0.84,0.68,jev,3,13,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/306591,Xerosols,,INCLUDE,0.94,0.06,0.94,0.88,jev,3,13,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216335,Acrisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,1,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216336,Albeluvisols,Glossosols; Podzoluvisols,INCLUDE,1.0,0.0,1.0,1.0,jev,4,1,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6336,Alfisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,1,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216339,Alisols,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,1,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/7015,alpine meadow soils,,INCLUDE,0.92,0.08,0.92,0.84,jev,4,1,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8668,Andisols,,INCLUDE,0.98,0.02,0.98,0.96,jev,4,1,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216340,Andosols,,INCLUDE,0.93,0.07,0.93,0.86,jev,4,1,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/225032,antecedent moisture,,INCLUDE,0.69,0.31,0.69,0.38,jev,4,1,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216341,Anthrosols,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,1,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5989,Aqualfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,1,17,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/5991,Aquults,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,1,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216342,Arenosols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,1,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12092,Aridisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,1,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/17420,biological activity in soil,,INCLUDE,0.97,0.03,0.97,0.94,jev,4,2,7,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/957,bioturbation,,INCLUDE,0.58,0.42,0.58,0.16,jev,4,2,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20349,bulk density,,INCLUDE,0.95,0.05,0.95,0.9,jev,4,2,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20438,buried seeds,seed bank (soil); seed banks in soil; seedbank (soil); seedbanks in soil; soil seed banks; soil seedbanks,INCLUDE,0.96,0.04,0.96,0.92,jev,4,2,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/306592,burozems,,INCLUDE,0.96,0.04,0.96,0.92,jev,4,2,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216343,Calcisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,2,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216344,Cambisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,2,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/143145,cation exchange,,INCLUDE,0.92,0.08,0.92,0.84,jev,4,3,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/216345,Chernozems,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,3,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26738,clay fraction,,INCLUDE,0.95,0.05,0.95,0.9,jev,4,3,8,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/27364,coastal dune soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,4,3,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216346,Cryosols,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,3,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/32537,desertification,,INCLUDE,0.86,0.14,0.86,0.72,jev,4,3,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/306927,duripans,,INCLUDE,0.98,0.02,0.98,0.96,jev,4,4,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216347,Durisols,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,4,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11535,Entisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,4,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23046,exchangeable cations,,INCLUDE,0.87,0.13,0.87,0.74,jev,4,4,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216348,Ferralsols,,INCLUDE,0.87,0.13,0.87,0.74,jev,4,4,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216349,Fluvisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,5,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41204,forest steppe soils,,INCLUDE,0.98,0.02,0.98,0.96,jev,4,5,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42526,Gelisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,5,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42999,glacial till soils,,INCLUDE,0.89,0.11,0.89,0.78,jev,4,5,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/211604,Gleysols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,5,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/325178,gravimetric water content,gravimetric soil water content,INCLUDE,0.97,0.03,0.97,0.94,jev,4,5,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/302326,gray forest soils,grey forest soils,INCLUDE,1.0,0.0,1.0,1.0,jev,4,5,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216359,Greyzems,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,5,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216350,Gypsisols,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,5,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/963,gypsum requirement,,INCLUDE,0.64,0.36,0.64,0.28,jev,4,5,20,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/40066,Histosols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,6,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44558,Humults,,INCLUDE,0.96,0.04,0.96,0.92,jev,4,6,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/132817,humus,humus (soil); soil humus,INCLUDE,0.99,0.01,0.99,0.98,jev,4,6,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/302478,humus horizons,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,6,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10070,Inceptisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,6,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/302568,ion exchange capacity,,INCLUDE,0.65,0.35,0.65,0.3,jev,4,6,16,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216351,Kastanozems,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,6,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/189524,land degradation,land deterioration,INCLUDE,0.64,0.36,0.64,0.28,jev,4,7,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/964,leaching requirement,,INCLUDE,0.76,0.24,0.76,0.52,jev,4,7,6,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/216352,Leptosols,Rankers; Rhendzinas,INCLUDE,1.0,0.0,1.0,1.0,jev,4,7,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/965,lime requirement,,INCLUDE,0.8,0.2,0.8,0.6,jev,4,7,9,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/216355,Lixisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,7,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/49405,losses from soil,,INCLUDE,0.79,0.21,0.79,0.58,jev,4,7,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216356,Luvisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,7,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50948,lysimeters,,INCLUDE,0.57,0.43,0.57,0.14,jev,4,7,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/325691,Mehlich-3 phosphorus,,INCLUDE,0.66,0.34,0.66,0.32,jev,4,8,4,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/52536,microaggregates,,INCLUDE,0.98,0.02,0.98,0.96,jev,4,8,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53193,moder,,INCLUDE,0.94,0.06,0.94,0.88,jev,4,8,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6020,Mollisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,8,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53430,mor,,INCLUDE,0.95,0.05,0.95,0.9,jev,4,8,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/309987,muck soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,8,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53680,mull,,INCLUDE,0.97,0.03,0.97,0.94,jev,4,8,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216357,Nitisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,9,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24613,organic matter,,INCLUDE,0.52,0.48,0.52,0.04,jev,4,9,5,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11617,Oxisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,9,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/57128,peat,,INCLUDE,0.69,0.31,0.69,0.38,jev,4,9,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/306981,pedological techniques,pedological methods,INCLUDE,0.96,0.04,0.96,0.92,jev,4,9,11,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46386,pedotransfer functions,,INCLUDE,0.96,0.04,0.96,0.92,jev,4,9,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/216358,Phaeozems,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,9,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216360,Planosols,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,9,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216361,Plinthosols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,10,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216362,Podzols,cryorthods; haplaquods,INCLUDE,1.0,0.0,1.0,1.0,jev,4,10,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20689,preferential flow,bypass flow; finger flow; mesopore flow,INCLUDE,0.96,0.04,0.96,0.92,jev,4,10,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/55421,quantity-intensity relationships,Q/I relationships; quantity intensity relationships,INCLUDE,0.83,0.17,0.83,0.66,jev,4,10,7,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/216363,Regosols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,10,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/51782,resistance to penetration,penetration resistance,INCLUDE,0.9,0.1,0.9,0.8,jev,4,10,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/52688,rhizosphere,root zone,INCLUDE,0.9,0.1,0.9,0.8,jev,4,10,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/28001,rhizosphere competence,,INCLUDE,0.63,0.37,0.63,0.26,jev,4,10,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/188594,root zone drying,partial root zone drying; partial root zone irrigation; partial root-zone drying; partial root-zone irrigation; partial rootzone drying; root-zone drying,INCLUDE,0.5,0.5,0.5,0.0,jev,4,10,20,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/61293,root zone temperature,,INCLUDE,0.53,0.47,0.53,0.06,jev,4,11,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/62343,sand fraction,,INCLUDE,0.65,0.35,0.65,0.3,jev,4,11,5,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/306593,serozems,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,11,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63099,silt fraction,,INCLUDE,0.72,0.28,0.72,0.44,jev,4,11,12,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/38860,sodicity,,INCLUDE,0.98,0.02,0.98,0.96,jev,4,11,13,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63335,soil acidification,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,11,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5143,soil aggregation,aggregation (soil),INCLUDE,1.0,0.0,1.0,1.0,jev,4,11,15,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63193,soil amendments,,INCLUDE,0.77,0.23,0.77,0.54,jev,4,11,16,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/179,soil analysis,soil testing,INCLUDE,0.99,0.01,0.99,0.98,jev,4,11,17,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63349,soil associations,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,11,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15090,soil bacteria,soil bacterial communities,INCLUDE,0.85,0.15,0.85,0.7,jev,4,11,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/7942,soil biochemistry,,INCLUDE,0.97,0.03,0.97,0.94,jev,4,11,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/278109,soil biota,edaphon; soil organisms,INCLUDE,0.81,0.19,0.81,0.62,jev,4,12,1,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63357,soil colloids,,INCLUDE,0.97,0.03,0.97,0.94,jev,4,12,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/28316,soil compaction,soil compression,INCLUDE,0.99,0.01,0.99,0.98,jev,4,12,3,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/307015,soil composition,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,12,4,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/501,soil erosion,erosion of soil; soil piping,INCLUDE,0.97,0.03,0.97,0.94,jev,4,12,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5215,soil erosion models,erosion models,INCLUDE,0.78,0.22,0.78,0.56,jev,4,12,6,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/59977,soil fauna,soil mesofauna; soil microfauna,INCLUDE,0.52,0.48,0.52,0.04,jev,4,12,7,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/41066,soil food webs,terrestrial food webs,INCLUDE,0.81,0.19,0.81,0.62,jev,4,12,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/335251,soil function,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,12,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/325190,soil heat flux,soil heat flux density,INCLUDE,0.92,0.08,0.92,0.84,jev,4,12,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/338945,soil inorganic carbon,,INCLUDE,0.94,0.06,0.94,0.88,jev,4,12,11,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/214720,soil liquefaction,,INCLUDE,0.93,0.07,0.93,0.86,jev,4,12,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/52768,soil microorganisms,soil microbes; soil microbial flora; soil microbial systems; soil microbiota; soil microflora,INCLUDE,0.61,0.39,0.61,0.22,jev,4,12,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/208552,soil minerals,,INCLUDE,0.85,0.15,0.85,0.7,jev,4,12,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41622,soil movement,,INCLUDE,0.84,0.16,0.84,0.68,jev,4,12,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/969,soil nutrient balance,soil nitrogen balance; soil nitrogen budget; soil phosphorus balance; soil phosphorus budget; soil potassium balance; soil potassium budget,INCLUDE,0.95,0.05,0.95,0.9,jev,4,12,16,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/960,soil nutrient dynamics,soil nutrient resorption; soil nutrient transformations,INCLUDE,0.96,0.04,0.96,0.92,jev,4,12,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38806,soil nutrients,,INCLUDE,0.81,0.19,0.81,0.62,jev,4,12,18,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/67854,soil organic carbon,organic soil carbon,INCLUDE,0.96,0.04,0.96,0.92,jev,4,12,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/276406,soil organic nitrogen,,INCLUDE,0.9,0.1,0.9,0.8,jev,4,12,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/329275,soil organic phosphorus,soil organic phosphorous,INCLUDE,0.97,0.03,0.97,0.94,jev,4,13,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/225083,soil permeability,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,13,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/961,soil pollution,contaminants in soil; contamination of soil; soil contaminants; soil contamination; soil pollutants,INCLUDE,0.98,0.02,0.98,0.96,jev,4,13,3,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/962,soil productivity status,,INCLUDE,0.96,0.04,0.96,0.92,jev,4,13,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/137734,soil remediation,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,13,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/63435,soil resources,,INCLUDE,0.95,0.05,0.95,0.9,jev,4,13,6,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/213546,soil restoration,soil reclamation; soil recycling,INCLUDE,1.0,0.0,1.0,1.0,jev,4,13,7,jev-1.14.0,False,False,skos:related
+https://lod.nal.usda.gov/nalt/44461,soil salts,salts in soil,INCLUDE,0.97,0.03,0.97,0.94,jev,4,13,8,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/23008,soil sequences,,INCLUDE,0.96,0.04,0.96,0.92,jev,4,13,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63437,soil surveys,soil mapping; soil survey,INCLUDE,0.99,0.01,0.99,0.98,jev,4,13,10,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/144654,soil taxonomy,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,13,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41518,soil temperature regimes,soil thermal regimes,INCLUDE,0.98,0.02,0.98,0.96,jev,4,13,12,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/972,soil test values,,INCLUDE,0.86,0.14,0.86,0.72,jev,4,13,13,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/37470,soil washing,,INCLUDE,0.9,0.1,0.9,0.8,jev,4,13,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/63392,soil water characteristic,moisture characteristic; soil moisture characteristic; soil water release curve; soil water retention curve; soil water retention isotherm,INCLUDE,1.0,0.0,1.0,1.0,jev,4,13,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/47524,soil water movement,pore water transport; soil water transport,INCLUDE,0.97,0.03,0.97,0.94,jev,4,13,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216364,Solonchaks,,INCLUDE,0.96,0.04,0.96,0.92,jev,4,13,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216365,Solonetz,,INCLUDE,0.97,0.03,0.97,0.94,jev,4,13,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11601,Spodosols,,INCLUDE,0.98,0.02,0.98,0.96,jev,4,13,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216366,Stagnosols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,14,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216367,Technosols,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,14,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/25207,tillage,soil cultivation; soil tillage; tillage systems,INCLUDE,0.81,0.19,0.81,0.62,jev,4,14,15,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/5780,Udalfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,15,1,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/41390,Udults,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,15,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216368,Umbrisols,,INCLUDE,1.0,0.0,1.0,1.0,jev,4,15,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44600,Ustults,,INCLUDE,0.93,0.07,0.93,0.86,jev,4,15,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63359,variable charge,,INCLUDE,0.88,0.12,0.88,0.76,jev,4,15,7,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/28604,vegetation cover,ground cover percentage; ground coverage; percent ground cover; percent ground coverage; percent plant cover; percent plant coverage; percent soil cover; percent soil coverage; percent vegetation cover; percent vegetation coverage; plant cover percentage; soil cover percentage,INCLUDE,0.65,0.35,0.65,0.3,jev,4,15,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11557,Vertisols,vertosols,INCLUDE,1.0,0.0,1.0,1.0,jev,4,15,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50388,volcanic ash soils,pumice soils,INCLUDE,0.99,0.01,0.99,0.98,jev,4,15,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40101,water holding capacity,water retention capacity; water-holding capacity,INCLUDE,0.95,0.05,0.95,0.9,jev,4,15,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6340,Xeralfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,4,16,2,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/44586,Xerults,,INCLUDE,0.97,0.03,0.97,0.94,jev,4,16,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/225015,accelerated erosion,,INCLUDE,0.95,0.05,0.95,0.9,jev,5,1,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5779,Agrudalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,1,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5988,Albaqualfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,1,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5990,Albaquults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,1,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6019,Albolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,1,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/7941,ammonification,,INCLUDE,0.51,0.49,0.51,0.02,jev,5,1,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10069,Anthrepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,1,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8669,Aquands,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,1,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11534,Aquents,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,1,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11546,Aquepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,1,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11556,Aquerts,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,1,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5963,Aquods,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,1,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11608,Aquolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,1,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3003,Aquox,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,1,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12055,Arents,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,2,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12091,Argids,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,2,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/301002,brown forest soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,2,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/301006,brown podzolic soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,2,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12173,Calcids,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,2,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10051,Cambids,,INCLUDE,0.83,0.17,0.83,0.66,jev,5,2,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/17382,carbon sequestration,carbon dioxide sequestration; carbon storage; soil carbon sequestration,INCLUDE,0.84,0.16,0.84,0.68,jev,5,2,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23007,catenas,,INCLUDE,0.93,0.07,0.93,0.86,jev,5,2,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/25891,chronosequences,,INCLUDE,0.67,0.33,0.67,0.34,jev,5,3,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/301105,cinnamonic soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,3,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/28614,conservation tillage,,INCLUDE,0.64,0.36,0.64,0.28,jev,5,3,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6338,Cryalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,3,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8670,Cryands,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,3,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11430,Cryaqualfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,3,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30307,Cryepts,Eutrocryepts,INCLUDE,0.99,0.01,0.99,0.98,jev,5,3,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30310,Cryerts,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,3,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12086,Cryids,,INCLUDE,0.96,0.04,0.96,0.92,jev,5,3,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30320,Cryods,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,3,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12088,Cryolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,3,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/31935,deep tillage,deep cultivation; deep ploughing; deep plowing,INCLUDE,0.76,0.24,0.76,0.52,jev,5,4,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/33996,discing,disc tillage; disk tillage; disking,INCLUDE,0.51,0.49,0.51,0.02,jev,5,4,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11431,Duraqualfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,4,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12100,Durids,,INCLUDE,0.77,0.23,0.77,0.54,jev,5,4,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34909,Durixeralfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,4,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11432,Endoaqualfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,4,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11622,Endoaquults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,4,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11433,Epiaqualfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,4,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11623,Epiaquults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,5,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37935,Erosion Productivity Impact Calculator,,INCLUDE,0.56,0.44,0.56,0.12,jev,5,5,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/7276,exchangeable aluminum,exchangeable aluminium,INCLUDE,0.83,0.17,0.83,0.66,jev,5,5,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21093,exchangeable calcium,,INCLUDE,0.66,0.34,0.66,0.32,jev,5,5,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38857,exchangeable magnesium,,INCLUDE,0.67,0.33,0.67,0.34,jev,5,5,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38858,exchangeable potassium,,INCLUDE,0.76,0.24,0.76,0.52,jev,5,5,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38859,exchangeable sodium,,INCLUDE,0.82,0.18,0.82,0.64,jev,5,5,9,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/232270,exchangeable zinc,,INCLUDE,0.73,0.27,0.73,0.46,jev,5,5,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/39922,Ferrudalfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,5,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30326,Fibrists,,INCLUDE,0.88,0.12,0.88,0.76,jev,5,5,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30328,Fluvents,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,5,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30330,Folists,,INCLUDE,0.96,0.04,0.96,0.92,jev,5,5,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11434,Fragiaqualfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,5,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11624,Fragiaquults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,6,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41387,Fragiudalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,6,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41389,Fragiudults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,6,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41391,Fragixeralfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,6,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41393,Fraglossudalfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,6,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41621,frost heave,,INCLUDE,0.73,0.27,0.73,0.46,jev,5,6,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41634,frozen soils,,INCLUDE,0.96,0.04,0.96,0.92,jev,5,6,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146688,Gelands,,INCLUDE,0.84,0.16,0.84,0.68,jev,5,6,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146706,Gelepts,,INCLUDE,0.95,0.05,0.95,0.9,jev,5,6,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146715,Gelods,,INCLUDE,0.95,0.05,0.95,0.9,jev,5,6,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146713,Gelolls,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,6,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41806,glomalin,,INCLUDE,0.63,0.37,0.63,0.26,jev,5,6,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11435,Glossaqualfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,6,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43161,Glossudalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,6,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12102,Gypsids,,INCLUDE,0.94,0.06,0.94,0.88,jev,5,7,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44557,Haplohumults,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,7,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44580,Haploxeralfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,7,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44585,Haploxerults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,7,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44587,Hapludalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,7,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44592,Hapludults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,7,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44599,Haplustults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,7,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44661,harrowing,,INCLUDE,0.53,0.47,0.53,0.06,jev,5,7,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30332,Hemists,,INCLUDE,0.92,0.08,0.92,0.84,jev,5,7,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40065,Histels,,INCLUDE,0.92,0.08,0.92,0.84,jev,5,7,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34907,Humods,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,7,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46959,immobilization in soil,immobilisation in soil,INCLUDE,0.81,0.19,0.81,0.62,jev,5,8,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/47523,internal drainage,,INCLUDE,0.86,0.14,0.86,0.72,jev,5,8,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11436,Kandiaqualfs,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,8,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11625,Kandiaquults,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,8,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46158,Kandihumults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,8,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48270,Kandiudalfs,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,8,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48272,Kandiudults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,8,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48275,Kandiustults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,8,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11626,Kanhaplaquults,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,8,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46159,Kanhaplohumults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,8,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48277,Kanhapludalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,8,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48278,Kanhapludults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,9,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48280,Kanhaplustults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,9,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/324654,labile carbon,labile organic carbon; soil labile carbon; soil labile organic carbon,INCLUDE,0.94,0.06,0.94,0.88,jev,5,9,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/306848,lysimetry,,INCLUDE,0.54,0.46,0.54,0.08,jev,5,9,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/51079,macropore flow,,INCLUDE,0.92,0.08,0.92,0.84,jev,5,9,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37666,Modified Universal Soil Loss Equation,MUSLE,INCLUDE,0.88,0.12,0.88,0.76,jev,5,9,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11437,Natraqualfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,9,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/54394,Natrixeralfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,9,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/54401,Natrudalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,9,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8940,Orthels,,INCLUDE,0.96,0.04,0.96,0.92,jev,5,10,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30345,Orthents,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,10,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6848,Orthods,,INCLUDE,0.96,0.04,0.96,0.92,jev,5,10,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11627,Paleaquults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,10,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46160,Palehumults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,10,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56589,Paleudalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,10,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56591,Paleudults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,10,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56594,Paleustults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,10,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56595,Palexeralfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,11,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56597,Palexerults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,11,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/263001,particulate organic matter,,INCLUDE,0.73,0.27,0.73,0.46,jev,5,11,3,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/57196,pedoturbation,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,11,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11438,Plinthaqualfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,11,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11628,Plinthaquults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,11,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46161,Plinthohumults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,11,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58832,Plinthoxeralfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,11,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58833,Plinthudults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,11,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58835,Plinthustults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,11,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30343,Psamments,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,12,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/305134,pseudogley soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,12,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/305138,pseudopodzolic soils,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,12,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/60517,puddling,,INCLUDE,0.93,0.07,0.93,0.86,jev,5,12,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/332482,radioactively contaminated soil,,INCLUDE,0.98,0.02,0.98,0.96,jev,5,12,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30450,Rendolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,12,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37667,Revised Universal Soil Loss Equation,RUSLE (Revised Universal Soil Loss Equation),INCLUDE,0.96,0.04,0.96,0.92,jev,5,12,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61452,Rhodoxeralfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,12,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61453,Rhodudalfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,12,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61454,Rhodudults,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,12,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61456,Rhodustults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,12,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30347,Saprists,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,13,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/325192,soil carbon,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,13,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/47753,soil conditioners,,INCLUDE,0.83,0.17,0.83,0.66,jev,5,13,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/51609,soil creep,,INCLUDE,0.94,0.06,0.94,0.88,jev,5,13,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/290382,soil flushing,,INCLUDE,0.89,0.11,0.89,0.78,jev,5,13,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/21,soil management,,INCLUDE,0.86,0.14,0.86,0.72,jev,5,13,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/54411,soil resource management,,INCLUDE,0.76,0.24,0.76,0.52,jev,5,13,19,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61568,soil ridges,,INCLUDE,0.92,0.08,0.92,0.84,jev,5,13,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63345,soil sampling,soil samples,INCLUDE,0.97,0.03,0.97,0.94,jev,5,14,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/971,soil sickness,,INCLUDE,0.93,0.07,0.93,0.86,jev,5,14,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/973,soil toxicity,toxic soils,INCLUDE,0.99,0.01,0.99,0.98,jev,5,14,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11343,soil treatment,application to soil; soil application,INCLUDE,0.6,0.4,0.6,0.2,jev,5,14,4,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/35113,soil-plant interactions,plant soil interactions; plant soil relations; plant soil relationships; plant-soil interactions; soil plant interactions; soil plant nutrient relations,INCLUDE,0.92,0.08,0.92,0.84,jev,5,14,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/51610,solifluction,,INCLUDE,0.58,0.42,0.58,0.16,jev,5,14,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46162,Sombrihumults,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,14,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/266421,tillage erosion,,INCLUDE,0.87,0.13,0.87,0.74,jev,5,14,9,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/63439,toposequences,,INCLUDE,0.76,0.24,0.76,0.52,jev,5,14,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8671,Torrands,,INCLUDE,0.95,0.05,0.95,0.9,jev,5,14,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21090,Torrerts,,INCLUDE,0.96,0.04,0.96,0.92,jev,5,14,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3152,Torrox,,INCLUDE,0.94,0.06,0.94,0.88,jev,5,14,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8942,Turbels,,INCLUDE,0.86,0.14,0.86,0.72,jev,5,14,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8672,Udands,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,14,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34922,Udepts,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,14,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35054,Uderts,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,14,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12115,Udolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,15,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3161,Udox,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,15,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11629,Umbraquults,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,15,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37669,Universal Soil Loss Equation,USLE (Universal Soil Loss Equation),INCLUDE,0.82,0.18,0.82,0.64,jev,5,15,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/59560,unsaturated flow,,INCLUDE,0.74,0.26,0.74,0.48,jev,5,15,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6339,Ustalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,15,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21146,Ustepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,15,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21148,Usterts,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,15,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12117,Ustolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,15,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3163,Ustox,,INCLUDE,1.0,0.0,1.0,1.0,jev,5,15,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11439,Vermaqualfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,15,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8674,Vitrands,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,15,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146692,Wassents,,INCLUDE,0.95,0.05,0.95,0.9,jev,5,15,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146700,Wassists,,INCLUDE,0.95,0.05,0.95,0.9,jev,5,15,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15764,water erosion,,INCLUDE,0.8,0.2,0.8,0.6,jev,5,15,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63470,wetting front,,INCLUDE,0.8,0.2,0.8,0.6,jev,5,16,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63376,wind erosion,aeolian deflation; aeolian erosion; wind deflation,INCLUDE,0.88,0.12,0.88,0.76,jev,5,16,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216301,World Reference Base for Soil Resources,International soil classification; WRB soil classification; WRB soil taxonomy; World Reference Base,INCLUDE,1.0,0.0,1.0,1.0,jev,5,16,4,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/8675,Xerands,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,16,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21151,Xerepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,16,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21153,Xererts,,INCLUDE,0.97,0.03,0.97,0.94,jev,5,16,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12119,Xerolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,5,16,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3002,Acraquox,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3151,Acrotorrox,,INCLUDE,0.87,0.13,0.87,0.74,jev,6,1,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3160,Acrudox,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3162,Acrustox,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5962,Alaquods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6847,Alorthods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8939,Anhyorthels,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,1,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8941,Anhyturbels,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,1,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10050,Anthracambids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11567,Aquicambids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11600,Aquiturbels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11616,Aquorthels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6021,Argialbolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,1,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11609,Argiaquolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,1,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12085,Argicryids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12087,Argicryolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,1,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12099,Argidurids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12101,Argigypsids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,1,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12113,Argiorthels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,2,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12116,Argiustolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,2,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12118,Argixerolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,2,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11558,Calciaquerts,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,2,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11610,Calciaquolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,2,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12093,Calciargids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,2,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146703,Calcicryepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,2,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21076,Calcicryids,,INCLUDE,0.96,0.04,0.96,0.92,jev,6,2,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21077,Calcicryolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,2,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21082,Calcigypsids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,2,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21089,Calcitorrerts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,2,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21091,Calciudolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,2,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21145,Calciustepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,2,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21147,Calciusterts,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,2,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21149,Calciustolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,2,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21150,Calcixerepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,3,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21152,Calcixererts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,3,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21154,Calcixerolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,3,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11446,Cryaquands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,3,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11536,Cryaquents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,3,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11547,Cryaquepts,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,3,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11602,Cryaquods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,3,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11611,Cryaquolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,3,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30325,Cryofibrists,,INCLUDE,0.95,0.05,0.95,0.9,jev,6,3,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30327,Cryofluvents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,3,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30329,Cryofolists,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,3,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30331,Cryohemists,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,3,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30342,Cryopsamments,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,3,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30344,Cryorthents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30346,Cryosaprists,,INCLUDE,0.85,0.15,0.85,0.7,jev,6,4,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30449,Cryrendolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11447,Duraquands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11559,Duraquerts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11603,Duraquods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11612,Duraquolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30299,Duricryands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30321,Duricryods,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,4,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30335,Duricryolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34906,Durihumods,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,4,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34908,Duritorrands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34910,Durixerepts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,4,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34911,Durixererts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34912,Durixerolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34916,Durorthods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34920,Durudands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34921,Durudepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,4,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34930,Durustalfs,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,4,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34932,Durustepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34933,Durustolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,5,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11560,Dystraquerts,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,5,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30308,Dystrocryepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146707,Dystrogelepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35051,Dystroxerepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35052,Dystrudepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35053,Dystruderts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35055,Dystrustepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35056,Dystrusterts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,5,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11448,Endoaquands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11537,Endoaquents,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,5,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11548,Endoaquepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11561,Endoaquerts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11604,Endoaquods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11613,Endoaquolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11449,Epiaquands,,INCLUDE,0.77,0.23,0.77,0.54,jev,6,5,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11538,Epiaquents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,5,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11549,Epiaquepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,6,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11562,Epiaquerts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,6,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11605,Epiaquods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,6,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11614,Epiaquolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,6,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11618,Eutraquox,,INCLUDE,0.96,0.04,0.96,0.92,jev,6,6,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38807,Eutrotorrox,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,6,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38808,Eutrudepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,6,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38809,Eutrudox,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,6,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38810,Eutrustox,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,6,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40064,Fibristels,,INCLUDE,0.95,0.05,0.95,0.9,jev,6,6,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11539,Fluvaquents,,INCLUDE,0.92,0.08,0.92,0.84,jev,6,6,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146693,Fluviwassents,,INCLUDE,0.83,0.17,0.83,0.66,jev,6,6,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40786,Folistels,,INCLUDE,0.92,0.08,0.92,0.84,jev,6,6,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11550,Fragiaquepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,6,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11606,Fragiaquods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,6,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41383,Fragihumods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,6,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41384,Fragiorthods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,6,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41388,Fragiudepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,7,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41392,Fragixerepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,7,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146694,Frasiwassents,,INCLUDE,0.87,0.13,0.87,0.74,jev,6,7,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146699,Frasiwassists,,INCLUDE,0.92,0.08,0.92,0.84,jev,6,7,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30300,Fulvicryands,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,7,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41737,Fulvudands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,7,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146687,Gelaquands,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,7,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146689,Gelaquents,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,7,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146719,Gelaquepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,7,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146690,Gelifluvents,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,7,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146691,Gelorthents,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,7,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43003,Glacistels,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,7,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30296,Glossocryalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,7,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44106,gully erosion,,INCLUDE,0.81,0.19,0.81,0.62,jev,6,7,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12094,Gypsiargids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,7,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30313,Gypsicryids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,7,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44153,Gypsitorrerts,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,7,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44154,Gypsiusterts,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,7,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11551,Halaquepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10071,Haplanthrepts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,8,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11619,Haplaquox,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12095,Haplargids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21078,Haplocalcids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21506,Haplocambids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30297,Haplocryalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30301,Haplocryands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146704,Haplocryepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30311,Haplocryerts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30314,Haplocryids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30322,Haplocryods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30336,Haplocryolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,8,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34904,Haplodurids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40067,Haplofibrists,,INCLUDE,0.96,0.04,0.96,0.92,jev,6,8,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146708,Haplogelepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146716,Haplogelods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146714,Haplogelolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,8,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44148,Haplogypsids,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,8,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44555,Haplohemists,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,8,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44556,Haplohumods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44567,Haplorthels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44568,Haplorthods,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,9,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44570,Haplosaprists,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44576,Haplotorrands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44577,Haplotorrerts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44578,Haplotorrox,,INCLUDE,0.96,0.04,0.96,0.92,jev,6,9,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44579,Haploturbels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146695,Haplowassents,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,9,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146701,Haplowassists,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,9,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44581,Haploxerands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44582,Haploxerepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44583,Haploxererts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44584,Haploxerolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44588,Hapludands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44589,Hapluderts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44590,Hapludolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,9,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44591,Hapludox,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44593,Haplustalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44595,Haplustepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,9,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44596,Haplusterts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44597,Haplustolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44598,Haplustox,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44601,Haprendolls,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,10,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45083,Hemistels,,INCLUDE,0.93,0.07,0.93,0.86,jev,6,10,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45652,Historthels,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,10,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45653,Histoturbels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11552,Humaquepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146705,Humicryepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30312,Humicryerts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,10,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30323,Humicryods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146709,Humigelepts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,10,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146717,Humigelods,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,10,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146712,Humixerepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146710,Humudepts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,10,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146711,Humustepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11540,Hydraquents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,10,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30302,Hydrocryands,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,10,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146696,Hydrowassents,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,11,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46439,Hydrudands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,11,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/47543,interrill erosion,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,11,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48271,Kandiudox,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,11,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48273,Kandiustalfs,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,11,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48274,Kandiustox,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,11,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48279,Kanhaplustalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,11,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45084,Luvihemists,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,11,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11450,Melanaquands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,11,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30303,Melanocryands,,INCLUDE,0.6,0.4,0.6,0.2,jev,6,11,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/51977,Melanoxerands,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,11,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/51978,Melanudands,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,11,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53097,minimum tillage,,INCLUDE,0.53,0.47,0.53,0.06,jev,6,11,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53260,Molliturbels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,11,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53261,Mollorthels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,12,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6022,Natralbolls,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,12,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11563,Natraquerts,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,12,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11615,Natraquolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,12,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12096,Natrargids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,12,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30337,Natricryolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,12,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34905,Natridurids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,12,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44149,Natrigypsids,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,12,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/54395,Natrixerolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,12,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/54402,Natrudolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,12,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/54403,Natrustalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,12,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/54404,Natrustolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,12,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12097,Paleargids,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,12,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30298,Palecryalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,12,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30338,Palecryolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,12,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56590,Paleudolls,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,13,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56593,Paleustolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,13,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56596,Palexerolls,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,13,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/263109,particulate organic carbon,,INCLUDE,0.71,0.29,0.71,0.42,jev,6,13,5,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11553,Petraquepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,13,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12098,Petroargids,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,13,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21079,Petrocalcids,,INCLUDE,0.96,0.04,0.96,0.92,jev,6,13,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21507,Petrocambids,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,13,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30315,Petrocryids,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,13,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44150,Petrogypsids,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,13,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11451,Placaquands,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,13,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11607,Placaquods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,13,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30324,Placocryods,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,13,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46153,Placohumods,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,13,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56249,Placorthods,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,13,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58472,Placudands,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,13,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10072,Plagganthrepts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,13,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11620,Plinthaquox,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,14,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58834,Plinthustalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,14,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11541,Psammaquents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,14,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56241,Psammorthels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,14,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/60086,Psammoturbels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,14,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146697,Psammowassents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,14,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/60081,Quartzipsamments,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,14,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61455,Rhodustalfs,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,14,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/28632,ridge tillage,ridge till; ridge-till,INCLUDE,0.6,0.4,0.6,0.2,jev,6,14,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61569,ridging,,INCLUDE,0.59,0.41,0.59,0.18,jev,6,14,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61575,rill erosion,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,14,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61583,ripping,,INCLUDE,0.73,0.27,0.73,0.46,jev,6,14,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11564,Salaquerts,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,14,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30316,Salicryids,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,14,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61972,Salitorrerts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,15,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/62301,Salusterts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,15,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45627,Sapristels,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,15,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/62999,sheet erosion,,INCLUDE,0.78,0.22,0.78,0.56,jev,6,15,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/17339,soil conservation,soil bioengineering,INCLUDE,0.95,0.05,0.95,0.9,jev,6,15,6,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24628,soil drenching,soil drench; soil drenches,INCLUDE,0.67,0.33,0.67,0.34,jev,6,15,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41750,soil fumigation,,INCLUDE,0.94,0.06,0.94,0.88,jev,6,15,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63386,soil heating,soil warming,INCLUDE,0.94,0.06,0.94,0.88,jev,6,15,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/47289,soil injection,,INCLUDE,0.55,0.45,0.55,0.1,jev,6,15,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53677,soil solarization,soil solarisation; soil solarising; soil solarizing,INCLUDE,0.97,0.03,0.97,0.94,jev,6,15,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63397,soil sterilization,soil sterilisation; soil sterilising; soil sterilizing,INCLUDE,0.95,0.05,0.95,0.9,jev,6,15,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63582,Sombriudox,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,15,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63583,Sombriustox,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,15,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40068,Sphagnofibrists,,INCLUDE,0.95,0.05,0.95,0.9,jev,6,15,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/63944,splash erosion,,INCLUDE,0.79,0.21,0.79,0.58,jev,6,15,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/31941,subsoiling,sub-soiling,INCLUDE,0.72,0.28,0.72,0.44,jev,6,15,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11542,Sulfaquents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11554,Sulfaquepts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146718,Sulfaquerts,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45085,Sulfihemists,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,16,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/62407,Sulfisaprists,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146698,Sulfiwassents,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,16,6,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146702,Sulfiwassists,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,16,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45086,Sulfohemists,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,16,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/62408,Sulfosaprists,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/65205,Sulfudepts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,16,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12056,Torriarents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40739,Torrifluvents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40787,Torrifolists,,INCLUDE,0.96,0.04,0.96,0.92,jev,6,16,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56243,Torriorthents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,16,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/60082,Torripsamments,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12057,Udarents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40740,Udifluvents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,16,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40788,Udifolists,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,16,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/60083,Udipsamments,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/66668,Udivitrands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56244,Udorthents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/66596,Umbriturbels,,INCLUDE,0.97,0.03,0.97,0.94,jev,6,17,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56242,Umbrorthels,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,17,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46279,unsaturated hydraulic conductivity,,INCLUDE,0.89,0.11,0.89,0.78,jev,6,17,6,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/12058,Ustarents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,7,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40741,Ustifluvents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,8,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40789,Ustifolists,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,9,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/60084,Ustipsamments,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,10,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/66827,Ustivitrands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56245,Ustorthents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,12,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11555,Vermaquepts,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,17,13,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/66669,Vermudolls,,INCLUDE,0.95,0.05,0.95,0.9,jev,6,17,14,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/66828,Vermustolls,,INCLUDE,0.98,0.02,0.98,0.96,jev,6,17,15,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11452,Vitraquands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30304,Vitricryands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,18,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/66149,Vitritorrands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,19,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/67189,Vitrixerands,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,17,20,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12059,Xerarents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,18,1,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40742,Xerofluvents,,INCLUDE,1.0,0.0,1.0,1.0,jev,6,18,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/60085,Xeropsamments,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,18,3,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56246,Xerorthents,,INCLUDE,0.99,0.01,0.99,0.98,jev,6,18,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/302887,soil fumigants,soil sterilants,INCLUDE,0.95,0.05,0.95,0.9,jev,7,1,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/62345,soil stabilization,soil stabilisation,INCLUDE,0.97,0.03,0.97,0.94,jev,7,1,10,jev-1.14.0,False,True,skos:broader; skos:narrower

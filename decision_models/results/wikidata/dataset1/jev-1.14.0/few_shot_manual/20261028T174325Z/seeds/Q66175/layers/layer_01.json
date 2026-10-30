@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row62",
+    "legacy_row_id": "Q66175|Q340169",
+    "seed_qid": "Q66175",
+    "seed_label": "telex",
+    "qid": "Q340169",
+    "label": "media",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q66175",
+    "parent_label": "telex",
+    "path": "telex --instance of--> media",
+    "uri": "http://www.wikidata.org/entity/Q340169",
+    "classification": "EXCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.44,
+    "p_exclude": 0.56,
+    "selected_probability": 0.56,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

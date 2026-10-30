@@ -1,0 +1,30 @@
+{
+  "seed_qid": "Q231136",
+  "seed_label": "Encarta",
+  "included_qids": [
+    "Q13419255",
+    "Q231136",
+    "Q7397"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q13419255",
+    "Q231136",
+    "Q7397"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:07.026779+00:00",
+  "finished_at_utc": "2026-10-28T17:43:07.490235+00:00",
+  "wall_seconds": 0.4634568000037689,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,33 @@
+{
+  "seed_qid": "Q2867785",
+  "seed_label": "AFNIC",
+  "included_qids": [
+    "Q2867785",
+    "Q9067653"
+  ],
+  "pruned_qids": [
+    "Q4830453",
+    "Q6881511"
+  ],
+  "visited_qids": [
+    "Q2867785",
+    "Q4830453",
+    "Q6881511",
+    "Q9067653"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 1,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:03.177454+00:00",
+  "finished_at_utc": "2026-10-28T16:42:03.512918+00:00",
+  "wall_seconds": 0.33547279999766033,
+  "frontier_exhausted": true
+}

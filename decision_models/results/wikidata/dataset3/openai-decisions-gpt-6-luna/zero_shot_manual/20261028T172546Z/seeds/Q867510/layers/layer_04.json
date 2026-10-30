@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1598",
+    "legacy_row_id": "Q867510|Q1221807",
+    "seed_qid": "Q867510",
+    "seed_label": "Cypresses",
+    "qid": "Q1221807",
+    "label": "Dieter Bührle",
+    "csv_depth": 5,
+    "bfs_depth": 5,
+    "target": 1,
+    "reaching_property": "P40",
+    "reaching_property_label": "child",
+    "parent_qid": "Q96297",
+    "parent_label": "Emil Georg Bührle",
+    "path": "Cypresses --owned by--> Justin K. Thannhauser --owner of--> Still Life with Mangoes and a Hibiscus Flower --owned by--> Galerie Fischer --significant person--> Emil Georg Bührle --child--> Dieter Bührle",
+    "uri": "http://www.wikidata.org/entity/Q1221807",
+    "classification": "INCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.76,
+    "p_exclude": 0.24,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

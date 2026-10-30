@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1173",
+    "legacy_row_id": "Q5147536|Q108841562",
+    "seed_qid": "Q5147536",
+    "seed_label": "Josef Feinhals",
+    "qid": "Q108841562",
+    "label": "Lindemann House",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 1,
+    "reaching_property": "P1830",
+    "reaching_property_label": "owner of",
+    "parent_qid": "Q108837588",
+    "parent_label": "Paul Lindemann",
+    "path": "Josef Feinhals --significant person--> Bruno Paul --significant person--> Paul Lindemann --owner of--> Lindemann House",
+    "uri": "http://www.wikidata.org/entity/Q108841562",
+    "classification": "INCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.68,
+    "p_exclude": 0.32,
+    "selected_probability": 0.68,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

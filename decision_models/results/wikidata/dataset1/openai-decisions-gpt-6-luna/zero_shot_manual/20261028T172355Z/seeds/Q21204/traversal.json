@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q21204",
+  "seed_label": "International Phonetic Alphabet",
+  "included_qids": [
+    "Q21204",
+    "Q579287"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q21204",
+    "Q579287"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:28.910793+00:00",
+  "finished_at_utc": "2026-10-28T17:24:29.424330+00:00",
+  "wall_seconds": 0.513535200007027,
+  "frontier_exhausted": true
+}

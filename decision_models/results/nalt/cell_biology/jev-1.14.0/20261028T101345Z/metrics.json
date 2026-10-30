@@ -1,0 +1,109 @@
+{
+  "metrics": {
+    "true_positive": 269,
+    "false_positive": 78,
+    "false_negative": 146,
+    "true_negative": 412,
+    "precision": 0.7752161383285303,
+    "recall": 0.6481927710843374,
+    "f1": 0.7060367454068242,
+    "accuracy": 0.7524861878453039,
+    "evaluation_total": 905,
+    "excluded_evaluation_count": 10,
+    "gold_positive_count": 415,
+    "reachable_gold_positive_count": 421,
+    "raw_gold_positive_count": 424,
+    "unreachable_gold_positive_count": 3,
+    "included_count": 347,
+    "raw_included_count": 352,
+    "pruned_count": 441,
+    "raw_pruned_count": 446,
+    "visited_count": 788,
+    "raw_visited_count": 798,
+    "iterations": 9
+  },
+  "iterations": [
+    {
+      "iteration": 1,
+      "evaluated": 49,
+      "included": 47,
+      "pruned": 2
+    },
+    {
+      "iteration": 2,
+      "evaluated": 112,
+      "included": 52,
+      "pruned": 60
+    },
+    {
+      "iteration": 3,
+      "evaluated": 203,
+      "included": 86,
+      "pruned": 117
+    },
+    {
+      "iteration": 4,
+      "evaluated": 156,
+      "included": 71,
+      "pruned": 85
+    },
+    {
+      "iteration": 5,
+      "evaluated": 162,
+      "included": 67,
+      "pruned": 95
+    },
+    {
+      "iteration": 6,
+      "evaluated": 90,
+      "included": 21,
+      "pruned": 69
+    },
+    {
+      "iteration": 7,
+      "evaluated": 18,
+      "included": 5,
+      "pruned": 13
+    },
+    {
+      "iteration": 8,
+      "evaluated": 6,
+      "included": 2,
+      "pruned": 4
+    },
+    {
+      "iteration": 9,
+      "evaluated": 1,
+      "included": 0,
+      "pruned": 1
+    }
+  ],
+  "seed_uris": [
+    "https://lod.nal.usda.gov/nalt/2895"
+  ],
+  "gold_root_uri": "https://lod.nal.usda.gov/nalt/17472",
+  "exclude_evaluation_uris": [
+    "https://lod.nal.usda.gov/nalt/15097",
+    "https://lod.nal.usda.gov/nalt/15200",
+    "https://lod.nal.usda.gov/nalt/1560",
+    "https://lod.nal.usda.gov/nalt/23373",
+    "https://lod.nal.usda.gov/nalt/23380",
+    "https://lod.nal.usda.gov/nalt/23416",
+    "https://lod.nal.usda.gov/nalt/23437",
+    "https://lod.nal.usda.gov/nalt/2350",
+    "https://lod.nal.usda.gov/nalt/42261",
+    "https://lod.nal.usda.gov/nalt/72",
+    "https://lod.nal.usda.gov/nalt/881",
+    "https://lod.nal.usda.gov/nalt/8825"
+  ],
+  "unreachable_gold_uris": [
+    "https://lod.nal.usda.gov/nalt/23360",
+    "https://lod.nal.usda.gov/nalt/23363",
+    "https://lod.nal.usda.gov/nalt/5146"
+  ],
+  "visited_candidate_brier_score": 0.10325590851334181,
+  "visited_candidate_brier_count": 787,
+  "false_negative_explicit_exclude_count": 29,
+  "false_negative_unreached_count": 117,
+  "complete_traversal": true
+}

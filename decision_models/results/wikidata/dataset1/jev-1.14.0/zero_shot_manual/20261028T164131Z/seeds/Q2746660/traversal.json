@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q2746660",
+  "seed_label": "Agile Manifesto",
+  "included_qids": [
+    "Q2746660",
+    "Q46337"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q2746660",
+    "Q46337"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:02.268602+00:00",
+  "finished_at_utc": "2026-10-28T16:42:02.591545+00:00",
+  "wall_seconds": 0.3229416999965906,
+  "frontier_exhausted": true
+}

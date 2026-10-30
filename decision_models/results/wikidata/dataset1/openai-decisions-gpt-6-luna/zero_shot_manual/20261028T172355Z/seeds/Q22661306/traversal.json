@@ -1,0 +1,42 @@
+{
+  "seed_qid": "Q22661306",
+  "seed_label": "Kubernetes",
+  "included_qids": [
+    "Q15968274",
+    "Q22661306",
+    "Q39998995",
+    "Q506883"
+  ],
+  "pruned_qids": [
+    "Q21125433"
+  ],
+  "visited_qids": [
+    "Q15968274",
+    "Q21125433",
+    "Q22661306",
+    "Q39998995",
+    "Q506883"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:32.570799+00:00",
+  "finished_at_utc": "2026-10-28T17:24:33.328066+00:00",
+  "wall_seconds": 0.7572769999969751,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,58 @@
+{
+  "seed_qid": "Q46794",
+  "seed_label": "Subversion",
+  "included_qids": [
+    "Q132364",
+    "Q341",
+    "Q39531",
+    "Q39999225",
+    "Q46794",
+    "Q55680343",
+    "Q622993"
+  ],
+  "pruned_qids": [
+    "Q1025017",
+    "Q264364",
+    "Q56191572",
+    "Q81945",
+    "Q886092",
+    "Q974922"
+  ],
+  "visited_qids": [
+    "Q1025017",
+    "Q132364",
+    "Q264364",
+    "Q341",
+    "Q39531",
+    "Q39999225",
+    "Q46794",
+    "Q55680343",
+    "Q56191572",
+    "Q622993",
+    "Q81945",
+    "Q886092",
+    "Q974922"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 2,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:08.944264+00:00",
+  "finished_at_utc": "2026-10-28T17:46:10.188772+00:00",
+  "wall_seconds": 1.2445030999951996,
+  "frontier_exhausted": true
+}

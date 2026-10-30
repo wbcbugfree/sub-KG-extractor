@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q333301",
+  "seed_label": "Abstract Syntax Notation One",
+  "included_qids": [
+    "Q1044749",
+    "Q24451526",
+    "Q333301",
+    "Q7625107"
+  ],
+  "pruned_qids": [
+    "Q29057447",
+    "Q3021669",
+    "Q863511"
+  ],
+  "visited_qids": [
+    "Q1044749",
+    "Q24451526",
+    "Q29057447",
+    "Q3021669",
+    "Q333301",
+    "Q7625107",
+    "Q863511"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 1,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:07.162822+00:00",
+  "finished_at_utc": "2026-10-28T16:42:07.847494+00:00",
+  "wall_seconds": 0.6846679000009317,
+  "frontier_exhausted": true
+}

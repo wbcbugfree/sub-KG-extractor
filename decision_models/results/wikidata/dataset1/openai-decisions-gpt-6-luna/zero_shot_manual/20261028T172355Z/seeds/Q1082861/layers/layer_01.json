@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4581",
+    "legacy_row_id": "Q1082861|Q4972100",
+    "seed_qid": "Q1082861",
+    "seed_label": "long wave",
+    "qid": "Q4972100",
+    "label": "broadcast band",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1082861",
+    "parent_label": "long wave",
+    "path": "long wave --instance of--> broadcast band",
+    "uri": "http://www.wikidata.org/entity/Q4972100",
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

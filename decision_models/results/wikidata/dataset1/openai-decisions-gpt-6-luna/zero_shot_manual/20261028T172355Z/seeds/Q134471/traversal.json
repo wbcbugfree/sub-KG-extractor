@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q134471",
+  "seed_label": "Asynchronous JavaScript and XML",
+  "included_qids": [
+    "Q101244",
+    "Q12609526",
+    "Q134471",
+    "Q28923027",
+    "Q9143",
+    "Q918270"
+  ],
+  "pruned_qids": [
+    "Q4724010"
+  ],
+  "visited_qids": [
+    "Q101244",
+    "Q12609526",
+    "Q134471",
+    "Q28923027",
+    "Q4724010",
+    "Q9143",
+    "Q918270"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:06.867965+00:00",
+  "finished_at_utc": "2026-10-28T17:24:07.679092+00:00",
+  "wall_seconds": 0.8111324000055902,
+  "frontier_exhausted": true
+}

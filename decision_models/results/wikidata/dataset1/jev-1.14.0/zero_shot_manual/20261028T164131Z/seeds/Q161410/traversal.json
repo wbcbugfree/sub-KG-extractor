@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q161410",
+  "seed_label": "peer-to-peer",
+  "included_qids": [
+    "Q161410",
+    "Q639681",
+    "Q846636"
+  ],
+  "pruned_qids": [
+    "Q1048431",
+    "Q1052721",
+    "Q11148310",
+    "Q145490",
+    "Q146813",
+    "Q2025579",
+    "Q220644",
+    "Q2860294",
+    "Q6901701"
+  ],
+  "visited_qids": [
+    "Q1048431",
+    "Q1052721",
+    "Q11148310",
+    "Q145490",
+    "Q146813",
+    "Q161410",
+    "Q2025579",
+    "Q220644",
+    "Q2860294",
+    "Q639681",
+    "Q6901701",
+    "Q846636"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 0,
+      "excluded": 9,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:45.065262+00:00",
+  "finished_at_utc": "2026-10-28T16:41:45.743726+00:00",
+  "wall_seconds": 0.6784633000061149,
+  "frontier_exhausted": true
+}

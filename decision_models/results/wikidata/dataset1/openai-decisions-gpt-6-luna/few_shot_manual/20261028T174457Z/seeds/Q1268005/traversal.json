@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q1268005",
+  "seed_label": "Post Office Protocol",
+  "included_qids": [
+    "Q1268005",
+    "Q15836568",
+    "Q8777"
+  ],
+  "pruned_qids": [
+    "Q126998",
+    "Q24091098",
+    "Q4112081",
+    "Q5013874"
+  ],
+  "visited_qids": [
+    "Q1268005",
+    "Q126998",
+    "Q15836568",
+    "Q24091098",
+    "Q4112081",
+    "Q5013874",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:10.299192+00:00",
+  "finished_at_utc": "2026-10-28T17:45:11.132053+00:00",
+  "wall_seconds": 0.8328514999884646,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,42 @@
+{
+  "seed_qid": "Q6049601",
+  "seed_label": "International Conference on Computer Communications",
+  "included_qids": [
+    "Q2020153",
+    "Q6049601"
+  ],
+  "pruned_qids": [
+    "Q10846717",
+    "Q110895855",
+    "Q88966018"
+  ],
+  "visited_qids": [
+    "Q10846717",
+    "Q110895855",
+    "Q2020153",
+    "Q6049601",
+    "Q88966018"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 0,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:18.836417+00:00",
+  "finished_at_utc": "2026-10-28T16:42:19.443185+00:00",
+  "wall_seconds": 0.6067563999968115,
+  "frontier_exhausted": true
+}

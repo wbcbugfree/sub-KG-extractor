@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3197",
+    "legacy_row_id": "Q92438|Q4485156",
+    "seed_qid": "Q92438",
+    "seed_label": "microblogging",
+    "qid": "Q4485156",
+    "label": "software feature",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q92438",
+    "parent_label": "microblogging",
+    "path": "microblogging --instance of--> software feature",
+    "uri": "http://www.wikidata.org/entity/Q4485156",
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

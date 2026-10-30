@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2605",
+    "legacy_row_id": "Q1071978|Q2946028",
+    "seed_qid": "Q1071978",
+    "seed_label": "Réseau Ferré de France",
+    "qid": "Q2946028",
+    "label": "Regional center of pedagogic documentation",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q3591583",
+    "parent_label": "établissement public à caractère industriel et commercial",
+    "path": "Réseau Ferré de France --instance of--> établissement public à caractère industriel et commercial --has subclass--> Regional center of pedagogic documentation",
+    "uri": "http://www.wikidata.org/entity/Q2946028",
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

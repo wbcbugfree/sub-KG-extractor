@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row131",
+    "legacy_row_id": "Q221682|Q1799072",
+    "seed_qid": "Q221682",
+    "seed_label": "semaphore",
+    "qid": "Q1799072",
+    "label": "method",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q221682",
+    "parent_label": "semaphore",
+    "path": "semaphore --instance of--> method",
+    "uri": "http://www.wikidata.org/entity/Q1799072",
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

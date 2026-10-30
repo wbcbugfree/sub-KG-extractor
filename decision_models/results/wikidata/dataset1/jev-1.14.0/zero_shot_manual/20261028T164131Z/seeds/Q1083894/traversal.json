@@ -1,0 +1,71 @@
+{
+  "seed_qid": "Q1083894",
+  "seed_label": "digital terrestrial television",
+  "included_qids": [
+    "Q1083894",
+    "Q15078788",
+    "Q175122",
+    "Q289",
+    "Q4453957"
+  ],
+  "pruned_qids": [
+    "Q1962634",
+    "Q209588",
+    "Q21973903",
+    "Q258137",
+    "Q26261757",
+    "Q26398",
+    "Q2826075",
+    "Q5363932",
+    "Q55276680",
+    "Q779239",
+    "Q849194"
+  ],
+  "visited_qids": [
+    "Q1083894",
+    "Q15078788",
+    "Q175122",
+    "Q1962634",
+    "Q209588",
+    "Q21973903",
+    "Q258137",
+    "Q26261757",
+    "Q26398",
+    "Q2826075",
+    "Q289",
+    "Q4453957",
+    "Q5363932",
+    "Q55276680",
+    "Q779239",
+    "Q849194"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 2,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 6,
+      "included": 1,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:35.694952+00:00",
+  "finished_at_utc": "2026-10-28T16:41:36.739551+00:00",
+  "wall_seconds": 1.0445936000032816,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q42283",
+  "seed_label": "File Transfer Protocol",
+  "included_qids": [
+    "Q15836568",
+    "Q16935517",
+    "Q290378",
+    "Q42283",
+    "Q5013874"
+  ],
+  "pruned_qids": [
+    "Q2622793",
+    "Q8777"
+  ],
+  "visited_qids": [
+    "Q15836568",
+    "Q16935517",
+    "Q2622793",
+    "Q290378",
+    "Q42283",
+    "Q5013874",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 1,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:11.653186+00:00",
+  "finished_at_utc": "2026-10-28T16:42:12.327224+00:00",
+  "wall_seconds": 0.6740399999980582,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,30 @@
+{
+  "seed_qid": "Q18822",
+  "seed_label": "Global Positioning System",
+  "included_qids": [
+    "Q179435",
+    "Q18822",
+    "Q20181002"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q179435",
+    "Q18822",
+    "Q20181002"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:46.227527+00:00",
+  "finished_at_utc": "2026-10-28T17:43:46.562777+00:00",
+  "wall_seconds": 0.3352578999911202,
+  "frontier_exhausted": true
+}

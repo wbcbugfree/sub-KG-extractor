@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q899288",
+  "seed_label": "multicast",
+  "included_qids": [
+    "Q874048",
+    "Q899288"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q874048",
+    "Q899288"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:26.305087+00:00",
+  "finished_at_utc": "2026-10-28T17:44:26.601855+00:00",
+  "wall_seconds": 0.29676450000260957,
+  "frontier_exhausted": true
+}

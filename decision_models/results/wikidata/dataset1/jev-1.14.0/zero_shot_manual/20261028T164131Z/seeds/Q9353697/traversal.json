@@ -1,0 +1,88 @@
+{
+  "seed_qid": "Q9353697",
+  "seed_label": "TFTS",
+  "included_qids": [
+    "Q1068715",
+    "Q1120452",
+    "Q1301371",
+    "Q1324289",
+    "Q13425103",
+    "Q141683",
+    "Q2354216",
+    "Q577764",
+    "Q79984",
+    "Q9353697"
+  ],
+  "pruned_qids": [
+    "Q1139744",
+    "Q15057100",
+    "Q15360302",
+    "Q15907309",
+    "Q206637",
+    "Q26836373",
+    "Q50804774",
+    "Q5264354",
+    "Q5570871",
+    "Q62388664",
+    "Q75"
+  ],
+  "visited_qids": [
+    "Q1068715",
+    "Q1120452",
+    "Q1139744",
+    "Q1301371",
+    "Q1324289",
+    "Q13425103",
+    "Q141683",
+    "Q15057100",
+    "Q15360302",
+    "Q15907309",
+    "Q206637",
+    "Q2354216",
+    "Q26836373",
+    "Q50804774",
+    "Q5264354",
+    "Q5570871",
+    "Q577764",
+    "Q62388664",
+    "Q75",
+    "Q79984",
+    "Q9353697"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 4,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 2,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 8,
+      "included": 4,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 4,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:30.083362+00:00",
+  "finished_at_utc": "2026-10-28T16:42:31.423036+00:00",
+  "wall_seconds": 1.3396853000012925,
+  "frontier_exhausted": true
+}

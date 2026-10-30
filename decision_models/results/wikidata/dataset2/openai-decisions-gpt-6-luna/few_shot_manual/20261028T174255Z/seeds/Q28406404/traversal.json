@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q28406404",
+  "seed_label": "Microsoft Teams",
+  "included_qids": [
+    "Q15548100",
+    "Q19967801",
+    "Q2462003",
+    "Q28051323",
+    "Q28406404",
+    "Q474157"
+  ],
+  "pruned_qids": [
+    "Q12313595",
+    "Q28135300",
+    "Q734413",
+    "Q7705753"
+  ],
+  "visited_qids": [
+    "Q12313595",
+    "Q15548100",
+    "Q19967801",
+    "Q2462003",
+    "Q28051323",
+    "Q28135300",
+    "Q28406404",
+    "Q474157",
+    "Q734413",
+    "Q7705753"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:09.032924+00:00",
+  "finished_at_utc": "2026-10-28T17:43:10.429503+00:00",
+  "wall_seconds": 1.3965704999864101,
+  "frontier_exhausted": true
+}

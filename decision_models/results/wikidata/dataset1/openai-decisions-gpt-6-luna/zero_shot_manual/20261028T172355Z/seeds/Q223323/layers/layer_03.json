@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2468",
+    "legacy_row_id": "Q223323|Q56651566",
+    "seed_qid": "Q223323",
+    "seed_label": "root mean square",
+    "qid": "Q56651566",
+    "label": "measure of forecasting quality",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q56062092",
+    "parent_label": "error metric",
+    "path": "root mean square --instance of--> type of statistic --has subclass--> error metric --has subclass--> measure of forecasting quality",
+    "uri": "http://www.wikidata.org/entity/Q56651566",
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

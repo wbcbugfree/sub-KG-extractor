@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q8539",
+  "seed_label": "The Big Bang Theory",
+  "included_qids": [
+    "Q5398426",
+    "Q8539"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q5398426",
+    "Q8539"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:47.192921+00:00",
+  "finished_at_utc": "2026-10-28T17:23:47.765493+00:00",
+  "wall_seconds": 0.5725829000002705,
+  "frontier_exhausted": true
+}

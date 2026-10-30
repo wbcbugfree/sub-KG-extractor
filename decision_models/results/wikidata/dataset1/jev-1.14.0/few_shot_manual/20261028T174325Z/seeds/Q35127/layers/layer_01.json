@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1397",
+    "legacy_row_id": "Q35127|Q11288",
+    "seed_qid": "Q35127",
+    "seed_label": "website",
+    "qid": "Q11288",
+    "label": "web server",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q35127",
+    "parent_label": "website",
+    "path": "website --instance of--> web server",
+    "uri": "http://www.wikidata.org/entity/Q11288",
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q1500419",
+  "seed_label": "Open Mobile Alliance",
+  "included_qids": [
+    "Q1328899",
+    "Q1500419"
+  ],
+  "pruned_qids": [
+    "Q15277759",
+    "Q294801",
+    "Q51885731",
+    "Q52162350",
+    "Q659206",
+    "Q7835148",
+    "Q79913"
+  ],
+  "visited_qids": [
+    "Q1328899",
+    "Q1500419",
+    "Q15277759",
+    "Q294801",
+    "Q51885731",
+    "Q52162350",
+    "Q659206",
+    "Q7835148",
+    "Q79913"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 0,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:43.074738+00:00",
+  "finished_at_utc": "2026-10-28T16:41:43.743653+00:00",
+  "wall_seconds": 0.6689176999934716,
+  "frontier_exhausted": true
+}

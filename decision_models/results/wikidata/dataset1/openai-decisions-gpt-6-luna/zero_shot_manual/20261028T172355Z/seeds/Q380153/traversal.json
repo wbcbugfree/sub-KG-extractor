@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q380153",
+  "seed_label": "Dynamic HTML",
+  "included_qids": [
+    "Q210588",
+    "Q380153",
+    "Q4025884"
+  ],
+  "pruned_qids": [
+    "Q48270"
+  ],
+  "visited_qids": [
+    "Q210588",
+    "Q380153",
+    "Q4025884",
+    "Q48270"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:47.205134+00:00",
+  "finished_at_utc": "2026-10-28T17:24:48.006761+00:00",
+  "wall_seconds": 0.8016350999969291,
+  "frontier_exhausted": true
+}

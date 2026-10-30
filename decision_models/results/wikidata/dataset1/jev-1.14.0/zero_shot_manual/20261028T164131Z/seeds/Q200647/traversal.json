@@ -1,0 +1,61 @@
+{
+  "seed_qid": "Q200647",
+  "seed_label": "EPOC",
+  "included_qids": [
+    "Q200647",
+    "Q34825",
+    "Q483318",
+    "Q4885200",
+    "Q87993016",
+    "Q920890",
+    "Q941283"
+  ],
+  "pruned_qids": [
+    "Q15282750",
+    "Q1854343",
+    "Q18845397",
+    "Q57265164"
+  ],
+  "visited_qids": [
+    "Q15282750",
+    "Q1854343",
+    "Q18845397",
+    "Q200647",
+    "Q34825",
+    "Q483318",
+    "Q4885200",
+    "Q57265164",
+    "Q87993016",
+    "Q920890",
+    "Q941283"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 6,
+      "included": 2,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:53.400611+00:00",
+  "finished_at_utc": "2026-10-28T16:41:54.403656+00:00",
+  "wall_seconds": 1.0030440999980783,
+  "frontier_exhausted": true
+}

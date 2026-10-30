@@ -1,0 +1,38 @@
+{
+  "seed_qid": "Q623338",
+  "seed_label": "Web Services Description Language",
+  "included_qids": [
+    "Q20155966",
+    "Q623338"
+  ],
+  "pruned_qids": [
+    "Q576465"
+  ],
+  "visited_qids": [
+    "Q20155966",
+    "Q576465",
+    "Q623338"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:17.325688+00:00",
+  "finished_at_utc": "2026-10-28T17:46:18.008554+00:00",
+  "wall_seconds": 0.6828622000030009,
+  "frontier_exhausted": true
+}

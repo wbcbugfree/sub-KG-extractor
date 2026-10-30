@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3701",
+    "legacy_row_id": "Q1537683|Q17073339",
+    "seed_qid": "Q1537683",
+    "seed_label": "Google File System",
+    "qid": "Q17073339",
+    "label": "OrangeFS",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q1103464",
+    "parent_label": "clustered file system",
+    "path": "Google File System --instance of--> file system --has subclass--> clustered file system --has subclass--> OrangeFS",
+    "uri": "http://www.wikidata.org/entity/Q17073339",
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

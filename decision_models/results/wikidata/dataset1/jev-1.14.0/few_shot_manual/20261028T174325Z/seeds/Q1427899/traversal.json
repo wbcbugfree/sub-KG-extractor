@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q1427899",
+  "seed_label": "rack unit",
+  "included_qids": [
+    "Q1427899",
+    "Q1978718",
+    "Q214377"
+  ],
+  "pruned_qids": [
+    "Q2534228"
+  ],
+  "visited_qids": [
+    "Q1427899",
+    "Q1978718",
+    "Q214377",
+    "Q2534228"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:36.934881+00:00",
+  "finished_at_utc": "2026-10-28T17:43:37.629797+00:00",
+  "wall_seconds": 0.6948936999979196,
+  "frontier_exhausted": true
+}

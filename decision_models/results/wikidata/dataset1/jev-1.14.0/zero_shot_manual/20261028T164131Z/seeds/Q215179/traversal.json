@@ -1,0 +1,58 @@
+{
+  "seed_qid": "Q215179",
+  "seed_label": "Point-to-point protocol",
+  "included_qids": [
+    "Q1254335",
+    "Q15836568",
+    "Q203087",
+    "Q215179",
+    "Q3359815"
+  ],
+  "pruned_qids": [
+    "Q1422324",
+    "Q2622793",
+    "Q28380029",
+    "Q4112081",
+    "Q5013874",
+    "Q65498884",
+    "Q81414",
+    "Q8777"
+  ],
+  "visited_qids": [
+    "Q1254335",
+    "Q1422324",
+    "Q15836568",
+    "Q203087",
+    "Q215179",
+    "Q2622793",
+    "Q28380029",
+    "Q3359815",
+    "Q4112081",
+    "Q5013874",
+    "Q65498884",
+    "Q81414",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 11,
+      "included": 3,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:56.418900+00:00",
+  "finished_at_utc": "2026-10-28T16:41:57.116607+00:00",
+  "wall_seconds": 0.6976988999958849,
+  "frontier_exhausted": true
+}

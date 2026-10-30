@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q230187",
+  "seed_label": "crosstalk",
+  "included_qids": [
+    "Q230187",
+    "Q3405599"
+  ],
+  "pruned_qids": [
+    "Q17080379",
+    "Q858318"
+  ],
+  "visited_qids": [
+    "Q17080379",
+    "Q230187",
+    "Q3405599",
+    "Q858318"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 0,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:56.056440+00:00",
+  "finished_at_utc": "2026-10-28T17:43:56.681735+00:00",
+  "wall_seconds": 0.6253012999950442,
+  "frontier_exhausted": true
+}

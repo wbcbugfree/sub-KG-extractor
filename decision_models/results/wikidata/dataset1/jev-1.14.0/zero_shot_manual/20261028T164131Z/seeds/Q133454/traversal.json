@@ -1,0 +1,64 @@
+{
+  "seed_qid": "Q133454",
+  "seed_label": "high-definition television",
+  "included_qids": [
+    "Q1144899",
+    "Q133454",
+    "Q2043676",
+    "Q2043680",
+    "Q317623"
+  ],
+  "pruned_qids": [
+    "Q105047548",
+    "Q105990004",
+    "Q105990097",
+    "Q2309650",
+    "Q2680559",
+    "Q375479",
+    "Q45941145",
+    "Q56277227",
+    "Q85875700",
+    "Q917023",
+    "Q99602118"
+  ],
+  "visited_qids": [
+    "Q105047548",
+    "Q105990004",
+    "Q105990097",
+    "Q1144899",
+    "Q133454",
+    "Q2043676",
+    "Q2043680",
+    "Q2309650",
+    "Q2680559",
+    "Q317623",
+    "Q375479",
+    "Q45941145",
+    "Q56277227",
+    "Q85875700",
+    "Q917023",
+    "Q99602118"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 13,
+      "included": 2,
+      "excluded": 11,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:40.515677+00:00",
+  "finished_at_utc": "2026-10-28T16:41:41.222609+00:00",
+  "wall_seconds": 0.7069407000089996,
+  "frontier_exhausted": true
+}

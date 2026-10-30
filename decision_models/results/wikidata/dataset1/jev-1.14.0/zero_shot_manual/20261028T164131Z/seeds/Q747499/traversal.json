@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q747499",
+  "seed_label": "RADIUS",
+  "included_qids": [
+    "Q15836568",
+    "Q3359815",
+    "Q4825885",
+    "Q747499"
+  ],
+  "pruned_qids": [
+    "Q430140",
+    "Q7878662",
+    "Q8777"
+  ],
+  "visited_qids": [
+    "Q15836568",
+    "Q3359815",
+    "Q430140",
+    "Q4825885",
+    "Q747499",
+    "Q7878662",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 1,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:21.514117+00:00",
+  "finished_at_utc": "2026-10-28T16:42:22.125406+00:00",
+  "wall_seconds": 0.6112939000013284,
+  "frontier_exhausted": true
+}

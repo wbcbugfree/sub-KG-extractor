@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1255",
+    "legacy_row_id": "Q189447|Q1481177",
+    "seed_qid": "Q189447",
+    "seed_label": "risk management",
+    "qid": "Q1481177",
+    "label": "management style",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q96247293",
+    "parent_label": "type of management",
+    "path": "risk management --instance of--> type of management --has subclass--> management style",
+    "uri": "http://www.wikidata.org/entity/Q1481177",
+    "classification": "EXCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.37,
+    "p_exclude": 0.63,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

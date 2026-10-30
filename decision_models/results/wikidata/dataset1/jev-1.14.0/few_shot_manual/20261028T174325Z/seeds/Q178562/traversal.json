@@ -1,0 +1,37 @@
+{
+  "seed_qid": "Q178562",
+  "seed_label": "Digital Video Broadcasting",
+  "included_qids": [
+    "Q178562",
+    "Q290378",
+    "Q681263"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q178562",
+    "Q290378",
+    "Q681263"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:44.688714+00:00",
+  "finished_at_utc": "2026-10-28T17:43:45.282144+00:00",
+  "wall_seconds": 0.5934315000049537,
+  "frontier_exhausted": true
+}

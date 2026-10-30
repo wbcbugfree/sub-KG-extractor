@@ -1,0 +1,66 @@
+{
+  "seed_qid": "Q4007363",
+  "seed_label": "ITU Telecommunication Standardization Sector",
+  "included_qids": [
+    "Q1328899",
+    "Q4007363",
+    "Q43229",
+    "Q7835148"
+  ],
+  "pruned_qids": [
+    "Q107427512",
+    "Q110666024",
+    "Q1311569",
+    "Q1443933",
+    "Q1518309",
+    "Q1642895",
+    "Q1934969",
+    "Q26180917",
+    "Q294801",
+    "Q4736565",
+    "Q5055151",
+    "Q5155040",
+    "Q5380419"
+  ],
+  "visited_qids": [
+    "Q107427512",
+    "Q110666024",
+    "Q1311569",
+    "Q1328899",
+    "Q1443933",
+    "Q1518309",
+    "Q1642895",
+    "Q1934969",
+    "Q26180917",
+    "Q294801",
+    "Q4007363",
+    "Q43229",
+    "Q4736565",
+    "Q5055151",
+    "Q5155040",
+    "Q5380419",
+    "Q7835148"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 14,
+      "included": 1,
+      "excluded": 13,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:48.597832+00:00",
+  "finished_at_utc": "2026-10-28T17:24:49.703561+00:00",
+  "wall_seconds": 1.1057266000134405,
+  "frontier_exhausted": true
+}

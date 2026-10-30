@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1744",
+    "legacy_row_id": "Q8777|Q15836568",
+    "seed_qid": "Q8777",
+    "seed_label": "Hypertext Transfer Protocol",
+    "qid": "Q15836568",
+    "label": "computer network protocol",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P279",
+    "reaching_property_label": "subclass of",
+    "parent_qid": "Q8777",
+    "parent_label": "Hypertext Transfer Protocol",
+    "path": "Hypertext Transfer Protocol --subclass of--> computer network protocol",
+    "uri": "http://www.wikidata.org/entity/Q15836568",
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

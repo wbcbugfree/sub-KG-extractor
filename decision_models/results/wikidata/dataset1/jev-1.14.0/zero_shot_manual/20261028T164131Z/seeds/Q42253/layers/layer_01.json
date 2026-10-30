@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3002",
+    "legacy_row_id": "Q42253|Q317623",
+    "seed_qid": "Q42253",
+    "seed_label": "Uniform Resource Locator",
+    "qid": "Q317623",
+    "label": "technical standard",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q42253",
+    "parent_label": "Uniform Resource Locator",
+    "path": "Uniform Resource Locator --instance of--> technical standard",
+    "uri": "http://www.wikidata.org/entity/Q317623",
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

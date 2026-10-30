@@ -1,0 +1,73 @@
+{
+  "seed_qid": "Q1152227",
+  "seed_label": "pharmacogenomics",
+  "included_qids": [
+    "Q1068690",
+    "Q1152227",
+    "Q2091816",
+    "Q222046",
+    "Q25303637",
+    "Q28598684",
+    "Q62722214",
+    "Q7170583",
+    "Q7322390",
+    "Q841450",
+    "Q903778"
+  ],
+  "pruned_qids": [
+    "Q104193250",
+    "Q104415895",
+    "Q1147112",
+    "Q17002728",
+    "Q3381973",
+    "Q99397804"
+  ],
+  "visited_qids": [
+    "Q104193250",
+    "Q104415895",
+    "Q1068690",
+    "Q1147112",
+    "Q1152227",
+    "Q17002728",
+    "Q2091816",
+    "Q222046",
+    "Q25303637",
+    "Q28598684",
+    "Q3381973",
+    "Q62722214",
+    "Q7170583",
+    "Q7322390",
+    "Q841450",
+    "Q903778",
+    "Q99397804"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 13,
+      "included": 7,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:34.807982+00:00",
+  "finished_at_utc": "2026-10-28T17:23:35.811251+00:00",
+  "wall_seconds": 1.0032657999981893,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,53 @@
+{
+  "seed_qid": "Q243697",
+  "seed_label": "geek",
+  "included_qids": [
+    "Q19116554",
+    "Q243697",
+    "Q264965",
+    "Q773944"
+  ],
+  "pruned_qids": [
+    "Q2118393",
+    "Q3085171",
+    "Q7445029"
+  ],
+  "visited_qids": [
+    "Q19116554",
+    "Q2118393",
+    "Q243697",
+    "Q264965",
+    "Q3085171",
+    "Q7445029",
+    "Q773944"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 1,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:46.199044+00:00",
+  "finished_at_utc": "2026-10-28T17:45:47.582753+00:00",
+  "wall_seconds": 1.3837212000071304,
+  "frontier_exhausted": true
+}

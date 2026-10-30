@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4688",
+    "legacy_row_id": "Q193858|Q1328899",
+    "seed_qid": "Q193858",
+    "seed_label": "International Electrotechnical Commission",
+    "qid": "Q1328899",
+    "label": "Standards organization",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q193858",
+    "parent_label": "International Electrotechnical Commission",
+    "path": "International Electrotechnical Commission --instance of--> Standards organization",
+    "uri": "http://www.wikidata.org/entity/Q1328899",
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

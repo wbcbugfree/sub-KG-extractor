@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q1810071",
+  "seed_label": "A/B testing",
+  "included_qids": [
+    "Q1810071",
+    "Q5135723",
+    "Q96273743"
+  ],
+  "pruned_qids": [
+    "Q55215251"
+  ],
+  "visited_qids": [
+    "Q1810071",
+    "Q5135723",
+    "Q55215251",
+    "Q96273743"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:19.454664+00:00",
+  "finished_at_utc": "2026-10-28T17:24:20.182619+00:00",
+  "wall_seconds": 0.7279527000064263,
+  "frontier_exhausted": true
+}

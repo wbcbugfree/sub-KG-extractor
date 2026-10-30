@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q8548",
+  "seed_label": "Dijkstra's algorithm",
+  "included_qids": [
+    "Q11660",
+    "Q21595855",
+    "Q30503704",
+    "Q4443425",
+    "Q504353",
+    "Q8366",
+    "Q8548"
+  ],
+  "pruned_qids": [
+    "Q179613"
+  ],
+  "visited_qids": [
+    "Q11660",
+    "Q179613",
+    "Q21595855",
+    "Q30503704",
+    "Q4443425",
+    "Q504353",
+    "Q8366",
+    "Q8548"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:47.207963+00:00",
+  "finished_at_utc": "2026-10-28T17:23:47.840488+00:00",
+  "wall_seconds": 0.6325433000019984,
+  "frontier_exhausted": true
+}

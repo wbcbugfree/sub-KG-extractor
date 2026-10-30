@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2878",
+    "legacy_row_id": "Q207580|Q1229441",
+    "seed_qid": "Q207580",
+    "seed_label": "Routing Information Protocol",
+    "qid": "Q1229441",
+    "label": "distance-vector routing protocol",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q207580",
+    "parent_label": "Routing Information Protocol",
+    "path": "Routing Information Protocol --instance of--> distance-vector routing protocol",
+    "uri": "http://www.wikidata.org/entity/Q1229441",
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "seed_qid": "Q236908",
+  "seed_label": "Six Sigma",
+  "included_qids": [
+    "Q1356717",
+    "Q1381819",
+    "Q16155280",
+    "Q16947618",
+    "Q18344773",
+    "Q18390984",
+    "Q236908",
+    "Q2507377",
+    "Q2919644",
+    "Q65938634",
+    "Q932522"
+  ],
+  "pruned_qids": [
+    "Q1366259",
+    "Q17087347",
+    "Q705899",
+    "Q848201",
+    "Q9061582",
+    "Q965769",
+    "Q994735"
+  ],
+  "visited_qids": [
+    "Q1356717",
+    "Q1366259",
+    "Q1381819",
+    "Q16155280",
+    "Q16947618",
+    "Q17087347",
+    "Q18344773",
+    "Q18390984",
+    "Q236908",
+    "Q2507377",
+    "Q2919644",
+    "Q65938634",
+    "Q705899",
+    "Q848201",
+    "Q9061582",
+    "Q932522",
+    "Q965769",
+    "Q994735"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 15,
+      "included": 8,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:45.439733+00:00",
+  "finished_at_utc": "2026-10-28T17:45:47.542224+00:00",
+  "wall_seconds": 2.1024956999899587,
+  "frontier_exhausted": true
+}

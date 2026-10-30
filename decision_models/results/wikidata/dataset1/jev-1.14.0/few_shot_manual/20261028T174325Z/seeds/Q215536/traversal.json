@@ -1,0 +1,54 @@
+{
+  "seed_qid": "Q215536",
+  "seed_label": "merchant",
+  "included_qids": [
+    "Q215536",
+    "Q28640"
+  ],
+  "pruned_qids": [
+    "Q11488158",
+    "Q187588",
+    "Q24884545",
+    "Q2912172",
+    "Q3333733",
+    "Q43548373",
+    "Q56489540",
+    "Q7315448",
+    "Q828803"
+  ],
+  "visited_qids": [
+    "Q11488158",
+    "Q187588",
+    "Q215536",
+    "Q24884545",
+    "Q28640",
+    "Q2912172",
+    "Q3333733",
+    "Q43548373",
+    "Q56489540",
+    "Q7315448",
+    "Q828803"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 0,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:52.753952+00:00",
+  "finished_at_utc": "2026-10-28T17:43:53.538658+00:00",
+  "wall_seconds": 0.7847017999883974,
+  "frontier_exhausted": true
+}

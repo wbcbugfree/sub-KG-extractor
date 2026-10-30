@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2594",
+    "legacy_row_id": "Q175751|Q483247",
+    "seed_qid": "Q175751",
+    "seed_label": "quantum tunneling",
+    "qid": "Q483247",
+    "label": "phenomenon",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q175751",
+    "parent_label": "quantum tunneling",
+    "path": "quantum tunneling --instance of--> phenomenon",
+    "uri": "http://www.wikidata.org/entity/Q483247",
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

@@ -1,0 +1,324 @@
+uri,prefLabel,altLabels,classification,p_include,p_exclude,selected_probability,provider_confidence,decision_source,iteration,batch,candidate_number,response_model,in_hierarchy_gold,scored,relations
+https://lod.nal.usda.gov/nalt/162,botany,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,1,1,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17518,crop biosecurity,,EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,1,1,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/284,disease and pest management,,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,1,1,8,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/290,disease control,disease management; disease suppression; infection control; pathogen suppression,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,1,1,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9121,disease models,,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,1,1,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/67893,disease-free plants,disease free plants; germ free plants; germ-free plants; germfree plants; germfree state (plants); pathogen free plants; pathogen-free plants,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,1,1,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136950,etiological agents,aetiological agents; disease-causing agents,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,1,1,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41128,forest health,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,1,1,15,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/495,fungi,fungal organisms; macrofungi; microfungi,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,1,1,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/123142,herbicide safeners,herbicide antagonists; herbicide antidotes,EXCLUDE,0.34,0.66,0.66,0.32,openai_decisions,1,2,3,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/15154,infectious diseases,communicable diseases,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,1,2,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/329,infectious diseases and infestations,,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,1,2,7,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/284231,leaf wetness,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,1,2,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/330,noninfectious diseases,noncommunicable diseases,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,1,2,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/291,pest control,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,1,2,11,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/142532,plant disease resistance,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,1,2,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58572,plant viruses,,EXCLUDE,0.38,0.62,0.62,0.24,openai_decisions,1,2,18,gpt-6-luna,True,False,skos:related
+https://lod.nal.usda.gov/nalt/31900,postharvest diseases,postharvest decay; storage decay,EXCLUDE,0.48,0.52,0.52,0.04,openai_decisions,1,2,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58571,woolliness,,EXCLUDE,0.39,0.61,0.61,0.22,openai_decisions,1,3,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/729,abiotic stress,abiotic injuries; environmental stress (on organisms),EXCLUDE,0.47,0.53,0.53,0.06,openai_decisions,2,1,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8929,Anguinidae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,1,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10142,anti-infective properties,antiinfective activity; antiinfective properties,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,1,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/877,antimicrobial proteins,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,2,1,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10687,Aphelenchidae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,1,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10691,Aphelenchoididae,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,1,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8545,bacterial infections,animal bacterial diseases; animal bacterial infections; bacterial diseases of animals; bacterial infections of animals; bacterioses; human bacterial diseases,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,1,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/16539,Belonolaimidae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,2,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17220,biopesticides,bio-based pesticides; biobased pesticides; biofungicides; bioherbicides; bioinsecticides; biological insecticides; biological pesticides; biorational pesticides; environmentally friendly pesticides; environmentally-friendly pesticides,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,2,2,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/106,birds,,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,2,2,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/942,blight,,EXCLUDE,0.48,0.52,0.52,0.04,openai_decisions,2,2,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20087,brown-rot fungi,brown rot fungi; brown-rot fungus,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,2,2,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/222403,bud sport,plant sport,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,2,2,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/21812,Candidatus Liberibacter,Candidatus Liberobacter; Liberibacter; Liberobacter,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,2,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/234078,Cicadulina bipunctata,maize orange leafhopper,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,2,3,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1139,cold injury,,EXCLUDE,0.4,0.6,0.6,0.2,openai_decisions,2,3,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/21389,Criconematidae,,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,2,3,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30113,crop damage,,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,2,3,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30118,crop entomology,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,3,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/31320,cyst nematodes,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,2,3,18,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/302009,debarking,bark removal; timber debarking; wood barking; wood debarking,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,3,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/12935,Diaphorina citri,Asian citrus psylla; Asian citrus psyllid,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,2,4,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/28021,discoloration,discolouration,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,2,4,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/151,disease resistance,disease tolerance,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,2,4,5,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/8128,Dolichodoridae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,4,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/36798,embolism,embolus,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,2,4,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37053,endoparasites,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,2,4,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/946,epinasty,,EXCLUDE,0.48,0.52,0.52,0.04,openai_decisions,2,4,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40266,fire scars,,EXCLUDE,0.42,0.58,0.58,0.16,openai_decisions,2,4,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/302253,foliage plants,,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,2,4,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41149,forest insects,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,2,5,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41656,fruit crops,,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,2,5,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/298654,fungicide use reduction,fungicide reduction; fungicide usage reduction,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,5,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/146609,girdling,branch girdling; ring barking; stem girdling; tree girdling; trunk girdling,EXCLUDE,0.5,0.5,0.5,0.0,openai_decisions,2,5,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/44297,hail,,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,2,5,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/13555,Heteroderidae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,5,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10685,Hoplolaimidae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,5,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/291549,hyponasty,,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,2,5,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/924,hypoxia,anoxia; cell hypoxia; hypoxemia; oxygen deficiency; tissue hypoxia,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,2,6,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9355,insect pests,,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,2,6,4,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/47422,insecticidal properties,insecticidal action; insecticide action; insecticide activity; insecticide properties; insecticide property,EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,2,6,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/823,insecticides,,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,2,6,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9359,invertebrates,Invertebrata,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,6,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50574,Longidoridae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,6,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/51068,Macrophomina phaseolina,Macrophomina phaseoli; Rhizoctonia bataticola; Sclerotium bataticola,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,2,7,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17905,Magnaporthe grisea,Ceratosphaeria grisea; Pyricularia grisea,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,2,7,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/200534,Magnaporthe oryzae,Pyricularia oryzae,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,2,7,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/52046,Meloidogynidae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,7,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/2069,mites,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,7,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/53264,mollusc control,control of slugs; control of snails,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,2,7,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/825,molluscicides,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,7,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/761,necrosis,necroses,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,2,7,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/826,nematicides,anti-nematodal agents; antinematodal agents; antinematodals; filaricides,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,2,7,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58,Nematoda,Secernentea; nematodes; roundworms,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,7,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9380,nematode control,,EXCLUDE,0.47,0.53,0.53,0.06,openai_decisions,2,7,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1149,nematology,,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,2,7,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/32062,Neotylenchidae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,2,7,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/314221,nursery pests,,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,2,7,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43567,Paratylenchidae,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,2,8,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6026,Peronosporales,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,2,8,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/839,pests,vermin,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,2,8,6,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/106009,phytophagous mites,plant feeding mites; plant mites; plant-feeding mites,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,2,8,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58153,Phytophthora nicotianae,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,2,8,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/5631,plant breeding,crop breeding,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,2,8,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/5404,plant care equipment,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,2,8,14,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34627,plant-water relations,plant water relations; water-plant relations,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,2,8,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/45608,Pratylenchidae,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,9,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1142,radiation injury,radiation sickness,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,2,9,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42041,recombinant fusion proteins,chimera proteins; chimeric mutant proteins; chimeric proteins; recombinant chimeric proteins; recombinant hybrid proteins,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,2,9,8,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/52184,ring nematodes,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,2,9,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46060,Rosa,Hulthemia; Hulthemosa; roses; tea roses,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,2,9,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58608,seed pathology,,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,2,9,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/306694,seed pests,,EXCLUDE,0.43,0.57,0.57,0.14,openai_decisions,2,9,19,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/53265,slugs,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,2,10,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/53266,snails,,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,2,10,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10689,soil nematodes,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,2,10,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41795,sooty molds,sooty moulds,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,2,10,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/220318,storm damage,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,2,10,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9560,tissue culture,tissue culturing,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,11,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42607,transgenes,,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,2,11,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/53414,Trichodoridae,,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,2,11,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/40141,Tylenchidae,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,2,11,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54523,Tylenchulidae,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,2,11,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58620,virus-free plants,virus free plants; virusfree plants,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,2,11,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/46559,water uptake,water absorption,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,2,11,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/214273,wildfire disease,wild-fire disease,EXCLUDE,0.46,0.54,0.54,0.08,openai_decisions,2,11,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/952,wilting,,EXCLUDE,0.48,0.52,0.52,0.04,openai_decisions,2,11,12,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/728,wounds and injuries,,EXCLUDE,0.35,0.65,0.65,0.3,openai_decisions,2,11,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/196151,agroinfiltration,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,1,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6768,almonds,,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,3,1,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/7077,Alternaria alternata,Alternaria fasciculata; Alternaria tenuis; Macrosporium fasciculatum,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,1,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/324036,Alternaria arborescens,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,1,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9084,animal welfare,animal abuse; animal cruelty; animal rights; anti-cruelty law (animals); anticruelty law (animals); cruelty to animals; humane treatment of animals,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,1,5,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/331461,antibrowning agents,anti-browning agents,EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,3,1,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11308,apples,apple fruits,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,1,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/2350,bacteria,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,1,11,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/16338,Beet necrotic yellow vein virus,BNYVV (Beet necrotic yellow vein virus),EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,1,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/266495,Blueberry mosaic associated virus,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,1,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18851,Botrytis cinerea,Botryotinia fuckeliana; Botrytis vulgaris; Sclerotinia fuckeliana,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,1,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6585,Brassicaceae,Cruciferae; Raphanaceae; Stanleyaceae; Thlaspiaceae; crucifers; mustard family,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,1,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/300977,browse plants,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,1,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20122,browsing,,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,3,2,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20670,Buxus,,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,3,2,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/19478,cabbage,cabbages,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,2,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/336999,Calonectria henricotiae,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,3,2,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/336987,Calonectria pseudonaviculata,Cylindrocladium buxicola; Cylindrocladium pseudonaviculatum,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,2,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/22867,Castanea sativa,European chestnut,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,3,2,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/232248,cell cycle checkpoints,cell cycle arrest,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,2,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23908,Ceratocystis ulmi,Ophiostoma ulmi,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,2,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/301230,ceratoulmin,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,3,2,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24011,Cercospora,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,2,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24019,Cercospora sojina,Passalora sojina,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,3,2,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24020,Cercospora zeae-maydis,Cercosporella zeae-maydis,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,3,2,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/278557,cisgenes,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,2,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/278562,cisgenic plants,cisgenic crops,EXCLUDE,0.45,0.55,0.55,0.1,openai_decisions,3,2,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4824,Citrus,Afraurantium; Aurantium,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,2,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/16721,citrus fruits,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,3,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15217,Clavibacter,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,3,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11130,Clavibacter michiganensis,Aplanobacter michiganense; Bacterium michiganense; Clavibacter michiganense; Corynebacterium michiganense; Mycobacterium flavum ssp. michiganense; Mycobacterium flavum subsp. michiganense; Phytomonas michiganensis; Pseudomonas michiganensis,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,3,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26718,Claviceps purpurea,Claviceps microcephala,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,3,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/27703,coffee beans,,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,3,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/27940,Colletotrichum acutatum,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,3,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/263009,Colletotrichum kahawae,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,3,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/28535,conifer needles,pine needles,EXCLUDE,0.42,0.58,0.58,0.16,openai_decisions,3,3,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/28532,conifers,narrow-leaf evergreens; narrow-leaved evergreens; needled evergreens,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,3,3,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15218,Corynebacterium,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,3,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30063,Cristulariella,Nervostroma,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,3,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24785,Cryphonectria parasitica,Endothia parasitica,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,3,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30451,crystal proteins,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,3,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20101,decay fungi,rot fungi; wood decay fungi; wood destroying fungi; wood rot fungi; wood-destroying fungi; wood-rot fungi,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,3,3,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/218,defoliants,chemical defoliation,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,3,3,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/314192,defoliating insects,defoliator insects; forest defoliators; forest insect defoliators; insect defoliators,EXCLUDE,0.45,0.55,0.55,0.1,openai_decisions,3,3,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/32028,desiccation (plant physiology),dehydration (plant physiology),EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,3,20,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/203547,Dickeya,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,4,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/33990,drought,,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,3,4,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/137,drought tolerance,drought resistance; drought stress tolerance; drouth resistance; drouth tolerance,EXCLUDE,0.34,0.66,0.66,0.32,openai_decisions,3,4,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/34954,dwarfing,dwarfism,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,3,4,4,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35861,edible vaccines,,EXCLUDE,0.39,0.61,0.61,0.22,openai_decisions,3,4,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/248017,Elsinoe batatas,Sphaceloma batatas,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,3,4,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15211,Enterobacter nimipressuralis,Erwinia nimipressuralis,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,4,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/19967,ergot alkaloids,ergot derivatives,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,3,4,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15219,Erwinia,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,4,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/14615,Erwinia amylovora,Bacillus amylovorus; Bacterium amylovorus; Micrococcus amylovorus,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,4,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/7537,Fagus grandifolia,American beech,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,3,4,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/40096,figs,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,3,4,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41131,forest trees,timber trees,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,4,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18644,forests,,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,4,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26543,fruit peels,fruit rinds,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,4,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/32390,Fusarium,Gibberella; Haematonectria,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,4,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/259605,Fusarium mangiferae,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,4,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41947,Fusarium oxysporum f. sp. cubense,Fusarium oxysporum f.sp. cubense; Fusarium oxysporum fsp. cubense,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,3,5,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/227578,Fusicladium caryigenum,Cladosporium caryigenum,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,5,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42121,Gaeumannomyces graminis var. graminis,Gaeumannomyces cariceti; Gaeumannomyces graminis; Gaeumannomyces oryzinus; Linocarpon cariceti; Linocarpon oryzinum; Ophiobolus cariceti; Ophiobolus graminis; Ophiobolus graminis var. graminis; Ophiobolus oryzinus; Rhaphidophora graminis; Rhaphidospora cariceti; Sphaeria cariceti,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,3,5,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23775,Gaeumannomyces graminis var. tritici,Cephalosporium maydis; Harpophora maydis; Ophiobolus graminis var. tritici,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,5,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42644,genetic transformation,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,5,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/81474,genetically modified plants,GM crops; GM plants,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,5,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43085,Gloeocercospora sorghi,Microdochium sorghi,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,5,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/124234,Graphocephala atropunctata,Graphocephalus atropunctata; Hordnia atropunctata; Hordnia circellata; Neokolla circellata; blue-green sharpshooter,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,3,5,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6700,growth and development,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,5,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/259065,Guignardia citricarpa,Phyllosticta citricarpa,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,3,5,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/187953,head blight,,EXCLUDE,0.5,0.5,0.5,0.0,openai_decisions,3,5,14,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/1731,heat stress,heat shock,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,3,5,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/140,heat tolerance,critical thermal maxima; critical thermal maximum; heat resistance (organisms); thermal tolerance; thermotolerance,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,5,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/45009,Helminthosporium solani,Helminthosporium atrovirens; Spondylocladium atrovirens,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,5,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/31997,herbivores,folivores; folivorous organisms; folivory; herbivory; phytophagy,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,5,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26724,Hypomyces,Cladobotryum; Dactylium,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,5,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11341,inoculation methods,inoculation techniques,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,5,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/278612,intragenic plants,intragenic crops,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,3,6,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47629,Ipomoea batatas,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,6,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20642,Juglans cinerea,butternut tree,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,6,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/3317,Lauraceae,Cassythaceae; Perseaceae,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,6,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1823,leaf abscission,leaf fall; leaf shedding,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,6,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/31998,leaf area,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,6,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47436,leafrollers,leaf folders; leaf rollers,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,3,6,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/28537,leaves,foliage,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,6,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26713,Leifsonia xyli subsp. xyli,Clavibacter xyli ssp. xyli; Clavibacter xyli subsp. xyli; Leifsonia xyli ssp. xyli,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,6,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/141,lodging resistance,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,6,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50627,Lophodermium,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,6,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/51389,Mangifera indica,Mangifera austroyunnanensis; Mangifera mekongensis; Mangifera siamensis,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,6,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/52045,Meloidogyne,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,6,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41816,molds (fungi),moulds (fungi),EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,6,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17346,molecular farming,biofarming; biopharming; molecular pharming; phytomanufacturing,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,6,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/126484,Moniliophthora perniciosa,Crinipellis perniciosa; Marasmius perniciosus,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,6,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/45182,mycoherbicides,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,6,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17812,Mycosphaerella fijiensis,Cercospora fijiensis; Cercospora fijiensis var. difformis; Mycosphaerella fijiensis var. difformis; Paracercospora fijiensis; Pseudocercospora fijiensis,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,6,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54135,Mycosphaerella musicola,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,7,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54461,Nectria coccinea,,EXCLUDE,0.31,0.69,0.69,0.38,openai_decisions,3,7,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/228473,Ophiognomonia clavigignenti-juglandacearum,Sirococcus clavigignenti-juglandacearum,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/198745,Ophiosphaerella,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/281632,Ophiostoma novo-ulmi,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4628,organisms,biota,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,7,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/838,pathogens,infectious agents; infectious pathogens,EXCLUDE,0.31,0.69,0.69,0.38,openai_decisions,3,7,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/22739,pecans,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,7,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37258,Pectobacterium,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/214741,Phaeocryptopus gaeumannii,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/57515,Phytophthora,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58156,Phytophthora ramorum,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,3,7,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1091,Phytoplasma,Candidatus Phytoplasma; MLOs (mycoplasma-like organisms); Mycoplasma-like organisms (MLOs); mycoplasma-like organisms; mycoplasma-like organisms (plant pathogenic); mycoplasmalike organisms (plant pathogenic); plant yellows agents,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,17,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/17679,plant nutrition,diagnosis of plant nutrient status; mineral nutrition (plants); plant analysis of nutrient status; plant macronutrients; plant nutrient status,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,7,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58701,Plasmodiophora brassicae,,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,3,7,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/234504,Plenodomus biglobosus,Leptosphaeria biglobosa,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,7,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/49776,Plenodomus lingam,Leptosphaeria maculans; Phoma lingam,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,3,8,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58801,Pleospora betae,Phoma betae; beet black rot fungus,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,8,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/312908,Podosphaera macularis,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,8,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41694,pods,,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,3,8,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58609,postharvest physiology,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/59360,postharvest systems,post-harvest systems,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,8,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30828,postharvest treatment,post-harvest treatment,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/59404,potatoes,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/59508,Pratylenchus,,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,3,8,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/239502,Pratylenchus loosi,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4405,product quality,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/876,proteins,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,13,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15220,Pseudomonas,Liquidomonas; Loefflerella; fluorescent pseudomonads,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60304,Pseudomonas syringae pv. savastanoi,Pseudomonas savastanoi; Pseudomonas savastanoi pv. savastanoi,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/337007,Pseudonectria buxi,Chaetostroma buxi; Tubercularia buxi; Volutella buxi,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,3,8,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/34433,Pseudotsuga menziesii,Douglas fir; Pseudotsuga caesia; Pseudotsuga flahaultii; Pseudotsuga glauca,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60498,Puccinia recondita,Puccinia dispersa; Puccinia recondita f. sp. tritici; Puccinia rubigo-vera; Puccinia sardonensis; Puccinia triticina,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4446,Pucciniales,Uredinales,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41782,pycnidia,pycnidium,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,8,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60624,Pyrenophora teres,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,9,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/39335,Quercus,Cyclobalanopsis; oaks; turkey oaks,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,3,9,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/212514,Raffaelea,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,9,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4425,roots,plant roots,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,9,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20440,seeds,kernels,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,9,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18245,stain fungi,stain fungus,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,3,9,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/64225,storage temperature,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,3,9,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/146600,stress response,response to stress,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,3,9,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58628,stumps,stump wood; stumpwood; tree stumps,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,3,9,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47647,sweet potatoes,sweetpotatoes,EXCLUDE,0.34,0.66,0.66,0.32,openai_decisions,3,10,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26552,tangerines,,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,3,10,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54612,Tilletia indica,Neovossia indica,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,10,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/68414,urban horticulture,,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,3,10,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/212103,Ustilaginoidea virens,Claviceps oryzae-sativae; Claviceps virens; Sphacelotheca virens; Tilletia oryzae; Ustilaginoidea albicans; Ustilago virens; Villosiclava virens,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,10,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9408,viroids,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,10,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/33355,water deprivation,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,3,10,13,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/39377,wheat,bread wheat,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,3,10,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26573,Xylella fastidiosa,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,10,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1258,16SrIV (Coconut lethal yellows group),Coconut lethal yellows group,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,1,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/5537,Agrobacterium radiobacter,Agrobacterium tumefaciens; Rhizobium radiobacter,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,4,1,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6025,Albugo,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,4,1,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/325,animal injuries,human injuries; wounds (animal); wounds (human),EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,4,1,4,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3096,Arecaceae,Nypaceae; Palmae; Principes; palm trees,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,4,1,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4983,Armillaria,Armillariella; honey fungi; honey mushrooms,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,1,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1227,Aster yellows phytoplasma,Aster yellows mycoplasma-like organism,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,4,1,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/16204,beans,,EXCLUDE,0.31,0.69,0.69,0.38,openai_decisions,4,1,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/114,biological resistance,biocide resistance,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,4,1,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23905,Bretziella fagacearum,Ceratocystis fagacearum; Chalara quercina; Endoconidiophora fagacearum; Thielaviopsis quercina,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,1,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1290,Candidatus Phytoplasma mali,Apple proliferation mycoplasma-like organism; Apple proliferation phytoplasma,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,1,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/25275,chlamydospores,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,4,1,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30099,Cronartium fusiforme,Cronartium quercuum f. sp. fusiforme,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,4,1,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6737,Cynipidae,cynipid gall wasps; cynipids; gall wasps,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,4,1,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/302040,dendroecology,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,4,1,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/302024,disturbed land,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,4,1,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10095,disturbed soils,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,4,1,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37056,endophytes,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,4,1,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/40586,flooded conditions,water logging; waterlogged conditions; waterlogging,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,4,2,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/34329,Glycine max,Dolichos soja; Glycine gracilis; Glycine hispida; Glycine hispida var. brunnea; Glycine hispida var. lutea; Phaseolus max; Soja hispida; Soja max,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,2,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/44138,Gymnosporangium juniperi-virginianae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/5621,leafminers,leaf miners,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,4,2,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/53334,Moniliophthora roreri,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/56277,Oryza sativa,Oryza glutinosa; Oryza sativa cv. italica; Oryza sativa ssp. indica; Oryza sativa ssp. japonica; Oryza sativa subsp. indica; Oryza sativa subsp. japonica; Oryza sativa var. affinis; Oryza sativa var. erythroceros; Oryza sativa var. flavoacies; Oryza sativa var. japonica; Oryza sativa var. melanacra; Oryza sativa var. suberythroceros; Oryza sativa var. vulgaris; Oryza sativa var. zeravschanica,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,4,2,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/57662,Phakopsora pachyrhizi,Malupa meibomiae; Physopella meibomiae,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8255,Phlaeothripidae,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58154,Phytophthora palmivora,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/7610,Pinus elliottii,American pitch pine; longleaf pitch pine; slash pine; swamp pine,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50493,Pinus taeda,loblolly pine,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/12561,Potyvirus,potyvirus group,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,14,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38705,Prunus domestica,European plum; Prunus x domestica,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,4,2,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60329,Pseudomonas syringae pv. tomato,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,2,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60500,Puccinia striiformis,Puccinia glumarum,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/305566,residual forests,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/61276,rhizomes,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,2,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/123241,root crown,crown (perennials); root collar; root neck,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,4,2,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24692,saline soils,,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,4,3,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58067,salinity,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,4,3,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/145,salt tolerance,halotolerance; salt acclimation,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,4,3,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/59405,Solanum tuberosum,Irish potato; Solanum boyacense; Solanum chocclo; Solanum coeruleiflorum; Solanum estradae; Solanum leptostigma; Solanum tenuifilamentum; Solanum yabari,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,4,3,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/19257,stems,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,4,3,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/13656,storms,,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,4,3,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/21832,sugarcane,sugar cane,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,3,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/127706,sugarcane byproducts,sugar cane by-products; sugar cane byproducts; sugarcane by-products,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,3,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/27566,Theobroma cacao,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,3,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24287,Thielaviopsis basicola,Chalara elegans,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,3,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50832,tomatoes,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,4,3,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/66764,Uromyces,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,3,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/323679,ustiloxins,ustiloxin-A; ustiloxin-B; ustiloxin-C; ustiloxin-D; ustiloxin-E,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,4,3,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58803,Venturia (Pleosporales),Venturia (fungi),EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,3,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46703,Verticillium,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,3,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/52292,wind,,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,4,3,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/19272,wood,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,4,4,1,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/326991,Xanthomonas axonopodis pv. aurantifolii,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,4,4,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/67485,Xanthomonas axonopodis pv. citri,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,4,4,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/29137,Zea mays,Zea maize; corn plant; cornplant,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,4,4,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30097,Cronartium comandrae,,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,5,1,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30101,Cronartium ribicola,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,5,1,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/39451,famine,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,5,1,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15852,Hordeum vulgare,Hordeum lagunculiforme,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,5,1,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/45292,phytophagous insects,herbivorous insects; plant chewing insects,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,5,1,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60484,Puccinia,,EXCLUDE,0.0,1.0,1.0,1.0,openai_decisions,5,1,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60496,Puccinia polysora,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,5,1,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/334656,Puccinia striiformis f. hordei,Puccinia striiformis f. sp. hordei,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,5,1,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/212254,Puccinia striiformis f. tritici,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,5,1,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/189519,wood degradation,timber decomposition; timber degradation; wood decomposition; wood deterioration,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,5,1,10,gpt-6-luna,False,True,skos:related

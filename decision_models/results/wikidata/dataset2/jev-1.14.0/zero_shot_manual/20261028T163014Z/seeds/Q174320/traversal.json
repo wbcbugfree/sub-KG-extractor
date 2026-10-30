@@ -1,0 +1,31 @@
+{
+  "seed_qid": "Q174320",
+  "seed_label": "oscilloscope",
+  "included_qids": [
+    "Q174320",
+    "Q2041172"
+  ],
+  "pruned_qids": [
+    "Q2425052"
+  ],
+  "visited_qids": [
+    "Q174320",
+    "Q2041172",
+    "Q2425052"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:21.074235+00:00",
+  "finished_at_utc": "2026-10-28T16:30:21.370783+00:00",
+  "wall_seconds": 0.296546199999284,
+  "frontier_exhausted": true
+}

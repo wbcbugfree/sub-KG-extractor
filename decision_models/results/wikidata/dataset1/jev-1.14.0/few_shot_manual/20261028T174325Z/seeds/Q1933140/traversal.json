@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q1933140",
+  "seed_label": "carbon dioxide equivalent",
+  "included_qids": [
+    "Q1933140",
+    "Q47574"
+  ],
+  "pruned_qids": [
+    "Q1514559",
+    "Q16782623",
+    "Q2360980",
+    "Q2961801",
+    "Q50808019",
+    "Q66584284",
+    "Q72265179",
+    "Q7351621"
+  ],
+  "visited_qids": [
+    "Q1514559",
+    "Q16782623",
+    "Q1933140",
+    "Q2360980",
+    "Q2961801",
+    "Q47574",
+    "Q50808019",
+    "Q66584284",
+    "Q72265179",
+    "Q7351621"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 0,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:47.983498+00:00",
+  "finished_at_utc": "2026-10-28T17:43:48.677307+00:00",
+  "wall_seconds": 0.6938115999946604,
+  "frontier_exhausted": true
+}

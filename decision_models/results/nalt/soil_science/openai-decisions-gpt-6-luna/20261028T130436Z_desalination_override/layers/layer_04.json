@@ -1,0 +1,6165 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216335",
+    "prefLabel": "Acrisols",
+    "altLabels": [],
+    "displayName": "Acrisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216336",
+    "prefLabel": "Albeluvisols",
+    "altLabels": [
+      "Glossosols",
+      "Podzoluvisols"
+    ],
+    "displayName": "Albeluvisols (Glossosols, Podzoluvisols)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6336",
+    "prefLabel": "Alfisols",
+    "altLabels": [],
+    "displayName": "Alfisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216339",
+    "prefLabel": "Alisols",
+    "altLabels": [],
+    "displayName": "Alisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/221851",
+    "prefLabel": "alkaline hydrolysis",
+    "altLabels": [
+      "alkali hydrolysis"
+    ],
+    "displayName": "alkaline hydrolysis (alkali hydrolysis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6753",
+    "prefLabel": "alluvial soils",
+    "altLabels": [
+      "flood plain soils",
+      "floodplain soils"
+    ],
+    "displayName": "alluvial soils (flood plain soils, floodplain soils)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.76,
+    "p_exclude": 0.24,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7015",
+    "prefLabel": "alpine meadow soils",
+    "altLabels": [],
+    "displayName": "alpine meadow soils",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7265",
+    "prefLabel": "aluminum",
+    "altLabels": [
+      "Al3+",
+      "aluminium"
+    ],
+    "displayName": "aluminum (Al3+, aluminium)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8377",
+    "prefLabel": "anaerobic conditions",
+    "altLabels": [
+      "anoxic conditions",
+      "hypoxic conditions"
+    ],
+    "displayName": "anaerobic conditions (anoxic conditions, hypoxic conditions)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.16,
+    "p_exclude": 0.84,
+    "selected_probability": 0.84,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8668",
+    "prefLabel": "Andisols",
+    "altLabels": [],
+    "displayName": "Andisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216340",
+    "prefLabel": "Andosols",
+    "altLabels": [],
+    "displayName": "Andosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.72,
+    "p_exclude": 0.28,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/143144",
+    "prefLabel": "anion exchange",
+    "altLabels": [],
+    "displayName": "anion exchange",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/225032",
+    "prefLabel": "antecedent moisture",
+    "altLabels": [],
+    "displayName": "antecedent moisture",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216341",
+    "prefLabel": "Anthrosols",
+    "altLabels": [],
+    "displayName": "Anthrosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5991",
+    "prefLabel": "Aquults",
+    "altLabels": [],
+    "displayName": "Aquults",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.53,
+    "p_exclude": 0.47,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216342",
+    "prefLabel": "Arenosols",
+    "altLabels": [],
+    "displayName": "Arenosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.58,
+    "p_exclude": 0.42,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/12092",
+    "prefLabel": "Aridisols",
+    "altLabels": [],
+    "displayName": "Aridisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.68,
+    "p_exclude": 0.32,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15759",
+    "prefLabel": "bank erosion",
+    "altLabels": [
+      "river bank erosion",
+      "riverbank erosion",
+      "stream bank erosion",
+      "streambank erosion"
+    ],
+    "displayName": "bank erosion (river bank erosion, riverbank erosion, stream bank erosion, streambank erosion)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/270508",
+    "prefLabel": "bauxite",
+    "altLabels": [],
+    "displayName": "bauxite",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17223",
+    "prefLabel": "bioaccumulation",
+    "altLabels": [
+      "bioconcentration",
+      "biological magnification",
+      "biomagnification"
+    ],
+    "displayName": "bioaccumulation (bioconcentration, biological magnification, biomagnification)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/148682",
+    "prefLabel": "biochar",
+    "altLabels": [
+      "biomass char"
+    ],
+    "displayName": "biochar (biomass char)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17420",
+    "prefLabel": "biological activity in soil",
+    "altLabels": [],
+    "displayName": "biological activity in soil",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/255618",
+    "prefLabel": "biomineralization",
+    "altLabels": [
+      "biomineralisation"
+    ],
+    "displayName": "biomineralization (biomineralisation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.61,
+    "p_exclude": 0.39,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17318",
+    "prefLabel": "bioremediation",
+    "altLabels": [
+      "bioattenuation"
+    ],
+    "displayName": "bioremediation (bioattenuation)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.7,
+    "p_exclude": 0.3,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/957",
+    "prefLabel": "bioturbation",
+    "altLabels": [],
+    "displayName": "bioturbation",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.52,
+    "p_exclude": 0.48,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18399",
+    "prefLabel": "bogs",
+    "altLabels": [],
+    "displayName": "bogs",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68704",
+    "prefLabel": "brownfields",
+    "altLabels": [],
+    "displayName": "brownfields",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/325459",
+    "prefLabel": "buffer index",
+    "altLabels": [
+      "buffer pH"
+    ],
+    "displayName": "buffer index (buffer pH)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.4,
+    "p_exclude": 0.6,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/209",
+    "prefLabel": "buffers",
+    "altLabels": [
+      "pH control substances"
+    ],
+    "displayName": "buffers (pH control substances)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20349",
+    "prefLabel": "bulk density",
+    "altLabels": [],
+    "displayName": "bulk density",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20438",
+    "prefLabel": "buried seeds",
+    "altLabels": [
+      "seed bank (soil)",
+      "seed banks in soil",
+      "seedbank (soil)",
+      "seedbanks in soil",
+      "soil seed banks",
+      "soil seedbanks"
+    ],
+    "displayName": "buried seeds (seed bank (soil), seed banks in soil, seedbank (soil), seedbanks in soil, soil seed banks, soil seedbanks)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/306592",
+    "prefLabel": "burozems",
+    "altLabels": [],
+    "displayName": "burozems",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.55,
+    "p_exclude": 0.45,
+    "selected_probability": 0.55,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6432",
+    "prefLabel": "calcicoles",
+    "altLabels": [
+      "calcicolous species"
+    ],
+    "displayName": "calcicoles (calcicolous species)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2735",
+    "prefLabel": "calcifuges",
+    "altLabels": [],
+    "displayName": "calcifuges",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216343",
+    "prefLabel": "Calcisols",
+    "altLabels": [],
+    "displayName": "Calcisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216344",
+    "prefLabel": "Cambisols",
+    "altLabels": [],
+    "displayName": "Cambisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/21956",
+    "prefLabel": "capacitance probes",
+    "altLabels": [],
+    "displayName": "capacitance probes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/999",
+    "prefLabel": "cartography",
+    "altLabels": [
+      "map making",
+      "mapping (cartography)"
+    ],
+    "displayName": "cartography (map making, mapping (cartography))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/143145",
+    "prefLabel": "cation exchange",
+    "altLabels": [],
+    "displayName": "cation exchange",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/19641",
+    "prefLabel": "cerrado",
+    "altLabels": [],
+    "displayName": "cerrado",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/301234",
+    "prefLabel": "chalk grasslands",
+    "altLabels": [
+      "limestone grasslands",
+      "lowland calcareous grasslands"
+    ],
+    "displayName": "chalk grasslands (limestone grasslands, lowland calcareous grasslands)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10",
+    "prefLabel": "chemical bases",
+    "altLabels": [],
+    "displayName": "chemical bases",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216345",
+    "prefLabel": "Chernozems",
+    "altLabels": [],
+    "displayName": "Chernozems",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26738",
+    "prefLabel": "clay fraction",
+    "altLabels": [],
+    "displayName": "clay fraction",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6752",
+    "prefLabel": "coastal plains",
+    "altLabels": [],
+    "displayName": "coastal plains",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28616",
+    "prefLabel": "cover crops",
+    "altLabels": [],
+    "displayName": "cover crops",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216346",
+    "prefLabel": "Cryosols",
+    "altLabels": [],
+    "displayName": "Cryosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.61,
+    "p_exclude": 0.39,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32537",
+    "prefLabel": "desertification",
+    "altLabels": [],
+    "displayName": "desertification",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34080",
+    "prefLabel": "dissolved organic matter",
+    "altLabels": [],
+    "displayName": "dissolved organic matter",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/324588",
+    "prefLabel": "dissolved potassium",
+    "altLabels": [
+      "aqueous potassium"
+    ],
+    "displayName": "dissolved potassium (aqueous potassium)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302024",
+    "prefLabel": "disturbed land",
+    "altLabels": [],
+    "displayName": "disturbed land",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/306927",
+    "prefLabel": "duripans",
+    "altLabels": [],
+    "displayName": "duripans",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.41,
+    "p_exclude": 0.59,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216347",
+    "prefLabel": "Durisols",
+    "altLabels": [],
+    "displayName": "Durisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.62,
+    "p_exclude": 0.38,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/352",
+    "prefLabel": "ecology",
+    "altLabels": [
+      "bionomics",
+      "macroecology"
+    ],
+    "displayName": "ecology (bionomics, macroecology)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/189757",
+    "prefLabel": "ecosystem respiration",
+    "altLabels": [],
+    "displayName": "ecosystem respiration",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5579",
+    "prefLabel": "ecosystems",
+    "altLabels": [
+      "biomes"
+    ],
+    "displayName": "ecosystems (biomes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28491",
+    "prefLabel": "electrical conductivity",
+    "altLabels": [
+      "electric conductivity",
+      "electro-conductivity",
+      "electroconductivity"
+    ],
+    "displayName": "electrical conductivity (electric conductivity, electro-conductivity, electroconductivity)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11535",
+    "prefLabel": "Entisols",
+    "altLabels": [],
+    "displayName": "Entisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2715",
+    "prefLabel": "environmental degradation",
+    "altLabels": [
+      "ecological degradation",
+      "ecological deterioration",
+      "environmental deterioration"
+    ],
+    "displayName": "environmental degradation (ecological degradation, ecological deterioration, environmental deterioration)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5850",
+    "prefLabel": "environmental quality",
+    "altLabels": [],
+    "displayName": "environmental quality",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.31,
+    "p_exclude": 0.69,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6744",
+    "prefLabel": "enzymes",
+    "altLabels": [],
+    "displayName": "enzymes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23046",
+    "prefLabel": "exchangeable cations",
+    "altLabels": [],
+    "displayName": "exchangeable cations",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.7,
+    "p_exclude": 0.3,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216348",
+    "prefLabel": "Ferralsols",
+    "altLabels": [],
+    "displayName": "Ferralsols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.68,
+    "p_exclude": 0.32,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11357",
+    "prefLabel": "fertilizer application",
+    "altLabels": [
+      "application of fertilisers",
+      "application of fertilizers",
+      "fertilisation (fertilisers)",
+      "fertilisation (soils)",
+      "fertiliser application",
+      "fertilization (fertilizers)",
+      "fertilization (soils)",
+      "fertilizer treatment"
+    ],
+    "displayName": "fertilizer application (application of fertilisers, application of fertilizers, fertilisation (fertilisers), fertilisation (soils), fertiliser application, fertilization (fertilizers), fertilization (soils), fertilizer treatment)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30138",
+    "prefLabel": "fertilizer requirements",
+    "altLabels": [
+      "crop nutrient requirements",
+      "fertiliser requirements"
+    ],
+    "displayName": "fertilizer requirements (crop nutrient requirements, fertiliser requirements)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/124424",
+    "prefLabel": "fire severity",
+    "altLabels": [],
+    "displayName": "fire severity",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.38,
+    "p_exclude": 0.62,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/191233",
+    "prefLabel": "flood meadows",
+    "altLabels": [],
+    "displayName": "flood meadows",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/139",
+    "prefLabel": "flooding tolerance",
+    "altLabels": [
+      "submergence tolerance"
+    ],
+    "displayName": "flooding tolerance (submergence tolerance)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/40585",
+    "prefLabel": "floodplains",
+    "altLabels": [
+      "flood plains",
+      "floodlands"
+    ],
+    "displayName": "floodplains (flood plains, floodlands)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/33992",
+    "prefLabel": "floods",
+    "altLabels": [
+      "flash floods",
+      "flooding (disaster)"
+    ],
+    "displayName": "floods (flash floods, flooding (disaster))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/40743",
+    "prefLabel": "fluvial soils",
+    "altLabels": [],
+    "displayName": "fluvial soils",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216349",
+    "prefLabel": "Fluvisols",
+    "altLabels": [],
+    "displayName": "Fluvisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.57,
+    "p_exclude": 0.43,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41127",
+    "prefLabel": "forest damage",
+    "altLabels": [
+      "forest destruction",
+      "forest disturbance"
+    ],
+    "displayName": "forest damage (forest destruction, forest disturbance)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/80856",
+    "prefLabel": "forest land",
+    "altLabels": [
+      "forestland"
+    ],
+    "displayName": "forest land (forestland)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18644",
+    "prefLabel": "forests",
+    "altLabels": [],
+    "displayName": "forests",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9864",
+    "prefLabel": "fungal antagonists",
+    "altLabels": [
+      "yeast antagonists"
+    ],
+    "displayName": "fungal antagonists (yeast antagonists)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42526",
+    "prefLabel": "Gelisols",
+    "altLabels": [],
+    "displayName": "Gelisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.59,
+    "p_exclude": 0.41,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/497",
+    "prefLabel": "geology",
+    "altLabels": [],
+    "displayName": "geology",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/211604",
+    "prefLabel": "Gleysols",
+    "altLabels": [],
+    "displayName": "Gleysols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/69257",
+    "prefLabel": "golf courses",
+    "altLabels": [
+      "golf greens"
+    ],
+    "displayName": "golf courses (golf greens)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9709",
+    "prefLabel": "grasslands",
+    "altLabels": [
+      "natural grasslands"
+    ],
+    "displayName": "grasslands (natural grasslands)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302324",
+    "prefLabel": "gravel pits",
+    "altLabels": [],
+    "displayName": "gravel pits",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.34,
+    "p_exclude": 0.66,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/325178",
+    "prefLabel": "gravimetric water content",
+    "altLabels": [
+      "gravimetric soil water content"
+    ],
+    "displayName": "gravimetric water content (gravimetric soil water content)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302326",
+    "prefLabel": "gray forest soils",
+    "altLabels": [
+      "grey forest soils"
+    ],
+    "displayName": "gray forest soils (grey forest soils)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216359",
+    "prefLabel": "Greyzems",
+    "altLabels": [],
+    "displayName": "Greyzems",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.75,
+    "p_exclude": 0.25,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216350",
+    "prefLabel": "Gypsisols",
+    "altLabels": [],
+    "displayName": "Gypsisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.56,
+    "p_exclude": 0.44,
+    "selected_probability": 0.56,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/963",
+    "prefLabel": "gypsum requirement",
+    "altLabels": [],
+    "displayName": "gypsum requirement",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.62,
+    "p_exclude": 0.38,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/239616",
+    "prefLabel": "halophiles",
+    "altLabels": [
+      "halophilic microorganisms",
+      "halophilic organisms"
+    ],
+    "displayName": "halophiles (halophilic microorganisms, halophilic organisms)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243888",
+    "prefLabel": "halotropism",
+    "altLabels": [],
+    "displayName": "halotropism",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/148616",
+    "prefLabel": "heathlands",
+    "altLabels": [
+      "heath land",
+      "heath lands",
+      "heathland",
+      "moor (vegetation type)",
+      "moor land",
+      "moor lands",
+      "moorland",
+      "moorlands",
+      "moors (vegetation type)"
+    ],
+    "displayName": "heathlands (heath land, heath lands, heathland, moor (vegetation type), moor land, moor lands, moorland, moorlands, moors (vegetation type))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7026",
+    "prefLabel": "highlands",
+    "altLabels": [
+      "hill land",
+      "uplands"
+    ],
+    "displayName": "highlands (hill land, uplands)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/40066",
+    "prefLabel": "Histosols",
+    "altLabels": [],
+    "displayName": "Histosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26892",
+    "prefLabel": "humid zones",
+    "altLabels": [
+      "humid climate"
+    ],
+    "displayName": "humid zones (humid climate)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/44558",
+    "prefLabel": "Humults",
+    "altLabels": [],
+    "displayName": "Humults",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/132817",
+    "prefLabel": "humus",
+    "altLabels": [
+      "humus (soil)",
+      "soil humus"
+    ],
+    "displayName": "humus (humus (soil), soil humus)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302478",
+    "prefLabel": "humus horizons",
+    "altLabels": [],
+    "displayName": "humus horizons",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46319",
+    "prefLabel": "hydrodynamic dispersion",
+    "altLabels": [],
+    "displayName": "hydrodynamic dispersion",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.47,
+    "p_exclude": 0.53,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17228",
+    "prefLabel": "hyperaccumulators",
+    "altLabels": [
+      "hyperaccumulator plants",
+      "metallophytes"
+    ],
+    "displayName": "hyperaccumulators (hyperaccumulator plants, metallophytes)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46320",
+    "prefLabel": "immiscible displacement",
+    "altLabels": [],
+    "displayName": "immiscible displacement",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.41,
+    "p_exclude": 0.59,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10070",
+    "prefLabel": "Inceptisols",
+    "altLabels": [],
+    "displayName": "Inceptisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302568",
+    "prefLabel": "ion exchange capacity",
+    "altLabels": [],
+    "displayName": "ion exchange capacity",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/33434",
+    "prefLabel": "iron",
+    "altLabels": [
+      "Fe2+",
+      "ferric iron",
+      "ferrous iron"
+    ],
+    "displayName": "iron (Fe2+, ferric iron, ferrous iron)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.4,
+    "p_exclude": 0.6,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30152",
+    "prefLabel": "irrigated farming",
+    "altLabels": [
+      "irrigated crop production",
+      "irrigated fields"
+    ],
+    "displayName": "irrigated farming (irrigated crop production, irrigated fields)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302575",
+    "prefLabel": "irrigated pastures",
+    "altLabels": [],
+    "displayName": "irrigated pastures",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216351",
+    "prefLabel": "Kastanozems",
+    "altLabels": [],
+    "displayName": "Kastanozems",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.77,
+    "p_exclude": 0.23,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/48973",
+    "prefLabel": "lacustrine sediments",
+    "altLabels": [
+      "lacustrine deposits"
+    ],
+    "displayName": "lacustrine sediments (lacustrine deposits)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/48975",
+    "prefLabel": "lakes",
+    "altLabels": [
+      "lochs"
+    ],
+    "displayName": "lakes (lochs)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/189524",
+    "prefLabel": "land degradation",
+    "altLabels": [
+      "land deterioration"
+    ],
+    "displayName": "land degradation (land deterioration)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/35688",
+    "prefLabel": "land restoration",
+    "altLabels": [
+      "land reclamation",
+      "land rehabilitation",
+      "land revegetation",
+      "revegetation"
+    ],
+    "displayName": "land restoration (land reclamation, land rehabilitation, land revegetation, revegetation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.58,
+    "p_exclude": 0.42,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216352",
+    "prefLabel": "Leptosols",
+    "altLabels": [
+      "Rankers",
+      "Rhendzinas"
+    ],
+    "displayName": "Leptosols (Rankers, Rhendzinas)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.8,
+    "p_exclude": 0.2,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/306781",
+    "prefLabel": "lichen crusts",
+    "altLabels": [],
+    "displayName": "lichen crusts",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/965",
+    "prefLabel": "lime requirement",
+    "altLabels": [],
+    "displayName": "lime requirement",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.59,
+    "p_exclude": 0.41,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5566",
+    "prefLabel": "liming materials",
+    "altLabels": [
+      "lime (minerals)",
+      "lime material",
+      "lime materials"
+    ],
+    "displayName": "liming materials (lime (minerals), lime material, lime materials)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28618",
+    "prefLabel": "live mulches",
+    "altLabels": [
+      "living mulches"
+    ],
+    "displayName": "live mulches (living mulches)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216355",
+    "prefLabel": "Lixisols",
+    "altLabels": [],
+    "displayName": "Lixisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/49405",
+    "prefLabel": "losses from soil",
+    "altLabels": [],
+    "displayName": "losses from soil",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18874",
+    "prefLabel": "lowlands",
+    "altLabels": [
+      "bottomlands",
+      "lowland areas"
+    ],
+    "displayName": "lowlands (bottomlands, lowland areas)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216356",
+    "prefLabel": "Luvisols",
+    "altLabels": [],
+    "displayName": "Luvisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/50948",
+    "prefLabel": "lysimeters",
+    "altLabels": [],
+    "displayName": "lysimeters",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/327283",
+    "prefLabel": "mangrove ecosystems",
+    "altLabels": [],
+    "displayName": "mangrove ecosystems",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41214",
+    "prefLabel": "mangrove forests",
+    "altLabels": [],
+    "displayName": "mangrove forests",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/327286",
+    "prefLabel": "mangrove sediments",
+    "altLabels": [],
+    "displayName": "mangrove sediments",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14207",
+    "prefLabel": "mangrove swamps",
+    "altLabels": [],
+    "displayName": "mangrove swamps",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.44,
+    "p_exclude": 0.56,
+    "selected_probability": 0.56,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/323553",
+    "prefLabel": "manure amendments",
+    "altLabels": [
+      "animal manure amendment",
+      "poultry manure amendment"
+    ],
+    "displayName": "manure amendments (animal manure amendment, poultry manure amendment)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.65,
+    "p_exclude": 0.35,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/191224",
+    "prefLabel": "meadows",
+    "altLabels": [],
+    "displayName": "meadows",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26893",
+    "prefLabel": "Mediterranean climate",
+    "altLabels": [
+      "Mediterranean environment",
+      "Mediterranean type climate",
+      "Mediterranean type environment",
+      "Mediterranean-type climate",
+      "Mediterranean-type environment"
+    ],
+    "displayName": "Mediterranean climate (Mediterranean environment, Mediterranean type climate, Mediterranean type environment, Mediterranean-type climate, Mediterranean-type environment)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/325691",
+    "prefLabel": "Mehlich-3 phosphorus",
+    "altLabels": [],
+    "displayName": "Mehlich-3 phosphorus",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.36,
+    "p_exclude": 0.64,
+    "selected_probability": 0.64,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/52536",
+    "prefLabel": "microaggregates",
+    "altLabels": [],
+    "displayName": "microaggregates",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17348",
+    "prefLabel": "microbial ecology",
+    "altLabels": [
+      "bacterial ecology",
+      "microbial ecosystem"
+    ],
+    "displayName": "microbial ecology (bacterial ecology, microbial ecosystem)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/27359",
+    "prefLabel": "mine spoil",
+    "altLabels": [
+      "minespoil"
+    ],
+    "displayName": "mine spoil (minespoil)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/86132",
+    "prefLabel": "mine tailings",
+    "altLabels": [
+      "mining tailings"
+    ],
+    "displayName": "mine tailings (mining tailings)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/304957",
+    "prefLabel": "mineral cycle",
+    "altLabels": [
+      "mineral cycling"
+    ],
+    "displayName": "mineral cycle (mineral cycling)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.3,
+    "p_exclude": 0.7,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18621",
+    "prefLabel": "minerals",
+    "altLabels": [],
+    "displayName": "minerals",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2725",
+    "prefLabel": "mining",
+    "altLabels": [
+      "mining industry"
+    ],
+    "displayName": "mining (mining industry)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46321",
+    "prefLabel": "miscible displacement",
+    "altLabels": [
+      "miscible-phase displacement"
+    ],
+    "displayName": "miscible displacement (miscible-phase displacement)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53193",
+    "prefLabel": "moder",
+    "altLabels": [],
+    "displayName": "moder",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.47,
+    "p_exclude": 0.53,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6020",
+    "prefLabel": "Mollisols",
+    "altLabels": [],
+    "displayName": "Mollisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53430",
+    "prefLabel": "mor",
+    "altLabels": [],
+    "displayName": "mor",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7027",
+    "prefLabel": "mountains",
+    "altLabels": [
+      "mountain belts"
+    ],
+    "displayName": "mountains (mountain belts)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/309987",
+    "prefLabel": "muck soils",
+    "altLabels": [],
+    "displayName": "muck soils",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53680",
+    "prefLabel": "mull",
+    "altLabels": [],
+    "displayName": "mull",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.57,
+    "p_exclude": 0.43,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/148611",
+    "prefLabel": "mushroom compost",
+    "altLabels": [],
+    "displayName": "mushroom compost",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41686",
+    "prefLabel": "mushroom growing",
+    "altLabels": [
+      "mushroom cultivation",
+      "mushroom culture",
+      "mushroom farming",
+      "mushroom production"
+    ],
+    "displayName": "mushroom growing (mushroom cultivation, mushroom culture, mushroom farming, mushroom production)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/35802",
+    "prefLabel": "mycorrhizae",
+    "altLabels": [
+      "mycorrhizas",
+      "mycorrhization"
+    ],
+    "displayName": "mycorrhizae (mycorrhizas, mycorrhization)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.66,
+    "p_exclude": 0.34,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/54754",
+    "prefLabel": "neutron probes",
+    "altLabels": [],
+    "displayName": "neutron probes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.46,
+    "p_exclude": 0.54,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216357",
+    "prefLabel": "Nitisols",
+    "altLabels": [],
+    "displayName": "Nitisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.66,
+    "p_exclude": 0.34,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17237",
+    "prefLabel": "nutrient availability",
+    "altLabels": [],
+    "displayName": "nutrient availability",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24613",
+    "prefLabel": "organic matter",
+    "altLabels": [],
+    "displayName": "organic matter",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11617",
+    "prefLabel": "Oxisols",
+    "altLabels": [],
+    "displayName": "Oxisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.59,
+    "p_exclude": 0.41,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/693",
+    "prefLabel": "Pampas region",
+    "altLabels": [],
+    "displayName": "Pampas region",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/225111",
+    "prefLabel": "parent rock",
+    "altLabels": [],
+    "displayName": "parent rock",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/57128",
+    "prefLabel": "peat",
+    "altLabels": [],
+    "displayName": "peat",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18404",
+    "prefLabel": "peatlands",
+    "altLabels": [
+      "peat bogs"
+    ],
+    "displayName": "peatlands (peat bogs)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/306981",
+    "prefLabel": "pedological techniques",
+    "altLabels": [
+      "pedological methods"
+    ],
+    "displayName": "pedological techniques (pedological methods)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.6,
+    "p_exclude": 0.4,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46386",
+    "prefLabel": "pedotransfer functions",
+    "altLabels": [],
+    "displayName": "pedotransfer functions",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2772",
+    "prefLabel": "pH",
+    "altLabels": [
+      "hydrogen ion concentration"
+    ],
+    "displayName": "pH (hydrogen ion concentration)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216358",
+    "prefLabel": "Phaeozems",
+    "altLabels": [],
+    "displayName": "Phaeozems",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1796",
+    "prefLabel": "physical properties",
+    "altLabels": [
+      "physical properties of materials"
+    ],
+    "displayName": "physical properties (physical properties of materials)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2828",
+    "prefLabel": "physicochemical properties",
+    "altLabels": [
+      "chemical properties",
+      "chemicophysical properties",
+      "physico-chemical properties"
+    ],
+    "displayName": "physicochemical properties (chemical properties, chemicophysical properties, physico-chemical properties)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/316498",
+    "prefLabel": "phytoaccumulation",
+    "altLabels": [
+      "phytoextraction"
+    ],
+    "displayName": "phytoaccumulation (phytoextraction)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.62,
+    "p_exclude": 0.38,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/49168",
+    "prefLabel": "piedmont",
+    "altLabels": [],
+    "displayName": "piedmont",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216360",
+    "prefLabel": "Planosols",
+    "altLabels": [],
+    "displayName": "Planosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17679",
+    "prefLabel": "plant nutrition",
+    "altLabels": [
+      "diagnosis of plant nutrient status",
+      "mineral nutrition (plants)",
+      "plant analysis of nutrient status",
+      "plant macronutrients",
+      "plant nutrient status"
+    ],
+    "displayName": "plant nutrition (diagnosis of plant nutrient status, mineral nutrition (plants), plant analysis of nutrient status, plant macronutrients, plant nutrient status)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.53,
+    "p_exclude": 0.47,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/58777",
+    "prefLabel": "playas",
+    "altLabels": [],
+    "displayName": "playas",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.43,
+    "p_exclude": 0.57,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216361",
+    "prefLabel": "Plinthosols",
+    "altLabels": [],
+    "displayName": "Plinthosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/58845",
+    "prefLabel": "plowing",
+    "altLabels": [
+      "ploughing"
+    ],
+    "displayName": "plowing (ploughing)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216362",
+    "prefLabel": "Podzols",
+    "altLabels": [
+      "cryorthods",
+      "haplaquods"
+    ],
+    "displayName": "Podzols (cryorthods, haplaquods)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/575",
+    "prefLabel": "porous media",
+    "altLabels": [],
+    "displayName": "porous media",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/43758",
+    "prefLabel": "prairies",
+    "altLabels": [
+      "rolling prairies"
+    ],
+    "displayName": "prairies (rolling prairies)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20689",
+    "prefLabel": "preferential flow",
+    "altLabels": [
+      "bypass flow",
+      "finger flow",
+      "mesopore flow"
+    ],
+    "displayName": "preferential flow (bypass flow, finger flow, mesopore flow)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/55421",
+    "prefLabel": "quantity-intensity relationships",
+    "altLabels": [
+      "Q/I relationships",
+      "quantity intensity relationships"
+    ],
+    "displayName": "quantity-intensity relationships (Q/I relationships, quantity intensity relationships)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.63,
+    "p_exclude": 0.37,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/305175",
+    "prefLabel": "quarries",
+    "altLabels": [],
+    "displayName": "quarries",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.36,
+    "p_exclude": 0.64,
+    "selected_probability": 0.64,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216363",
+    "prefLabel": "Regosols",
+    "altLabels": [],
+    "displayName": "Regosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/51782",
+    "prefLabel": "resistance to penetration",
+    "altLabels": [
+      "penetration resistance"
+    ],
+    "displayName": "resistance to penetration (penetration resistance)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/52688",
+    "prefLabel": "rhizosphere",
+    "altLabels": [
+      "root zone"
+    ],
+    "displayName": "rhizosphere (root zone)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28001",
+    "prefLabel": "rhizosphere competence",
+    "altLabels": [],
+    "displayName": "rhizosphere competence",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.52,
+    "p_exclude": 0.48,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/49142",
+    "prefLabel": "riparian areas",
+    "altLabels": [
+      "riparian corridors",
+      "riparian sites",
+      "riparian zones",
+      "river banks",
+      "stream banks"
+    ],
+    "displayName": "riparian areas (riparian corridors, riparian sites, riparian zones, river banks, stream banks)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28600",
+    "prefLabel": "riparian buffers",
+    "altLabels": [
+      "hydroriparian buffers",
+      "riparian buffer strips",
+      "riparian forest buffers"
+    ],
+    "displayName": "riparian buffers (hydroriparian buffers, riparian buffer strips, riparian forest buffers)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.44,
+    "p_exclude": 0.56,
+    "selected_probability": 0.56,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41243",
+    "prefLabel": "riparian forests",
+    "altLabels": [
+      "riverine forests"
+    ],
+    "displayName": "riparian forests (riverine forests)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.24,
+    "p_exclude": 0.76,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/305584",
+    "prefLabel": "riparian grasslands",
+    "altLabels": [],
+    "displayName": "riparian grasslands",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/21953",
+    "prefLabel": "rivers",
+    "altLabels": [],
+    "displayName": "rivers",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/188594",
+    "prefLabel": "root zone drying",
+    "altLabels": [
+      "partial root zone drying",
+      "partial root zone irrigation",
+      "partial root-zone drying",
+      "partial root-zone irrigation",
+      "partial rootzone drying",
+      "root-zone drying"
+    ],
+    "displayName": "root zone drying (partial root zone drying, partial root zone irrigation, partial root-zone drying, partial root-zone irrigation, partial rootzone drying, root-zone drying)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.87,
+    "p_exclude": 0.13,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/61293",
+    "prefLabel": "root zone temperature",
+    "altLabels": [],
+    "displayName": "root zone temperature",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/312770",
+    "prefLabel": "saline springs",
+    "altLabels": [
+      "salt-water springs"
+    ],
+    "displayName": "saline springs (salt-water springs)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/44459",
+    "prefLabel": "salt marsh plants",
+    "altLabels": [
+      "saltmarsh plants",
+      "tidal marsh plants",
+      "tidemarsh flora",
+      "tidemarsh plants"
+    ],
+    "displayName": "salt marsh plants (saltmarsh plants, tidal marsh plants, tidemarsh flora, tidemarsh plants)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/51566",
+    "prefLabel": "salt marshes",
+    "altLabels": [
+      "saltmarshes",
+      "tidal marshes"
+    ],
+    "displayName": "salt marshes (saltmarshes, tidal marshes)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1732",
+    "prefLabel": "salt stress",
+    "altLabels": [
+      "saline stress",
+      "salinity stress"
+    ],
+    "displayName": "salt stress (saline stress, salinity stress)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.58,
+    "p_exclude": 0.42,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/62343",
+    "prefLabel": "sand fraction",
+    "altLabels": [],
+    "displayName": "sand fraction",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/62470",
+    "prefLabel": "savannas",
+    "altLabels": [
+      "savannahs"
+    ],
+    "displayName": "savannas (savannahs)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/329272",
+    "prefLabel": "sediment texture",
+    "altLabels": [],
+    "displayName": "sediment texture",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/306593",
+    "prefLabel": "serozems",
+    "altLabels": [],
+    "displayName": "serozems",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.66,
+    "p_exclude": 0.34,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/62665",
+    "prefLabel": "shrublands",
+    "altLabels": [
+      "brushlands",
+      "brushwood",
+      "bushlands",
+      "macchia",
+      "maquis",
+      "scrub",
+      "scrublands",
+      "semi-desert scrub"
+    ],
+    "displayName": "shrublands (brushlands, brushwood, bushlands, macchia, maquis, scrub, scrublands, semi-desert scrub)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63099",
+    "prefLabel": "silt fraction",
+    "altLabels": [],
+    "displayName": "silt fraction",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/38860",
+    "prefLabel": "sodicity",
+    "altLabels": [],
+    "displayName": "sodicity",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.83,
+    "p_exclude": 0.17,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63335",
+    "prefLabel": "soil acidification",
+    "altLabels": [],
+    "displayName": "soil acidification",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5143",
+    "prefLabel": "soil aggregation",
+    "altLabels": [
+      "aggregation (soil)"
+    ],
+    "displayName": "soil aggregation (aggregation (soil))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63193",
+    "prefLabel": "soil amendments",
+    "altLabels": [],
+    "displayName": "soil amendments",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/179",
+    "prefLabel": "soil analysis",
+    "altLabels": [
+      "soil testing"
+    ],
+    "displayName": "soil analysis (soil testing)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63349",
+    "prefLabel": "soil associations",
+    "altLabels": [],
+    "displayName": "soil associations",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.67,
+    "p_exclude": 0.33,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15090",
+    "prefLabel": "soil bacteria",
+    "altLabels": [
+      "soil bacterial communities"
+    ],
+    "displayName": "soil bacteria (soil bacterial communities)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 10,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7942",
+    "prefLabel": "soil biochemistry",
+    "altLabels": [],
+    "displayName": "soil biochemistry",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/278109",
+    "prefLabel": "soil biota",
+    "altLabels": [
+      "edaphon",
+      "soil organisms"
+    ],
+    "displayName": "soil biota (edaphon, soil organisms)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.48,
+    "p_exclude": 0.52,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63357",
+    "prefLabel": "soil colloids",
+    "altLabels": [],
+    "displayName": "soil colloids",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28316",
+    "prefLabel": "soil compaction",
+    "altLabels": [
+      "soil compression"
+    ],
+    "displayName": "soil compaction (soil compression)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/307015",
+    "prefLabel": "soil composition",
+    "altLabels": [],
+    "displayName": "soil composition",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/501",
+    "prefLabel": "soil erosion",
+    "altLabels": [
+      "erosion of soil",
+      "soil piping"
+    ],
+    "displayName": "soil erosion (erosion of soil, soil piping)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.91,
+    "p_exclude": 0.09,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5215",
+    "prefLabel": "soil erosion models",
+    "altLabels": [
+      "erosion models"
+    ],
+    "displayName": "soil erosion models (erosion models)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/59977",
+    "prefLabel": "soil fauna",
+    "altLabels": [
+      "soil mesofauna",
+      "soil microfauna"
+    ],
+    "displayName": "soil fauna (soil mesofauna, soil microfauna)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.51,
+    "p_exclude": 0.49,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41066",
+    "prefLabel": "soil food webs",
+    "altLabels": [
+      "terrestrial food webs"
+    ],
+    "displayName": "soil food webs (terrestrial food webs)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.59,
+    "p_exclude": 0.41,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/335251",
+    "prefLabel": "soil function",
+    "altLabels": [],
+    "displayName": "soil function",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/325190",
+    "prefLabel": "soil heat flux",
+    "altLabels": [
+      "soil heat flux density"
+    ],
+    "displayName": "soil heat flux (soil heat flux density)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/214720",
+    "prefLabel": "soil liquefaction",
+    "altLabels": [],
+    "displayName": "soil liquefaction",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.65,
+    "p_exclude": 0.35,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/52768",
+    "prefLabel": "soil microorganisms",
+    "altLabels": [
+      "soil microbes",
+      "soil microbial flora",
+      "soil microbial systems",
+      "soil microbiota",
+      "soil microflora"
+    ],
+    "displayName": "soil microorganisms (soil microbes, soil microbial flora, soil microbial systems, soil microbiota, soil microflora)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/208552",
+    "prefLabel": "soil minerals",
+    "altLabels": [],
+    "displayName": "soil minerals",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.38,
+    "p_exclude": 0.62,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41622",
+    "prefLabel": "soil movement",
+    "altLabels": [],
+    "displayName": "soil movement",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.49,
+    "p_exclude": 0.51,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/969",
+    "prefLabel": "soil nutrient balance",
+    "altLabels": [
+      "soil nitrogen balance",
+      "soil nitrogen budget",
+      "soil phosphorus balance",
+      "soil phosphorus budget",
+      "soil potassium balance",
+      "soil potassium budget"
+    ],
+    "displayName": "soil nutrient balance (soil nitrogen balance, soil nitrogen budget, soil phosphorus balance, soil phosphorus budget, soil potassium balance, soil potassium budget)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/960",
+    "prefLabel": "soil nutrient dynamics",
+    "altLabels": [
+      "soil nutrient resorption",
+      "soil nutrient transformations"
+    ],
+    "displayName": "soil nutrient dynamics (soil nutrient resorption, soil nutrient transformations)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/38806",
+    "prefLabel": "soil nutrients",
+    "altLabels": [],
+    "displayName": "soil nutrients",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/67854",
+    "prefLabel": "soil organic carbon",
+    "altLabels": [
+      "organic soil carbon"
+    ],
+    "displayName": "soil organic carbon (organic soil carbon)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/276406",
+    "prefLabel": "soil organic nitrogen",
+    "altLabels": [],
+    "displayName": "soil organic nitrogen",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.84,
+    "p_exclude": 0.16,
+    "selected_probability": 0.84,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 11,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/329275",
+    "prefLabel": "soil organic phosphorus",
+    "altLabels": [
+      "soil organic phosphorous"
+    ],
+    "displayName": "soil organic phosphorus (soil organic phosphorous)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/225083",
+    "prefLabel": "soil permeability",
+    "altLabels": [],
+    "displayName": "soil permeability",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/961",
+    "prefLabel": "soil pollution",
+    "altLabels": [
+      "contaminants in soil",
+      "contamination of soil",
+      "soil contaminants",
+      "soil contamination",
+      "soil pollutants"
+    ],
+    "displayName": "soil pollution (contaminants in soil, contamination of soil, soil contaminants, soil contamination, soil pollutants)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/962",
+    "prefLabel": "soil productivity status",
+    "altLabels": [],
+    "displayName": "soil productivity status",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/137734",
+    "prefLabel": "soil remediation",
+    "altLabels": [],
+    "displayName": "soil remediation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63435",
+    "prefLabel": "soil resources",
+    "altLabels": [],
+    "displayName": "soil resources",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/213546",
+    "prefLabel": "soil restoration",
+    "altLabels": [
+      "soil reclamation",
+      "soil recycling"
+    ],
+    "displayName": "soil restoration (soil reclamation, soil recycling)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23008",
+    "prefLabel": "soil sequences",
+    "altLabels": [],
+    "displayName": "soil sequences",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.62,
+    "p_exclude": 0.38,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63437",
+    "prefLabel": "soil surveys",
+    "altLabels": [
+      "soil mapping",
+      "soil survey"
+    ],
+    "displayName": "soil surveys (soil mapping, soil survey)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/144654",
+    "prefLabel": "soil taxonomy",
+    "altLabels": [],
+    "displayName": "soil taxonomy",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41518",
+    "prefLabel": "soil temperature regimes",
+    "altLabels": [
+      "soil thermal regimes"
+    ],
+    "displayName": "soil temperature regimes (soil thermal regimes)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/972",
+    "prefLabel": "soil test values",
+    "altLabels": [],
+    "displayName": "soil test values",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/37470",
+    "prefLabel": "soil washing",
+    "altLabels": [],
+    "displayName": "soil washing",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63392",
+    "prefLabel": "soil water characteristic",
+    "altLabels": [
+      "moisture characteristic",
+      "soil moisture characteristic",
+      "soil water release curve",
+      "soil water retention curve",
+      "soil water retention isotherm"
+    ],
+    "displayName": "soil water characteristic (moisture characteristic, soil moisture characteristic, soil water release curve, soil water retention curve, soil water retention isotherm)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47524",
+    "prefLabel": "soil water movement",
+    "altLabels": [
+      "pore water transport",
+      "soil water transport"
+    ],
+    "displayName": "soil water movement (pore water transport, soil water transport)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216364",
+    "prefLabel": "Solonchaks",
+    "altLabels": [],
+    "displayName": "Solonchaks",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216365",
+    "prefLabel": "Solonetz",
+    "altLabels": [],
+    "displayName": "Solonetz",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/43987",
+    "prefLabel": "sowing date",
+    "altLabels": [
+      "date of seeding",
+      "date of sowing",
+      "seeding date",
+      "seeding time",
+      "sowing time",
+      "time of seeding",
+      "time of sowing"
+    ],
+    "displayName": "sowing date (date of seeding, date of sowing, seeding date, seeding time, sowing time, time of seeding, time of sowing)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.3,
+    "p_exclude": 0.7,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11601",
+    "prefLabel": "Spodosols",
+    "altLabels": [],
+    "displayName": "Spodosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.65,
+    "p_exclude": 0.35,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302682",
+    "prefLabel": "spoil banks",
+    "altLabels": [],
+    "displayName": "spoil banks",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.31,
+    "p_exclude": 0.69,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 12,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216366",
+    "prefLabel": "Stagnosols",
+    "altLabels": [],
+    "displayName": "Stagnosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.87,
+    "p_exclude": 0.13,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/64259",
+    "prefLabel": "stream channels",
+    "altLabels": [
+      "river beds",
+      "riverbeds",
+      "stream beds",
+      "streambeds"
+    ],
+    "displayName": "stream channels (river beds, riverbeds, stream beds, streambeds)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/37535",
+    "prefLabel": "streams",
+    "altLabels": [
+      "creeks",
+      "water streams"
+    ],
+    "displayName": "streams (creeks, water streams)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/335253",
+    "prefLabel": "subduction",
+    "altLabels": [],
+    "displayName": "subduction",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216367",
+    "prefLabel": "Technosols",
+    "altLabels": [],
+    "displayName": "Technosols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5861",
+    "prefLabel": "temperature",
+    "altLabels": [],
+    "displayName": "temperature",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.42,
+    "p_exclude": 0.58,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/49172",
+    "prefLabel": "terraces",
+    "altLabels": [],
+    "displayName": "terraces",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.42,
+    "p_exclude": 0.58,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/44804",
+    "prefLabel": "thermal properties",
+    "altLabels": [],
+    "displayName": "thermal properties",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.49,
+    "p_exclude": 0.51,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/25207",
+    "prefLabel": "tillage",
+    "altLabels": [
+      "soil cultivation",
+      "soil tillage",
+      "tillage systems"
+    ],
+    "displayName": "tillage (soil cultivation, soil tillage, tillage systems)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.6,
+    "p_exclude": 0.4,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2829",
+    "prefLabel": "titratable acidity",
+    "altLabels": [
+      "titrable acidity"
+    ],
+    "displayName": "titratable acidity (titrable acidity)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/287648",
+    "prefLabel": "topographic maps",
+    "altLabels": [
+      "atlases"
+    ],
+    "displayName": "topographic maps (atlases)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7028",
+    "prefLabel": "tundra",
+    "altLabels": [
+      "Arctic tundra"
+    ],
+    "displayName": "tundra (Arctic tundra)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5780",
+    "prefLabel": "Udalfs",
+    "altLabels": [],
+    "displayName": "Udalfs",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.67,
+    "p_exclude": 0.33,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41390",
+    "prefLabel": "Udults",
+    "altLabels": [],
+    "displayName": "Udults",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216368",
+    "prefLabel": "Umbrisols",
+    "altLabels": [],
+    "displayName": "Umbrisols",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/185778",
+    "prefLabel": "urban agriculture",
+    "altLabels": [],
+    "displayName": "urban agriculture",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68414",
+    "prefLabel": "urban horticulture",
+    "altLabels": [],
+    "displayName": "urban horticulture",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.2,
+    "p_exclude": 0.8,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/44600",
+    "prefLabel": "Ustults",
+    "altLabels": [],
+    "displayName": "Ustults",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.75,
+    "p_exclude": 0.25,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63359",
+    "prefLabel": "variable charge",
+    "altLabels": [],
+    "displayName": "variable charge",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28604",
+    "prefLabel": "vegetation cover",
+    "altLabels": [
+      "ground cover percentage",
+      "ground coverage",
+      "percent ground cover",
+      "percent ground coverage",
+      "percent plant cover",
+      "percent plant coverage",
+      "percent soil cover",
+      "percent soil coverage",
+      "percent vegetation cover",
+      "percent vegetation coverage",
+      "plant cover percentage",
+      "soil cover percentage"
+    ],
+    "displayName": "vegetation cover (ground cover percentage, ground coverage, percent ground cover, percent ground coverage, percent plant cover, percent plant coverage, percent soil cover, percent soil coverage, percent vegetation cover, percent vegetation coverage, plant cover percentage, soil cover percentage)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.58,
+    "p_exclude": 0.42,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 13,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11557",
+    "prefLabel": "Vertisols",
+    "altLabels": [
+      "vertosols"
+    ],
+    "displayName": "Vertisols (vertosols)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18883",
+    "prefLabel": "water content",
+    "altLabels": [
+      "moisture content"
+    ],
+    "displayName": "water content (moisture content)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.59,
+    "p_exclude": 0.41,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/43956",
+    "prefLabel": "water flow",
+    "altLabels": [
+      "water circulation"
+    ],
+    "displayName": "water flow (water circulation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/40101",
+    "prefLabel": "water holding capacity",
+    "altLabels": [
+      "water retention capacity",
+      "water-holding capacity"
+    ],
+    "displayName": "water holding capacity (water retention capacity, water-holding capacity)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.72,
+    "p_exclude": 0.28,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46378",
+    "prefLabel": "water quantity",
+    "altLabels": [],
+    "displayName": "water quantity",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/21985",
+    "prefLabel": "water table",
+    "altLabels": [
+      "ground water level",
+      "ground water table",
+      "groundwater level",
+      "groundwater table",
+      "water level (groundwater)"
+    ],
+    "displayName": "water table (ground water level, ground water table, groundwater level, groundwater table, water level (groundwater))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.31,
+    "p_exclude": 0.69,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18403",
+    "prefLabel": "wetlands",
+    "altLabels": [],
+    "displayName": "wetlands",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/952",
+    "prefLabel": "wilting",
+    "altLabels": [],
+    "displayName": "wilting",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.46,
+    "p_exclude": 0.54,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6340",
+    "prefLabel": "Xeralfs",
+    "altLabels": [],
+    "displayName": "Xeralfs",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.66,
+    "p_exclude": 0.34,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/44586",
+    "prefLabel": "Xerults",
+    "altLabels": [],
+    "displayName": "Xerults",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.59,
+    "p_exclude": 0.41,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 14,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q338992",
+  "seed_label": "WAI-ARIA",
+  "included_qids": [
+    "Q20819677",
+    "Q338992",
+    "Q41150004"
+  ],
+  "pruned_qids": [
+    "Q109772972",
+    "Q109772990",
+    "Q28858025",
+    "Q60738905"
+  ],
+  "visited_qids": [
+    "Q109772972",
+    "Q109772990",
+    "Q20819677",
+    "Q28858025",
+    "Q338992",
+    "Q41150004",
+    "Q60738905"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:44.650489+00:00",
+  "finished_at_utc": "2026-10-28T17:24:45.513663+00:00",
+  "wall_seconds": 0.8631753999943612,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,35 @@
+{
+  "seed_qid": "Q1359246",
+  "seed_label": "Jira",
+  "included_qids": [
+    "Q1359246",
+    "Q1480561",
+    "Q167035",
+    "Q956086"
+  ],
+  "pruned_qids": [
+    "Q218616"
+  ],
+  "visited_qids": [
+    "Q1359246",
+    "Q1480561",
+    "Q167035",
+    "Q218616",
+    "Q956086"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 3,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:35.896426+00:00",
+  "finished_at_utc": "2026-10-28T17:43:36.228196+00:00",
+  "wall_seconds": 0.33176559999992605,
+  "frontier_exhausted": true
+}

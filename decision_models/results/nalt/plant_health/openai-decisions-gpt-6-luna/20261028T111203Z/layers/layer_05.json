@@ -1,0 +1,205 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30097",
+    "prefLabel": "Cronartium comandrae",
+    "altLabels": [],
+    "displayName": "Cronartium comandrae",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30101",
+    "prefLabel": "Cronartium ribicola",
+    "altLabels": [],
+    "displayName": "Cronartium ribicola",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/39451",
+    "prefLabel": "famine",
+    "altLabels": [],
+    "displayName": "famine",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15852",
+    "prefLabel": "Hordeum vulgare",
+    "altLabels": [
+      "Hordeum lagunculiforme"
+    ],
+    "displayName": "Hordeum vulgare (Hordeum lagunculiforme)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45292",
+    "prefLabel": "phytophagous insects",
+    "altLabels": [
+      "herbivorous insects",
+      "plant chewing insects"
+    ],
+    "displayName": "phytophagous insects (herbivorous insects, plant chewing insects)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/60484",
+    "prefLabel": "Puccinia",
+    "altLabels": [],
+    "displayName": "Puccinia",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/60496",
+    "prefLabel": "Puccinia polysora",
+    "altLabels": [],
+    "displayName": "Puccinia polysora",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/334656",
+    "prefLabel": "Puccinia striiformis f. hordei",
+    "altLabels": [
+      "Puccinia striiformis f. sp. hordei"
+    ],
+    "displayName": "Puccinia striiformis f. hordei (Puccinia striiformis f. sp. hordei)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/212254",
+    "prefLabel": "Puccinia striiformis f. tritici",
+    "altLabels": [],
+    "displayName": "Puccinia striiformis f. tritici",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/189519",
+    "prefLabel": "wood degradation",
+    "altLabels": [
+      "timber decomposition",
+      "timber degradation",
+      "wood decomposition",
+      "wood deterioration"
+    ],
+    "displayName": "wood degradation (timber decomposition, timber degradation, wood decomposition, wood deterioration)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 5,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q428933",
+  "seed_label": "STUN",
+  "included_qids": [
+    "Q15836568",
+    "Q2622793",
+    "Q3359815",
+    "Q428933",
+    "Q5013874",
+    "Q8777"
+  ],
+  "pruned_qids": [
+    "Q1422324"
+  ],
+  "visited_qids": [
+    "Q1422324",
+    "Q15836568",
+    "Q2622793",
+    "Q3359815",
+    "Q428933",
+    "Q5013874",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 4,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:50.204572+00:00",
+  "finished_at_utc": "2026-10-28T17:24:50.754259+00:00",
+  "wall_seconds": 0.549695800000336,
+  "frontier_exhausted": true
+}

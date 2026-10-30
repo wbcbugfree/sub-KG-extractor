@@ -1,0 +1,38 @@
+{
+  "seed_qid": "Q189447",
+  "seed_label": "risk management",
+  "included_qids": [
+    "Q189447",
+    "Q96247293"
+  ],
+  "pruned_qids": [
+    "Q1481177"
+  ],
+  "visited_qids": [
+    "Q1481177",
+    "Q189447",
+    "Q96247293"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:51.096845+00:00",
+  "finished_at_utc": "2026-10-28T16:41:51.721262+00:00",
+  "wall_seconds": 0.6244286000001011,
+  "frontier_exhausted": true
+}

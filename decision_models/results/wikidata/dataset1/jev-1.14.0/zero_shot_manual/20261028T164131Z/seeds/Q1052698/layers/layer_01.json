@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3907",
+    "legacy_row_id": "Q1052698|Q11306265",
+    "seed_qid": "Q1052698",
+    "seed_label": "jitter",
+    "qid": "Q11306265",
+    "label": "noise",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P279",
+    "reaching_property_label": "subclass of",
+    "parent_qid": "Q1052698",
+    "parent_label": "jitter",
+    "path": "jitter --subclass of--> noise",
+    "uri": "http://www.wikidata.org/entity/Q11306265",
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

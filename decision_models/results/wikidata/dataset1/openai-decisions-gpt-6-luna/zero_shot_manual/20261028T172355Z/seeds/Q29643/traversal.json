@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q29643",
+  "seed_label": "Wi-Fi",
+  "included_qids": [
+    "Q29643",
+    "Q317623",
+    "Q908620"
+  ],
+  "pruned_qids": [
+    "Q11680670",
+    "Q1334738",
+    "Q30282398",
+    "Q325668",
+    "Q51885764",
+    "Q52162346"
+  ],
+  "visited_qids": [
+    "Q11680670",
+    "Q1334738",
+    "Q29643",
+    "Q30282398",
+    "Q317623",
+    "Q325668",
+    "Q51885764",
+    "Q52162346",
+    "Q908620"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 0,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:40.520205+00:00",
+  "finished_at_utc": "2026-10-28T17:24:41.485436+00:00",
+  "wall_seconds": 0.9652364000066882,
+  "frontier_exhausted": true
+}

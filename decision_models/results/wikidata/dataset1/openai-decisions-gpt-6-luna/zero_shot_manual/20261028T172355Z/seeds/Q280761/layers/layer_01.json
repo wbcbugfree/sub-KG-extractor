@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4536",
+    "legacy_row_id": "Q280761|Q26085352",
+    "seed_qid": "Q280761",
+    "seed_label": "Windows Media Video",
+    "qid": "Q26085352",
+    "label": "file format family",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q280761",
+    "parent_label": "Windows Media Video",
+    "path": "Windows Media Video --instance of--> file format family",
+    "uri": "http://www.wikidata.org/entity/Q26085352",
+    "classification": "INCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.87,
+    "p_exclude": 0.13,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "seed_qid": "Q3816639",
+  "seed_label": "Kotlin",
+  "included_qids": [
+    "Q3816639",
+    "Q56062429",
+    "Q899523",
+    "Q9143"
+  ],
+  "pruned_qids": [
+    "Q1993334",
+    "Q28920117",
+    "Q28920181",
+    "Q28920795",
+    "Q28922858",
+    "Q28923013",
+    "Q4117397",
+    "Q75988682",
+    "Q7998546"
+  ],
+  "visited_qids": [
+    "Q1993334",
+    "Q28920117",
+    "Q28920181",
+    "Q28920795",
+    "Q28922858",
+    "Q28923013",
+    "Q3816639",
+    "Q4117397",
+    "Q56062429",
+    "Q75988682",
+    "Q7998546",
+    "Q899523",
+    "Q9143"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 0,
+      "excluded": 9,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:06.708069+00:00",
+  "finished_at_utc": "2026-10-28T17:44:07.398431+00:00",
+  "wall_seconds": 0.6903671000036411,
+  "frontier_exhausted": true
+}

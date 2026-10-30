@@ -1,0 +1,3929 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6768",
+    "prefLabel": "almonds",
+    "altLabels": [],
+    "displayName": "almonds",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7077",
+    "prefLabel": "Alternaria alternata",
+    "altLabels": [
+      "Alternaria fasciculata",
+      "Alternaria tenuis",
+      "Macrosporium fasciculatum"
+    ],
+    "displayName": "Alternaria alternata (Alternaria fasciculata, Alternaria tenuis, Macrosporium fasciculatum)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/324036",
+    "prefLabel": "Alternaria arborescens",
+    "altLabels": [],
+    "displayName": "Alternaria arborescens",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9084",
+    "prefLabel": "animal welfare",
+    "altLabels": [
+      "animal abuse",
+      "animal cruelty",
+      "animal rights",
+      "anti-cruelty law (animals)",
+      "anticruelty law (animals)",
+      "cruelty to animals",
+      "humane treatment of animals"
+    ],
+    "displayName": "animal welfare (animal abuse, animal cruelty, animal rights, anti-cruelty law (animals), anticruelty law (animals), cruelty to animals, humane treatment of animals)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/331461",
+    "prefLabel": "antibrowning agents",
+    "altLabels": [
+      "anti-browning agents"
+    ],
+    "displayName": "antibrowning agents (anti-browning agents)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/310277",
+    "prefLabel": "apple proliferation disease",
+    "altLabels": [],
+    "displayName": "apple proliferation disease",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11308",
+    "prefLabel": "apples",
+    "altLabels": [
+      "apple fruits"
+    ],
+    "displayName": "apples (apple fruits)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/300759",
+    "prefLabel": "Armillaria root rot",
+    "altLabels": [],
+    "displayName": "Armillaria root rot",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/13231",
+    "prefLabel": "aster yellows",
+    "altLabels": [],
+    "displayName": "aster yellows",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2350",
+    "prefLabel": "bacteria",
+    "altLabels": [],
+    "displayName": "bacteria",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/285882",
+    "prefLabel": "bean rust",
+    "altLabels": [],
+    "displayName": "bean rust",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/16338",
+    "prefLabel": "Beet necrotic yellow vein virus",
+    "altLabels": [
+      "BNYVV (Beet necrotic yellow vein virus)"
+    ],
+    "displayName": "Beet necrotic yellow vein virus (BNYVV (Beet necrotic yellow vein virus))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/316281",
+    "prefLabel": "black pod rot",
+    "altLabels": [
+      "black pod disease",
+      "cacao black pod rot"
+    ],
+    "displayName": "black pod rot (black pod disease, cacao black pod rot)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/235049",
+    "prefLabel": "black root rot",
+    "altLabels": [],
+    "displayName": "black root rot",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/196168",
+    "prefLabel": "blister rust",
+    "altLabels": [],
+    "displayName": "blister rust",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/266495",
+    "prefLabel": "Blueberry mosaic associated virus",
+    "altLabels": [],
+    "displayName": "Blueberry mosaic associated virus",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18851",
+    "prefLabel": "Botrytis cinerea",
+    "altLabels": [
+      "Botryotinia fuckeliana",
+      "Botrytis vulgaris",
+      "Sclerotinia fuckeliana"
+    ],
+    "displayName": "Botrytis cinerea (Botryotinia fuckeliana, Botrytis vulgaris, Sclerotinia fuckeliana)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6585",
+    "prefLabel": "Brassicaceae",
+    "altLabels": [
+      "Cruciferae",
+      "Raphanaceae",
+      "Stanleyaceae",
+      "Thlaspiaceae",
+      "crucifers",
+      "mustard family"
+    ],
+    "displayName": "Brassicaceae (Cruciferae, Raphanaceae, Stanleyaceae, Thlaspiaceae, crucifers, mustard family)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/300977",
+    "prefLabel": "browse plants",
+    "altLabels": [],
+    "displayName": "browse plants",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20122",
+    "prefLabel": "browsing",
+    "altLabels": [],
+    "displayName": "browsing",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20170",
+    "prefLabel": "bruising (plant)",
+    "altLabels": [
+      "bruises (plant)",
+      "bruising (fruit)",
+      "fruit bruising"
+    ],
+    "displayName": "bruising (plant) (bruises (plant), bruising (fruit), fruit bruising)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/333384",
+    "prefLabel": "bud galls",
+    "altLabels": [
+      "flower bud galls"
+    ],
+    "displayName": "bud galls (flower bud galls)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9282",
+    "prefLabel": "burns (injuries)",
+    "altLabels": [
+      "heat injury (burns)"
+    ],
+    "displayName": "burns (injuries) (heat injury (burns))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.43,
+    "p_exclude": 0.57,
+    "selected_probability": 0.57,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20670",
+    "prefLabel": "Buxus",
+    "altLabels": [],
+    "displayName": "Buxus",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/19478",
+    "prefLabel": "cabbage",
+    "altLabels": [
+      "cabbages"
+    ],
+    "displayName": "cabbage (cabbages)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/336999",
+    "prefLabel": "Calonectria henricotiae",
+    "altLabels": [],
+    "displayName": "Calonectria henricotiae",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/336987",
+    "prefLabel": "Calonectria pseudonaviculata",
+    "altLabels": [
+      "Cylindrocladium buxicola",
+      "Cylindrocladium pseudonaviculatum"
+    ],
+    "displayName": "Calonectria pseudonaviculata (Cylindrocladium buxicola, Cylindrocladium pseudonaviculatum)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/22867",
+    "prefLabel": "Castanea sativa",
+    "altLabels": [
+      "European chestnut"
+    ],
+    "displayName": "Castanea sativa (European chestnut)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/342466",
+    "prefLabel": "cedar apple rust",
+    "altLabels": [],
+    "displayName": "cedar apple rust",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23908",
+    "prefLabel": "Ceratocystis ulmi",
+    "altLabels": [
+      "Ophiostoma ulmi"
+    ],
+    "displayName": "Ceratocystis ulmi (Ophiostoma ulmi)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/301230",
+    "prefLabel": "ceratoulmin",
+    "altLabels": [],
+    "displayName": "ceratoulmin",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24011",
+    "prefLabel": "Cercospora",
+    "altLabels": [],
+    "displayName": "Cercospora",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24019",
+    "prefLabel": "Cercospora sojina",
+    "altLabels": [
+      "Passalora sojina"
+    ],
+    "displayName": "Cercospora sojina (Passalora sojina)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24020",
+    "prefLabel": "Cercospora zeae-maydis",
+    "altLabels": [
+      "Cercosporella zeae-maydis"
+    ],
+    "displayName": "Cercospora zeae-maydis (Cercosporella zeae-maydis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24945",
+    "prefLabel": "chilling injury",
+    "altLabels": [],
+    "displayName": "chilling injury",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4824",
+    "prefLabel": "Citrus",
+    "altLabels": [
+      "Afraurantium",
+      "Aurantium"
+    ],
+    "displayName": "Citrus (Afraurantium, Aurantium)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/326984",
+    "prefLabel": "citrus canker",
+    "altLabels": [
+      "citrus bacterial canker"
+    ],
+    "displayName": "citrus canker (citrus bacterial canker)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/16721",
+    "prefLabel": "citrus fruits",
+    "altLabels": [],
+    "displayName": "citrus fruits",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15217",
+    "prefLabel": "Clavibacter",
+    "altLabels": [],
+    "displayName": "Clavibacter",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11130",
+    "prefLabel": "Clavibacter michiganensis",
+    "altLabels": [
+      "Aplanobacter michiganense",
+      "Bacterium michiganense",
+      "Clavibacter michiganense",
+      "Corynebacterium michiganense",
+      "Mycobacterium flavum ssp. michiganense",
+      "Mycobacterium flavum subsp. michiganense",
+      "Phytomonas michiganensis",
+      "Pseudomonas michiganensis"
+    ],
+    "displayName": "Clavibacter michiganensis (Aplanobacter michiganense, Bacterium michiganense, Clavibacter michiganense, Corynebacterium michiganense, Mycobacterium flavum ssp. michiganense, Mycobacterium flavum subsp. michiganense, Phytomonas michiganensis, Pseudomonas michiganensis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26718",
+    "prefLabel": "Claviceps purpurea",
+    "altLabels": [
+      "Claviceps microcephala"
+    ],
+    "displayName": "Claviceps purpurea (Claviceps microcephala)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/27703",
+    "prefLabel": "coffee beans",
+    "altLabels": [],
+    "displayName": "coffee beans",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/27767",
+    "prefLabel": "cold",
+    "altLabels": [],
+    "displayName": "cold",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/277273",
+    "prefLabel": "cold shock response",
+    "altLabels": [
+      "cold stress response"
+    ],
+    "displayName": "cold shock response (cold stress response)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1730",
+    "prefLabel": "cold stress",
+    "altLabels": [
+      "cold shock"
+    ],
+    "displayName": "cold stress (cold shock)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136",
+    "prefLabel": "cold tolerance",
+    "altLabels": [
+      "chilling tolerance",
+      "cold hardening",
+      "cold hardiness",
+      "cold resistance (organisms)",
+      "critical thermal minima",
+      "critical thermal minimum",
+      "cryo-tolerance",
+      "cryotolerance",
+      "freeze tolerance",
+      "freezing tolerance"
+    ],
+    "displayName": "cold tolerance (chilling tolerance, cold hardening, cold hardiness, cold resistance (organisms), critical thermal minima, critical thermal minimum, cryo-tolerance, cryotolerance, freeze tolerance, freezing tolerance)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/27940",
+    "prefLabel": "Colletotrichum acutatum",
+    "altLabels": [],
+    "displayName": "Colletotrichum acutatum",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/263009",
+    "prefLabel": "Colletotrichum kahawae",
+    "altLabels": [],
+    "displayName": "Colletotrichum kahawae",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28535",
+    "prefLabel": "conifer needles",
+    "altLabels": [
+      "pine needles"
+    ],
+    "displayName": "conifer needles (pine needles)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28532",
+    "prefLabel": "conifers",
+    "altLabels": [
+      "narrow-leaf evergreens",
+      "narrow-leaved evergreens",
+      "needled evergreens"
+    ],
+    "displayName": "conifers (narrow-leaf evergreens, narrow-leaved evergreens, needled evergreens)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/316342",
+    "prefLabel": "corn rust",
+    "altLabels": [],
+    "displayName": "corn rust",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15218",
+    "prefLabel": "Corynebacterium",
+    "altLabels": [],
+    "displayName": "Corynebacterium",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30063",
+    "prefLabel": "Cristulariella",
+    "altLabels": [
+      "Nervostroma"
+    ],
+    "displayName": "Cristulariella (Nervostroma)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30114",
+    "prefLabel": "crop losses",
+    "altLabels": [],
+    "displayName": "crop losses",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.56,
+    "p_exclude": 0.44,
+    "selected_probability": 0.56,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30260",
+    "prefLabel": "crown galls",
+    "altLabels": [
+      "crown knots (galls)"
+    ],
+    "displayName": "crown galls (crown knots (galls))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/189057",
+    "prefLabel": "crown rust",
+    "altLabels": [],
+    "displayName": "crown rust",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24785",
+    "prefLabel": "Cryphonectria parasitica",
+    "altLabels": [
+      "Endothia parasitica"
+    ],
+    "displayName": "Cryphonectria parasitica (Endothia parasitica)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20101",
+    "prefLabel": "decay fungi",
+    "altLabels": [
+      "rot fungi",
+      "wood decay fungi",
+      "wood destroying fungi",
+      "wood rot fungi",
+      "wood-destroying fungi",
+      "wood-rot fungi"
+    ],
+    "displayName": "decay fungi (rot fungi, wood decay fungi, wood destroying fungi, wood rot fungi, wood-destroying fungi, wood-rot fungi)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32028",
+    "prefLabel": "desiccation (plant physiology)",
+    "altLabels": [
+      "dehydration (plant physiology)"
+    ],
+    "displayName": "desiccation (plant physiology) (dehydration (plant physiology))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.36,
+    "p_exclude": 0.64,
+    "selected_probability": 0.64,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/203547",
+    "prefLabel": "Dickeya",
+    "altLabels": [],
+    "displayName": "Dickeya",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/33990",
+    "prefLabel": "drought",
+    "altLabels": [],
+    "displayName": "drought",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/137",
+    "prefLabel": "drought tolerance",
+    "altLabels": [
+      "drought resistance",
+      "drought stress tolerance",
+      "drouth resistance",
+      "drouth tolerance"
+    ],
+    "displayName": "drought tolerance (drought resistance, drought stress tolerance, drouth resistance, drouth tolerance)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30115",
+    "prefLabel": "economic threshold",
+    "altLabels": [
+      "damage threshold",
+      "economic injury level"
+    ],
+    "displayName": "economic threshold (damage threshold, economic injury level)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/248017",
+    "prefLabel": "Elsinoe batatas",
+    "altLabels": [
+      "Sphaceloma batatas"
+    ],
+    "displayName": "Elsinoe batatas (Sphaceloma batatas)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15211",
+    "prefLabel": "Enterobacter nimipressuralis",
+    "altLabels": [
+      "Erwinia nimipressuralis"
+    ],
+    "displayName": "Enterobacter nimipressuralis (Erwinia nimipressuralis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/19967",
+    "prefLabel": "ergot alkaloids",
+    "altLabels": [
+      "ergot derivatives"
+    ],
+    "displayName": "ergot alkaloids (ergot derivatives)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15219",
+    "prefLabel": "Erwinia",
+    "altLabels": [],
+    "displayName": "Erwinia",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14615",
+    "prefLabel": "Erwinia amylovora",
+    "altLabels": [
+      "Bacillus amylovorus",
+      "Bacterium amylovorus",
+      "Micrococcus amylovorus"
+    ],
+    "displayName": "Erwinia amylovora (Bacillus amylovorus, Bacterium amylovorus, Micrococcus amylovorus)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7537",
+    "prefLabel": "Fagus grandifolia",
+    "altLabels": [
+      "American beech"
+    ],
+    "displayName": "Fagus grandifolia (American beech)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/40096",
+    "prefLabel": "figs",
+    "altLabels": [],
+    "displayName": "figs",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/139",
+    "prefLabel": "flooding tolerance",
+    "altLabels": [
+      "submergence tolerance"
+    ],
+    "displayName": "flooding tolerance (submergence tolerance)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41127",
+    "prefLabel": "forest damage",
+    "altLabels": [
+      "forest destruction",
+      "forest disturbance"
+    ],
+    "displayName": "forest damage (forest destruction, forest disturbance)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.65,
+    "p_exclude": 0.35,
+    "selected_probability": 0.65,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41131",
+    "prefLabel": "forest trees",
+    "altLabels": [
+      "timber trees"
+    ],
+    "displayName": "forest trees (timber trees)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18644",
+    "prefLabel": "forests",
+    "altLabels": [],
+    "displayName": "forests",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/27771",
+    "prefLabel": "frost injury",
+    "altLabels": [
+      "frost damage"
+    ],
+    "displayName": "frost injury (frost damage)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9286",
+    "prefLabel": "frostbite",
+    "altLabels": [
+      "cold injury (frostbite)"
+    ],
+    "displayName": "frostbite (cold injury (frostbite))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/290725",
+    "prefLabel": "frosty pod rot",
+    "altLabels": [],
+    "displayName": "frosty pod rot",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26543",
+    "prefLabel": "fruit peels",
+    "altLabels": [
+      "fruit rinds"
+    ],
+    "displayName": "fruit peels (fruit rinds)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32390",
+    "prefLabel": "Fusarium",
+    "altLabels": [
+      "Gibberella",
+      "Haematonectria"
+    ],
+    "displayName": "Fusarium (Gibberella, Haematonectria)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/259605",
+    "prefLabel": "Fusarium mangiferae",
+    "altLabels": [],
+    "displayName": "Fusarium mangiferae",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41947",
+    "prefLabel": "Fusarium oxysporum f. sp. cubense",
+    "altLabels": [
+      "Fusarium oxysporum f.sp. cubense",
+      "Fusarium oxysporum fsp. cubense"
+    ],
+    "displayName": "Fusarium oxysporum f. sp. cubense (Fusarium oxysporum f.sp. cubense, Fusarium oxysporum fsp. cubense)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41813",
+    "prefLabel": "Fusarium wilt",
+    "altLabels": [],
+    "displayName": "Fusarium wilt",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/227578",
+    "prefLabel": "Fusicladium caryigenum",
+    "altLabels": [
+      "Cladosporium caryigenum"
+    ],
+    "displayName": "Fusicladium caryigenum (Cladosporium caryigenum)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/301610",
+    "prefLabel": "fusiform rust",
+    "altLabels": [
+      "fusiform rust of Southern pine",
+      "fusiform rust of pine"
+    ],
+    "displayName": "fusiform rust (fusiform rust of Southern pine, fusiform rust of pine)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42121",
+    "prefLabel": "Gaeumannomyces graminis var. graminis",
+    "altLabels": [
+      "Gaeumannomyces cariceti",
+      "Gaeumannomyces graminis",
+      "Gaeumannomyces oryzinus",
+      "Linocarpon cariceti",
+      "Linocarpon oryzinum",
+      "Ophiobolus cariceti",
+      "Ophiobolus graminis",
+      "Ophiobolus graminis var. graminis",
+      "Ophiobolus oryzinus",
+      "Rhaphidophora graminis",
+      "Rhaphidospora cariceti",
+      "Sphaeria cariceti"
+    ],
+    "displayName": "Gaeumannomyces graminis var. graminis (Gaeumannomyces cariceti, Gaeumannomyces graminis, Gaeumannomyces oryzinus, Linocarpon cariceti, Linocarpon oryzinum, Ophiobolus cariceti, Ophiobolus graminis, Ophiobolus graminis var. graminis, Ophiobolus oryzinus, Rhaphidophora graminis, Rhaphidospora cariceti, Sphaeria cariceti)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23775",
+    "prefLabel": "Gaeumannomyces graminis var. tritici",
+    "altLabels": [
+      "Cephalosporium maydis",
+      "Harpophora maydis",
+      "Ophiobolus graminis var. tritici"
+    ],
+    "displayName": "Gaeumannomyces graminis var. tritici (Cephalosporium maydis, Harpophora maydis, Ophiobolus graminis var. tritici)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/276071",
+    "prefLabel": "gall-inducing insects",
+    "altLabels": [
+      "gall insects",
+      "gall-forming insects",
+      "gall-inducing thrips",
+      "gall-producing insects"
+    ],
+    "displayName": "gall-inducing insects (gall insects, gall-forming insects, gall-inducing thrips, gall-producing insects)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.56,
+    "p_exclude": 0.44,
+    "selected_probability": 0.56,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/43085",
+    "prefLabel": "Gloeocercospora sorghi",
+    "altLabels": [
+      "Microdochium sorghi"
+    ],
+    "displayName": "Gloeocercospora sorghi (Microdochium sorghi)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/124234",
+    "prefLabel": "Graphocephala atropunctata",
+    "altLabels": [
+      "Graphocephalus atropunctata",
+      "Hordnia atropunctata",
+      "Hordnia circellata",
+      "Neokolla circellata",
+      "blue-green sharpshooter"
+    ],
+    "displayName": "Graphocephala atropunctata (Graphocephalus atropunctata, Hordnia atropunctata, Hordnia circellata, Neokolla circellata, blue-green sharpshooter)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/259065",
+    "prefLabel": "Guignardia citricarpa",
+    "altLabels": [
+      "Phyllosticta citricarpa"
+    ],
+    "displayName": "Guignardia citricarpa (Phyllosticta citricarpa)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/187953",
+    "prefLabel": "head blight",
+    "altLabels": [],
+    "displayName": "head blight",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1731",
+    "prefLabel": "heat stress",
+    "altLabels": [
+      "heat shock"
+    ],
+    "displayName": "heat stress (heat shock)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/140",
+    "prefLabel": "heat tolerance",
+    "altLabels": [
+      "critical thermal maxima",
+      "critical thermal maximum",
+      "heat resistance (organisms)",
+      "thermal tolerance",
+      "thermotolerance"
+    ],
+    "displayName": "heat tolerance (critical thermal maxima, critical thermal maximum, heat resistance (organisms), thermal tolerance, thermotolerance)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45009",
+    "prefLabel": "Helminthosporium solani",
+    "altLabels": [
+      "Helminthosporium atrovirens",
+      "Spondylocladium atrovirens"
+    ],
+    "displayName": "Helminthosporium solani (Helminthosporium atrovirens, Spondylocladium atrovirens)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26724",
+    "prefLabel": "Hypomyces",
+    "altLabels": [
+      "Cladobotryum",
+      "Dactylium"
+    ],
+    "displayName": "Hypomyces (Cladobotryum, Dactylium)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/158",
+    "prefLabel": "hypothermia",
+    "altLabels": [],
+    "displayName": "hypothermia",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47629",
+    "prefLabel": "Ipomoea batatas",
+    "altLabels": [],
+    "displayName": "Ipomoea batatas",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20642",
+    "prefLabel": "Juglans cinerea",
+    "altLabels": [
+      "butternut tree"
+    ],
+    "displayName": "Juglans cinerea (butternut tree)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/339082",
+    "prefLabel": "laminated root rot",
+    "altLabels": [],
+    "displayName": "laminated root rot",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3317",
+    "prefLabel": "Lauraceae",
+    "altLabels": [
+      "Cassythaceae",
+      "Perseaceae"
+    ],
+    "displayName": "Lauraceae (Cassythaceae, Perseaceae)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47436",
+    "prefLabel": "leafrollers",
+    "altLabels": [
+      "leaf folders",
+      "leaf rollers"
+    ],
+    "displayName": "leafrollers (leaf folders, leaf rollers)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28537",
+    "prefLabel": "leaves",
+    "altLabels": [
+      "foliage"
+    ],
+    "displayName": "leaves (foliage)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26713",
+    "prefLabel": "Leifsonia xyli subsp. xyli",
+    "altLabels": [
+      "Clavibacter xyli ssp. xyli",
+      "Clavibacter xyli subsp. xyli",
+      "Leifsonia xyli ssp. xyli"
+    ],
+    "displayName": "Leifsonia xyli subsp. xyli (Clavibacter xyli ssp. xyli, Clavibacter xyli subsp. xyli, Leifsonia xyli ssp. xyli)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/27573",
+    "prefLabel": "lethal yellowing",
+    "altLabels": [
+      "coconut lethal yellowing"
+    ],
+    "displayName": "lethal yellowing (coconut lethal yellowing)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/141",
+    "prefLabel": "lodging resistance",
+    "altLabels": [],
+    "displayName": "lodging resistance",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/50627",
+    "prefLabel": "Lophodermium",
+    "altLabels": [],
+    "displayName": "Lophodermium",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/51389",
+    "prefLabel": "Mangifera indica",
+    "altLabels": [
+      "Mangifera austroyunnanensis",
+      "Mangifera mekongensis",
+      "Mangifera siamensis"
+    ],
+    "displayName": "Mangifera indica (Mangifera austroyunnanensis, Mangifera mekongensis, Mangifera siamensis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/126484",
+    "prefLabel": "Moniliophthora perniciosa",
+    "altLabels": [
+      "Crinipellis perniciosa",
+      "Marasmius perniciosus"
+    ],
+    "displayName": "Moniliophthora perniciosa (Crinipellis perniciosa, Marasmius perniciosus)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45182",
+    "prefLabel": "mycoherbicides",
+    "altLabels": [],
+    "displayName": "mycoherbicides",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17812",
+    "prefLabel": "Mycosphaerella fijiensis",
+    "altLabels": [
+      "Cercospora fijiensis",
+      "Cercospora fijiensis var. difformis",
+      "Mycosphaerella fijiensis var. difformis",
+      "Paracercospora fijiensis",
+      "Pseudocercospora fijiensis"
+    ],
+    "displayName": "Mycosphaerella fijiensis (Cercospora fijiensis, Cercospora fijiensis var. difformis, Mycosphaerella fijiensis var. difformis, Paracercospora fijiensis, Pseudocercospora fijiensis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/54135",
+    "prefLabel": "Mycosphaerella musicola",
+    "altLabels": [],
+    "displayName": "Mycosphaerella musicola",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/54365",
+    "prefLabel": "nastic movement",
+    "altLabels": [
+      "nyctinastic movement",
+      "nyctinasty",
+      "seismonastic movement",
+      "seismonasty",
+      "thermonastic movement",
+      "thermonasty",
+      "thigmonastic movement",
+      "thigmonasty"
+    ],
+    "displayName": "nastic movement (nyctinastic movement, nyctinasty, seismonastic movement, seismonasty, thermonastic movement, thermonasty, thigmonastic movement, thigmonasty)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/54461",
+    "prefLabel": "Nectria coccinea",
+    "altLabels": [],
+    "displayName": "Nectria coccinea",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/340356",
+    "prefLabel": "oak wilt",
+    "altLabels": [
+      "oak wilt disease"
+    ],
+    "displayName": "oak wilt (oak wilt disease)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/55875",
+    "prefLabel": "onion yellows",
+    "altLabels": [],
+    "displayName": "onion yellows",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/228473",
+    "prefLabel": "Ophiognomonia clavigignenti-juglandacearum",
+    "altLabels": [
+      "Sirococcus clavigignenti-juglandacearum"
+    ],
+    "displayName": "Ophiognomonia clavigignenti-juglandacearum (Sirococcus clavigignenti-juglandacearum)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/198745",
+    "prefLabel": "Ophiosphaerella",
+    "altLabels": [],
+    "displayName": "Ophiosphaerella",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/281632",
+    "prefLabel": "Ophiostoma novo-ulmi",
+    "altLabels": [],
+    "displayName": "Ophiostoma novo-ulmi",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/198731",
+    "prefLabel": "orange rust",
+    "altLabels": [],
+    "displayName": "orange rust",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4628",
+    "prefLabel": "organisms",
+    "altLabels": [
+      "biota"
+    ],
+    "displayName": "organisms (biota)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/22739",
+    "prefLabel": "pecans",
+    "altLabels": [],
+    "displayName": "pecans",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/37258",
+    "prefLabel": "Pectobacterium",
+    "altLabels": [],
+    "displayName": "Pectobacterium",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/214741",
+    "prefLabel": "Phaeocryptopus gaeumannii",
+    "altLabels": [],
+    "displayName": "Phaeocryptopus gaeumannii",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/57515",
+    "prefLabel": "Phytophthora",
+    "altLabels": [],
+    "displayName": "Phytophthora",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18857",
+    "prefLabel": "Phytophthora infestans",
+    "altLabels": [
+      "Botrytis infestans",
+      "Peronospora infestans",
+      "late blight",
+      "potato late blight"
+    ],
+    "displayName": "Phytophthora infestans (Botrytis infestans, Peronospora infestans, late blight, potato late blight)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.91,
+    "p_exclude": 0.09,
+    "selected_probability": 0.91,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/58156",
+    "prefLabel": "Phytophthora ramorum",
+    "altLabels": [],
+    "displayName": "Phytophthora ramorum",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1091",
+    "prefLabel": "Phytoplasma",
+    "altLabels": [
+      "Candidatus Phytoplasma",
+      "MLOs (mycoplasma-like organisms)",
+      "Mycoplasma-like organisms (MLOs)",
+      "mycoplasma-like organisms",
+      "mycoplasma-like organisms (plant pathogenic)",
+      "mycoplasmalike organisms (plant pathogenic)",
+      "plant yellows agents"
+    ],
+    "displayName": "Phytoplasma (Candidatus Phytoplasma, MLOs (mycoplasma-like organisms), Mycoplasma-like organisms (MLOs), mycoplasma-like organisms, mycoplasma-like organisms (plant pathogenic), mycoplasmalike organisms (plant pathogenic), plant yellows agents)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20266",
+    "prefLabel": "plant growth",
+    "altLabels": [
+      "growth rate (plants)"
+    ],
+    "displayName": "plant growth (growth rate (plants))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17679",
+    "prefLabel": "plant nutrition",
+    "altLabels": [
+      "diagnosis of plant nutrient status",
+      "mineral nutrition (plants)",
+      "plant analysis of nutrient status",
+      "plant macronutrients",
+      "plant nutrient status"
+    ],
+    "displayName": "plant nutrition (diagnosis of plant nutrient status, mineral nutrition (plants), plant analysis of nutrient status, plant macronutrients, plant nutrient status)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.52,
+    "p_exclude": 0.48,
+    "selected_probability": 0.52,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/57067",
+    "prefLabel": "plant pathogens",
+    "altLabels": [
+      "pathogens of plants",
+      "phytopathogens"
+    ],
+    "displayName": "plant pathogens (pathogens of plants, phytopathogens)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.61,
+    "p_exclude": 0.39,
+    "selected_probability": 0.61,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/58701",
+    "prefLabel": "Plasmodiophora brassicae",
+    "altLabels": [],
+    "displayName": "Plasmodiophora brassicae",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/234504",
+    "prefLabel": "Plenodomus biglobosus",
+    "altLabels": [
+      "Leptosphaeria biglobosa"
+    ],
+    "displayName": "Plenodomus biglobosus (Leptosphaeria biglobosa)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/49776",
+    "prefLabel": "Plenodomus lingam",
+    "altLabels": [
+      "Leptosphaeria maculans",
+      "Phoma lingam"
+    ],
+    "displayName": "Plenodomus lingam (Leptosphaeria maculans, Phoma lingam)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/58801",
+    "prefLabel": "Pleospora betae",
+    "altLabels": [
+      "Phoma betae",
+      "beet black rot fungus"
+    ],
+    "displayName": "Pleospora betae (Phoma betae, beet black rot fungus)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/58850",
+    "prefLabel": "Plum pox virus",
+    "altLabels": [
+      "PPV (Plum pox virus)",
+      "Plum pox potyvirus",
+      "Prunus virus 7",
+      "Sarka virus",
+      "Scharka-virus",
+      "Sharka disease virus",
+      "Sharka virus"
+    ],
+    "displayName": "Plum pox virus (PPV (Plum pox virus), Plum pox potyvirus, Prunus virus 7, Sarka virus, Scharka-virus, Sharka disease virus, Sharka virus)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/312908",
+    "prefLabel": "Podosphaera macularis",
+    "altLabels": [],
+    "displayName": "Podosphaera macularis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41694",
+    "prefLabel": "pods",
+    "altLabels": [],
+    "displayName": "pods",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/59404",
+    "prefLabel": "potatoes",
+    "altLabels": [],
+    "displayName": "potatoes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4405",
+    "prefLabel": "product quality",
+    "altLabels": [],
+    "displayName": "product quality",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15220",
+    "prefLabel": "Pseudomonas",
+    "altLabels": [
+      "Liquidomonas",
+      "Loefflerella",
+      "fluorescent pseudomonads"
+    ],
+    "displayName": "Pseudomonas (Liquidomonas, Loefflerella, fluorescent pseudomonads)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/60304",
+    "prefLabel": "Pseudomonas syringae pv. savastanoi",
+    "altLabels": [
+      "Pseudomonas savastanoi",
+      "Pseudomonas savastanoi pv. savastanoi"
+    ],
+    "displayName": "Pseudomonas syringae pv. savastanoi (Pseudomonas savastanoi, Pseudomonas savastanoi pv. savastanoi)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/60202",
+    "prefLabel": "Pseudomonas syringae pv. tabaci",
+    "altLabels": [
+      "Pseudomonas angulata"
+    ],
+    "displayName": "Pseudomonas syringae pv. tabaci (Pseudomonas angulata)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/337007",
+    "prefLabel": "Pseudonectria buxi",
+    "altLabels": [
+      "Chaetostroma buxi",
+      "Tubercularia buxi",
+      "Volutella buxi"
+    ],
+    "displayName": "Pseudonectria buxi (Chaetostroma buxi, Tubercularia buxi, Volutella buxi)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34433",
+    "prefLabel": "Pseudotsuga menziesii",
+    "altLabels": [
+      "Douglas fir",
+      "Pseudotsuga caesia",
+      "Pseudotsuga flahaultii",
+      "Pseudotsuga glauca"
+    ],
+    "displayName": "Pseudotsuga menziesii (Douglas fir, Pseudotsuga caesia, Pseudotsuga flahaultii, Pseudotsuga glauca)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/60498",
+    "prefLabel": "Puccinia recondita",
+    "altLabels": [
+      "Puccinia dispersa",
+      "Puccinia recondita f. sp. tritici",
+      "Puccinia rubigo-vera",
+      "Puccinia sardonensis",
+      "Puccinia triticina"
+    ],
+    "displayName": "Puccinia recondita (Puccinia dispersa, Puccinia recondita f. sp. tritici, Puccinia rubigo-vera, Puccinia sardonensis, Puccinia triticina)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4446",
+    "prefLabel": "Pucciniales",
+    "altLabels": [
+      "Uredinales"
+    ],
+    "displayName": "Pucciniales (Uredinales)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41782",
+    "prefLabel": "pycnidia",
+    "altLabels": [
+      "pycnidium"
+    ],
+    "displayName": "pycnidia (pycnidium)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/60624",
+    "prefLabel": "Pyrenophora teres",
+    "altLabels": [],
+    "displayName": "Pyrenophora teres",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/39335",
+    "prefLabel": "Quercus",
+    "altLabels": [
+      "Cyclobalanopsis",
+      "oaks",
+      "turkey oaks"
+    ],
+    "displayName": "Quercus (Cyclobalanopsis, oaks, turkey oaks)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/212514",
+    "prefLabel": "Raffaelea",
+    "altLabels": [],
+    "displayName": "Raffaelea",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/328473",
+    "prefLabel": "rhizome rot",
+    "altLabels": [],
+    "displayName": "rhizome rot",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/323686",
+    "prefLabel": "rice false smut",
+    "altLabels": [],
+    "displayName": "rice false smut",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42221",
+    "prefLabel": "root galls",
+    "altLabels": [],
+    "displayName": "root galls",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4425",
+    "prefLabel": "roots",
+    "altLabels": [
+      "plant roots"
+    ],
+    "displayName": "roots (plant roots)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1732",
+    "prefLabel": "salt stress",
+    "altLabels": [
+      "saline stress",
+      "salinity stress"
+    ],
+    "displayName": "salt stress (saline stress, salinity stress)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.63,
+    "p_exclude": 0.37,
+    "selected_probability": 0.63,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15089",
+    "prefLabel": "seed-borne bacteria",
+    "altLabels": [
+      "seedborne bacteria"
+    ],
+    "displayName": "seed-borne bacteria (seedborne bacteria)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.8,
+    "p_exclude": 0.2,
+    "selected_probability": 0.8,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/37057",
+    "prefLabel": "seed-borne fungi",
+    "altLabels": [
+      "seed-borne fungus",
+      "seedborne fungi"
+    ],
+    "displayName": "seed-borne fungi (seed-borne fungus, seedborne fungi)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20440",
+    "prefLabel": "seeds",
+    "altLabels": [
+      "kernels"
+    ],
+    "displayName": "seeds (kernels)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/92833",
+    "prefLabel": "soybean rust",
+    "altLabels": [
+      "soyabean rust"
+    ],
+    "displayName": "soybean rust (soyabean rust)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18245",
+    "prefLabel": "stain fungi",
+    "altLabels": [
+      "stain fungus"
+    ],
+    "displayName": "stain fungi (stain fungus)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.52,
+    "p_exclude": 0.48,
+    "selected_probability": 0.52,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/21882",
+    "prefLabel": "stem cankers",
+    "altLabels": [],
+    "displayName": "stem cankers",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42222",
+    "prefLabel": "stem galls",
+    "altLabels": [
+      "twig galls"
+    ],
+    "displayName": "stem galls (twig galls)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/189055",
+    "prefLabel": "stem rust",
+    "altLabels": [],
+    "displayName": "stem rust",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/64225",
+    "prefLabel": "storage temperature",
+    "altLabels": [],
+    "displayName": "storage temperature",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/146600",
+    "prefLabel": "stress response",
+    "altLabels": [
+      "response to stress"
+    ],
+    "displayName": "stress response (response to stress)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/210908",
+    "prefLabel": "stripe rust",
+    "altLabels": [
+      "yellow rust",
+      "yellow-rust"
+    ],
+    "displayName": "stripe rust (yellow rust, yellow-rust)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/58628",
+    "prefLabel": "stumps",
+    "altLabels": [
+      "stump wood",
+      "stumpwood",
+      "tree stumps"
+    ],
+    "displayName": "stumps (stump wood, stumpwood, tree stumps)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/312566",
+    "prefLabel": "sugarcane rust",
+    "altLabels": [],
+    "displayName": "sugarcane rust",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47647",
+    "prefLabel": "sweet potatoes",
+    "altLabels": [
+      "sweetpotatoes"
+    ],
+    "displayName": "sweet potatoes (sweetpotatoes)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26552",
+    "prefLabel": "tangerines",
+    "altLabels": [],
+    "displayName": "tangerines",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/311283",
+    "prefLabel": "Texas Phoenix palm decline",
+    "altLabels": [
+      "Texas Phoenix decline"
+    ],
+    "displayName": "Texas Phoenix palm decline (Texas Phoenix decline)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/54612",
+    "prefLabel": "Tilletia indica",
+    "altLabels": [
+      "Neovossia indica"
+    ],
+    "displayName": "Tilletia indica (Neovossia indica)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/331426",
+    "prefLabel": "tomato bacterial speck",
+    "altLabels": [
+      "bacterial speck of tomato",
+      "tomato speck disease"
+    ],
+    "displayName": "tomato bacterial speck (bacterial speck of tomato, tomato speck disease)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/31674",
+    "prefLabel": "trampling damage",
+    "altLabels": [],
+    "displayName": "trampling damage",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14074",
+    "prefLabel": "tropisms",
+    "altLabels": [],
+    "displayName": "tropisms",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68414",
+    "prefLabel": "urban horticulture",
+    "altLabels": [],
+    "displayName": "urban horticulture",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/212103",
+    "prefLabel": "Ustilaginoidea virens",
+    "altLabels": [
+      "Claviceps oryzae-sativae",
+      "Claviceps virens",
+      "Sphacelotheca virens",
+      "Tilletia oryzae",
+      "Ustilaginoidea albicans",
+      "Ustilago virens",
+      "Villosiclava virens"
+    ],
+    "displayName": "Ustilaginoidea virens (Claviceps oryzae-sativae, Claviceps virens, Sphacelotheca virens, Tilletia oryzae, Ustilaginoidea albicans, Ustilago virens, Villosiclava virens)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11295",
+    "prefLabel": "Venturia inaequalis",
+    "altLabels": [
+      "Fusicladium pomi"
+    ],
+    "displayName": "Venturia inaequalis (Fusicladium pomi)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/41814",
+    "prefLabel": "Verticillium wilt",
+    "altLabels": [],
+    "displayName": "Verticillium wilt",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/33355",
+    "prefLabel": "water deprivation",
+    "altLabels": [],
+    "displayName": "water deprivation",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.16,
+    "p_exclude": 0.84,
+    "selected_probability": 0.84,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 9,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15212",
+    "prefLabel": "wetwood",
+    "altLabels": [
+      "wet wood"
+    ],
+    "displayName": "wetwood (wet wood)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 10,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/39377",
+    "prefLabel": "wheat",
+    "altLabels": [
+      "bread wheat"
+    ],
+    "displayName": "wheat (bread wheat)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 10,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/144670",
+    "prefLabel": "windthrow",
+    "altLabels": [
+      "wind throw",
+      "windfall",
+      "windsnap"
+    ],
+    "displayName": "windthrow (wind throw, windfall, windsnap)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.74,
+    "p_exclude": 0.26,
+    "selected_probability": 0.74,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 10,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/193011",
+    "prefLabel": "winterkill",
+    "altLabels": [],
+    "displayName": "winterkill",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.91,
+    "p_exclude": 0.09,
+    "selected_probability": 0.91,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 10,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26573",
+    "prefLabel": "Xylella fastidiosa",
+    "altLabels": [],
+    "displayName": "Xylella fastidiosa",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 10,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q35127",
+  "seed_label": "website",
+  "included_qids": [
+    "Q11288",
+    "Q18287040",
+    "Q21283449",
+    "Q3480046",
+    "Q35127"
+  ],
+  "pruned_qids": [
+    "Q3900494",
+    "Q6008645"
+  ],
+  "visited_qids": [
+    "Q11288",
+    "Q18287040",
+    "Q21283449",
+    "Q3480046",
+    "Q35127",
+    "Q3900494",
+    "Q6008645"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 3,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:45.579506+00:00",
+  "finished_at_utc": "2026-10-28T17:24:46.603249+00:00",
+  "wall_seconds": 1.0237536999920849,
+  "frontier_exhausted": true
+}

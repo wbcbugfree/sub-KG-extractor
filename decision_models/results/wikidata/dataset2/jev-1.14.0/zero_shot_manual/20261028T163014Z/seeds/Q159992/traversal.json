@@ -1,0 +1,62 @@
+{
+  "seed_qid": "Q159992",
+  "seed_label": "surfing",
+  "included_qids": [
+    "Q14085739",
+    "Q1434370",
+    "Q159992",
+    "Q178131",
+    "Q2533407",
+    "Q31629",
+    "Q60967807",
+    "Q61065",
+    "Q842284",
+    "Q842595",
+    "Q911069"
+  ],
+  "pruned_qids": [
+    "Q159354",
+    "Q2369170",
+    "Q31920",
+    "Q7735"
+  ],
+  "visited_qids": [
+    "Q14085739",
+    "Q1434370",
+    "Q159354",
+    "Q159992",
+    "Q178131",
+    "Q2369170",
+    "Q2533407",
+    "Q31629",
+    "Q31920",
+    "Q60967807",
+    "Q61065",
+    "Q7735",
+    "Q842284",
+    "Q842595",
+    "Q911069"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 5,
+      "included": 5,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 5,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:20.428206+00:00",
+  "finished_at_utc": "2026-10-28T16:30:21.115214+00:00",
+  "wall_seconds": 0.6870150999966427,
+  "frontier_exhausted": true
+}

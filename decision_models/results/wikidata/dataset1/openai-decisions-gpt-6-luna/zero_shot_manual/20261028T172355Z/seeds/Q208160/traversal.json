@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q208160",
+  "seed_label": "courage",
+  "included_qids": [
+    "Q1144825",
+    "Q1549811",
+    "Q157811",
+    "Q208160",
+    "Q21168708",
+    "Q904802"
+  ],
+  "pruned_qids": [
+    "Q10391780",
+    "Q1147007",
+    "Q2974906"
+  ],
+  "visited_qids": [
+    "Q10391780",
+    "Q1144825",
+    "Q1147007",
+    "Q1549811",
+    "Q157811",
+    "Q208160",
+    "Q21168708",
+    "Q2974906",
+    "Q904802"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 7,
+      "included": 4,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:28.028857+00:00",
+  "finished_at_utc": "2026-10-28T17:24:28.881571+00:00",
+  "wall_seconds": 0.8527172999893082,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,528 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2721",
+    "prefLabel": "acid treatment",
+    "altLabels": [],
+    "displayName": "acid treatment",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6413",
+    "prefLabel": "alkali treatment",
+    "altLabels": [
+      "alkali pretreatment"
+    ],
+    "displayName": "alkali treatment (alkali pretreatment)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.34,
+    "p_exclude": 0.66,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15096",
+    "prefLabel": "bacteriology",
+    "altLabels": [],
+    "displayName": "bacteriology",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9042",
+    "prefLabel": "byproducts",
+    "altLabels": [
+      "by-products"
+    ],
+    "displayName": "byproducts (by-products)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24649",
+    "prefLabel": "chemical pulp",
+    "altLabels": [],
+    "displayName": "chemical pulp",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17522",
+    "prefLabel": "dewatered biosolids",
+    "altLabels": [],
+    "displayName": "dewatered biosolids",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.46,
+    "p_exclude": 0.54,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17523",
+    "prefLabel": "dried biosolids",
+    "altLabels": [],
+    "displayName": "dried biosolids",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.37,
+    "p_exclude": 0.63,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/67",
+    "prefLabel": "hydrology",
+    "altLabels": [
+      "hydrography"
+    ],
+    "displayName": "hydrology (hydrography)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/225068",
+    "prefLabel": "infiltration rate",
+    "altLabels": [],
+    "displayName": "infiltration rate",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.53,
+    "p_exclude": 0.47,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47237",
+    "prefLabel": "infiltrometers",
+    "altLabels": [],
+    "displayName": "infiltrometers",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.34,
+    "p_exclude": 0.66,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9550",
+    "prefLabel": "laboratory techniques",
+    "altLabels": [
+      "laboratory methods",
+      "laboratory procedures"
+    ],
+    "displayName": "laboratory techniques (laboratory methods, laboratory procedures)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17524",
+    "prefLabel": "liquid biosolids",
+    "altLabels": [],
+    "displayName": "liquid biosolids",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/52246",
+    "prefLabel": "metam",
+    "altLabels": [
+      "carbathione",
+      "iron methyldithiocarbamate",
+      "metam-sodium",
+      "metham",
+      "metham-sodium",
+      "methylcarbamodithioic acid",
+      "methyldithiocarbamate",
+      "methyldithiocarbamic acid",
+      "sodium methyldithiocarbamate",
+      "vapam"
+    ],
+    "displayName": "metam (carbathione, iron methyldithiocarbamate, metam-sodium, metham, metham-sodium, methylcarbamodithioic acid, methyldithiocarbamate, methyldithiocarbamic acid, sodium methyldithiocarbamate, vapam)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/283948",
+    "prefLabel": "microbial culture",
+    "altLabels": [
+      "microbial culture techniques"
+    ],
+    "displayName": "microbial culture (microbial culture techniques)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/214214",
+    "prefLabel": "most probable number technique",
+    "altLabels": [],
+    "displayName": "most probable number technique",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2770",
+    "prefLabel": "processing technology",
+    "altLabels": [
+      "industrial processing",
+      "process technology",
+      "processing methods"
+    ],
+    "displayName": "processing technology (industrial processing, process technology, processing methods)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/223746",
+    "prefLabel": "recalcitrant species",
+    "altLabels": [
+      "recalcitrant plants"
+    ],
+    "displayName": "recalcitrant species (recalcitrant plants)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/37668",
+    "prefLabel": "Richards' equation",
+    "altLabels": [],
+    "displayName": "Richards' equation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/62344",
+    "prefLabel": "sand stabilization",
+    "altLabels": [
+      "sand stabilisation"
+    ],
+    "displayName": "sand stabilization (sand stabilisation)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.31,
+    "p_exclude": 0.69,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4930",
+    "prefLabel": "seed germination",
+    "altLabels": [],
+    "displayName": "seed germination",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/146186",
+    "prefLabel": "sludge",
+    "altLabels": [],
+    "displayName": "sludge",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/192",
+    "prefLabel": "solids",
+    "altLabels": [],
+    "displayName": "solids",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2724",
+    "prefLabel": "wastewater",
+    "altLabels": [
+      "waste water"
+    ],
+    "displayName": "wastewater (waste water)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 8,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

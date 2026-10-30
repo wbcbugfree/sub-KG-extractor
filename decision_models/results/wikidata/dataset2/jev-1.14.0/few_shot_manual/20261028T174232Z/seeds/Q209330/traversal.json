@@ -1,0 +1,37 @@
+{
+  "seed_qid": "Q209330",
+  "seed_label": "Instagram",
+  "included_qids": [
+    "Q209330",
+    "Q2721136",
+    "Q3220391",
+    "Q35127",
+    "Q620615"
+  ],
+  "pruned_qids": [
+    "Q559856"
+  ],
+  "visited_qids": [
+    "Q209330",
+    "Q2721136",
+    "Q3220391",
+    "Q35127",
+    "Q559856",
+    "Q620615"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 5,
+      "included": 4,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:42:41.888556+00:00",
+  "finished_at_utc": "2026-10-28T17:42:42.270517+00:00",
+  "wall_seconds": 0.3819634999963455,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q1481411",
+  "seed_label": "IT service management",
+  "included_qids": [
+    "Q1047113",
+    "Q1481411",
+    "Q21157865",
+    "Q268592",
+    "Q682496"
+  ],
+  "pruned_qids": [
+    "Q110373958",
+    "Q112046",
+    "Q134995",
+    "Q1553237",
+    "Q1879301",
+    "Q28640",
+    "Q60031086"
+  ],
+  "visited_qids": [
+    "Q1047113",
+    "Q110373958",
+    "Q112046",
+    "Q134995",
+    "Q1481411",
+    "Q1553237",
+    "Q1879301",
+    "Q21157865",
+    "Q268592",
+    "Q28640",
+    "Q60031086",
+    "Q682496"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 2,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:09.849524+00:00",
+  "finished_at_utc": "2026-10-28T17:24:10.577263+00:00",
+  "wall_seconds": 0.7277425000065705,
+  "frontier_exhausted": true
+}

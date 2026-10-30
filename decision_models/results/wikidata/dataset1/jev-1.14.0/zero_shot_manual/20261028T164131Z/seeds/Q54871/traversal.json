@@ -1,0 +1,31 @@
+{
+  "seed_qid": "Q54871",
+  "seed_label": "SPARQL",
+  "included_qids": [
+    "Q54871",
+    "Q6138701"
+  ],
+  "pruned_qids": [
+    "Q132364"
+  ],
+  "visited_qids": [
+    "Q132364",
+    "Q54871",
+    "Q6138701"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:17.551662+00:00",
+  "finished_at_utc": "2026-10-28T16:42:17.865764+00:00",
+  "wall_seconds": 0.31410499999765307,
+  "frontier_exhausted": true
+}

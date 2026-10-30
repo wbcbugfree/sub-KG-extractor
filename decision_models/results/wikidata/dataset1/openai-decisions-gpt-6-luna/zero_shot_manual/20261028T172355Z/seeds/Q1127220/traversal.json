@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q1127220",
+  "seed_label": "Conseil supérieur de l'audiovisuel",
+  "included_qids": [
+    "Q1127220",
+    "Q18558685"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1127220",
+    "Q18558685"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:01.231440+00:00",
+  "finished_at_utc": "2026-10-28T17:24:01.564215+00:00",
+  "wall_seconds": 0.33277710000402294,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4012",
+    "legacy_row_id": "Q1505049|Q7142872",
+    "seed_qid": "Q1505049",
+    "seed_label": "S/MIME",
+    "qid": "Q7142872",
+    "label": "password-authenticated key agreement",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q3306713",
+    "parent_label": "key-agreement protocol",
+    "path": "S/MIME --instance of--> cryptographic protocol --has subclass--> key-agreement protocol --has subclass--> password-authenticated key agreement",
+    "uri": "http://www.wikidata.org/entity/Q7142872",
+    "classification": "INCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.72,
+    "p_exclude": 0.28,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "seed_qid": "Q11660",
+  "seed_label": "artificial intelligence",
+  "included_qids": [
+    "Q11660",
+    "Q11862829",
+    "Q55693872",
+    "Q64811550",
+    "Q64812921",
+    "Q8148"
+  ],
+  "pruned_qids": [
+    "Q106371273",
+    "Q184784",
+    "Q1979901",
+    "Q2001056",
+    "Q2140665",
+    "Q5358497",
+    "Q555097",
+    "Q57204579",
+    "Q57261084",
+    "Q60310061",
+    "Q6168352",
+    "Q65054879"
+  ],
+  "visited_qids": [
+    "Q106371273",
+    "Q11660",
+    "Q11862829",
+    "Q184784",
+    "Q1979901",
+    "Q2001056",
+    "Q2140665",
+    "Q5358497",
+    "Q555097",
+    "Q55693872",
+    "Q57204579",
+    "Q57261084",
+    "Q60310061",
+    "Q6168352",
+    "Q64811550",
+    "Q64812921",
+    "Q65054879",
+    "Q8148"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 15,
+      "included": 3,
+      "excluded": 12,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:08.220576+00:00",
+  "finished_at_utc": "2026-10-28T17:45:09.209447+00:00",
+  "wall_seconds": 0.9888719000009587,
+  "frontier_exhausted": true
+}

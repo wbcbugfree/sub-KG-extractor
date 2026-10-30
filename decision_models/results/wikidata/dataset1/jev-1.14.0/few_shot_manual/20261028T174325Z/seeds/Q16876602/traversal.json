@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q16876602",
+  "seed_label": "Cloud Security Alliance",
+  "included_qids": [
+    "Q163740",
+    "Q16876602"
+  ],
+  "pruned_qids": [
+    "Q113603",
+    "Q17635403",
+    "Q2396296",
+    "Q3917196",
+    "Q4671329",
+    "Q4998806",
+    "Q7311343"
+  ],
+  "visited_qids": [
+    "Q113603",
+    "Q163740",
+    "Q16876602",
+    "Q17635403",
+    "Q2396296",
+    "Q3917196",
+    "Q4671329",
+    "Q4998806",
+    "Q7311343"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 7,
+      "included": 0,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:42.036512+00:00",
+  "finished_at_utc": "2026-10-28T17:43:42.798244+00:00",
+  "wall_seconds": 0.7617479000036838,
+  "frontier_exhausted": true
+}

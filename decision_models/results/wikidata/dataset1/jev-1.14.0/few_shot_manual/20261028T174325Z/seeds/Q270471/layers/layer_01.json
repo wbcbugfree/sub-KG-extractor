@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2544",
+    "legacy_row_id": "Q270471|Q11016",
+    "seed_qid": "Q270471",
+    "seed_label": "virtualization",
+    "qid": "Q11016",
+    "label": "technology",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q270471",
+    "parent_label": "virtualization",
+    "path": "virtualization --instance of--> technology",
+    "uri": "http://www.wikidata.org/entity/Q11016",
+    "classification": "INCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.6,
+    "p_exclude": 0.4,
+    "selected_probability": 0.6,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

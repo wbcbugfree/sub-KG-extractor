@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q17005322",
+  "seed_label": "base transceiver station",
+  "included_qids": [
+    "Q17005322",
+    "Q954187"
+  ],
+  "pruned_qids": [
+    "Q30119958",
+    "Q770588"
+  ],
+  "visited_qids": [
+    "Q17005322",
+    "Q30119958",
+    "Q770588",
+    "Q954187"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 0,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:42.112709+00:00",
+  "finished_at_utc": "2026-10-28T17:43:42.973951+00:00",
+  "wall_seconds": 0.8612389000045368,
+  "frontier_exhausted": true
+}

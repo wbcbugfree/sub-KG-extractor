@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3393",
+    "legacy_row_id": "Q15587490|Q4164871",
+    "seed_qid": "Q15587490",
+    "seed_label": "construction client",
+    "qid": "Q4164871",
+    "label": "position",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q15587490",
+    "parent_label": "construction client",
+    "path": "construction client --instance of--> position",
+    "uri": "http://www.wikidata.org/entity/Q4164871",
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

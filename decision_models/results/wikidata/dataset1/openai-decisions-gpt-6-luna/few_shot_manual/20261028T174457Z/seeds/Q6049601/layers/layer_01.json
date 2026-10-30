@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2836",
+    "legacy_row_id": "Q6049601|Q2020153",
+    "seed_qid": "Q6049601",
+    "seed_label": "International Conference on Computer Communications",
+    "qid": "Q2020153",
+    "label": "academic conference",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q6049601",
+    "parent_label": "International Conference on Computer Communications",
+    "path": "International Conference on Computer Communications --instance of--> academic conference",
+    "uri": "http://www.wikidata.org/entity/Q2020153",
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

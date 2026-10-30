@@ -1,0 +1,68 @@
+{
+  "seed_qid": "Q1505049",
+  "seed_label": "S/MIME",
+  "included_qids": [
+    "Q1254335",
+    "Q1505049",
+    "Q2141493",
+    "Q23891373"
+  ],
+  "pruned_qids": [
+    "Q1092688",
+    "Q12237265",
+    "Q1414155",
+    "Q15836568",
+    "Q16934823",
+    "Q17074885",
+    "Q191943",
+    "Q206494",
+    "Q272165",
+    "Q3306713",
+    "Q4825885",
+    "Q7551852",
+    "Q908608",
+    "Q9326126"
+  ],
+  "visited_qids": [
+    "Q1092688",
+    "Q12237265",
+    "Q1254335",
+    "Q1414155",
+    "Q1505049",
+    "Q15836568",
+    "Q16934823",
+    "Q17074885",
+    "Q191943",
+    "Q206494",
+    "Q2141493",
+    "Q23891373",
+    "Q272165",
+    "Q3306713",
+    "Q4825885",
+    "Q7551852",
+    "Q908608",
+    "Q9326126"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 15,
+      "included": 2,
+      "excluded": 13,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:43.260144+00:00",
+  "finished_at_utc": "2026-10-28T16:41:44.010031+00:00",
+  "wall_seconds": 0.7498879000049783,
+  "frontier_exhausted": true
+}

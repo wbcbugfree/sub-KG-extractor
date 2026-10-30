@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q191018",
+  "seed_label": "Session Initiation Protocol",
+  "included_qids": [
+    "Q191018",
+    "Q203087"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q191018",
+    "Q203087"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:51.723907+00:00",
+  "finished_at_utc": "2026-10-28T16:41:52.008901+00:00",
+  "wall_seconds": 0.2849860000133049,
+  "frontier_exhausted": true
+}

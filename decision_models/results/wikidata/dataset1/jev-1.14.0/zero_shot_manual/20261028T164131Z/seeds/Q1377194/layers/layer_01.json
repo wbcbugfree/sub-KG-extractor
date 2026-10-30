@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3122",
+    "legacy_row_id": "Q1377194|Q392918",
+    "seed_qid": "Q1377194",
+    "seed_label": "European Union Agency for Cybersecurity",
+    "qid": "Q392918",
+    "label": "European Union agency",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1377194",
+    "parent_label": "European Union Agency for Cybersecurity",
+    "path": "European Union Agency for Cybersecurity --instance of--> European Union agency",
+    "uri": "http://www.wikidata.org/entity/Q392918",
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

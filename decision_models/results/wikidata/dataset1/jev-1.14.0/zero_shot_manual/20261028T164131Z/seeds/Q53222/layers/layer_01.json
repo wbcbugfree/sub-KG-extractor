@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row433",
+    "legacy_row_id": "Q53222|Q163740",
+    "seed_qid": "Q53222",
+    "seed_label": "Digital Living Network Alliance",
+    "qid": "Q163740",
+    "label": "nonprofit organization",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q53222",
+    "parent_label": "Digital Living Network Alliance",
+    "path": "Digital Living Network Alliance --instance of--> nonprofit organization",
+    "uri": "http://www.wikidata.org/entity/Q163740",
+    "classification": "INCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.71,
+    "p_exclude": 0.29,
+    "selected_probability": 0.71,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

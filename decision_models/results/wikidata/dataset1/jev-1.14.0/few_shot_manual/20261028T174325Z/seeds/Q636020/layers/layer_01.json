@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row5178",
+    "legacy_row_id": "Q636020|Q170584",
+    "seed_qid": "Q636020",
+    "seed_label": "Web Accessibility Initiative",
+    "qid": "Q170584",
+    "label": "project",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q636020",
+    "parent_label": "Web Accessibility Initiative",
+    "path": "Web Accessibility Initiative --instance of--> project",
+    "uri": "http://www.wikidata.org/entity/Q170584",
+    "classification": "INCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,1668 @@
+uri,prefLabel,gold_include,visited,final_classification,model_classification,decision_source,p_include,p_exclude
+https://lod.nal.usda.gov/nalt/1001,technology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/10053,fungal diseases of plants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10142,anti-infective properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/10180,resistance mechanisms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/10186,antibiotics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/10190,bambermycin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10191,beta-lactam antibiotics,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10192,blasticidin S,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/10196,citrinin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10198,cycloserine,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10202,lincomycin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10203,narasin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10204,nigericin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10205,novobiocin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10206,peptide antibiotics,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10208,rifamycins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10210,tetracyclines,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10212,tunicamycin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10213,validamycins,False,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/10216,protein synthesis inhibitors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10240,bioactive properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/10260,anticoagulants,False,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/10261,anticoagulant activity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/10265,heparin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/10266,warfarin,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/10267,coumarins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/10298,metoclopramide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10302,control methods,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/10315,clotrimazole,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/10316,cordycepin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/10317,cycloheximide,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/10318,fluconazole,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/10319,flucytosine,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/10320,itraconazole,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/10321,ketoconazole,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/10322,microazole,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/10323,monensin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/10324,natamycin,False,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/10325,nystatin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/10326,oligomycin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/10327,phenylmercury nitrate,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/10328,antifungal proteins,False,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/10329,propionic acid,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/10331,antifungal properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/10414,antimalarials,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10425,carbadox,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10482,food safety,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10497,carbaryl,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/10507,flubendazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10523,pyrazoles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/105332,ant control,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/10555,antitussive agents,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10557,guaiacol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10558,guaifenesin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/106,birds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/10664,Siphonaptera,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/107,biological properties and phenomena,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/11319,application parameters,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/11322,application timing,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/11323,application technology,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/11330,spraying equipment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/11334,band placement,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/11335,chemigation,False,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/11336,dipping,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/11337,drilling,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/11338,dusting,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/11339,foliar application,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/11340,injection,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/11341,inoculation methods,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/11342,land application,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/11343,soil treatment,False,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/11344,spraying,False,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/11347,variable rate application,False,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/11350,application volume,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/11353,spray drift,False,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/11356,calibration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/11357,fertilizer application,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/11359,preharvest treatment,False,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/11363,spray volume,False,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/114,biological resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/11527,aquatic weeds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/1154,DDT (pesticide),True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/1161,DBCP (pesticide),True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/1163,DCB (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/1165,ethylene dichloride,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/1167,organochlorine compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/1182,"1,3-dichloropropene",True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/11820,occupations,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/1200,CPMF (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/1203,BCPC (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/1222,alcohols,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12289,aromatic acid herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/12290,chloramben,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/12291,dicamba,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/12292,picloram,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/12293,pyrithiobac,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/12294,quinclorac,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/12295,quinmerac,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/123036,trifloxysulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/12306,biphenyl,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/123096,metaflumizone,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/12311,polycyclic aromatic hydrocarbons,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/123142,herbicide safeners,False,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/12364,arsenates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12365,inorganic salts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12366,calcium arsenate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12367,chromated copper arsenate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12368,copper arsenate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12369,lead arsenate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12374,arsenical herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/12375,cacodylic acid,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/12376,DSMA (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/12377,MSMA (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/124298,propaquizafop,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/124369,dimexano,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/124375,EXD (herbicide),True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/124397,sodium monochloroacetate,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/124408,flupyrsulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/125010,amicarbazone,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/125011,dimethenamid,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/125012,flucarbazone,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/125013,flupoxam,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/125014,flufenacet,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/125015,sulfonanilide herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/125016,florasulam,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/125017,sulfonamide herbicides,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/125096,benzoylcyclohexanedione herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/125097,sulcotrione,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/125098,tefuryltrione,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/125099,tembotrione,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/125100,benzofuranyl alkylsulfonate herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/125101,benfuresate,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/125102,carbamate herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/125104,cyclopropylisoxazole herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/125105,isoxachlortole,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/125106,dicarboximide herbicides,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/125107,flumezin,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/125108,flumipropyn,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/125109,dinitrophenol herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/125110,dinofenate,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/125111,dinoprop,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/125112,etinofen,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/125113,medinoterb,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/125114,diphenyl ether herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/125115,nitrophenyl ether herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/125116,ethoxyfen,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/125117,pyrazole herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/125118,dithiocarbamate herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/125119,halogenated aliphatic herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/125120,alorac,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/125121,flupropanate,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/125122,hexachloroacetone,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/125123,methyl iodide,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/125124,monochloroacetic acid,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/125125,inorganic herbicides,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/125126,bromobonil,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/125127,chloroxynil,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/125128,iodobonil,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/125129,pyraclonil,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/125130,anilofos,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/125131,oxadiazolone herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/125132,dimefuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/125133,oxazole herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/125134,carboxazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/125135,monoisouron,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/125136,pyroxasulfone,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/125137,topramezone,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/125138,phenoxy herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/125139,clomeprop,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/125140,trifopsime,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/125141,phenoxyacetic herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/125142,phenoxybutyric herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/125143,phenoxypropionic herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/125144,aryloxyphenoxypropionic acid herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/125145,phenylenediamine herbicides,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/125146,pyridazine herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/125147,quaternary ammonium herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/125148,thiocarbamate herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/125149,thiocarbonate herbicides,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/125150,triazolone herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/125151,triazolopyrimidine herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/125152,uracil herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/125153,benzfendizone,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/125154,oxasulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/125155,thiadiazolylurea herbicides,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/12544,lice,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/12578,defoliation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/127298,"Farms, Agricultural Production Systems",False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/127349,animal control services,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/12898,reproduction,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/13049,mycoses,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/13061,Aspergillus fumigatus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/131672,acrinathrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/132,drug resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/132371,clothianidin,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/132372,neonicotinoid insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/132373,flonicamid,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/132374,dinotefuran,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/132375,nithiazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/132376,thiacloprid,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/133,pesticide resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/133093,pesticide selectivity,False,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/1334,dichloralurea,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/1335,"2,2,3-TPA",True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/1341,"2,3,6-TBA",True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/1343,"2,4,5-T",True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/1346,"2,4,5-TB",True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/1349,"2,4,5-trichlorophenol",True,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/134917,industrial crops,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/135,acid tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/1350,chlorophenols,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1353,"2,4-D",True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/13543,asulam,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/135573,diphacinone,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/1356,"2,4-DB",True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/1359,"2,4-DEB",True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/136,cold tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/1361,"2,4-DEP",True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/136225,mite infestations,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/136478,exposure assessment,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1365,phenols,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136610,environmental exposure,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136780,aerial spraying,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/1368,butylamine,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/137,drought tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/137054,airborne transmission,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/137056,detection limit,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/13716,atraton,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/1374,CPPC (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/137447,notifiable disease,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/137596,analytical specificity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1376,CDEA (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/1378,sulfallate,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/13781,insect attractants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/13783,sex attractants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/1380,CEPC (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/138171,lasalocid,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/139,flooding tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/1394,DNOC (pesticide),True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/140,heat tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/14021,automatic detection,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14070,plant growth substances,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/141,lodging resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/14126,lactones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14127,doramectin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14128,eprinomectin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14129,ivermectin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14130,selamectin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/142,metal tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/14208,chloralose,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/14209,endrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/14210,fenthion,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/142425,serological surveys,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/142441,disease surveys,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/142695,biological weed control,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/1427,"3,4-DA",True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/142739,pesticide application equipment,False,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/142745,aquatic weed control,False,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/14292,azafenidin,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/14298,azamethiphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/14299,organothiophosphate insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/143,osmotolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/1430,"3,4-DB",True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/14306,sodium azide,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14307,azimsulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/14312,azinphos-ethyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/14313,azinphos-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/14327,azocyclotin,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/14328,organotin compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/14329,azoles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/14330,conazole fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/14331,triazoles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/1434,propanil,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/143674,split application,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/144,radiation resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/1440,clopyralid,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/14481,Bacillus (bacteria),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/145,salt tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/1456,monocarboxylic acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/14569,Bacillus sphaericus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/146,shade tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/14615,Erwinia amylovora,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/147,wind resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/1471,MCPB (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/1473,4-chlorophenoxy butyric acid,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/1475,4-aminopyridine,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/1476,monoamines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/1477,pyridines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/1479,MCPA (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/1481,4-CPA,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/1484,4-CPP,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/148552,biocides,False,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/148694,aminoglycoside antibiotics,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/148765,candicidin,False,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/148766,filipin,False,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/148787,mycobacillin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/149,epidemiology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/14943,Bacillus thuringiensis subsp. aizawai,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14944,Bacillus thuringiensis subsp. alesti,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14945,Bacillus thuringiensis subsp. berliner,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14946,Bacillus thuringiensis subsp. dakota,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14947,Bacillus thuringiensis subsp. darmstadiensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14948,Bacillus thuringiensis subsp. entomocidus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14949,Bacillus thuringiensis subsp. finitimus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14950,Bacillus thuringiensis subsp. fukuokaensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14951,Bacillus thuringiensis subsp. galleriae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14952,Bacillus thuringiensis subsp. higo,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14953,Bacillus thuringiensis subsp. israelensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14954,Bacillus thuringiensis subsp. japonensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14955,Bacillus thuringiensis subsp. jegathesan,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14956,Bacillus thuringiensis subsp. kenyae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14957,Bacillus thuringiensis subsp. kumamotoensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14958,Bacillus thuringiensis subsp. kunthalanags3,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14959,Bacillus thuringiensis subsp. kunthalaRX24,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14960,Bacillus thuringiensis subsp. kunthalaRX27,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14961,Bacillus thuringiensis subsp. kunthalaRX28,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14962,Bacillus thuringiensis subsp. kurstaki,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14963,Bacillus thuringiensis subsp. kynshuensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14964,Bacillus thuringiensis subsp. medellin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14965,Bacillus thuringiensis subsp. morrisoni,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14966,Bacillus thuringiensis subsp. neoleoensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14967,Bacillus thuringiensis subsp. san-diego,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14968,Bacillus thuringiensis subsp. sotto,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14969,Bacillus thuringiensis subsp. tenebrionis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14970,Bacillus thuringiensis subsp. thuringiensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14971,Bacillus thuringiensis subsp. tolworthi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14972,Bacillus thuringiensis subsp. wuhanensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14973,bacterial insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/14974,biological control agents,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/14975,entomopathogenic bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14976,thuringiensin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/150,decay resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/1503,aromatic acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/151,disease resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/15134,plant diseases and disorders,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/15184,microbial insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/152,horizontal resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/15201,bacterial toxins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/153,pest resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/154,vertical resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/1546,quinolines,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15488,Baculoviridae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/15491,insect viruses,False,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/15545,traps,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15547,baiting,False,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/15548,poisoning of animal pests,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/1555434,total amendment rate,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/1576,abamectin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1577,anthelmintics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/1578,avermectins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15805,barban,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/15829,electronic identification,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/16256,bed nets,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16274,bee viruses,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/16567,benazolin,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/16570,bendiocarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/16601,benefin,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/16602,benfuracarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/16622,benodanil,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/16623,benomyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/16624,carbamates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/16625,bensulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/16626,sulfonylurea herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/16627,bensulfuron-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/16628,bensulide,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/16629,bentazon,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/16639,benzadox,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/16640,dinitolmide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16649,benzimidazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16650,benzimidazole fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/16651,thiophanate-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/16652,oxibendazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16653,pimozide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16654,benzipram,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/16655,benzoates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/16660,benzofluor,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/16672,chitin synthesis inhibitors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/16673,benzoylprop,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/16674,benzthiazuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/16780,good agricultural practices,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/17036,bifenox,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/17037,bifenthrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/17148,bilanafos,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/17220,biopesticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/17235,bioallethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/17302,synergism,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/17398,saturated fatty acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/17431,entomopathogenic protozoa,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17433,nematophagous fungi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17434,parasitoids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17455,genetic resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/17456,induced resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/17457,stress tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/17496,botanical pesticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/17497,horticultural oils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/17498,insect growth regulators,False,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/17499,insecticidal soaps,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/17500,microbial pesticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/17501,integrated pest management,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/17502,secondary metabolites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/17513,bioresmethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/17543,disease surveillance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17592,bird control,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/17605,plant pests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/17610,predators,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/17649,bitertanol,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/17650,triazole fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/1767,reproductive toxicology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/1780,toxic substances,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/17907,nucleosides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/18203,mist blowers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/18352,Pediculus humanus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/185392,Sopolycivirus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/185774,methyl chloride,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/18620,borate minerals,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/18622,borax,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/18623,borates,False,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/18624,disodium octaborate,False,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/18625,sodium borate,False,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/18626,boric acid,False,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/18678,boron,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18787,botanical insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/18788,pesticidal plants,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/188846,biofumigation,False,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/189906,boscalid,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/189907,fenhexamid,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/190785,benalaxyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/190787,carbamate fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/190788,iprovalicarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/190789,fludioxonil,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/191,liquids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/19160,Polydnaviridae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/192327,fluoroquinolones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/194,technical chemicals,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/194986,dust,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/196336,lipopeptides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/196461,ceramides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/196560,bioaerosols,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/196976,alcohol tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/198838,deamidation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/199,adjuvants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/19919,brodifacoum,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/19920,coumarin rodenticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/19933,bromacil,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/19934,bromadiolone,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/19968,bromofenoxim,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/19969,organothiophosphorus compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/19981,bromoxynil,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/20,plant cultural practices,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/200095,phosphorous acid,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/20192,brush control,False,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/20193,woody weeds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/203,agrochemicals,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/20598,butachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/20599,butam,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/20600,butamifos,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/20614,buthidazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/20619,butralin,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/20655,buturon,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/20656,butylate,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/207,attractants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2070,acaricidal properties,False,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/2071,pesticidal properties,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/2073,pesticide application,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/207447,nerol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2077,acaricide resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/2079,amitraz,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/2080,benzyl benzoate,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/2081,bromopropylate,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/2082,chlordimeform,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/2083,chlorobenzilate,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/2084,clofentezine,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/2085,closantel,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/2086,cyhexatin,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/2087,dicofol,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/2088,dinocap,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/2089,fenbutatin,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/208905,difenoconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/209,buffers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/2090,fenbutatin oxide,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/2091,fenpyroximate,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/2092,fipronil,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/2093,flufenoxuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/2094,formetanate,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/2095,hexythiazox,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/2096,lindane,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/2097,milbemycins,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/2098,organophosphorus acaricides,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/2099,propargite,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/20995,cafenstrole,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/21,soil management,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/2100,pyrethroid acaricides,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/2101,spirodiclofen,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/2102,tetradifon,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/210462,potassium phosphite,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/2109,storage mites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/21114,calcium methanearsonate,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/21129,calcium polysulfide,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/211487,bile resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/213546,soil restoration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/213661,aldicarb sulfoxide,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/213662,trans-chlordane,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/213665,cis-chlordane,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/213668,phorate sulfone,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/213669,carbophenothion,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/213670,malaoxon,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/213672,disulfoton sulfone,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/213673,MGK-264,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/213674,parathion ethyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/213675,o-phenylphenol,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/213677,heptachlor epoxide,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/213678,tetrahydrophthalimide,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/213681,tolylfluanid,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/213682,fenthion sulfone,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/213683,disulfoton sulfoxide,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/213686,chlorimuron ethyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/213690,formetanate hydrochloride,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/213691,fenamiphos sulfone,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/213692,fenamiphos sulfoxide,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/213693,imazamethabenz-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/213694,tralomethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/213695,chlorpyrifos oxygen analog,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/213696,thidiazuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/213697,endosulfan sulfate,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/213698,cadusafos,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/213701,phorate oxygen analog,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/213703,benoxacor,False,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/213704,fluthiacet methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/213705,perthane,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/213707,pyrimethanil,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/213708,bromuconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/213711,kresoxim-methyl,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/213712,zoxamide,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/213713,azoxystrobin,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/213714,acibenzolar-S-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/213715,epoxiconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/213716,fenamidone,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/213717,tetraconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/213718,dimethomorph,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/213719,trifloxystrobin,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/213720,bifenazate,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/213721,etoxazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/213722,fenbuconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/213723,furilazole,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/213724,tebupirimfos,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/213726,triflumizole,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/213727,flumiclorac-pentyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/213728,sulfometuron methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/213729,prallethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/213730,cyphenothrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/213731,fluroxypyr 1-methylheptyl ester,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/213735,triticonazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/213737,halosulfuron methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/213738,propamocarb hydrochloride,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/213739,spiromesifen,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/213740,pyraflufen ethyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/213741,mepanipyrim,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/213742,fluoxastrobin,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/213743,isoxadifen ethyl,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/214122,sweep nets,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/214216,alkali tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/214332,haloacetic acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/2144,human health and safety,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/21505,cambendichlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/21599,toxaphene,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/216949,chemosterilants,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/218,defoliants,False,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/2183,acephate,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/2184,organophosphorus insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/2187,sedatives,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/218884,flubendiamide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21996,input costs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/22062,Capsicum,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/22086,captafol,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/22087,dicarboximide fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/22088,captan,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/22090,trapping,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/221,disinfectants,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/221197,boron compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/221198,boranes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/22153,carbetamide,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/22154,carbofuran,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/22155,carbosulfan,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/22156,chlopropham,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/22157,cloethocarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/22158,cycloate,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/22159,desmedipham,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/22160,disulfiram,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/22161,EPTC (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/22162,ethiofencarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/22163,ferbam,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/22164,furathiocarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/22165,mancozeb,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/22166,maneb,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/22167,methomyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/22168,metiram,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/22169,mexacarbate,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/22170,molinate,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/22171,oxamyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/22172,phenmedipham,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/22173,pirimicarb,True,True,INCLUDE,INCLUDE,openai_decisions,1.0,0.0
+https://lod.nal.usda.gov/nalt/22174,propham,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/22175,propoxur,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/22176,terbucarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/22177,thiobencarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/22178,thiodicarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/22179,thiofanox,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/22180,triallate,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/22181,vernolate,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/22182,zineb,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/22183,ziram,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/22184,ethyl carbamate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/22185,methylcarbamates,False,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/22186,physostigmine,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/22187,thiocarbamates,False,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/22191,cholinesterase inhibitors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/222,distillates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/222188,antlerite,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/222191,brochantite,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/222194,chalcanthite,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/22223,sulfides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/22230,carbon tetrachloride,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/22231,chlorinated hydrocarbons,False,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/222438,kernite,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/222440,priceite,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/222441,trincalconite,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/222442,ulexite,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/222443,magnesium borate,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/222444,manganese borate,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/222445,calcium borate,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/22269,carboxin,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/223614,Interregional Research Project 4 (IR-4),False,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/224213,aminobenzoates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/22450,grounds maintenance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/22484,carfentrazone,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/225748,atrazine chlorohydrolase,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/226,endocrine-disrupting chemicals,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/226589,enoxaparin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/22666,carpropamid,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/22673,disease vectors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/228717,prohexadione calcium,False,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/229902,sodium dichloroisocyanurate,False,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/230,flavor compounds,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23027,larvae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/2307,aldehydes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/2308,acetamides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2309,amides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/231129,aminocyclopyrachlor,False,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/2319,anilides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/2321,acetamiprid,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/233,chemical inhibitors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/2335,esters,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2341,acetazolamide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/234629,camera trapping,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/234906,mefenoxam,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/235795,bifonazole,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/235797,luliconazole,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/235839,lansoprazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/235901,fosfomycin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/235907,fosmidomycin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23651,FoodNet (CDC),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2369,keto acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/238075,echinocandins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/238080,caspofungin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/238081,micafungin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/238082,anidulafungin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/238211,antiparasitic properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/239960,ajoene,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/241732,thiophanate-ethyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/243,phagostimulants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/245,preservatives,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/24625,chemical control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/24628,soil drenching,False,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/24649,chemical pulp,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/24708,fertigation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/24709,irrigation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/2479,acetochlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/2480,chloroacetanilide herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/2483,griseofulvin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/251,soaps,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/25207,tillage,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/25216,cyromazine,False,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/25285,glucosides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/25294,chlorates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25295,sodium chlorate,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25296,chlorine,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/25297,chlorazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/25298,chlorbromuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/25299,urea herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/25300,chlorbufam,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/25301,chlordane,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/25302,chlordecone,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/25315,chlorfenapyr,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/25316,chlorfenvinphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/25317,chlorflurenol,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/25318,chloridazon,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/25319,pyridazinone herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/253213,biological safety cabinet,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/25328,mercuric chloride,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/25332,chlorimuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/25333,chlorinated fatty acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/25334,dalapon,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/25336,trichloroacetic acid,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/25337,halogenated hydrocarbons,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/25338,chloroform,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/25339,DDD (pesticide),True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/25340,DDE (pesticide),True,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/25341,methylene chloride,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/25342,polychlorinated biphenyls,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/25343,tetrachloroethylene,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/25344,trichloroethylene,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/25355,diethatyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/25356,metazachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/25357,metolachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/25358,pretilachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/25359,propachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/25417,organofluorine compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/25429,chloroneb,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/25464,chloropicrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/25490,chlorothalonil,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/25492,chlorotoluron,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/255,synergists,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/25513,chloroxuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/25514,chlorphoxim,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/25515,chlorpropham,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/25516,chlorpyrifos,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/25517,organophosphorus nematicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/25518,chlorpyrifos-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/25519,chlorsulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,1.0,0.0
+https://lod.nal.usda.gov/nalt/25520,chlorthal-dimethyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/25522,chlorthiamid,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/255796,levofloxacin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25590,enzyme inhibitors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/255907,chemical weed control,False,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/25673,ova,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/257177,alpha-endosulfan,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/257178,beta-endosulfan,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/25737,wood preservatives,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/258314,boron nitride,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/258339,predatory fish,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/260561,cerulenin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/260998,chlorohydrins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/261,arsenicals,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/261000,alpha-chlorohydrin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/261197,electrospraying,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/262605,coal tar,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26324,cinidon-ethyl,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26325,cinmethylin,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/263651,antifouling activities,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26376,cisanilide,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/265258,bispyribac-sodium,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/265261,glyphosate resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/265263,glufosinate resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/265298,diclofop-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/265319,primisulfuron-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/268,mercury compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/26843,clethodim,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26941,clofop,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/26942,clomazone,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/26961,cloproxydim,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26962,cloransulam,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/270491,slow-release pesticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/2707,hydrolases,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/271212,Tamarixia triozae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2716,meteorology and climatology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2721,acid treatment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/27361,creosote,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/273700,sodium arsenate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2741,chemical treatment,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/276208,biological insect control,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/2770,processing technology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/277425,Bacillus thuringiensis subsp. canadensis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/277434,Bacillus thuringiensis subsp. colmeri,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/27787,storage technology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/27903,flea collars,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28106,harvesters,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/28357,succinate dehydrogenase (quinone),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/284,disease and pest management,False,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/284420,aphidophagous predators,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/28444,cyproconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/28445,diniconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/28446,flusilazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/28447,hexaconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/28448,imazalil,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/284486,cyantraniliprole,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/28449,myclobutanil,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/28450,penconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/28451,prochloraz,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/28452,propiconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/28453,tebuconazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/28454,triadimefon,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/28455,triadimenol,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/28456,imidazole fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/28462,emulsifiable concentrates,False,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/284633,foggers,False,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/285,baits,False,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/28537,leaves,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/286,drugs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/28631,no-tillage,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/28751,environmental management,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28786,disinfestation,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/28787,fumigation,False,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/28796,slow-release fertilizers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/2881,inorganic acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/288121,One Health initiative,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2888,acifluorfen,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/288836,metalyxyl-M,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/288990,capsaicinoids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/289,algae control,False,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/28946,copper,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/28956,copper sulfate,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/290,disease control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/290755,mandipropamid,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/291,pest control,True,True,INCLUDE,,seed,,
+https://lod.nal.usda.gov/nalt/291300,rapamycin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/292,vector control,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/293,weed control,False,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/294151,predatory bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/29544,"Federal Food, Drug and Cosmetics Act",False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/296744,synthetic pheromones,False,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/29682,coumaphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/29692,difenacoum,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/29693,flocoumafen,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/297556,ipsdienol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/298654,fungicide use reduction,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/298919,resistance genes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/299256,preharvest sprouting resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/2996,immunity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/300163,gamithromycin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/300561,ammonium sulfamate,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30069,critical control points,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30070,HACCP,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/300814,bioethanomethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/301102,chlorophacinone,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/30154,plant protection,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/30178,weed science,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/30193,specialty crops,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/30194,trap crops,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/30204,cross resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/302060,desiccant herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/302068,saflufenacil,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/302117,drift spraying,False,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/302275,false negative results,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302279,false positive results,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302453,herbicide mixtures,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/302572,ipsenol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302643,mammal repellents,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302645,rodent repellents,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/302887,soil fumigants,False,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/30333,cryolite,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/30334,fluorides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/30451,crystal proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/3047,heterocyclic nitrogen compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/304808,mist application,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/304810,mists,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/304862,poisonous weeds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/305290,zinc borate,False,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/3054,anti-infective agents,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/3056,antiseptics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/305662,vermin control,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/305737,wood impregnation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/305829,subsurface application,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/305872,test reports,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306474,spot spraying,False,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/306563,simulated spray drift,False,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/306575,silvicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/306639,scrub control,False,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/306977,mating disruptors,False,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/308291,vomeronasal organ,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30946,imides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/30948,cyanates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30949,potassium cyanate,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30950,cyanazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/30995,cyazofamid,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/310286,insect resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/3103,acrolein,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/31048,organochlorine insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/31049,dieldrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/31050,endosulfan,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/31051,heptachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/31052,mirex,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/31058,cyclohexene oxime herbicides,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/31059,oximes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31060,profoxydim,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31069,organophosphorus compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/31079,cyclosulfamuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/31082,cycluron,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/3111,Formicidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/31116,cyfluthrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/31122,cyhalofop,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/31123,cyhalothrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/311548,oxadiazoles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/311634,nitrile hydratase,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/311749,potassium benzoate,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/31185,cymoxanil,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/31222,cypermethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/31223,cyperquat,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/312516,boronic acids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31259,cytoplasmic polyhedrosis viruses,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/31260,cyprazine,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/31261,cyprazole,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/31285,cyprodinil,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/31287,cypromid,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/31291,triazines,False,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/3138,animal reproduction,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/314183,insect outbreaks,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/314192,defoliating insects,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/315009,borohydrides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/316092,fumagillin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/316095,methionyl aminopeptidase,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3164,acrylamides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/317788,diphosphonates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31843,dazomet,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/31882,medium chain fatty acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/31899,plant pathogenic fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/31901,wood preservation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31959,insect repellents,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31961,"s,s,s-tributyl phosphorotrithioate",False,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/32060,delachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/322,diseases and disorders (animals and humans),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/32233,deltamethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/32246,demeton-s-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/322531,seed destructors,False,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/322532,seed harvesters,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/322534,herbicide use reduction,False,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/322625,transgenic resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/323365,bialaphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/323561,microbial toxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/323703,zeamatin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/323890,pediculicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/324534,deethylatrazine,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/324538,pesticide metabolites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/324607,herbicide metabolites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/324612,endosulfan lactone,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/324677,metolachlor oxanilic acid,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/324679,metolachlor ethanesulfonic acid,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/324690,metolachlor metabolites,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/324941,cyanuric chloride,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/32553,desmetryn,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/326024,signal strength,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/326856,carboxamides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/327052,pyrithiones,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/327055,copper pyrithione,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/327056,zinc pyrithione,False,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/327822,zinc compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/32786,microbial detection,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32787,disease detection,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32788,disease diagnosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/327885,amide fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/327888,fluopyram,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/327889,organophosphorus fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/327893,ampropylfos,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/327895,penthiopyrad,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/32960,diallate,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/329708,xenomonitoring,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/329710,human-landing catches,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/33044,nitenpyram,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/331476,anilinopyrimidine fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/331478,triazolopyrimidine fungicides,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/331483,ametoctradin,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/331484,urea fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/331486,triazine fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/331489,benzamide fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/331491,methoxyacrylate strobilurin fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/331494,strobilurin fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/331498,acylamino acid fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/33166,diazinon,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/33175,folpet,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/33176,iprodione,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/33177,procymidone,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/33178,vinclozolin,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/331867,picoxystrobin,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/331868,pyraoxystrobin,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/33212,dichlobenil,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/33213,dichlofluanid,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/33214,dichlone,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/33215,dichlormate,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/332152,spinosyn A,False,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/332154,spinosyn D,False,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/33216,dichlorprop,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/33227,diclofop,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/33228,dicloran,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/33229,diclosulam,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/33249,dicrotophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/33250,dicryl,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/33438,zinc,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/33483,diethofencarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/33491,difenopenten,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/33492,difenoxuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/33493,difenzoquat,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/33507,diflufenzopyr,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/335329,insectary plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/335696,sulfur compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/33652,dimethachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/33653,dimethametryn,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/33654,dimethoate,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/33695,dinitramine,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/33696,dinitroaniline herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/33724,dinosam,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/33725,dinoseb,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/33726,dinoterb,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/33790,heterocyclic oxygen compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/33793,herbicide impurities,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/33801,diphenylamine,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/33900,dipropetryn,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/33945,diquat,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/34012,resistance management,False,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/34022,nontarget organisms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/34051,gene-for-gene relationship,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/34055,monitoring,False,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/340625,anticoagulant rodenticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/34069,mating disruption,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/34121,disulfoton,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/341217,sulfoxaflor,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/34130,dithianon,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/34131,dithiocarbamate fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/34132,dithiopyr,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/34133,pyridine herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/34151,diuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/342504,oviposition preference,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/34279,dodemorph,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/34280,morpholine fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/34281,dodine,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/342872,pyroxsulam,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/34641,drug formulations,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/34790,drywood termites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/35212,EBEP (herbicide),True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/35594,tebufenozide,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/35864,transgenic plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/35867,edifenphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/36000,eglinazine,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/3629,Streptomyces hygroscopicus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/3643,Streptomyces lavendulae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/365,equipment,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/366,agricultural machinery and equipment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/368,application equipment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/36988,wildlife management,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37083,endothal,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/37084,endothal-sodium,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/37143,process control,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37456,environmental monitoring,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/37491,urease inhibitors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3768,Streptomyces viridochromogenes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/37724,fumigation equipment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/37809,erbon,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/38145,esfenvalerate,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/3816,antineoplastic agents,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/38235,ethalfluralin,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/38236,ethamet-sulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/38247,ethidimuron,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/38248,ethiolate,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/38249,ethion,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/38260,ethofumesate,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/38262,ethoprophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/38263,ethoxyquin,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/38278,etofenprox,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/38281,etrimfos,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/386,pest control equipment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/38974,plant extracts,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/39308,impregnated fabrics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/39453,famoxadone,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/39454,famphur,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/39543,precision agriculture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/39616,odd chain fatty acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/39811,fenac,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/39812,fenamiphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/39813,fenarimol,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/39814,pyrimidine fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/39817,fenitrothion,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/3982,chemical reactions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/39828,fenoprop,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/39829,fenoxaprop,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/39831,juvenile hormone analogs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/39832,fenpiclonil,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/39833,fenpropathrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/39834,fenpropimorph,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/39837,fensulfothion,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/39838,fentin acetate,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/39839,fentin hydroxide,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/39842,fenuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/39843,fenuron TCA,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/39846,fenvalerate,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/39920,ferrous sulfate,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4010,phosphinothricin acetyltransferase,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/40213,flame retardants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/4062,feed additives,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4064,nitrates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/40671,fluazifop,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/40672,fluazifop-P,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/40673,fluchloralin,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/40674,flucythrinate,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/40697,flumethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/40698,flumetsulam,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/40699,flumiclorac,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/40700,flumioxazin,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/40701,fluometuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/40725,sulfuryl fluoride,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/40727,fluoroacetic acid,False,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/40728,fluorochloridone,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/40729,fluorodifen,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/40730,fluoroglycofen,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/40732,flupropacil,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/40734,fluridone,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/40735,fluroxypyr,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/40736,flurtamone,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/40737,flutolanil,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/40738,fluvalinate,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/40783,foliar spraying,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/40825,fonofos,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/40831,food storage,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/41053,stored products,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/41056,storage pests,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/41136,forest-wildlife relations,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41174,silviculture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/41185,wood technology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41302,fosamine,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/41303,fosetyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/41749,fumigant insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/41750,soil fumigation,False,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/41769,predator-prey relationships,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/41801,mycoinsecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/41847,fungicide resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/41849,guazatine,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/41850,hexachlorobenzene,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/41851,hymexazol,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/41852,isoprothiolane,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/41853,mercury fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/41854,metalaxyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/41855,methyl bromide,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/41856,methyl isothiocyanate,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/41857,OCH (pesticide),True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/41858,oxadixyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/41859,oxycarboxin,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/41860,pencycuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/41861,pentachlorophenol,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/41862,phenylmercury acetate,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/41863,polychlorobenzoic acid,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/41864,propamocarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/41865,pyraclostrobin,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/41866,pyrazophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/41867,quinoxyfen,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/41868,quintozene,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/41869,tecnazene,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/41870,thiram,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/41871,tolclofos-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/41872,tricyclazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/41873,triforine,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/42041,recombinant fusion proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/4217,dicarboxylic acids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/4225,insect hormones,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/4235,pesticide adjuvants,False,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/4249,drug delivery systems,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/4251,intragastric administration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/42607,transgenes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/42647,varietal resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/42942,gibberellins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/43045,glibenclamide,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/43046,sulfonylureas,False,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/43050,glipizide,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/43205,glufosinate,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/43310,glyphosate,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/43547,gossyplure,False,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/43652,grandlure,False,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/43722,sod plugs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/43731,sod strips,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/43733,grass sprigs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/43735,lawns and turf,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/43737,turf management,False,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/43752,turf grasses,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/4395,insects,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/4410,antiparasitic agents,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/44159,sulfate minerals,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4417,support systems,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44184,oviposition sites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/4423,early warning systems,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/44428,juvenile hormone antagonists,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/44467,halosafen,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/44468,halosulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/44476,haloxyfop,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/4448,Culicidae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/44545,manual weed control,False,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/44715,HCH (pesticide),True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/45,dead animals,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45156,heptenophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/45181,herbicidal properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/45182,mycoherbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/45188,herbicide resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/45191,herbicide-resistant weeds,False,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/45201,hexaflurate,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/45202,imazamox,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/45203,imidazolinone herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/45204,ioxynil,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/45205,ipazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/45206,isocarbamid,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/45207,isocil,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/45208,isomethiozin,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/45209,isopropalin,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/45210,isoxaflutole,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/45211,karbutilate,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/45212,lactofen,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/45213,lenacil,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/45214,maleic hydrazide,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/45215,mecoprop,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/45216,mefluidide,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/45217,mesotrione,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/45218,methalpropalin,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/45221,methazole,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/45223,methoprotryn,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/45224,methylarsonic acid,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/45225,metosulam,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/45226,metoxuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/45227,monalide,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/45228,monuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/45229,monuron TCA,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/45230,nitralin,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/45231,nitrile herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/45232,nitrofen,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/45233,nitrofluorfen,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/45234,norea,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/45235,oryzalin,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/45236,oxadiargyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/45237,oxadiazon,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/45238,oxyfluorfen,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/45239,paraquat,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/45240,pebulate,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/45241,pelargonic acid,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/45242,pendimethalin,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/45243,perfluidone,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/45244,phenisopham,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/45245,piperophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/45246,procyazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/45247,prodiamine,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/45248,profluralin,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/45249,proglinazine,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/45250,pronamide,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/45252,prosulfalin,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/45253,proxan,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45254,proxan-sodium,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45255,prynachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/45257,pyriclor,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/45258,pyridate,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/45260,quinonamid,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/45261,quizalofop,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/45262,secbumeton,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/45263,sesone,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/45264,sethoxydim,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45265,silvex,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/45266,simeton,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/45267,solan,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/45268,sulfentrazone,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/45269,swep,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/45270,terbacil,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/45271,terbuchlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/45272,terbumeton,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/45273,terbutol,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/45274,tetrafluron,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/45275,thiazafluron,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45276,thifensulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/45277,triazinone herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/45278,tricamba,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/45279,triclopyr,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/45280,tridiphane,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/45281,trietazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/45282,trifluralin,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/45283,triflusulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/45284,trimeturon,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/45285,tritac,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/45286,xylachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/45388,thiophenes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/45390,pyridazines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/45396,piperonyl butoxide,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/4544,noxious weeds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/45488,hexazinone,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/45666,Isoptera,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/4604,aerial application,False,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/4605,application methods,False,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/4606,agricultural aviation,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/46253,hydramethylnon,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/46601,systemic acquired resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/46941,imazamethabenz,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/46942,imazapic,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/46943,imazapyr,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/46944,imazaquin,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/46945,imazethapyr,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/46948,imidacloprid,True,True,INCLUDE,INCLUDE,openai_decisions,1.0,0.0
+https://lod.nal.usda.gov/nalt/47065,in-row tillage,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/47069,interrow tillage,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/47195,indoxacarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/47344,sulfamates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47371,mosquito control,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/47372,sterile insect technique,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/47373,termite control,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/47387,storage insects,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/47388,subterranean termites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/47391,oviposition pheromones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47392,queen pheromones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47393,sex pheromones,False,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/47394,trail pheromones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47418,Iridovirus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/47419,viral insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/47422,insecticidal properties,False,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/47425,insecticide residues,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/47427,insecticide resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/47428,pymetrozine,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/47429,spinosad,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/47430,sulfuramid,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/47431,thiamethoxam,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/47432,triazamate,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/47433,vamidothion,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/47438,predatory insects,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47464,integrated weed management,False,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/47465,pest monitoring,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/47779,mist irrigation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/47797,isazofos,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/47866,isofenphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/47891,isoproturon,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/47908,isouron,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/4791,site preparation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/49027,lambda-cyhalothrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/49377,thatch,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/495,fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/49766,leptophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/49963,thiazoles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/50002,lice infestations,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/5012,mycoviruses,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50256,linuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/50550,oleic acid,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50686,low volume spraying,False,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/5079,methodology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/51009,mechanical weed control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/51269,malathion,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/5156,animal behavior,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/5157,aggregation pheromones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5158,pheromones,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/5159,antiaggregation pheromones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5160,insect pheromones,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/51692,maximum permissible intake,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/51693,maximum residue limits,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/518,synthetic hormones,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/51940,melamine,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/5204,guanidines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/52152,thimerosal,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/5221,ecdysone agonists,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/52246,metam,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/52248,metamitron,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/52260,Metarhizium anisopliae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/52301,methabenzthiazuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/52302,methamidophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/52330,methidathion,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/52331,methiocarb,False,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/52341,methoxychlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/52351,parathion-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/52484,metobromuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/52485,metribuzin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/52494,volume,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/52503,metsulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/52507,mevinphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/5260,agriculture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/5280,aircraft,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/5282,bioterrorism,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5303,food supply chain,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5307,sustainable agriculture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/53148,mite control,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/53178,pesticide mixtures,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/53264,mollusc control,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/53265,slugs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/53266,snails,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/53270,molluscicidal properties,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/53340,process monitoring,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/53365,monocrotophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/53382,monolinuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/53410,pyrethrins,False,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/53411,verbenone,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53499,tridemorph,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/5351,pesticide industry,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/53511,mosquito nets,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5382,agricultural law,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/5406,tillage implements,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/5412,integrated agricultural systems,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/5425,agromedicine,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/54302,naled,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/54447,neburon,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/54512,nematicidal properties,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/5452,agricultural programs and projects,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/54804,nicosulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/55221,norflurazon,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/55357,nuarimol,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/55540,pest control operators,False,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/5565,growth regulators,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/5567,pesticide synergists,False,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/5568,fertilizers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/55822,omethoate,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/5593,pesticide safety and handling,False,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/56084,organometallic compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/56098,semicarbazones,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/56113,sodium fluoroacetate,False,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/56120,parathion,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/56121,phosalone,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/56122,phosmet,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/56123,propetamphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/56124,tetrachlorvinphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/56125,triazophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/56126,phosphonates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/56129,paraoxon,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/56130,phosphamidon,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/56131,phorate,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/56132,terbufos,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/56135,oxydemeton-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/56136,pirimiphos-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/56137,profenofos,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/56138,quinalphos,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/56139,sulprofos,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/56140,temephos,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/56141,thiometon,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/56142,tributyltin oxide,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/5623,agronomic traits,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/5631,plant breeding,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/56530,paclobutrazol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/56859,tick infestations,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/57433,perennial weeds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/57493,permethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/57548,predator control,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/57549,rodent control,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/57550,stored product protection,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/57551,tick control,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/57552,scarers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/57562,rodenticidal properties,False,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/57564,wettable powders,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/57566,pesticide registration,False,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/57749,phenothrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/57752,phenyl phosphorodiamidate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/57759,phenylurea herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/57761,pheromone blends,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/578,material forms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/57896,thiotepa,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/579,aerosols,False,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/58,Nematoda,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/58189,phytotoxicity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/582,briquettes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/5849,smoke,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/585,concentrates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/587,dust formulations,False,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/5870,sprayers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/591,fogs (materials),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/593,fumigants,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/5936,alachlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/59363,postemergent weed control,False,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/594,granules,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/59557,preemergent weed control,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/59620,primisulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/5966,alarm pheromones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59784,prometon,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/59785,prometryn,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/59796,propylene glycol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59798,propazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/59855,propoxycarbazone,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/59897,prosulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/5997,albendazole,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/5998,benzimidazoles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/6,disparlure,False,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/60342,Saccharopolyspora,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/605,pour-on formulations,False,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/606,powders,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/60627,pyriproxyfen,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/60628,resmethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/60629,tefluthrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/60630,tetramethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/60639,thiazopyr,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/611,solutions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/6150,geraniol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6151,glycols,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/61576,rimsulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,1.0,0.0
+https://lod.nal.usda.gov/nalt/616,antifouling agents,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/61899,Saccharopolyspora spinosa,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/6194,aldicarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/6196,sugar alcohols,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/6225,aldoxycarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/6230,aldrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/6231,cyclodiene insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/62665,shrublands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/63063,siduron,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/63088,talc,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/63117,simazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/63118,simetryn,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/6351,algal blooms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/6352,fish ponds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/6369,mathematics and statistics,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6413,alkali treatment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/6445,alkaloids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6469,cyclohexanes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/6514,imidazoles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/65197,sulfometuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/65200,thifensulfuron methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/65201,triasulfuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/65202,tribenuron,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/65204,tolbutamide,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/6522,entomopathogenic nematodes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6547,allelochemicals,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/6548,semiochemicals,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/65525,tebuthiuron,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/65586,terbuthylazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/65587,terbutryn,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/6567,allethrin,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/6568,pyrethroid insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/6589,allidochlor,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/66111,toltrazuril,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/66324,triazofenamide,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/66325,uniconazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6645,garlic,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/6719,pyrimidines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/6757,isothiocyanates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/6760,organic sulfur compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/67834,flea control,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/68149,wildlife damage management,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/68282,phoxim,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/68395,plant-incorporated protectants,False,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/68402,glyphosate-trimesium,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/68659,deworming,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/68867,pesticide law,False,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/69204,pyridaben,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/69323,louse control,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/6936,monoterpenoids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/6970,Black beetle virus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/69869,fouling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/70070,aviation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/70320,acaricide application,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/7104,tenuazonic acid,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7138,alternative farming,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/7140,crops,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7142,pesticide use reduction,False,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/7144,organic production,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/7277,chlorides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/7281,sulfates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7656,ametryn,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/7657,triazine herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/7661,amide herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/7662,anilide herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/7663,diphenamid,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/7664,fomesafen,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/7665,isoxaben,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/7666,napropamide,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/7667,naptalam,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/7668,propyzamide,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/7679,organic nitrogen compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/7680,benzamides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/7681,benzoylphenylureas,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7682,biguanides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7683,capsaicin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7684,deet,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7685,dimethylformamide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7686,ethylene diurea,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7687,florfenicol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7688,hippuric acid,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7689,hydroxyurea,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7690,imidocarb,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7691,lactams,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7692,niclosamide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7693,nicotinamide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7694,oxamide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7695,phosphoric triamides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7696,phosphorodiamides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7697,sulfonamides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/7698,thioamides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7699,urea,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7700,ureides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7731,amino compounds,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7734,diamines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/7738,primary amines,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/774,people,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/7813,peptides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7860,aminocarb,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/7864,aminoglycosides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/7871,nikkomycins,False,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/7874,streptozotocin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7894,amiprofos-methyl,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/7895,organophosphorus herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/7898,amitrole,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/7899,triazole herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/790,adults,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/7948,ammonium compounds,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7958,ammonium salts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7960,benzalkonium chloride,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/7969,monoammonium methylarsonate,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/7983,ammonium sulfamidate,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8,chemical compounds,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/81153,fungicide application,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/8118,amphotericin B,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/8119,antifungal agents,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/812,carbamate pesticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/8120,macrolide antibiotics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/8121,macrolides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/813,organochlorine pesticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/814,organophosphorus pesticides,True,True,INCLUDE,INCLUDE,openai_decisions,1.0,0.0
+https://lod.nal.usda.gov/nalt/815,organotin pesticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/817,acaricides,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/818,adulticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/819,algicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/820,avicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/821,fungicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/8217,nitriles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/822,herbicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/823,insecticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/824,larvicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/825,molluscicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/82573,herbicide application,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/826,nematicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/827,ovicides,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/828,rodenticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/829,termiticides,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/83516,insecticide application,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/836,hosts,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/838,pathogens,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/839,pests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/8469,analytical kits,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8472,detection,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/874,plants (botany),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/876,proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/877,antimicrobial proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/880,insecticidal proteins,False,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/8805,droperidol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8812,urethane,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8933,plant parasitic nematodes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/8951,anilazine,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/8952,diflufenican,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/8953,flamprop,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/8956,oxyclozanide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8957,rafoxanide,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/9051,capture of animals,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9052,animal care,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9084,animal welfare,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9141,human-wildlife relations,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9145,wildlife-livestock relations,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9163,oils,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9228,insect growth,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/9233,animal parasites and pests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/9260,human-animal relations,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9288,animal law,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9355,insect pests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/9380,nematode control,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/9401,entomopathogenic fungi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9403,entomopathogens,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/9404,invertebrate viruses,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/9461,clutch size,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/9467,estrus detection,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9480,ovipary,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/9481,oviposition,False,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/9496,animal rescue shelters,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9504,veterinary parasitology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/9586,stray animals,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9591,vertebrate pests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/9602,anions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/9724,weeds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/982,egg masses,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/98255,metam-potassium,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/9864,fungal antagonists,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/9913,bromophos,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/9914,cambendazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9915,carbendazim,False,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/9917,dichlorvos,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/9921,fenbendazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9925,mebendazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9928,moxidectin,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/9930,oxfendazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9931,parbendazole,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9936,thiabendazole,False,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/9937,trichlorfon,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/9938,triclabendazole,False,False,EXCLUDE,,unreached,,

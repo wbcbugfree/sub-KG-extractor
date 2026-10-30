@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q46441",
+  "seed_label": "Cascading Style Sheets",
+  "included_qids": [
+    "Q1029123",
+    "Q46441"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1029123",
+    "Q46441"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:10.792988+00:00",
+  "finished_at_utc": "2026-10-28T17:44:11.119521+00:00",
+  "wall_seconds": 0.3265352000016719,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,54 @@
+{
+  "seed_qid": "Q865817",
+  "seed_label": "Java applet",
+  "included_qids": [
+    "Q735918",
+    "Q7397",
+    "Q865817"
+  ],
+  "pruned_qids": [
+    "Q1004415",
+    "Q210499",
+    "Q386197",
+    "Q438556",
+    "Q50316487",
+    "Q88465956",
+    "Q91314720",
+    "Q91447167"
+  ],
+  "visited_qids": [
+    "Q1004415",
+    "Q210499",
+    "Q386197",
+    "Q438556",
+    "Q50316487",
+    "Q735918",
+    "Q7397",
+    "Q865817",
+    "Q88465956",
+    "Q91314720",
+    "Q91447167"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 1,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:27.101244+00:00",
+  "finished_at_utc": "2026-10-28T16:42:27.807559+00:00",
+  "wall_seconds": 0.7063175000075717,
+  "frontier_exhausted": true
+}

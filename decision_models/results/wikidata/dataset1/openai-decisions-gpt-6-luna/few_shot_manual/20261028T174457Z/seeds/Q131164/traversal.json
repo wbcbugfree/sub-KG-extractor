@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q131164",
+  "seed_label": "Web 2.0",
+  "included_qids": [
+    "Q131164",
+    "Q1514415"
+  ],
+  "pruned_qids": [
+    "Q1091971",
+    "Q17053649",
+    "Q2207328",
+    "Q28972120"
+  ],
+  "visited_qids": [
+    "Q1091971",
+    "Q131164",
+    "Q1514415",
+    "Q17053649",
+    "Q2207328",
+    "Q28972120"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 0,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:11.133148+00:00",
+  "finished_at_utc": "2026-10-28T17:45:11.907342+00:00",
+  "wall_seconds": 0.7742013000097359,
+  "frontier_exhausted": true
+}

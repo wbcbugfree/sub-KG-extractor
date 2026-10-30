@@ -1,0 +1,3311 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3936",
+    "prefLabel": "activins",
+    "altLabels": [],
+    "displayName": "activins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/105992",
+    "prefLabel": "adaptive immunity",
+    "altLabels": [
+      "acquired immune system",
+      "acquired immunity",
+      "adaptive immune response",
+      "adaptive immune system",
+      "adoptive immunity"
+    ],
+    "displayName": "adaptive immunity (acquired immune system, acquired immunity, adaptive immune response, adaptive immune system, adoptive immunity)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/215661",
+    "prefLabel": "adherens junctions",
+    "altLabels": [
+      "zonula adherens"
+    ],
+    "displayName": "adherens junctions (zonula adherens)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/215122",
+    "prefLabel": "adult stem cells",
+    "altLabels": [
+      "adult germline stem cells",
+      "adult somatic stem cells",
+      "germline adult stem cells",
+      "oogonial stem cells",
+      "somatic adult stem cells",
+      "spermatogonial progenitor cells"
+    ],
+    "displayName": "adult stem cells (adult germline stem cells, adult somatic stem cells, germline adult stem cells, oogonial stem cells, somatic adult stem cells, spermatogonial progenitor cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4629",
+    "prefLabel": "aerobiosis",
+    "altLabels": [
+      "aerobic growth",
+      "aerobic respiration",
+      "oxidative metabolism"
+    ],
+    "displayName": "aerobiosis (aerobic growth, aerobic respiration, oxidative metabolism)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8248",
+    "prefLabel": "amyloplasts",
+    "altLabels": [],
+    "displayName": "amyloplasts",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/264298",
+    "prefLabel": "amyotrophic lateral sclerosis",
+    "altLabels": [
+      "Guam disease"
+    ],
+    "displayName": "amyotrophic lateral sclerosis (Guam disease)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8375",
+    "prefLabel": "anaerobiosis",
+    "altLabels": [
+      "anaerobic metabolism",
+      "anaerobic respiration"
+    ],
+    "displayName": "anaerobiosis (anaerobic metabolism, anaerobic respiration)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.3,
+    "p_exclude": 0.7,
+    "selected_probability": 0.7,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3138",
+    "prefLabel": "animal reproduction",
+    "altLabels": [
+      "reproductive physiology (animals)",
+      "theriogenology"
+    ],
+    "displayName": "animal reproduction (reproductive physiology (animals), theriogenology)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/196260",
+    "prefLabel": "anion pumps",
+    "altLabels": [
+      "anion transport proteins"
+    ],
+    "displayName": "anion pumps (anion transport proteins)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7519",
+    "prefLabel": "anovulation",
+    "altLabels": [],
+    "displayName": "anovulation",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.34,
+    "p_exclude": 0.66,
+    "selected_probability": 0.66,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10230",
+    "prefLabel": "antibody formation",
+    "altLabels": [
+      "antibody production",
+      "antibody response",
+      "autoantibody production"
+    ],
+    "displayName": "antibody formation (antibody production, antibody response, autoantibody production)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/316636",
+    "prefLabel": "antimitotic agents",
+    "altLabels": [
+      "antimitotic drugs",
+      "antimitotics"
+    ],
+    "displayName": "antimitotic agents (antimitotic drugs, antimitotics)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/132362",
+    "prefLabel": "apicoplasts",
+    "altLabels": [],
+    "displayName": "apicoplasts",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/194621",
+    "prefLabel": "apoplast",
+    "altLabels": [
+      "apoplasm",
+      "apoplastic compartment",
+      "apoplastic component",
+      "apoplastic pathway"
+    ],
+    "displayName": "apoplast (apoplasm, apoplastic compartment, apoplastic component, apoplastic pathway)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.82,
+    "p_exclude": 0.18,
+    "selected_probability": 0.82,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/13184",
+    "prefLabel": "assimilation (physiology)",
+    "altLabels": [],
+    "displayName": "assimilation (physiology)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/194646",
+    "prefLabel": "aster (cell structure)",
+    "altLabels": [],
+    "displayName": "aster (cell structure)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/261288",
+    "prefLabel": "autocrine signaling",
+    "altLabels": [
+      "autocrine communication"
+    ],
+    "displayName": "autocrine signaling (autocrine communication)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.36,
+    "p_exclude": 0.64,
+    "selected_probability": 0.64,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14014",
+    "prefLabel": "autolysis",
+    "altLabels": [],
+    "displayName": "autolysis",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/228596",
+    "prefLabel": "bioencapsulation",
+    "altLabels": [],
+    "displayName": "bioencapsulation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/297917",
+    "prefLabel": "calcium ionophores",
+    "altLabels": [],
+    "displayName": "calcium ionophores",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23191",
+    "prefLabel": "CD4-positive T-lymphocytes",
+    "altLabels": [
+      "CD4-positive lymphocytes",
+      "T4 cells",
+      "T4 lymphocytes"
+    ],
+    "displayName": "CD4-positive T-lymphocytes (CD4-positive lymphocytes, T4 cells, T4 lymphocytes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.8,
+    "p_exclude": 0.2,
+    "selected_probability": 0.8,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23199",
+    "prefLabel": "CD8-positive T-lymphocytes",
+    "altLabels": [
+      "CD8-positive lymphocytes",
+      "T8 cells",
+      "T8 lymphocytes"
+    ],
+    "displayName": "CD8-positive T-lymphocytes (CD8-positive lymphocytes, T8 cells, T8 lymphocytes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.83,
+    "p_exclude": 0.17,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/277515",
+    "prefLabel": "cecropins",
+    "altLabels": [],
+    "displayName": "cecropins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8512",
+    "prefLabel": "cell division",
+    "altLabels": [],
+    "displayName": "cell division",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9529",
+    "prefLabel": "cell membranes",
+    "altLabels": [
+      "cytoplasmic membranes"
+    ],
+    "displayName": "cell membranes (cytoplasmic membranes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15185",
+    "prefLabel": "cell movement",
+    "altLabels": [
+      "cell locomotion",
+      "cell migration",
+      "cell motility",
+      "cellular migration",
+      "cellular motility",
+      "cellular movement"
+    ],
+    "displayName": "cell movement (cell locomotion, cell migration, cell motility, cellular migration, cellular motility, cellular movement)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23357",
+    "prefLabel": "cell proliferation",
+    "altLabels": [
+      "cellular proliferation",
+      "tissue proliferation"
+    ],
+    "displayName": "cell proliferation (cellular proliferation, tissue proliferation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23435",
+    "prefLabel": "cell walls",
+    "altLabels": [],
+    "displayName": "cell walls",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/336331",
+    "prefLabel": "chaperone-mediated autophagy",
+    "altLabels": [],
+    "displayName": "chaperone-mediated autophagy",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.76,
+    "p_exclude": 0.24,
+    "selected_probability": 0.76,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/25453",
+    "prefLabel": "chlorophyll",
+    "altLabels": [
+      "chlorophyl",
+      "chlorophyll a",
+      "chlorophyll b",
+      "chlorophyll c",
+      "chlorophyll d",
+      "chlorophyll f"
+    ],
+    "displayName": "chlorophyll (chlorophyl, chlorophyll a, chlorophyll b, chlorophyll c, chlorophyll d, chlorophyll f)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/25832",
+    "prefLabel": "chromoplasts",
+    "altLabels": [],
+    "displayName": "chromoplasts",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23436",
+    "prefLabel": "cilia",
+    "altLabels": [],
+    "displayName": "cilia",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28575",
+    "prefLabel": "connexins",
+    "altLabels": [],
+    "displayName": "connexins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.43,
+    "p_exclude": 0.57,
+    "selected_probability": 0.57,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/294138",
+    "prefLabel": "costameres",
+    "altLabels": [],
+    "displayName": "costameres",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/200594",
+    "prefLabel": "cryptozoites",
+    "altLabels": [],
+    "displayName": "cryptozoites",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23432",
+    "prefLabel": "cyanide-resistant respiration",
+    "altLabels": [
+      "cyanide insensitive respiration",
+      "cyanide resistant respiration"
+    ],
+    "displayName": "cyanide-resistant respiration (cyanide insensitive respiration, cyanide resistant respiration)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23433",
+    "prefLabel": "cyanide-sensitive respiration",
+    "altLabels": [
+      "cyanide sensitive respiration"
+    ],
+    "displayName": "cyanide-sensitive respiration (cyanide sensitive respiration)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8825",
+    "prefLabel": "cytogenetics",
+    "altLabels": [],
+    "displayName": "cytogenetics",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/31474",
+    "prefLabel": "cytoplasmic inclusions",
+    "altLabels": [],
+    "displayName": "cytoplasmic inclusions",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/31489",
+    "prefLabel": "cytoplasmic streaming",
+    "altLabels": [
+      "protoplasmic streaming"
+    ],
+    "displayName": "cytoplasmic streaming (protoplasmic streaming)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/264088",
+    "prefLabel": "cytoplasmic vesicles",
+    "altLabels": [],
+    "displayName": "cytoplasmic vesicles",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/31472",
+    "prefLabel": "cytoskeleton",
+    "altLabels": [
+      "cytoskeletal filaments"
+    ],
+    "displayName": "cytoskeleton (cytoskeletal filaments)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/31473",
+    "prefLabel": "cytosol",
+    "altLabels": [],
+    "displayName": "cytosol",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32272",
+    "prefLabel": "dendrites",
+    "altLabels": [],
+    "displayName": "dendrites",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.59,
+    "p_exclude": 0.41,
+    "selected_probability": 0.59,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/291225",
+    "prefLabel": "deslorelin acetate",
+    "altLabels": [
+      "deslorelin",
+      "ovuplant"
+    ],
+    "displayName": "deslorelin acetate (deslorelin, ovuplant)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32600",
+    "prefLabel": "desmosomes",
+    "altLabels": [],
+    "displayName": "desmosomes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34224",
+    "prefLabel": "DNA replication",
+    "altLabels": [],
+    "displayName": "DNA replication",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.36,
+    "p_exclude": 0.64,
+    "selected_probability": 0.64,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/189757",
+    "prefLabel": "ecosystem respiration",
+    "altLabels": [],
+    "displayName": "ecosystem respiration",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/36096",
+    "prefLabel": "elaioplasts",
+    "altLabels": [],
+    "displayName": "elaioplasts",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/125072",
+    "prefLabel": "electrofusion",
+    "altLabels": [],
+    "displayName": "electrofusion",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17286",
+    "prefLabel": "electron transport chain",
+    "altLabels": [
+      "electron transfer chain",
+      "respiratory chain"
+    ],
+    "displayName": "electron transport chain (electron transfer chain, respiratory chain)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/36237",
+    "prefLabel": "electroporation",
+    "altLabels": [],
+    "displayName": "electroporation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/36807",
+    "prefLabel": "embryonic stem cells",
+    "altLabels": [],
+    "displayName": "embryonic stem cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/200527",
+    "prefLabel": "endomembrane system",
+    "altLabels": [],
+    "displayName": "endomembrane system",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/200598",
+    "prefLabel": "erythrocytic stage",
+    "altLabels": [
+      "erythrocyte stage"
+    ],
+    "displayName": "erythrocytic stage (erythrocyte stage)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.51,
+    "p_exclude": 0.49,
+    "selected_probability": 0.51,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/220601",
+    "prefLabel": "etioplast DNA",
+    "altLabels": [],
+    "displayName": "etioplast DNA",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/339436",
+    "prefLabel": "ferroptosis",
+    "altLabels": [],
+    "displayName": "ferroptosis",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23438",
+    "prefLabel": "fimbriae",
+    "altLabels": [
+      "pili",
+      "pilus"
+    ],
+    "displayName": "fimbriae (pili, pilus)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15186",
+    "prefLabel": "flagellum",
+    "altLabels": [
+      "flagella"
+    ],
+    "displayName": "flagellum (flagella)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1617",
+    "prefLabel": "ganglia",
+    "altLabels": [
+      "ganglion"
+    ],
+    "displayName": "ganglia (ganglion)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/324041",
+    "prefLabel": "gangrene",
+    "altLabels": [],
+    "displayName": "gangrene",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42876",
+    "prefLabel": "germinal vesicle",
+    "altLabels": [],
+    "displayName": "germinal vesicle",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/200635",
+    "prefLabel": "giardin protein",
+    "altLabels": [
+      "alpha-giardin",
+      "beta-giardin",
+      "delta-giardin",
+      "gamma-giardin"
+    ],
+    "displayName": "giardin protein (alpha-giardin, beta-giardin, delta-giardin, gamma-giardin)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/317772",
+    "prefLabel": "glioma",
+    "altLabels": [
+      "glial cell tumors"
+    ],
+    "displayName": "glioma (glial cell tumors)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/323535",
+    "prefLabel": "gliotoxins",
+    "altLabels": [
+      "aspergillin"
+    ],
+    "displayName": "gliotoxins (aspergillin)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/33284",
+    "prefLabel": "Golgi apparatus",
+    "altLabels": [
+      "Golgi body",
+      "Golgi complex",
+      "dictyosomes"
+    ],
+    "displayName": "Golgi apparatus (Golgi body, Golgi complex, dictyosomes)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34962",
+    "prefLabel": "growth retardation",
+    "altLabels": [
+      "growth inhibition",
+      "growth reduction",
+      "stunting"
+    ],
+    "displayName": "growth retardation (growth inhibition, growth reduction, stunting)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/339",
+    "prefLabel": "hematologic diseases",
+    "altLabels": [
+      "blood diseases",
+      "blood disorders",
+      "haematologic diseases",
+      "hematological diseases",
+      "hemic diseases"
+    ],
+    "displayName": "hematologic diseases (blood diseases, blood disorders, haematologic diseases, hematological diseases, hemic diseases)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26361",
+    "prefLabel": "hematopoiesis",
+    "altLabels": [
+      "haematopoiesis",
+      "haemopoiesis",
+      "hemopoiesis",
+      "leukopoiesis",
+      "thrombocytopoiesis"
+    ],
+    "displayName": "hematopoiesis (haematopoiesis, haemopoiesis, hemopoiesis, leukopoiesis, thrombocytopoiesis)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18096",
+    "prefLabel": "hemostasis",
+    "altLabels": [
+      "haemostasis"
+    ],
+    "displayName": "hemostasis (haemostasis)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45637",
+    "prefLabel": "histiocytosis",
+    "altLabels": [],
+    "displayName": "histiocytosis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/226534",
+    "prefLabel": "hollow heart",
+    "altLabels": [],
+    "displayName": "hollow heart",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68542",
+    "prefLabel": "human cell lines",
+    "altLabels": [],
+    "displayName": "human cell lines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10232",
+    "prefLabel": "immune response",
+    "altLabels": [
+      "immunity response",
+      "immunological response"
+    ],
+    "displayName": "immune response (immunity response, immunological response)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23439",
+    "prefLabel": "inclusion bodies",
+    "altLabels": [],
+    "displayName": "inclusion bodies",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47227",
+    "prefLabel": "infarction",
+    "altLabels": [
+      "infarct"
+    ],
+    "displayName": "infarction (infarct)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/296625",
+    "prefLabel": "innexins",
+    "altLabels": [],
+    "displayName": "innexins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/222512",
+    "prefLabel": "interleukin-13",
+    "altLabels": [
+      "IL-13",
+      "interleukin 13"
+    ],
+    "displayName": "interleukin-13 (IL-13, interleukin 13)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23383",
+    "prefLabel": "interphase",
+    "altLabels": [
+      "G0 phase",
+      "G1 phase",
+      "G2 phase",
+      "S phase"
+    ],
+    "displayName": "interphase (G0 phase, G1 phase, G2 phase, S phase)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/238189",
+    "prefLabel": "intracellular space",
+    "altLabels": [],
+    "displayName": "intracellular space",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/222893",
+    "prefLabel": "keratinocyte growth factor receptor",
+    "altLabels": [
+      "FGF receptor 2IIIb",
+      "KGF receptor",
+      "fibroblast growth factor receptor 2IIIb",
+      "keratinocyte growth factor receptors"
+    ],
+    "displayName": "keratinocyte growth factor receptor (FGF receptor 2IIIb, KGF receptor, fibroblast growth factor receptor 2IIIb, keratinocyte growth factor receptors)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9343",
+    "prefLabel": "kidneys",
+    "altLabels": [
+      "anterior kidney",
+      "head kidney"
+    ],
+    "displayName": "kidneys (anterior kidney, head kidney)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/298738",
+    "prefLabel": "kleptoplasty",
+    "altLabels": [],
+    "displayName": "kleptoplasty",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.76,
+    "p_exclude": 0.24,
+    "selected_probability": 0.76,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/246142",
+    "prefLabel": "Lewy bodies",
+    "altLabels": [],
+    "displayName": "Lewy bodies",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.72,
+    "p_exclude": 0.28,
+    "selected_probability": 0.72,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/50030",
+    "prefLabel": "light harvesting complex",
+    "altLabels": [
+      "chlorophyll antenna",
+      "chlorophyll antennae",
+      "light harvesting antennae",
+      "light harvesting complex 1",
+      "light harvesting complex 2",
+      "light harvesting complex I",
+      "light harvesting complex II",
+      "light-harvesting antenna complex",
+      "light-harvesting antenna complexes",
+      "light-harvesting antenna proteins",
+      "light-harvesting antenna systems",
+      "light-harvesting center"
+    ],
+    "displayName": "light harvesting complex (chlorophyll antenna, chlorophyll antennae, light harvesting antennae, light harvesting complex 1, light harvesting complex 2, light harvesting complex I, light harvesting complex II, light-harvesting antenna complex, light-harvesting antenna complexes, light-harvesting antenna proteins, light-harvesting antenna systems, light-harvesting center)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/229418",
+    "prefLabel": "liquid membranes",
+    "altLabels": [],
+    "displayName": "liquid membranes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9344",
+    "prefLabel": "liver",
+    "altLabels": [
+      "liver (anatomy)"
+    ],
+    "displayName": "liver (liver (anatomy))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14420",
+    "prefLabel": "lymphocytes",
+    "altLabels": [
+      "immunocompetent cells",
+      "lymphoid cells"
+    ],
+    "displayName": "lymphocytes (immunocompetent cells, lymphoid cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/50956",
+    "prefLabel": "lysosomes",
+    "altLabels": [],
+    "displayName": "lysosomes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/310092",
+    "prefLabel": "macroautophagy",
+    "altLabels": [
+      "aggrephagy",
+      "chaperone-assisted selective autophagy",
+      "lysophagy",
+      "pexophagy",
+      "proteaphagy",
+      "xenophagy"
+    ],
+    "displayName": "macroautophagy (aggrephagy, chaperone-assisted selective autophagy, lysophagy, pexophagy, proteaphagy, xenophagy)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9205",
+    "prefLabel": "male fertility",
+    "altLabels": [
+      "male subfertility"
+    ],
+    "displayName": "male fertility (male subfertility)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18525",
+    "prefLabel": "megakaryocytes",
+    "altLabels": [],
+    "displayName": "megakaryocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34167",
+    "prefLabel": "mitochondrial DNA",
+    "altLabels": [
+      "mtDNA (mitochondrial DNA)"
+    ],
+    "displayName": "mitochondrial DNA (mtDNA (mitochondrial DNA))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/308393",
+    "prefLabel": "mitochondrial genes",
+    "altLabels": [],
+    "displayName": "mitochondrial genes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/244932",
+    "prefLabel": "mitochondrial genome",
+    "altLabels": [
+      "mitogenome"
+    ],
+    "displayName": "mitochondrial genome (mitogenome)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/219042",
+    "prefLabel": "mitochondrial membrane",
+    "altLabels": [
+      "inner mitochondrial membrane",
+      "outer mitochondrial membrane"
+    ],
+    "displayName": "mitochondrial membrane (inner mitochondrial membrane, outer mitochondrial membrane)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/314424",
+    "prefLabel": "mitogens",
+    "altLabels": [
+      "phytomitogens"
+    ],
+    "displayName": "mitogens (phytomitogens)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/296510",
+    "prefLabel": "mitophagy",
+    "altLabels": [
+      "mitochondrial degradation"
+    ],
+    "displayName": "mitophagy (mitochondrial degradation)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/277897",
+    "prefLabel": "monocarboxylic acid transporters",
+    "altLabels": [
+      "lactate transport proteins",
+      "lactate transporters"
+    ],
+    "displayName": "monocarboxylic acid transporters (lactate transport proteins, lactate transporters)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/200160",
+    "prefLabel": "myofibrillar proteins",
+    "altLabels": [],
+    "displayName": "myofibrillar proteins",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/287139",
+    "prefLabel": "myogenin",
+    "altLabels": [],
+    "displayName": "myogenin",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9535",
+    "prefLabel": "nerve tissue",
+    "altLabels": [
+      "nerves"
+    ],
+    "displayName": "nerve tissue (nerves)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/31449",
+    "prefLabel": "neurons",
+    "altLabels": [
+      "cytons",
+      "nerve cells",
+      "neuronal cells",
+      "neurone",
+      "neurones"
+    ],
+    "displayName": "neurons (cytons, nerve cells, neuronal cells, neurone, neurones)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9426",
+    "prefLabel": "neurophysiology",
+    "altLabels": [
+      "nervous system physiology",
+      "neurobiology",
+      "neuroscience"
+    ],
+    "displayName": "neurophysiology (nervous system physiology, neurobiology, neuroscience)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/87320",
+    "prefLabel": "nucleocytoplasmic transport",
+    "altLabels": [
+      "nucleocytoplasmic trafficking"
+    ],
+    "displayName": "nucleocytoplasmic transport (nucleocytoplasmic trafficking)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10476",
+    "prefLabel": "nutrition physiology",
+    "altLabels": [],
+    "displayName": "nutrition physiology",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/215663",
+    "prefLabel": "occludins",
+    "altLabels": [],
+    "displayName": "occludins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23546",
+    "prefLabel": "organelles",
+    "altLabels": [
+      "cytoplasmic organelles"
+    ],
+    "displayName": "organelles (cytoplasmic organelles)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53498",
+    "prefLabel": "organogenesis",
+    "altLabels": [],
+    "displayName": "organogenesis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/52083",
+    "prefLabel": "osmosis",
+    "altLabels": [],
+    "displayName": "osmosis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.77,
+    "p_exclude": 0.23,
+    "selected_probability": 0.77,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/313483",
+    "prefLabel": "osteonecrosis",
+    "altLabels": [
+      "Kienbock disease",
+      "Kienbock's disease",
+      "bone necrosis"
+    ],
+    "displayName": "osteonecrosis (Kienbock disease, Kienbock's disease, bone necrosis)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8382",
+    "prefLabel": "oxygen consumption",
+    "altLabels": [],
+    "displayName": "oxygen consumption",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/278020",
+    "prefLabel": "P-glycoproteins",
+    "altLabels": [
+      "multidrug resistance protein 1",
+      "permeability glycoproteins"
+    ],
+    "displayName": "P-glycoproteins (multidrug resistance protein 1, permeability glycoproteins)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/296627",
+    "prefLabel": "pannexins",
+    "altLabels": [],
+    "displayName": "pannexins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/261291",
+    "prefLabel": "paracrine signaling",
+    "altLabels": [],
+    "displayName": "paracrine signaling",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.45,
+    "p_exclude": 0.55,
+    "selected_probability": 0.55,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/52082",
+    "prefLabel": "permeability",
+    "altLabels": [],
+    "displayName": "permeability",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.74,
+    "p_exclude": 0.26,
+    "selected_probability": 0.74,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/56073",
+    "prefLabel": "phagosomes",
+    "altLabels": [
+      "phagolysosomes"
+    ],
+    "displayName": "phagosomes (phagolysosomes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23434",
+    "prefLabel": "photorespiration",
+    "altLabels": [],
+    "displayName": "photorespiration",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14059",
+    "prefLabel": "photosynthesis",
+    "altLabels": [],
+    "displayName": "photosynthesis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3934",
+    "prefLabel": "physiological transport",
+    "altLabels": [
+      "biological transport",
+      "transcytosis"
+    ],
+    "displayName": "physiological transport (biological transport, transcytosis)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.84,
+    "p_exclude": 0.16,
+    "selected_probability": 0.84,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/314552",
+    "prefLabel": "plant nutrient resorption",
+    "altLabels": [],
+    "displayName": "plant nutrient resorption",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.56,
+    "p_exclude": 0.44,
+    "selected_probability": 0.56,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23409",
+    "prefLabel": "plasma membrane",
+    "altLabels": [
+      "plasmalemma"
+    ],
+    "displayName": "plasma membrane (plasmalemma)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47483",
+    "prefLabel": "plasmodesmata",
+    "altLabels": [],
+    "displayName": "plasmodesmata",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/25478",
+    "prefLabel": "plastid DNA",
+    "altLabels": [],
+    "displayName": "plastid DNA",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23384",
+    "prefLabel": "proliferating cell nuclear antigen",
+    "altLabels": [
+      "PCNA (proliferating cell nuclear antigen)"
+    ],
+    "displayName": "proliferating cell nuclear antigen (PCNA (proliferating cell nuclear antigen))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/58086",
+    "prefLabel": "protein transport",
+    "altLabels": [
+      "protein sorting",
+      "protein trafficking",
+      "protein translocation"
+    ],
+    "displayName": "protein transport (protein sorting, protein trafficking, protein translocation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.64,
+    "p_exclude": 0.36,
+    "selected_probability": 0.64,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243920",
+    "prefLabel": "proton-motive force",
+    "altLabels": [
+      "chemiosmosis",
+      "chemiosmotic mechanism"
+    ],
+    "displayName": "proton-motive force (chemiosmosis, chemiosmotic mechanism)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/56074",
+    "prefLabel": "pseudopodia",
+    "altLabels": [
+      "axopodia",
+      "filopodia",
+      "lamellipodia",
+      "lobopodia"
+    ],
+    "displayName": "pseudopodia (axopodia, filopodia, lamellipodia, lobopodia)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23372",
+    "prefLabel": "quorum sensing",
+    "altLabels": [
+      "quorum signaling"
+    ],
+    "displayName": "quorum sensing (quorum signaling)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.37,
+    "p_exclude": 0.63,
+    "selected_probability": 0.63,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/90688",
+    "prefLabel": "reticulocyte count",
+    "altLabels": [],
+    "displayName": "reticulocyte count",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/54163",
+    "prefLabel": "sarcomeres",
+    "altLabels": [],
+    "displayName": "sarcomeres",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.76,
+    "p_exclude": 0.24,
+    "selected_probability": 0.76,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/191190",
+    "prefLabel": "secretory granules",
+    "altLabels": [
+      "secretory vesicles",
+      "zymogen granules"
+    ],
+    "displayName": "secretory granules (secretory vesicles, zymogen granules)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/296230",
+    "prefLabel": "semen quality",
+    "altLabels": [
+      "semen characteristics",
+      "semen characters"
+    ],
+    "displayName": "semen quality (semen characteristics, semen characters)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/127",
+    "prefLabel": "senescence (aging)",
+    "altLabels": [
+      "aging (physiological process)"
+    ],
+    "displayName": "senescence (aging) (aging (physiological process))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/39946",
+    "prefLabel": "sexual reproduction",
+    "altLabels": [],
+    "displayName": "sexual reproduction",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.41,
+    "p_exclude": 0.59,
+    "selected_probability": 0.59,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/283211",
+    "prefLabel": "SNARE proteins",
+    "altLabels": [
+      "SNAP receptors",
+      "soluble N-ethylmaleimide-sensitive factor activating protein receptor (SNARE) proteins",
+      "soluble N-ethylmaleimide-sensitive factor activating protein receptor proteins",
+      "t-SNAREs",
+      "target SNARE proteins",
+      "v-SNAREs",
+      "vesicle SNARE proteins"
+    ],
+    "displayName": "SNARE proteins (SNAP receptors, soluble N-ethylmaleimide-sensitive factor activating protein receptor (SNARE) proteins, soluble N-ethylmaleimide-sensitive factor activating protein receptor proteins, t-SNAREs, target SNARE proteins, v-SNAREs, vesicle SNARE proteins)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46235",
+    "prefLabel": "somatic hybridization",
+    "altLabels": [
+      "somatic hybridisation"
+    ],
+    "displayName": "somatic hybridization (somatic hybridisation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.47,
+    "p_exclude": 0.53,
+    "selected_probability": 0.53,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9491",
+    "prefLabel": "sperm transport",
+    "altLabels": [
+      "sperm migration",
+      "transport in female genitalia",
+      "transport in male genitalia"
+    ],
+    "displayName": "sperm transport (sperm migration, transport in female genitalia, transport in male genitalia)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/63753",
+    "prefLabel": "spermiogenesis",
+    "altLabels": [
+      "sperm formation"
+    ],
+    "displayName": "spermiogenesis (sperm formation)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32914",
+    "prefLabel": "sporozoites",
+    "altLabels": [],
+    "displayName": "sporozoites",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20189",
+    "prefLabel": "subcellular fractions",
+    "altLabels": [],
+    "displayName": "subcellular fractions",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.78,
+    "p_exclude": 0.22,
+    "selected_probability": 0.78,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/343477",
+    "prefLabel": "superfecundation",
+    "altLabels": [
+      "superfecundity"
+    ],
+    "displayName": "superfecundation (superfecundity)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/343476",
+    "prefLabel": "superfetation",
+    "altLabels": [],
+    "displayName": "superfetation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9037",
+    "prefLabel": "superovulation",
+    "altLabels": [
+      "supervulatory treatment"
+    ],
+    "displayName": "superovulation (supervulatory treatment)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/65243",
+    "prefLabel": "suppressor cells",
+    "altLabels": [
+      "suppressor-effector T-lymphocytes",
+      "suppressor-inducer T-lymphocytes"
+    ],
+    "displayName": "suppressor cells (suppressor-effector T-lymphocytes, suppressor-inducer T-lymphocytes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.91,
+    "p_exclude": 0.09,
+    "selected_probability": 0.91,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/148685",
+    "prefLabel": "symplast",
+    "altLabels": [
+      "symplasm",
+      "symplastic compartment",
+      "symplastic component",
+      "symplastic pathway"
+    ],
+    "displayName": "symplast (symplasm, symplastic compartment, symplastic component, symplastic pathway)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/54683",
+    "prefLabel": "synapse",
+    "altLabels": [
+      "synapses (nervous system)"
+    ],
+    "displayName": "synapse (synapses (nervous system))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/264089",
+    "prefLabel": "synaptic vesicles",
+    "altLabels": [
+      "neurotransmitter vesicles"
+    ],
+    "displayName": "synaptic vesicles (neurotransmitter vesicles)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.58,
+    "p_exclude": 0.42,
+    "selected_probability": 0.58,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/295041",
+    "prefLabel": "T-cell lymphoma",
+    "altLabels": [],
+    "displayName": "T-cell lymphoma",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/50929",
+    "prefLabel": "thymocytes",
+    "altLabels": [],
+    "displayName": "thymocytes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47484",
+    "prefLabel": "tight junctions",
+    "altLabels": [
+      "occluding junctions",
+      "zonula occludens"
+    ],
+    "displayName": "tight junctions (occluding junctions, zonula occludens)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/770",
+    "prefLabel": "tissue degeneration",
+    "altLabels": [],
+    "displayName": "tissue degeneration",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23411",
+    "prefLabel": "tonoplast",
+    "altLabels": [],
+    "displayName": "tonoplast",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/271059",
+    "prefLabel": "transient receptor potential channels",
+    "altLabels": [
+      "TRP cation channels",
+      "TRP membrane proteins",
+      "transient receptor potential (TRP) channels"
+    ],
+    "displayName": "transient receptor potential channels (TRP cation channels, TRP membrane proteins, transient receptor potential (TRP) channels)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/55918",
+    "prefLabel": "vitellogenesis",
+    "altLabels": [],
+    "displayName": "vitellogenesis",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.46,
+    "p_exclude": 0.54,
+    "selected_probability": 0.54,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  }
+]

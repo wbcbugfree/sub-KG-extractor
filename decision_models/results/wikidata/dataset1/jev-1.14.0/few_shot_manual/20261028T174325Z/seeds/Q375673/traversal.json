@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q375673",
+  "seed_label": "Jakarta Servlet",
+  "included_qids": [
+    "Q165194",
+    "Q20819677",
+    "Q375673",
+    "Q4672467"
+  ],
+  "pruned_qids": [
+    "Q109772972",
+    "Q29053484",
+    "Q56254915",
+    "Q60229368",
+    "Q60738905"
+  ],
+  "visited_qids": [
+    "Q109772972",
+    "Q165194",
+    "Q20819677",
+    "Q29053484",
+    "Q375673",
+    "Q4672467",
+    "Q56254915",
+    "Q60229368",
+    "Q60738905"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 1,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:06.095439+00:00",
+  "finished_at_utc": "2026-10-28T17:44:06.835202+00:00",
+  "wall_seconds": 0.7397730999946361,
+  "frontier_exhausted": true
+}

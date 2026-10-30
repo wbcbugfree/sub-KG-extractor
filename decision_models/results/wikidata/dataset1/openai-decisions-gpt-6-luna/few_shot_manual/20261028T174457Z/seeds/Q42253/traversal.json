@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q42253",
+  "seed_label": "Uniform Resource Locator",
+  "included_qids": [
+    "Q317623",
+    "Q42253"
+  ],
+  "pruned_qids": [
+    "Q105990004",
+    "Q105990097",
+    "Q2309650",
+    "Q375479",
+    "Q45941145",
+    "Q56277227"
+  ],
+  "visited_qids": [
+    "Q105990004",
+    "Q105990097",
+    "Q2309650",
+    "Q317623",
+    "Q375479",
+    "Q42253",
+    "Q45941145",
+    "Q56277227"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 0,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:04.323912+00:00",
+  "finished_at_utc": "2026-10-28T17:46:05.292416+00:00",
+  "wall_seconds": 0.9685087999969255,
+  "frontier_exhausted": true
+}

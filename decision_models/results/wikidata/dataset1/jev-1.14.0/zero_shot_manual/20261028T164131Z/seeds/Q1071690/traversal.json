@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q1071690",
+  "seed_label": "chief security officer",
+  "included_qids": [
+    "Q1071690",
+    "Q11488158"
+  ],
+  "pruned_qids": [
+    "Q108392111",
+    "Q4376769"
+  ],
+  "visited_qids": [
+    "Q1071690",
+    "Q108392111",
+    "Q11488158",
+    "Q4376769"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 0,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:35.068907+00:00",
+  "finished_at_utc": "2026-10-28T16:41:35.708349+00:00",
+  "wall_seconds": 0.6394484999909764,
+  "frontier_exhausted": true
+}

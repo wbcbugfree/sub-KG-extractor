@@ -1,0 +1,243 @@
+{
+  "false_positive": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1139",
+      "label": "cold injury",
+      "p_include": 0.8
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1140",
+      "label": "heat injury",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1141",
+      "label": "mechanical damage",
+      "p_include": 0.53
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1227",
+      "label": "Aster yellows phytoplasma",
+      "p_include": 0.68
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15089",
+      "label": "seed-borne bacteria",
+      "p_include": 0.8
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15212",
+      "label": "wetwood",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1733",
+      "label": "water stress",
+      "p_include": 0.63
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17679",
+      "label": "plant nutrition",
+      "p_include": 0.52
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18240",
+      "label": "blue-stain fungi",
+      "p_include": 0.65
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18245",
+      "label": "stain fungi",
+      "p_include": 0.52
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18657",
+      "label": "boring insects",
+      "p_include": 0.61
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18857",
+      "label": "Phytophthora infestans",
+      "p_include": 0.91
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/193011",
+      "label": "winterkill",
+      "p_include": 0.91
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/20087",
+      "label": "brown-rot fungi",
+      "p_include": 0.61
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/20101",
+      "label": "decay fungi",
+      "p_include": 0.81
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24945",
+      "label": "chilling injury",
+      "p_include": 0.97
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/266495",
+      "label": "Blueberry mosaic associated virus",
+      "p_include": 0.79
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/276071",
+      "label": "gall-inducing insects",
+      "p_include": 0.56
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/27771",
+      "label": "frost injury",
+      "p_include": 0.92
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/281119",
+      "label": "Irish potato famine",
+      "p_include": 0.94
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/30114",
+      "label": "crop losses",
+      "p_include": 0.56
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/301428",
+      "label": "frost protection",
+      "p_include": 0.53
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306705",
+      "label": "seed-borne organisms",
+      "p_include": 0.7
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31674",
+      "label": "trampling damage",
+      "p_include": 0.86
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31897",
+      "label": "soft-rot fungi",
+      "p_include": 0.7
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31898",
+      "label": "decayed wood",
+      "p_include": 0.63
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/37057",
+      "label": "seed-borne fungi",
+      "p_include": 0.73
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41837",
+      "label": "sapstain fungi",
+      "p_include": 0.6
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/58850",
+      "label": "Plum pox virus",
+      "p_include": 0.9
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8478",
+      "label": "Diagnosis and Recommendation Integrated System",
+      "p_include": 0.59
+    }
+  ],
+  "false_negative_explicit_exclude": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/12578",
+      "label": "defoliation",
+      "p_include": 0.39
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306694",
+      "label": "seed pests",
+      "p_include": 0.36
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/36798",
+      "label": "embolism",
+      "p_include": 0.3
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/40266",
+      "label": "fire scars",
+      "p_include": 0.42
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41128",
+      "label": "forest health",
+      "p_include": 0.49
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/58608",
+      "label": "seed pathology",
+      "p_include": 0.46
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/924",
+      "label": "hypoxia",
+      "p_include": 0.12
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/942",
+      "label": "blight",
+      "p_include": 0.44
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/952",
+      "label": "wilting",
+      "p_include": 0.48
+    }
+  ],
+  "false_negative_unreached": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18026",
+      "label": "leaf blight",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/209762",
+      "label": "ear blight",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/314221",
+      "label": "nursery pests",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/314238",
+      "label": "cone and seed pests",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/315576",
+      "label": "stem blight",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/315580",
+      "label": "gummy stem blight",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/58596",
+      "label": "plant pathology",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/58597",
+      "label": "tree mortality",
+      "p_include": null
+    }
+  ]
+}

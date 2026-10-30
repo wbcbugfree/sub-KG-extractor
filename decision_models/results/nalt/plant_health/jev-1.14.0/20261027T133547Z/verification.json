@@ -1,0 +1,31 @@
+{
+  "verified_at_utc": "2026-10-27T13:40:02.922337+00:00",
+  "checks_passed": true,
+  "unique_model_decisions": 529,
+  "seed_count": 2,
+  "successful_requests": 28,
+  "raw_answers_match_csv": true,
+  "request_bodies_and_prompt_match": true,
+  "code_hashes_match": true,
+  "baseline_files_unchanged": true,
+  "confusion_matrix_independently_recomputed": {
+    "true_positive": 202,
+    "false_positive": 30,
+    "false_negative": 17,
+    "true_negative": 279
+  },
+  "probabilities_present_for_every_model_decision": true,
+  "unreached_and_seed_probabilities_not_fabricated": true,
+  "credential_scan_passed": true,
+  "bfs_audit": {
+    "exact_frontier_requests": true,
+    "included_only_expansion": true,
+    "visited_once": true,
+    "iteration_trace_exact": true,
+    "remaining_frontier_count": 0,
+    "frontier_exhausted": true,
+    "model_decisions": 529,
+    "prompt_text_preserved": true,
+    "baseline_files_unchanged": true
+  }
+}

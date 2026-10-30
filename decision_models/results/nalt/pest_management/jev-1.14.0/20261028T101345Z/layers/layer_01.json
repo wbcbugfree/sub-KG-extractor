@@ -1,0 +1,1268 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/817",
+    "prefLabel": "acaricides",
+    "altLabels": [
+      "miticides"
+    ],
+    "displayName": "acaricides (miticides)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/818",
+    "prefLabel": "adulticides",
+    "altLabels": [],
+    "displayName": "adulticides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.82,
+    "p_exclude": 0.18,
+    "selected_probability": 0.82,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/203",
+    "prefLabel": "agrochemicals",
+    "altLabels": [
+      "agri-chemicals",
+      "agrichemicals",
+      "agricultural chemicals",
+      "farm chemicals"
+    ],
+    "displayName": "agrochemicals (agri-chemicals, agrichemicals, agricultural chemicals, farm chemicals)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/819",
+    "prefLabel": "algicides",
+    "altLabels": [
+      "algaecides"
+    ],
+    "displayName": "algicides (algaecides)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.8,
+    "p_exclude": 0.2,
+    "selected_probability": 0.8,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/127349",
+    "prefLabel": "animal control services",
+    "altLabels": [],
+    "displayName": "animal control services",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/284420",
+    "prefLabel": "aphidophagous predators",
+    "altLabels": [
+      "aphidophagy"
+    ],
+    "displayName": "aphidophagous predators (aphidophagy)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/820",
+    "prefLabel": "avicides",
+    "altLabels": [],
+    "displayName": "avicides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/148552",
+    "prefLabel": "biocides",
+    "altLabels": [
+      "biocidal agents",
+      "biocidal compounds",
+      "biocidal products",
+      "biocidal substances"
+    ],
+    "displayName": "biocides (biocidal agents, biocidal compounds, biocidal products, biocidal substances)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.74,
+    "p_exclude": 0.26,
+    "selected_probability": 0.74,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136198",
+    "prefLabel": "biological pest control",
+    "altLabels": [
+      "biological control of pests"
+    ],
+    "displayName": "biological pest control (biological control of pests)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17220",
+    "prefLabel": "biopesticides",
+    "altLabels": [
+      "bio-based pesticides",
+      "biobased pesticides",
+      "biofungicides",
+      "bioherbicides",
+      "bioinsecticides",
+      "biological insecticides",
+      "biological pesticides",
+      "biorational pesticides",
+      "environmentally friendly pesticides",
+      "environmentally-friendly pesticides"
+    ],
+    "displayName": "biopesticides (bio-based pesticides, biobased pesticides, biofungicides, bioherbicides, bioinsecticides, biological insecticides, biological pesticides, biorational pesticides, environmentally friendly pesticides, environmentally-friendly pesticides)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17592",
+    "prefLabel": "bird control",
+    "altLabels": [],
+    "displayName": "bird control",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/812",
+    "prefLabel": "carbamate pesticides",
+    "altLabels": [],
+    "displayName": "carbamate pesticides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24625",
+    "prefLabel": "chemical control",
+    "altLabels": [
+      "chemical treatment (disease)",
+      "chemical treatment (pest)"
+    ],
+    "displayName": "chemical control (chemical treatment (disease), chemical treatment (pest))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216949",
+    "prefLabel": "chemosterilants",
+    "altLabels": [],
+    "displayName": "chemosterilants",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.62,
+    "p_exclude": 0.38,
+    "selected_probability": 0.62,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28786",
+    "prefLabel": "disinfestation",
+    "altLabels": [],
+    "displayName": "disinfestation",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/226",
+    "prefLabel": "endocrine-disrupting chemicals",
+    "altLabels": [
+      "endocrine active chemicals",
+      "endocrine disrupters",
+      "endocrine disrupting chemicals",
+      "endocrine disruptors",
+      "endocrine-disrupting agents",
+      "endocrine-disrupting compounds"
+    ],
+    "displayName": "endocrine-disrupting chemicals (endocrine active chemicals, endocrine disrupters, endocrine disrupting chemicals, endocrine disruptors, endocrine-disrupting agents, endocrine-disrupting compounds)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/284633",
+    "prefLabel": "foggers",
+    "altLabels": [
+      "cold foggers",
+      "fogging machines",
+      "thermal foggers"
+    ],
+    "displayName": "foggers (cold foggers, fogging machines, thermal foggers)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/821",
+    "prefLabel": "fungicides",
+    "altLabels": [
+      "antifungal agents (pesticides)",
+      "fungicidal agents (pesticides)"
+    ],
+    "displayName": "fungicides (antifungal agents (pesticides), fungicidal agents (pesticides))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/822",
+    "prefLabel": "herbicides",
+    "altLabels": [
+      "weed killers"
+    ],
+    "displayName": "herbicides (weed killers)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/39308",
+    "prefLabel": "impregnated fabrics",
+    "altLabels": [],
+    "displayName": "impregnated fabrics",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45983",
+    "prefLabel": "insect control",
+    "altLabels": [
+      "insect pest management"
+    ],
+    "displayName": "insect control (insect pest management)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/823",
+    "prefLabel": "insecticides",
+    "altLabels": [],
+    "displayName": "insecticides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/223614",
+    "prefLabel": "Interregional Research Project 4 (IR-4)",
+    "altLabels": [
+      "IR-4 Project",
+      "IR-4 program"
+    ],
+    "displayName": "Interregional Research Project 4 (IR-4) (IR-4 Project, IR-4 program)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.57,
+    "p_exclude": 0.43,
+    "selected_probability": 0.57,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/824",
+    "prefLabel": "larvicides",
+    "altLabels": [],
+    "displayName": "larvicides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/98255",
+    "prefLabel": "metam-potassium",
+    "altLabels": [
+      "metham-potassium",
+      "potassium N-methyldithiocarbamate",
+      "potassium methyldithiocarbamate"
+    ],
+    "displayName": "metam-potassium (metham-potassium, potassium N-methyldithiocarbamate, potassium methyldithiocarbamate)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53148",
+    "prefLabel": "mite control",
+    "altLabels": [],
+    "displayName": "mite control",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53264",
+    "prefLabel": "mollusc control",
+    "altLabels": [
+      "control of slugs",
+      "control of snails"
+    ],
+    "displayName": "mollusc control (control of slugs, control of snails)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/825",
+    "prefLabel": "molluscicides",
+    "altLabels": [],
+    "displayName": "molluscicides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/826",
+    "prefLabel": "nematicides",
+    "altLabels": [
+      "anti-nematodal agents",
+      "antinematodal agents",
+      "antinematodals",
+      "filaricides"
+    ],
+    "displayName": "nematicides (anti-nematodal agents, antinematodal agents, antinematodals, filaricides)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34022",
+    "prefLabel": "nontarget organisms",
+    "altLabels": [
+      "nontarget species"
+    ],
+    "displayName": "nontarget organisms (nontarget species)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/813",
+    "prefLabel": "organochlorine pesticides",
+    "altLabels": [
+      "organic chlorine pesticides"
+    ],
+    "displayName": "organochlorine pesticides (organic chlorine pesticides)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/814",
+    "prefLabel": "organophosphorus pesticides",
+    "altLabels": [
+      "organophosphate pesticides"
+    ],
+    "displayName": "organophosphorus pesticides (organophosphate pesticides)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/815",
+    "prefLabel": "organotin pesticides",
+    "altLabels": [],
+    "displayName": "organotin pesticides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/827",
+    "prefLabel": "ovicides",
+    "altLabels": [],
+    "displayName": "ovicides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/386",
+    "prefLabel": "pest control equipment",
+    "altLabels": [],
+    "displayName": "pest control equipment",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/55540",
+    "prefLabel": "pest control operators",
+    "altLabels": [
+      "pesticide applicators (human)",
+      "pesticide workers"
+    ],
+    "displayName": "pest control operators (pesticide applicators (human), pesticide workers)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.27,
+    "p_exclude": 0.73,
+    "selected_probability": 0.73,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4235",
+    "prefLabel": "pesticide adjuvants",
+    "altLabels": [],
+    "displayName": "pesticide adjuvants",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/142739",
+    "prefLabel": "pesticide application equipment",
+    "altLabels": [],
+    "displayName": "pesticide application equipment",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.65,
+    "p_exclude": 0.35,
+    "selected_probability": 0.65,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4715",
+    "prefLabel": "pesticide formulations",
+    "altLabels": [
+      "insecticide formulations"
+    ],
+    "displayName": "pesticide formulations (insecticide formulations)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5351",
+    "prefLabel": "pesticide industry",
+    "altLabels": [],
+    "displayName": "pesticide industry",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68867",
+    "prefLabel": "pesticide law",
+    "altLabels": [
+      "Federal Insectide, Fungicide, and Rodenticide Act",
+      "Pesticide Registration Improvement Act of 2003",
+      "pesticide legislation"
+    ],
+    "displayName": "pesticide law (Federal Insectide, Fungicide, and Rodenticide Act, Pesticide Registration Improvement Act of 2003, pesticide legislation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.45,
+    "p_exclude": 0.55,
+    "selected_probability": 0.55,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/324538",
+    "prefLabel": "pesticide metabolites",
+    "altLabels": [],
+    "displayName": "pesticide metabolites",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5593",
+    "prefLabel": "pesticide safety and handling",
+    "altLabels": [],
+    "displayName": "pesticide safety and handling",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30154",
+    "prefLabel": "plant protection",
+    "altLabels": [
+      "crop protection",
+      "plant health protection"
+    ],
+    "displayName": "plant protection (crop protection, plant health protection)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68395",
+    "prefLabel": "plant-incorporated protectants",
+    "altLabels": [
+      "PIPs (plant incorporated protectants)",
+      "plant incorporated protectants"
+    ],
+    "displayName": "plant-incorporated protectants (PIPs (plant incorporated protectants), plant incorporated protectants)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15548",
+    "prefLabel": "poisoning of animal pests",
+    "altLabels": [],
+    "displayName": "poisoning of animal pests",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/57548",
+    "prefLabel": "predator control",
+    "altLabels": [],
+    "displayName": "predator control",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.65,
+    "p_exclude": 0.35,
+    "selected_probability": 0.65,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/57549",
+    "prefLabel": "rodent control",
+    "altLabels": [],
+    "displayName": "rodent control",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/828",
+    "prefLabel": "rodenticides",
+    "altLabels": [
+      "rat poisons"
+    ],
+    "displayName": "rodenticides (rat poisons)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/306575",
+    "prefLabel": "silvicides",
+    "altLabels": [],
+    "displayName": "silvicides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/270491",
+    "prefLabel": "slow-release pesticides",
+    "altLabels": [
+      "slow-release insecticides"
+    ],
+    "displayName": "slow-release pesticides (slow-release insecticides)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24628",
+    "prefLabel": "soil drenching",
+    "altLabels": [
+      "soil drench",
+      "soil drenches"
+    ],
+    "displayName": "soil drenching (soil drench, soil drenches)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11343",
+    "prefLabel": "soil treatment",
+    "altLabels": [
+      "application to soil",
+      "soil application"
+    ],
+    "displayName": "soil treatment (application to soil, soil application)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/57550",
+    "prefLabel": "stored product protection",
+    "altLabels": [
+      "stored products pest control"
+    ],
+    "displayName": "stored product protection (stored products pest control)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/213696",
+    "prefLabel": "thidiazuron",
+    "altLabels": [
+      "TDZ (thidiazuron)"
+    ],
+    "displayName": "thidiazuron (TDZ (thidiazuron))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.43,
+    "p_exclude": 0.57,
+    "selected_probability": 0.57,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/57551",
+    "prefLabel": "tick control",
+    "altLabels": [],
+    "displayName": "tick control",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1780",
+    "prefLabel": "toxic substances",
+    "altLabels": [
+      "hazardous chemicals",
+      "hazardous compounds",
+      "hazardous substances",
+      "poisonous substances",
+      "toxic chemicals",
+      "toxic compounds",
+      "toxic exudates",
+      "toxicants"
+    ],
+    "displayName": "toxic substances (hazardous chemicals, hazardous compounds, hazardous substances, poisonous substances, toxic chemicals, toxic compounds, toxic exudates, toxicants)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30194",
+    "prefLabel": "trap crops",
+    "altLabels": [],
+    "displayName": "trap crops",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.82,
+    "p_exclude": 0.18,
+    "selected_probability": 0.82,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/305662",
+    "prefLabel": "vermin control",
+    "altLabels": [],
+    "displayName": "vermin control",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1427",
+    "legacy_row_id": "Q30232|Q66747126",
+    "seed_qid": "Q30232",
+    "seed_label": "agile software development",
+    "qid": "Q66747126",
+    "label": "computer science term",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q30232",
+    "parent_label": "agile software development",
+    "path": "agile software development --instance of--> computer science term",
+    "uri": "http://www.wikidata.org/entity/Q66747126",
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

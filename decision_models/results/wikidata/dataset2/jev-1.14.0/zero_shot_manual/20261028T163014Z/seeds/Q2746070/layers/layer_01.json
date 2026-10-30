@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row128",
+    "legacy_row_id": "Q2746070|Q477248",
+    "seed_qid": "Q2746070",
+    "seed_label": "Canelé",
+    "qid": "Q477248",
+    "label": "pastry",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P279",
+    "reaching_property_label": "subclass of",
+    "parent_qid": "Q2746070",
+    "parent_label": "Canelé",
+    "path": "Canelé --subclass of--> pastry",
+    "uri": "http://www.wikidata.org/entity/Q477248",
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

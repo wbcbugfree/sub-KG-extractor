@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1426",
+    "legacy_row_id": "Q77590|Q1881523",
+    "seed_qid": "Q77590",
+    "seed_label": "civil engineering",
+    "qid": "Q1881523",
+    "label": "STEM fields",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q4671286",
+    "parent_label": "academic major",
+    "path": "civil engineering --instance of--> field of work --has subclass--> academic major --has subclass--> STEM fields",
+    "uri": "http://www.wikidata.org/entity/Q1881523",
+    "classification": "EXCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.4,
+    "p_exclude": 0.6,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2002",
+    "legacy_row_id": "Q1142376|Q41401699",
+    "seed_qid": "Q1142376",
+    "seed_label": "LIFO",
+    "qid": "Q41401699",
+    "label": "scheduling algorithm",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1142376",
+    "parent_label": "LIFO",
+    "path": "LIFO --instance of--> scheduling algorithm",
+    "uri": "http://www.wikidata.org/entity/Q41401699",
+    "classification": "INCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.83,
+    "p_exclude": 0.17,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

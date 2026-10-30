@@ -1,0 +1,437 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/105992",
+    "prefLabel": "adaptive immunity",
+    "altLabels": [
+      "acquired immune system",
+      "acquired immunity",
+      "adaptive immune response",
+      "adaptive immune system",
+      "adoptive immunity"
+    ],
+    "displayName": "adaptive immunity (acquired immune system, acquired immunity, adaptive immune response, adaptive immune system, adoptive immunity)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/217636",
+    "prefLabel": "antibody affinity",
+    "altLabels": [
+      "antibody avidity"
+    ],
+    "displayName": "antibody affinity (antibody avidity)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.76,
+    "p_exclude": 0.24,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/217635",
+    "prefLabel": "antibody diversity",
+    "altLabels": [
+      "germ line theory",
+      "immunoglobulin diversity"
+    ],
+    "displayName": "antibody diversity (germ line theory, immunoglobulin diversity)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.84,
+    "p_exclude": 0.16,
+    "selected_probability": 0.84,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/217634",
+    "prefLabel": "antibody specificity",
+    "altLabels": [],
+    "displayName": "antibody specificity",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.7,
+    "p_exclude": 0.3,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/13995",
+    "prefLabel": "autoimmunity",
+    "altLabels": [
+      "autoimmune response"
+    ],
+    "displayName": "autoimmunity (autoimmune response)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.71,
+    "p_exclude": 0.29,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/114",
+    "prefLabel": "biological resistance",
+    "altLabels": [
+      "biocide resistance"
+    ],
+    "displayName": "biological resistance (biocide resistance)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30199",
+    "prefLabel": "cross immunity",
+    "altLabels": [
+      "cross-immunity",
+      "cross-protective immunity"
+    ],
+    "displayName": "cross immunity (cross-immunity, cross-protective immunity)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.91,
+    "p_exclude": 0.09,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/263906",
+    "prefLabel": "herd immunity",
+    "altLabels": [
+      "community immunity"
+    ],
+    "displayName": "herd immunity (community immunity)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.44,
+    "p_exclude": 0.56,
+    "selected_probability": 0.56,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10232",
+    "prefLabel": "immune response",
+    "altLabels": [
+      "immunity response",
+      "immunological response"
+    ],
+    "displayName": "immune response (immunity response, immunological response)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8973",
+    "prefLabel": "immune system",
+    "altLabels": [],
+    "displayName": "immune system",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28327",
+    "prefLabel": "immunocompetence",
+    "altLabels": [
+      "immune competence"
+    ],
+    "displayName": "immunocompetence (immune competence)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.72,
+    "p_exclude": 0.28,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/266183",
+    "prefLabel": "immunoinformatics",
+    "altLabels": [
+      "computational immunology",
+      "immune-based systems",
+      "immunocomputing"
+    ],
+    "displayName": "immunoinformatics (computational immunology, immune-based systems, immunocomputing)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.6,
+    "p_exclude": 0.4,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/340",
+    "prefLabel": "immunologic diseases",
+    "altLabels": [
+      "immunological diseases"
+    ],
+    "displayName": "immunologic diseases (immunological diseases)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/203529",
+    "prefLabel": "immunomodulation",
+    "altLabels": [
+      "immunoregulation"
+    ],
+    "displayName": "immunomodulation (immunoregulation)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/105991",
+    "prefLabel": "innate immunity",
+    "altLabels": [
+      "innate immune response",
+      "innate immune system",
+      "natural immunity"
+    ],
+    "displayName": "innate immunity (innate immune response, innate immune system, natural immunity)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46974",
+    "prefLabel": "insect immunity",
+    "altLabels": [],
+    "displayName": "insect immunity",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.67,
+    "p_exclude": 0.33,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46975",
+    "prefLabel": "mucosal immunity",
+    "altLabels": [
+      "mucosal immune response"
+    ],
+    "displayName": "mucosal immunity (mucosal immune response)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4326",
+    "prefLabel": "passive immunity",
+    "altLabels": [],
+    "displayName": "passive immunity",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/266333",
+    "prefLabel": "secondary infection",
+    "altLabels": [],
+    "displayName": "secondary infection",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/262790",
+    "prefLabel": "sterilizing immunity",
+    "altLabels": [],
+    "displayName": "sterilizing immunity",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.75,
+    "p_exclude": 0.25,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  }
+]

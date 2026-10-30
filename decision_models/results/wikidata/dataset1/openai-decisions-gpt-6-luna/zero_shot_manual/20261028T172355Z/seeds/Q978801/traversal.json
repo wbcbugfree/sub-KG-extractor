@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q978801",
+  "seed_label": "mobile country code",
+  "included_qids": [
+    "Q1140221",
+    "Q906278",
+    "Q978801"
+  ],
+  "pruned_qids": [
+    "Q133153"
+  ],
+  "visited_qids": [
+    "Q1140221",
+    "Q133153",
+    "Q906278",
+    "Q978801"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:25:16.783533+00:00",
+  "finished_at_utc": "2026-10-28T17:25:17.562545+00:00",
+  "wall_seconds": 0.7790115999960108,
+  "frontier_exhausted": true
+}

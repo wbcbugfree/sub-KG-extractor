@@ -1,0 +1,54 @@
+{
+  "seed_qid": "Q207819",
+  "seed_label": "Standard Generalized Markup Language",
+  "included_qids": [
+    "Q193983",
+    "Q207819",
+    "Q235557",
+    "Q37045"
+  ],
+  "pruned_qids": [
+    "Q1572121",
+    "Q2206173",
+    "Q243303",
+    "Q27824058",
+    "Q28846213",
+    "Q45989477",
+    "Q682626"
+  ],
+  "visited_qids": [
+    "Q1572121",
+    "Q193983",
+    "Q207819",
+    "Q2206173",
+    "Q235557",
+    "Q243303",
+    "Q27824058",
+    "Q28846213",
+    "Q37045",
+    "Q45989477",
+    "Q682626"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 7,
+      "included": 0,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:27.788056+00:00",
+  "finished_at_utc": "2026-10-28T17:24:28.431376+00:00",
+  "wall_seconds": 0.6433114999963436,
+  "frontier_exhausted": true
+}

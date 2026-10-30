@@ -1,0 +1,41 @@
+Preparing pest_management: fingerprinted NALT and exact baseline replay
+Iteration 1: evaluated=59 included=44 pruned=15
+Iteration 2: evaluated=403 included=285 pruned=118
+Iteration 3: evaluated=526 included=406 pruned=120
+Iteration 4: evaluated=191 included=124 pruned=67
+Iteration 5: evaluated=42 included=31 pruned=11
+Iteration 6: evaluated=2 included=0 pruned=2
+Iteration 1: evaluated=59 included=39 pruned=20
+Iteration 2: evaluated=384 included=272 pruned=112
+Iteration 3: evaluated=513 included=400 pruned=113
+Iteration 4: evaluated=183 included=122 pruned=61
+Iteration 5: evaluated=38 included=30 pruned=8
+Iteration 6: evaluated=1 included=0 pruned=1
+Iteration 1: evaluated=59 included=37 pruned=22
+Iteration 2: evaluated=374 included=250 pruned=124
+Iteration 3: evaluated=515 included=368 pruned=147
+Iteration 4: evaluated=299 included=152 pruned=147
+Iteration 5: evaluated=94 included=34 pruned=60
+Iteration 6: evaluated=20 included=6 pruned=14
+Iteration 7: evaluated=7 included=1 pruned=6
+Iteration 8: evaluated=11 included=1 pruned=10
+Iteration 9: evaluated=1 included=0 pruned=1
+Iteration 1: evaluated=59 included=41 pruned=18
+Iteration 2: evaluated=388 included=290 pruned=98
+Iteration 3: evaluated=571 included=423 pruned=148
+Iteration 4: evaluated=206 included=126 pruned=80
+Iteration 5: evaluated=71 included=32 pruned=39
+Iteration 6: evaluated=6 included=2 pruned=4
+Decisions layer 1: 59 candidates in 3 live requests
+Iteration 1: evaluated=59 included=45 pruned=14
+Decisions layer 2: 403 candidates in 21 live requests
+Iteration 2: evaluated=403 included=288 pruned=115
+Decisions layer 3: 586 candidates in 30 live requests
+Iteration 3: evaluated=586 included=411 pruned=175
+Decisions layer 4: 232 candidates in 12 live requests
+Iteration 4: evaluated=232 included=138 pruned=94
+Decisions layer 5: 105 candidates in 6 live requests
+Iteration 5: evaluated=105 included=36 pruned=69
+Decisions layer 6: 7 candidates in 1 live requests
+Iteration 6: evaluated=7 included=2 pruned=5
+{"branch": "pest_management", "status": "complete", "metrics": {"true_positive": 769, "false_positive": 145, "false_negative": 83, "true_negative": 413, "precision": 0.8413566739606126, "recall": 0.9025821596244131, "f1": 0.870894677236693, "accuracy": 0.8382978723404255, "evaluation_total": 1410, "excluded_evaluation_count": 9, "gold_positive_count": 852, "reachable_gold_positive_count": 858, "raw_gold_positive_count": 859, "unreachable_gold_positive_count": 1, "included_count": 914, "raw_included_count": 922, "pruned_count": 471, "raw_pruned_count": 472, "visited_count": 1385, "raw_visited_count": 1394, "iterations": 7}, "usage": {"input_tokens": 1676033, "output_tokens": 0, "total_tokens": 1676033, "cached_tokens": 0, "cache_write_tokens": 0, "uncached_input_tokens": 1676033, "estimated_cost_usd": 0.1676033, "live_bfs_wall_seconds": 11.308813999996346, "logical_requests": 73, "request_attempts": 73, "successful_requests": 73, "retries": 0, "failed_attempts": 0, "attempts_without_usage": 0, "attempts_without_cost": 0, "summed_attempt_latency_seconds": 41.676628100001835, "median_success_latency_seconds": 0.5895845999984886, "p95_success_latency_seconds": 0.7473557999983313, "max_success_latency_seconds": 0.7989824000032968, "response_models": ["gpt-6-luna"], "price_checked_on": "2026-10-28", "price_sources": ["https://developers.openai.com/api/docs/guides/decisions", "https://developers.openai.com/api/docs/pricing"], "rates_usd_per_million": {"uncached_input": 0.1, "cached_input": 0.01, "cache_write_30m": 0.125, "output": 0.0}, "cost_note": "Estimate for global endpoint, short context, default 30m cache TTL; unknown usage is not zero. Output is free. Cache reads/writes are subsets of input tokens.", "total_run_wall_seconds": 83.07078620000539, "preparation_wall_seconds": 65.42339880000509, "graph_parse_and_index_seconds": 53.28984390000551, "baseline_replay_seconds": 11.729772200000298, "postprocessing_wall_seconds": 6.338573400003952}}

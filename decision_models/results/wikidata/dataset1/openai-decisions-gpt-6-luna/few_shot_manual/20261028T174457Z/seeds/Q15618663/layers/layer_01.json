@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row454",
+    "legacy_row_id": "Q15618663|Q1969448",
+    "seed_qid": "Q15618663",
+    "seed_label": "product backlog",
+    "qid": "Q1969448",
+    "label": "term",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q15618663",
+    "parent_label": "product backlog",
+    "path": "product backlog --instance of--> term",
+    "uri": "http://www.wikidata.org/entity/Q1969448",
+    "classification": "INCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.55,
+    "p_exclude": 0.45,
+    "selected_probability": 0.55,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

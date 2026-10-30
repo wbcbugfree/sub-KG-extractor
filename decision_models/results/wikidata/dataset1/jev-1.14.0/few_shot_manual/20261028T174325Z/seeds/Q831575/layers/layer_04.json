@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2127",
+    "legacy_row_id": "Q831575|Q5133843",
+    "seed_qid": "Q831575",
+    "seed_label": "Ishikawa diagram",
+    "qid": "Q5133843",
+    "label": "clinical prediction rule",
+    "csv_depth": 4,
+    "bfs_depth": 4,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q30314500",
+    "parent_label": "Risk score",
+    "path": "Ishikawa diagram --instance of--> management tool --has subclass--> risk management tool --has subclass--> Risk score --has subclass--> clinical prediction rule",
+    "uri": "http://www.wikidata.org/entity/Q5133843",
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "jev",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

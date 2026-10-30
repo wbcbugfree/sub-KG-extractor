@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3125",
+    "legacy_row_id": "Q1536|Q6313217",
+    "seed_qid": "Q1536",
+    "seed_label": "Coordinated Universal Time",
+    "qid": "Q6313217",
+    "label": "time standard",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1536",
+    "parent_label": "Coordinated Universal Time",
+    "path": "Coordinated Universal Time --instance of--> time standard",
+    "uri": "http://www.wikidata.org/entity/Q6313217",
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

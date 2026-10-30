@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q196538",
+  "seed_label": "microscope",
+  "included_qids": [
+    "Q1463415",
+    "Q15328",
+    "Q1751850",
+    "Q196538",
+    "Q1981926",
+    "Q7187868",
+    "Q901823",
+    "Q96782348"
+  ],
+  "pruned_qids": [
+    "Q17092661",
+    "Q5396251",
+    "Q54167390",
+    "Q8320"
+  ],
+  "visited_qids": [
+    "Q1463415",
+    "Q15328",
+    "Q17092661",
+    "Q1751850",
+    "Q196538",
+    "Q1981926",
+    "Q5396251",
+    "Q54167390",
+    "Q7187868",
+    "Q8320",
+    "Q901823",
+    "Q96782348"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 8,
+      "included": 6,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 1,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:05.034729+00:00",
+  "finished_at_utc": "2026-10-28T17:43:06.043068+00:00",
+  "wall_seconds": 1.0083363000012469,
+  "frontier_exhausted": true
+}

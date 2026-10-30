@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q52",
+  "seed_label": "Wikipedia",
+  "included_qids": [
+    "Q107307154",
+    "Q11853682",
+    "Q1293664",
+    "Q14827288",
+    "Q15633582",
+    "Q263",
+    "Q33120867",
+    "Q33120876",
+    "Q52",
+    "Q615699"
+  ],
+  "pruned_qids": [
+    "Q81311730",
+    "Q95948776"
+  ],
+  "visited_qids": [
+    "Q107307154",
+    "Q11853682",
+    "Q1293664",
+    "Q14827288",
+    "Q15633582",
+    "Q263",
+    "Q33120867",
+    "Q33120876",
+    "Q52",
+    "Q615699",
+    "Q81311730",
+    "Q95948776"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 5,
+      "included": 5,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 4,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:13.506707+00:00",
+  "finished_at_utc": "2026-10-28T17:43:14.937025+00:00",
+  "wall_seconds": 1.430315099991276,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q460387",
+  "seed_label": "Scrum",
+  "included_qids": [
+    "Q209711",
+    "Q23808624",
+    "Q25111127",
+    "Q30232",
+    "Q460387",
+    "Q607013"
+  ],
+  "pruned_qids": [
+    "Q2023606"
+  ],
+  "visited_qids": [
+    "Q2023606",
+    "Q209711",
+    "Q23808624",
+    "Q25111127",
+    "Q30232",
+    "Q460387",
+    "Q607013"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:13.228297+00:00",
+  "finished_at_utc": "2026-10-28T16:42:13.875965+00:00",
+  "wall_seconds": 0.6476728999987245,
+  "frontier_exhausted": true
+}

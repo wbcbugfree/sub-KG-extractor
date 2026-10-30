@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q35476",
+  "seed_label": "AT&T",
+  "included_qids": [
+    "Q161726",
+    "Q2401749",
+    "Q35476",
+    "Q4830453",
+    "Q6881511",
+    "Q891723"
+  ],
+  "pruned_qids": [
+    "Q105547053",
+    "Q16968466",
+    "Q220142",
+    "Q2566474"
+  ],
+  "visited_qids": [
+    "Q105547053",
+    "Q161726",
+    "Q16968466",
+    "Q220142",
+    "Q2401749",
+    "Q2566474",
+    "Q35476",
+    "Q4830453",
+    "Q6881511",
+    "Q891723"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:45.628510+00:00",
+  "finished_at_utc": "2026-10-28T17:24:46.574670+00:00",
+  "wall_seconds": 0.9461697999940952,
+  "frontier_exhausted": true
+}

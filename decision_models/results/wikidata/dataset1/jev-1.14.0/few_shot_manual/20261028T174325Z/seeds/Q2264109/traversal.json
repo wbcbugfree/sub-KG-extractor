@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q2264109",
+  "seed_label": "artificial general intelligence",
+  "included_qids": [
+    "Q17028492",
+    "Q2264109"
+  ],
+  "pruned_qids": [
+    "Q104093760",
+    "Q12623",
+    "Q1362473",
+    "Q2427493",
+    "Q4200967",
+    "Q544405",
+    "Q56297767",
+    "Q7201655"
+  ],
+  "visited_qids": [
+    "Q104093760",
+    "Q12623",
+    "Q1362473",
+    "Q17028492",
+    "Q2264109",
+    "Q2427493",
+    "Q4200967",
+    "Q544405",
+    "Q56297767",
+    "Q7201655"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 0,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:54.734157+00:00",
+  "finished_at_utc": "2026-10-28T17:43:55.404128+00:00",
+  "wall_seconds": 0.6699797999899602,
+  "frontier_exhausted": true
+}

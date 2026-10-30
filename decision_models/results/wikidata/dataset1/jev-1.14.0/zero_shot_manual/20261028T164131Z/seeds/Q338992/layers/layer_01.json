@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3822",
+    "legacy_row_id": "Q338992|Q20819677",
+    "seed_qid": "Q338992",
+    "seed_label": "WAI-ARIA",
+    "qid": "Q20819677",
+    "label": "technical specification",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q338992",
+    "parent_label": "WAI-ARIA",
+    "path": "WAI-ARIA --instance of--> technical specification",
+    "uri": "http://www.wikidata.org/entity/Q20819677",
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

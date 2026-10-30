@@ -1,0 +1,743 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/324264",
+    "prefLabel": "anhydrobiosis",
+    "altLabels": [],
+    "displayName": "anhydrobiosis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/114",
+    "prefLabel": "biological resistance",
+    "altLabels": [
+      "biocide resistance"
+    ],
+    "displayName": "biological resistance (biocide resistance)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.31,
+    "p_exclude": 0.69,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/580",
+    "prefLabel": "biosolids",
+    "altLabels": [],
+    "displayName": "biosolids",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.63,
+    "p_exclude": 0.37,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24625",
+    "prefLabel": "chemical control",
+    "altLabels": [
+      "chemical treatment (disease)",
+      "chemical treatment (pest)"
+    ],
+    "displayName": "chemical control (chemical treatment (disease), chemical treatment (pest))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.42,
+    "p_exclude": 0.58,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2741",
+    "prefLabel": "chemical treatment",
+    "altLabels": [],
+    "displayName": "chemical treatment",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.52,
+    "p_exclude": 0.48,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28379",
+    "prefLabel": "compost maturity",
+    "altLabels": [],
+    "displayName": "compost maturity",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.49,
+    "p_exclude": 0.51,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28381",
+    "prefLabel": "compost stability",
+    "altLabels": [],
+    "displayName": "compost stability",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.58,
+    "p_exclude": 0.42,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/287394",
+    "prefLabel": "dehydrins",
+    "altLabels": [],
+    "displayName": "dehydrins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302120",
+    "prefLabel": "drought injury",
+    "altLabels": [],
+    "displayName": "drought injury",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.49,
+    "p_exclude": 0.51,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/324626",
+    "prefLabel": "fluorescein diacetate hydrolysis",
+    "altLabels": [
+      "FDA (fluorescein diacetate) hydrolysis",
+      "fluorescein diacetate method"
+    ],
+    "displayName": "fluorescein diacetate hydrolysis (FDA (fluorescein diacetate) hydrolysis, fluorescein diacetate method)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.36,
+    "p_exclude": 0.64,
+    "selected_probability": 0.64,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/301340",
+    "prefLabel": "forest conservation",
+    "altLabels": [],
+    "displayName": "forest conservation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/593",
+    "prefLabel": "fumigants",
+    "altLabels": [
+      "fumigation agents"
+    ],
+    "displayName": "fumigants (fumigation agents)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.24,
+    "p_exclude": 0.76,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28787",
+    "prefLabel": "fumigation",
+    "altLabels": [],
+    "displayName": "fumigation",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/13661",
+    "prefLabel": "General Circulation Models",
+    "altLabels": [
+      "GCM (General Circulation Models)"
+    ],
+    "displayName": "General Circulation Models (GCM (General Circulation Models))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.46,
+    "p_exclude": 0.54,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/43847",
+    "prefLabel": "infiltration (hydrology)",
+    "altLabels": [
+      "percolation (hydrology)"
+    ],
+    "displayName": "infiltration (hydrology) (percolation (hydrology))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.54,
+    "p_exclude": 0.46,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11340",
+    "prefLabel": "injection",
+    "altLabels": [],
+    "displayName": "injection",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.34,
+    "p_exclude": 0.66,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/499",
+    "prefLabel": "mass movement",
+    "altLabels": [
+      "debris avalanches",
+      "mass wasting"
+    ],
+    "displayName": "mass movement (debris avalanches, mass wasting)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15122",
+    "prefLabel": "microbial colonization",
+    "altLabels": [
+      "microbial colonisation"
+    ],
+    "displayName": "microbial colonization (microbial colonisation)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/44016",
+    "prefLabel": "microbial growth",
+    "altLabels": [],
+    "displayName": "microbial growth",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/52555",
+    "prefLabel": "microbial resuscitation",
+    "altLabels": [],
+    "displayName": "microbial resuscitation",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5841",
+    "prefLabel": "microbiology",
+    "altLabels": [],
+    "displayName": "microbiology",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15129",
+    "prefLabel": "plate count",
+    "altLabels": [
+      "bacterial count",
+      "bacterial enumeration",
+      "fungal count",
+      "microbial colony count",
+      "microbial enumeration",
+      "total viable count"
+    ],
+    "displayName": "plate count (bacterial count, bacterial enumeration, fungal count, microbial colony count, microbial enumeration, total viable count)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.53,
+    "p_exclude": 0.47,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/223742",
+    "prefLabel": "recalcitrant seeds",
+    "altLabels": [],
+    "displayName": "recalcitrant seeds",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.52,
+    "p_exclude": 0.48,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/306639",
+    "prefLabel": "scrub control",
+    "altLabels": [],
+    "displayName": "scrub control",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302887",
+    "prefLabel": "soil fumigants",
+    "altLabels": [
+      "soil sterilants"
+    ],
+    "displayName": "soil fumigants (soil sterilants)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.58,
+    "p_exclude": 0.42,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/62345",
+    "prefLabel": "soil stabilization",
+    "altLabels": [
+      "soil stabilisation"
+    ],
+    "displayName": "soil stabilization (soil stabilisation)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.52,
+    "p_exclude": 0.48,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/30157",
+    "prefLabel": "stubble",
+    "altLabels": [],
+    "displayName": "stubble",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53098",
+    "prefLabel": "stubble mulching",
+    "altLabels": [],
+    "displayName": "stubble mulching",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.43,
+    "p_exclude": 0.57,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/305825",
+    "prefLabel": "subsoilers",
+    "altLabels": [],
+    "displayName": "subsoilers",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/322625",
+    "prefLabel": "transgenic resistance",
+    "altLabels": [],
+    "displayName": "transgenic resistance",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.37,
+    "p_exclude": 0.63,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28384",
+    "prefLabel": "vermicomposting",
+    "altLabels": [],
+    "displayName": "vermicomposting",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7143",
+    "prefLabel": "vermiculture",
+    "altLabels": [
+      "earthworm culture"
+    ],
+    "displayName": "vermiculture (earthworm culture)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.16,
+    "p_exclude": 0.84,
+    "selected_probability": 0.84,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32535",
+    "prefLabel": "xerophytes",
+    "altLabels": [
+      "desert plants",
+      "xerophiles",
+      "xerophilous plants",
+      "xerophytic plants"
+    ],
+    "displayName": "xerophytes (desert plants, xerophiles, xerophilous plants, xerophytic plants)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 7,
+    "batch": 2,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

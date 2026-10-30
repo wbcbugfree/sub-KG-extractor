@@ -1,0 +1,73 @@
+{
+  "seed_qid": "Q324935",
+  "seed_label": "Ferenc Hatvany",
+  "included_qids": [
+    "Q1028181",
+    "Q1034379",
+    "Q1549283",
+    "Q173950",
+    "Q20178788",
+    "Q2833448",
+    "Q324935",
+    "Q4808368",
+    "Q587955",
+    "Q69860245"
+  ],
+  "pruned_qids": [
+    "Q10732476",
+    "Q189290",
+    "Q1979607",
+    "Q43845",
+    "Q67311526",
+    "Q806798",
+    "Q98801351"
+  ],
+  "visited_qids": [
+    "Q1028181",
+    "Q1034379",
+    "Q10732476",
+    "Q1549283",
+    "Q173950",
+    "Q189290",
+    "Q1979607",
+    "Q20178788",
+    "Q2833448",
+    "Q324935",
+    "Q43845",
+    "Q4808368",
+    "Q587955",
+    "Q67311526",
+    "Q69860245",
+    "Q806798",
+    "Q98801351"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 5,
+      "included": 4,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 3,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 6,
+      "included": 2,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:25:56.375679+00:00",
+  "finished_at_utc": "2026-10-28T17:25:57.490155+00:00",
+  "wall_seconds": 1.1144797000015387,
+  "frontier_exhausted": true
+}

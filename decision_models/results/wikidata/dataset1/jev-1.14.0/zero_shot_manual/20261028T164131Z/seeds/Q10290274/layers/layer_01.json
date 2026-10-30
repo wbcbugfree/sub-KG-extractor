@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row821",
+    "legacy_row_id": "Q10290274|Q11016",
+    "seed_qid": "Q10290274",
+    "seed_label": "Gmsk",
+    "qid": "Q11016",
+    "label": "technology",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q10290274",
+    "parent_label": "Gmsk",
+    "path": "Gmsk --instance of--> technology",
+    "uri": "http://www.wikidata.org/entity/Q11016",
+    "classification": "EXCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.38,
+    "p_exclude": 0.62,
+    "selected_probability": 0.62,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

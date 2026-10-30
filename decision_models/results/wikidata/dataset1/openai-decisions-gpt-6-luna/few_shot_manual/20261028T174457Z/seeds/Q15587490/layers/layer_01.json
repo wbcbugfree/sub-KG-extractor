@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3393",
+    "legacy_row_id": "Q15587490|Q4164871",
+    "seed_qid": "Q15587490",
+    "seed_label": "construction client",
+    "qid": "Q4164871",
+    "label": "position",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q15587490",
+    "parent_label": "construction client",
+    "path": "construction client --instance of--> position",
+    "uri": "http://www.wikidata.org/entity/Q4164871",
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

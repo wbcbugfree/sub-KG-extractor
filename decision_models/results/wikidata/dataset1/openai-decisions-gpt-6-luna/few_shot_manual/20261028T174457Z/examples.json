@@ -1,0 +1,510 @@
+{
+  "dataset": 1,
+  "context_level": "path_simple",
+  "diversity_key": "property",
+  "selection_strategy": "compact_manual_from_dataset1_meta_rebalanced_best_observed",
+  "created_at": "2026-07-09T00:00:00Z",
+  "baseline_exclusion": {
+    "basis": "Examples are selected only from rows whose (seed_qid, qid) pair is absent from the KGPrune/PBG-filtered runtime input. Samples are generated afterward and exclude example row IDs and QIDs.",
+    "runtime_input": "tmp/kgprune_bridge_path_analogy/inputs/dataset1_gold_decisions_filtered.csv",
+    "baseline_pair_count": 4498,
+    "filtered_out_row_count": 735,
+    "usable_candidate_count": 687,
+    "usable_keep_count": 150,
+    "usable_prune_count": 537
+  },
+  "property_coverage": {
+    "required_properties": [
+      "P31",
+      "P279",
+      "(-)P279"
+    ],
+    "covered_properties": [
+      "P31",
+      "P279",
+      "(-)P279"
+    ],
+    "missing_properties": [],
+    "replacements": []
+  },
+  "selection_note": "Best observed 18-example manual-prompting subset selected from dataset1_path_simple_meta_rebalanced_examples.json. Later adjusted subsets, including a recall-weighted 14 INCLUDE / 4 EXCLUDE variant, underperformed this pack on the Dataset 1 large-sample smoke test. This file is therefore restored to the previous best compact subset before full-dataset submission.",
+  "meta_example_pack": {
+    "intended_use": [
+      "meta_prompt_generation",
+      "meta_generated_few_shot_extraction"
+    ],
+    "base_examples_file": "meta-prompting/examples/dataset1_path_simple_keep12_prune4_examples.json",
+    "base_example_count": 16,
+    "added_row_ids": [
+      "row3951",
+      "row271",
+      "row938",
+      "row4165",
+      "row344",
+      "row827",
+      "row1749",
+      "row881",
+      "row5011",
+      "row1237",
+      "row5181",
+      "row3956",
+      "row3964",
+      "row486",
+      "row1750",
+      "row4168",
+      "row4634",
+      "row345",
+      "row833",
+      "row1384",
+      "row888",
+      "row1851",
+      "row5184",
+      "row1960",
+      "row711",
+      "row4167",
+      "row2019",
+      "row381",
+      "row866",
+      "row561",
+      "row464",
+      "row958"
+    ],
+    "example_count": 32,
+    "coverage_policy": {
+      "require_every_property_as_final_edge": true,
+      "require_both_decisions_when_eligible": true,
+      "record_full_path_coverage": true
+    },
+    "coverage": {
+      "required_properties": [
+        "P31",
+        "P279",
+        "(-)P279"
+      ],
+      "final_edge_by_decision": {
+        "P31": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P279": [
+          "INCLUDE"
+        ],
+        "(-)P279": [
+          "EXCLUDE",
+          "INCLUDE"
+        ]
+      },
+      "full_path_by_decision": {
+        "P31": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P279": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "(-)P279": [
+          "EXCLUDE",
+          "INCLUDE"
+        ]
+      },
+      "eligible_filtered_final_edge_by_decision": {
+        "P31": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P279": [
+          "INCLUDE"
+        ],
+        "(-)P279": [
+          "EXCLUDE",
+          "INCLUDE"
+        ]
+      },
+      "unavailable_final_decisions": {
+        "P31": [],
+        "P279": [
+          "EXCLUDE"
+        ],
+        "(-)P279": []
+      }
+    },
+    "provenance_audit": {
+      "inherited_runtime_pair_overlap_row_ids": [],
+      "inherited_sample_row_overlap_row_ids": [],
+      "inherited_sample_qid_overlap_row_ids": [],
+      "new_runtime_pair_overlap_row_ids": [],
+      "new_sample_row_overlap_row_ids": [],
+      "new_sample_qid_overlap_row_ids": []
+    },
+    "variant": "rebalanced",
+    "selection_note": "Replace the manual-derived pack with balanced branch-mode contrasts: direct gateways, narrow productive branches, seed-conditioned mixed parents, broad-parent drift, deeper coherent paths, and hard negative broad-parent subclass cases observed as Gemini failure modes.",
+    "removed_base_row_ids": [
+      "row3798",
+      "row3951",
+      "row4575",
+      "row1367",
+      "row1755",
+      "row2306",
+      "row4634",
+      "row2039",
+      "row123",
+      "row381",
+      "row879",
+      "row711",
+      "row393",
+      "row5089",
+      "row611",
+      "row345"
+    ]
+  },
+  "manual_revision": {
+    "source_examples_file": "meta-prompting/examples/meta/dataset1_path_simple_meta_rebalanced_examples.json",
+    "source_example_count": 32,
+    "target_size_reference": "meta-prompting/examples/dataset2_path_simple_recall_examples.json",
+    "target_example_count": 18,
+    "selected_row_ids": [
+      "row3951",
+      "row271",
+      "row938",
+      "row344",
+      "row827",
+      "row1749",
+      "row881",
+      "row5011",
+      "row1237",
+      "row3956",
+      "row3964",
+      "row4168",
+      "row4634",
+      "row345",
+      "row833",
+      "row1384",
+      "row1851",
+      "row4167"
+    ],
+    "class_balance": {
+      "INCLUDE": 12,
+      "EXCLUDE": 6
+    },
+    "selection_constraints": [
+      "exactly 18 examples",
+      "all rows selected from dataset1_path_simple_meta_rebalanced_examples.json",
+      "class ratio was not mandatory; this balance is retained because it is the best observed subset"
+    ],
+    "best_observed_result": "dataset1_few_shot_manual_manual_dataset1_path_simple_bfs_20260707_225926",
+    "rejected_adjusted_results": [
+      "dataset1_few_shot_manual_manual_dataset1_path_simple_bfs_20260709_111810",
+      "dataset1_few_shot_manual_manual_dataset1_path_simple_bfs_20260709_112708"
+    ],
+    "kept_existing_manual_pack": "meta-prompting/examples/dataset1_path_simple_keep12_prune4_examples.json"
+  },
+  "examples": [
+    {
+      "row_id": "row3951",
+      "legacy_row_id": "Q178051|Q105599390",
+      "seed_qid": "Q178051",
+      "seed_label": "Portable Network Graphics",
+      "qid": "Q105599390",
+      "label": "raster-graphics file format",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 1,
+      "reaching_property": "P279",
+      "reaching_property_label": "subclass of",
+      "parent_qid": "Q178051",
+      "parent_label": "Portable Network Graphics",
+      "path": "Portable Network Graphics --subclass of--> raster-graphics file format",
+      "prompt_line": "- Seed: Portable Network Graphics\n  Candidate: candidate=raster-graphics file format | path=Portable Network Graphics --subclass of--> raster-graphics file format | decision=INCLUDE"
+    },
+    {
+      "row_id": "row271",
+      "legacy_row_id": "Q42378|Q67080166",
+      "seed_qid": "Q42378",
+      "seed_label": "Universal Serial Bus",
+      "qid": "Q67080166",
+      "label": "protocol suite",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 1,
+      "reaching_property": "P31",
+      "reaching_property_label": "instance of",
+      "parent_qid": "Q42378",
+      "parent_label": "Universal Serial Bus",
+      "path": "Universal Serial Bus --instance of--> protocol suite",
+      "prompt_line": "- Seed: Universal Serial Bus\n  Candidate: candidate=protocol suite | path=Universal Serial Bus --instance of--> protocol suite | decision=INCLUDE"
+    },
+    {
+      "row_id": "row938",
+      "legacy_row_id": "Q42332|Q81986407",
+      "seed_qid": "Q42332",
+      "seed_label": "Portable Document Format",
+      "qid": "Q81986407",
+      "label": "e-book file format",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 1,
+      "reaching_property": "P31",
+      "reaching_property_label": "instance of",
+      "parent_qid": "Q42332",
+      "parent_label": "Portable Document Format",
+      "path": "Portable Document Format --instance of--> e-book file format",
+      "prompt_line": "- Seed: Portable Document Format\n  Candidate: candidate=e-book file format | path=Portable Document Format --instance of--> e-book file format | decision=INCLUDE"
+    },
+    {
+      "row_id": "row344",
+      "legacy_row_id": "Q11661|Q64812921",
+      "seed_qid": "Q11661",
+      "seed_label": "information technology",
+      "qid": "Q64812921",
+      "label": "Computing Science",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q11862829",
+      "parent_label": "academic discipline",
+      "path": "information technology --instance of--> academic discipline --has subclass--> Computing Science",
+      "prompt_line": "- Seed: information technology\n  Candidate: candidate=Computing Science | path=information technology --instance of--> academic discipline --has subclass--> Computing Science | decision=INCLUDE"
+    },
+    {
+      "row_id": "row827",
+      "legacy_row_id": "Q10290274|Q108073294",
+      "seed_qid": "Q10290274",
+      "seed_label": "Gmsk",
+      "qid": "Q108073294",
+      "label": "network technology",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q11016",
+      "parent_label": "technology",
+      "path": "Gmsk --instance of--> technology --has subclass--> network technology",
+      "prompt_line": "- Seed: Gmsk\n  Candidate: candidate=network technology | path=Gmsk --instance of--> technology --has subclass--> network technology | decision=INCLUDE"
+    },
+    {
+      "row_id": "row1749",
+      "legacy_row_id": "Q8777|Q96473852",
+      "seed_qid": "Q8777",
+      "seed_label": "Hypertext Transfer Protocol",
+      "qid": "Q96473852",
+      "label": "hypermedia distribution protocol",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q15836568",
+      "parent_label": "computer network protocol",
+      "path": "Hypertext Transfer Protocol --subclass of--> computer network protocol --has subclass--> hypermedia distribution protocol",
+      "prompt_line": "- Seed: Hypertext Transfer Protocol\n  Candidate: candidate=hypermedia distribution protocol | path=Hypertext Transfer Protocol --subclass of--> computer network protocol --has subclass--> hypermedia distribution protocol | decision=INCLUDE"
+    },
+    {
+      "row_id": "row881",
+      "legacy_row_id": "Q236908|Q1356717",
+      "seed_qid": "Q236908",
+      "seed_label": "Six Sigma",
+      "qid": "Q1356717",
+      "label": "statistical process control",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q65938634",
+      "parent_label": "quality control method",
+      "path": "Six Sigma --instance of--> quality control method --has subclass--> statistical process control",
+      "prompt_line": "- Seed: Six Sigma\n  Candidate: candidate=statistical process control | path=Six Sigma --instance of--> quality control method --has subclass--> statistical process control | decision=INCLUDE"
+    },
+    {
+      "row_id": "row5011",
+      "legacy_row_id": "Q2407|Q75988682",
+      "seed_qid": "Q2407",
+      "seed_label": "C++",
+      "qid": "Q75988682",
+      "label": "non-procedural programming language",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q9143",
+      "parent_label": "programming language",
+      "path": "C++ --instance of--> programming language --has subclass--> non-procedural programming language",
+      "prompt_line": "- Seed: C++\n  Candidate: candidate=non-procedural programming language | path=C++ --instance of--> programming language --has subclass--> non-procedural programming language | decision=INCLUDE"
+    },
+    {
+      "row_id": "row1237",
+      "legacy_row_id": "Q94|Q87993016",
+      "seed_qid": "Q94",
+      "seed_label": "Android",
+      "qid": "Q87993016",
+      "label": "Android distribution",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q920890",
+      "parent_label": "mobile operating system",
+      "path": "Android --instance of--> mobile operating system --has subclass--> Android distribution",
+      "prompt_line": "- Seed: Android\n  Candidate: candidate=Android distribution | path=Android --instance of--> mobile operating system --has subclass--> Android distribution | decision=INCLUDE"
+    },
+    {
+      "row_id": "row3956",
+      "legacy_row_id": "Q178051|Q62617958",
+      "seed_qid": "Q178051",
+      "seed_label": "Portable Network Graphics",
+      "qid": "Q62617958",
+      "label": "WebP",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q105599390",
+      "parent_label": "raster-graphics file format",
+      "path": "Portable Network Graphics --subclass of--> raster-graphics file format --has subclass--> WebP",
+      "prompt_line": "- Seed: Portable Network Graphics\n  Candidate: candidate=WebP | path=Portable Network Graphics --subclass of--> raster-graphics file format --has subclass--> WebP | decision=INCLUDE"
+    },
+    {
+      "row_id": "row3964",
+      "legacy_row_id": "Q178051|Q7670377",
+      "seed_qid": "Q178051",
+      "seed_label": "Portable Network Graphics",
+      "qid": "Q7670377",
+      "label": "Tagged Image File Format/Electronic Photography",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 3,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q215106",
+      "parent_label": "TIFF",
+      "path": "Portable Network Graphics --subclass of--> raster-graphics file format --has subclass--> TIFF --has subclass--> Tagged Image File Format/Electronic Photography",
+      "prompt_line": "- Seed: Portable Network Graphics\n  Candidate: candidate=Tagged Image File Format/Electronic Photography | path=Portable Network Graphics --subclass of--> raster-graphics file format --has subclass--> TIFF --has subclass--> Tagged Image File Format/Electronic Photography | decision=INCLUDE"
+    },
+    {
+      "row_id": "row4168",
+      "legacy_row_id": "Q135005|Q163231",
+      "seed_qid": "Q135005",
+      "seed_label": "phishing",
+      "qid": "Q163231",
+      "label": "clickjacking",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q108382343",
+      "parent_label": "computer security technique",
+      "path": "phishing --instance of--> computer security technique --has subclass--> clickjacking",
+      "prompt_line": "- Seed: phishing\n  Candidate: candidate=clickjacking | path=phishing --instance of--> computer security technique --has subclass--> clickjacking | decision=INCLUDE"
+    },
+    {
+      "row_id": "row4634",
+      "legacy_row_id": "Q171819|Q71266741",
+      "seed_qid": "Q171819",
+      "seed_label": "BlackBerry",
+      "qid": "Q71266741",
+      "label": "smartphone model series",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 1,
+      "reaching_property": "P31",
+      "reaching_property_label": "instance of",
+      "parent_qid": "Q171819",
+      "parent_label": "BlackBerry",
+      "path": "BlackBerry --instance of--> smartphone model series",
+      "prompt_line": "- Seed: BlackBerry\n  Candidate: candidate=smartphone model series | path=BlackBerry --instance of--> smartphone model series | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row345",
+      "legacy_row_id": "Q11661|Q64801099",
+      "seed_qid": "Q11661",
+      "seed_label": "information technology",
+      "qid": "Q64801099",
+      "label": "Early Childhood Education and Care",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q11862829",
+      "parent_label": "academic discipline",
+      "path": "information technology --instance of--> academic discipline --has subclass--> Early Childhood Education and Care",
+      "prompt_line": "- Seed: information technology\n  Candidate: candidate=Early Childhood Education and Care | path=information technology --instance of--> academic discipline --has subclass--> Early Childhood Education and Care | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row833",
+      "legacy_row_id": "Q10290274|Q100232465",
+      "seed_qid": "Q10290274",
+      "seed_label": "Gmsk",
+      "qid": "Q100232465",
+      "label": "vehicle technology",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q11016",
+      "parent_label": "technology",
+      "path": "Gmsk --instance of--> technology --has subclass--> vehicle technology",
+      "prompt_line": "- Seed: Gmsk\n  Candidate: candidate=vehicle technology | path=Gmsk --instance of--> technology --has subclass--> vehicle technology | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row1384",
+      "legacy_row_id": "Q160453|Q96473852",
+      "seed_qid": "Q160453",
+      "seed_label": "Simple Mail Transfer Protocol",
+      "qid": "Q96473852",
+      "label": "hypermedia distribution protocol",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q15836568",
+      "parent_label": "computer network protocol",
+      "path": "Simple Mail Transfer Protocol --instance of--> computer network protocol --has subclass--> hypermedia distribution protocol",
+      "prompt_line": "- Seed: Simple Mail Transfer Protocol\n  Candidate: candidate=hypermedia distribution protocol | path=Simple Mail Transfer Protocol --instance of--> computer network protocol --has subclass--> hypermedia distribution protocol | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row1851",
+      "legacy_row_id": "Q169411|Q75988682",
+      "seed_qid": "Q169411",
+      "seed_label": "Unified Modeling Language",
+      "qid": "Q75988682",
+      "label": "non-procedural programming language",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q9143",
+      "parent_label": "programming language",
+      "path": "Unified Modeling Language --instance of--> programming language --has subclass--> non-procedural programming language",
+      "prompt_line": "- Seed: Unified Modeling Language\n  Candidate: candidate=non-procedural programming language | path=Unified Modeling Language --instance of--> programming language --has subclass--> non-procedural programming language | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row4167",
+      "legacy_row_id": "Q135005|Q1259344",
+      "seed_qid": "Q135005",
+      "seed_label": "phishing",
+      "qid": "Q1259344",
+      "label": "drive-by download",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q108382343",
+      "parent_label": "computer security technique",
+      "path": "phishing --instance of--> computer security technique --has subclass--> drive-by download",
+      "prompt_line": "- Seed: phishing\n  Candidate: candidate=drive-by download | path=phishing --instance of--> computer security technique --has subclass--> drive-by download | decision=EXCLUDE"
+    }
+  ]
+}

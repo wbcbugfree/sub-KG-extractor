@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1128",
+    "legacy_row_id": "Q858810|Q5172467",
+    "seed_qid": "Q858810",
+    "seed_label": "big data",
+    "qid": "Q5172467",
+    "label": "Corporate jargon",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q82550",
+    "parent_label": "buzzword",
+    "path": "big data --instance of--> buzzword --has subclass--> Corporate jargon",
+    "uri": "http://www.wikidata.org/entity/Q5172467",
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

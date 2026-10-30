@@ -1,0 +1,68 @@
+{
+  "seed_qid": "Q4929239",
+  "seed_label": "data collection",
+  "included_qids": [
+    "Q1168263",
+    "Q11977025",
+    "Q1914636",
+    "Q4929239",
+    "Q65668588",
+    "Q7410159"
+  ],
+  "pruned_qids": [
+    "Q1351959",
+    "Q14204746",
+    "Q2142602",
+    "Q2416571",
+    "Q2518023",
+    "Q27939",
+    "Q2912143",
+    "Q2956685",
+    "Q5377030",
+    "Q65496063",
+    "Q6765918",
+    "Q6815577"
+  ],
+  "visited_qids": [
+    "Q1168263",
+    "Q11977025",
+    "Q1351959",
+    "Q14204746",
+    "Q1914636",
+    "Q2142602",
+    "Q2416571",
+    "Q2518023",
+    "Q27939",
+    "Q2912143",
+    "Q2956685",
+    "Q4929239",
+    "Q5377030",
+    "Q65496063",
+    "Q65668588",
+    "Q6765918",
+    "Q6815577",
+    "Q7410159"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 16,
+      "included": 4,
+      "excluded": 12,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:54.465627+00:00",
+  "finished_at_utc": "2026-10-28T17:24:55.354264+00:00",
+  "wall_seconds": 0.8886384999932488,
+  "frontier_exhausted": true
+}

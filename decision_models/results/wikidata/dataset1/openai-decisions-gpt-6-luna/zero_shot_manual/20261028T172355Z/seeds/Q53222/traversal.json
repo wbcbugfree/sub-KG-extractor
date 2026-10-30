@@ -1,0 +1,58 @@
+{
+  "seed_qid": "Q53222",
+  "seed_label": "Digital Living Network Alliance",
+  "included_qids": [
+    "Q163740",
+    "Q53222"
+  ],
+  "pruned_qids": [
+    "Q1231729",
+    "Q1500848",
+    "Q17635403",
+    "Q2396296",
+    "Q240625",
+    "Q31883598",
+    "Q4671329",
+    "Q4998806",
+    "Q6054513",
+    "Q6503182",
+    "Q7062022"
+  ],
+  "visited_qids": [
+    "Q1231729",
+    "Q1500848",
+    "Q163740",
+    "Q17635403",
+    "Q2396296",
+    "Q240625",
+    "Q31883598",
+    "Q4671329",
+    "Q4998806",
+    "Q53222",
+    "Q6054513",
+    "Q6503182",
+    "Q7062022"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 11,
+      "included": 0,
+      "excluded": 11,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:55.933587+00:00",
+  "finished_at_utc": "2026-10-28T17:24:56.767009+00:00",
+  "wall_seconds": 0.8334328000055393,
+  "frontier_exhausted": true
+}

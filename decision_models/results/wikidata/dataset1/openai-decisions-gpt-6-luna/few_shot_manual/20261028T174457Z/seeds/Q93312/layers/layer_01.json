@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3550",
+    "legacy_row_id": "Q93312|Q356674",
+    "seed_qid": "Q93312",
+    "seed_label": "OSI model",
+    "qid": "Q356674",
+    "label": "reference model",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q93312",
+    "parent_label": "OSI model",
+    "path": "OSI model --instance of--> reference model",
+    "uri": "http://www.wikidata.org/entity/Q356674",
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

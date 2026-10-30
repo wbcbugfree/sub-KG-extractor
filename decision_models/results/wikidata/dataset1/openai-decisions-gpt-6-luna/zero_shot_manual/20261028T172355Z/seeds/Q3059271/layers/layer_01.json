@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row5127",
+    "legacy_row_id": "Q3059271|Q7397",
+    "seed_qid": "Q3059271",
+    "seed_label": "EtherCalc",
+    "qid": "Q7397",
+    "label": "software",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q3059271",
+    "parent_label": "EtherCalc",
+    "path": "EtherCalc --instance of--> software",
+    "uri": "http://www.wikidata.org/entity/Q7397",
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

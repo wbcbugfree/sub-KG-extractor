@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2790",
+    "legacy_row_id": "Q254183|Q58778",
+    "seed_qid": "Q254183",
+    "seed_label": "augmented reality",
+    "qid": "Q58778",
+    "label": "system",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q254183",
+    "parent_label": "augmented reality",
+    "path": "augmented reality --instance of--> system",
+    "uri": "http://www.wikidata.org/entity/Q58778",
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

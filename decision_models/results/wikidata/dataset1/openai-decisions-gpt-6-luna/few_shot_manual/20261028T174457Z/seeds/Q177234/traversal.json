@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q177234",
+  "seed_label": "mainframe computer",
+  "included_qids": [
+    "Q177234",
+    "Q716676"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q177234",
+    "Q716676"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:26.934600+00:00",
+  "finished_at_utc": "2026-10-28T17:45:27.359761+00:00",
+  "wall_seconds": 0.4251652999955695,
+  "frontier_exhausted": true
+}

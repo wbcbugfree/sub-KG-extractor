@@ -1,0 +1,49 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243410",
+    "prefLabel": "CCR2 receptor",
+    "altLabels": [
+      "C-C chemokine receptor type 2",
+      "CC chemokine receptor-2",
+      "CD192 antigen",
+      "chemokine (C-C motif) receptor 2",
+      "monocyte chemotactic protein 1 receptor"
+    ],
+    "displayName": "CCR2 receptor (C-C chemokine receptor type 2, CC chemokine receptor-2, CD192 antigen, chemokine (C-C motif) receptor 2, monocyte chemotactic protein 1 receptor)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/146585",
+    "prefLabel": "multiprotein complexes",
+    "altLabels": [
+      "macromolecular protein complexes"
+    ],
+    "displayName": "multiprotein complexes (macromolecular protein complexes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 1.0,
+    "p_include": 0.0,
+    "p_exclude": 1.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  }
+]

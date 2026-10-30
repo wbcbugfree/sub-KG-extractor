@@ -1,0 +1,64 @@
+{
+  "seed_qid": "Q179465",
+  "seed_label": "polyphony",
+  "included_qids": [
+    "Q179465",
+    "Q188451",
+    "Q20202269",
+    "Q325944"
+  ],
+  "pruned_qids": [
+    "Q105635529",
+    "Q106621729",
+    "Q106628249",
+    "Q107975727",
+    "Q1786517",
+    "Q1836630",
+    "Q20643324",
+    "Q21006644",
+    "Q59913930",
+    "Q862597",
+    "Q96195030",
+    "Q96200402"
+  ],
+  "visited_qids": [
+    "Q105635529",
+    "Q106621729",
+    "Q106628249",
+    "Q107975727",
+    "Q1786517",
+    "Q179465",
+    "Q1836630",
+    "Q188451",
+    "Q20202269",
+    "Q20643324",
+    "Q21006644",
+    "Q325944",
+    "Q59913930",
+    "Q862597",
+    "Q96195030",
+    "Q96200402"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 3,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 11,
+      "included": 0,
+      "excluded": 11,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:44.711216+00:00",
+  "finished_at_utc": "2026-10-28T17:43:45.513312+00:00",
+  "wall_seconds": 0.8020966000040062,
+  "frontier_exhausted": true
+}

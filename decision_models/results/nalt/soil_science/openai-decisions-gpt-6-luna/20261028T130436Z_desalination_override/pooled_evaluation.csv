@@ -1,0 +1,1751 @@
+uri,prefLabel,gold_include,visited,final_classification,model_classification,decision_source,p_include,p_exclude
+https://lod.nal.usda.gov/nalt/10,chemical bases,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/10050,Anthracambids,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/10051,Cambids,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/10069,Anthrepts,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/10070,Inceptisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/10071,Haplanthrepts,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10072,Plagganthrepts,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10082,anthropogenic activities,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/10092,anthropogenic soil types,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/10095,disturbed soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/10096,eroded soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/10097,fish pond soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/10098,golf course soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/10099,mined soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/10100,old field soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/10101,paddy soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/10102,polluted soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/10103,reclaimed soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/10104,reservoir soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/10105,roadside soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/10106,urban soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/1012,wheel tracks,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/10475,antinutritional factors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/10477,bioavailability,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/10478,chemical constituents of plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/10481,food composition,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/10486,nutritive value,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/105519,fossil fuels,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/105752,glaciers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/105807,glaciation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/105828,sandy clay loam soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/105829,sandy clay soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/105830,silty clay soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/105831,loamy sand soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/105956,water vapor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/10689,soil nematodes,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/110,age,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/11311,bitter pit,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/11340,injection,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/11343,soil treatment,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/11357,fertilizer application,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/114,biological resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/11430,Cryaqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11431,Duraqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11432,Endoaqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11433,Epiaqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11434,Fragiaqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11435,Glossaqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11436,Kandiaqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11437,Natraqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11438,Plinthaqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11439,Vermaqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11440,aquic regimes,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/11446,Cryaquands,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/11447,Duraquands,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/11448,Endoaquands,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/11449,Epiaquands,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/11450,Melanaquands,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/11451,Placaquands,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/11452,Vitraquands,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/11506,habitats,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11520,wet environmental conditions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/11534,Aquents,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/11535,Entisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/11536,Cryaquents,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/11537,Endoaquents,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/11538,Epiaquents,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/11539,Fluvaquents,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/11540,Hydraquents,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/11541,Psammaquents,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/11542,Sulfaquents,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/11546,Aquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/11547,Cryaquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/11548,Endoaquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/11549,Epiaquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/11550,Fragiaquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/11551,Halaquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/11552,Humaquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/11553,Petraquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/11554,Sulfaquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/11555,Vermaquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/11556,Aquerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/11557,Vertisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/11558,Calciaquerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/11559,Duraquerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/11560,Dystraquerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/11561,Endoaquerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/11562,Epiaquerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/11563,Natraquerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/11564,Salaquerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/11565,soil water regimes,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/11566,saturated conditions,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/11567,Aquicambids,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/11597,Aquisalids,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/11598,Salids,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/11600,Aquiturbels,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/11601,Spodosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/11602,Cryaquods,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/11603,Duraquods,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/11604,Endoaquods,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/11605,Epiaquods,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/11606,Fragiaquods,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/11607,Placaquods,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/11608,Aquolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/11609,Argiaquolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/11610,Calciaquolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/11611,Cryaquolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/11612,Duraquolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/11613,Endoaquolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/11614,Epiaquolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/11615,Natraquolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/11616,Aquorthels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11617,Oxisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/11618,Eutraquox,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/11619,Haplaquox,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/11620,Plinthaquox,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/11621,Ultisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/11622,Endoaquults,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/11623,Epiaquults,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/11624,Fragiaquults,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/11625,Kandiaquults,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/11626,Kanhaplaquults,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/11627,Paleaquults,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/11628,Plinthaquults,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/11629,Umbraquults,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/11657,arable soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/11831,vesicular arbuscular mycorrhizae,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12055,Arents,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/12056,Torriarents,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/12057,Udarents,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/12058,Ustarents,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/12059,Xerarents,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/12085,Argicryids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12086,Cryids,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/12087,Argicryolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/12088,Cryolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/12091,Argids,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/12092,Aridisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/12093,Calciargids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12094,Gypsiargids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12095,Haplargids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12096,Natrargids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12097,Paleargids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12098,Petroargids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12099,Argidurids,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/12100,Durids,True,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/12101,Argigypsids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12102,Gypsids,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/12103,argillic horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/12113,Argiorthels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12114,Argiudolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/12115,Udolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/12116,Argiustolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/12117,Ustolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/12118,Argixerolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/12119,Xerolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/12160,arid zones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12162,arid lands,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12165,dry environmental conditions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/12167,arid soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12168,climatic soil types,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/12171,aridic regimes,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/12173,Calcids,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/123183,rhizosphere bacteria,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/12371,nonmetallic elements,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/124424,fire severity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/125299,green roofs,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12582,drainage systems,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/12628,constructed wetlands,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12715,glycoproteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/127298,"Farms, Agricultural Production Systems",False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/127307,"Plant Production, Gardening",False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/127308,"Research, Technology, Methods",False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/127717,riparian soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/12908,chemical composition,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/132571,bioretention areas,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/132817,humus,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/135,acid tolerance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/136092,desalination,False,True,EXCLUDE,,user_refusal_override,,
+https://lod.nal.usda.gov/nalt/13649,soil-atmosphere interactions,False,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/13653,Earth system science,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/13661,General Circulation Models,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/137,drought tolerance,False,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/137557,natural resources conservation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/137721,carbon markets,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/137734,soil remediation,False,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/137846,environmental hazards,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/138176,leghemoglobin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/138193,forest restoration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/138382,nitrogen-fixing trees,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/139,flooding tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/14074,tropisms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14081,available water capacity,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/14082,soil hydraulic properties,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/14083,plant available water,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/14207,mangrove swamps,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/142663,net ecosystem exchange,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/143143,ion exchange,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/143144,anion exchange,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/143145,cation exchange,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/14413,B horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/144654,soil taxonomy,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/145,salt tolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/146186,sludge,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/146604,stubble tillage,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/146687,Gelaquands,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/146688,Gelands,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/146689,Gelaquents,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/146690,Gelifluvents,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/146691,Gelorthents,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/146692,Wassents,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/146693,Fluviwassents,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146694,Frasiwassents,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146695,Haplowassents,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146696,Hydrowassents,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146697,Psammowassents,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146698,Sulfiwassents,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146699,Frasiwassists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146700,Wassists,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/146701,Haplowassists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146702,Sulfiwassists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146703,Calcicryepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/146704,Haplocryepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/146705,Humicryepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/146706,Gelepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/146707,Dystrogelepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/146708,Haplogelepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/146709,Humigelepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/146710,Humudepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/146711,Humustepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/146712,Humixerepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/146713,Gelolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/146714,Haplogelolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/146715,Gelods,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/146716,Haplogelods,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146717,Humigelods,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/146718,Sulfaquerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/146719,Gelaquepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/146788,microbial biomass,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/148611,mushroom compost,True,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/148613,spent mushroom compost,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/148616,heathlands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/148682,biochar,False,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/148684,terra preta,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/15084,nitrogen-fixing bacteria,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/15090,soil bacteria,False,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/15096,bacteriology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/15122,microbial colonization,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/15129,plate count,False,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/154508,actinorhizae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/1556,A horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/1558,soil horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/1559,topsoil,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/15592,NPK fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/156625,soil ecosystems,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/15759,bank erosion,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/15764,water erosion,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/1579,abandoned land,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/1580,land,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1581,land use,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15844,bark mulches,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15845,mulches,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/15955,biomass,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/15965,basaltic soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15967,stream flow,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15969,stormwater,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/15975,base saturation,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/15987,slags,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16016,basin irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16017,irrigation systems,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/16021,landforms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16122,beach soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/16123,physiographic soil types,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/16124,beaches,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16127,dunes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16264,rocks,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/16569,strength (mechanics),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/16782,environmental protection,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/16783,conservation practices,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/17173,organic salts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17187,functional properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/17222,biobased products,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/17223,bioaccumulation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/17227,biochemistry,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/17228,hyperaccumulators,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/17229,phytoremediation,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/17237,nutrient availability,False,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/17238,food matrix,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/17240,nutrient-nutrient interactions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/17279,pollution load,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17280,biochemical pathways,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17288,nitrogen fixation,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/17297,biotransformation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/173,chemical analysis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/17309,biodegradable products,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/17311,biodegradation,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/17315,biogeochemical cycles,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/17316,degradation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/17317,humification,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/17318,bioremediation,False,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/17319,microbial activity,False,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/1732,salt stress,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/17320,white-rot fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/1733,water stress,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/17339,soil conservation,False,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/17348,microbial ecology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/17351,biofiltration,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17381,biogeochemistry,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/17382,carbon sequestration,False,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/17383,global budgets,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/17401,indicator species,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17420,biological activity in soil,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/17421,soil biology,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/17422,mineralization,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/17423,soil respiration,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/17433,nematophagous fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/17462,vegetation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/17477,mycology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/17512,bioventing,False,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/17522,dewatered biosolids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/17523,dried biosolids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/17524,liquid biosolids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/17525,biosolids composts,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/17527,wastewater treatment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/17528,composts,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/176,titration,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17617,"oxide, hydroxide, and oxyhydroxide minerals",False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17679,plant nutrition,False,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/178,food analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/179,soil analysis,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/1796,physical properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/181,water analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18122,blood sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18167,sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18399,bogs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/18400,bog soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/18403,wetlands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/18404,peatlands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/185745,dissolved organic nitrogen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/185778,urban agriculture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/18621,minerals,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/18631,border irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18644,forests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/18645,taiga,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/186601,soil habitats,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/18680,boron fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18683,trace element fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/187625,acetylene reduction,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18785,plant ecology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/188594,root zone drying,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/18873,bottomland soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/18874,lowlands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/18882,bound water,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/18883,water content,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/189240,acid value,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/189524,land degradation,False,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/189757,ecosystem respiration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/19,irrigation and drainage,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/191224,meadows,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/191230,alpine meadows,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/191233,flood meadows,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/19128,saline water,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/192,solids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/196,acidulants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/19641,cerrado,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/196731,hydric soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/20,plant cultural practices,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/203,agrochemicals,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/20312,buffering capacity,False,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/20349,bulk density,False,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/20350,density,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/20351,soil density,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/20385,bunds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/204254,compost extracts,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/20438,buried seeds,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/20440,seeds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/20441,soil ecology,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/20442,buried soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/20443,paleosolic soil types,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/20534,burnt soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/205376,lateral move irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/206579,molecular imprinting,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/20689,preferential flow,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/20702,C horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/20709,carbon nitrogen ratio,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/208552,soil minerals,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/209,buffers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/21,soil management,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/21069,calcareous soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/21076,Calcicryids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21077,Calcicryolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/21078,Haplocalcids,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/21079,Petrocalcids,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/21082,Calcigypsids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21089,Calcitorrerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/21090,Torrerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/21091,Calciudolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/21092,dietary minerals,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21093,exchangeable calcium,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/21098,calcium carbonate,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/21109,calcium fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21112,mineral fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21115,calcium hydroxide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21121,calcium oxide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21145,Calciustepts,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/21146,Ustepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/21147,Calciusterts,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/21148,Usterts,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/21149,Calciustolls,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/21150,Calcixerepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/21151,Xerepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/21152,Calcixererts,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/21153,Xererts,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/21154,Calcixerolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/211604,Gleysols,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/213271,grid maps,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/2134,mechanics,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/213548,reactive phosphorus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/213554,bioaugmentation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/213766,hardpans,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/214018,acid pulping,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/214214,most probable number technique,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/214216,alkali tolerance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/214718,liquefaction,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/214720,soil liquefaction,False,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/21506,Haplocambids,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/21507,Petrocambids,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/2151,disasters,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/215473,ferric oxide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/215480,maghemite,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/216301,World Reference Base for Soil Resources,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/216302,U.S. Soil Taxonomy types,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/216303,World Reference Base for Soil Resources groups,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/216335,Acrisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/216336,Albeluvisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/216339,Alisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/216340,Andosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/216341,Anthrosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/216342,Arenosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/216343,Calcisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/216344,Cambisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/216345,Chernozems,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/216346,Cryosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/216347,Durisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/216348,Ferralsols,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/216349,Fluvisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/216350,Gypsisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/216351,Kastanozems,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/216352,Leptosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/216355,Lixisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/216356,Luvisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/216357,Nitisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/216358,Phaeozems,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/216359,Greyzems,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/216360,Planosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/216361,Plinthosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/216362,Podzols,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/216363,Regosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/216364,Solonchaks,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/216365,Solonetz,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/216366,Stagnosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/216367,Technosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/216368,Umbrisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/216922,direct push technology,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/21737,hydraulic structures,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21739,drainage channels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21741,irrigation canals,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/217420,geophytes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/2179,measurement,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/21953,rivers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/21956,capacitance probes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/21958,probes (equipment),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21959,soil water content,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/21979,capillary fringe,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/21989,microirrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/221851,alkaline hydrolysis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/22226,composting,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/22259,limestone,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/22264,magnesium carbonate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/223742,recalcitrant seeds,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/223746,recalcitrant species,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/225015,accelerated erosion,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/225032,antecedent moisture,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/225037,beach erosion,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/225068,infiltration rate,False,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/225083,soil permeability,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/225108,soil map,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/225111,parent rock,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/225160,shrink-swell potential,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/225422,alkalosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/229997,permissible exposure limit,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23007,catenas,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/23008,soil sequences,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/230361,bio-packaging,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/23045,cation exchange capacity,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/23046,exchangeable cations,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/23047,cation exchange resins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23048,cations,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/231364,polymer-coated urea,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/231417,carbonization,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/232270,exchangeable zinc,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/233,chemical inhibitors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/234472,ornithogenic soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/234623,hydrochars,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/234762,coastal zone management,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/235,ions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/2350,bacteria,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/235923,phytodesalination,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/236,leachates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23647,center pivot irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23649,sprinkler irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/236603,wet digestion method,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/239599,bioscouring,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/239616,halophiles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/240342,anaerobic ammonium oxidation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/240360,nitrifying bacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24086,cerrado soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/24304,chalk soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/243888,halotropism,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/24408,phase transition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24428,chaparral,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24429,chaparral soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/24470,charge characteristics,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/24600,headspace analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24601,multiresidue analysis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24613,organic matter,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/24625,chemical control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/24628,soil drenching,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/24649,chemical pulp,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/24662,denitrification,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/24675,nitrification,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/24688,mineral soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/24689,organic soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/24690,peat soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/24691,saline sodic soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/24692,saline soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/24693,sodic soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/24694,variable charge soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/24695,water repellent soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/24696,soil chemistry,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/24697,chemical speciation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24708,fertigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/24709,irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25206,chiseling,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/25207,tillage,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/253089,contour buffer strips,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/253093,wetland buffers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/253736,hygroscopicity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/255618,biomineralization,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/25577,polystyrenes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/255989,bio-organic fertilizer,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25891,chronosequences,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/259384,ferrimagnetic materials,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/263001,particulate organic matter,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/263109,particulate organic carbon,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26559,citrus soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/266238,pollen rain,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/266421,tillage erosion,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/26738,clay fraction,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/26739,soil separates,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/26740,soil texture,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/26741,clay loam soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/26742,textural soil types,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/26755,clay soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/26756,claypan soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/26757,structural soil types,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/26762,conventional tillage,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/26766,water quality,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/26886,cold soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26887,semiarid soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26888,subarctic soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26889,subtropical soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26890,temperate soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26891,tropical soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26892,humid zones,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/26893,Mediterranean climate,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/26894,semiarid zones,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26909,climosequences,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/26938,clods,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/270,organic compounds,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/270486,whiting events,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/270508,bauxite,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/2710,acid-base balance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2712,acid deposition,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/2714,atmospheric deposition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2715,environmental degradation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/2716,meteorology and climatology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/272,iodine value,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2721,acid treatment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/2724,wastewater,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/2725,mining,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/273,peroxide value,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2732,acid soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/2734,chemical soil types,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/2735,calcifuges,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/27354,coal,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/27355,phytoliths,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/27359,mine spoil,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/2736,soil pH,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/27363,coarse-textured soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/27364,coastal dune soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/27365,coastal soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/27366,dune soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/27368,coastal plain soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/27369,coasts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2737,acid sulfate soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/274,saponification number,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2740,acidity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2741,chemical treatment,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/2742,acidification,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2753,blood pH,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2754,acidosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/276029,necromass,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/276406,soil organic nitrogen,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/2770,processing technology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/277013,agricultural conservation practice,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/2771,deacidification,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2772,pH,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/27783,permafrost,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/27785,thermal stability,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/278109,soil biota,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/27906,collectors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/27998,colonizing ability,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/28001,rhizosphere competence,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/28123,symbiosis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/281542,carbon dioxide fixation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/282647,potting mix,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2828,physicochemical properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/2829,titratable acidity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/28315,compacted soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/28316,soil compaction,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/28379,compost maturity,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/28380,compost quality,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/28381,compost stability,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/28382,composted manure,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/28384,vermicomposting,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/28386,food residuals composts,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/28387,MSW composts,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/28388,vermicomposts,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/28389,yard waste composts,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/28390,top dressings,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/283948,microbial culture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/28395,compound fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28398,nitrogen-potassium fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28399,phosphorus-potassium fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/284661,neutrons,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/284695,flue gas desulfurization,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28491,electrical conductivity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/28494,soil strength,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/285583,nacre,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/28598,natural resource management,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/28599,filter strips,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/28600,riparian buffers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/28601,windbreaks,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/28602,conservation plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/28603,erosion control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/28604,vegetation cover,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/28610,rangelands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/28613,ground cover plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/28614,conservation tillage,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/28616,cover crops,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/28618,live mulches,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/28619,mulching,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/28620,reduced tillage,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/28631,no-tillage,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/28632,ridge tillage,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/28633,strip tillage,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/286462,conservation banks,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/286471,conservation banking,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/286875,silty clay loam soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/287,pesticides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/28711,container-grown plants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28716,potted flowering plants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28717,potted foliage plants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28718,plant containers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28719,pot culture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/287394,dehydrins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/28740,groundwater contamination,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/287648,topographic maps,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/28787,fumigation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/28796,slow-release fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28801,controlled traffic systems,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/2882,organic acids and salts,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/288721,phytomass,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/28949,copper fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/289944,meadow soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/290382,soil flushing,False,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/29053,core samplers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/290602,rockwool,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/290683,reclaimed land,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/290684,polders,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/290833,Holocene epoch,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/290837,Triassic period,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/29188,corn soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/292313,petrographic microscopy,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/292340,waste composition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/292403,clean fuels,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/29299,furrow irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/293,weed control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/295086,dissolved inorganic carbon,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/296746,fractional vegetation cover,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/29710,drawbars,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/297135,phenolsulfonphthalein,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/297776,activity sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/29788,soil cracks,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/29789,soil mechanical properties,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/298488,bioerosion,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/299120,aerodynamic properties,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/299127,eolian soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/299135,eolian sands,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/300199,organic mulches,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3002,Acraquox,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/3003,Aquox,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/300532,alluvial land,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/300565,anaerobic treatment,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/300689,angle count,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/300735,anthropogenic horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/300755,argilluvic soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/300769,automatic irrigation systems,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/300823,biological soil crusts,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/300988,brittleness,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/301002,brown forest soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/301006,brown podzolic soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/301105,cinnamonic soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/301114,radioactive fallout,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/301202,ashing,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/301205,bioleaching,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/301234,chalk grasslands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/301340,forest conservation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/30138,fertilizer requirements,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/301420,frigid soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30152,irrigated farming,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/30157,stubble,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/301616,gabbro soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/301662,coal mine spoil,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/301844,core sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302024,disturbed land,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/302053,desert pavement,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/302120,drought injury,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/302131,duneland soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/302135,duneland plants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302146,environmental surveys,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/302190,electrical moisture meters,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/302223,equilibrium moisture content,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/302255,plant analysis,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/302256,leaf analysis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/302261,land clearing,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/302324,gravel pits,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/302326,gray forest soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/302478,humus horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/302568,ion exchange capacity,False,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/302575,irrigated pastures,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/302595,land forming,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/302597,land improvement,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/302613,latent heat,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302669,waste disposal sites,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302682,spoil banks,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/302686,spoil heap soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/302693,volcanic islands,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/302887,soil fumigants,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/30296,Glossocryalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/302968,organic carbon,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/30297,Haplocryalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/30298,Palecryalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/30299,Duricryands,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/30300,Fulvicryands,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/30301,Haplocryands,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/30302,Hydrocryands,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/30303,Melanocryands,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/30304,Vitricryands,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/30307,Cryepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/30308,Dystrocryepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/30310,Cryerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/30311,Haplocryerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/30312,Humicryerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/30313,Gypsicryids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30314,Haplocryids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30315,Petrocryids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30316,Salicryids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30320,Cryods,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/30321,Duricryods,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/30322,Haplocryods,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/30323,Humicryods,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/30324,Placocryods,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/30325,Cryofibrists,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/30326,Fibrists,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/30327,Cryofluvents,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/30328,Fluvents,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/30329,Cryofolists,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/30330,Folists,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/30331,Cryohemists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30332,Hemists,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/30335,Duricryolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/30336,Haplocryolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/30337,Natricryolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/30338,Palecryolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/30342,Cryopsamments,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/30343,Psamments,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/30344,Cryorthents,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/30345,Orthents,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/30346,Cryosaprists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30347,Saprists,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/30449,Cryrendolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/30450,Rendolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/304816,soil water constants,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/304858,podzolization,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/304866,pollen analysis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/304957,mineral cycle,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/305134,pseudogley soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/305138,pseudopodzolic soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/305175,quarries,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/305562,representative sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/305578,revegetation plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/305584,riparian grasslands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/305595,river terrace soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/305788,wet strength,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/305825,subsoilers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/305888,wood thermal properties,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306178,tropical plants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306182,truncation selection,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306591,Xerosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/306592,burozems,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/306593,serozems,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/306597,sequential sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306609,sand dune stabilization,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306639,scrub control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/30667,cultivators,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/306781,lichen crusts,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/306848,lysimetry,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/306859,hydraulic resistance,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30686,grassland soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/30687,greenhouse soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/30688,horticultural soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/30689,irrigated soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/306891,soil structural units,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/30690,lawn soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/30691,mushroom casing soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/30692,orchard soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/306927,duripans,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/30693,rice soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/30694,sugarcane soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/30695,vineyard soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/30696,wheat soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/306961,ortsteins,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/306981,pedological techniques,False,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/306983,soil monolith preparation,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/307015,soil composition,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/307017,soil concretions,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/30836,nitrites,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30964,nitrogen-fixing cyanobacteria,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/309987,muck soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/31024,surge irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31069,organophosphorus compounds,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/311377,manganese fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3115,Acroperox,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3116,Perox,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/312770,saline springs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/313156,vegetation gradient,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/313413,biocomposts,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/313546,hydrothermal liquefaction,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/313619,topsoil water content,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/313626,topsoil water,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/314278,coastal sediments,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/314404,grassland restoration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/314552,plant nutrient resorption,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/314998,pedodiversity,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/3151,Acrotorrox,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/3152,Torrox,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/315620,laterites,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/3160,Acrudox,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/3161,Udox,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/3162,Acrustox,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/3163,Ustox,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/316498,phytoaccumulation,False,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/316753,ridge planting,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/316816,soil electrical conductivity,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/31898,decayed wood,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/31935,deep tillage,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/31941,subsoiling,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/31984,deficit irrigation,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/31999,deforestation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/32028,desiccation (plant physiology),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/32183,delta soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/32184,river deltas,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/322611,rangeland degradation,False,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/322615,rangeland restoration,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/322625,transgenic resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/32322,denitrifying microorganisms,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/323445,hypersalinity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/323553,manure amendments,False,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/323608,pH stability,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/324264,anhydrobiosis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/324424,microbial bioremediation,False,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/324588,dissolved potassium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/324622,hydraulic flumes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/324626,fluorescein diacetate hydrolysis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/324642,hydraulic head,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/324646,inorganic carbon,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/324654,labile carbon,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/324696,microbial carbon,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/324699,organic nitrogen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/324700,microbial nitrogen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/324715,plant moisture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/324729,vapor pressure deficit,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/324774,diagenesis,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/325121,blue carbon,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/325123,total organic carbon,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325125,total Kjeldahl nitrogen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325127,phosphorus content,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325131,total dissolved organic carbon,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325178,gravimetric water content,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/325180,volumetric water content,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/325187,organic phosphorus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/325189,phosphate phosphorus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325190,soil heat flux,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/325192,soil carbon,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/325201,reflective mulches,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/32535,xerophytes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/32536,desert soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/32537,desertification,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/325459,buffer index,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/325462,soil buffering capacity,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/325649,water stable soil aggregates,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/325658,latent heat flux,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325659,sensible heat flux,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325678,carbon farming,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/325691,Mehlich-3 phosphorus,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/325751,grain nitrogen content,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325797,mixing ratio,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/325801,plant nitrogen content,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/326034,root residues,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/326474,saline groundwater,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/327278,coastal ecosystems,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/327283,mangrove ecosystems,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/327286,mangrove sediments,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/327685,moisture diffusivity,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/329272,sediment texture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/329275,soil organic phosphorus,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/33019,diagnostic horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/33020,soil classification,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/331382,temperate grasses,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/332466,radioactive pollution,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/332481,radioactively contaminated water,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/332482,radioactively contaminated soil,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/333200,air sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/333471,sodium adsorption ratio,False,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/33355,water deprivation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/333612,badlands,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/333650,erodibility index,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/334302,pollen sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/33434,iron,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/33436,phosphorus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/33438,zinc,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334418,smog pollution,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/334984,biosequestration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/33503,diffusivity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/335251,soil function,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/335253,subduction,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/335408,reducing emissions from deforestation and forest degradation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/336108,agricultural pollution,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/336235,sample size,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/33647,thermal expansion,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/338886,water sampling,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/338945,soil inorganic carbon,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/33990,drought,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/33992,floods,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/33996,discing,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/34079,dissolved organic carbon,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34080,dissolved organic matter,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/34081,soil organic matter,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/34339,magnesium fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34347,home gardens,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34483,subsurface drainage,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34484,surface drainage,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34492,mole drainage,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34493,pipe drainage,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34494,tile drainage,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34495,drained conditions,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/34504,poorly drained soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/34627,plant-water relations,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/34697,unsaturated conditions,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/34904,Haplodurids,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/34905,Natridurids,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/34906,Durihumods,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34907,Humods,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/34908,Duritorrands,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34909,Durixeralfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/34910,Durixerepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/34911,Durixererts,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/34912,Durixerolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/34916,Durorthods,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/34920,Durudands,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/34921,Durudepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/34922,Udepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/34930,Durustalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/34931,Durustands,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/34932,Durustepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/34933,Durustolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/35051,Dystroxerepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/35052,Dystrudepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/35053,Dystruderts,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/35054,Uderts,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/35055,Dystrustepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/35056,Dystrusterts,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/35059,E horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/35113,soil-plant interactions,False,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/35119,hilling,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/35126,earthworms,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/35127,earthworm burrows,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/35129,soil micromorphology,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/35131,worm casts,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/35133,soil invertebrates,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/352,ecology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/35682,ecological restoration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/35688,land restoration,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/35690,fen soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/35691,forest soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/35692,heathland soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/35693,mangrove soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/35694,pampas soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/35695,prairie soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/35696,rangeland soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/35697,salt marsh soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/35698,savanna soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/35699,scrubland soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/35700,steppe soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/35701,suppressive soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/35702,swamp soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/35703,taiga soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/35704,tundra soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/35705,virgin soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/35706,wetland soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/35707,woodland soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/35713,ecotoxicology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/35800,ectomycorrhizae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/35802,mycorrhizae,False,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/35823,edaphic factors,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/35826,soil quality,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/36124,elasticity (mechanics),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/36125,mechanical properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/362,primary productivity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/36324,eluviation,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/36325,soil transport processes,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/36326,leaching,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/365,equipment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/366,agricultural machinery and equipment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/37050,endomycorrhizae,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/37441,eutrophication,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/37442,habitat destruction,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/37443,habitat fragmentation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/37451,pesticide persistence,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/37470,soil washing,False,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/37500,soil enzymes,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/37535,streams,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/37664,equations,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/37665,Green-Ampt equation,False,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/37666,Modified Universal Soil Loss Equation,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/37667,Revised Universal Soil Loss Equation,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/37668,Richards' equation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/37669,Universal Soil Loss Equation,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/37925,erodibility,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/37933,streambank stability,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/37935,Erosion Productivity Impact Calculator,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/383,measuring devices,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/38804,Eutroperox,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/38806,soil nutrients,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/38807,Eutrotorrox,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/38808,Eutrudepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/38809,Eutrudox,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/38810,Eutrustox,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/38819,evapotranspiration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/38857,exchangeable magnesium,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/38858,exchangeable potassium,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/38859,exchangeable sodium,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/38860,sodicity,False,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/3913,carbon,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/3916,solid wastes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3919,thermodynamics,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/39307,geotextiles,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/39546,land management,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/39810,fens,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3982,chemical reactions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/39922,Ferrudalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/39935,fertilizer rates,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/39959,liquid fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/39960,starter fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/40064,Fibristels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/40065,Histels,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/40066,Histosols,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/40067,Haplofibrists,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/40068,Sphagnofibrists,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/40100,field capacity,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/40101,water holding capacity,False,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/40115,soil water balance,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/40177,vegetated waterways,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/40204,fine-textured soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/404,samplers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/40582,flood irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/40585,floodplains,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/40586,flooded conditions,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/40686,hydrodynamics,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/40739,Torrifluvents,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/40740,Udifluvents,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/40741,Ustifluvents,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/40742,Xerofluvents,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/40743,fluvial soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/40786,Folistels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/40787,Torrifolists,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/40788,Udifolists,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/40789,Ustifolists,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/40866,food webs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/41066,soil food webs,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/41127,forest damage,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/41128,forest health,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41135,forest litter,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41163,plant litter,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/41204,forest steppe soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41214,mangrove forests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/41243,riparian forests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/41306,fossil soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/41383,Fragihumods,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41384,Fragiorthods,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/41385,fragipans,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/41386,soil pans,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/41387,Fragiudalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/41388,Fragiudepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/41389,Fragiudults,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/41390,Udults,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/41391,Fragixeralfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/41392,Fragixerepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/41393,Fraglossudalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/41517,freeze-thaw cycles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/41518,soil temperature regimes,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/41621,frost heave,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41622,soil movement,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/41634,frozen soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/41686,mushroom growing,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/41735,fulvic acids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41736,humic substances,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/41737,Fulvudands,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/41750,soil fumigation,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/41805,fungal proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41806,glomalin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/41820,rhizosphere fungi,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/41821,soil fungi,False,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/41896,furrows,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/4204,urea formaldehyde,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42526,Gelisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/4255908,sampling period,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42655,hydromorphic soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/42656,U.S. Soil Taxonomy,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/42756,geophysics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/42771,soil parent materials,False,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/42998,glacial soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42999,glacial till soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/43003,Glacistels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/43058,global carbon budget,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/43110,mycorrhizal fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/43161,Glossudalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/43655,granite soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/43758,prairies,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/43765,gravelly soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/43847,infiltration (hydrology),False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/43848,Water Erosion Prediction Project,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/43893,ground vegetation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/43954,landfill leachates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/43956,water flow,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/43987,sowing date,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/44016,microbial growth,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/44106,gully erosion,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/44148,Haplogypsids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44149,Natrigypsids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44150,Petrogypsids,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44151,gypsiferous soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44152,gypsum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/44153,Gypsitorrerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/44154,Gypsiusterts,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/44185,microhabitats,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44457,halophytes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/44459,salt marsh plants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/44460,soil salinity,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/44461,soil salts,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/44555,Haplohemists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44556,Haplohumods,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44557,Haplohumults,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44558,Humults,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/44561,Haploperox,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44567,Haplorthels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44568,Haplorthods,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/44569,Haplosalids,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/44570,Haplosaprists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44576,Haplotorrands,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44577,Haplotorrerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/44578,Haplotorrox,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/44579,Haploturbels,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/44580,Haploxeralfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/44581,Haploxerands,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/44582,Haploxerepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/44583,Haploxererts,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/44584,Haploxerolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/44585,Haploxerults,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/44586,Xerults,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/44587,Hapludalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/44588,Hapludands,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/44589,Hapluderts,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/44590,Hapludolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/44591,Hapludox,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/44592,Hapludults,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/44593,Haplustalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/44594,Haplustands,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/44595,Haplustepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/44596,Haplusterts,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/44597,Haplustolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/44598,Haplustox,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/44599,Haplustults,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/44600,Ustults,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/44601,Haprendolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/44661,harrowing,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/44662,harrows,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/44781,specific heat,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44802,thermal diffusivity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44803,heat transfer coefficient,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/44804,thermal properties,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/45083,Hemistels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45084,Luvihemists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45085,Sulfihemists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45086,Sulfohemists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45552,upland soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/45627,Sapristels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45652,Historthels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45653,Histoturbels,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/45666,Isoptera,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/45669,hoeing,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/45698,holocene soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45699,stratigraphic soil types,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/4578,eolian deposits,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4605,application methods,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/46137,humates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46138,sodium humate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46139,humic acids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46142,humin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46147,udic regimes,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/46148,humidity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/46150,sorption isotherms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/46153,Placohumods,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46158,Kandihumults,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46159,Kanhaplohumults,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46160,Palehumults,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46161,Plinthohumults,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46162,Sombrihumults,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46277,hydraulic conductivity,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/46278,saturated hydraulic conductivity,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/46279,unsaturated hydraulic conductivity,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/4631,environmental factors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/46319,hydrodynamic dispersion,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/46320,immiscible displacement,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/46321,miscible displacement,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/46365,water budget,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/46369,hydrologic data,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/46378,water quantity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/46385,Soil and Water Assessment Tool model,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46386,pedotransfer functions,False,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/46423,hydrosequences,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/46439,Hydrudands,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/46558,hyperhydricity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/46810,isobutylidene diurea,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46933,illitic soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46935,illuviation,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/46959,immobilization in soil,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/47065,in-row tillage,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/47069,interrow tillage,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/47237,infiltrometers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/47283,nitrification inhibitors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47289,soil injection,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/47322,inorganic phosphorus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47325,phosphides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47439,soil insects,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47523,internal drainage,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/47524,soil water movement,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/47543,interrill erosion,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/47552,nutrient uptake,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47747,iron oxides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/47750,iron fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47753,soil conditioners,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/47756,irrigated conditions,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/47761,irrigation management,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47771,irrigation rates,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47772,irrigation requirement,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47773,irrigation scheduling,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47779,mist irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47780,overhead irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47781,runoff irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47782,subsurface irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47783,surface irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47784,wastewater irrigation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47833,urea fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4788,afforestation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/4791,site preparation,True,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/48269,Kandiperox,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/48270,Kandiudalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/48271,Kandiudox,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/48272,Kandiudults,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/48273,Kandiustalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/48274,Kandiustox,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/48275,Kandiustults,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/48277,Kanhapludalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/48278,Kanhapludults,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/48279,Kanhaplustalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/48280,Kanhaplustults,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/48282,kaolinitic soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/48973,lacustrine sediments,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/48974,lacustrine soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/48975,lakes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/49119,military lands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/49121,wastelands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/49142,riparian areas,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/49152,land use change,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/49168,piedmont,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/49171,steppes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/49172,terraces,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/49173,volcanoes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4930,seed germination,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/49395,layered soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/49405,losses from soil,True,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/49436,water potential,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/495,fungi,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/497,geology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/498,earthquakes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/499,mass movement,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/50008,lichens,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/501,soil erosion,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/50174,limestone soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50175,liming,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/502,soil weathering,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/50384,loess soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50385,sandstone soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50386,sedimentary soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50387,serpentine soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50388,volcanic ash soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50389,volcanic soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50479,loam soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/5066,age determination,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/5079,methodology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/5081,age of soil,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/50948,lysimeters,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/51079,macropore flow,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/51080,macropores,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/51081,soil pore system,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/51146,magnesium oxide,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/51152,magnetite,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/51394,swamps,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5141,aggregate stability,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/5142,soil physical properties,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/5143,soil aggregation,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/5144,soil surface sealing,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/5150,soil aggregates,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/51566,salt marshes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/51609,soil creep,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/51610,solifluction,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/51611,subsidence,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/51645,weathering,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/51781,modulus of rupture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/51782,resistance to penetration,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/51864,xeric regimes,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/51977,Melanoxerands,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/51978,Melanudands,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/5211,AGNPS model,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/5213,agricultural management models,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/5214,hydrologic models,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/5215,soil erosion models,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/5216,nonpoint source pollution,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5217,water pollution,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/52246,metam,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/52298,moisture meters,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/52307,methanotrophs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/52309,methanogens,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/52536,microaggregates,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/52555,microbial resuscitation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/52688,rhizosphere,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/52768,soil microorganisms,False,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/52785,micropores,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/53072,potassium fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53073,sulfur fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53079,nitrogen,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/53085,montmorillonitic soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53086,smectitic soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53089,soil mineralogy,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/53097,minimum tillage,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/53098,stubble mulching,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/53193,moder,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/53217,wet-dry cycles,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/53219,water activity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/53260,Molliturbels,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/53261,Mollorthels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53289,molybdenum fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53430,mor,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/53434,moraine soils,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/53536,soil mottles,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/53550,mountain soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/53675,plastic film mulches,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53676,straw mulches,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/53677,soil solarization,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/53680,mull,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/5375,vineyards,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5406,tillage implements,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/5408,agricultural management,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5411,animal manure management,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/5414,nutrient management,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/5416,environmental models,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/5417,CREAMS model,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/5423,simulation models,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/54394,Natrixeralfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/54395,Natrixerolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/54401,Natrudalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/54402,Natrudolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/54403,Natrustalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/54404,Natrustolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/54411,soil resource management,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/5472,agricultural soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/5473,cultural soil types,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/54754,neutron probes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/5497,wastes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5503,tropical agriculture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/55108,noise pollution,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/55421,quantity-intensity relationships,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/55446,nutrient solutions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/55521,organic horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/5566,liming materials,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/5568,fertilizers,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/5579,ecosystems,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/5585,alley cropping,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/56241,Psammorthels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/56242,Umbrorthels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/56243,Torriorthents,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/56244,Udorthents,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/56245,Ustorthents,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/56246,Xerorthents,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/56249,Placorthods,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/56445,silica,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/56589,Paleudalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/56590,Paleudolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/56591,Paleudults,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/56592,Paleustalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/56593,Paleustolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/56594,Paleustults,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/56595,Palexeralfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/56596,Palexerolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/56597,Palexerults,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/566,charcoal,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/57128,peat,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/57196,pedoturbation,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/57248,soil penetration resistance,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/57491,wilting point,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/575,porous media,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/57522,Sombriperox,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/57623,plant growth-promoting rhizobacteria,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/5779,Agrudalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/5780,Udalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/580,biosolids,False,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/58056,porosity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/58067,salinity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/58071,thermal conductivity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/58072,wettability,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/58076,piedmont soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/58077,playa soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/58078,steepland soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/58079,terrace soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/5822,air,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/5823,soil air,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/58391,woodlands,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5841,microbiology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/5843,air pollution,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5844,pollutants,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5845,pollution,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/58472,Placudands,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/5850,environmental quality,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/5851,pollution control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/5857,environmental technology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/5858,remediation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/58605,tree nutrition,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/5861,temperature,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/58777,playas,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/58797,pleistocene soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5881,microorganisms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/58832,Plinthoxeralfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/58833,Plinthudults,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/58834,Plinthustalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/58835,Plinthustults,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/58843,plow pans,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/58845,plowing,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/58847,plows,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/59017,point source pollution,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59065,sediment contamination,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59073,polyacrylamide,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/593,fumigants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/59536,rain,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/59559,saturated flow,False,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/59560,unsaturated flow,False,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/5962,Alaquods,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/5963,Aquods,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/5988,Albaqualfs,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/5989,Aqualfs,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/5990,Albaquults,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/5991,Aquults,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/59977,soil fauna,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/60081,Quartzipsamments,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/60082,Torripsamments,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/60083,Udipsamments,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/60084,Ustipsamments,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/60085,Xeropsamments,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/60086,Psammoturbels,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/6019,Albolls,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/6020,Mollisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/6021,Argialbolls,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6022,Natralbolls,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/60517,puddling,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/60729,quaternary soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/61272,rhizodeposition,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/61283,rhizoplane,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/61293,root zone temperature,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/61452,Rhodoxeralfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/61453,Rhodudalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/61454,Rhodudults,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/61455,Rhodustalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/61456,Rhodustults,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/61568,soil ridges,True,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/61569,ridging,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/61575,rill erosion,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/61583,ripping,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/61634,root channels,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/61641,soil temperature,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/61706,rotary tillage,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/61959,soil sodicity,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/61970,soil salinization,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/61972,Salitorrerts,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/62,Protozoa,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/623,growing media,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/62301,Salusterts,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/62343,sand fraction,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/62344,sand stabilization,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/62345,soil stabilization,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/62359,sandy loam soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/62360,sandy soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/62407,Sulfisaprists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/62408,Sulfosaprists,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/62470,savannas,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/62665,shrublands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/62774,seedbed preparation,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/62792,selenium fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/62999,sheet erosion,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/63099,silt fraction,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/63100,silt loam soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/63101,silty soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/63193,soil amendments,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/63217,topographic slope,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/63228,sulfur-coated urea,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/63334,soil,True,True,INCLUDE,,seed,,
+https://lod.nal.usda.gov/nalt/63335,soil acidification,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/63338,soil slaking,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/63345,soil sampling,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/63349,soil associations,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/63353,soil biological properties,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/63357,soil colloids,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/63358,soil solution,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/63359,variable charge,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/6336,Alfisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/63360,soil color,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/63363,soil physics,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/63364,trafficability,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/6337,genetic soil types,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/63371,soil crusts,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/63373,soil depth,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/63376,wind erosion,True,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/63378,soil fabric,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/6338,Cryalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/63384,weathering sequences,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/63386,soil heating,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/63388,soil heterogeneity,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/6339,Ustalfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/63390,spodic horizons,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/63392,soil water characteristic,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/63393,soil water potential,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/63394,soil water retention,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/63397,soil sterilization,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/63398,terracing,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.37,0.63
+https://lod.nal.usda.gov/nalt/6340,Xeralfs,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/63400,soil matric potential,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/63402,soil mechanics,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/63408,soil morphology,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/63409,soil voids,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/63413,soil profiles,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/63414,subsoil,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/63415,subsurface soil layers,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/63416,soil surface layers,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/63417,soil structure,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/63426,soil thermal properties,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/63433,soil pore water,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/63434,soil suitability,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/63435,soil resources,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/63437,soil surveys,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/63439,toposequences,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/63442,tilth,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/63463,soil water deficit,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/63464,soil water storage,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/63470,wetting front,True,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/63471,steady flow,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/63472,transient flow,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/63473,ustic regimes,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/6352,fish ponds,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/63582,Sombriudox,True,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/63583,Sombriustox,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/6369,mathematics and statistics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/63944,splash erosion,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/6405,potassium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/6407,sodium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/6413,alkali treatment,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/6421,calcium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/6422,magnesium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/64223,stony soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/64238,stormwater management,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/64250,triassic soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/64259,stream channels,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/64260,stream erosion,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/6431,alkaline soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/6432,calcicoles,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/6435,water,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/65205,Sulfudepts,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/6582,conservation buffers,False,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/66019,trenching,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/66149,Vitritorrands,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/66206,zinc fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/66596,Umbriturbels,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/66668,Udivitrands,True,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/66669,Vermudolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/66827,Ustivitrands,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/66828,Vermustolls,True,True,INCLUDE,INCLUDE,openai_decisions,0.66,0.34
+https://lod.nal.usda.gov/nalt/67,hydrology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/6709,allophanic soils,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6710,mineralogical soil types,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/67189,Vitrixerands,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/67402,wood moisture,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6744,enzymes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/6750,alluvium,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/6752,coastal plains,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/6753,alluvial soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/6754,lithological soil types,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/6755,sediments,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/67854,soil organic carbon,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/6796345,soil fatty acids,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/68066,wet deposition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/68067,dry deposition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/68414,urban horticulture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/6847,Alorthods,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/6848,Orthods,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/68704,brownfields,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/68811,wood chippers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/69257,golf courses,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/693,Pampas region,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/69532,processing chemistry,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/69901,biofertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7015,alpine meadow soils,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/7016,ecological soil types,True,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/7026,highlands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/7027,mountains,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/7028,tundra,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/71307,alluvial plains,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/7143,vermiculture,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/7265,aluminum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/7276,exchangeable aluminum,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/7279,oxides,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7280,phosphates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/729,abiotic stress,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/74995,carbon cycle,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/75002,carbon sinks,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/76121,climate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/766,plant stress,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/7679,organic nitrogen compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/7941,ammonification,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/7942,soil biochemistry,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/7963,ammonium fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7966,nitrogen fertilizers,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/7972,lignosulfonates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/7973,nitrate fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7981,nitrogen-phosphorus fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/7982,phosphorus fertilizers,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/80856,forest land,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/822,herbicides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/83,soil arthropods,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8374,anaerobic digestion,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8375,anaerobiosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8377,anaerobic conditions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/8380,dissolved oxygen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8381,oxygen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8383,oxygen requirement,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8466,analytical chemistry,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8468,analytical methods,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/8478,Diagnosis and Recommendation Integrated System,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/86132,mine tailings,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/8668,Andisols,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/8669,Aquands,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/8670,Cryands,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/8671,Torrands,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/8672,Udands,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/8673,Ustands,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/8674,Vitrands,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/8675,Xerands,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/86995,nitrogen cycle,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/8939,Anhyorthels,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8940,Orthels,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/8941,Anhyturbels,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/8942,Turbels,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/9,acids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9042,byproducts,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/9084,animal welfare,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/9146,research methods,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/924,hypoxia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/92572,soil protozoa,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/9313,organic fertilizers,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/9324,nutrition,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/9359,invertebrates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/952,wilting,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/955,soil processes and phenomena,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/9550,laboratory techniques,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/957,bioturbation,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/958,soil degradation,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/9588,fauna,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/959,soil formation,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/9594,anion exchange capacity,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/9595,soil chemical properties,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/9598,anion exchange resins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9599,ion exchange resins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/960,soil nutrient dynamics,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/9602,anions,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/96068,water salinity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/961,soil pollution,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/962,soil productivity status,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/963,gypsum requirement,True,True,INCLUDE,INCLUDE,openai_decisions,0.62,0.38
+https://lod.nal.usda.gov/nalt/964,leaching requirement,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/965,lime requirement,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/966,nutrient offtake,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/967,soil exhaustion,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/968,soil fertility,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/969,soil nutrient balance,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/970,soil productivity,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/9709,grasslands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/971,soil sickness,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/972,soil test values,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/973,soil toxicity,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/9864,fungal antagonists,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/999,cartography,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92

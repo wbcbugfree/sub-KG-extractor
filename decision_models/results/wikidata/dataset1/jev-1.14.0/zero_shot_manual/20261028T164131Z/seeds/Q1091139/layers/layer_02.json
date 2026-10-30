@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3541",
+    "legacy_row_id": "Q1091139|Q1755411",
+    "seed_qid": "Q1091139",
+    "seed_label": "Enhanced Interior Gateway Routing Protocol",
+    "qid": "Q1755411",
+    "label": "link-state routing protocol",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q431028",
+    "parent_label": "interior gateway protocol",
+    "path": "Enhanced Interior Gateway Routing Protocol --instance of--> interior gateway protocol --has subclass--> link-state routing protocol",
+    "uri": "http://www.wikidata.org/entity/Q1755411",
+    "classification": "INCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.84,
+    "p_exclude": 0.16,
+    "selected_probability": 0.84,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

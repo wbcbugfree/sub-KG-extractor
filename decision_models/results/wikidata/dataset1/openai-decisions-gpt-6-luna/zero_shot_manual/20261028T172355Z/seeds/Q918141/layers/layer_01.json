@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3634",
+    "legacy_row_id": "Q918141|Q77285685",
+    "seed_qid": "Q918141",
+    "seed_label": "work breakdown structure",
+    "qid": "Q77285685",
+    "label": "project management term",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q918141",
+    "parent_label": "work breakdown structure",
+    "path": "work breakdown structure --instance of--> project management term",
+    "uri": "http://www.wikidata.org/entity/Q77285685",
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

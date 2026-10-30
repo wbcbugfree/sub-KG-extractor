@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q1958286",
+  "seed_label": "web indexing",
+  "included_qids": [
+    "Q1958286"
+  ],
+  "pruned_qids": [
+    "Q11016"
+  ],
+  "visited_qids": [
+    "Q11016",
+    "Q1958286"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:35.096323+00:00",
+  "finished_at_utc": "2026-10-28T17:45:35.822706+00:00",
+  "wall_seconds": 0.7263864000124158,
+  "frontier_exhausted": true
+}

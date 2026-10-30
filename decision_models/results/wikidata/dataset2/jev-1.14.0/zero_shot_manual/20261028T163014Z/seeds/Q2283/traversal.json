@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q2283",
+  "seed_label": "Microsoft",
+  "included_qids": [
+    "Q1058914",
+    "Q18388277",
+    "Q2283",
+    "Q4830453",
+    "Q891723"
+  ],
+  "pruned_qids": [
+    "Q13637823"
+  ],
+  "visited_qids": [
+    "Q1058914",
+    "Q13637823",
+    "Q18388277",
+    "Q2283",
+    "Q4830453",
+    "Q891723"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:22.556396+00:00",
+  "finished_at_utc": "2026-10-28T16:30:23.158649+00:00",
+  "wall_seconds": 0.6022506999943289,
+  "frontier_exhausted": true
+}

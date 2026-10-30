@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row652",
+    "legacy_row_id": "Q623338|Q20155966",
+    "seed_qid": "Q623338",
+    "seed_label": "Web Services Description Language",
+    "qid": "Q20155966",
+    "label": "XML-based format",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q623338",
+    "parent_label": "Web Services Description Language",
+    "path": "Web Services Description Language --instance of--> XML-based format",
+    "uri": "http://www.wikidata.org/entity/Q20155966",
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

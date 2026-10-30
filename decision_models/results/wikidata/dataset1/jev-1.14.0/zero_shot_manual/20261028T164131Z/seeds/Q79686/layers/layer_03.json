@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row90",
+    "legacy_row_id": "Q79686|Q15360302",
+    "seed_qid": "Q79686",
+    "seed_label": "Universal Mobile Telecommunications System",
+    "qid": "Q15360302",
+    "label": "mobile network",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q13425103",
+    "parent_label": "communication network",
+    "path": "Universal Mobile Telecommunications System --instance of--> communications system --has subclass--> communication network --has subclass--> mobile network",
+    "uri": "http://www.wikidata.org/entity/Q15360302",
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4426",
+    "legacy_row_id": "Q208160|Q157811",
+    "seed_qid": "Q208160",
+    "seed_label": "courage",
+    "qid": "Q157811",
+    "label": "virtue",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q208160",
+    "parent_label": "courage",
+    "path": "courage --instance of--> virtue",
+    "uri": "http://www.wikidata.org/entity/Q157811",
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

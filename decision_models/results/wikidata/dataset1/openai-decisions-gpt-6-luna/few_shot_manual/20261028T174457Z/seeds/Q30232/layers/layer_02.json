@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1428",
+    "legacy_row_id": "Q30232|Q210813",
+    "seed_qid": "Q30232",
+    "seed_label": "agile software development",
+    "qid": "Q210813",
+    "label": "direct memory access",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q66747126",
+    "parent_label": "computer science term",
+    "path": "agile software development --instance of--> computer science term --has subclass--> direct memory access",
+    "uri": "http://www.wikidata.org/entity/Q210813",
+    "classification": "EXCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.2,
+    "p_exclude": 0.8,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

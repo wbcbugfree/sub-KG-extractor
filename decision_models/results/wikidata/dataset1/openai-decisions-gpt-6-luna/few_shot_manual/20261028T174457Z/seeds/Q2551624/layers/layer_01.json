@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3486",
+    "legacy_row_id": "Q2551624|Q15836568",
+    "seed_qid": "Q2551624",
+    "seed_label": "IPv6",
+    "qid": "Q15836568",
+    "label": "computer network protocol",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q2551624",
+    "parent_label": "IPv6",
+    "path": "IPv6 --instance of--> computer network protocol",
+    "uri": "http://www.wikidata.org/entity/Q15836568",
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

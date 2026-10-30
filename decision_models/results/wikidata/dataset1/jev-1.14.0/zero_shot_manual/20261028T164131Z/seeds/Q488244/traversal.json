@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q488244",
+  "seed_label": "Windows Embedded Compact",
+  "included_qids": [
+    "Q218616",
+    "Q488244",
+    "Q9135"
+  ],
+  "pruned_qids": [
+    "Q1198514",
+    "Q3512599",
+    "Q43627",
+    "Q7075017",
+    "Q763151",
+    "Q85299672"
+  ],
+  "visited_qids": [
+    "Q1198514",
+    "Q218616",
+    "Q3512599",
+    "Q43627",
+    "Q488244",
+    "Q7075017",
+    "Q763151",
+    "Q85299672",
+    "Q9135"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 0,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:15.128094+00:00",
+  "finished_at_utc": "2026-10-28T16:42:15.778189+00:00",
+  "wall_seconds": 0.6500865999987582,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4064",
+    "legacy_row_id": "Q49150|Q15836568",
+    "seed_qid": "Q49150",
+    "seed_label": "Remote Desktop Protocol",
+    "qid": "Q15836568",
+    "label": "computer network protocol",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q49150",
+    "parent_label": "Remote Desktop Protocol",
+    "path": "Remote Desktop Protocol --instance of--> computer network protocol",
+    "uri": "http://www.wikidata.org/entity/Q15836568",
+    "classification": "INCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.71,
+    "p_exclude": 0.29,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

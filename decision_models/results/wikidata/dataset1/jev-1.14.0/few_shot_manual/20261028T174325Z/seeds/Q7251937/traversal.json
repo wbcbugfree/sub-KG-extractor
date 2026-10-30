@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q7251937",
+  "seed_label": "Protocol implementation conformance statement",
+  "included_qids": [
+    "Q15836568",
+    "Q203087",
+    "Q28380029",
+    "Q3359815",
+    "Q5013874",
+    "Q7251937",
+    "Q8777"
+  ],
+  "pruned_qids": [
+    "Q2622793"
+  ],
+  "visited_qids": [
+    "Q15836568",
+    "Q203087",
+    "Q2622793",
+    "Q28380029",
+    "Q3359815",
+    "Q5013874",
+    "Q7251937",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 5,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:18.670351+00:00",
+  "finished_at_utc": "2026-10-28T17:44:19.392004+00:00",
+  "wall_seconds": 0.7216449999978067,
+  "frontier_exhausted": true
+}

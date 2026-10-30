@@ -1,0 +1,41 @@
+{
+  "seed_qid": "Q579473",
+  "seed_label": "Numericable",
+  "included_qids": [
+    "Q11371",
+    "Q1266169",
+    "Q3684624",
+    "Q579473",
+    "Q621601"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q11371",
+    "Q1266169",
+    "Q3684624",
+    "Q579473",
+    "Q621601"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:15.536431+00:00",
+  "finished_at_utc": "2026-10-28T17:44:16.285686+00:00",
+  "wall_seconds": 0.7492488999996567,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row748",
+    "legacy_row_id": "Q392500|Q3244038",
+    "seed_qid": "Q392500",
+    "seed_label": "Agence Nationale de la Recherche",
+    "qid": "Q3244038",
+    "label": "public establishment of an administrative nature",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q392500",
+    "parent_label": "Agence Nationale de la Recherche",
+    "path": "Agence Nationale de la Recherche --instance of--> public establishment of an administrative nature",
+    "uri": "http://www.wikidata.org/entity/Q3244038",
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

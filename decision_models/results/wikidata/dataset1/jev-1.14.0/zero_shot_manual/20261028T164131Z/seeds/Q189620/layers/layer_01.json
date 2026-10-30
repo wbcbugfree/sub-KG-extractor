@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3",
+    "legacy_row_id": "Q189620|Q15836568",
+    "seed_qid": "Q189620",
+    "seed_label": "SOAP",
+    "qid": "Q15836568",
+    "label": "computer network protocol",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q189620",
+    "parent_label": "SOAP",
+    "path": "SOAP --instance of--> computer network protocol",
+    "uri": "http://www.wikidata.org/entity/Q15836568",
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

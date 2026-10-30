@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q171545",
+  "seed_label": "Belfort",
+  "included_qids": [
+    "Q171545",
+    "Q484170"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q171545",
+    "Q484170"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:42:40.275181+00:00",
+  "finished_at_utc": "2026-10-28T17:42:40.572599+00:00",
+  "wall_seconds": 0.2974178000004031,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q13162",
+  "seed_label": "Internet Control Message Protocol",
+  "included_qids": [
+    "Q1254335",
+    "Q13162",
+    "Q1422324",
+    "Q15836568",
+    "Q65498996",
+    "Q8795"
+  ],
+  "pruned_qids": [
+    "Q1128629",
+    "Q81414"
+  ],
+  "visited_qids": [
+    "Q1128629",
+    "Q1254335",
+    "Q13162",
+    "Q1422324",
+    "Q15836568",
+    "Q65498996",
+    "Q81414",
+    "Q8795"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 4,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:06.073241+00:00",
+  "finished_at_utc": "2026-10-28T17:24:06.851886+00:00",
+  "wall_seconds": 0.7786465999961365,
+  "frontier_exhausted": true
+}

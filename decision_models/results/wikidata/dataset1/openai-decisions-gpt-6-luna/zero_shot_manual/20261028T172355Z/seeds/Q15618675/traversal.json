@@ -1,0 +1,30 @@
+{
+  "seed_qid": "Q15618675",
+  "seed_label": "scrum master",
+  "included_qids": [
+    "Q15618675",
+    "Q28640",
+    "Q4897819"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q15618675",
+    "Q28640",
+    "Q4897819"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:11.978525+00:00",
+  "finished_at_utc": "2026-10-28T17:24:12.286808+00:00",
+  "wall_seconds": 0.30827779999526683,
+  "frontier_exhausted": true
+}

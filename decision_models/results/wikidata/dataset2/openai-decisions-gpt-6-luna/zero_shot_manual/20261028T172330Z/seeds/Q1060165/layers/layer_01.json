@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row218",
+    "legacy_row_id": "Q1060165|Q210167",
+    "seed_qid": "Q1060165",
+    "seed_label": "Riot Games",
+    "qid": "Q210167",
+    "label": "video game developer",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1060165",
+    "parent_label": "Riot Games",
+    "path": "Riot Games --instance of--> video game developer",
+    "uri": "http://www.wikidata.org/entity/Q210167",
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

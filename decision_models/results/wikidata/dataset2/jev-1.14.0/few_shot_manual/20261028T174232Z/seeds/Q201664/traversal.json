@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q201664",
+  "seed_label": "bracelet",
+  "included_qids": [
+    "Q1455890",
+    "Q161439",
+    "Q16839772",
+    "Q201664",
+    "Q2111434",
+    "Q3575260",
+    "Q4470686",
+    "Q46847",
+    "Q488720",
+    "Q7120070",
+    "Q7538697"
+  ],
+  "pruned_qids": [
+    "Q11796413"
+  ],
+  "visited_qids": [
+    "Q11796413",
+    "Q1455890",
+    "Q161439",
+    "Q16839772",
+    "Q201664",
+    "Q2111434",
+    "Q3575260",
+    "Q4470686",
+    "Q46847",
+    "Q488720",
+    "Q7120070",
+    "Q7538697"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 7,
+      "included": 7,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 3,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:42:41.594826+00:00",
+  "finished_at_utc": "2026-10-28T17:42:42.247101+00:00",
+  "wall_seconds": 0.6522729999996955,
+  "frontier_exhausted": true
+}

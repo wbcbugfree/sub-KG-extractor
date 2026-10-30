@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4591",
+    "legacy_row_id": "Q200647|Q920890",
+    "seed_qid": "Q200647",
+    "seed_label": "EPOC",
+    "qid": "Q920890",
+    "label": "mobile operating system",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q200647",
+    "parent_label": "EPOC",
+    "path": "EPOC --instance of--> mobile operating system",
+    "uri": "http://www.wikidata.org/entity/Q920890",
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

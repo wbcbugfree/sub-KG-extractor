@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q485",
+  "seed_label": "computer virus",
+  "included_qids": [
+    "Q17155032",
+    "Q485",
+    "Q66754793"
+  ],
+  "pruned_qids": [
+    "Q1074158",
+    "Q15079042",
+    "Q1727373",
+    "Q3077240",
+    "Q570871",
+    "Q643876",
+    "Q66755638"
+  ],
+  "visited_qids": [
+    "Q1074158",
+    "Q15079042",
+    "Q17155032",
+    "Q1727373",
+    "Q3077240",
+    "Q485",
+    "Q570871",
+    "Q643876",
+    "Q66754793",
+    "Q66755638"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 7,
+      "included": 0,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:53.604173+00:00",
+  "finished_at_utc": "2026-10-28T17:24:54.464441+00:00",
+  "wall_seconds": 0.8602665000071283,
+  "frontier_exhausted": true
+}

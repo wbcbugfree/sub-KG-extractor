@@ -1,0 +1,67 @@
+{
+  "seed_qid": "Q228327",
+  "seed_label": "access network",
+  "included_qids": [
+    "Q1068715",
+    "Q1117061",
+    "Q1120452",
+    "Q12045244",
+    "Q15057100",
+    "Q228327",
+    "Q2354216"
+  ],
+  "pruned_qids": [
+    "Q1162680",
+    "Q1301371",
+    "Q141683",
+    "Q1654395",
+    "Q3498158",
+    "Q5570871",
+    "Q75"
+  ],
+  "visited_qids": [
+    "Q1068715",
+    "Q1117061",
+    "Q1120452",
+    "Q1162680",
+    "Q12045244",
+    "Q1301371",
+    "Q141683",
+    "Q15057100",
+    "Q1654395",
+    "Q228327",
+    "Q2354216",
+    "Q3498158",
+    "Q5570871",
+    "Q75"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 10,
+      "included": 3,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:55.406271+00:00",
+  "finished_at_utc": "2026-10-28T17:43:56.449783+00:00",
+  "wall_seconds": 1.0435100000031525,
+  "frontier_exhausted": true
+}

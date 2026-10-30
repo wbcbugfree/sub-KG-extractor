@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4547",
+    "legacy_row_id": "Q1750812|Q11862829",
+    "seed_qid": "Q1750812",
+    "seed_label": "ergonomics",
+    "qid": "Q11862829",
+    "label": "academic discipline",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1750812",
+    "parent_label": "ergonomics",
+    "path": "ergonomics --instance of--> academic discipline",
+    "uri": "http://www.wikidata.org/entity/Q11862829",
+    "classification": "INCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.71,
+    "p_exclude": 0.29,
+    "selected_probability": 0.71,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

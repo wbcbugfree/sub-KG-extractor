@@ -1,0 +1,60 @@
+{
+  "seed_qid": "Q59",
+  "seed_label": "PHP",
+  "included_qids": [
+    "Q11311509",
+    "Q12772052",
+    "Q187432",
+    "Q1993334",
+    "Q21562092",
+    "Q251",
+    "Q28922858",
+    "Q28922885",
+    "Q29042678",
+    "Q341",
+    "Q59",
+    "Q899523",
+    "Q9143"
+  ],
+  "pruned_qids": [
+    "Q56191572"
+  ],
+  "visited_qids": [
+    "Q11311509",
+    "Q12772052",
+    "Q187432",
+    "Q1993334",
+    "Q21562092",
+    "Q251",
+    "Q28922858",
+    "Q28922885",
+    "Q29042678",
+    "Q341",
+    "Q56191572",
+    "Q59",
+    "Q899523",
+    "Q9143"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 8,
+      "included": 8,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 4,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:16.195398+00:00",
+  "finished_at_utc": "2026-10-28T17:46:17.324445+00:00",
+  "wall_seconds": 1.1290377999976045,
+  "frontier_exhausted": true
+}

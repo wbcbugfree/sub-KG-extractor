@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row5114",
+    "legacy_row_id": "Q18211976|Q428069",
+    "seed_qid": "Q18211976",
+    "seed_label": "nickel-cadmium",
+    "qid": "Q428069",
+    "label": "intermetallic",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q18211976",
+    "parent_label": "nickel-cadmium",
+    "path": "nickel-cadmium --instance of--> intermetallic",
+    "uri": "http://www.wikidata.org/entity/Q428069",
+    "classification": "INCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.64,
+    "p_exclude": 0.36,
+    "selected_probability": 0.64,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

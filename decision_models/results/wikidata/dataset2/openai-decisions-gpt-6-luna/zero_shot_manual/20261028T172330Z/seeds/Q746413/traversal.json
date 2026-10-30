@@ -1,0 +1,32 @@
+{
+  "seed_qid": "Q746413",
+  "seed_label": "Elsevier BV",
+  "included_qids": [
+    "Q1320047",
+    "Q2085381",
+    "Q737498",
+    "Q746413"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1320047",
+    "Q2085381",
+    "Q737498",
+    "Q746413"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:46.188253+00:00",
+  "finished_at_utc": "2026-10-28T17:23:46.481587+00:00",
+  "wall_seconds": 0.2933297000126913,
+  "frontier_exhausted": true
+}

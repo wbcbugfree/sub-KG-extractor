@@ -1,0 +1,67 @@
+{
+  "seed_qid": "Q129337",
+  "seed_label": "TGV",
+  "included_qids": [
+    "Q1049958",
+    "Q129337",
+    "Q13402959",
+    "Q15079663",
+    "Q16858238",
+    "Q30754613",
+    "Q432478",
+    "Q483373",
+    "Q60442637",
+    "Q811704",
+    "Q91908084",
+    "Q928468"
+  ],
+  "pruned_qids": [
+    "Q167270",
+    "Q2205965"
+  ],
+  "visited_qids": [
+    "Q1049958",
+    "Q129337",
+    "Q13402959",
+    "Q15079663",
+    "Q167270",
+    "Q16858238",
+    "Q2205965",
+    "Q30754613",
+    "Q432478",
+    "Q483373",
+    "Q60442637",
+    "Q811704",
+    "Q91908084",
+    "Q928468"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 7,
+      "included": 6,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 4,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:01.749231+00:00",
+  "finished_at_utc": "2026-10-28T17:43:02.744816+00:00",
+  "wall_seconds": 0.9955904999951599,
+  "frontier_exhausted": true
+}

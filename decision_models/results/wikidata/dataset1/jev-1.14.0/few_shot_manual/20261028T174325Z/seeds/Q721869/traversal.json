@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q721869",
+  "seed_label": "Reverse Address Resolution Protocol",
+  "included_qids": [
+    "Q15836568",
+    "Q203087",
+    "Q3359815",
+    "Q721869"
+  ],
+  "pruned_qids": [
+    "Q2622793",
+    "Q5013874",
+    "Q8777"
+  ],
+  "visited_qids": [
+    "Q15836568",
+    "Q203087",
+    "Q2622793",
+    "Q3359815",
+    "Q5013874",
+    "Q721869",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 2,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:18.273523+00:00",
+  "finished_at_utc": "2026-10-28T17:44:18.922102+00:00",
+  "wall_seconds": 0.6485760000068694,
+  "frontier_exhausted": true
+}

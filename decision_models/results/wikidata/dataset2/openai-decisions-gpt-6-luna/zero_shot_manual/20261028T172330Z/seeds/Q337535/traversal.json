@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q337535",
+  "seed_label": "Steam",
+  "included_qids": [
+    "Q1334294",
+    "Q192532",
+    "Q337535",
+    "Q3559933",
+    "Q4110622",
+    "Q58199",
+    "Q81989119"
+  ],
+  "pruned_qids": [
+    "Q8048052"
+  ],
+  "visited_qids": [
+    "Q1334294",
+    "Q192532",
+    "Q337535",
+    "Q3559933",
+    "Q4110622",
+    "Q58199",
+    "Q8048052",
+    "Q81989119"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:43.326871+00:00",
+  "finished_at_utc": "2026-10-28T17:23:44.249549+00:00",
+  "wall_seconds": 0.9226754999981495,
+  "frontier_exhausted": true
+}

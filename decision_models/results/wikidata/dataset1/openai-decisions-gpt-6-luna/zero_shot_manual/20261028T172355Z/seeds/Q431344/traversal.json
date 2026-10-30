@@ -1,0 +1,68 @@
+{
+  "seed_qid": "Q431344",
+  "seed_label": "ADSL2+",
+  "included_qids": [
+    "Q11016",
+    "Q431344"
+  ],
+  "pruned_qids": [
+    "Q1001378",
+    "Q10379048",
+    "Q12825931",
+    "Q1351910",
+    "Q1407254",
+    "Q1519843",
+    "Q17386807",
+    "Q211017",
+    "Q23001701",
+    "Q282413",
+    "Q30032134",
+    "Q329864",
+    "Q336170",
+    "Q42899294",
+    "Q54006339",
+    "Q59285058"
+  ],
+  "visited_qids": [
+    "Q1001378",
+    "Q10379048",
+    "Q11016",
+    "Q12825931",
+    "Q1351910",
+    "Q1407254",
+    "Q1519843",
+    "Q17386807",
+    "Q211017",
+    "Q23001701",
+    "Q282413",
+    "Q30032134",
+    "Q329864",
+    "Q336170",
+    "Q42899294",
+    "Q431344",
+    "Q54006339",
+    "Q59285058"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 16,
+      "included": 0,
+      "excluded": 16,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:50.595089+00:00",
+  "finished_at_utc": "2026-10-28T17:24:51.492733+00:00",
+  "wall_seconds": 0.8976549000071827,
+  "frontier_exhausted": true
+}

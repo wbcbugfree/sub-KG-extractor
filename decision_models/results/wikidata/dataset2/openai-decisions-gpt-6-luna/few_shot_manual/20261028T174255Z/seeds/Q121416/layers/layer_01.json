@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row48",
+    "legacy_row_id": "Q121416|Q1936384",
+    "seed_qid": "Q121416",
+    "seed_label": "discrete mathematics",
+    "qid": "Q1936384",
+    "label": "area of mathematics",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P279",
+    "reaching_property_label": "subclass of",
+    "parent_qid": "Q121416",
+    "parent_label": "discrete mathematics",
+    "path": "discrete mathematics --subclass of--> area of mathematics",
+    "uri": "http://www.wikidata.org/entity/Q1936384",
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

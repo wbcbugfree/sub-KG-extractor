@@ -1,0 +1,57 @@
+{
+  "seed_qid": "Q568494",
+  "seed_label": "single sign-on",
+  "included_qids": [
+    "Q17125828",
+    "Q228502",
+    "Q55603125",
+    "Q55608710",
+    "Q568494",
+    "Q977772"
+  ],
+  "pruned_qids": [
+    "Q1146283",
+    "Q2085069",
+    "Q756230"
+  ],
+  "visited_qids": [
+    "Q1146283",
+    "Q17125828",
+    "Q2085069",
+    "Q228502",
+    "Q55603125",
+    "Q55608710",
+    "Q568494",
+    "Q756230",
+    "Q977772"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 2,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:57.955545+00:00",
+  "finished_at_utc": "2026-10-28T17:24:59.322658+00:00",
+  "wall_seconds": 1.3671140000078594,
+  "frontier_exhausted": true
+}

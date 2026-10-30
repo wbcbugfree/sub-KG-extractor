@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q312",
+  "seed_label": "Apple Inc.",
+  "included_qids": [
+    "Q1058914",
+    "Q167037",
+    "Q18388277",
+    "Q312",
+    "Q431289",
+    "Q4830453",
+    "Q6881511",
+    "Q891723"
+  ],
+  "pruned_qids": [
+    "Q13637823"
+  ],
+  "visited_qids": [
+    "Q1058914",
+    "Q13637823",
+    "Q167037",
+    "Q18388277",
+    "Q312",
+    "Q431289",
+    "Q4830453",
+    "Q6881511",
+    "Q891723"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 6,
+      "included": 6,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:42.710203+00:00",
+  "finished_at_utc": "2026-10-28T17:23:43.543067+00:00",
+  "wall_seconds": 0.8328643999993801,
+  "frontier_exhausted": true
+}

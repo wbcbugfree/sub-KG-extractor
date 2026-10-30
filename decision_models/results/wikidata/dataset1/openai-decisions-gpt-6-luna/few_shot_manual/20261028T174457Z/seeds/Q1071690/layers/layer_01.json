@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1827",
+    "legacy_row_id": "Q1071690|Q11488158",
+    "seed_qid": "Q1071690",
+    "seed_label": "chief security officer",
+    "qid": "Q11488158",
+    "label": "corporate title",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1071690",
+    "parent_label": "chief security officer",
+    "path": "chief security officer --instance of--> corporate title",
+    "uri": "http://www.wikidata.org/entity/Q11488158",
+    "classification": "INCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.78,
+    "p_exclude": 0.22,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

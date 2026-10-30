@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3764",
+    "legacy_row_id": "Q18833|Q6158458",
+    "seed_qid": "Q18833",
+    "seed_label": "Microsoft SharePoint",
+    "qid": "Q6158458",
+    "label": "VQWiki",
+    "csv_depth": 4,
+    "bfs_depth": 4,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q6686945",
+    "parent_label": "wiki software",
+    "path": "Microsoft SharePoint --instance of--> social software --has subclass--> collaborative software --has subclass--> wiki software --has subclass--> VQWiki",
+    "uri": "http://www.wikidata.org/entity/Q6158458",
+    "classification": "INCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.77,
+    "p_exclude": 0.23,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

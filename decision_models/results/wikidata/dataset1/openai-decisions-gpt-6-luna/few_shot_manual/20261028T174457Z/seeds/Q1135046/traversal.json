@@ -1,0 +1,39 @@
+{
+  "seed_qid": "Q1135046",
+  "seed_label": "secure copy protocol",
+  "included_qids": [
+    "Q1135046",
+    "Q15836568",
+    "Q8777",
+    "Q8795"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1135046",
+    "Q15836568",
+    "Q8777",
+    "Q8795"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:06.447325+00:00",
+  "finished_at_utc": "2026-10-28T17:45:07.801496+00:00",
+  "wall_seconds": 1.3541837999946438,
+  "frontier_exhausted": true
+}

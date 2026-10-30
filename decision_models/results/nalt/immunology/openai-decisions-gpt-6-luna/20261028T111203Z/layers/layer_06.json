@@ -1,0 +1,920 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/223477",
+    "prefLabel": "adiponectin receptors",
+    "altLabels": [],
+    "displayName": "adiponectin receptors",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/287755",
+    "prefLabel": "antistaling agents",
+    "altLabels": [],
+    "displayName": "antistaling agents",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243644",
+    "prefLabel": "atypical chemokine receptor 3",
+    "altLabels": [
+      "ACKR3 (atypical chemokine receptor 3)",
+      "C-X-C chemokine receptor type 7",
+      "CMKOR1 (chemokine orphan receptor 1)",
+      "CXC chemokine receptor 7",
+      "CXCR7 receptor",
+      "GPR159 (G-protein coupled receptor 159)",
+      "GPRN1 (G-protein coupled receptor N1)",
+      "RDC1 (G-protein coupled receptor RDC1)",
+      "chemokine (C-X-C motif) receptor 7",
+      "chemokine (C-X-C) receptor 7"
+    ],
+    "displayName": "atypical chemokine receptor 3 (ACKR3 (atypical chemokine receptor 3), C-X-C chemokine receptor type 7, CMKOR1 (chemokine orphan receptor 1), CXC chemokine receptor 7, CXCR7 receptor, GPR159 (G-protein coupled receptor 159), GPRN1 (G-protein coupled receptor N1), RDC1 (G-protein coupled receptor RDC1), chemokine (C-X-C motif) receptor 7, chemokine (C-X-C) receptor 7)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136654",
+    "prefLabel": "caspase-1",
+    "altLabels": [
+      "EC 3.4.22.36",
+      "IL-1 beta convertase",
+      "IL-1 beta-converting enzyme",
+      "interleukin 1beta-converting enzyme",
+      "interleukin-1beta convertase"
+    ],
+    "displayName": "caspase-1 (EC 3.4.22.36, IL-1 beta convertase, IL-1 beta-converting enzyme, interleukin 1beta-converting enzyme, interleukin-1beta convertase)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243525",
+    "prefLabel": "CCR10 receptor",
+    "altLabels": [
+      "C-C chemokine receptor type 10",
+      "CC chemokine receptor 10",
+      "GPR2 (G-protein coupled receptor-2)",
+      "chemokine (C-C motif) receptor 10",
+      "chemokine (C-C) receptor 10"
+    ],
+    "displayName": "CCR10 receptor (C-C chemokine receptor type 10, CC chemokine receptor 10, GPR2 (G-protein coupled receptor-2), chemokine (C-C motif) receptor 10, chemokine (C-C) receptor 10)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243444",
+    "prefLabel": "CCR4 receptor",
+    "altLabels": [
+      "C-C chemokine receptor type 4",
+      "CC chemokine receptor 4",
+      "CC-CKR4 receptor",
+      "CD194 antigen",
+      "chemokine (C-C motif) receptor 4"
+    ],
+    "displayName": "CCR4 receptor (C-C chemokine receptor type 4, CC chemokine receptor 4, CC-CKR4 receptor, CD194 antigen, chemokine (C-C motif) receptor 4)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243463",
+    "prefLabel": "CCR6 receptor",
+    "altLabels": [
+      "C-C chemokine receptor type 6",
+      "CC chemokine receptor 6",
+      "CC-CKR6 receptor",
+      "CD196 antigen",
+      "CKR6 receptor",
+      "GPR-CY4 receptor",
+      "GPR39 (G-protein coupled receptor-29)",
+      "STRL22 (seven-transmembrane receptor, lymphocyte, 22)",
+      "chemokine (C-C motif) receptor 6",
+      "chemokine receptor DCR2",
+      "chemokine receptor DRY6"
+    ],
+    "displayName": "CCR6 receptor (C-C chemokine receptor type 6, CC chemokine receptor 6, CC-CKR6 receptor, CD196 antigen, CKR6 receptor, GPR-CY4 receptor, GPR39 (G-protein coupled receptor-29), STRL22 (seven-transmembrane receptor, lymphocyte, 22), chemokine (C-C motif) receptor 6, chemokine receptor DCR2, chemokine receptor DRY6)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243478",
+    "prefLabel": "CCR7 receptor",
+    "altLabels": [
+      "C-C chemokine receptor type 7",
+      "CC chemokine receptor 7",
+      "CC-CKR7 receptor",
+      "CD197 antigen",
+      "CKR7 receptor",
+      "Epstein-Barr virus induced G-protein coupled receptor-1",
+      "MIP-3 beta receptor",
+      "chemokine (C-C motif) receptor 7",
+      "chemokine receptor BLR-2",
+      "chemokine receptor EBI-1",
+      "lymphocyte-specific G-protein coupled peptide receptor"
+    ],
+    "displayName": "CCR7 receptor (C-C chemokine receptor type 7, CC chemokine receptor 7, CC-CKR7 receptor, CD197 antigen, CKR7 receptor, Epstein-Barr virus induced G-protein coupled receptor-1, MIP-3 beta receptor, chemokine (C-C motif) receptor 7, chemokine receptor BLR-2, chemokine receptor EBI-1, lymphocyte-specific G-protein coupled peptide receptor)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243493",
+    "prefLabel": "CCR8 receptor",
+    "altLabels": [
+      "C-C chemokine receptor type 8",
+      "CC chemokine receptor 8",
+      "CC-CKR8 receptor",
+      "CDw198 antigen",
+      "CKR8 receptor",
+      "GPR-CY6 (G-protein coupled receptor-CY6)",
+      "chemokine (C-C motif) receptor 8",
+      "chemokine (C-C) receptor 8",
+      "chemokine receptor CKRL1",
+      "chemokine receptor CLR-L1",
+      "chemokine receptor TER1"
+    ],
+    "displayName": "CCR8 receptor (C-C chemokine receptor type 8, CC chemokine receptor 8, CC-CKR8 receptor, CDw198 antigen, CKR8 receptor, GPR-CY6 (G-protein coupled receptor-CY6), chemokine (C-C motif) receptor 8, chemokine (C-C) receptor 8, chemokine receptor CKRL1, chemokine receptor CLR-L1, chemokine receptor TER1)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243508",
+    "prefLabel": "CCR9 receptor",
+    "altLabels": [
+      "C-C chemokine receptor type 9",
+      "CC chemokine receptor 9",
+      "CC-CKR-9 receptor",
+      "CCR9a receptor",
+      "CCR9b receptor",
+      "CDw199 antigen",
+      "CKR-9 receptor",
+      "GPR-9-6 (G-protein coupled receptor 9-6)",
+      "GPR28 (G-protein coupled receptor 28)",
+      "chemokine (C-C motif) receptor 9",
+      "chemokine (C-C) receptor 9"
+    ],
+    "displayName": "CCR9 receptor (C-C chemokine receptor type 9, CC chemokine receptor 9, CC-CKR-9 receptor, CCR9a receptor, CCR9b receptor, CDw199 antigen, CKR-9 receptor, GPR-9-6 (G-protein coupled receptor 9-6), GPR28 (G-protein coupled receptor 28), chemokine (C-C motif) receptor 9, chemokine (C-C) receptor 9)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243281",
+    "prefLabel": "chemokine CCL13",
+    "altLabels": [
+      "CC chemokine ligand 13",
+      "CCL13 chemokine",
+      "MCP-4 chemokine",
+      "MCP4 chemokine",
+      "NCC-1 chemokine",
+      "SCYA13 chemokine",
+      "SCYL1 chemokine",
+      "chemokine (C-C motif) ligand 13",
+      "monocyte chemoattractant protein-4",
+      "monocyte chemotactic protein-4",
+      "new CC chemokine-1",
+      "small inducible cytokine A13"
+    ],
+    "displayName": "chemokine CCL13 (CC chemokine ligand 13, CCL13 chemokine, MCP-4 chemokine, MCP4 chemokine, NCC-1 chemokine, SCYA13 chemokine, SCYL1 chemokine, chemokine (C-C motif) ligand 13, monocyte chemoattractant protein-4, monocyte chemotactic protein-4, new CC chemokine-1, small inducible cytokine A13)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/236772",
+    "prefLabel": "chemokine CCL2",
+    "altLabels": [
+      "CC chemokine ligand 2",
+      "CCL2 chemokine",
+      "GDCF-2 chemokine",
+      "MCAF chemokine",
+      "MCP-1 chemokine",
+      "MCP1 chemokine",
+      "SCYA2 chemokine",
+      "chemokine (C-C motif) ligand 2",
+      "monocyte chemoattractant protein-1",
+      "monocyte chemotactic and activating factor",
+      "monocyte chemotactic protein-1",
+      "small inducible cytokine A2"
+    ],
+    "displayName": "chemokine CCL2 (CC chemokine ligand 2, CCL2 chemokine, GDCF-2 chemokine, MCAF chemokine, MCP-1 chemokine, MCP1 chemokine, SCYA2 chemokine, chemokine (C-C motif) ligand 2, monocyte chemoattractant protein-1, monocyte chemotactic and activating factor, monocyte chemotactic protein-1, small inducible cytokine A2)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/236773",
+    "prefLabel": "chemokine CCL7",
+    "altLabels": [
+      "CC chemokine ligand 7",
+      "CCL7 chemokine",
+      "MCAF-3 chemokine",
+      "MCP-3 chemokine",
+      "MCP3 chemokine",
+      "SCYA6 chemokine",
+      "SCYA7 chemokine",
+      "chemokine (C-C motif) ligand 7",
+      "monocyte chemoattractant protein-3",
+      "monocyte chemotactic activating factor 3",
+      "monocyte chemotactic protein-3",
+      "small inducible cytokine A7"
+    ],
+    "displayName": "chemokine CCL7 (CC chemokine ligand 7, CCL7 chemokine, MCAF-3 chemokine, MCP-3 chemokine, MCP3 chemokine, SCYA6 chemokine, SCYA7 chemokine, chemokine (C-C motif) ligand 7, monocyte chemoattractant protein-3, monocyte chemotactic activating factor 3, monocyte chemotactic protein-3, small inducible cytokine A7)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/236774",
+    "prefLabel": "chemokine CCL8",
+    "altLabels": [
+      "CC chemokine ligand 8",
+      "CCL8 chemokine",
+      "MCAF-2 chemokine",
+      "MCP-2 chemokine",
+      "MCP2 chemokine",
+      "SCYA10 chemokine",
+      "SCYA8 chemokine",
+      "chemokine (C-C motif) ligand 8",
+      "monocyte chemoattractant protein-2",
+      "monocyte chemotactic activating factor-2",
+      "monocyte chemotactic protein-2",
+      "small inducible cytokine A8"
+    ],
+    "displayName": "chemokine CCL8 (CC chemokine ligand 8, CCL8 chemokine, MCAF-2 chemokine, MCP-2 chemokine, MCP2 chemokine, SCYA10 chemokine, SCYA8 chemokine, chemokine (C-C motif) ligand 8, monocyte chemoattractant protein-2, monocyte chemotactic activating factor-2, monocyte chemotactic protein-2, small inducible cytokine A8)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/192151",
+    "prefLabel": "chitooligosaccharides",
+    "altLabels": [
+      "chito-oligosaccharides"
+    ],
+    "displayName": "chitooligosaccharides (chito-oligosaccharides)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.61,
+    "p_exclude": 0.39,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/25212",
+    "prefLabel": "chitosanase",
+    "altLabels": [
+      "EC 3.2.1.132"
+    ],
+    "displayName": "chitosanase (EC 3.2.1.132)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243533",
+    "prefLabel": "CXCR1 receptor",
+    "altLabels": [
+      "C-X-C chemokine receptor type 1",
+      "CC-CKR1 receptor",
+      "CD181 antigen",
+      "CDw128a antigen",
+      "CXC chemokine receptor 1",
+      "IL-8a receptor",
+      "MDNCF receptor",
+      "NAP-1 receptor",
+      "chemokine (C-X-C motif) receptor 1",
+      "chemokine (C-X-C) receptor 1",
+      "interleukin 8 receptor alpha",
+      "interleukin 8a receptor",
+      "interleukin-8a receptor"
+    ],
+    "displayName": "CXCR1 receptor (C-X-C chemokine receptor type 1, CC-CKR1 receptor, CD181 antigen, CDw128a antigen, CXC chemokine receptor 1, IL-8a receptor, MDNCF receptor, NAP-1 receptor, chemokine (C-X-C motif) receptor 1, chemokine (C-X-C) receptor 1, interleukin 8 receptor alpha, interleukin 8a receptor, interleukin-8a receptor)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243552",
+    "prefLabel": "CXCR2 receptor",
+    "altLabels": [
+      "C-X-C chemokine receptor type 2",
+      "CD182 antigen",
+      "CDw128b antigen",
+      "CXC chemokine receptor 2",
+      "chemokine (C-X-C motif) receptor 2",
+      "chemokine (C-X-C) receptor 2",
+      "interleukin-8 receptor b",
+      "interleukin-8 receptor beta",
+      "interleukin-8 receptor type b",
+      "interleukin-8b receptor"
+    ],
+    "displayName": "CXCR2 receptor (C-X-C chemokine receptor type 2, CD182 antigen, CDw128b antigen, CXC chemokine receptor 2, chemokine (C-X-C motif) receptor 2, chemokine (C-X-C) receptor 2, interleukin-8 receptor b, interleukin-8 receptor beta, interleukin-8 receptor type b, interleukin-8b receptor)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243568",
+    "prefLabel": "CXCR3 receptor",
+    "altLabels": [
+      "C-X-C chemokine receptor type 3",
+      "CD183 antigen",
+      "CKR-L2",
+      "CMKAR3",
+      "CXC chemokine receptor 3",
+      "CXCR3-A",
+      "CXCR3-B",
+      "GPR9 (G-protein coupled receptor 9)",
+      "I-TAC receptor",
+      "IP-10 receptor",
+      "MIG-R (Mig receptor)",
+      "chemokine (C-X-C motif) receptor 3",
+      "chemokine (C-X-C) receptor 3",
+      "interferon-inducible protein 10 receptor"
+    ],
+    "displayName": "CXCR3 receptor (C-X-C chemokine receptor type 3, CD183 antigen, CKR-L2, CMKAR3, CXC chemokine receptor 3, CXCR3-A, CXCR3-B, GPR9 (G-protein coupled receptor 9), I-TAC receptor, IP-10 receptor, MIG-R (Mig receptor), chemokine (C-X-C motif) receptor 3, chemokine (C-X-C) receptor 3, interferon-inducible protein 10 receptor)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243588",
+    "prefLabel": "CXCR4 receptor",
+    "altLabels": [
+      "C-X-C chemokine receptor type 4",
+      "CD184 antigen",
+      "CXC chemokine receptor 4",
+      "LAP-3 protein",
+      "LESTR (leukocyte-derived seven transmembrane domain receptor)",
+      "LESTR receptor",
+      "LPS-associated protein 3",
+      "PSSF receptor (pre-B cell growth-stimulating factor receptor)",
+      "SDF-1 (stromal cell-derived factor 1 receptor)",
+      "SDF-1 receptor",
+      "SDF1-PBSF receptor",
+      "chemokine (C-X-C motif) receptor 4",
+      "chemokine (C-X-C) receptor 4",
+      "fusin",
+      "lipopolysaccharide-associated protein 3",
+      "neuropeptide Y receptor Y3",
+      "seven-transmembrane-segment receptor, spleen"
+    ],
+    "displayName": "CXCR4 receptor (C-X-C chemokine receptor type 4, CD184 antigen, CXC chemokine receptor 4, LAP-3 protein, LESTR (leukocyte-derived seven transmembrane domain receptor), LESTR receptor, LPS-associated protein 3, PSSF receptor (pre-B cell growth-stimulating factor receptor), SDF-1 (stromal cell-derived factor 1 receptor), SDF-1 receptor, SDF1-PBSF receptor, chemokine (C-X-C motif) receptor 4, chemokine (C-X-C) receptor 4, fusin, lipopolysaccharide-associated protein 3, neuropeptide Y receptor Y3, seven-transmembrane-segment receptor, spleen)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243614",
+    "prefLabel": "CXCR5 receptor",
+    "altLabels": [
+      "BLR-1 receptor",
+      "Burkitt lymphoma receptor 1",
+      "C-X-C chemokine receptor type 5",
+      "CD185 antigen",
+      "CXC chemokine receptor 5",
+      "MDR15 receptor",
+      "chemokine (C-X-C motif) receptor 5",
+      "chemokine (C-X-C) receptor 5"
+    ],
+    "displayName": "CXCR5 receptor (BLR-1 receptor, Burkitt lymphoma receptor 1, C-X-C chemokine receptor type 5, CD185 antigen, CXC chemokine receptor 5, MDR15 receptor, chemokine (C-X-C motif) receptor 5, chemokine (C-X-C) receptor 5)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/243626",
+    "prefLabel": "CXCR6 receptor",
+    "altLabels": [
+      "C-X-C chemokine receptor type 6",
+      "CD186 antigen",
+      "CDw186 antigen",
+      "CXC chemokine receptor 6",
+      "G-Protein coupled receptor bonzo",
+      "G-protein coupled receptor STRL33",
+      "STRL33 receptor",
+      "bonzo receptor",
+      "chemokine (C-X-C motif) receptor 6",
+      "chemokine (C-X-C) receptor 6"
+    ],
+    "displayName": "CXCR6 receptor (C-X-C chemokine receptor type 6, CD186 antigen, CDw186 antigen, CXC chemokine receptor 6, G-Protein coupled receptor bonzo, G-protein coupled receptor STRL33, STRL33 receptor, bonzo receptor, chemokine (C-X-C motif) receptor 6, chemokine (C-X-C) receptor 6)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6218",
+    "prefLabel": "fucose",
+    "altLabels": [],
+    "displayName": "fucose",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3937",
+    "prefLabel": "growth factors",
+    "altLabels": [],
+    "displayName": "growth factors",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/517",
+    "prefLabel": "hormones",
+    "altLabels": [
+      "animal hormones"
+    ],
+    "displayName": "hormones (animal hormones)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/211272",
+    "prefLabel": "interleukin-1alpha",
+    "altLabels": [
+      "IL-1alpha",
+      "IL1alpha",
+      "hematopoietin-1"
+    ],
+    "displayName": "interleukin-1alpha (IL-1alpha, IL1alpha, hematopoietin-1)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/211278",
+    "prefLabel": "interleukin-1beta",
+    "altLabels": [
+      "IL-1beta",
+      "IL1beta",
+      "catabolin",
+      "interleukin 1beta"
+    ],
+    "displayName": "interleukin-1beta (IL-1beta, IL1beta, catabolin, interleukin 1beta)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/223480",
+    "prefLabel": "leptin receptors",
+    "altLabels": [
+      "leptin-binding proteins"
+    ],
+    "displayName": "leptin receptors (leptin-binding proteins)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/235919",
+    "prefLabel": "leptin replacement therapy",
+    "altLabels": [],
+    "displayName": "leptin replacement therapy",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/198777",
+    "prefLabel": "peptide mapping",
+    "altLabels": [
+      "peptide fingerprint",
+      "peptide fingerprinting",
+      "protein fingerprinting",
+      "protein footprinting"
+    ],
+    "displayName": "peptide mapping (peptide fingerprint, peptide fingerprinting, protein fingerprinting, protein footprinting)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/223485",
+    "prefLabel": "resistin receptors",
+    "altLabels": [],
+    "displayName": "resistin receptors",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/347",
+    "prefLabel": "respiratory tract diseases",
+    "altLabels": [
+      "lung diseases",
+      "pulmonary diseases",
+      "pulmonary disorders",
+      "respiratory diseases",
+      "respiratory disorders",
+      "respiratory system diseases",
+      "respiratory system disorders",
+      "respiratory tract disorders",
+      "respiratory tract infections"
+    ],
+    "displayName": "respiratory tract diseases (lung diseases, pulmonary diseases, pulmonary disorders, respiratory diseases, respiratory disorders, respiratory system diseases, respiratory system disorders, respiratory tract disorders, respiratory tract infections)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.24,
+    "p_exclude": 0.76,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45058",
+    "prefLabel": "stem cell factor",
+    "altLabels": [
+      "Kit ligand"
+    ],
+    "displayName": "stem cell factor (Kit ligand)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/65981",
+    "prefLabel": "thymosin",
+    "altLabels": [],
+    "displayName": "thymosin",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.63,
+    "p_exclude": 0.37,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/223582",
+    "prefLabel": "thymus hormone receptors",
+    "altLabels": [
+      "thymosin receptors"
+    ],
+    "displayName": "thymus hormone receptors (thymosin receptors)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 6,
+    "batch": 2,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q515636",
+  "seed_label": "FIFO",
+  "included_qids": [
+    "Q41401699",
+    "Q41408440",
+    "Q515636"
+  ],
+  "pruned_qids": [
+    "Q41408494",
+    "Q5319000",
+    "Q5532874"
+  ],
+  "visited_qids": [
+    "Q41401699",
+    "Q41408440",
+    "Q41408494",
+    "Q515636",
+    "Q5319000",
+    "Q5532874"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 1,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:16.077332+00:00",
+  "finished_at_utc": "2026-10-28T16:42:16.732433+00:00",
+  "wall_seconds": 0.6551040000049397,
+  "frontier_exhausted": true
+}

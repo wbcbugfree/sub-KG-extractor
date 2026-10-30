@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row892",
+    "legacy_row_id": "Q727490|Q1207505",
+    "seed_qid": "Q727490",
+    "seed_label": "scalability",
+    "qid": "Q1207505",
+    "label": "quality",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q727490",
+    "parent_label": "scalability",
+    "path": "scalability --instance of--> quality",
+    "uri": "http://www.wikidata.org/entity/Q1207505",
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

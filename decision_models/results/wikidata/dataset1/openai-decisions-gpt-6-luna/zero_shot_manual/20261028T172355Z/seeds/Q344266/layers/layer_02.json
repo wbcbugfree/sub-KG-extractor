@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row447",
+    "legacy_row_id": "Q344266|Q189224",
+    "seed_qid": "Q344266",
+    "seed_label": "Active Server Pages",
+    "qid": "Q189224",
+    "label": "pseudocode",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q9143",
+    "parent_label": "programming language",
+    "path": "Active Server Pages --instance of--> programming language --has subclass--> pseudocode",
+    "uri": "http://www.wikidata.org/entity/Q189224",
+    "classification": "INCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.8,
+    "p_exclude": 0.2,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

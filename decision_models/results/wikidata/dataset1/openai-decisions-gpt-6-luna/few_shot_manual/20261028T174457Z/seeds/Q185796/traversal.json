@@ -1,0 +1,42 @@
+{
+  "seed_qid": "Q185796",
+  "seed_label": "NTSC",
+  "included_qids": [
+    "Q1144899",
+    "Q185796",
+    "Q2043680",
+    "Q99602118"
+  ],
+  "pruned_qids": [
+    "Q2043676"
+  ],
+  "visited_qids": [
+    "Q1144899",
+    "Q185796",
+    "Q2043676",
+    "Q2043680",
+    "Q99602118"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:29.957985+00:00",
+  "finished_at_utc": "2026-10-28T17:45:31.145696+00:00",
+  "wall_seconds": 1.1876849999971455,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,1128 @@
+{
+  "false_positive": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/10340",
+      "label": "antigen presentation",
+      "p_include": 0.63
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/127",
+      "label": "senescence (aging)",
+      "p_include": 0.88
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/129",
+      "label": "viability",
+      "p_include": 0.56
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/132647",
+      "label": "somatic mutation",
+      "p_include": 0.82
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/13531",
+      "label": "astrocytes",
+      "p_include": 0.97
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/13533",
+      "label": "neuroglia",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/14268",
+      "label": "axons",
+      "p_include": 0.94
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/14270",
+      "label": "neurites",
+      "p_include": 0.83
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/143",
+      "label": "osmotolerance",
+      "p_include": 0.89
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/148685",
+      "label": "symplast",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17929",
+      "label": "blastocyst",
+      "p_include": 0.69
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17930",
+      "label": "blastoderm",
+      "p_include": 0.56
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17931",
+      "label": "trophoblast",
+      "p_include": 0.73
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18144",
+      "label": "platelet activation",
+      "p_include": 0.83
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18145",
+      "label": "platelet aggregation",
+      "p_include": 0.82
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18501",
+      "label": "bone resorption",
+      "p_include": 0.57
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/194621",
+      "label": "apoplast",
+      "p_include": 0.82
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/199243",
+      "label": "neurogenesis",
+      "p_include": 0.92
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/200593",
+      "label": "exoerythrocytic stage",
+      "p_include": 0.6
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/200598",
+      "label": "erythrocytic stage",
+      "p_include": 0.51
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/214454",
+      "label": "axonal transport",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/225409",
+      "label": "RNA transport",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23378",
+      "label": "protoplast fusion",
+      "p_include": 0.89
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23448",
+      "label": "lymphocyte proliferation",
+      "p_include": 0.88
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/246161",
+      "label": "neuroplasticity",
+      "p_include": 0.91
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/246202",
+      "label": "synaptogenesis",
+      "p_include": 0.81
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/26361",
+      "label": "hematopoiesis",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/266214",
+      "label": "artificial cells",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28123",
+      "label": "symbiosis",
+      "p_include": 0.64
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/298738",
+      "label": "kleptoplasty",
+      "p_include": 0.76
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/3137",
+      "label": "acrosome reaction",
+      "p_include": 0.97
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31449",
+      "label": "neurons",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/314552",
+      "label": "plant nutrient resorption",
+      "p_include": 0.56
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31489",
+      "label": "cytoplasmic streaming",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/316508",
+      "label": "bioadhesion",
+      "p_include": 0.68
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/316514",
+      "label": "mucoadhesion",
+      "p_include": 0.81
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/32272",
+      "label": "dendrites",
+      "p_include": 0.59
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/32916",
+      "label": "trophozoites",
+      "p_include": 0.54
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/334176",
+      "label": "pollen viability",
+      "p_include": 0.76
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/338845",
+      "label": "microbial adhesion",
+      "p_include": 0.9
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/38116",
+      "label": "erythropoiesis",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/3909",
+      "label": "action potentials",
+      "p_include": 0.81
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/3910",
+      "label": "membrane potential",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/3931",
+      "label": "active transport",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/3934",
+      "label": "physiological transport",
+      "p_include": 0.84
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41785",
+      "label": "spindle pole body",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/4199",
+      "label": "adhesion",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/42262",
+      "label": "megasporogenesis",
+      "p_include": 0.75
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/42263",
+      "label": "microsporogenesis",
+      "p_include": 0.88
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/42264",
+      "label": "spermatogenesis",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/42572",
+      "label": "nucleocytoplasmic interaction",
+      "p_include": 0.97
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/42649",
+      "label": "germplasm",
+      "p_include": 0.68
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45755",
+      "label": "physiological regulation",
+      "p_include": 0.53
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/46559",
+      "label": "water uptake",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/46969",
+      "label": "macrophage activation",
+      "p_include": 0.76
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47539",
+      "label": "interneurons",
+      "p_include": 0.57
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47552",
+      "label": "nutrient uptake",
+      "p_include": 0.86
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47612",
+      "label": "ion transport",
+      "p_include": 0.55
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/50499",
+      "label": "locomotion",
+      "p_include": 0.82
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/51883",
+      "label": "myelin sheath",
+      "p_include": 0.89
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/52082",
+      "label": "permeability",
+      "p_include": 0.74
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/52083",
+      "label": "osmosis",
+      "p_include": 0.77
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/54148",
+      "label": "myelination",
+      "p_include": 0.68
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/54717",
+      "label": "synaptic transmission",
+      "p_include": 0.55
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/55447",
+      "label": "nutrient transport",
+      "p_include": 0.81
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/55450",
+      "label": "uptake mechanisms",
+      "p_include": 0.78
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/56341",
+      "label": "osmoregulation",
+      "p_include": 0.86
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/58086",
+      "label": "protein transport",
+      "p_include": 0.64
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/63753",
+      "label": "spermiogenesis",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/69417",
+      "label": "nutrient resorption (physiology)",
+      "p_include": 0.63
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/748",
+      "label": "granuloma",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/761",
+      "label": "necrosis",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/86909",
+      "label": "neurilemma",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/87320",
+      "label": "nucleocytoplasmic transport",
+      "p_include": 0.93
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/87584",
+      "label": "oligodendroglia",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9460",
+      "label": "sperm capacitation",
+      "p_include": 0.88
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9479",
+      "label": "oogenesis",
+      "p_include": 0.83
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9482",
+      "label": "ovulation",
+      "p_include": 0.76
+    }
+  ],
+  "false_negative_explicit_exclude": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/16036",
+      "label": "granulocytes",
+      "p_include": 0.11
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/16111",
+      "label": "brush border membrane vesicles",
+      "p_include": 0.16
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18341",
+      "label": "extracellular fluids",
+      "p_include": 0.42
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/200160",
+      "label": "myofibrillar proteins",
+      "p_include": 0.07
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/219296",
+      "label": "chloroplast membranes",
+      "p_include": 0.36
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23202",
+      "label": "cytotoxic T-lymphocytes",
+      "p_include": 0.48
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23371",
+      "label": "signal transduction",
+      "p_include": 0.04
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23391",
+      "label": "meiotic drive",
+      "p_include": 0.31
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23400",
+      "label": "cell free system",
+      "p_include": 0.04
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23432",
+      "label": "cyanide-resistant respiration",
+      "p_include": 0.11
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23433",
+      "label": "cyanide-sensitive respiration",
+      "p_include": 0.11
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23434",
+      "label": "photorespiration",
+      "p_include": 0.19
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23495",
+      "label": "cellulosome",
+      "p_include": 0.09
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/246154",
+      "label": "viral inclusion bodies",
+      "p_include": 0.47
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/261288",
+      "label": "autocrine signaling",
+      "p_include": 0.36
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/261291",
+      "label": "paracrine signaling",
+      "p_include": 0.45
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/262472",
+      "label": "DNA packaging",
+      "p_include": 0.42
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/264024",
+      "label": "RNA packaging",
+      "p_include": 0.35
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/276",
+      "label": "chromosomes",
+      "p_include": 0.4
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/296072",
+      "label": "apoplastic fluids",
+      "p_include": 0.4
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/298985",
+      "label": "endoplasmic reticulum stress",
+      "p_include": 0.35
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/323012",
+      "label": "spermatozeugmata",
+      "p_include": 0.48
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/334600",
+      "label": "pollen walls",
+      "p_include": 0.2
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35937",
+      "label": "egg membranes",
+      "p_include": 0.36
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35938",
+      "label": "egg quality",
+      "p_include": 0.33
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35939",
+      "label": "egg shell",
+      "p_include": 0.17
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35940",
+      "label": "egg yolk",
+      "p_include": 0.43
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/50441",
+      "label": "microsomes",
+      "p_include": 0.34
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/65104",
+      "label": "synaptosomes",
+      "p_include": 0.43
+    }
+  ],
+  "false_negative_unreached": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/105274",
+      "label": "egg shell membranes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/12859",
+      "label": "ascospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/14038",
+      "label": "autopolyploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/14046",
+      "label": "autosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/145231",
+      "label": "dihaploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/146655",
+      "label": "exine",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15075",
+      "label": "bacterial artificial chromosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15199",
+      "label": "bacterial spores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/16011",
+      "label": "basidiospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/16035",
+      "label": "basophils",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/196708",
+      "label": "blastospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/197574",
+      "label": "ploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/209752",
+      "label": "urediniospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/209975",
+      "label": "pycniospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/219898",
+      "label": "calcium signaling",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/226161",
+      "label": "zygospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23419",
+      "label": "chromatin",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23731",
+      "label": "crossover interference",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23732",
+      "label": "chromocenters",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23733",
+      "label": "kinetochores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/243987",
+      "label": "Robertsonian translocation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/246188",
+      "label": "mechanotransduction",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24805",
+      "label": "crossing over",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24981",
+      "label": "chimerism",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25275",
+      "label": "chlamydospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25760",
+      "label": "heterochromatin",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25761",
+      "label": "nucleosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25762",
+      "label": "sex chromatin",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25833",
+      "label": "chromosome aberrations",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25834",
+      "label": "chromosome addition",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25835",
+      "label": "chromosome breakage",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25836",
+      "label": "chromosome elimination",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25837",
+      "label": "chromosome inversions",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25838",
+      "label": "chromosome substitution",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25839",
+      "label": "chromosome translocation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25841",
+      "label": "cytogenetic analysis",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25846",
+      "label": "paracentric inversion",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25847",
+      "label": "pericentric inversion",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25865",
+      "label": "chromosome morphology",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25866",
+      "label": "chromosome number",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25873",
+      "label": "reciprocal translocation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25874",
+      "label": "chromosome transmission",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25875",
+      "label": "metacentric chromosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25876",
+      "label": "polytene chromosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25877",
+      "label": "sex chromosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25878",
+      "label": "submetacentric chromosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25879",
+      "label": "telocentric chromosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25880",
+      "label": "yeast artificial chromosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/277",
+      "label": "centromeres",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/278",
+      "label": "chiasmata",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/279",
+      "label": "chromatids",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/279339",
+      "label": "pentaploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/279357",
+      "label": "allotetraploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/280",
+      "label": "loci",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/281",
+      "label": "nucleolus organizer region",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/281186",
+      "label": "B chromosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/282",
+      "label": "telomeres",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/284412",
+      "label": "monoploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/291508",
+      "label": "target of rapamycin signaling pathways",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/295797",
+      "label": "autotetraploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/302173",
+      "label": "egg shell defects",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/3078",
+      "label": "acrocentric chromosomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31438",
+      "label": "karyotyping",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31439",
+      "label": "diploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31440",
+      "label": "haploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31441",
+      "label": "heterokaryon",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31442",
+      "label": "homokaryon",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31443",
+      "label": "mixoploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/314589",
+      "label": "amphidiploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/322710",
+      "label": "chromosome duplication",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/329239",
+      "label": "carpospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/329999",
+      "label": "ethylene signaling pathway",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/332889",
+      "label": "chromosomal instability",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/332894",
+      "label": "chromosome fragility",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/334282",
+      "label": "pollen tectum",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/334283",
+      "label": "nexine",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/334289",
+      "label": "sexine",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/334348",
+      "label": "pollenkitt",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/334489",
+      "label": "viscin threads",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/334604",
+      "label": "intine",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/334605",
+      "label": "fern spores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35956",
+      "label": "vitelline membrane",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35963",
+      "label": "egg shell quality",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35964",
+      "label": "egg weight",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35973",
+      "label": "egg shell thickness",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35981",
+      "label": "egg yolk color",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/37039",
+      "label": "endopolyploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/37080",
+      "label": "endospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/37512",
+      "label": "eosinophils",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41808",
+      "label": "oospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41809",
+      "label": "teliospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/43663",
+      "label": "heterophils",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/4444",
+      "label": "aeciospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/4445",
+      "label": "fungal spores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45483",
+      "label": "hexaploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/50439",
+      "label": "liver microsomes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/51929",
+      "label": "segregation distortion",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/55620",
+      "label": "octaploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/57963",
+      "label": "phototransduction",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/59168",
+      "label": "tetraploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/59169",
+      "label": "triploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/62732",
+      "label": "second messengers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/62962",
+      "label": "W chromosome",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/62963",
+      "label": "X chromosome",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/62964",
+      "label": "Y chromosome",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/62965",
+      "label": "Z chromosome",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/63966",
+      "label": "zoospores",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/6713",
+      "label": "allopolyploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/6717",
+      "label": "polyploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8505",
+      "label": "conidia",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8824",
+      "label": "aneuploidy",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8826",
+      "label": "disomics",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8827",
+      "label": "monosomics",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8828",
+      "label": "nullisomics",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8829",
+      "label": "tetrasomics",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8830",
+      "label": "trisomics",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9954",
+      "label": "doubled haploids",
+      "p_include": null
+    }
+  ]
+}

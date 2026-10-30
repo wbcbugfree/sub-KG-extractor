@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q18979",
+  "seed_label": "Kanban",
+  "included_qids": [
+    "Q18979"
+  ],
+  "pruned_qids": [
+    "Q151885"
+  ],
+  "visited_qids": [
+    "Q151885",
+    "Q18979"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:47.330561+00:00",
+  "finished_at_utc": "2026-10-28T17:43:47.645133+00:00",
+  "wall_seconds": 0.3145698000007542,
+  "frontier_exhausted": true
+}

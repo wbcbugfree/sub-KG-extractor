@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row419",
+    "legacy_row_id": "Q262234|Q73357989",
+    "seed_qid": "Q262234",
+    "seed_label": "Lenbachhaus",
+    "qid": "Q73357989",
+    "label": "Survey of GLAM open access policy and practice",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 0,
+    "reaching_property": "P1343",
+    "reaching_property_label": "described by source",
+    "parent_qid": "Q262234",
+    "parent_label": "Lenbachhaus",
+    "path": "Lenbachhaus --described by source--> Survey of GLAM open access policy and practice",
+    "uri": "http://www.wikidata.org/entity/Q73357989",
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

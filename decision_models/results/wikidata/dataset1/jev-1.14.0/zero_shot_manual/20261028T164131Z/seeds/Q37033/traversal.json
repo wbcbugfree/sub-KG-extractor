@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q37033",
+  "seed_label": "World Wide Web Consortium",
+  "included_qids": [
+    "Q1328899",
+    "Q37033",
+    "Q48204"
+  ],
+  "pruned_qids": [
+    "Q10682318",
+    "Q294801",
+    "Q659206",
+    "Q7835148",
+    "Q7974565"
+  ],
+  "visited_qids": [
+    "Q10682318",
+    "Q1328899",
+    "Q294801",
+    "Q37033",
+    "Q48204",
+    "Q659206",
+    "Q7835148",
+    "Q7974565"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 0,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:08.894364+00:00",
+  "finished_at_utc": "2026-10-28T16:42:09.565582+00:00",
+  "wall_seconds": 0.6712180000031367,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,19 @@
+{
+  "live_bfs_wall_seconds": 3.452860299992608,
+  "successful_requests": 28,
+  "request_attempts": 28,
+  "retries": 0,
+  "summed_attempt_latency_seconds": 10.78096129995538,
+  "median_success_latency_seconds": 0.3881529999925988,
+  "usage_complete_for_successes": true,
+  "input_tokens": 528942,
+  "output_tokens": 19409,
+  "input_usd_per_million": 0.042,
+  "output_usd_per_million": 0,
+  "estimated_success_cost_usd": 0.022215564000000004,
+  "cost_basis": "TypeSafe public model price accessed 2026-10-27; estimate, not an invoice. Failed attempts may have unknown usage.",
+  "price_source": "https://docs.typesafe.ai/models",
+  "response_models": [
+    "jev-1.14.0"
+  ]
+}

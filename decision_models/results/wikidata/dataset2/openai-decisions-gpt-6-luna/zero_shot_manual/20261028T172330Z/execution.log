@@ -1,0 +1,507 @@
+{
+  "scored_rows": 935,
+  "aligned_rows": 868,
+  "seeds": 104,
+  "traversal_decision_rows": 956,
+  "skipped_rows_absent_from_local_graph": 26,
+  "held_out_example_rows": 18,
+  "examples_in_prompt": false,
+  "prompt_examples_count": 0,
+  "evaluation_source": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/rows.csv",
+  "jev_run": "decision_models/results/wikidata/dataset2/jev-1.14.0/zero_shot_manual/20261028T163014Z"
+}
+Running 104 BFS seeds with 5 parallel seed workers ...
+Decisions layer 1: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 1/104
+Decisions layer 1: 5 candidates in 1 live requestsCompleted BFS seed 2/104
+
+Decisions layer 2: 22 candidates in 2 live requests
+Decisions layer 2: 13 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 3/104
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 4/104
+Decisions layer 1: 7 candidates in 1 live requestsCompleted BFS seed 5/104
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 6/104
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 7/104
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 8/104
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 9/104
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 10/104
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 7 candidates in 1 live requests
+Completed BFS seed 11/104
+Decisions layer 1: 10 candidates in 1 live requests
+Completed BFS seed 12/104
+Decisions layer 1: 7 candidates in 1 live requestsCompleted BFS seed 13/104
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 14/104
+Decisions layer 1: 7 candidates in 1 live requests
+Completed BFS seed 15/104
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 16/104
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 17/104
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 18/104
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 19/104
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 20/104
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 5 candidates in 1 live requests
+Completed BFS seed 21/104
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 22/104
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 23/104
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 24/104
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 25/104
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 26/104
+
+Decisions layer 2: 24 candidates in 2 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 27/104
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 28/104
+
+Decisions layer 2: 4 candidates in 1 live requestsDecisions layer 2: 1 candidates in 1 live requests
+
+Decisions layer 1: 5 candidates in 1 live requestsCompleted BFS seed 29/104
+
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 30/104
+
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 31/104
+
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 32/104
+
+Decisions layer 1: 9 candidates in 1 live requestsCompleted BFS seed 33/104
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 8 candidates in 1 live requestsCompleted BFS seed 34/104
+
+Decisions layer 2: 35 candidates in 2 live requests
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 35/104
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 7 candidates in 1 live requests
+Completed BFS seed 36/104
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 37/104
+
+Decisions layer 1: 5 candidates in 1 live requestsCompleted BFS seed 38/104
+
+Decisions layer 1: 5 candidates in 1 live requestsCompleted BFS seed 39/104
+
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 40/104
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 10 candidates in 1 live requestsCompleted BFS seed 41/104
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 42/104
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 43/104
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 44/104
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 45/104
+
+Decisions layer 1: 8 candidates in 1 live requestsCompleted BFS seed 46/104
+
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 47/104
+
+Decisions layer 2: 28 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 48/104
+
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 49/104
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 50/104
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 51/104
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 52/104
+
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 3: 3 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 53/104
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 54/104
+
+Decisions layer 1: 6 candidates in 1 live requestsCompleted BFS seed 55/104
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 56/104
+Decisions layer 1: 8 candidates in 1 live requests
+Completed BFS seed 57/104
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 58/104
+
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 59/104
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 60/104
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 61/104
+Decisions layer 1: 6 candidates in 1 live requests
+Completed BFS seed 62/104
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 63/104
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 64/104
+
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 65/104
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 5 candidates in 1 live requestsCompleted BFS seed 66/104
+
+Decisions layer 1: 5 candidates in 1 live requests
+Completed BFS seed 67/104
+Decisions layer 1: 9 candidates in 1 live requests
+Completed BFS seed 68/104
+Decisions layer 2: 109 candidates in 6 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 69/104
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 70/104
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 71/104
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 72/104
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 73/104
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 74/104
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 75/104
+
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 76/104
+
+Decisions layer 1: 5 candidates in 1 live requestsCompleted BFS seed 77/104
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 78/104
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 79/104
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 80/104
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 81/104
+
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 82/104
+Decisions layer 1: 11 candidates in 1 live requestsCompleted BFS seed 83/104
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 84/104
+
+Decisions layer 1: 9 candidates in 1 live requestsCompleted BFS seed 85/104
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 86/104
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 87/104
+
+Decisions layer 1: 8 candidates in 1 live requestsCompleted BFS seed 88/104
+
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 89/104
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 90/104
+
+Decisions layer 1: 6 candidates in 1 live requests
+Completed BFS seed 91/104
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 92/104
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 93/104
+
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 94/104
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 95/104
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 96/104
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 97/104
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 98/104
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 99/104
+
+Decisions layer 2: 2 candidates in 1 live requests
+Completed BFS seed 100/104
+Decisions layer 2: 2 candidates in 1 live requests
+Completed BFS seed 101/104
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Completed BFS seed 102/104
+Completed BFS seed 103/104
+Completed BFS seed 104/104
+{
+  "output_dir": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\results\\wikidata\\dataset2\\openai-decisions-gpt-6-luna\\zero_shot_manual\\20261028T172330Z",
+  "metrics": {
+    "full_common": {
+      "pooled": {
+        "total": 935,
+        "unmatched": 0,
+        "tp": 514,
+        "fp": 49,
+        "fn": 65,
+        "tn": 307,
+        "precision": 0.9129662522202486,
+        "recall": 0.8877374784110535,
+        "f1": 0.9001751313485113,
+        "accuracy": 0.8780748663101604
+      },
+      "fold_coverage": null,
+      "folds": null,
+      "weighted_fold": null
+    },
+    "aligned": {
+      "pooled": {
+        "total": 868,
+        "unmatched": 0,
+        "tp": 511,
+        "fp": 47,
+        "fn": 63,
+        "tn": 247,
+        "precision": 0.9157706093189965,
+        "recall": 0.8902439024390244,
+        "f1": 0.902826855123675,
+        "accuracy": 0.8732718894009217
+      },
+      "fold_coverage": {
+        "expected": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "present": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "missing": [],
+        "complete": true
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "rows": 160,
+          "scored_rows": 160,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 160,
+            "unmatched": 0,
+            "tp": 120,
+            "fp": 4,
+            "fn": 21,
+            "tn": 15,
+            "precision": 0.967741935483871,
+            "recall": 0.851063829787234,
+            "f1": 0.9056603773584906,
+            "accuracy": 0.84375
+          }
+        },
+        {
+          "fold": 1,
+          "rows": 114,
+          "scored_rows": 114,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 114,
+            "unmatched": 0,
+            "tp": 74,
+            "fp": 3,
+            "fn": 8,
+            "tn": 29,
+            "precision": 0.961038961038961,
+            "recall": 0.9024390243902439,
+            "f1": 0.9308176100628931,
+            "accuracy": 0.9035087719298246
+          }
+        },
+        {
+          "fold": 2,
+          "rows": 265,
+          "scored_rows": 265,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 265,
+            "unmatched": 0,
+            "tp": 109,
+            "fp": 17,
+            "fn": 13,
+            "tn": 126,
+            "precision": 0.8650793650793651,
+            "recall": 0.8934426229508197,
+            "f1": 0.8790322580645162,
+            "accuracy": 0.8867924528301887
+          }
+        },
+        {
+          "fold": 3,
+          "rows": 135,
+          "scored_rows": 135,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 135,
+            "unmatched": 0,
+            "tp": 96,
+            "fp": 9,
+            "fn": 13,
+            "tn": 17,
+            "precision": 0.9142857142857143,
+            "recall": 0.8807339449541285,
+            "f1": 0.8971962616822431,
+            "accuracy": 0.837037037037037
+          }
+        },
+        {
+          "fold": 4,
+          "rows": 194,
+          "scored_rows": 194,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 194,
+            "unmatched": 0,
+            "tp": 112,
+            "fp": 14,
+            "fn": 8,
+            "tn": 60,
+            "precision": 0.8888888888888888,
+            "recall": 0.9333333333333333,
+            "f1": 0.9105691056910569,
+            "accuracy": 0.8865979381443299
+          }
+        }
+      ],
+      "weighted_fold": {
+        "weighting": "scored_decision_rows",
+        "fold_count": 5,
+        "total_weight": 868,
+        "precision": 0.9095808742568071,
+        "std_precision": 0.04092747947338301,
+        "recall": 0.8937515044514821,
+        "std_recall": 0.02687674118694675,
+        "f1": 0.9006155738972269,
+        "std_f1": 0.017049148324403483,
+        "accuracy": 0.8732718894009217,
+        "std_accuracy": 0.024092235970859008
+      }
+    },
+    "visited_scored_probability_metrics": {
+      "rows": 915,
+      "excluded_unvisited_rows": 20,
+      "brier_score": 0.0830783606557377,
+      "log_loss": 0.26629756614120514
+    }
+  },
+  "usage": {
+    "input_tokens": 907739,
+    "output_tokens": 0,
+    "total_tokens": 907739,
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "uncached_input_tokens": 907739,
+    "estimated_cost_usd": 0.0907739,
+    "live_bfs_wall_seconds": 15.522968899997068,
+    "logical_requests": 188,
+    "request_attempts": 188,
+    "requests_with_refusal_overrides": 0,
+    "refusal_override_decisions": 0,
+    "provider_refusal_answers": 0,
+    "successful_requests": 188,
+    "retries": 0,
+    "failed_attempts": 0,
+    "attempts_without_usage": 0,
+    "attempts_without_cost": 0,
+    "summed_attempt_latency_seconds": 73.44928790000267,
+    "median_success_latency_seconds": 0.34514594999927795,
+    "p95_success_latency_seconds": 0.6240542000014102,
+    "max_success_latency_seconds": 1.5240133999905083,
+    "response_models": [
+      "gpt-6-luna"
+    ],
+    "price_checked_on": "2026-10-28",
+    "price_sources": [
+      "https://developers.openai.com/api/docs/guides/decisions",
+      "https://developers.openai.com/api/docs/pricing"
+    ],
+    "rates_usd_per_million": {
+      "uncached_input": 0.1,
+      "cached_input": 0.01,
+      "cache_write_30m": 0.125,
+      "output": 0.0
+    },
+    "cost_note": "Estimate for global endpoint, short context, default 30m cache TTL; unknown usage is not zero. Output is free. Cache reads/writes are subsets of input tokens.",
+    "candidate_decisions": 933,
+    "scored_decisions": 915,
+    "scored_not_visited": 20,
+    "seed_count": 104,
+    "total_run_wall_seconds": 21.46341020001273,
+    "preparation_wall_seconds": 0.17629110001144,
+    "postprocessing_wall_seconds": 5.764150200004224
+  }
+}

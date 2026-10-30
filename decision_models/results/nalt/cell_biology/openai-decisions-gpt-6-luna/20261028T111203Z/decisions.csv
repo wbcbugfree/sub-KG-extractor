@@ -1,0 +1,749 @@
+uri,prefLabel,altLabels,classification,p_include,p_exclude,selected_probability,provider_confidence,decision_source,iteration,batch,candidate_number,response_model,in_hierarchy_gold,scored,relations
+https://lod.nal.usda.gov/nalt/2895,cells,,INCLUDE,,,,,seed,0,,,,True,True,
+https://lod.nal.usda.gov/nalt/2893,acinar cells,acinous cells,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,1,1,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/4218,adipocytes,fat cells; lipocytes,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,1,1,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6264,aleurone cells,,INCLUDE,0.51,0.49,0.51,0.02,openai_decisions,1,1,3,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10342,antigen-presenting cells,antigen presenting cells,INCLUDE,0.79,0.21,0.79,0.58,openai_decisions,1,1,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/266214,artificial cells,synthetic cells,INCLUDE,0.86,0.14,0.86,0.72,openai_decisions,1,1,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15235,bacteriocytes,mycetocytes,INCLUDE,0.9,0.1,0.9,0.8,openai_decisions,1,1,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18061,blood cells,,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,1,1,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20383,bundle sheath cells,,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,1,1,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23441,cell transplantation,,INCLUDE,0.5,0.5,0.5,0.0,openai_decisions,1,1,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/206983,cell viability,cell survival; cellular viability,INCLUDE,0.82,0.18,0.82,0.64,openai_decisions,1,1,10,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/226485,cellular microenvironment,cell microenvironment,INCLUDE,0.74,0.26,0.74,0.48,openai_decisions,1,1,11,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/22715,chondrocytes,cartilage cells,INCLUDE,0.98,0.02,0.98,0.96,openai_decisions,1,1,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23458,chromaffin cells,,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,1,1,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/191628,chromatophores,,INCLUDE,0.76,0.24,0.76,0.52,openai_decisions,1,1,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/322529,coelomocytes,,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,1,1,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23380,cultured cells,,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,1,1,16,gpt-6-luna,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23459,endothelial cells,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,1,1,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23460,epithelial cells,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,1,1,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23461,eukaryotic cells,eucaryotes; eucaryotic cells; eukaryotes,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,1,1,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23462,fibroblasts,dermal fibroblasts; fibroblast cells,INCLUDE,0.98,0.02,0.98,0.96,openai_decisions,1,1,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23463,germ cells,gametes; germ line; germline; reproductive cells; sex cells; sexual cells,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,1,2,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23464,giant cells,polykaryocytes; syncytia; syncytium,INCLUDE,0.83,0.17,0.83,0.66,openai_decisions,1,2,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23465,gonadotropic cells,,INCLUDE,0.65,0.35,0.65,0.3,openai_decisions,1,2,3,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23466,granulosa cells,,INCLUDE,0.96,0.04,0.96,0.92,openai_decisions,1,2,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23467,guard cells,,INCLUDE,0.78,0.22,0.78,0.56,openai_decisions,1,2,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23468,hemocytes,haemocytes,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,1,2,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6863,islets of Langerhans,alpha cells (pancreatic); beta cells (pancreatic); delta cells (pancreatic); islet cells; pancreas islets; pancreatic B cells; pancreatic D cells; pancreatic alpha cells; pancreatic beta cells; pancreatic delta cells; pancreatic islets; pancreatic polypeptide cells,INCLUDE,0.86,0.14,0.86,0.72,openai_decisions,1,2,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23472,Leydig cells,testicular interstitial cells,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,1,2,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23473,luteal cells,,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,1,2,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23474,mast cells,,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,1,2,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23476,myocytes,muscle cells,INCLUDE,0.93,0.07,0.93,0.86,openai_decisions,1,2,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/246543,neoplasm cells,cancer cells; circulating cancer cells; circulating neoplastic cells; circulating tumor cells; circulating tumour cells; neoplasma cells; neoplastic cells; tumor cells; tumour cells,INCLUDE,0.81,0.19,0.81,0.62,openai_decisions,1,2,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23477,neurosecretory cells,,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,1,2,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/300304,nurse cells,nursing cells,INCLUDE,0.83,0.17,0.83,0.66,openai_decisions,1,2,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23478,osteoblasts,osteoblastic cells,INCLUDE,0.88,0.12,0.88,0.76,openai_decisions,1,2,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18534,osteoclasts,,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,1,2,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23479,phagocytes,phagocytic cells,INCLUDE,0.93,0.07,0.93,0.86,openai_decisions,1,2,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/328577,plant root cells,root cells,INCLUDE,0.75,0.25,0.75,0.5,openai_decisions,1,2,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15097,prokaryotic cells,procaryotes; procaryotic cells; prokaryotes,INCLUDE,0.69,0.31,0.69,0.38,openai_decisions,1,2,19,gpt-6-luna,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/14271,Schwann cells,,INCLUDE,0.96,0.04,0.96,0.92,openai_decisions,1,2,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23481,Sertoli cells,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,1,3,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23482,somatic cells,,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,1,3,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23483,splenocytes,spleen cells,INCLUDE,0.96,0.04,0.96,0.92,openai_decisions,1,3,3,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15200,spores,,EXCLUDE,0.38,0.62,0.62,0.24,openai_decisions,1,3,4,gpt-6-luna,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/149090,stromal cells,,INCLUDE,0.98,0.02,0.98,0.96,openai_decisions,1,3,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/323988,tenocytes,,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,1,3,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23486,teratocytes,,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,1,3,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23487,thecal cells,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,1,3,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23488,vegetative cells,,INCLUDE,0.71,0.29,0.71,0.42,openai_decisions,1,3,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/70809,adipogenesis,adipogenic differentiation,INCLUDE,0.57,0.43,0.57,0.14,openai_decisions,2,1,1,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/132364,adipokines,adipocytokines; adipokine,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,2,1,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/132363,adiponectin,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,2,1,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/196331,adipophilin,perilipin 2,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,2,1,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4220,adipose tissue,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,2,1,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6265,aleurone layer,,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,2,1,6,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/29278,animal ovaries,mammalian ovary,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,2,1,7,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10340,antigen presentation,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,2,1,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11242,apoptosis,type 1 programmed cell death,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,2,1,9,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/12600,artificial membranes,biomimetic membranes; synthetic membranes,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,2,1,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/14268,axons,,INCLUDE,0.64,0.36,0.64,0.28,openai_decisions,2,1,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/2350,bacteria,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,2,1,12,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/218603,bacteriome,mycetome,EXCLUDE,0.46,0.54,0.54,0.08,openai_decisions,2,1,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/316457,beta-3 adrenergic receptors,,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,2,1,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18059,blood,,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,2,1,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18073,blood cell counts,blood cell number; blood picture,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,2,1,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18080,blood platelets,thrombocytes,EXCLUDE,0.38,0.62,0.62,0.24,openai_decisions,2,1,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18501,bone resorption,osteoclastic bone loss; osteolysis,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,2,1,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/297926,brown adipocytes,brown fat cells,INCLUDE,0.93,0.07,0.93,0.86,openai_decisions,2,1,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/243947,California mastitis test,California milk test,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,2,1,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/210293,cardiomyocytes,cardiac muscle cells; cardiac myocytes,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,2,2,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/22713,cartilage,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,2,2,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/235861,cathelicidins,cathelicidin peptides,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,2,2,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/293046,CD146 antigen,gicerin; melanoma cell adhesion molecule,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,2,2,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23373,cell culture,cell cultures; cell culturing,EXCLUDE,0.38,0.62,0.62,0.24,openai_decisions,2,2,5,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/11245,cell death,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,2,2,6,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/206573,cell engineering,,INCLUDE,0.57,0.43,0.57,0.14,openai_decisions,2,2,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23379,cell lines,,INCLUDE,0.87,0.13,0.87,0.74,openai_decisions,2,2,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23356,cell physiology,,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,2,2,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/25479,chloroplasts,,EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,2,2,10,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/25729,chromaffin granules,,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,2,2,11,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/4227,connective tissues,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,2,2,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/29277,corpus luteum,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,2,2,13,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/72,Cyanobacteria,Cyanochloronta; Cyanophyta; blue green algae; blue green bacteria; blue-green algae; blue-green bacteria,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,2,2,14,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/10347,dendritic cells,,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,2,2,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/190839,desmin,skeletin,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,2,2,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4249,drug delivery systems,drug delivery applications; drug delivery methods,EXCLUDE,0.21,0.79,0.79,0.58,openai_decisions,2,2,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4351,endocrine glands,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,2,2,18,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/68181,endothelins,endothelin-1; endothelin-2; endothelin-3,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,2,2,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/22425,endothelium,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,2,2,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37326,enterocytes,,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,2,3,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37574,epidermis (plant),plant epidermis,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,2,3,2,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/293063,epithelial cell adhesion molecule,CD326 antigen; CD326 protein,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,2,3,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9530,epithelium,,EXCLUDE,0.45,0.55,0.55,0.1,openai_decisions,2,3,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18081,erythrocytes,RBCs (red blood cells); red blood cells; red blood corpuscles,INCLUDE,0.89,0.11,0.89,0.78,openai_decisions,2,3,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/295790,fluorescein diacetate,diacetylfluorescein,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,2,3,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/32889,gametocytes,gamonts,INCLUDE,0.56,0.44,0.56,0.12,openai_decisions,2,3,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42261,gametogenesis,gamete production; pollen grain development,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,2,3,8,gpt-6-luna,False,False,skos:related
+https://lod.nal.usda.gov/nalt/42649,germplasm,germ plasm,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,2,3,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/202659,goblet cells,,INCLUDE,0.96,0.04,0.96,0.92,openai_decisions,2,3,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/748,granuloma,,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,2,3,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/264113,hematopoietic stem cells,haematopoietic progenitor cells; haematopoietic stem cells; hematopoietic progenitor cells,INCLUDE,0.88,0.12,0.88,0.76,openai_decisions,2,3,12,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/26359,hemolymph,haemolymph,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,2,3,13,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216297,human umbilical vein endothelial cells,,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,2,3,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8973,immune system,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,2,3,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/246169,immunological synapse,,INCLUDE,0.77,0.23,0.77,0.54,openai_decisions,2,3,16,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/329494,immunophenotype,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,2,3,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/105991,innate immunity,innate immune response; innate immune system; natural immunity,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,2,3,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/231910,leukemia inhibitory factor,,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,2,3,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18082,leukocytes,WBCs (leukocytes); leucocytes; white blood cells; white blood corpuscles,INCLUDE,0.96,0.04,0.96,0.92,openai_decisions,2,3,20,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/12604,liposomes (artificial),,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,2,4,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/40760,macrophages,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,2,4,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/2896,mammary glands,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,2,4,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42843,megaspores,,INCLUDE,0.67,0.33,0.67,0.34,openai_decisions,2,4,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/36824,megasporocytes,embryo sac mother cell; megaspore mother cell,INCLUDE,0.83,0.17,0.83,0.66,openai_decisions,2,4,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50928,melanocytes,,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,2,4,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/317395,mesenchymal stromal cells,Wharton's jelly cells; bone marrow stromal cells; mesenchymal progenitor cells; mesenchymal stem cells; multipotent mesenchymal stromal cells,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,2,4,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42844,microspores,,INCLUDE,0.83,0.17,0.83,0.66,openai_decisions,2,4,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42845,microsporocytes,microspore mother cell,INCLUDE,0.88,0.12,0.88,0.76,openai_decisions,2,4,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/49956,monocytes,,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,2,4,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/51883,myelin sheath,medullary sheath; myelin,EXCLUDE,0.38,0.62,0.62,0.24,openai_decisions,2,4,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/200148,myoblasts,myoblast cells,INCLUDE,0.93,0.07,0.93,0.86,openai_decisions,2,4,12,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/287136,myogenic regulatory factors,,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,2,4,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/260547,myotubes,skeletal muscle fibers; skeletal myocytes,INCLUDE,0.84,0.16,0.84,0.68,openai_decisions,2,4,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/138085,nanomedicine,,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,2,4,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/702,neoplasms,cancer (disease); cancers; neoplasia; tumors; tumours,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,2,4,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/13533,neuroglia,glia; glial cells; macroglia; microglia; neuroglial cells,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,2,4,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/29267,neurosecretory system,neuroendocrine system,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,2,4,18,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43664,neutrophils,polymorphonuclear leukocytes,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,2,4,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/238321,niosomes,non-ionic surfactant vesicles,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,2,4,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/25673,ova,egg cells; oospheres; ovum,INCLUDE,0.79,0.21,0.79,0.58,openai_decisions,2,5,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9032,ova transfer,oocyte transfer,EXCLUDE,0.31,0.69,0.69,0.38,openai_decisions,2,5,2,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30722,ovarian follicles,dominant follicles; subordinate follicles,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,2,5,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/2897,pancreas,,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,2,5,4,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/228021,pancreatic insulitis,,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,2,5,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/2898,parotid gland,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,2,5,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/14032,peripheral nervous system,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,2,5,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37025,phagocytosis,phagocytic activity,INCLUDE,0.67,0.33,0.67,0.34,openai_decisions,2,5,8,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/124,pigmentation,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,2,5,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/191282,pneumocytes,,INCLUDE,0.77,0.23,0.77,0.54,openai_decisions,2,5,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/334176,pollen viability,pollen grain viability,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,2,5,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/89756,protoplasm,,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,2,5,12,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/30707,protoplasts,,INCLUDE,0.9,0.1,0.9,0.8,openai_decisions,2,5,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/132367,resistin,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,2,5,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/46970,reticuloendothelial system,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,2,5,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/328582,root border cells,sloughed root cap cells,INCLUDE,0.8,0.2,0.8,0.6,openai_decisions,2,5,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/2899,salivary glands,,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,2,5,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23371,signal transduction,signal pathways,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,2,5,18,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/52963,somatic cell count,,EXCLUDE,0.45,0.55,0.55,0.1,openai_decisions,2,5,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/132647,somatic mutation,somatic mutagenesis,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,2,5,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42846,spermatids,,INCLUDE,0.78,0.22,0.78,0.56,openai_decisions,2,6,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42847,spermatocytes,,INCLUDE,0.75,0.25,0.75,0.5,openai_decisions,2,6,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42848,spermatogonia,spermatogonium,INCLUDE,0.86,0.14,0.86,0.72,openai_decisions,2,6,3,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3136,spermatozoa,sperm; spermatozoon,INCLUDE,0.72,0.28,0.72,0.44,openai_decisions,2,6,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9348,spleen,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,2,6,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6683,surgical transplantation,surgical transplant; transplant surgery,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,2,6,6,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41787,teleomorphs,sexual stage (fungi); sexual state (fungi),EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,2,6,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/28572,tendons,,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,2,6,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/43422,testes,testicles; testis,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,2,6,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/325861,thiazolyl blue,"3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide; MTT tetrazolium; thiazolyl blue tetrazolium bromide",EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,2,6,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20384,vascular bundles,,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,2,6,11,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/129,viability,,EXCLUDE,0.43,0.57,0.57,0.14,openai_decisions,2,6,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/309738,viability assays,viability tests,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,2,6,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/297921,white adipocytes,white fat cells,INCLUDE,0.78,0.22,0.78,0.56,openai_decisions,2,6,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/245234,abnormal hemoglobin,abnormal haemoglobin; haemoglobin C; haemoglobin E; haemoglobin H; haemoglobin M; haemoglobin S; hemoglobin C; hemoglobin E; hemoglobin H; hemoglobin J; hemoglobin M; hemoglobin S; sickle haemoglobin; sickle hemoglobin,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,1,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/3134,acrosome,acrosomes,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,3,1,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3137,acrosome reaction,,INCLUDE,0.88,0.12,0.88,0.76,openai_decisions,3,1,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/308521,animal cell lines,,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,3,1,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/13531,astrocytes,astroglia,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,3,1,5,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/336342,autophagosomes,,INCLUDE,0.89,0.11,0.89,0.78,openai_decisions,3,1,6,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/206099,autophagy,autophagic cell death; autophagic programmed cell death; autophagocytosis; type 2 programmed cell death,INCLUDE,0.88,0.12,0.88,0.76,openai_decisions,3,1,7,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/214454,axonal transport,axoplasmic streaming,INCLUDE,0.71,0.29,0.71,0.42,openai_decisions,3,1,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/187774,bioengineering,bio engineering; bio-engineering; biological engineering,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,3,1,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/206567,bioprinting,cell printing; tissue printing,INCLUDE,0.63,0.37,0.63,0.26,openai_decisions,3,1,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/291434,blood banks,blood banking,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,3,1,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9528,bone marrow,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,1,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18522,bone marrow cells,,INCLUDE,0.7,0.3,0.7,0.4,openai_decisions,3,1,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/4228,brown adipose tissue,brown fat,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,3,1,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136654,caspase-1,EC 3.4.22.36; IL-1 beta convertase; IL-1 beta-converting enzyme; interleukin 1beta-converting enzyme; interleukin-1beta convertase,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,1,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136675,caspase-10,EC 3.4.22.63,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,1,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136677,caspase-11,EC 3.4.22.64,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,1,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136679,caspase-12,,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,3,1,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136660,caspase-2,EC 3.4.22.55,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,1,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136662,caspase-3,EC 3.4.22.56,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,1,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136664,caspase-4,EC 3.4.22.57,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,3,2,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136666,caspase-5,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,2,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136669,caspase-6,EC 3.4.22.59,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,2,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136667,caspase-7,EC 3.4.22.60,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,3,2,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136671,caspase-8,EC 3.4.22.61; FLICE protein,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,3,2,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136674,caspase-9,,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,2,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136653,caspases,,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,3,2,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23368,cell communication,cell to cell communication; cell-cell communication; cellular signaling; cellular signalling; intercellular communication,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,3,2,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23382,cell cycle,,INCLUDE,0.96,0.04,0.96,0.92,openai_decisions,3,2,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/232248,cell cycle checkpoints,cell cycle arrest,INCLUDE,0.93,0.07,0.93,0.86,openai_decisions,3,2,10,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/23385,cell dedifferentiation,,INCLUDE,0.9,0.1,0.9,0.8,openai_decisions,3,2,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3939,cell differentiation,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,3,2,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23401,cell fusion,,INCLUDE,0.93,0.07,0.93,0.86,openai_decisions,3,2,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23397,cell growth,cell elongation; cell enlargement,INCLUDE,0.87,0.13,0.87,0.74,openai_decisions,3,2,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/216438,cell polarity,,INCLUDE,0.93,0.07,0.93,0.86,openai_decisions,3,2,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23423,cell respiration,cellular respiration; fruit respiration; plant respiration; respiration (cells); respiration (fruits); respiration (plants); respiration (postharvest),INCLUDE,0.74,0.26,0.74,0.48,openai_decisions,3,2,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/264819,cell senescence,cellular senescence,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,3,2,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/342280,cell specificity,cellular specificity,EXCLUDE,0.49,0.51,0.51,0.02,openai_decisions,3,2,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23358,cell structures,cell morphology; cellular structures,INCLUDE,0.79,0.21,0.79,0.58,openai_decisions,3,2,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/123140,chemokines,chemotactic cytokines; intercrines,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,2,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9461,clutch size,,EXCLUDE,0.45,0.55,0.55,0.1,openai_decisions,3,3,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/29311,cortical granules,,INCLUDE,0.73,0.27,0.73,0.46,openai_decisions,3,3,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/284384,culture flasks,cell culture flasks; cell culturing flasks; culturing flasks,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,3,3,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/14015,cytolysis,,INCLUDE,0.78,0.22,0.78,0.56,openai_decisions,3,3,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23437,cytoplasm,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,3,3,5,gpt-6-luna,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/264095,death domain receptors,death receptors,EXCLUDE,0.37,0.63,0.63,0.26,openai_decisions,3,3,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4287,developmental stages,growth stages; life cycle stages (developmental stages),EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,3,3,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11246,DNA fragmentation,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,3,3,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/262472,DNA packaging,genome packaging,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,3,3,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9203,egg fertility,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,3,3,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/982,egg masses,egg cases; egg clutches; egg mass (clutch); egg pods; oothecae,EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,3,3,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/35937,egg membranes,,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,3,3,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35938,egg quality,egg characteristics,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,3,3,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35939,egg shell,eggshell,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,3,3,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/35940,egg yolk,vitellus (egg yolk),EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,3,3,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24837,eggs,,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,3,3,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8970,embryonic structures,,INCLUDE,0.54,0.46,0.54,0.08,openai_decisions,3,3,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23424,endocytosis,pinocytosis,INCLUDE,0.54,0.46,0.54,0.08,openai_decisions,3,3,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/298985,endoplasmic reticulum stress,,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,3,3,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18524,erythroblasts,,EXCLUDE,0.42,0.58,0.58,0.16,openai_decisions,3,3,20,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/18078,erythrocyte count,RBC count (red blood cell count); RBC number (red blood cell number); erythrocyte number; red blood cell count; red blood cell number,EXCLUDE,0.5,0.5,0.5,0.0,openai_decisions,3,4,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/316659,erythrocyte membrane,erythrocyte cytoskeleton; erythrocyte ghost; red blood cell membrane; red cell ghost,INCLUDE,0.79,0.21,0.79,0.58,openai_decisions,3,4,2,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/18170,erythrocyte sedimentation rate,blood sedimentation; blood sedimentation tests; erythrocyte sedimentation,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,3,4,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/38116,erythropoiesis,erythrocytopoiesis,INCLUDE,0.66,0.34,0.66,0.32,openai_decisions,3,4,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23425,exocytosis,,INCLUDE,0.7,0.3,0.7,0.4,openai_decisions,3,4,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/200593,exoerythrocytic stage,exoerythrocyte stage,EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,3,4,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24114,female reproductive system,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,4,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/40759,foam cells,,INCLUDE,0.86,0.14,0.86,0.72,openai_decisions,3,4,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/28576,gap junctions,,INCLUDE,0.8,0.2,0.8,0.6,openai_decisions,3,4,9,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/19698,genetic lines,,EXCLUDE,0.34,0.66,0.66,0.32,openai_decisions,3,4,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/285612,glucagon-like peptide 2,glucagon-like peptide II,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,4,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/245231,glucosephosphate dehydrogenase deficiency,G6PD deficiency,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,4,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/16036,granulocytes,,INCLUDE,0.86,0.14,0.86,0.72,openai_decisions,3,4,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38091,hematocrit,erythrocyte volume fraction; haematocrit; packed cell volume; packed erythrocyte volume; packed red-cell volume; pecked red cell volume,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,3,4,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/750,hemolysis,haemolysis,INCLUDE,0.55,0.45,0.55,0.1,openai_decisions,3,4,15,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/23469,hepatocytes,liver cells,INCLUDE,0.77,0.23,0.77,0.54,openai_decisions,3,4,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/262486,heterologous gene expression,heterologous protein expression; heterologous protein production,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,3,4,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/45636,histiocytes,,INCLUDE,0.78,0.22,0.78,0.56,openai_decisions,3,4,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23404,hybridomas,,INCLUDE,0.72,0.28,0.72,0.44,openai_decisions,3,4,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/11247,hypersensitive response,hypersensitive reaction; hypersensitivity (plants); plant hypersensitivity,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,3,4,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/293119,intercellular adhesion molecule-1,CD54 antigens; ICAM-1 (intercellular adhesion molecule-1),EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,3,5,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23362,intercellular junctions,cell junctions,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,3,5,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/33580,intestinal mucosa,intestinal epithelium,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,5,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23470,keratinocytes,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,3,5,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/191274,keratinosomes,Odland bodies; lamellar bodies; lamellar granules; membrane-coating granules,INCLUDE,0.75,0.25,0.75,0.5,openai_decisions,3,5,5,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/23471,kidney cells,renal cells,INCLUDE,0.62,0.38,0.62,0.24,openai_decisions,3,5,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/48601,Kupffer cells,,INCLUDE,0.79,0.21,0.79,0.58,openai_decisions,3,5,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/32273,Langerhans cells,,INCLUDE,0.89,0.11,0.89,0.78,openai_decisions,3,5,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18079,leukocyte count,WBC count; WBC count (white blood cell count); WBC number; WBC number (white blood cell number); differential leucocyte count; differential leukocyte count; leucocyte count; leucocyte number; leukocyte number; white blood cell count; white blood cell number,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,3,5,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/39763,leukopenia,leukocytopenia,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,3,5,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/261791,lipotoxicity,,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,3,5,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/46969,macrophage activation,,INCLUDE,0.75,0.25,0.75,0.5,openai_decisions,3,5,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20336,male reproductive system,gubernaculum,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,3,5,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42262,megasporogenesis,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,3,5,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/51962,melanin,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,5,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/51963,melanization,melanisation,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,3,5,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/204398,melanogenesis,,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,3,5,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23426,membrane fluidity,,INCLUDE,0.54,0.46,0.54,0.08,openai_decisions,3,5,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/217597,membrane fusion,,INCLUDE,0.85,0.15,0.85,0.7,openai_decisions,3,5,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23427,membrane permeability,cell membrane permeability,INCLUDE,0.68,0.32,0.68,0.36,openai_decisions,3,5,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/206574,metabolic engineering,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,3,6,1,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/309754,micronucleus tests,bone marrow micronucleus assay; bone marrow micronucleus test; micronucleus assay,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,3,6,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42263,microsporogenesis,,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,3,6,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/53154,mitochondria,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,3,6,4,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/296511,mitochondrial turnover,,EXCLUDE,0.4,0.6,0.6,0.2,openai_decisions,3,6,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146660,mononuclear leukocytes,PBMC (peripheral blood mononuclear cells); peripheral blood mononuclear cells; peripheral blood mononuclear leukocytes,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,3,6,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23407,mucosa,mucous membrane; mucous membranes,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,6,7,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/22397,myocardium,cardiac muscle,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,3,6,8,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53774,myofibrils,muscle fibrils; myofilaments,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,3,6,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/307372,necroptosis,programmed necrosis,INCLUDE,0.85,0.15,0.85,0.7,openai_decisions,3,6,10,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/761,necrosis,necroses,INCLUDE,0.56,0.44,0.56,0.12,openai_decisions,3,6,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/14269,nerve fibers,nerve fibres; peduncle (nerves),EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,3,6,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8977,nervous system,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,3,6,13,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/317858,neural stem cells,neural progenitor cells,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,3,6,14,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/14270,neurites,,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,3,6,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9559,nonanimal tests,non-animal tests,EXCLUDE,0.21,0.79,0.79,0.58,openai_decisions,3,6,16,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/87584,oligodendroglia,oligodendrocytes,INCLUDE,0.88,0.12,0.88,0.76,openai_decisions,3,6,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42877,oocytes,,INCLUDE,0.71,0.29,0.71,0.42,openai_decisions,3,6,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9479,oogenesis,egg formation,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,3,6,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/55919,oogonia,,INCLUDE,0.6,0.4,0.6,0.2,openai_decisions,3,6,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/827,ovicides,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,7,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9480,ovipary,oviparity; oviparous,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,3,7,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9481,oviposition,egg laying,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,7,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9482,ovulation,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,3,7,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23428,plasmolysis,,INCLUDE,0.83,0.17,0.83,0.66,openai_decisions,3,7,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45050,polycythemia,erythrocytosis,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,3,7,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/261849,pro-apoptotic proteins,anti-apoptotic proteins; apoptosis inducing proteins,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,3,7,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/89615,programmed cell death,,INCLUDE,0.99,0.01,0.99,0.98,openai_decisions,3,7,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23378,protoplast fusion,,INCLUDE,0.53,0.47,0.53,0.06,openai_decisions,3,7,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/7283,pulmonary alveoli,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/327976,pyroptosis,pyroptotic cell death,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,3,7,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/298136,respiratory burst,,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,3,7,12,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/202662,respiratory mucosa,respiratory epithelium,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/38093,reticulocytes,,INCLUDE,0.82,0.18,0.82,0.64,openai_decisions,3,7,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/264024,RNA packaging,mRNA packaging,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,7,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/61633,root cap,plant root cap,EXCLUDE,0.42,0.58,0.58,0.16,openai_decisions,3,7,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4425,roots,plant roots,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,7,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18324,semen,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,3,7,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9034,semen banks,sperm banks,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,7,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/241657,skin neoplasms,skin cancer; skin tumors; skin tumours,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,3,7,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/38094,spectrin,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,3,8,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9460,sperm capacitation,capacitation of sperm; capacitation of spermatozoa; cryocapacitation; sperm activation; sperm hyperactivation,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,3,8,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47567,sperm competition,,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,3,8,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/198414,sperm concentration,concentration of sperm; concentration of spermatozoa; spermatic concentration; spermatozoa concentration,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,3,8,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9490,sperm motility,spermatozoa motility; spermatozoal motility,EXCLUDE,0.48,0.52,0.52,0.04,openai_decisions,3,8,5,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/296215,sperm quality,sperm characteristics; sperm characters; spermatozoa quality,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,3,8,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42264,spermatogenesis,,EXCLUDE,0.38,0.62,0.62,0.24,openai_decisions,3,8,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47405,spermatophores,,EXCLUDE,0.37,0.63,0.63,0.26,openai_decisions,3,8,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/323012,spermatozeugmata,sperm bundles,INCLUDE,0.51,0.49,0.51,0.02,openai_decisions,3,8,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23484,stem cells,progenitor cells,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,3,8,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/190298,suicide genes,,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,3,8,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23197,T-lymphocytes,T cells; T lymphocytes; T-cells,INCLUDE,0.5,0.5,0.5,0.0,openai_decisions,3,8,12,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/206572,tissue engineering,,EXCLUDE,0.34,0.66,0.66,0.32,openai_decisions,3,8,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/32916,trophozoites,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,3,8,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/199112,troponin T,troponin T1; troponin T2,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,3,8,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/261837,tumor suppressor protein p53,TRP53 protein; oncoprotein p53; p53 antigen,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,3,8,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/56077,vacuoles,vacuolar compartments,INCLUDE,0.82,0.18,0.82,0.64,openai_decisions,3,8,17,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/231401,ventral receptacle,,EXCLUDE,0.31,0.69,0.69,0.38,openai_decisions,3,8,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/56390,zona pellucida,,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,3,8,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3936,activins,,EXCLUDE,0.31,0.69,0.69,0.38,openai_decisions,4,1,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/105992,adaptive immunity,acquired immune system; acquired immunity; adaptive immune response; adaptive immune system; adoptive immunity,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,4,1,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/215661,adherens junctions,zonula adherens,INCLUDE,0.65,0.35,0.65,0.3,openai_decisions,4,1,3,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/215122,adult stem cells,adult germline stem cells; adult somatic stem cells; germline adult stem cells; oogonial stem cells; somatic adult stem cells; spermatogonial progenitor cells,INCLUDE,0.52,0.48,0.52,0.04,openai_decisions,4,1,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/4629,aerobiosis,aerobic growth; aerobic respiration; oxidative metabolism,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,4,1,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/264298,amyotrophic lateral sclerosis,Guam disease,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,4,1,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8375,anaerobiosis,anaerobic metabolism; anaerobic respiration,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,4,1,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8586,anatomy and morphology,morphology and anatomy,EXCLUDE,0.31,0.69,0.69,0.38,openai_decisions,4,1,8,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3138,animal reproduction,reproductive physiology (animals); theriogenology,EXCLUDE,0.34,0.66,0.66,0.32,openai_decisions,4,1,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/196260,anion pumps,anion transport proteins,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,4,1,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10230,antibody formation,antibody production; antibody response; autoantibody production,EXCLUDE,0.39,0.61,0.61,0.22,openai_decisions,4,1,11,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/316636,antimitotic agents,antimitotic drugs; antimitotics,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,4,1,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/194621,apoplast,apoplasm; apoplastic compartment; apoplastic component; apoplastic pathway,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,4,1,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/194646,aster (cell structure),,INCLUDE,0.84,0.16,0.84,0.68,openai_decisions,4,1,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/261288,autocrine signaling,autocrine communication,INCLUDE,0.53,0.47,0.53,0.06,openai_decisions,4,1,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/14014,autolysis,,INCLUDE,0.7,0.3,0.7,0.4,openai_decisions,4,1,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/16035,basophils,,INCLUDE,0.66,0.34,0.66,0.32,openai_decisions,4,1,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/206552,biocompatible materials,biomaterials; hemocompatible materials,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,4,1,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/228596,bioencapsulation,,EXCLUDE,0.46,0.54,0.54,0.08,openai_decisions,4,1,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/206564,biofabrication,,EXCLUDE,0.37,0.63,0.63,0.26,openai_decisions,4,1,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4632,biotechnology,,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,4,2,1,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/297917,calcium ionophores,,EXCLUDE,0.37,0.63,0.63,0.26,openai_decisions,4,2,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23191,CD4-positive T-lymphocytes,CD4-positive lymphocytes; T4 cells; T4 lymphocytes,INCLUDE,0.54,0.46,0.54,0.08,openai_decisions,4,2,3,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23199,CD8-positive T-lymphocytes,CD8-positive lymphocytes; T8 cells; T8 lymphocytes,INCLUDE,0.63,0.37,0.63,0.26,openai_decisions,4,2,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/277515,cecropins,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,4,2,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8512,cell division,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,4,2,6,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/9529,cell membranes,cytoplasmic membranes,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,4,2,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23357,cell proliferation,cellular proliferation; tissue proliferation,INCLUDE,0.81,0.19,0.81,0.62,openai_decisions,4,2,8,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/23435,cell walls,,INCLUDE,0.63,0.37,0.63,0.26,openai_decisions,4,2,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/336331,chaperone-mediated autophagy,,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,4,2,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23436,cilia,,INCLUDE,0.54,0.46,0.54,0.08,openai_decisions,4,2,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/28468,conceptus,,EXCLUDE,0.34,0.66,0.66,0.32,openai_decisions,4,2,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/28575,connexins,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,4,2,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23432,cyanide-resistant respiration,cyanide insensitive respiration; cyanide resistant respiration,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,4,2,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23433,cyanide-sensitive respiration,cyanide sensitive respiration,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,4,2,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8825,cytogenetics,,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,4,2,16,gpt-6-luna,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/25730,cytoplasmic granules,,INCLUDE,0.75,0.25,0.75,0.5,openai_decisions,4,2,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/31474,cytoplasmic inclusions,,INCLUDE,0.8,0.2,0.8,0.6,openai_decisions,4,2,18,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/31489,cytoplasmic streaming,protoplasmic streaming,INCLUDE,0.9,0.1,0.9,0.8,openai_decisions,4,2,19,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/264088,cytoplasmic vesicles,,INCLUDE,0.83,0.17,0.83,0.66,openai_decisions,4,2,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/31472,cytoskeleton,cytoskeletal filaments,INCLUDE,0.95,0.05,0.95,0.9,openai_decisions,4,3,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/31473,cytosol,,INCLUDE,0.89,0.11,0.89,0.78,openai_decisions,4,3,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/32272,dendrites,,INCLUDE,0.62,0.38,0.62,0.24,openai_decisions,4,3,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/32600,desmosomes,,INCLUDE,0.82,0.18,0.82,0.64,openai_decisions,4,3,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34224,DNA replication,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,4,3,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/189757,ecosystem respiration,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,4,3,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/125072,electrofusion,,EXCLUDE,0.45,0.55,0.55,0.1,openai_decisions,4,3,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17286,electron transport chain,electron transfer chain; respiratory chain,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,4,3,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/36237,electroporation,,EXCLUDE,0.46,0.54,0.54,0.08,openai_decisions,4,3,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8004,embryo (animal),animal embryos,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,4,3,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/6266,embryo (plant),plant embryos,EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,4,3,11,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/317724,embryonic germ layers,epiblast; germ layers,EXCLUDE,0.49,0.51,0.51,0.02,openai_decisions,4,3,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/36807,embryonic stem cells,,INCLUDE,0.96,0.04,0.96,0.92,openai_decisions,4,3,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/200527,endomembrane system,,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,4,3,14,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/37512,eosinophils,,INCLUDE,0.54,0.46,0.54,0.08,openai_decisions,4,3,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/339436,ferroptosis,,INCLUDE,0.61,0.39,0.61,0.22,openai_decisions,4,3,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/199428,fetoplacental tissues,feto-placental tissues,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,4,3,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34842,fetus,,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,4,3,18,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23438,fimbriae,pili; pilus,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,4,3,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15186,flagellum,flagella,INCLUDE,0.51,0.49,0.51,0.02,openai_decisions,4,3,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/1617,ganglia,ganglion,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,4,4,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/324041,gangrene,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,4,4,2,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/242280,gastrulation,,EXCLUDE,0.35,0.65,0.65,0.3,openai_decisions,4,4,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42876,germinal vesicle,,INCLUDE,0.55,0.45,0.55,0.1,openai_decisions,4,4,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/317772,glioma,glial cell tumors,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,4,4,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/323535,gliotoxins,aspergillin,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,4,4,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/33284,Golgi apparatus,Golgi body; Golgi complex; dictyosomes,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,4,4,7,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/34962,growth retardation,growth inhibition; growth reduction; stunting,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,4,4,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/339,hematologic diseases,blood diseases; blood disorders; haematologic diseases; hematological diseases; hemic diseases,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,4,4,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26361,hematopoiesis,haematopoiesis; haemopoiesis; hemopoiesis; leukopoiesis; thrombocytopoiesis,EXCLUDE,0.48,0.52,0.52,0.04,openai_decisions,4,4,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43663,heterophils,,INCLUDE,0.68,0.32,0.68,0.36,openai_decisions,4,4,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45637,histiocytosis,,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,4,4,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/226534,hollow heart,,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,4,4,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/68542,human cell lines,,INCLUDE,0.96,0.04,0.96,0.92,openai_decisions,4,4,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10232,immune response,immunity response; immunological response,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,4,4,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23439,inclusion bodies,,INCLUDE,0.61,0.39,0.61,0.22,openai_decisions,4,4,16,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/47227,infarction,infarct,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,4,4,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/296625,innexins,,EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,4,4,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/222512,interleukin-13,IL-13; interleukin 13,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,4,4,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23383,interphase,G0 phase; G1 phase; G2 phase; S phase,INCLUDE,0.82,0.18,0.82,0.64,openai_decisions,4,4,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/238189,intracellular space,,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,4,5,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/222893,keratinocyte growth factor receptor,FGF receptor 2IIIb; KGF receptor; fibroblast growth factor receptor 2IIIb; keratinocyte growth factor receptors,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,4,5,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9343,kidneys,anterior kidney; head kidney,EXCLUDE,0.21,0.79,0.79,0.58,openai_decisions,4,5,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/246142,Lewy bodies,,INCLUDE,0.54,0.46,0.54,0.08,openai_decisions,4,5,4,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/229418,liquid membranes,,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,4,5,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9344,liver,liver (anatomy),EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,4,5,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/14420,lymphocytes,immunocompetent cells; lymphoid cells,INCLUDE,0.67,0.33,0.67,0.34,openai_decisions,4,5,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50956,lysosomes,,INCLUDE,0.77,0.23,0.77,0.54,openai_decisions,4,5,8,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/310092,macroautophagy,aggrephagy; chaperone-assisted selective autophagy; lysophagy; pexophagy; proteaphagy; xenophagy,INCLUDE,0.67,0.33,0.67,0.34,openai_decisions,4,5,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18525,megakaryocytes,,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,4,5,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/314424,mitogens,phytomitogens,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,4,5,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/296510,mitophagy,mitochondrial degradation,INCLUDE,0.74,0.26,0.74,0.48,openai_decisions,4,5,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/277897,monocarboxylic acid transporters,lactate transport proteins; lactate transporters,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,4,5,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/287139,myogenin,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,4,5,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/31449,neurons,cytons; nerve cells; neuronal cells; neurone; neurones,INCLUDE,0.98,0.02,0.98,0.96,openai_decisions,4,5,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/87320,nucleocytoplasmic transport,nucleocytoplasmic trafficking,EXCLUDE,0.49,0.51,0.51,0.02,openai_decisions,4,5,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/215663,occludins,,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,4,5,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23546,organelles,cytoplasmic organelles,INCLUDE,0.83,0.17,0.83,0.66,openai_decisions,4,5,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53498,organogenesis,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,4,5,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/52083,osmosis,,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,4,5,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/313483,osteonecrosis,Kienbock disease; Kienbock's disease; bone necrosis,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,4,6,1,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8382,oxygen consumption,,EXCLUDE,0.43,0.57,0.57,0.14,openai_decisions,4,6,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/278020,P-glycoproteins,multidrug resistance protein 1; permeability glycoproteins,EXCLUDE,0.31,0.69,0.69,0.38,openai_decisions,4,6,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/296627,pannexins,,INCLUDE,0.62,0.38,0.62,0.24,openai_decisions,4,6,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/261291,paracrine signaling,,INCLUDE,0.57,0.43,0.57,0.14,openai_decisions,4,6,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/319,pathological processes and conditions,,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,4,6,6,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/52082,permeability,,EXCLUDE,0.45,0.55,0.55,0.1,openai_decisions,4,6,7,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56073,phagosomes,phagolysosomes,INCLUDE,0.79,0.21,0.79,0.58,openai_decisions,4,6,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23434,photorespiration,,EXCLUDE,0.35,0.65,0.65,0.3,openai_decisions,4,6,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3934,physiological transport,biological transport; transcytosis,INCLUDE,0.7,0.3,0.7,0.4,openai_decisions,4,6,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/36836,placenta,placentae; placentome,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,4,6,11,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/314552,plant nutrient resorption,,EXCLUDE,0.21,0.79,0.79,0.58,openai_decisions,4,6,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23409,plasma membrane,plasmalemma,INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,4,6,13,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/47483,plasmodesmata,,INCLUDE,0.82,0.18,0.82,0.64,openai_decisions,4,6,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23384,proliferating cell nuclear antigen,PCNA (proliferating cell nuclear antigen),EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,4,6,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58086,protein transport,protein sorting; protein trafficking; protein translocation,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,4,6,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/243920,proton-motive force,chemiosmosis; chemiosmotic mechanism,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,4,6,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/56074,pseudopodia,axopodia; filopodia; lamellipodia; lobopodia,INCLUDE,0.81,0.19,0.81,0.62,openai_decisions,4,6,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23372,quorum sensing,quorum signaling,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,4,6,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/90688,reticulocyte count,,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,4,6,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/191190,secretory granules,secretory vesicles; zymogen granules,INCLUDE,0.56,0.44,0.56,0.12,openai_decisions,4,7,1,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/127,senescence (aging),aging (physiological process),INCLUDE,0.76,0.24,0.76,0.52,openai_decisions,4,7,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/283211,SNARE proteins,SNAP receptors; soluble N-ethylmaleimide-sensitive factor activating protein receptor (SNARE) proteins; soluble N-ethylmaleimide-sensitive factor activating protein receptor proteins; t-SNAREs; target SNARE proteins; v-SNAREs; vesicle SNARE proteins,EXCLUDE,0.34,0.66,0.66,0.32,openai_decisions,4,7,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/46235,somatic hybridization,somatic hybridisation,INCLUDE,0.55,0.45,0.55,0.1,openai_decisions,4,7,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20189,subcellular fractions,,INCLUDE,0.51,0.49,0.51,0.02,openai_decisions,4,7,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/65243,suppressor cells,suppressor-effector T-lymphocytes; suppressor-inducer T-lymphocytes,INCLUDE,0.59,0.41,0.59,0.18,openai_decisions,4,7,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/148685,symplast,symplasm; symplastic compartment; symplastic component; symplastic pathway,INCLUDE,0.63,0.37,0.63,0.26,openai_decisions,4,7,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54683,synapse,synapses (nervous system),INCLUDE,0.63,0.37,0.63,0.26,openai_decisions,4,7,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/264089,synaptic vesicles,neurotransmitter vesicles,INCLUDE,0.68,0.32,0.68,0.36,openai_decisions,4,7,9,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/295041,T-cell lymphoma,,EXCLUDE,0.35,0.65,0.65,0.3,openai_decisions,4,7,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/332140,three-dimensional printing,3 dimensional printing; 3-D printing; 3D printing,INCLUDE,0.52,0.48,0.52,0.04,openai_decisions,4,7,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50929,thymocytes,,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,4,7,12,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/47484,tight junctions,occluding junctions; zonula occludens,INCLUDE,0.71,0.29,0.71,0.42,openai_decisions,4,7,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/770,tissue degeneration,,INCLUDE,0.75,0.25,0.75,0.5,openai_decisions,4,7,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23411,tonoplast,,INCLUDE,0.53,0.47,0.53,0.06,openai_decisions,4,7,15,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/271059,transient receptor potential channels,TRP cation channels; TRP membrane proteins; transient receptor potential (TRP) channels,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,4,7,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/36837,zygote,,INCLUDE,0.85,0.15,0.85,0.7,openai_decisions,4,7,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/1597,ABC transporters,ABC-type transporters; ATP binding cassette transporters; ATP-binding cassette transporters,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,5,1,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/3179,actin,F-actin; G-actin; N-actin; alpha-actin; alpha-isoactin; beta-actin; gamma-actin; isoactin,EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,5,1,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/3931,active transport,,EXCLUDE,0.5,0.5,0.5,0.0,openai_decisions,5,1,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/295010,alpha catenin,alpha-1 catenin; alpha-E catenin,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,5,1,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8511,anaphase,,INCLUDE,0.59,0.41,0.59,0.18,openai_decisions,5,1,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/296072,apoplastic fluids,apoplast fluids,EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,5,1,6,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/13544,asynapsis,asyndesis,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,5,1,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/14410,B-lymphocytes,B cells (lymphocytes); B lymphocytes; B-cells (lymphocytes),EXCLUDE,0.46,0.54,0.54,0.08,openai_decisions,5,1,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15095,bacterial motility,swarming motility; swimming motility,EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,5,1,9,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/336289,bacterial outer membranes,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,5,1,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/295011,beta catenin,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,5,1,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/107,biological properties and phenomena,,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,5,1,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/17929,blastocyst,,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,5,1,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15202,botulinum toxin,botulinum neurotoxin,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,5,1,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9337,brain,deutocerebrum; forebrain; hindbrain; midbrain; protocerebrum; tritocerebrum,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,5,1,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/16111,brush border membrane vesicles,BBMV (cell preparations),EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,5,1,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20724,Ca2-transporting ATPase,Ca pump; Ca-ATPase; Ca2+ pump; Ca2+-ATPase; Ca2+-transporting ATPase; Ca2-ATPase; EC 3.6.3.8; calcium ATPase; calcium adenosine triphosphatase; calcium adenosinetriphosphatase; calcium pump; calcium-transporting ATPase; plasma membrane Ca-ATPase; plasma membrane calcium ATPase; sarcoplasmic reticulum ATPase,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,5,1,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20827,cadherins,protocadherins,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,5,1,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/196259,cation pumps,cation efflux pumps; cation transport proteins,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,5,1,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/323735,CD4 lymphocyte count,CD4 cell count; CD4-positive cell count,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,5,1,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23400,cell free system,cell-free system; cellfree system,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,5,2,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/294129,cell membrane structures,,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,5,2,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15185,cell movement,cell locomotion; cell migration; cell motility; cellular migration; cellular motility; cellular movement,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,5,2,3,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/23416,cell nucleus,cell nuclei,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,5,2,4,gpt-6-luna,True,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23359,cell wall components,cell wall composition; cell wall compounds; cell wall constituents,EXCLUDE,0.38,0.62,0.62,0.24,openai_decisions,5,2,5,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/291537,cellulose fibrils,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,5,2,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/291539,cellulose microfibrils,microfibrillar cellulose,EXCLUDE,0.39,0.61,0.61,0.22,openai_decisions,5,2,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9216,cellulosic fibers,cellulose fibers; cellulose fibres; cellulosic fibres,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,5,2,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23495,cellulosome,cellulolytic complexes,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,5,2,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23715,centrosomes,,INCLUDE,0.77,0.23,0.77,0.54,openai_decisions,5,2,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/236678,chemokine CCL5,CC chemokine ligand 5; CCL5 chemokine; RANTES; SCYA5 protein; T cell RNATES protein; T-Cell specific protein p288; TCP228 protein; chemokine (C-C motif) ligand 5; small inducible cytokine A5,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,5,2,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/219296,chloroplast membranes,,EXCLUDE,0.38,0.62,0.62,0.24,openai_decisions,5,2,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/13546,chromosome pairing,chromosomal synapsis; chromosome synapse; chromosome synapsis,INCLUDE,0.54,0.46,0.54,0.08,openai_decisions,5,2,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23388,chromosome segregation,chromosomal disjunction; chromosome disjunction; chromosome separation,INCLUDE,0.88,0.12,0.88,0.76,openai_decisions,5,2,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/340866,cnidocysts,,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,5,2,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26666,coated vesicles,,INCLUDE,0.69,0.31,0.69,0.38,openai_decisions,5,2,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/142776,computer graphics,interactive graphics,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,5,2,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/70089,cytokinesis,,INCLUDE,0.98,0.02,0.98,0.96,openai_decisions,5,2,18,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/190838,cytoskeletal proteins,,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,5,2,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23202,cytotoxic T-lymphocytes,CD8+ cytotoxic lymphocytes; cytotoxic T lymphocytes,EXCLUDE,0.4,0.6,0.6,0.2,openai_decisions,5,2,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23389,desynapsis,,EXCLUDE,0.46,0.54,0.54,0.08,openai_decisions,5,3,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/242721,dynamins,dephosphin; dynamin; dynamin K44A,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,5,3,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4411,elderly,advanced age; aged (people); geriatric adults; geriatric animals; geriatric people; old adults; old animals; old people; old pets; senior citizens,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,5,3,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/282559,electroosmosis,electroosmotic flow,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,5,3,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37062,endoplasmic reticulum,,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,5,3,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/27379,endosomes,,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,5,3,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/196334,exosomes,,INCLUDE,0.57,0.43,0.57,0.14,openai_decisions,5,3,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/299590,Fabry disease,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,5,3,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/144694,flagellin,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,5,3,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/262830,fluorescence recovery after photobleaching,FRAP (fluorescence recovery after photobleaching),EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,5,3,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/294139,focal adhesions,cell-matrix adherens junctions; focal contacts,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,5,3,11,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/240810,gametolysin,EC 3.4.24.38; autolysins; gamete autolysin; gamete lytic enzyme,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,5,3,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/295012,gamma catenin,plakoglobin,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,5,3,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/45073,hemicellulose,,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,5,3,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30217,hybridization,hybridisation,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,5,3,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46988,immunocytes,,INCLUDE,0.61,0.39,0.61,0.22,openai_decisions,5,3,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/215129,induced pluripotent stem cells,fibroblast-derived IPS cells; fibroblast-derived induced pluripotent stem cells; hiPSC (human induced pluripotent stem cells); human induced pluripotent stem cells; iPS cells (induced pluripotent stem cells),INCLUDE,0.92,0.08,0.92,0.84,openai_decisions,5,3,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/31500,intermediate filaments,,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,5,3,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/47539,interneurons,interneurones,INCLUDE,0.8,0.2,0.8,0.6,openai_decisions,5,3,19,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/315659,intracellular enzymes,endoenzymes,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,5,3,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/238185,intracellular fluids,,INCLUDE,0.61,0.39,0.61,0.22,openai_decisions,5,4,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21103,ion channels,,INCLUDE,0.55,0.45,0.55,0.1,openai_decisions,5,4,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47612,ion transport,electrogenic pumps; ion transportation; ion uptake,INCLUDE,0.69,0.31,0.69,0.38,openai_decisions,5,4,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/84498,lecithins,,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,5,4,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50048,lignin,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,5,4,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/12603,lipid bilayers,,INCLUDE,0.87,0.13,0.87,0.74,openai_decisions,5,4,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50282,lipid bodies,liposomes (organelles); oil bodies; oleosomes; spherosomes,INCLUDE,0.65,0.35,0.65,0.3,openai_decisions,5,4,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/281496,lipid transfer proteins,glycolipid exchange proteins; glycolipid transfer proteins; lipid exchange proteins; phospholipid transfer proteins,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,5,4,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/271991,lipoteichoic acids,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,5,4,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50499,locomotion,locomotor activity,INCLUDE,0.55,0.45,0.55,0.1,openai_decisions,5,4,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10362,lymphocyte antigens,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,5,4,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23192,lymphocyte count,lymphocyte number; lymphocyte numbers; total lymphocyte count,EXCLUDE,0.43,0.57,0.57,0.14,openai_decisions,5,4,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23448,lymphocyte proliferation,blast transformation; blastogenesis; lymphoblast transformation; lymphocyte activation; lymphocyte stimulation; lymphocyte transformation,INCLUDE,0.74,0.26,0.74,0.48,openai_decisions,5,4,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42154,mannans,galactoglucomannans,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,5,4,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23390,meiosis,reduction division,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,5,4,15,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23391,meiotic drive,,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,5,4,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3910,membrane potential,resting membrane potential; resting potential; transmembrane potential,INCLUDE,0.87,0.13,0.87,0.74,openai_decisions,5,4,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/881,membrane proteins,gap junction proteins,EXCLUDE,0.21,0.79,0.79,0.58,openai_decisions,5,4,18,gpt-6-luna,False,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23392,metaphase,,INCLUDE,0.78,0.22,0.78,0.56,openai_decisions,5,4,19,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43307,microbodies,glycosomes,INCLUDE,0.64,0.36,0.64,0.28,openai_decisions,5,4,20,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/31501,microfilaments,actin cytoskeleton; actin filaments; actin microfilaments,INCLUDE,0.75,0.25,0.75,0.5,openai_decisions,5,5,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50441,microsomes,,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,5,5,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/31502,microtubules,,INCLUDE,0.93,0.07,0.93,0.86,openai_decisions,5,5,3,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/20188,microvilli,brush border; microvillus,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,5,5,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/219042,mitochondrial membrane,inner mitochondrial membrane; outer mitochondrial membrane,INCLUDE,0.59,0.41,0.59,0.18,openai_decisions,5,5,5,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23393,mitosis,M phase,INCLUDE,0.86,0.14,0.86,0.72,openai_decisions,5,5,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53159,mitotic spindle apparatus,mitotic apparatus; mitotic spindle,INCLUDE,0.87,0.13,0.87,0.74,openai_decisions,5,5,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/296223,monosaccharide transport proteins,hexose transport proteins; hexose transporters,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,5,5,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/35923,motor neurons,efferent neurons; motoneurones; motoneurons; motor nerves; motor neurones,EXCLUDE,0.39,0.61,0.61,0.22,openai_decisions,5,5,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/301163,myasthenia gravis,,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,5,5,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/259874,nanopores,,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,5,5,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/48404,natural killer cells,NK cells,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,5,5,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/54722,neurofibrils,,INCLUDE,0.61,0.39,0.61,0.22,openai_decisions,5,5,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/199243,neurogenesis,,INCLUDE,0.51,0.49,0.51,0.02,openai_decisions,5,5,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/246161,neuroplasticity,neurite pruning; neuronal plasticity; neuronal pruning; synaptic plasticity; synaptic pruning,INCLUDE,0.78,0.22,0.78,0.56,openai_decisions,5,5,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/2522,neurotransmitters,neuromediators; neuromodulators; neuroregulators,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,5,5,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47087,nuclear inclusions,intranuclear inclusion bodies; nuclear inclusion bodies,INCLUDE,0.66,0.34,0.66,0.32,openai_decisions,5,5,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23408,nuclear membrane,nuclear envelope,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,5,5,18,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/55447,nutrient transport,,EXCLUDE,0.31,0.69,0.69,0.38,openai_decisions,5,5,19,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/47552,nutrient uptake,nutrient absorption,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,5,5,20,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/312451,O-antigens,O-specific polysaccharides,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,5,6,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/25480,organelle genome,organelle genetics,EXCLUDE,0.44,0.56,0.56,0.12,openai_decisions,5,6,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23685,Parkinson disease,Parkinson's disease,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,5,6,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47280,peroxisomes,,INCLUDE,0.81,0.19,0.81,0.62,openai_decisions,5,6,4,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/131681,phospholipid-hydroperoxide glutathione peroxidase,EC 1.11.1.12; GPX4 glutathione peroxidase; PHGPX (phospholipid-hydroperoxide glutathione peroxidase); glutathione peroxidase 4; glutathione peroxidase GPX4; hydroperoxide glutathione peroxidase; phospholipid hydroperoxide glutathione peroxidase,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,5,6,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/199358,photoaging,dermatoheliosis; photoageing,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,5,6,6,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9418,physiology,,INCLUDE,0.58,0.42,0.58,0.16,openai_decisions,5,6,7,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/851,plant anatomy,plant parts,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,5,6,8,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8249,plastids,,INCLUDE,0.62,0.38,0.62,0.24,openai_decisions,5,6,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/334600,pollen walls,,EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,5,6,10,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23394,prophase,diakinesis; diplonema (meiosis); diplotene stage; leptonema (meiosis); leptotene stage; zygonema (meiosis); zygotene stage,INCLUDE,0.63,0.37,0.63,0.26,openai_decisions,5,6,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/203627,protein bodies,,INCLUDE,0.56,0.44,0.56,0.12,openai_decisions,5,6,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/32271,proteolysis,,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,5,6,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/325588,protolignin,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,5,6,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/311369,proton extrusion,,EXCLUDE,0.43,0.57,0.57,0.14,openai_decisions,5,6,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/263926,rhoptry,rhoptry organelle,EXCLUDE,0.39,0.61,0.61,0.22,openai_decisions,5,6,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56075,ribosomes,,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,5,6,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/225409,RNA transport,RNA export; RNA sorting; mRNA export; mRNA sorting; mRNA transport; messenger RNA sorting; ribonucleic acid transport,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,5,6,18,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/4780,sensory neurons,afferent neurons; sensory neurones,INCLUDE,0.69,0.31,0.69,0.38,openai_decisions,5,6,19,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56076,spliceosomes,,EXCLUDE,0.48,0.52,0.52,0.04,openai_decisions,5,6,20,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/252751,sporopollenin,,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,5,7,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/14034,sympathetic nervous system,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,5,7,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/65313,symporters,co-transporters,EXCLUDE,0.45,0.55,0.55,0.1,openai_decisions,5,7,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54717,synaptic transmission,neural transmission; neurotransmission,EXCLUDE,0.47,0.53,0.53,0.06,openai_decisions,5,7,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/246202,synaptogenesis,,INCLUDE,0.86,0.14,0.86,0.72,openai_decisions,5,7,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/65104,synaptosomes,,INCLUDE,0.54,0.46,0.54,0.08,openai_decisions,5,7,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/271989,teichoic acids,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,5,7,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23395,telophase,,INCLUDE,0.82,0.18,0.82,0.64,openai_decisions,5,7,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23410,thylakoids,thylakoid lumen; thylakoid membrane,INCLUDE,0.51,0.49,0.51,0.02,openai_decisions,5,7,9,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37012,thymus gland,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,5,7,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17197,transport proteins,carrier proteins; translocator proteins; transporter proteins,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,5,7,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1600,transporters,efflux pumps; export pumps; ion pumps; membrane pumps; membrane transport proteins,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,5,7,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/245155,type I secretion system,T1SS (type I secretion system); type I secretion apparatus; type I secretion process; type one secretion system,EXCLUDE,0.39,0.61,0.61,0.22,openai_decisions,5,7,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/245158,type V secretion system,type V autotransporter pathway; type V secretion pathway; type V secretion systems,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,5,7,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/55450,uptake mechanisms,uptake (physiology),INCLUDE,0.5,0.5,0.5,0.0,openai_decisions,5,7,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/200645,ventral adhesive disk,ventral adhesive disc,EXCLUDE,0.43,0.57,0.57,0.14,openai_decisions,5,7,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/246154,viral inclusion bodies,Negri bodies; viroplasms,INCLUDE,0.55,0.45,0.55,0.1,openai_decisions,5,7,17,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/46559,water uptake,water absorption,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,5,7,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/3909,action potentials,nerve impulses; spike potentials,EXCLUDE,0.43,0.57,0.57,0.14,openai_decisions,6,1,1,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8248,amyloplasts,,INCLUDE,0.68,0.32,0.68,0.36,openai_decisions,6,1,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9107,animal physiology,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,6,1,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/132362,apicoplasts,,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,6,1,4,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/17227,biochemistry,,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,6,1,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/231463,bioelectricity,,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,6,1,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10121,body composition,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,6,1,7,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/49,body fluids,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,6,1,8,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/21102,calcium channels,calcium ion channels; voltage-dependent calcium channels,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,6,1,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/120,cell adhesion,adhesion (cells); cellular adhesion; cytoadherence,INCLUDE,0.98,0.02,0.98,0.96,openai_decisions,6,1,10,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/23413,cell nucleolus,cell nucleoli; nucleoli; nucleolus,INCLUDE,0.97,0.03,0.97,0.94,openai_decisions,6,1,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/294131,cell-matrix junctions,,INCLUDE,0.88,0.12,0.88,0.76,openai_decisions,6,1,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10341,cell-mediated immunity,cell mediated immunity; cell-mediated immune response; cellular immune response; cellular immunity,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,6,1,13,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23714,centrioles,,INCLUDE,0.84,0.16,0.84,0.68,openai_decisions,6,1,14,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/25321,chloride channels,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,6,1,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/317761,chloroplast transit peptides,plastid transit peptides,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,6,1,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/25832,chromoplasts,,INCLUDE,0.71,0.29,0.71,0.42,openai_decisions,6,1,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/276,chromosomes,,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,6,1,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26664,clathrin,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,6,1,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/146576,cones (retina),cone photoreceptors; retinal cone cells; retinal cone photoreceptor cells; retinal cones,INCLUDE,0.94,0.06,0.94,0.88,openai_decisions,6,1,20,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/142493,ecophysiology,ecological physiology; environmental physiology; physiological ecology,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,6,2,1,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/36096,elaioplasts,,INCLUDE,0.64,0.36,0.64,0.28,openai_decisions,6,2,2,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/17332,electrophysiology,,INCLUDE,0.51,0.49,0.51,0.02,openai_decisions,6,2,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/31966,excretion,,INCLUDE,0.59,0.41,0.59,0.18,openai_decisions,6,2,4,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38966,extracellular matrix,,INCLUDE,0.91,0.09,0.91,0.82,openai_decisions,6,2,5,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/38979,exudation,,EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,6,2,6,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/127294,Fields of Study,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,6,2,7,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41803,fungus physiology,fungal physiology,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,6,2,8,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/42145,gait,,EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,6,2,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/281574,glutamate receptors,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,6,2,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/43306,glyoxysomes,,EXCLUDE,0.32,0.68,0.68,0.36,openai_decisions,6,2,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/25455,grana,,INCLUDE,0.56,0.44,0.56,0.12,openai_decisions,6,2,12,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/6700,growth and development,,INCLUDE,0.67,0.33,0.67,0.34,openai_decisions,6,2,13,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/2755,inherited metabolic diseases,inborn errors of metabolism; inherited metabolic disorders,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,6,2,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47468,integrins,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,6,2,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/190836,intermediate filament proteins,,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,6,2,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/234,ionophores,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,6,2,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/146580,kinesin,,EXCLUDE,0.02,0.98,0.98,0.96,openai_decisions,6,2,18,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50030,light harvesting complex,chlorophyll antenna; chlorophyll antennae; light harvesting antennae; light harvesting complex 1; light harvesting complex 2; light harvesting complex I; light harvesting complex II; light-harvesting antenna complex; light-harvesting antenna complexes; light-harvesting antenna proteins; light-harvesting antenna systems; light-harvesting center,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,6,2,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17396,lipid metabolism,fat metabolism,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,6,2,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/200627,liquid junction potential,,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,6,3,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1601,membrane glycoproteins,,EXCLUDE,0.43,0.57,0.57,0.14,openai_decisions,6,3,2,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8301,metabolism,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,6,3,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/4636,microbial physiology,bacterial physiology,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,6,3,4,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/200164,microfilament proteins,actin binding proteins; actin-binding proteins,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,6,3,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/217943,mitogenesis,,INCLUDE,0.6,0.4,0.6,0.2,openai_decisions,6,3,6,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/324029,nerve regeneration,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,6,3,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/199237,neurodevelopment,central nervous system development; nervous system development; neural development; neurologic development; neurological development,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,6,3,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9426,neurophysiology,nervous system physiology; neurobiology; neuroscience,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,6,3,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23422,nuclear genome,nuclear DNA,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,6,3,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23420,nuclear matrix,,INCLUDE,0.52,0.48,0.52,0.04,openai_decisions,6,3,11,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/87310,nuclear pore,nuclear pore complex,EXCLUDE,0.47,0.53,0.53,0.06,openai_decisions,6,3,12,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/196599,nuclear proteins,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,6,3,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54892,nutrient use efficiency,nitrogen use efficiency,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,6,3,14,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/10476,nutrition physiology,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,6,3,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/245877,ocular physiology,ocular physiological phenomenon; ocular physiological processes,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,6,3,16,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8383,oxygen requirement,,EXCLUDE,0.22,0.78,0.78,0.56,openai_decisions,6,3,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/123494,pachytene stage,pachynema (meiosis); pachytene,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,6,3,18,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9411,pathophysiology,physiopathology,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,6,3,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/314948,peak oxygen uptake,maximal aerobic capacity; maximal aerobic power; maximal oxygen consumption; maximum oxygen uptake,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,6,3,20,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/14059,photosynthesis,,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,6,4,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37116,physical activity,human activity (physical activity),EXCLUDE,0.42,0.58,0.58,0.16,openai_decisions,6,4,2,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/24620,physical chemistry,,EXCLUDE,0.35,0.65,0.65,0.3,openai_decisions,6,4,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45755,physiological regulation,,INCLUDE,0.52,0.48,0.52,0.04,openai_decisions,6,4,4,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34396,physiological response,,INCLUDE,0.59,0.41,0.59,0.18,openai_decisions,6,4,5,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/190809,physiological state,physiological status,INCLUDE,0.56,0.44,0.56,0.12,openai_decisions,6,4,6,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/55541,physiologists,,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,6,4,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1821,plant physiology,,EXCLUDE,0.33,0.67,0.67,0.34,openai_decisions,6,4,8,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/25478,plastid DNA,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,6,4,9,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/89067,plastid genome,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,6,4,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11454,porins,pore proteins,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,6,4,11,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/47610,potassium channels,K+ channels; potassium ion channels,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,6,4,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/23421,pronucleus,pronuclei,EXCLUDE,0.47,0.53,0.53,0.06,openai_decisions,6,4,13,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/317990,psychophysiology,,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,6,4,14,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12898,reproduction,,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,6,4,15,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/146572,rods (retina),retinal rod cells; retinal rods; rod photoreceptors,INCLUDE,0.68,0.32,0.68,0.36,openai_decisions,6,4,16,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37063,rough endoplasmic reticulum,,INCLUDE,0.8,0.2,0.8,0.6,openai_decisions,6,4,17,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/17176,secretion,,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,6,4,18,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/198167,seed storage proteins,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,6,4,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54682,sensory system,,EXCLUDE,0.39,0.61,0.61,0.22,openai_decisions,6,4,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37064,smooth endoplasmic reticulum,,INCLUDE,0.69,0.31,0.69,0.38,openai_decisions,6,5,1,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/341866,sodium channel blockers,sodium channel antagonists; sodium channel inhibitors,EXCLUDE,0.1,0.9,0.9,0.8,openai_decisions,6,5,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47611,sodium channels,,EXCLUDE,0.23,0.77,0.77,0.54,openai_decisions,6,5,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/210003,somatic incompatibility,,EXCLUDE,0.41,0.59,0.59,0.18,openai_decisions,6,5,4,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41785,spindle pole body,,INCLUDE,0.62,0.38,0.62,0.24,openai_decisions,6,5,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24726,taxis (physiology),,EXCLUDE,0.44,0.56,0.56,0.12,openai_decisions,6,5,6,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58087,tissue distribution,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,6,5,7,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/3995,triacylglycerols,neutral fats; neutral lipids; triglycerides,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,6,5,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/14074,tropisms,,EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,6,5,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/52880,tubulin,alpha-tubulin; beta-tubulin; delta-tubulin; gamma-tubulin,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,6,5,10,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47558,villi,villus,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,6,5,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47776,water requirement,,EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,6,5,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/4199,adhesion,adhesiveness,INCLUDE,0.61,0.39,0.61,0.22,openai_decisions,7,1,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/295058,adhesion inhibition assay,bacterial adhesion inhibition assay; cell adhesion inhibition assay,EXCLUDE,0.16,0.84,0.84,0.68,openai_decisions,7,1,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6699,allometry,,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,7,1,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/220598,amyloplast DNA,,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,7,1,4,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4384,animal development,,EXCLUDE,0.08,0.92,0.92,0.84,openai_decisions,7,1,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9226,animal growth,growth rate (animals),EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,7,1,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4195,bacterial adhesion,bacterial adherence,EXCLUDE,0.3,0.7,0.7,0.4,openai_decisions,7,1,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/316508,bioadhesion,bio-adhesiveness; bioadhesiveness,EXCLUDE,0.48,0.52,0.52,0.04,openai_decisions,7,1,8,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17330,bioelectrical impedance,bioelectric impedance; bioimpedance,EXCLUDE,0.19,0.81,0.81,0.62,openai_decisions,7,1,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/1764,biological development,,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,7,1,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/15955,biomass,crop biomass,EXCLUDE,0.03,0.97,0.97,0.94,openai_decisions,7,1,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/22355,carcinogenesis,cancerogenesis; oncogenesis; tumorigenesis,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,7,1,12,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/293054,cell adhesion molecules,intercellular adhesion molecules; leukocyte adhesion molecules,EXCLUDE,0.27,0.73,0.73,0.46,openai_decisions,7,1,13,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/25453,chlorophyll,chlorophyl; chlorophyll a; chlorophyll b; chlorophyll c; chlorophyll d; chlorophyll f,EXCLUDE,0.06,0.94,0.94,0.88,openai_decisions,7,1,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/220600,chromoplast DNA,,EXCLUDE,0.05,0.95,0.95,0.9,openai_decisions,7,1,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/204413,color vision,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,7,1,16,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/22958,compensatory growth,catch-up growth,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,7,1,17,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/294138,costameres,,INCLUDE,0.62,0.38,0.62,0.24,openai_decisions,7,1,18,gpt-6-luna,True,True,skos:related
+https://lod.nal.usda.gov/nalt/28644,defecation,defaecation,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,7,1,19,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/334414,developmental milestones,,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,7,1,20,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/19663,dormancy breaking,breaking dormancy,EXCLUDE,0.21,0.79,0.79,0.58,openai_decisions,7,2,1,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34395,dose response,dosage effects; dose response assessment; dose response relationship; dose-response; dose-response assessment; dose-response relationship,EXCLUDE,0.28,0.72,0.72,0.44,openai_decisions,7,2,2,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/34639,drug excretion,drug elimination,EXCLUDE,0.18,0.82,0.82,0.64,openai_decisions,7,2,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/13828,evoked potentials,auditory evoked potential; motor evoked potential; somatosensory evoked potential; visual evoked potential,EXCLUDE,0.36,0.64,0.64,0.28,openai_decisions,7,2,4,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/50,excreta,,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,7,2,5,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9421,excretory system physiology,,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,7,2,6,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23361,extracellular space,intercellular space,EXCLUDE,0.48,0.52,0.52,0.04,openai_decisions,7,2,7,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8506,fungal anatomy,gills (mushrooms),EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,7,2,8,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/199526,growth performance,animal growth performance; plant growth performance,EXCLUDE,0.25,0.75,0.75,0.5,openai_decisions,7,2,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43988,growth promotion,,EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,7,2,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/45754,homeostasis,,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,7,2,11,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/37014,hormonal regulation,hormonal control; neurohormonal control; neurohormonal regulation,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,7,2,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/46758,hypothalamic regulation,,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,7,2,13,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/27901,metalloproteinases,EC 3.4.24; matrix metalloproteinases; metalloendopeptidases; metallopeptidases; metalloproteases,EXCLUDE,0.12,0.88,0.88,0.76,openai_decisions,7,2,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/204409,night vision,rod vision; scotopic vision; twilight vision,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,7,2,15,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/315677,nuclear lamina,,INCLUDE,0.62,0.38,0.62,0.24,openai_decisions,7,2,16,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/192484,opsin,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,7,2,17,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/56341,osmoregulation,osmoregulatory ability; osmoregulatory capacity; osmotic regulation; water balance regulation,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,7,2,18,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/57953,photoreceptors,stemmata,EXCLUDE,0.29,0.71,0.71,0.42,openai_decisions,7,2,19,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/1790,plant development,,EXCLUDE,0.2,0.8,0.8,0.6,openai_decisions,7,2,20,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20266,plant growth,growth rate (plants),EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,7,3,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58082,plant response,physiological response (plants),EXCLUDE,0.24,0.76,0.76,0.52,openai_decisions,7,3,2,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/55458,postprandial state,,EXCLUDE,0.26,0.74,0.74,0.48,openai_decisions,7,3,3,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43989,regrowth,,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,7,3,4,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/33063,resting periods,torpor,EXCLUDE,0.15,0.85,0.85,0.7,openai_decisions,7,3,5,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38995,retina,,EXCLUDE,0.09,0.91,0.91,0.82,openai_decisions,7,3,6,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/317435,retinitis pigmentosa,pigmentary retinopathy; rod cone dystrophies,EXCLUDE,0.04,0.96,0.96,0.92,openai_decisions,7,3,7,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/62433,sarcoplasmic reticulum,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,7,3,8,gpt-6-luna,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/43990,seasonal growth,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,7,3,9,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/199454,specific growth rate,,EXCLUDE,0.13,0.87,0.87,0.74,openai_decisions,7,3,10,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8250,starch granules,starch grains,EXCLUDE,0.17,0.83,0.83,0.66,openai_decisions,7,3,11,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/146600,stress response,response to stress,EXCLUDE,0.11,0.89,0.89,0.78,openai_decisions,7,3,12,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/18368,thermoregulation,body temperature regulation; core temperature regulation (physiology),EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,7,3,13,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/38869,urination,,EXCLUDE,0.07,0.93,0.93,0.86,openai_decisions,7,3,14,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/230064,cement glands,,EXCLUDE,0.47,0.53,0.53,0.06,openai_decisions,8,1,1,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1796,physical properties,physical properties of materials,EXCLUDE,0.14,0.86,0.86,0.72,openai_decisions,8,1,2,gpt-6-luna,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/53776,striated muscle,,INCLUDE,0.56,0.44,0.56,0.12,openai_decisions,8,1,3,gpt-6-luna,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9534,muscle tissues,,EXCLUDE,0.01,0.99,0.99,0.98,openai_decisions,9,1,1,gpt-6-luna,False,True,skos:broader; skos:narrower

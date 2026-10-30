@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1148",
+    "legacy_row_id": "Q2872789|Q1940786",
+    "seed_qid": "Q2872789",
+    "seed_label": "Autorité de Régulation des Communications Électroniques  des Postes et de la Distribution de la Presse",
+    "qid": "Q1940786",
+    "label": "quasi-autonomous non-governmental organisation",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q2872789",
+    "parent_label": "Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse",
+    "path": "Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse --instance of--> quasi-autonomous non-governmental organisation",
+    "uri": "http://www.wikidata.org/entity/Q1940786",
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

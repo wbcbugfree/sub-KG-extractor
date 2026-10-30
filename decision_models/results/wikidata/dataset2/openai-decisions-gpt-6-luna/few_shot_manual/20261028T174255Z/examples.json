@@ -1,0 +1,480 @@
+{
+  "dataset": 2,
+  "context_level": "path_simple",
+  "diversity_key": "property",
+  "selection_strategy": "manual_contrastive_revision",
+  "created_at": "2026-06-21T20:54:13Z",
+  "baseline_exclusion": {
+    "basis": "Rows are selected only when their (seed_qid, qid) pair is absent from the KGPrune/PBG-filtered reproduction runtime input.",
+    "runtime_input": "tmp/kgprune_bridge_path_analogy/inputs/dataset2_gold_decisions_filtered.csv",
+    "fixed_sample_excluded": "meta-prompting/samples/small/dataset2_path_simple_complete_seeds_sample60_seed11.csv",
+    "baseline_pair_count": 887,
+    "filtered_out_row_count": 95,
+    "sample_row_count_excluded": 0,
+    "usable_candidate_count": 84,
+    "usable_keep_count": 17,
+    "usable_prune_count": 67,
+    "runtime_filter_verification": "not revalidated in this checkout because dataset2_gold_decisions_filtered.csv is absent",
+    "sample_overlap_repair": "current examples rechecked against current small and large samples after replacement"
+  },
+  "property_coverage": {
+    "required_properties": [
+      "P31",
+      "P279",
+      "(-)P279"
+    ],
+    "covered_properties": [
+      "P31",
+      "P279",
+      "(-)P279"
+    ],
+    "missing_properties": [],
+    "replacements": []
+  },
+  "examples": [
+    {
+      "row_id": "row117",
+      "legacy_row_id": "Q129337|Q91908084",
+      "seed_qid": "Q129337",
+      "seed_label": "TGV",
+      "qid": "Q91908084",
+      "label": "passenger train service",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 1,
+      "reaching_property": "P279",
+      "reaching_property_label": "subclass of",
+      "parent_qid": "Q129337",
+      "parent_label": "TGV",
+      "path": "TGV --subclass of--> passenger train service",
+      "prompt_line": "- Seed: TGV\n  Candidate: candidate=passenger train service | path=TGV --subclass of--> passenger train service | decision=INCLUDE"
+    },
+    {
+      "row_id": "row125",
+      "legacy_row_id": "Q129337|Q60442637",
+      "seed_qid": "Q129337",
+      "seed_label": "TGV",
+      "qid": "Q60442637",
+      "label": "rapid transit train service",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q91908084",
+      "parent_label": "passenger train service",
+      "path": "TGV --subclass of--> passenger train service --has subclass--> rapid transit train service",
+      "prompt_line": "- Seed: TGV\n  Candidate: candidate=rapid transit train service | path=TGV --subclass of--> passenger train service --has subclass--> rapid transit train service | decision=INCLUDE"
+    },
+    {
+      "row_id": "row852",
+      "legacy_row_id": "Q337535|Q81989119",
+      "seed_qid": "Q337535",
+      "seed_label": "Steam",
+      "qid": "Q81989119",
+      "label": "video game distribution platform",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 1,
+      "reaching_property": "P31",
+      "reaching_property_label": "instance of",
+      "parent_qid": "Q337535",
+      "parent_label": "Steam",
+      "path": "Steam --instance of--> video game distribution platform",
+      "prompt_line": "- Seed: Steam\n  Candidate: candidate=video game distribution platform | path=Steam --instance of--> video game distribution platform | decision=INCLUDE"
+    },
+    {
+      "row_id": "row605",
+      "legacy_row_id": "Q38076|Q88985865",
+      "seed_qid": "Q38076",
+      "seed_label": "McDonald’s",
+      "qid": "Q88985865",
+      "label": "eating or drinking establishment",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q4830453",
+      "parent_label": "business",
+      "path": "McDonald’s --instance of--> business --has subclass--> eating or drinking establishment",
+      "prompt_line": "- Seed: McDonald’s\n  Candidate: candidate=eating or drinking establishment | path=McDonald’s --instance of--> business --has subclass--> eating or drinking establishment | decision=INCLUDE"
+    },
+    {
+      "row_id": "row216",
+      "legacy_row_id": "Q243|Q107096063",
+      "seed_qid": "Q243",
+      "seed_label": "Eiffel Tower",
+      "qid": "Q107096063",
+      "label": "Landmark tower",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q1440476",
+      "parent_label": "lattice tower",
+      "path": "Eiffel Tower --instance of--> lattice tower --has subclass--> Landmark tower",
+      "prompt_line": "- Seed: Eiffel Tower\n  Candidate: candidate=Landmark tower | path=Eiffel Tower --instance of--> lattice tower --has subclass--> Landmark tower | decision=INCLUDE"
+    },
+    {
+      "row_id": "row192",
+      "legacy_row_id": "Q324254|Q62210692",
+      "seed_qid": "Q324254",
+      "seed_label": "ontology",
+      "qid": "Q62210692",
+      "label": "OWL ontology",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 1,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q324254",
+      "parent_label": "ontology",
+      "path": "ontology --has subclass--> OWL ontology",
+      "prompt_line": "- Seed: ontology\n  Candidate: candidate=OWL ontology | path=ontology --has subclass--> OWL ontology | decision=INCLUDE"
+    },
+    {
+      "row_id": "row470",
+      "legacy_row_id": "Q196538|Q96782348",
+      "seed_qid": "Q196538",
+      "seed_label": "microscope",
+      "qid": "Q96782348",
+      "label": "scanning probe microscope",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 1,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q196538",
+      "parent_label": "microscope",
+      "path": "microscope --has subclass--> scanning probe microscope",
+      "prompt_line": "- Seed: microscope\n  Candidate: candidate=scanning probe microscope | path=microscope --has subclass--> scanning probe microscope | decision=INCLUDE"
+    },
+    {
+      "row_id": "row159",
+      "legacy_row_id": "Q2813|Q97322777",
+      "seed_qid": "Q2813",
+      "seed_label": "Coca-Cola",
+      "qid": "Q97322777",
+      "label": "Oasis",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q147538",
+      "parent_label": "soft drink",
+      "path": "Coca-Cola --instance of--> soft drink --has subclass--> Oasis",
+      "prompt_line": "- Seed: Coca-Cola\n  Candidate: candidate=Oasis | path=Coca-Cola --instance of--> soft drink --has subclass--> Oasis | decision=INCLUDE"
+    },
+    {
+      "row_id": "row271",
+      "legacy_row_id": "Q1152227|Q62722214",
+      "seed_qid": "Q1152227",
+      "seed_label": "pharmacogenomics",
+      "qid": "Q62722214",
+      "label": "branch of genetics",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q28598684",
+      "parent_label": "branch of biology",
+      "path": "pharmacogenomics --instance of--> branch of biology --has subclass--> branch of genetics",
+      "prompt_line": "- Seed: pharmacogenomics\n  Candidate: candidate=branch of genetics | path=pharmacogenomics --instance of--> branch of biology --has subclass--> branch of genetics | decision=INCLUDE"
+    },
+    {
+      "row_id": "row253",
+      "legacy_row_id": "Q52|Q107307154",
+      "seed_qid": "Q52",
+      "seed_label": "Wikipedia",
+      "qid": "Q107307154",
+      "label": "virtual place",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 1,
+      "reaching_property": "P31",
+      "reaching_property_label": "instance of",
+      "parent_qid": "Q52",
+      "parent_label": "Wikipedia",
+      "path": "Wikipedia --instance of--> virtual place",
+      "prompt_line": "- Seed: Wikipedia\n  Candidate: candidate=virtual place | path=Wikipedia --instance of--> virtual place | decision=INCLUDE"
+    },
+    {
+      "row_id": "row639",
+      "legacy_row_id": "Q38076|Q95598830",
+      "seed_qid": "Q38076",
+      "seed_label": "McDonald’s",
+      "qid": "Q95598830",
+      "label": "Large scale enterprises",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q6881511",
+      "parent_label": "enterprise",
+      "path": "McDonald’s --instance of--> enterprise --has subclass--> Large scale enterprises",
+      "prompt_line": "- Seed: McDonald’s\n  Candidate: candidate=Large scale enterprises | path=McDonald’s --instance of--> enterprise --has subclass--> Large scale enterprises | decision=INCLUDE"
+    },
+    {
+      "row_id": "row265",
+      "legacy_row_id": "Q1152227|Q99397804",
+      "seed_qid": "Q1152227",
+      "seed_label": "pharmacogenomics",
+      "qid": "Q99397804",
+      "label": "branch of zoology",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q28598684",
+      "parent_label": "branch of biology",
+      "path": "pharmacogenomics --instance of--> branch of biology --has subclass--> branch of zoology",
+      "prompt_line": "- Seed: pharmacogenomics\n  Candidate: candidate=branch of zoology | path=pharmacogenomics --instance of--> branch of biology --has subclass--> branch of zoology | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row503",
+      "legacy_row_id": "Q12130|Q104117291",
+      "seed_qid": "Q12130",
+      "seed_label": "Brittany",
+      "qid": "Q104117291",
+      "label": "region of Spain",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q3502482",
+      "parent_label": "cultural region",
+      "path": "Brittany --instance of--> cultural region --has subclass--> region of Spain",
+      "prompt_line": "- Seed: Brittany\n  Candidate: candidate=region of Spain | path=Brittany --instance of--> cultural region --has subclass--> region of Spain | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row523",
+      "legacy_row_id": "Q188273|Q96603167",
+      "seed_qid": "Q188273",
+      "seed_label": "Ubisoft",
+      "qid": "Q96603167",
+      "label": "tourism agency",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q43229",
+      "parent_label": "organization",
+      "path": "Ubisoft --instance of--> organization --has subclass--> tourism agency",
+      "prompt_line": "- Seed: Ubisoft\n  Candidate: candidate=tourism agency | path=Ubisoft --instance of--> organization --has subclass--> tourism agency | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row108",
+      "legacy_row_id": "Q1139866|Q101900049",
+      "seed_qid": "Q1139866",
+      "seed_label": "Dofus",
+      "qid": "Q101900049",
+      "label": "supernatural video game",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q7889",
+      "parent_label": "video game",
+      "path": "Dofus --instance of--> video game --has subclass--> supernatural video game",
+      "prompt_line": "- Seed: Dofus\n  Candidate: candidate=supernatural video game | path=Dofus --instance of--> video game --has subclass--> supernatural video game | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row545",
+      "legacy_row_id": "Q188273|Q65051450",
+      "seed_qid": "Q188273",
+      "seed_label": "Ubisoft",
+      "qid": "Q65051450",
+      "label": "Cycling organization",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q43229",
+      "parent_label": "organization",
+      "path": "Ubisoft --instance of--> organization --has subclass--> Cycling organization",
+      "prompt_line": "- Seed: Ubisoft\n  Candidate: candidate=Cycling organization | path=Ubisoft --instance of--> organization --has subclass--> Cycling organization | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row542",
+      "legacy_row_id": "Q188273|Q63437139",
+      "seed_qid": "Q188273",
+      "seed_label": "Ubisoft",
+      "qid": "Q63437139",
+      "label": "software project",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q43229",
+      "parent_label": "organization",
+      "path": "Ubisoft --instance of--> organization --has subclass--> software project",
+      "prompt_line": "- Seed: Ubisoft\n  Candidate: candidate=software project | path=Ubisoft --instance of--> organization --has subclass--> software project | decision=INCLUDE"
+    },
+    {
+      "row_id": "row525",
+      "legacy_row_id": "Q188273|Q100975433",
+      "seed_qid": "Q188273",
+      "seed_label": "Ubisoft",
+      "qid": "Q100975433",
+      "label": "arts residency",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 2,
+      "reaching_property": "(-)P279",
+      "reaching_property_label": "has subclass",
+      "parent_qid": "Q43229",
+      "parent_label": "organization",
+      "path": "Ubisoft --instance of--> organization --has subclass--> arts residency",
+      "prompt_line": "- Seed: Ubisoft\n  Candidate: candidate=arts residency | path=Ubisoft --instance of--> organization --has subclass--> arts residency | decision=EXCLUDE"
+    }
+  ],
+  "manual_revision": {
+    "reason": "Keep contrastive broad-parent examples for heterogeneous general-knowledge neighborhoods while removing examples that overlap current samples.",
+    "added_row_ids": [
+      "row8",
+      "row6"
+    ],
+    "removed_row_ids": [
+      "row114",
+      "row269"
+    ],
+    "fixed_sample": "meta-prompting\\samples\\small\\dataset2_path_simple_complete_seeds_sample60_seed11.csv",
+    "fixed_sample_row_overlap": 0,
+    "fixed_sample_qid_overlap": 0,
+    "runtime_filter_verification": "not revalidated in this checkout because dataset2_gold_decisions_filtered.csv is absent",
+    "sample_overlap_repaired": true,
+    "large_sample": "meta-prompting\\samples\\large\\dataset2_path_simple_complete_seeds_sample300_seed11.csv",
+    "large_sample_row_overlap": 0,
+    "large_sample_qid_overlap": 0
+  },
+  "sample_overlap_repair": {
+    "reason": "Replace Dataset 2 examples that overlap the current large sample while preserving the broad-category recall and contrastive-prune coverage.",
+    "replacements": [
+      {
+        "removed_row_id": "row379",
+        "removed_label": "trekking",
+        "replacement_row_id": "row253",
+        "replacement_label": "virtual place",
+        "decision": "INCLUDE",
+        "reason": "row379 appears in the large sample; row253 covers accepted broad/virtual-place classification, matching false negatives on website/online-resource rows."
+      },
+      {
+        "removed_row_id": "row103",
+        "removed_label": "multiplayer video game",
+        "replacement_row_id": "row639",
+        "replacement_label": "Large scale enterprises",
+        "decision": "INCLUDE",
+        "reason": "row103 appears in the large sample; row639 covers accepted broad business/enterprise classification, matching false negatives on organization/enterprise-like rows."
+      },
+      {
+        "removed_row_id": "row384",
+        "removed_label": "skiing",
+        "replacement_row_id": "row545",
+        "replacement_label": "Cycling organization",
+        "decision": "EXCLUDE",
+        "reason": "row384 appears in the large sample; row545 keeps a contrastive organization-prune example, matching false positives on broad organization subclasses."
+      }
+    ],
+    "checked_samples": [
+      "meta-prompting/samples/small/dataset2_path_simple_complete_seeds_sample60_seed11.csv",
+      "meta-prompting/samples/large/dataset2_path_simple_complete_seeds_sample300_seed11.csv"
+    ],
+    "row_overlap_after": 0,
+    "qid_overlap_after": 0,
+    "selection_basis": "replacement rows were reused from earlier filtered example packages with no row/QID overlap against current small and large samples"
+  },
+  "meta_example_pack": {
+    "intended_use": [
+      "meta_prompt_generation",
+      "meta_generated_few_shot_extraction"
+    ],
+    "base_examples_file": "meta-prompting/examples/dataset2_path_simple_recall_examples.json",
+    "base_example_count": 18,
+    "added_row_ids": [
+      "row542",
+      "row525"
+    ],
+    "example_count": 18,
+    "coverage_policy": {
+      "require_every_property_as_final_edge": true,
+      "require_both_decisions_when_eligible": true,
+      "record_full_path_coverage": true
+    },
+    "coverage": {
+      "required_properties": [
+        "P31",
+        "P279",
+        "(-)P279"
+      ],
+      "final_edge_by_decision": {
+        "P31": [
+          "INCLUDE"
+        ],
+        "P279": [
+          "INCLUDE"
+        ],
+        "(-)P279": [
+          "EXCLUDE",
+          "INCLUDE"
+        ]
+      },
+      "full_path_by_decision": {
+        "P31": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P279": [
+          "INCLUDE"
+        ],
+        "(-)P279": [
+          "EXCLUDE",
+          "INCLUDE"
+        ]
+      },
+      "eligible_filtered_final_edge_by_decision": {
+        "P31": [
+          "INCLUDE"
+        ],
+        "P279": [
+          "INCLUDE"
+        ],
+        "(-)P279": [
+          "EXCLUDE",
+          "INCLUDE"
+        ]
+      },
+      "unavailable_final_decisions": {
+        "P31": [
+          "EXCLUDE"
+        ],
+        "P279": [
+          "EXCLUDE"
+        ],
+        "(-)P279": []
+      }
+    },
+    "provenance_audit": {
+      "inherited_runtime_pair_overlap_row_ids": [],
+      "inherited_sample_row_overlap_row_ids": [],
+      "inherited_sample_qid_overlap_row_ids": [],
+      "new_runtime_pair_overlap_row_ids": [],
+      "new_sample_row_overlap_row_ids": [],
+      "new_sample_qid_overlap_row_ids": []
+    },
+    "removed_base_row_ids": [
+      "row8",
+      "row6"
+    ]
+  }
+}

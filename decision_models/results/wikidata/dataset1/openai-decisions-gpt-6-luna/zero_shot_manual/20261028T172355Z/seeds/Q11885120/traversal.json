@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q11885120",
+  "seed_label": "Vorbis",
+  "included_qids": [
+    "Q11885120",
+    "Q20198160",
+    "Q379637",
+    "Q682626"
+  ],
+  "pruned_qids": [
+    "Q17144022",
+    "Q300036",
+    "Q3415066",
+    "Q758853"
+  ],
+  "visited_qids": [
+    "Q11885120",
+    "Q17144022",
+    "Q20198160",
+    "Q300036",
+    "Q3415066",
+    "Q379637",
+    "Q682626",
+    "Q758853"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:04.313719+00:00",
+  "finished_at_utc": "2026-10-28T17:24:05.101216+00:00",
+  "wall_seconds": 0.7875045999971917,
+  "frontier_exhausted": true
+}

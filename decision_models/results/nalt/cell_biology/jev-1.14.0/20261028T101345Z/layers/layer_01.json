@@ -1,0 +1,1057 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2893",
+    "prefLabel": "acinar cells",
+    "altLabels": [
+      "acinous cells"
+    ],
+    "displayName": "acinar cells (acinous cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4218",
+    "prefLabel": "adipocytes",
+    "altLabels": [
+      "fat cells",
+      "lipocytes"
+    ],
+    "displayName": "adipocytes (fat cells, lipocytes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6264",
+    "prefLabel": "aleurone cells",
+    "altLabels": [],
+    "displayName": "aleurone cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10342",
+    "prefLabel": "antigen-presenting cells",
+    "altLabels": [
+      "antigen presenting cells"
+    ],
+    "displayName": "antigen-presenting cells (antigen presenting cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/266214",
+    "prefLabel": "artificial cells",
+    "altLabels": [
+      "synthetic cells"
+    ],
+    "displayName": "artificial cells (synthetic cells)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15235",
+    "prefLabel": "bacteriocytes",
+    "altLabels": [
+      "mycetocytes"
+    ],
+    "displayName": "bacteriocytes (mycetocytes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18061",
+    "prefLabel": "blood cells",
+    "altLabels": [],
+    "displayName": "blood cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20383",
+    "prefLabel": "bundle sheath cells",
+    "altLabels": [],
+    "displayName": "bundle sheath cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23441",
+    "prefLabel": "cell transplantation",
+    "altLabels": [],
+    "displayName": "cell transplantation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.16,
+    "p_exclude": 0.84,
+    "selected_probability": 0.84,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/206983",
+    "prefLabel": "cell viability",
+    "altLabels": [
+      "cell survival",
+      "cellular viability"
+    ],
+    "displayName": "cell viability (cell survival, cellular viability)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/226485",
+    "prefLabel": "cellular microenvironment",
+    "altLabels": [
+      "cell microenvironment"
+    ],
+    "displayName": "cellular microenvironment (cell microenvironment)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/22715",
+    "prefLabel": "chondrocytes",
+    "altLabels": [
+      "cartilage cells"
+    ],
+    "displayName": "chondrocytes (cartilage cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23458",
+    "prefLabel": "chromaffin cells",
+    "altLabels": [],
+    "displayName": "chromaffin cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/191628",
+    "prefLabel": "chromatophores",
+    "altLabels": [],
+    "displayName": "chromatophores",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/322529",
+    "prefLabel": "coelomocytes",
+    "altLabels": [],
+    "displayName": "coelomocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23380",
+    "prefLabel": "cultured cells",
+    "altLabels": [],
+    "displayName": "cultured cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23459",
+    "prefLabel": "endothelial cells",
+    "altLabels": [],
+    "displayName": "endothelial cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23460",
+    "prefLabel": "epithelial cells",
+    "altLabels": [],
+    "displayName": "epithelial cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23461",
+    "prefLabel": "eukaryotic cells",
+    "altLabels": [
+      "eucaryotes",
+      "eucaryotic cells",
+      "eukaryotes"
+    ],
+    "displayName": "eukaryotic cells (eucaryotes, eucaryotic cells, eukaryotes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23462",
+    "prefLabel": "fibroblasts",
+    "altLabels": [
+      "dermal fibroblasts",
+      "fibroblast cells"
+    ],
+    "displayName": "fibroblasts (dermal fibroblasts, fibroblast cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23463",
+    "prefLabel": "germ cells",
+    "altLabels": [
+      "gametes",
+      "germ line",
+      "germline",
+      "reproductive cells",
+      "sex cells",
+      "sexual cells"
+    ],
+    "displayName": "germ cells (gametes, germ line, germline, reproductive cells, sex cells, sexual cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23464",
+    "prefLabel": "giant cells",
+    "altLabels": [
+      "polykaryocytes",
+      "syncytia",
+      "syncytium"
+    ],
+    "displayName": "giant cells (polykaryocytes, syncytia, syncytium)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23465",
+    "prefLabel": "gonadotropic cells",
+    "altLabels": [],
+    "displayName": "gonadotropic cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23466",
+    "prefLabel": "granulosa cells",
+    "altLabels": [],
+    "displayName": "granulosa cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23467",
+    "prefLabel": "guard cells",
+    "altLabels": [],
+    "displayName": "guard cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23468",
+    "prefLabel": "hemocytes",
+    "altLabels": [
+      "haemocytes"
+    ],
+    "displayName": "hemocytes (haemocytes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6863",
+    "prefLabel": "islets of Langerhans",
+    "altLabels": [
+      "alpha cells (pancreatic)",
+      "beta cells (pancreatic)",
+      "delta cells (pancreatic)",
+      "islet cells",
+      "pancreas islets",
+      "pancreatic B cells",
+      "pancreatic D cells",
+      "pancreatic alpha cells",
+      "pancreatic beta cells",
+      "pancreatic delta cells",
+      "pancreatic islets",
+      "pancreatic polypeptide cells"
+    ],
+    "displayName": "islets of Langerhans (alpha cells (pancreatic), beta cells (pancreatic), delta cells (pancreatic), islet cells, pancreas islets, pancreatic B cells, pancreatic D cells, pancreatic alpha cells, pancreatic beta cells, pancreatic delta cells, pancreatic islets, pancreatic polypeptide cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23472",
+    "prefLabel": "Leydig cells",
+    "altLabels": [
+      "testicular interstitial cells"
+    ],
+    "displayName": "Leydig cells (testicular interstitial cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23473",
+    "prefLabel": "luteal cells",
+    "altLabels": [],
+    "displayName": "luteal cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23474",
+    "prefLabel": "mast cells",
+    "altLabels": [],
+    "displayName": "mast cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23476",
+    "prefLabel": "myocytes",
+    "altLabels": [
+      "muscle cells"
+    ],
+    "displayName": "myocytes (muscle cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.83,
+    "p_exclude": 0.17,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/246543",
+    "prefLabel": "neoplasm cells",
+    "altLabels": [
+      "cancer cells",
+      "circulating cancer cells",
+      "circulating neoplastic cells",
+      "circulating tumor cells",
+      "circulating tumour cells",
+      "neoplasma cells",
+      "neoplastic cells",
+      "tumor cells",
+      "tumour cells"
+    ],
+    "displayName": "neoplasm cells (cancer cells, circulating cancer cells, circulating neoplastic cells, circulating tumor cells, circulating tumour cells, neoplasma cells, neoplastic cells, tumor cells, tumour cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23477",
+    "prefLabel": "neurosecretory cells",
+    "altLabels": [],
+    "displayName": "neurosecretory cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/300304",
+    "prefLabel": "nurse cells",
+    "altLabels": [
+      "nursing cells"
+    ],
+    "displayName": "nurse cells (nursing cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 14,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23478",
+    "prefLabel": "osteoblasts",
+    "altLabels": [
+      "osteoblastic cells"
+    ],
+    "displayName": "osteoblasts (osteoblastic cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 15,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18534",
+    "prefLabel": "osteoclasts",
+    "altLabels": [],
+    "displayName": "osteoclasts",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 16,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23479",
+    "prefLabel": "phagocytes",
+    "altLabels": [
+      "phagocytic cells"
+    ],
+    "displayName": "phagocytes (phagocytic cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 17,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/328577",
+    "prefLabel": "plant root cells",
+    "altLabels": [
+      "root cells"
+    ],
+    "displayName": "plant root cells (root cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 18,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15097",
+    "prefLabel": "prokaryotic cells",
+    "altLabels": [
+      "procaryotes",
+      "procaryotic cells",
+      "prokaryotes"
+    ],
+    "displayName": "prokaryotic cells (procaryotes, procaryotic cells, prokaryotes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 19,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14271",
+    "prefLabel": "Schwann cells",
+    "altLabels": [],
+    "displayName": "Schwann cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 2,
+    "candidate_number": 20,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23481",
+    "prefLabel": "Sertoli cells",
+    "altLabels": [],
+    "displayName": "Sertoli cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23482",
+    "prefLabel": "somatic cells",
+    "altLabels": [],
+    "displayName": "somatic cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 1.0,
+    "p_include": 1.0,
+    "p_exclude": 0.0,
+    "selected_probability": 1.0,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23483",
+    "prefLabel": "splenocytes",
+    "altLabels": [
+      "spleen cells"
+    ],
+    "displayName": "splenocytes (spleen cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15200",
+    "prefLabel": "spores",
+    "altLabels": [],
+    "displayName": "spores",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.47,
+    "p_exclude": 0.53,
+    "selected_probability": 0.53,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/149090",
+    "prefLabel": "stromal cells",
+    "altLabels": [],
+    "displayName": "stromal cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/323988",
+    "prefLabel": "tenocytes",
+    "altLabels": [],
+    "displayName": "tenocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23486",
+    "prefLabel": "teratocytes",
+    "altLabels": [],
+    "displayName": "teratocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.83,
+    "p_exclude": 0.17,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23487",
+    "prefLabel": "thecal cells",
+    "altLabels": [],
+    "displayName": "thecal cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23488",
+    "prefLabel": "vegetative cells",
+    "altLabels": [],
+    "displayName": "vegetative cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 3,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  }
+]

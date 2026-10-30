@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q168403",
+  "seed_label": "myopia",
+  "included_qids": [
+    "Q168403",
+    "Q177895",
+    "Q18554189",
+    "Q18554630",
+    "Q2470609",
+    "Q2634782",
+    "Q470427",
+    "Q55789206",
+    "Q737460"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q168403",
+    "Q177895",
+    "Q18554189",
+    "Q18554630",
+    "Q2470609",
+    "Q2634782",
+    "Q470427",
+    "Q55789206",
+    "Q737460"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:42:40.011283+00:00",
+  "finished_at_utc": "2026-10-28T17:42:40.972082+00:00",
+  "wall_seconds": 0.9608058000012534,
+  "frontier_exhausted": true
+}

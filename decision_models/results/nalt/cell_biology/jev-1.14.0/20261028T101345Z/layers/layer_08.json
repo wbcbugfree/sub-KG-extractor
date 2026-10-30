@@ -1,0 +1,126 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/189796",
+    "prefLabel": "bacterial growth",
+    "altLabels": [],
+    "displayName": "bacterial growth",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.48,
+    "p_exclude": 0.52,
+    "selected_probability": 0.52,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/316504",
+    "prefLabel": "bioadhesives",
+    "altLabels": [
+      "mucoadhesives"
+    ],
+    "displayName": "bioadhesives (mucoadhesives)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.27,
+    "p_exclude": 0.73,
+    "selected_probability": 0.73,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/230064",
+    "prefLabel": "cement glands",
+    "altLabels": [],
+    "displayName": "cement glands",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.24,
+    "p_exclude": 0.76,
+    "selected_probability": 0.76,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/338845",
+    "prefLabel": "microbial adhesion",
+    "altLabels": [
+      "microbial adherence"
+    ],
+    "displayName": "microbial adhesion (microbial adherence)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/316514",
+    "prefLabel": "mucoadhesion",
+    "altLabels": [
+      "muco-adhesion",
+      "muco-adhesiveness",
+      "mucoadhesiveness"
+    ],
+    "displayName": "mucoadhesion (muco-adhesion, muco-adhesiveness, mucoadhesiveness)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/35050",
+    "prefLabel": "skeletal muscle",
+    "altLabels": [],
+    "displayName": "skeletal muscle",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 8,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  }
+]

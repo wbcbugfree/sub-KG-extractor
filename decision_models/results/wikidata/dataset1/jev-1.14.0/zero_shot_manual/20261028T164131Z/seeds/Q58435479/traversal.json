@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q58435479",
+  "seed_label": "Security Risk Analysis",
+  "included_qids": [
+    "Q13442814",
+    "Q58435479"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q13442814",
+    "Q58435479"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:18.653784+00:00",
+  "finished_at_utc": "2026-10-28T16:42:18.935007+00:00",
+  "wall_seconds": 0.281225099999574,
+  "frontier_exhausted": true
+}

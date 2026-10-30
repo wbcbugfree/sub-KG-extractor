@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3940",
+    "legacy_row_id": "Q192060|Q96247293",
+    "seed_qid": "Q192060",
+    "seed_label": "knowledge management",
+    "qid": "Q96247293",
+    "label": "type of management",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q192060",
+    "parent_label": "knowledge management",
+    "path": "knowledge management --instance of--> type of management",
+    "uri": "http://www.wikidata.org/entity/Q96247293",
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

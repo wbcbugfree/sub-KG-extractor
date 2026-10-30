@@ -1,0 +1,23 @@
+{
+  "command": [
+    "C:\\Users\\wang479\\miniconda3\\python.exe",
+    "-B",
+    "-u",
+    "decision_models/openai_decisions_wikidata.py",
+    "--dataset",
+    "2",
+    "--batch-size",
+    "20",
+    "--workers",
+    "5",
+    "--max-iterations",
+    "10",
+    "--output-dir",
+    "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\results\\wikidata\\dataset2\\openai-decisions-gpt-6-luna\\zero_shot_manual\\20261028T172330Z"
+  ],
+  "cwd": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor",
+  "started_at_utc": "2026-10-28T17:23:30.911353+00:00",
+  "finished_at_utc": "2026-10-28T17:23:55.008692+00:00",
+  "process_wall_seconds": 24.09734269999899,
+  "exit_code": 0
+}

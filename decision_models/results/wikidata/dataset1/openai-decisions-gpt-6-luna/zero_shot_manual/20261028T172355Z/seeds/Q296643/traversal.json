@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q296643",
+  "seed_label": "Association of Radio Industries and Businesses",
+  "included_qids": [
+    "Q1328899",
+    "Q15277759",
+    "Q296643",
+    "Q4830453",
+    "Q783794"
+  ],
+  "pruned_qids": [
+    "Q105547053",
+    "Q2566474",
+    "Q294801",
+    "Q51885731",
+    "Q52162350",
+    "Q659206",
+    "Q7835148"
+  ],
+  "visited_qids": [
+    "Q105547053",
+    "Q1328899",
+    "Q15277759",
+    "Q2566474",
+    "Q294801",
+    "Q296643",
+    "Q4830453",
+    "Q51885731",
+    "Q52162350",
+    "Q659206",
+    "Q7835148",
+    "Q783794"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 1,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:40.539702+00:00",
+  "finished_at_utc": "2026-10-28T17:24:41.360111+00:00",
+  "wall_seconds": 0.8204139000008581,
+  "frontier_exhausted": true
+}

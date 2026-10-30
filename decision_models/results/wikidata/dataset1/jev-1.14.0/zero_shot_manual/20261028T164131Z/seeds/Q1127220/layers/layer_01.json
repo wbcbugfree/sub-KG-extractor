@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1351",
+    "legacy_row_id": "Q1127220|Q18558685",
+    "seed_qid": "Q1127220",
+    "seed_label": "Conseil supérieur de l'audiovisuel",
+    "qid": "Q18558685",
+    "label": "French independent public authority",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1127220",
+    "parent_label": "Conseil supérieur de l'audiovisuel",
+    "path": "Conseil supérieur de l'audiovisuel --instance of--> French independent public authority",
+    "uri": "http://www.wikidata.org/entity/Q18558685",
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

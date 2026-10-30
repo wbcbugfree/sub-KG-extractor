@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4801",
+    "legacy_row_id": "Q485643|Q1481177",
+    "seed_qid": "Q485643",
+    "seed_label": "customer relationship management",
+    "qid": "Q1481177",
+    "label": "management style",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q96247293",
+    "parent_label": "type of management",
+    "path": "customer relationship management --instance of--> type of management --has subclass--> management style",
+    "uri": "http://www.wikidata.org/entity/Q1481177",
+    "classification": "EXCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.48,
+    "p_exclude": 0.52,
+    "selected_probability": 0.52,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

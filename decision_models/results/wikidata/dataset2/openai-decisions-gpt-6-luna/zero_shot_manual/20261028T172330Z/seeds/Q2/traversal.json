@@ -1,0 +1,62 @@
+{
+  "seed_qid": "Q2",
+  "seed_label": "Earth",
+  "included_qids": [
+    "Q1140140",
+    "Q128207",
+    "Q15129745",
+    "Q2",
+    "Q205895",
+    "Q2670101",
+    "Q327757",
+    "Q3504248",
+    "Q399984",
+    "Q82794"
+  ],
+  "pruned_qids": [
+    "Q10535394",
+    "Q1200957",
+    "Q198782",
+    "Q486972",
+    "Q7925010"
+  ],
+  "visited_qids": [
+    "Q10535394",
+    "Q1140140",
+    "Q1200957",
+    "Q128207",
+    "Q15129745",
+    "Q198782",
+    "Q2",
+    "Q205895",
+    "Q2670101",
+    "Q327757",
+    "Q3504248",
+    "Q399984",
+    "Q486972",
+    "Q7925010",
+    "Q82794"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 11,
+      "included": 6,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:39.501440+00:00",
+  "finished_at_utc": "2026-10-28T17:23:40.401969+00:00",
+  "wall_seconds": 0.9005353999964427,
+  "frontier_exhausted": true
+}

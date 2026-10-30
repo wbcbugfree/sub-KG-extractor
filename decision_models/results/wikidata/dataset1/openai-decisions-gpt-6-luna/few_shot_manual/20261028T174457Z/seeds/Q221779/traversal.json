@@ -1,0 +1,78 @@
+{
+  "seed_qid": "Q221779",
+  "seed_label": "European Conference of Postal and Telecommunications Administrations",
+  "included_qids": [
+    "Q1065",
+    "Q1335818",
+    "Q16926150",
+    "Q221779",
+    "Q29300714",
+    "Q484652"
+  ],
+  "pruned_qids": [
+    "Q104907577",
+    "Q111006127",
+    "Q111333095",
+    "Q1262438",
+    "Q1345691",
+    "Q15285626",
+    "Q15925165",
+    "Q170156",
+    "Q18635291",
+    "Q28346",
+    "Q4120211",
+    "Q4936585",
+    "Q5570909",
+    "Q56296302",
+    "Q6053760",
+    "Q9690903",
+    "Q993160"
+  ],
+  "visited_qids": [
+    "Q104907577",
+    "Q1065",
+    "Q111006127",
+    "Q111333095",
+    "Q1262438",
+    "Q1335818",
+    "Q1345691",
+    "Q15285626",
+    "Q15925165",
+    "Q16926150",
+    "Q170156",
+    "Q18635291",
+    "Q221779",
+    "Q28346",
+    "Q29300714",
+    "Q4120211",
+    "Q484652",
+    "Q4936585",
+    "Q5570909",
+    "Q56296302",
+    "Q6053760",
+    "Q9690903",
+    "Q993160"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 21,
+      "included": 4,
+      "excluded": 17,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:42.514788+00:00",
+  "finished_at_utc": "2026-10-28T17:45:44.162996+00:00",
+  "wall_seconds": 1.6482085000025108,
+  "frontier_exhausted": true
+}

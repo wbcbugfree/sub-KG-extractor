@@ -1,0 +1,68 @@
+{
+  "started_at_utc": "2026-10-28T10:16:02.702868+00:00",
+  "status": "complete",
+  "benchmark_name": "pest_management",
+  "requested_model": "jev-1.14.0",
+  "source_path": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\tmp\\nalt-baseline-source\\nalt-full_dwn_20240716.rdf",
+  "source_sha256": "71a3e2e5ca84e5f680e1ebbf3fa7a5892415c58de716334b5add27b54af6d168",
+  "python": "3.13.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "dependencies": {
+    "rdflib": "7.6.0",
+    "pydantic": "2.13.4",
+    "openai": "3.10.0"
+  },
+  "code_hashes": {
+    "decision_models/jev_nalt.py": "e4d96ef6825826519916f21beab6575278bff65c89441dfcecaecf299ff62ef4",
+    "usecase/subkg_extractor_nalt.py": "10485acb775b7e26c614cbf4d8204e39ee689148c18b6c49697e5d5289e23386",
+    "decision_models/check_jev_api.py": "3bd869c51043d83f3d0462d45ddb4814f0b8677fa490c7fa389f71f279dc9c4b"
+  },
+  "pricing": {
+    "checked_on": "2026-10-28",
+    "source": "https://docs.typesafe.ai/models",
+    "input_usd_per_million": 0.042,
+    "output_usd_per_million": 0
+  },
+  "settings": {
+    "batch_size": 20,
+    "max_workers": 5,
+    "max_iterations": 20,
+    "request_timeout_seconds": 60,
+    "transport": "curl",
+    "max_attempts": 3,
+    "primitive": "choice",
+    "decision_rule": "provider Choice (argmax)",
+    "confidence_gating": false,
+    "fallback_provider": null
+  },
+  "code_snapshots": {
+    "decision_models/jev_nalt.py": "decision_models/code_snapshots/jev_nalt_e4d96ef6825826519916f21beab6575278bff65c89441dfcecaecf299ff62ef4.py",
+    "usecase/subkg_extractor_nalt.py": "decision_models/code_snapshots/subkg_extractor_nalt_10485acb775b7e26c614cbf4d8204e39ee689148c18b6c49697e5d5289e23386.py",
+    "decision_models/check_jev_api.py": "decision_models/code_snapshots/check_jev_api_3bd869c51043d83f3d0462d45ddb4814f0b8677fa490c7fa389f71f279dc9c4b.py"
+  },
+  "transport_version": "curl 8.21.0 (Windows) libcurl/8.21.0 Schannel zlib/1.3.2 WinIDN WinLDAP",
+  "prompt_path": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\usecase\\prompts\\manual\\pest_management.md",
+  "prompt_file_sha256": "ec7bf635305979e872345c3c92c59b481cf3284e1793d112997d5037243b0e84",
+  "transmitted_prompt_sha256": "ec7bf635305979e872345c3c92c59b481cf3284e1793d112997d5037243b0e84",
+  "examples_path": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\usecase\\prompts\\examples\\pest_management_label_meta_examples.json",
+  "examples_sha256": "5a7fc93173f623f0a2ebab06f57f27eea6d2580d6ddd6c1e6e79f6d2cc07d7bd",
+  "preset": {
+    "gold_root_label": "Pest management",
+    "gold_root_uri": "https://lod.nal.usda.gov/nalt/34011",
+    "seed_labels": [
+      "pest control",
+      "pesticides"
+    ],
+    "output_subdir": "pest",
+    "benchmark_name": "pest_management"
+  },
+  "graph_parse_and_index_seconds": 49.054742799999076,
+  "baseline_replay_seconds": 2.416418699998758,
+  "live_inference_started_at_utc": "2026-10-28T10:16:55.163851+00:00",
+  "preparation_wall_seconds": 52.4635472000009,
+  "finished_at_utc": "2026-10-28T10:17:07.677769+00:00",
+  "elapsed_seconds": 64.97606790000282,
+  "response_models": [
+    "jev-1.14.0"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "command": [
+    "C:\\Users\\wang479\\miniconda3\\python.exe",
+    "-u",
+    "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\jev_nalt.py",
+    "--benchmark",
+    "soil_science",
+    "--model",
+    "jev-1.14.0",
+    "--transport",
+    "curl",
+    "--output-dir",
+    "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\results\\nalt\\soil_science\\jev-1.14.0\\20261028T101345Z"
+  ],
+  "started_at_utc": "2026-10-28T10:17:10.806997+00:00",
+  "finished_at_utc": "2026-10-28T10:18:29.672886+00:00",
+  "exit_code": 0,
+  "process_wall_seconds": 78.86589480000112,
+  "status": "complete",
+  "run_dir": "decision_models/results/nalt/soil_science/jev-1.14.0/20261028T101345Z",
+  "orchestrator_snapshot": "decision_models/code_snapshots/run_nalt_remaining_82fb744d006dd147fb9321084d8d8cccbe215ac5908cd6cf9602a25ee3d20d6b.py"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row884",
+    "legacy_row_id": "Q14922|Q1368898",
+    "seed_qid": "Q14922",
+    "seed_label": "table football",
+    "qid": "Q1368898",
+    "label": "game of skill",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q14922",
+    "parent_label": "table football",
+    "path": "table football --instance of--> game of skill",
+    "uri": "http://www.wikidata.org/entity/Q1368898",
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

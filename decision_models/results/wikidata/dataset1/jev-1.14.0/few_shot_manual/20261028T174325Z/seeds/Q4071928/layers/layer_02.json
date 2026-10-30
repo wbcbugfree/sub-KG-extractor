@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1630",
+    "legacy_row_id": "Q4071928|Q5197870",
+    "seed_qid": "Q4071928",
+    "seed_label": "cyberattack",
+    "qid": "Q5197870",
+    "label": "cyberwarfare by Russia",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q849340",
+    "parent_label": "cyberwarfare",
+    "path": "cyberattack --instance of--> cyberwarfare --has subclass--> cyberwarfare by Russia",
+    "uri": "http://www.wikidata.org/entity/Q5197870",
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

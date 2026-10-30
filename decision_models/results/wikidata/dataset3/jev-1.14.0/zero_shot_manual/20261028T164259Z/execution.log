@@ -1,0 +1,314 @@
+{
+  "scored_rows": 2014,
+  "aligned_rows": 1384,
+  "seeds": 27,
+  "traversal_decision_rows": 2088,
+  "skipped_rows_absent_from_local_graph": 23,
+  "held_out_example_rows": 21,
+  "examples_in_prompt": false,
+  "prompt_examples_count": 0,
+  "evaluation_source": "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/rows.csv"
+}
+Running 27 BFS seeds with 5 parallel seed workers ...
+Jev layer 1: 27 candidates in 2 live requests
+Jev layer 1: 10 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requests
+Jev layer 1: 7 candidates in 1 live requests
+Jev layer 1: 172 candidates in 9 live requests
+Jev layer 1: 65 candidates in 4 live requests
+Completed BFS seed 1/27
+Jev layer 2: 7 candidates in 1 live requests
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 1: 9 candidates in 1 live requests
+Completed BFS seed 2/27
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 3/27
+
+Jev layer 2: 52 candidates in 3 live requests
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 2: 74 candidates in 4 live requests
+Jev layer 1: 33 candidates in 2 live requestsCompleted BFS seed 4/27
+
+Jev layer 2: 41 candidates in 3 live requests
+Jev layer 3: 22 candidates in 2 live requests
+Jev layer 2: 53 candidates in 3 live requests
+Jev layer 3: 32 candidates in 2 live requests
+Jev layer 4: 5 candidates in 1 live requests
+Jev layer 1: 7 candidates in 1 live requests
+Completed BFS seed 5/27
+Jev layer 3: 43 candidates in 3 live requests
+Jev layer 2: 29 candidates in 2 live requests
+Jev layer 3: 43 candidates in 3 live requests
+Jev layer 4: 15 candidates in 1 live requests
+Jev layer 5: 19 candidates in 1 live requests
+Jev layer 2: 237 candidates in 12 live requests
+Jev layer 3: 22 candidates in 2 live requests
+Jev layer 1: 17 candidates in 1 live requestsCompleted BFS seed 6/27
+
+Jev layer 1: 15 candidates in 1 live requestsCompleted BFS seed 7/27
+
+Jev layer 4: 14 candidates in 1 live requests
+Jev layer 1: 2 candidates in 1 live requests
+Completed BFS seed 8/27
+Jev layer 2: 39 candidates in 2 live requests
+Jev layer 1: 14 candidates in 1 live requestsCompleted BFS seed 9/27
+
+Jev layer 1: 1 candidates in 1 live requests
+Completed BFS seed 10/27
+Jev layer 2: 2 candidates in 1 live requests
+Jev layer 1: 27 candidates in 2 live requestsCompleted BFS seed 11/27
+
+Jev layer 2: 21 candidates in 2 live requests
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 12/27
+
+Jev layer 1: 5 candidates in 1 live requests
+Completed BFS seed 13/27
+Jev layer 3: 23 candidates in 2 live requests
+Jev layer 3: 9 candidates in 1 live requests
+Jev layer 2: 5 candidates in 1 live requests
+Jev layer 2: 9 candidates in 1 live requests
+Jev layer 3: 6 candidates in 1 live requests
+Jev layer 1: 6 candidates in 1 live requestsCompleted BFS seed 14/27
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 15/27
+
+Jev layer 4: 4 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requests
+Completed BFS seed 16/27
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 1: 5 candidates in 1 live requests
+Completed BFS seed 17/27
+Jev layer 1: 26 candidates in 2 live requests
+Completed BFS seed 18/27
+Jev layer 2: 10 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requests
+Completed BFS seed 19/27Jev layer 2: 5 candidates in 1 live requests
+
+Jev layer 1: 5 candidates in 1 live requests
+Completed BFS seed 20/27
+Jev layer 3: 14 candidates in 1 live requests
+Jev layer 3: 1 candidates in 1 live requests
+Jev layer 2: 7 candidates in 1 live requests
+Jev layer 4: 2 candidates in 1 live requests
+Jev layer 1: 15 candidates in 1 live requestsCompleted BFS seed 21/27
+
+Jev layer 4: 11 candidates in 1 live requests
+Jev layer 1: 30 candidates in 2 live requestsCompleted BFS seed 22/27
+
+Completed BFS seed 23/27
+Jev layer 2: 20 candidates in 1 live requests
+Jev layer 5: 29 candidates in 2 live requests
+Jev layer 3: 51 candidates in 3 live requests
+Jev layer 2: 58 candidates in 3 live requests
+Completed BFS seed 24/27
+Jev layer 3: 79 candidates in 4 live requests
+Jev layer 4: 40 candidates in 2 live requests
+Jev layer 3: 25 candidates in 2 live requests
+Jev layer 5: 28 candidates in 2 live requests
+Jev layer 4: 14 candidates in 1 live requests
+Jev layer 4: 8 candidates in 1 live requests
+Jev layer 5: 5 candidates in 1 live requests
+Completed BFS seed 25/27
+Completed BFS seed 26/27
+Completed BFS seed 27/27
+{
+  "output_dir": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\results\\wikidata\\dataset3\\jev-1.14.0\\zero_shot_manual\\20261028T164259Z",
+  "metrics": {
+    "full_common": {
+      "pooled": {
+        "total": 2014,
+        "unmatched": 0,
+        "tp": 645,
+        "fp": 249,
+        "fn": 221,
+        "tn": 899,
+        "precision": 0.7214765100671141,
+        "recall": 0.7448036951501155,
+        "f1": 0.7329545454545454,
+        "accuracy": 0.7666335650446872
+      },
+      "fold_coverage": null,
+      "folds": null,
+      "weighted_fold": null
+    },
+    "aligned": {
+      "pooled": {
+        "total": 1384,
+        "unmatched": 0,
+        "tp": 376,
+        "fp": 207,
+        "fn": 154,
+        "tn": 647,
+        "precision": 0.6449399656946827,
+        "recall": 0.7094339622641509,
+        "f1": 0.6756513926325247,
+        "accuracy": 0.7391618497109826
+      },
+      "fold_coverage": {
+        "expected": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "present": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "missing": [],
+        "complete": true
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "rows": 506,
+          "scored_rows": 506,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 506,
+            "unmatched": 0,
+            "tp": 169,
+            "fp": 47,
+            "fn": 70,
+            "tn": 220,
+            "precision": 0.7824074074074074,
+            "recall": 0.7071129707112971,
+            "f1": 0.7428571428571428,
+            "accuracy": 0.7687747035573123
+          }
+        },
+        {
+          "fold": 1,
+          "rows": 661,
+          "scored_rows": 661,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 661,
+            "unmatched": 0,
+            "tp": 158,
+            "fp": 144,
+            "fn": 55,
+            "tn": 304,
+            "precision": 0.5231788079470199,
+            "recall": 0.7417840375586855,
+            "f1": 0.6135922330097088,
+            "accuracy": 0.6989409984871406
+          }
+        },
+        {
+          "fold": 2,
+          "rows": 19,
+          "scored_rows": 19,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 19,
+            "unmatched": 0,
+            "tp": 6,
+            "fp": 1,
+            "fn": 1,
+            "tn": 11,
+            "precision": 0.8571428571428571,
+            "recall": 0.8571428571428571,
+            "f1": 0.8571428571428571,
+            "accuracy": 0.8947368421052632
+          }
+        },
+        {
+          "fold": 3,
+          "rows": 84,
+          "scored_rows": 84,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 84,
+            "unmatched": 0,
+            "tp": 22,
+            "fp": 1,
+            "fn": 7,
+            "tn": 54,
+            "precision": 0.9565217391304348,
+            "recall": 0.7586206896551724,
+            "f1": 0.8461538461538461,
+            "accuracy": 0.9047619047619048
+          }
+        },
+        {
+          "fold": 4,
+          "rows": 114,
+          "scored_rows": 114,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 114,
+            "unmatched": 0,
+            "tp": 21,
+            "fp": 14,
+            "fn": 21,
+            "tn": 58,
+            "precision": 0.6,
+            "recall": 0.5,
+            "f1": 0.5454545454545454,
+            "accuracy": 0.6929824561403509
+          }
+        }
+      ],
+      "weighted_fold": {
+        "weighting": "scored_decision_rows",
+        "fold_count": 5,
+        "total_weight": 1384,
+        "precision": 0.6551682663105485,
+        "std_precision": 0.1433947318642484,
+        "recall": 0.7117978787738123,
+        "std_recall": 0.0674946242006125,
+        "f1": 0.6726984363075053,
+        "std_f1": 0.08423116716439892,
+        "accuracy": 0.7391618497109826,
+        "std_accuracy": 0.05714532384252095
+      }
+    },
+    "visited_scored_probability_metrics": {
+      "rows": 1698,
+      "excluded_unvisited_rows": 316,
+      "brier_score": 0.12878032979976445,
+      "log_loss": 0.3994684033905118
+    }
+  },
+  "usage": {
+    "live_bfs_wall_seconds": 11.544013399994583,
+    "logical_requests": 131,
+    "successful_requests": 131,
+    "request_attempts": 131,
+    "retries": 0,
+    "failed_attempts": 0,
+    "attempts_without_usage": 0,
+    "summed_attempt_latency_seconds": 49.87546510003449,
+    "median_success_latency_seconds": 0.39258739999786485,
+    "p95_success_latency_seconds": 0.45287129998905584,
+    "max_success_latency_seconds": 0.5884167000040179,
+    "usage_complete_for_successes": true,
+    "usage_complete_for_attempts": true,
+    "input_tokens": 2622742,
+    "output_tokens": 64391,
+    "total_tokens": 2687133,
+    "successful_input_tokens": 2622742,
+    "successful_output_tokens": 64391,
+    "input_usd_per_million": 0.042,
+    "output_usd_per_million": 0,
+    "estimated_recorded_cost_usd": 0.110155164,
+    "estimated_success_cost_usd": 0.110155164,
+    "cost_basis": "Published price checked 2026-10-28; estimate, not an invoice. Missing usage is not zero usage.",
+    "price_source": "https://docs.typesafe.ai/models",
+    "price_checked_on": "2026-10-28",
+    "response_models": [
+      "jev-1.14.0"
+    ],
+    "candidate_decisions": 1756,
+    "scored_decisions": 1698,
+    "scored_not_visited": 316,
+    "seed_count": 27,
+    "total_run_wall_seconds": 15.934583499998553,
+    "preparation_wall_seconds": 0.20238010000321083,
+    "postprocessing_wall_seconds": 4.188190000000759
+  }
+}

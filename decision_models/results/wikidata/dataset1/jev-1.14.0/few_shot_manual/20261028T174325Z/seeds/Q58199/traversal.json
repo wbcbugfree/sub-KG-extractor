@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q58199",
+  "seed_label": "instant messaging",
+  "included_qids": [
+    "Q4434361",
+    "Q4485156",
+    "Q58199"
+  ],
+  "pruned_qids": [
+    "Q108315589",
+    "Q1344046",
+    "Q24839054",
+    "Q440972",
+    "Q459708",
+    "Q48835386",
+    "Q55070019",
+    "Q554950",
+    "Q6407552"
+  ],
+  "visited_qids": [
+    "Q108315589",
+    "Q1344046",
+    "Q24839054",
+    "Q440972",
+    "Q4434361",
+    "Q4485156",
+    "Q459708",
+    "Q48835386",
+    "Q55070019",
+    "Q554950",
+    "Q58199",
+    "Q6407552"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 10,
+      "included": 1,
+      "excluded": 9,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:15.552363+00:00",
+  "finished_at_utc": "2026-10-28T17:44:16.345228+00:00",
+  "wall_seconds": 0.792854700004682,
+  "frontier_exhausted": true
+}

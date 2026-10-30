@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2984",
+    "legacy_row_id": "Q7096061|Q43229",
+    "seed_qid": "Q7096061",
+    "seed_label": "Open Grid Forum",
+    "qid": "Q43229",
+    "label": "organization",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q7096061",
+    "parent_label": "Open Grid Forum",
+    "path": "Open Grid Forum --instance of--> organization",
+    "uri": "http://www.wikidata.org/entity/Q43229",
+    "classification": "INCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.58,
+    "p_exclude": 0.42,
+    "selected_probability": 0.58,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

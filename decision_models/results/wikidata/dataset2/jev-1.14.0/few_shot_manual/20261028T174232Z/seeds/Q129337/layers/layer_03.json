@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row127",
+    "legacy_row_id": "Q129337|Q15079663",
+    "seed_qid": "Q129337",
+    "seed_label": "TGV",
+    "qid": "Q15079663",
+    "label": "rapid transit railway line",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q60442637",
+    "parent_label": "rapid transit train service",
+    "path": "TGV --subclass of--> passenger train service --has subclass--> rapid transit train service --has subclass--> rapid transit railway line",
+    "uri": "http://www.wikidata.org/entity/Q15079663",
+    "classification": "INCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.87,
+    "p_exclude": 0.13,
+    "selected_probability": 0.87,
+    "decision_source": "jev",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

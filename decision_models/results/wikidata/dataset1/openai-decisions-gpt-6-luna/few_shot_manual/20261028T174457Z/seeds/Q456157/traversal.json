@@ -1,0 +1,66 @@
+{
+  "seed_qid": "Q456157",
+  "seed_label": "Amazon Web Services",
+  "included_qids": [
+    "Q1153767",
+    "Q1210425",
+    "Q21980538",
+    "Q241317",
+    "Q456157",
+    "Q658255"
+  ],
+  "pruned_qids": [
+    "Q110872981",
+    "Q19871383",
+    "Q2142726",
+    "Q2277901",
+    "Q2721136",
+    "Q3129265",
+    "Q3144517",
+    "Q3854693",
+    "Q4022423",
+    "Q588365",
+    "Q61715186"
+  ],
+  "visited_qids": [
+    "Q110872981",
+    "Q1153767",
+    "Q1210425",
+    "Q19871383",
+    "Q2142726",
+    "Q21980538",
+    "Q2277901",
+    "Q241317",
+    "Q2721136",
+    "Q3129265",
+    "Q3144517",
+    "Q3854693",
+    "Q4022423",
+    "Q456157",
+    "Q588365",
+    "Q61715186",
+    "Q658255"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 5,
+      "included": 5,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 11,
+      "included": 0,
+      "excluded": 11,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:07.383549+00:00",
+  "finished_at_utc": "2026-10-28T17:46:08.359816+00:00",
+  "wall_seconds": 0.9762697999976808,
+  "frontier_exhausted": true
+}

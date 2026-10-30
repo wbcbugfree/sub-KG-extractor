@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2111",
+    "legacy_row_id": "Q309396|Q17155032",
+    "seed_qid": "Q309396",
+    "seed_label": "keystroke logging",
+    "qid": "Q17155032",
+    "label": "software category",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q309396",
+    "parent_label": "keystroke logging",
+    "path": "keystroke logging --instance of--> software category",
+    "uri": "http://www.wikidata.org/entity/Q17155032",
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

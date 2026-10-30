@@ -1,0 +1,162 @@
+{
+  "full_common": {
+    "pooled": {
+      "total": 935,
+      "unmatched": 0,
+      "tp": 492,
+      "fp": 24,
+      "fn": 87,
+      "tn": 332,
+      "precision": 0.9534883720930233,
+      "recall": 0.8497409326424871,
+      "f1": 0.8986301369863015,
+      "accuracy": 0.881283422459893
+    },
+    "fold_coverage": null,
+    "folds": null,
+    "weighted_fold": null
+  },
+  "aligned": {
+    "pooled": {
+      "total": 868,
+      "unmatched": 0,
+      "tp": 490,
+      "fp": 23,
+      "fn": 84,
+      "tn": 271,
+      "precision": 0.9551656920077972,
+      "recall": 0.8536585365853658,
+      "f1": 0.9015639374425023,
+      "accuracy": 0.8767281105990783
+    },
+    "fold_coverage": {
+      "expected": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "present": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "missing": [],
+      "complete": true
+    },
+    "folds": [
+      {
+        "fold": 0,
+        "rows": 160,
+        "scored_rows": 160,
+        "unmatched_rows": 0,
+        "metrics": {
+          "total": 160,
+          "unmatched": 0,
+          "tp": 118,
+          "fp": 3,
+          "fn": 23,
+          "tn": 16,
+          "precision": 0.9752066115702479,
+          "recall": 0.8368794326241135,
+          "f1": 0.9007633587786259,
+          "accuracy": 0.8375
+        }
+      },
+      {
+        "fold": 1,
+        "rows": 114,
+        "scored_rows": 114,
+        "unmatched_rows": 0,
+        "metrics": {
+          "total": 114,
+          "unmatched": 0,
+          "tp": 71,
+          "fp": 2,
+          "fn": 11,
+          "tn": 30,
+          "precision": 0.9726027397260274,
+          "recall": 0.8658536585365854,
+          "f1": 0.9161290322580644,
+          "accuracy": 0.8859649122807017
+        }
+      },
+      {
+        "fold": 2,
+        "rows": 265,
+        "scored_rows": 265,
+        "unmatched_rows": 0,
+        "metrics": {
+          "total": 265,
+          "unmatched": 0,
+          "tp": 105,
+          "fp": 12,
+          "fn": 17,
+          "tn": 131,
+          "precision": 0.8974358974358975,
+          "recall": 0.860655737704918,
+          "f1": 0.8786610878661089,
+          "accuracy": 0.8905660377358491
+        }
+      },
+      {
+        "fold": 3,
+        "rows": 135,
+        "scored_rows": 135,
+        "unmatched_rows": 0,
+        "metrics": {
+          "total": 135,
+          "unmatched": 0,
+          "tp": 96,
+          "fp": 4,
+          "fn": 13,
+          "tn": 22,
+          "precision": 0.96,
+          "recall": 0.8807339449541285,
+          "f1": 0.9186602870813397,
+          "accuracy": 0.8740740740740741
+        }
+      },
+      {
+        "fold": 4,
+        "rows": 194,
+        "scored_rows": 194,
+        "unmatched_rows": 0,
+        "metrics": {
+          "total": 194,
+          "unmatched": 0,
+          "tp": 100,
+          "fp": 2,
+          "fn": 20,
+          "tn": 72,
+          "precision": 0.9803921568627451,
+          "recall": 0.8333333333333334,
+          "f1": 0.9009009009009009,
+          "accuracy": 0.8865979381443299
+        }
+      }
+    ],
+    "weighted_fold": {
+      "weighting": "scored_decision_rows",
+      "fold_count": 5,
+      "total_weight": 868,
+      "precision": 0.9499151629399679,
+      "std_precision": 0.03535175066650553,
+      "recall": 0.8539718272123342,
+      "std_recall": 0.017106313634781833,
+      "f1": 0.8988478673931728,
+      "std_f1": 0.015043350887525437,
+      "accuracy": 0.8767281105990783,
+      "std_accuracy": 0.019395679292182756
+    }
+  },
+  "visited_scored_probability_metrics": {
+    "rows": 893,
+    "excluded_unvisited_rows": 42,
+    "brier_score": 0.08656517357222844,
+    "log_loss": 0.2798463930417939
+  }
+}

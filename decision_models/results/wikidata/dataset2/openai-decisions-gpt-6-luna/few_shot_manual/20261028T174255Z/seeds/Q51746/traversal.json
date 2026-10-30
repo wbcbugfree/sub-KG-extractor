@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q51746",
+  "seed_label": "Luke Skywalker",
+  "included_qids": [
+    "Q15632617",
+    "Q15773347",
+    "Q33125444",
+    "Q51746"
+  ],
+  "pruned_qids": [
+    "Q11334882",
+    "Q22074477"
+  ],
+  "visited_qids": [
+    "Q11334882",
+    "Q15632617",
+    "Q15773347",
+    "Q22074477",
+    "Q33125444",
+    "Q51746"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 3,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:13.382370+00:00",
+  "finished_at_utc": "2026-10-28T17:43:14.299546+00:00",
+  "wall_seconds": 0.9171880999929272,
+  "frontier_exhausted": true
+}

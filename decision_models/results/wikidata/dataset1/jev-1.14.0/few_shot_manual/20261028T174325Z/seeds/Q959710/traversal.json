@@ -1,0 +1,68 @@
+{
+  "seed_qid": "Q959710",
+  "seed_label": "Password Authentication Protocol",
+  "included_qids": [
+    "Q1059963",
+    "Q1060131",
+    "Q1629076",
+    "Q2519245",
+    "Q3841521",
+    "Q4825885",
+    "Q7142872",
+    "Q959710"
+  ],
+  "pruned_qids": [
+    "Q1109589",
+    "Q430140",
+    "Q7878662"
+  ],
+  "visited_qids": [
+    "Q1059963",
+    "Q1060131",
+    "Q1109589",
+    "Q1629076",
+    "Q2519245",
+    "Q3841521",
+    "Q430140",
+    "Q4825885",
+    "Q7142872",
+    "Q7878662",
+    "Q959710"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 4,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 2,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 4,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:28.536681+00:00",
+  "finished_at_utc": "2026-10-28T17:44:29.825023+00:00",
+  "wall_seconds": 1.288333500007866,
+  "frontier_exhausted": true
+}

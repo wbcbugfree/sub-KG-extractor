@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2724",
+    "legacy_row_id": "Q178127|Q11016",
+    "seed_qid": "Q178127",
+    "seed_label": "push-to-talk",
+    "qid": "Q11016",
+    "label": "technology",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q178127",
+    "parent_label": "push-to-talk",
+    "path": "push-to-talk --instance of--> technology",
+    "uri": "http://www.wikidata.org/entity/Q11016",
+    "classification": "INCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.57,
+    "p_exclude": 0.43,
+    "selected_probability": 0.57,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

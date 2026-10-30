@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1807",
+    "legacy_row_id": "Q2641430|Q81163",
+    "seed_qid": "Q2641430",
+    "seed_label": "high-density polyethylene",
+    "qid": "Q81163",
+    "label": "polymer",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q2641430",
+    "parent_label": "high-density polyethylene",
+    "path": "high-density polyethylene --instance of--> polymer",
+    "uri": "http://www.wikidata.org/entity/Q81163",
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3273",
+    "legacy_row_id": "Q3702971|Q2135465",
+    "seed_qid": "Q3702971",
+    "seed_label": "personal data",
+    "qid": "Q2135465",
+    "label": "legal concept",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q3702971",
+    "parent_label": "personal data",
+    "path": "personal data --instance of--> legal concept",
+    "uri": "http://www.wikidata.org/entity/Q2135465",
+    "classification": "INCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.63,
+    "p_exclude": 0.37,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

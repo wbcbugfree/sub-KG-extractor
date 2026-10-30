@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3368",
+    "legacy_row_id": "Q58435479|Q13442814",
+    "seed_qid": "Q58435479",
+    "seed_label": "Security Risk Analysis",
+    "qid": "Q13442814",
+    "label": "scholarly article",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q58435479",
+    "parent_label": "Security Risk Analysis",
+    "path": "Security Risk Analysis --instance of--> scholarly article",
+    "uri": "http://www.wikidata.org/entity/Q13442814",
+    "classification": "INCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.67,
+    "p_exclude": 0.33,
+    "selected_probability": 0.67,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

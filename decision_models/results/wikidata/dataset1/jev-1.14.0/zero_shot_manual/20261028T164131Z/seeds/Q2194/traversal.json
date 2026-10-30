@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q2194",
+  "seed_label": "Windows Media Audio",
+  "included_qids": [
+    "Q20198160",
+    "Q2194",
+    "Q2720536",
+    "Q379637"
+  ],
+  "pruned_qids": [
+    "Q1053358",
+    "Q2141903"
+  ],
+  "visited_qids": [
+    "Q1053358",
+    "Q20198160",
+    "Q2141903",
+    "Q2194",
+    "Q2720536",
+    "Q379637"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 1,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:57.117749+00:00",
+  "finished_at_utc": "2026-10-28T16:41:57.775233+00:00",
+  "wall_seconds": 0.6574894999939715,
+  "frontier_exhausted": true
+}

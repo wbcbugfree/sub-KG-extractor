@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3369",
+    "legacy_row_id": "Q167676|Q811909",
+    "seed_qid": "Q167676",
+    "seed_label": "sensor",
+    "qid": "Q811909",
+    "label": "technological component",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q167676",
+    "parent_label": "sensor",
+    "path": "sensor --instance of--> technological component",
+    "uri": "http://www.wikidata.org/entity/Q811909",
+    "classification": "INCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.7,
+    "p_exclude": 0.3,
+    "selected_probability": 0.7,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "seed_qid": "Q1536",
+  "seed_label": "Coordinated Universal Time",
+  "included_qids": [
+    "Q1536",
+    "Q6313217",
+    "Q849275"
+  ],
+  "pruned_qids": [
+    "Q10860882",
+    "Q12143",
+    "Q1777301",
+    "Q219919",
+    "Q2558763",
+    "Q36669",
+    "Q462926"
+  ],
+  "visited_qids": [
+    "Q10860882",
+    "Q12143",
+    "Q1536",
+    "Q1777301",
+    "Q219919",
+    "Q2558763",
+    "Q36669",
+    "Q462926",
+    "Q6313217",
+    "Q849275"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 3,
+      "included": 0,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:17.876161+00:00",
+  "finished_at_utc": "2026-10-28T17:45:19.443620+00:00",
+  "wall_seconds": 1.5674691000021994,
+  "frontier_exhausted": true
+}

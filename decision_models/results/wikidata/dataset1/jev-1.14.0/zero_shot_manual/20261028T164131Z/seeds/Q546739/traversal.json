@@ -1,0 +1,42 @@
+{
+  "seed_qid": "Q546739",
+  "seed_label": "Layer 2 Tunneling Protocol",
+  "included_qids": [
+    "Q1163955",
+    "Q546739",
+    "Q957589"
+  ],
+  "pruned_qids": [
+    "Q12871890",
+    "Q3702356"
+  ],
+  "visited_qids": [
+    "Q1163955",
+    "Q12871890",
+    "Q3702356",
+    "Q546739",
+    "Q957589"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 1,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:17.453946+00:00",
+  "finished_at_utc": "2026-10-28T16:42:18.046487+00:00",
+  "wall_seconds": 0.5925424000015482,
+  "frontier_exhausted": true
+}

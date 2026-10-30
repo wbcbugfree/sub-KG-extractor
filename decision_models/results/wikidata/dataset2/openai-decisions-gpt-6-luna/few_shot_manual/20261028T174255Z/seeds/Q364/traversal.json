@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q364",
+  "seed_label": "GitHub",
+  "included_qids": [
+    "Q1668024",
+    "Q3077240",
+    "Q364",
+    "Q5227240",
+    "Q6881511"
+  ],
+  "pruned_qids": [
+    "Q2910253"
+  ],
+  "visited_qids": [
+    "Q1668024",
+    "Q2910253",
+    "Q3077240",
+    "Q364",
+    "Q5227240",
+    "Q6881511"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:11.147143+00:00",
+  "finished_at_utc": "2026-10-28T17:43:12.389544+00:00",
+  "wall_seconds": 1.2424038000026485,
+  "frontier_exhausted": true
+}

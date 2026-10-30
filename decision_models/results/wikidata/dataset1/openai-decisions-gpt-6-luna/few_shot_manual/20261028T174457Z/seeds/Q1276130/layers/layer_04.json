@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3019",
+    "legacy_row_id": "Q1276130|Q15618646",
+    "seed_qid": "Q1276130",
+    "seed_label": "extract  transform  load",
+    "qid": "Q15618646",
+    "label": "ETL tool",
+    "csv_depth": 4,
+    "bfs_depth": 4,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q15618647",
+    "parent_label": "data warehousing product",
+    "path": "extract, transform, load --instance of--> data processing --has subclass--> data management --has subclass--> data warehousing product --has subclass--> ETL tool",
+    "uri": "http://www.wikidata.org/entity/Q15618646",
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row5036",
+    "legacy_row_id": "Q5392830|Q557685",
+    "seed_qid": "Q5392830",
+    "seed_label": "encoder",
+    "qid": "Q557685",
+    "label": "industrial plant",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q5392830",
+    "parent_label": "encoder",
+    "path": "encoder --instance of--> industrial plant",
+    "uri": "http://www.wikidata.org/entity/Q557685",
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

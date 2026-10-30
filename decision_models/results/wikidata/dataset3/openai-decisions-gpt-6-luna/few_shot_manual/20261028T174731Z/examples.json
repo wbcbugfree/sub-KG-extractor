@@ -1,0 +1,684 @@
+{
+  "dataset": 3,
+  "context_level": "path_simple",
+  "selection_strategy": "curated_hybrid_owner_recall",
+  "created_at": "2026-06-22T20:43:25Z",
+  "baseline_exclusion": {
+    "basis": "Examples are selected only from rows whose (seed_qid, qid) pair is absent from the KGPrune/PBG-filtered Dataset 3 runtime input.",
+    "runtime_input": "tmp/kgprune_bridge_path_analogy/inputs/dataset3_gold_decisions_bridge_filtered.csv",
+    "all_rows": {
+      "rows": 2111,
+      "seeds": 27,
+      "candidate_qids": 1037,
+      "keep": 933,
+      "prune": 1178,
+      "keep_ratio": 0.4419706300331596,
+      "direct": 514,
+      "bridge": 1597,
+      "bridge_ratio": 0.7565135007105637
+    },
+    "bridge_aware_usable": {
+      "rows": 1975,
+      "seeds": 27,
+      "candidate_qids": 977,
+      "keep": 831,
+      "prune": 1144,
+      "keep_ratio": 0.42075949367088605,
+      "direct": 506,
+      "bridge": 1469,
+      "bridge_ratio": 0.7437974683544304
+    },
+    "direct_path_usable": {
+      "rows": 506,
+      "seeds": 21,
+      "candidate_qids": 307,
+      "keep": 289,
+      "prune": 217,
+      "keep_ratio": 0.5711462450592886,
+      "direct": 506,
+      "bridge": 0,
+      "bridge_ratio": 0.0
+    },
+    "filtered_out_bridge_aware_usable": {
+      "rows": 868,
+      "seeds": 26,
+      "candidate_qids": 571,
+      "keep": 334,
+      "prune": 534,
+      "keep_ratio": 0.3847926267281106,
+      "direct": 155,
+      "bridge": 713,
+      "bridge_ratio": 0.8214285714285714
+    },
+    "runtime_bridge_aware_usable": {
+      "rows": 1094,
+      "seeds": 20,
+      "candidate_qids": 583,
+      "keep": 494,
+      "prune": 600,
+      "keep_ratio": 0.4515539305301645,
+      "direct": 346,
+      "bridge": 748,
+      "bridge_ratio": 0.6837294332723949
+    }
+  },
+  "bridge_path_policy": {
+    "allows_selected_paths_with_bridge_nodes": true,
+    "bridge_nodes_are_traversal_only": true,
+    "excludes_keep_rows_with_pruned_prefix": true,
+    "allows_prune_rows_with_pruned_prefix": true
+  },
+  "examples": [
+    {
+      "row_id": "row59",
+      "legacy_row_id": "Q867510|Q87842429",
+      "seed_qid": "Q867510",
+      "seed_label": "Cypresses",
+      "qid": "Q87842429",
+      "label": "Apple, Pear and Orange",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 4,
+      "reaching_property": "P1830",
+      "reaching_property_label": "owner of",
+      "parent_qid": "Q20730464",
+      "parent_label": "Étienne Bignou",
+      "path": "Cypresses --owned by--> Justin K. Thannhauser --owner of--> La Vie --owned by--> Étienne Bignou --owner of--> Apple, Pear and Orange",
+      "path_qids": "Q867510 Q17421944 Q1799228 Q20730464 Q87842429",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Cypresses\n  Candidate: candidate=Apple, Pear and Orange | path=Cypresses --owned by--> Justin K. Thannhauser --owner of--> La Vie --owned by--> Étienne Bignou --owner of--> Apple, Pear and Orange | decision=INCLUDE"
+    },
+    {
+      "row_id": "row801",
+      "legacy_row_id": "Q867510|Q26221201",
+      "seed_qid": "Q867510",
+      "seed_label": "Cypresses",
+      "qid": "Q26221201",
+      "label": "Two Diggers among Trees",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 4,
+      "reaching_property": "P1830",
+      "reaching_property_label": "owner of",
+      "parent_qid": "Q104530765",
+      "parent_label": "Hugo Nathan",
+      "path": "Cypresses --owned by--> Justin K. Thannhauser --owner of--> Lormes:  Goat-Girl Sitting Beside a Stream in a Forest --owned by--> Hugo Nathan --owner of--> Two Diggers among Trees",
+      "path_qids": "Q867510 Q17421944 Q41516006 Q104530765 Q26221201",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Cypresses\n  Candidate: candidate=Two Diggers among Trees | path=Cypresses --owned by--> Justin K. Thannhauser --owner of--> Lormes:  Goat-Girl Sitting Beside a Stream in a Forest --owned by--> Hugo Nathan --owner of--> Two Diggers among Trees | decision=INCLUDE"
+    },
+    {
+      "row_id": "row680",
+      "legacy_row_id": "Q867510|Q1798475",
+      "seed_qid": "Q867510",
+      "seed_label": "Cypresses",
+      "qid": "Q1798475",
+      "label": "Westphalian State Museum of Art and Cultural History",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 5,
+      "reaching_property": "P127",
+      "reaching_property_label": "owned by",
+      "parent_qid": "Q104917373",
+      "parent_label": "Romantic Painting with Ruins",
+      "path": "Cypresses --owned by--> Justin K. Thannhauser --owner of--> Still Life with Mangoes and a Hibiscus Flower --owned by--> Galerie Fischer --owner of--> Romantic Painting with Ruins --owned by--> Westphalian State Museum of Art and Cultural History",
+      "path_qids": "Q867510 Q17421944 Q28035859 Q47001605 Q104917373 Q1798475",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Cypresses\n  Candidate: candidate=Westphalian State Museum of Art and Cultural History | path=Cypresses --owned by--> Justin K. Thannhauser --owner of--> Still Life with Mangoes and a Hibiscus Flower --owned by--> Galerie Fischer --owner of--> Romantic Painting with Ruins --owned by--> Westphalian State Museum of Art and Cultural History | decision=INCLUDE"
+    },
+    {
+      "row_id": "row15",
+      "legacy_row_id": "Q666331|Q98801351",
+      "seed_qid": "Q666331",
+      "seed_label": "Foundation E.G. Bührle Collection",
+      "qid": "Q98801351",
+      "label": "WikiProject Provenance",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 3,
+      "reaching_property": "P5008",
+      "reaching_property_label": "on focus list of Wikimedia project",
+      "parent_qid": "Q3022585",
+      "parent_label": "Marquis de Lacaze",
+      "path": "Foundation E.G. Bührle Collection --owner of--> Portrait of a man --owned by--> Marquis de Lacaze --on focus list of Wikimedia project--> WikiProject Provenance",
+      "path_qids": "Q666331 Q18060374 Q3022585 Q98801351",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Foundation E.G. Bührle Collection\n  Candidate: candidate=WikiProject Provenance | path=Foundation E.G. Bührle Collection --owner of--> Portrait of a man --owned by--> Marquis de Lacaze --on focus list of Wikimedia project--> WikiProject Provenance | decision=INCLUDE"
+    },
+    {
+      "row_id": "row1877",
+      "legacy_row_id": "Q1634926|Q16741013",
+      "seed_qid": "Q1634926",
+      "seed_label": "Hugo Cassirer",
+      "qid": "Q16741013",
+      "label": "art thief",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 5,
+      "reaching_property": "P106",
+      "reaching_property_label": "occupation",
+      "parent_qid": "Q89582",
+      "parent_label": "Bruno Lohse",
+      "path": "Hugo Cassirer --owner of--> Avenue at Chantilly --owned by--> Paul Cassirer --owner of--> The Quai Malaquais and the Institute --owned by--> Bruno Lohse --occupation--> art thief",
+      "path_qids": "Q1634926 Q63869920 Q65351 Q1810348 Q89582 Q16741013",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Hugo Cassirer\n  Candidate: candidate=art thief | path=Hugo Cassirer --owner of--> Avenue at Chantilly --owned by--> Paul Cassirer --owner of--> The Quai Malaquais and the Institute --owned by--> Bruno Lohse --occupation--> art thief | decision=INCLUDE"
+    },
+    {
+      "row_id": "row1890",
+      "legacy_row_id": "Q1634926|Q50637",
+      "seed_qid": "Q1634926",
+      "seed_label": "Hugo Cassirer",
+      "qid": "Q50637",
+      "label": "art history",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 5,
+      "reaching_property": "P921",
+      "reaching_property_label": "main subject",
+      "parent_qid": "Q28837176",
+      "parent_label": "Heilbrunn Timeline of Art History",
+      "path": "Hugo Cassirer --owner of--> Avenue at Chantilly --owned by--> Paul Cassirer --owner of--> Tilla Durieux --described by source--> Heilbrunn Timeline of Art History --main subject--> art history",
+      "path_qids": "Q1634926 Q63869920 Q65351 Q1321055 Q28837176 Q50637",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Hugo Cassirer\n  Candidate: candidate=art history | path=Hugo Cassirer --owner of--> Avenue at Chantilly --owned by--> Paul Cassirer --owner of--> Tilla Durieux --described by source--> Heilbrunn Timeline of Art History --main subject--> art history | decision=INCLUDE"
+    },
+    {
+      "row_id": "row1160",
+      "legacy_row_id": "Q74128|Q76371784",
+      "seed_qid": "Q74128",
+      "seed_label": "Alfred Flechtheim",
+      "qid": "Q76371784",
+      "label": "Margit Bornemisza",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 5,
+      "reaching_property": "P26",
+      "reaching_property_label": "spouse",
+      "parent_qid": "Q65299",
+      "parent_label": "Heinrich, Baron Thyssen-Bornemisza de Kászon",
+      "path": "Alfred Flechtheim --owner of--> A Centennial of Independence --owned by--> J. Paul Getty Museum --owner of--> A Woman Preparing Bread and Butter for a Boy --owned by--> Heinrich, Baron Thyssen-Bornemisza de Kászon --spouse--> Margit Bornemisza",
+      "path_qids": "Q74128 Q12842489 Q731126 Q19989799 Q65299 Q76371784",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Alfred Flechtheim\n  Candidate: candidate=Margit Bornemisza | path=Alfred Flechtheim --owner of--> A Centennial of Independence --owned by--> J. Paul Getty Museum --owner of--> A Woman Preparing Bread and Butter for a Boy --owned by--> Heinrich, Baron Thyssen-Bornemisza de Kászon --spouse--> Margit Bornemisza | decision=INCLUDE"
+    },
+    {
+      "row_id": "row702",
+      "legacy_row_id": "Q160236|Q107177051",
+      "seed_qid": "Q160236",
+      "seed_label": "Metropolitan Museum of Art",
+      "qid": "Q107177051",
+      "label": "Walter Feilchenfeldt Jr.",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 3,
+      "reaching_property": "P40",
+      "reaching_property_label": "child",
+      "parent_qid": "Q2544162",
+      "parent_label": "Walter Feilchenfeldt",
+      "path": "Metropolitan Museum of Art --owner of--> Tilla Durieux --owned by--> Walter Feilchenfeldt --child--> Walter Feilchenfeldt Jr.",
+      "path_qids": "Q160236 Q1321055 Q2544162 Q107177051",
+      "has_bridge_on_path": false,
+      "path_type": "direct",
+      "prompt_line": "- Seed: Metropolitan Museum of Art\n  Candidate: candidate=Walter Feilchenfeldt Jr. | path=Metropolitan Museum of Art --owner of--> Tilla Durieux --owned by--> Walter Feilchenfeldt --child--> Walter Feilchenfeldt Jr. | decision=INCLUDE"
+    },
+    {
+      "row_id": "row1469",
+      "legacy_row_id": "Q17277888|Q98806862",
+      "seed_qid": "Q17277888",
+      "seed_label": "Gottlieb Friedrich Reber",
+      "qid": "Q98806862",
+      "label": "Ettore Sestieri",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 2,
+      "reaching_property": "P3342",
+      "reaching_property_label": "significant person",
+      "parent_qid": "Q3609940",
+      "parent_label": "Alessandro Contini Bonacossi",
+      "path": "Gottlieb Friedrich Reber --significant person--> Alessandro Contini Bonacossi --significant person--> Ettore Sestieri",
+      "path_qids": "Q17277888 Q3609940 Q98806862",
+      "has_bridge_on_path": false,
+      "path_type": "direct",
+      "prompt_line": "- Seed: Gottlieb Friedrich Reber\n  Candidate: candidate=Ettore Sestieri | path=Gottlieb Friedrich Reber --significant person--> Alessandro Contini Bonacossi --significant person--> Ettore Sestieri | decision=INCLUDE"
+    },
+    {
+      "row_id": "row1834",
+      "legacy_row_id": "Q104530765|Q318815",
+      "seed_qid": "Q104530765",
+      "seed_label": "Hugo Nathan",
+      "qid": "Q318815",
+      "label": "Bergier commission",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 5,
+      "reaching_property": "P1840",
+      "reaching_property_label": "investigation of",
+      "parent_qid": "Q47001605",
+      "parent_label": "Galerie Fischer",
+      "path": "Hugo Nathan --owner of--> Lormes:  Goat-Girl Sitting Beside a Stream in a Forest --owned by--> Justin K. Thannhauser --owner of--> Still Life with Mangoes and a Hibiscus Flower --owned by--> Galerie Fischer --investigation of--> Bergier commission",
+      "path_qids": "Q104530765 Q41516006 Q17421944 Q28035859 Q47001605 Q318815",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Hugo Nathan\n  Candidate: candidate=Bergier commission | path=Hugo Nathan --owner of--> Lormes:  Goat-Girl Sitting Beside a Stream in a Forest --owned by--> Justin K. Thannhauser --owner of--> Still Life with Mangoes and a Hibiscus Flower --owned by--> Galerie Fischer --investigation of--> Bergier commission | decision=INCLUDE"
+    },
+    {
+      "row_id": "row375",
+      "legacy_row_id": "Q657415|Q98959841",
+      "seed_qid": "Q657415",
+      "seed_label": "Cleveland Museum of Art",
+      "qid": "Q98959841",
+      "label": "Reclaimed. Paintings from the Collection of Jacques Goudstikker",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 3,
+      "reaching_property": "P1343",
+      "reaching_property_label": "described by source",
+      "parent_qid": "Q2284748",
+      "parent_label": "Jacques Goudstikker collection",
+      "path": "Cleveland Museum of Art --owner of--> Saint John the Baptist --owned by--> Jacques Goudstikker collection --described by source--> Reclaimed. Paintings from the Collection of Jacques Goudstikker",
+      "path_qids": "Q657415 Q27096203 Q2284748 Q98959841",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Cleveland Museum of Art\n  Candidate: candidate=Reclaimed. Paintings from the Collection of Jacques Goudstikker | path=Cleveland Museum of Art --owner of--> Saint John the Baptist --owned by--> Jacques Goudstikker collection --described by source--> Reclaimed. Paintings from the Collection of Jacques Goudstikker | decision=INCLUDE"
+    },
+    {
+      "row_id": "row573",
+      "legacy_row_id": "Q160236|Q19913634",
+      "seed_qid": "Q160236",
+      "seed_label": "Metropolitan Museum of Art",
+      "qid": "Q19913634",
+      "label": "Woman with a Towel",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 3,
+      "reaching_property": "P1830",
+      "reaching_property_label": "owner of",
+      "parent_qid": "Q539280",
+      "parent_label": "Louisine Havemeyer",
+      "path": "Metropolitan Museum of Art --owner of--> Young man in Mayo costume --owned by--> Louisine Havemeyer --owner of--> Woman with a Towel",
+      "path_qids": "Q160236 Q113262 Q539280 Q19913634",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Metropolitan Museum of Art\n  Candidate: candidate=Woman with a Towel | path=Metropolitan Museum of Art --owner of--> Young man in Mayo costume --owned by--> Louisine Havemeyer --owner of--> Woman with a Towel | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row604",
+      "legacy_row_id": "Q867510|Q104918094",
+      "seed_qid": "Q867510",
+      "seed_label": "Cypresses",
+      "qid": "Q104918094",
+      "label": "Wolf Dietrich Freiherr von Amstetter-Zwerbach und Grabeneck",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 5,
+      "reaching_property": "P127",
+      "reaching_property_label": "owned by",
+      "parent_qid": "Q104917373",
+      "parent_label": "Romantic Painting with Ruins",
+      "path": "Cypresses --owned by--> Justin K. Thannhauser --owner of--> Still Life with Mangoes and a Hibiscus Flower --owned by--> Galerie Fischer --owner of--> Romantic Painting with Ruins --owned by--> Wolf Dietrich Freiherr von Amstetter-Zwerbach und Grabeneck",
+      "path_qids": "Q867510 Q17421944 Q28035859 Q47001605 Q104917373 Q104918094",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Cypresses\n  Candidate: candidate=Wolf Dietrich Freiherr von Amstetter-Zwerbach und Grabeneck | path=Cypresses --owned by--> Justin K. Thannhauser --owner of--> Still Life with Mangoes and a Hibiscus Flower --owned by--> Galerie Fischer --owner of--> Romantic Painting with Ruins --owned by--> Wolf Dietrich Freiherr von Amstetter-Zwerbach und Grabeneck | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row83",
+      "legacy_row_id": "Q156426|Q4114391",
+      "seed_qid": "Q156426",
+      "seed_label": "Alexej von Jawlensky",
+      "qid": "Q4114391",
+      "label": "Sytin Military Encyclopedia",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 3,
+      "reaching_property": "P1343",
+      "reaching_property_label": "described by source",
+      "parent_qid": "Q4109309",
+      "parent_label": "Vladimir Veryovkin",
+      "path": "Alexej von Jawlensky --spouse--> Marianne von Werefkin --father--> Vladimir Veryovkin --described by source--> Sytin Military Encyclopedia",
+      "path_qids": "Q156426 Q464016 Q4109309 Q4114391",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Alexej von Jawlensky\n  Candidate: candidate=Sytin Military Encyclopedia | path=Alexej von Jawlensky --spouse--> Marianne von Werefkin --father--> Vladimir Veryovkin --described by source--> Sytin Military Encyclopedia | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row20",
+      "legacy_row_id": "Q74128|Q103505599",
+      "seed_qid": "Q74128",
+      "seed_label": "Alfred Flechtheim",
+      "qid": "Q103505599",
+      "label": "WikiProject PCC Wikidata Pilot/Smithsonian Libraries Dibner Library portraits",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 5,
+      "reaching_property": "P5008",
+      "reaching_property_label": "on focus list of Wikimedia project",
+      "parent_qid": "Q33978",
+      "parent_label": "Robert Delaunay",
+      "path": "Alfred Flechtheim --owner of--> A Centennial of Independence --owned by--> Wilhelm Uhde --spouse--> Sonia Delaunay --spouse--> Robert Delaunay --on focus list of Wikimedia project--> WikiProject PCC Wikidata Pilot/Smithsonian Libraries Dibner Library portraits",
+      "path_qids": "Q74128 Q12842489 Q69574 Q232972 Q33978 Q103505599",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Alfred Flechtheim\n  Candidate: candidate=WikiProject PCC Wikidata Pilot/Smithsonian Libraries Dibner Library portraits | path=Alfred Flechtheim --owner of--> A Centennial of Independence --owned by--> Wilhelm Uhde --spouse--> Sonia Delaunay --spouse--> Robert Delaunay --on focus list of Wikimedia project--> WikiProject PCC Wikidata Pilot/Smithsonian Libraries Dibner Library portraits | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row1008",
+      "legacy_row_id": "Q156426|Q82955",
+      "seed_qid": "Q156426",
+      "seed_label": "Alexej von Jawlensky",
+      "qid": "Q82955",
+      "label": "politician",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 4,
+      "reaching_property": "P106",
+      "reaching_property_label": "occupation",
+      "parent_qid": "Q11995784",
+      "parent_label": "Pyotr Veryovkin",
+      "path": "Alexej von Jawlensky --spouse--> Marianne von Werefkin --father--> Vladimir Veryovkin --child--> Pyotr Veryovkin --occupation--> politician",
+      "path_qids": "Q156426 Q464016 Q4109309 Q11995784 Q82955",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Alexej von Jawlensky\n  Candidate: candidate=politician | path=Alexej von Jawlensky --spouse--> Marianne von Werefkin --father--> Vladimir Veryovkin --child--> Pyotr Veryovkin --occupation--> politician | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row901",
+      "legacy_row_id": "Q160236|Q524534",
+      "seed_qid": "Q160236",
+      "seed_label": "Metropolitan Museum of Art",
+      "qid": "Q524534",
+      "label": "Suzanne Manet",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 3,
+      "reaching_property": "P26",
+      "reaching_property_label": "spouse",
+      "parent_qid": "Q40599",
+      "parent_label": "Édouard Manet",
+      "path": "Metropolitan Museum of Art --owner of--> Young man in Mayo costume --owned by--> Édouard Manet --spouse--> Suzanne Manet",
+      "path_qids": "Q160236 Q113262 Q40599 Q524534",
+      "has_bridge_on_path": false,
+      "path_type": "direct",
+      "prompt_line": "- Seed: Metropolitan Museum of Art\n  Candidate: candidate=Suzanne Manet | path=Metropolitan Museum of Art --owner of--> Young man in Mayo costume --owned by--> Édouard Manet --spouse--> Suzanne Manet | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row858",
+      "legacy_row_id": "Q74128|Q2659670",
+      "seed_qid": "Q74128",
+      "seed_label": "Alfred Flechtheim",
+      "qid": "Q2659670",
+      "label": "Theo van Gogh",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 4,
+      "reaching_property": "P40",
+      "reaching_property_label": "child",
+      "parent_qid": "Q2185351",
+      "parent_label": "Vincent Willem van Gogh",
+      "path": "Alfred Flechtheim --owner of--> Two Poplars in the Alpilles near Saint-Rémy --owned by--> Johanna van Gogh-Bonger --child--> Vincent Willem van Gogh --child--> Theo van Gogh",
+      "path_qids": "Q74128 Q26221176 Q2554450 Q2185351 Q2659670",
+      "has_bridge_on_path": false,
+      "path_type": "direct",
+      "prompt_line": "- Seed: Alfred Flechtheim\n  Candidate: candidate=Theo van Gogh | path=Alfred Flechtheim --owner of--> Two Poplars in the Alpilles near Saint-Rémy --owned by--> Johanna van Gogh-Bonger --child--> Vincent Willem van Gogh --child--> Theo van Gogh | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row12",
+      "legacy_row_id": "Q1634926|Q75758411",
+      "seed_qid": "Q1634926",
+      "seed_label": "Hugo Cassirer",
+      "qid": "Q75758411",
+      "label": "William A. M. Burden I",
+      "target": 1,
+      "decision": "INCLUDE",
+      "depth": 3,
+      "reaching_property": "P22",
+      "reaching_property_label": "father",
+      "parent_qid": "Q40457263",
+      "parent_label": "William A. M. Burden",
+      "path": "Hugo Cassirer --owner of--> Avenue at Chantilly --owned by--> William A. M. Burden --father--> William A. M. Burden I",
+      "path_qids": "Q1634926 Q63869920 Q40457263 Q75758411",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Hugo Cassirer\n  Candidate: candidate=William A. M. Burden I | path=Hugo Cassirer --owner of--> Avenue at Chantilly --owned by--> William A. M. Burden --father--> William A. M. Burden I | decision=INCLUDE"
+    },
+    {
+      "row_id": "row603",
+      "legacy_row_id": "Q160236|Q63775",
+      "seed_qid": "Q160236",
+      "seed_label": "Metropolitan Museum of Art",
+      "qid": "Q63775",
+      "label": "Wolfgang, Count Palatine of Zweibrücken",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 3,
+      "reaching_property": "P22",
+      "reaching_property_label": "father",
+      "parent_qid": "Q62885",
+      "parent_label": "Philip Louis, Count Palatine of Neuburg",
+      "path": "Metropolitan Museum of Art --owner of--> Portrait of a Man, Said to be Christopher Columbus (born about 1446, died 1506) --owned by--> Philip Louis, Count Palatine of Neuburg --father--> Wolfgang, Count Palatine of Zweibrücken",
+      "path_qids": "Q160236 Q19911671 Q62885 Q63775",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Metropolitan Museum of Art\n  Candidate: candidate=Wolfgang, Count Palatine of Zweibrücken | path=Metropolitan Museum of Art --owner of--> Portrait of a Man, Said to be Christopher Columbus (born about 1446, died 1506) --owned by--> Philip Louis, Count Palatine of Neuburg --father--> Wolfgang, Count Palatine of Zweibrücken | decision=EXCLUDE"
+    },
+    {
+      "row_id": "row600",
+      "legacy_row_id": "Q160236|Q467",
+      "seed_qid": "Q160236",
+      "seed_label": "Metropolitan Museum of Art",
+      "qid": "Q467",
+      "label": "woman",
+      "target": 0,
+      "decision": "EXCLUDE",
+      "depth": 4,
+      "reaching_property": "P921",
+      "reaching_property_label": "main subject",
+      "parent_qid": "Q4891521",
+      "parent_label": "The Source",
+      "path": "Metropolitan Museum of Art --owner of--> Young man in Mayo costume --owned by--> Louisine Havemeyer --owner of--> The Source --main subject--> woman",
+      "path_qids": "Q160236 Q113262 Q539280 Q4891521 Q467",
+      "has_bridge_on_path": true,
+      "path_type": "bridge",
+      "prompt_line": "- Seed: Metropolitan Museum of Art\n  Candidate: candidate=woman | path=Metropolitan Museum of Art --owner of--> Young man in Mayo costume --owned by--> Louisine Havemeyer --owner of--> The Source --main subject--> woman | decision=EXCLUDE"
+    }
+  ],
+  "meta_example_pack": {
+    "intended_use": [
+      "meta_prompt_generation",
+      "meta_generated_few_shot_extraction"
+    ],
+    "base_examples_file": "meta-prompting/examples/dataset3_path_simple_direct_examples.json",
+    "base_example_count": 18,
+    "added_row_ids": [
+      "row12",
+      "row603",
+      "row600"
+    ],
+    "example_count": 21,
+    "coverage_policy": {
+      "require_every_property_as_final_edge": true,
+      "require_both_decisions_when_eligible": true,
+      "record_full_path_coverage": true
+    },
+    "coverage": {
+      "required_properties": [
+        "P22",
+        "P3342",
+        "P1830",
+        "P1840",
+        "P26",
+        "P1343",
+        "P106",
+        "P921",
+        "P40",
+        "P127",
+        "P5008"
+      ],
+      "final_edge_by_decision": {
+        "P22": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P3342": [
+          "INCLUDE"
+        ],
+        "P1830": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P1840": [
+          "INCLUDE"
+        ],
+        "P26": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P1343": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P106": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P921": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P40": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P127": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P5008": [
+          "EXCLUDE",
+          "INCLUDE"
+        ]
+      },
+      "full_path_by_decision": {
+        "P22": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P3342": [
+          "INCLUDE"
+        ],
+        "P1830": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P1840": [
+          "INCLUDE"
+        ],
+        "P26": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P1343": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P106": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P921": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P40": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P127": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P5008": [
+          "EXCLUDE",
+          "INCLUDE"
+        ]
+      },
+      "eligible_filtered_final_edge_by_decision": {
+        "P22": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P3342": [
+          "INCLUDE"
+        ],
+        "P1830": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P1840": [
+          "INCLUDE"
+        ],
+        "P26": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P1343": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P106": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P921": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P40": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P127": [
+          "EXCLUDE",
+          "INCLUDE"
+        ],
+        "P5008": [
+          "EXCLUDE",
+          "INCLUDE"
+        ]
+      },
+      "unavailable_final_decisions": {
+        "P22": [],
+        "P3342": [
+          "EXCLUDE"
+        ],
+        "P1830": [],
+        "P1840": [
+          "EXCLUDE"
+        ],
+        "P26": [],
+        "P1343": [],
+        "P106": [],
+        "P921": [],
+        "P40": [],
+        "P127": [],
+        "P5008": []
+      }
+    },
+    "provenance_audit": {
+      "inherited_runtime_pair_overlap_row_ids": [],
+      "inherited_sample_row_overlap_row_ids": [],
+      "inherited_sample_qid_overlap_row_ids": [],
+      "new_runtime_pair_overlap_row_ids": [],
+      "new_sample_row_overlap_row_ids": [],
+      "new_sample_qid_overlap_row_ids": []
+    }
+  }
+}

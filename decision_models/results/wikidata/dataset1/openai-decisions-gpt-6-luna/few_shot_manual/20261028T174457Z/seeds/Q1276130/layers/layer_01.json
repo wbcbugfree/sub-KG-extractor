@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row3010",
+    "legacy_row_id": "Q1276130|Q6661985",
+    "seed_qid": "Q1276130",
+    "seed_label": "extract  transform  load",
+    "qid": "Q6661985",
+    "label": "data processing",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1276130",
+    "parent_label": "extract, transform, load",
+    "path": "extract, transform, load --instance of--> data processing",
+    "uri": "http://www.wikidata.org/entity/Q6661985",
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

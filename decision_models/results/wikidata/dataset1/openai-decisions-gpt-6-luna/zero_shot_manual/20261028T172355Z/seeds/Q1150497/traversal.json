@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q1150497",
+  "seed_label": "burn down chart",
+  "included_qids": [
+    "Q104696789",
+    "Q1150497",
+    "Q28923",
+    "Q959962"
+  ],
+  "pruned_qids": [
+    "Q138583",
+    "Q15221534",
+    "Q2328800",
+    "Q5699136"
+  ],
+  "visited_qids": [
+    "Q104696789",
+    "Q1150497",
+    "Q138583",
+    "Q15221534",
+    "Q2328800",
+    "Q28923",
+    "Q5699136",
+    "Q959962"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:03.399643+00:00",
+  "finished_at_utc": "2026-10-28T17:24:04.312783+00:00",
+  "wall_seconds": 0.9131364000058966,
+  "frontier_exhausted": true
+}

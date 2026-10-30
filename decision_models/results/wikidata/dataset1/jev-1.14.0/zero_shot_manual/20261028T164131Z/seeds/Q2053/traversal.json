@@ -1,0 +1,89 @@
+{
+  "seed_qid": "Q2053",
+  "seed_label": "HTML5",
+  "included_qids": [
+    "Q1189978",
+    "Q166074",
+    "Q2053",
+    "Q235557",
+    "Q2661442",
+    "Q37045",
+    "Q5531642",
+    "Q7520680",
+    "Q8811"
+  ],
+  "pruned_qids": [
+    "Q167772",
+    "Q1758048",
+    "Q27915156",
+    "Q285972",
+    "Q287539",
+    "Q29644049",
+    "Q34305781",
+    "Q362356",
+    "Q380153",
+    "Q387168",
+    "Q4018860",
+    "Q4052124",
+    "Q5310",
+    "Q5426535",
+    "Q61714670",
+    "Q6786860"
+  ],
+  "visited_qids": [
+    "Q1189978",
+    "Q166074",
+    "Q167772",
+    "Q1758048",
+    "Q2053",
+    "Q235557",
+    "Q2661442",
+    "Q27915156",
+    "Q285972",
+    "Q287539",
+    "Q29644049",
+    "Q34305781",
+    "Q362356",
+    "Q37045",
+    "Q380153",
+    "Q387168",
+    "Q4018860",
+    "Q4052124",
+    "Q5310",
+    "Q5426535",
+    "Q5531642",
+    "Q61714670",
+    "Q6786860",
+    "Q7520680",
+    "Q8811"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 16,
+      "included": 4,
+      "excluded": 12,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:54.124851+00:00",
+  "finished_at_utc": "2026-10-28T16:41:55.202235+00:00",
+  "wall_seconds": 1.0773816000000807,
+  "frontier_exhausted": true
+}

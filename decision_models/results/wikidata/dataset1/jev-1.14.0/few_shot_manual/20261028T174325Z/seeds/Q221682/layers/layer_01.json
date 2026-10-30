@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row131",
+    "legacy_row_id": "Q221682|Q1799072",
+    "seed_qid": "Q221682",
+    "seed_label": "semaphore",
+    "qid": "Q1799072",
+    "label": "method",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q221682",
+    "parent_label": "semaphore",
+    "path": "semaphore --instance of--> method",
+    "uri": "http://www.wikidata.org/entity/Q1799072",
+    "classification": "INCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.64,
+    "p_exclude": 0.36,
+    "selected_probability": 0.64,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

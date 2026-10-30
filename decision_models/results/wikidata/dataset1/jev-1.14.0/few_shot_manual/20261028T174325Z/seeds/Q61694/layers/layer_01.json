@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4233",
+    "legacy_row_id": "Q61694|Q290378",
+    "seed_qid": "Q61694",
+    "seed_label": "Uniform Resource Identifier",
+    "qid": "Q290378",
+    "label": "internet standard",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q61694",
+    "parent_label": "Uniform Resource Identifier",
+    "path": "Uniform Resource Identifier --instance of--> internet standard",
+    "uri": "http://www.wikidata.org/entity/Q290378",
+    "classification": "INCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.84,
+    "p_exclude": 0.16,
+    "selected_probability": 0.84,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

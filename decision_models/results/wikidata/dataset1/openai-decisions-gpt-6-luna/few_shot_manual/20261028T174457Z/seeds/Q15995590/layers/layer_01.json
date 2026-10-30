@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1924",
+    "legacy_row_id": "Q15995590|Q4830453",
+    "seed_qid": "Q15995590",
+    "seed_label": "Wireless Broadband Alliance",
+    "qid": "Q4830453",
+    "label": "business",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q15995590",
+    "parent_label": "Wireless Broadband Alliance",
+    "path": "Wireless Broadband Alliance --instance of--> business",
+    "uri": "http://www.wikidata.org/entity/Q4830453",
+    "classification": "INCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.72,
+    "p_exclude": 0.28,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

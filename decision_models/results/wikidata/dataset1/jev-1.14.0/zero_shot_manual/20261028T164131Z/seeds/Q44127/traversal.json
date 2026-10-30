@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q44127",
+  "seed_label": "server",
+  "included_qids": [
+    "Q44127"
+  ],
+  "pruned_qids": [
+    "Q4897819"
+  ],
+  "visited_qids": [
+    "Q44127",
+    "Q4897819"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:12.912666+00:00",
+  "finished_at_utc": "2026-10-28T16:42:13.212637+00:00",
+  "wall_seconds": 0.299973700006376,
+  "frontier_exhausted": true
+}

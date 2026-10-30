@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q14922",
+  "seed_label": "table football",
+  "included_qids": [
+    "Q1342518",
+    "Q1368898",
+    "Q14922"
+  ],
+  "pruned_qids": [
+    "Q1302771",
+    "Q1637219",
+    "Q21426954",
+    "Q21503645",
+    "Q2904494",
+    "Q895060"
+  ],
+  "visited_qids": [
+    "Q1302771",
+    "Q1342518",
+    "Q1368898",
+    "Q14922",
+    "Q1637219",
+    "Q21426954",
+    "Q21503645",
+    "Q2904494",
+    "Q895060"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 7,
+      "included": 1,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:42:39.596287+00:00",
+  "finished_at_utc": "2026-10-28T17:42:40.273413+00:00",
+  "wall_seconds": 0.6771257999935187,
+  "frontier_exhausted": true
+}

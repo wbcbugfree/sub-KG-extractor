@@ -1,0 +1,42 @@
+{
+  "seed_qid": "Q152763",
+  "seed_label": "lithium compounds",
+  "included_qids": [
+    "Q152763",
+    "Q56256173"
+  ],
+  "pruned_qids": [
+    "Q1340366",
+    "Q216830",
+    "Q66366032"
+  ],
+  "visited_qids": [
+    "Q1340366",
+    "Q152763",
+    "Q216830",
+    "Q56256173",
+    "Q66366032"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 0,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:43.735474+00:00",
+  "finished_at_utc": "2026-10-28T16:41:44.387897+00:00",
+  "wall_seconds": 0.6524337000009837,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q1166273",
+  "seed_label": "darknet",
+  "included_qids": [
+    "Q1166273",
+    "Q75"
+  ],
+  "pruned_qids": [
+    "Q1043805",
+    "Q1322821",
+    "Q18198738",
+    "Q5501093",
+    "Q6055991"
+  ],
+  "visited_qids": [
+    "Q1043805",
+    "Q1166273",
+    "Q1322821",
+    "Q18198738",
+    "Q5501093",
+    "Q6055991",
+    "Q75"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 0,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:38.331283+00:00",
+  "finished_at_utc": "2026-10-28T16:41:38.974486+00:00",
+  "wall_seconds": 0.6432076000055531,
+  "frontier_exhausted": true
+}

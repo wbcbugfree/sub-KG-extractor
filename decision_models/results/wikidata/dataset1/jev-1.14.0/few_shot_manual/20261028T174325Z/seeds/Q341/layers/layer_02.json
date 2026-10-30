@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row38",
+    "legacy_row_id": "Q341|Q487365",
+    "seed_qid": "Q341",
+    "seed_label": "free software",
+    "qid": "Q487365",
+    "label": "gateway",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q17155032",
+    "parent_label": "software category",
+    "path": "free software --instance of--> software category --has subclass--> gateway",
+    "uri": "http://www.wikidata.org/entity/Q487365",
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

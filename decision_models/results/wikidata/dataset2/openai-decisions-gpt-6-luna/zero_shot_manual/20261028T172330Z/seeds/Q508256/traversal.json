@@ -1,0 +1,32 @@
+{
+  "seed_qid": "Q508256",
+  "seed_label": "Bastille",
+  "included_qids": [
+    "Q11670533",
+    "Q22808403",
+    "Q508256",
+    "Q928830"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q11670533",
+    "Q22808403",
+    "Q508256",
+    "Q928830"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:44.973165+00:00",
+  "finished_at_utc": "2026-10-28T17:23:45.249111+00:00",
+  "wall_seconds": 0.2759412000013981,
+  "frontier_exhausted": true
+}

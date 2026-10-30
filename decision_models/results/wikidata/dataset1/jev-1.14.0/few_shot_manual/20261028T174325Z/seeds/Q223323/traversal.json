@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q223323",
+  "seed_label": "root mean square",
+  "included_qids": [
+    "Q223323",
+    "Q47103999",
+    "Q56062092",
+    "Q56651566"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q223323",
+    "Q47103999",
+    "Q56062092",
+    "Q56651566"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:54.526006+00:00",
+  "finished_at_utc": "2026-10-28T17:43:55.390403+00:00",
+  "wall_seconds": 0.8643976000021212,
+  "frontier_exhausted": true
+}

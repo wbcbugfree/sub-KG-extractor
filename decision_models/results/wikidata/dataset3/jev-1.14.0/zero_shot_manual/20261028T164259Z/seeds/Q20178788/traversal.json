@@ -1,0 +1,45 @@
+{
+  "seed_qid": "Q20178788",
+  "seed_label": "Still Life with Apples",
+  "included_qids": [
+    "Q10732476",
+    "Q20178788",
+    "Q324935",
+    "Q4808368"
+  ],
+  "pruned_qids": [
+    "Q43845",
+    "Q806798"
+  ],
+  "visited_qids": [
+    "Q1034379",
+    "Q10732476",
+    "Q20178788",
+    "Q324935",
+    "Q43845",
+    "Q4808368",
+    "Q806798"
+  ],
+  "bridge_nodes_traversed": 1,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 2,
+      "excluded": 2,
+      "bridge_nodes_traversed": 1
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:43:03.318034+00:00",
+  "finished_at_utc": "2026-10-28T16:43:03.940478+00:00",
+  "wall_seconds": 0.6224464999977499,
+  "frontier_exhausted": true
+}

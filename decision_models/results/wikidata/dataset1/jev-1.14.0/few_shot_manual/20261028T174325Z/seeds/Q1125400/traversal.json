@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q1125400",
+  "seed_label": "Confluence",
+  "included_qids": [
+    "Q107415",
+    "Q1125400",
+    "Q12313595",
+    "Q474157",
+    "Q6686945"
+  ],
+  "pruned_qids": [
+    "Q28135300"
+  ],
+  "visited_qids": [
+    "Q107415",
+    "Q1125400",
+    "Q12313595",
+    "Q28135300",
+    "Q474157",
+    "Q6686945"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:30.886348+00:00",
+  "finished_at_utc": "2026-10-28T17:43:31.532729+00:00",
+  "wall_seconds": 0.6463796000025468,
+  "frontier_exhausted": true
+}

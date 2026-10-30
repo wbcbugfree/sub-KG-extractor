@@ -1,0 +1,38 @@
+{
+  "seed_qid": "Q918141",
+  "seed_label": "work breakdown structure",
+  "included_qids": [
+    "Q77285685",
+    "Q918141"
+  ],
+  "pruned_qids": [
+    "Q5260617"
+  ],
+  "visited_qids": [
+    "Q5260617",
+    "Q77285685",
+    "Q918141"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:27.227200+00:00",
+  "finished_at_utc": "2026-10-28T17:44:27.867159+00:00",
+  "wall_seconds": 0.6399517999961972,
+  "frontier_exhausted": true
+}

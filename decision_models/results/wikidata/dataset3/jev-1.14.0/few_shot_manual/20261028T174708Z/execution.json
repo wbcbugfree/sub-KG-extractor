@@ -1,0 +1,25 @@
+{
+  "command": [
+    "C:\\Users\\wang479\\miniconda3\\python.exe",
+    "-B",
+    "-u",
+    "decision_models/jev_wikidata.py",
+    "--dataset",
+    "3",
+    "--prompt-setting",
+    "few_shot_manual",
+    "--batch-size",
+    "20",
+    "--workers",
+    "5",
+    "--max-iterations",
+    "10",
+    "--output-dir",
+    "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\results\\wikidata\\dataset3\\jev-1.14.0\\few_shot_manual\\20261028T174708Z"
+  ],
+  "cwd": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor",
+  "started_at_utc": "2026-10-28T17:47:08.647175+00:00",
+  "finished_at_utc": "2026-10-28T17:47:31.786868+00:00",
+  "process_wall_seconds": 23.139670799995656,
+  "exit_code": 0
+}

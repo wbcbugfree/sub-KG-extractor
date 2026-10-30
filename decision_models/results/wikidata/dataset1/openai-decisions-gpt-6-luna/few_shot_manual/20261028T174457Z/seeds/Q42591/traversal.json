@@ -1,0 +1,64 @@
+{
+  "seed_qid": "Q42591",
+  "seed_label": "mp3",
+  "included_qids": [
+    "Q1056408",
+    "Q17144022",
+    "Q20198160",
+    "Q2720536",
+    "Q300036",
+    "Q3415066",
+    "Q379637",
+    "Q42591",
+    "Q682626",
+    "Q758853",
+    "Q830840",
+    "Q8436198"
+  ],
+  "pruned_qids": [
+    "Q1053358",
+    "Q2141903",
+    "Q55564",
+    "Q7259827"
+  ],
+  "visited_qids": [
+    "Q1053358",
+    "Q1056408",
+    "Q17144022",
+    "Q20198160",
+    "Q2141903",
+    "Q2720536",
+    "Q300036",
+    "Q3415066",
+    "Q379637",
+    "Q42591",
+    "Q55564",
+    "Q682626",
+    "Q7259827",
+    "Q758853",
+    "Q830840",
+    "Q8436198"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 6,
+      "included": 5,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 6,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:05.294064+00:00",
+  "finished_at_utc": "2026-10-28T17:46:06.165396+00:00",
+  "wall_seconds": 0.8713367000018479,
+  "frontier_exhausted": true
+}

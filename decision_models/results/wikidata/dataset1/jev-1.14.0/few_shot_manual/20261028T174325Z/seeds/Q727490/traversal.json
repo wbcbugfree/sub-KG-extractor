@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q727490",
+  "seed_label": "scalability",
+  "included_qids": [
+    "Q727490"
+  ],
+  "pruned_qids": [
+    "Q1207505"
+  ],
+  "visited_qids": [
+    "Q1207505",
+    "Q727490"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:18.802927+00:00",
+  "finished_at_utc": "2026-10-28T17:44:19.125248+00:00",
+  "wall_seconds": 0.32231750000210013,
+  "frontier_exhausted": true
+}

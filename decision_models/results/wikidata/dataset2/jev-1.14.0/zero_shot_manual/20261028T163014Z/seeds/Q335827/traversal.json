@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q335827",
+  "seed_label": "Directorate-General for External Security",
+  "included_qids": [
+    "Q335827",
+    "Q47913"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q335827",
+    "Q47913"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:24.789948+00:00",
+  "finished_at_utc": "2026-10-28T16:30:25.079496+00:00",
+  "wall_seconds": 0.28954979999980424,
+  "frontier_exhausted": true
+}

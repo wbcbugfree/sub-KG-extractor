@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4927",
+    "legacy_row_id": "Q1502887|Q11210",
+    "seed_qid": "Q1502887",
+    "seed_label": "geodetic reference system",
+    "qid": "Q11210",
+    "label": "coordinate system",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q184876",
+    "parent_label": "frame of reference",
+    "path": "geodetic reference system --subclass of--> frame of reference --has subclass--> coordinate system",
+    "uri": "http://www.wikidata.org/entity/Q11210",
+    "classification": "INCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.54,
+    "p_exclude": 0.46,
+    "selected_probability": 0.54,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

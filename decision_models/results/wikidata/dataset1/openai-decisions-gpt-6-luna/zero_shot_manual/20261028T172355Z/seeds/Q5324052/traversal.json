@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q5324052",
+  "seed_label": "ERMES",
+  "included_qids": [
+    "Q132364",
+    "Q165194",
+    "Q230872",
+    "Q39531",
+    "Q5324052",
+    "Q62388664"
+  ],
+  "pruned_qids": [
+    "Q1025017",
+    "Q2296308",
+    "Q264364",
+    "Q3408087",
+    "Q622993",
+    "Q974922"
+  ],
+  "visited_qids": [
+    "Q1025017",
+    "Q132364",
+    "Q165194",
+    "Q2296308",
+    "Q230872",
+    "Q264364",
+    "Q3408087",
+    "Q39531",
+    "Q5324052",
+    "Q622993",
+    "Q62388664",
+    "Q974922"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 3,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:56.113024+00:00",
+  "finished_at_utc": "2026-10-28T17:24:56.901479+00:00",
+  "wall_seconds": 0.7884631999913836,
+  "frontier_exhausted": true
+}

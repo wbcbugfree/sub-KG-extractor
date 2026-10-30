@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q3510521",
+  "seed_label": "computer security",
+  "included_qids": [
+    "Q11862829",
+    "Q3510521",
+    "Q8148",
+    "Q96264607"
+  ],
+  "pruned_qids": [
+    "Q101761",
+    "Q184784",
+    "Q2001056",
+    "Q555097",
+    "Q65054879"
+  ],
+  "visited_qids": [
+    "Q101761",
+    "Q11862829",
+    "Q184784",
+    "Q2001056",
+    "Q3510521",
+    "Q555097",
+    "Q65054879",
+    "Q8148",
+    "Q96264607"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 0,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:58.879271+00:00",
+  "finished_at_utc": "2026-10-28T17:45:59.592224+00:00",
+  "wall_seconds": 0.7129609999974491,
+  "frontier_exhausted": true
+}

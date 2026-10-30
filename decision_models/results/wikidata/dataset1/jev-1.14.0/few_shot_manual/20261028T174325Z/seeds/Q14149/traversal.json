@@ -1,0 +1,58 @@
+{
+  "seed_qid": "Q14149",
+  "seed_label": "Internet Group Management Protocol",
+  "included_qids": [
+    "Q14149",
+    "Q15836568"
+  ],
+  "pruned_qids": [
+    "Q1128629",
+    "Q1422324",
+    "Q1648707",
+    "Q2622793",
+    "Q3359815",
+    "Q5013874",
+    "Q65498626",
+    "Q65498858",
+    "Q81414",
+    "Q8777",
+    "Q8795"
+  ],
+  "visited_qids": [
+    "Q1128629",
+    "Q14149",
+    "Q1422324",
+    "Q15836568",
+    "Q1648707",
+    "Q2622793",
+    "Q3359815",
+    "Q5013874",
+    "Q65498626",
+    "Q65498858",
+    "Q81414",
+    "Q8777",
+    "Q8795"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 11,
+      "included": 0,
+      "excluded": 11,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:36.544826+00:00",
+  "finished_at_utc": "2026-10-28T17:43:37.264364+00:00",
+  "wall_seconds": 0.7195369999972172,
+  "frontier_exhausted": true
+}

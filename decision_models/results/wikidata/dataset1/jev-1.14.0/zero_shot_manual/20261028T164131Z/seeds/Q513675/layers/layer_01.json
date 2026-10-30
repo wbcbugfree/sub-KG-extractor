@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2847",
+    "legacy_row_id": "Q513675|Q4071928",
+    "seed_qid": "Q513675",
+    "seed_label": "pharming",
+    "qid": "Q4071928",
+    "label": "cyberattack",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q513675",
+    "parent_label": "pharming",
+    "path": "pharming --instance of--> cyberattack",
+    "uri": "http://www.wikidata.org/entity/Q4071928",
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

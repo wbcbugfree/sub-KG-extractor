@@ -1,0 +1,30 @@
+{
+  "seed_qid": "Q1474517",
+  "seed_label": "French National Institute of Health and Medical Research",
+  "included_qids": [
+    "Q13582798",
+    "Q1474517",
+    "Q31855"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q13582798",
+    "Q1474517",
+    "Q31855"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:42:39.404662+00:00",
+  "finished_at_utc": "2026-10-28T17:42:39.713265+00:00",
+  "wall_seconds": 0.30860439999378286,
+  "frontier_exhausted": true
+}

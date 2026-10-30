@@ -1,0 +1,22 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136092",
+    "prefLabel": "desalination",
+    "altLabels": "desalinisation; desalinising; desalinization; desalinizing",
+    "classification": "EXCLUDE",
+    "p_include": null,
+    "p_exclude": null,
+    "selected_probability": null,
+    "provider_confidence": null,
+    "decision_source": "user_refusal_override",
+    "iteration": 3,
+    "batch": 3,
+    "provider_answer_type": "refusal",
+    "override_reason": "User-authorized EXCLUDE for desalination only when the provider returns refusal",
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna",
+    "in_hierarchy_gold": false,
+    "scored": true,
+    "relations": "skos:related"
+  }
+]

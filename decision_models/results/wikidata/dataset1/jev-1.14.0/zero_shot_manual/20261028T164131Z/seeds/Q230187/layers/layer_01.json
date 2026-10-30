@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4943",
+    "legacy_row_id": "Q230187|Q3405599",
+    "seed_qid": "Q230187",
+    "seed_label": "crosstalk",
+    "qid": "Q3405599",
+    "label": "electrical phenomenon",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q230187",
+    "parent_label": "crosstalk",
+    "path": "crosstalk --instance of--> electrical phenomenon",
+    "uri": "http://www.wikidata.org/entity/Q3405599",
+    "classification": "INCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.83,
+    "p_exclude": 0.17,
+    "selected_probability": 0.83,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1830",
+    "legacy_row_id": "Q9492|Q355020",
+    "seed_qid": "Q9492",
+    "seed_label": "probability",
+    "qid": "Q355020",
+    "label": "probability measure",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q9492",
+    "parent_label": "probability",
+    "path": "probability --instance of--> probability measure",
+    "uri": "http://www.wikidata.org/entity/Q355020",
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

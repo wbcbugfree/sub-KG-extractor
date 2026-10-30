@@ -1,0 +1,39 @@
+{
+  "seed_qid": "Q2897746",
+  "seed_label": "RJ-48",
+  "included_qids": [
+    "Q14855079",
+    "Q2897746",
+    "Q3415212",
+    "Q595851"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q14855079",
+    "Q2897746",
+    "Q3415212",
+    "Q595851"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:00.665475+00:00",
+  "finished_at_utc": "2026-10-28T17:44:01.295367+00:00",
+  "wall_seconds": 0.6298851999890758,
+  "frontier_exhausted": true
+}

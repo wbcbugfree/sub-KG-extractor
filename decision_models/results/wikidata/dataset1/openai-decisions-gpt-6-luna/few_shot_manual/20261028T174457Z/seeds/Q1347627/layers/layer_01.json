@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row792",
+    "legacy_row_id": "Q1347627|Q43229",
+    "seed_qid": "Q1347627",
+    "seed_label": "Global Certification Forum",
+    "qid": "Q43229",
+    "label": "organization",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1347627",
+    "parent_label": "Global Certification Forum",
+    "path": "Global Certification Forum --instance of--> organization",
+    "uri": "http://www.wikidata.org/entity/Q43229",
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

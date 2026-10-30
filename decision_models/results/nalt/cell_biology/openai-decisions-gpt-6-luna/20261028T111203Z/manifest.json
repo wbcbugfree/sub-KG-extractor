@@ -1,0 +1,80 @@
+{
+  "started_at_utc": "2026-10-28T11:15:02.960297+00:00",
+  "status": "complete",
+  "benchmark_name": "cell_biology",
+  "requested_model": "gpt-6-luna",
+  "endpoint": "https://api.openai.com/v1/decisions",
+  "source_path": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\tmp\\nalt-baseline-source\\nalt-full_dwn_20240716.rdf",
+  "source_sha256": "71a3e2e5ca84e5f680e1ebbf3fa7a5892415c58de716334b5add27b54af6d168",
+  "prompt_path": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\usecase\\prompts\\manual\\cell_biology.md",
+  "prompt_file_sha256": "877a77324085222022687655f53670c86681a9b77d101a3874745874178c7221",
+  "transmitted_prompt_sha256": "877a77324085222022687655f53670c86681a9b77d101a3874745874178c7221",
+  "examples_path": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\usecase\\prompts\\examples\\cell_biology_label_meta_examples.json",
+  "examples_sha256": "925bf60f8fe3dd101a36c8b0d41115712b253bf45b0e3dfe9f08a0c981c07d9c",
+  "preset": {
+    "gold_root_label": "Cell biology",
+    "gold_root_uri": "https://lod.nal.usda.gov/nalt/17472",
+    "seed_labels": [
+      "cells"
+    ],
+    "output_subdir": "cell",
+    "benchmark_name": "cell_biology"
+  },
+  "jev_run": "decision_models/results/nalt/cell_biology/jev-1.14.0/20261028T101345Z",
+  "settings": {
+    "batch_size": 20,
+    "max_workers": 5,
+    "max_iterations": 20,
+    "request_timeout_seconds": 60,
+    "transport": "curl",
+    "max_attempts": 3,
+    "primitive": "choice",
+    "decision_rule": "provider Choice (argmax)",
+    "confidence_gating": false,
+    "fallback_provider": null,
+    "prompt_cache_options": "provider defaults: implicit, 30m",
+    "prompt_mapping": "Original system prompt + two newlines + identical Jev selector in each question; original Jev state in input."
+  },
+  "python": "3.13.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "dependencies": {
+    "rdflib": "7.6.0",
+    "pydantic": "2.13.4",
+    "openai": "3.10.0"
+  },
+  "pricing": {
+    "checked_on": "2026-10-28",
+    "sources": [
+      "https://developers.openai.com/api/docs/guides/decisions",
+      "https://developers.openai.com/api/docs/pricing"
+    ],
+    "rates_usd_per_million": {
+      "uncached_input": 0.1,
+      "cached_input": 0.01,
+      "cache_write_30m": 0.125,
+      "output": 0.0
+    }
+  },
+  "code_hashes": {
+    "decision_models/openai_decisions_nalt.py": "f43b1b55dc57636da052b2d8a12d26cd6f21c6e20e3f705d31f2ff3b0fd61210",
+    "decision_models/jev_nalt.py": "e4d96ef6825826519916f21beab6575278bff65c89441dfcecaecf299ff62ef4",
+    "usecase/subkg_extractor_nalt.py": "10485acb775b7e26c614cbf4d8204e39ee689148c18b6c49697e5d5289e23386",
+    "decision_models/check_jev_api.py": "3bd869c51043d83f3d0462d45ddb4814f0b8677fa490c7fa389f71f279dc9c4b"
+  },
+  "code_snapshots": {
+    "decision_models/openai_decisions_nalt.py": "decision_models/code_snapshots/openai_decisions_nalt_f43b1b55dc57636da052b2d8a12d26cd6f21c6e20e3f705d31f2ff3b0fd61210.py",
+    "decision_models/jev_nalt.py": "decision_models/code_snapshots/jev_nalt_e4d96ef6825826519916f21beab6575278bff65c89441dfcecaecf299ff62ef4.py",
+    "usecase/subkg_extractor_nalt.py": "decision_models/code_snapshots/subkg_extractor_nalt_10485acb775b7e26c614cbf4d8204e39ee689148c18b6c49697e5d5289e23386.py",
+    "decision_models/check_jev_api.py": "decision_models/code_snapshots/check_jev_api_3bd869c51043d83f3d0462d45ddb4814f0b8677fa490c7fa389f71f279dc9c4b.py"
+  },
+  "transport_version": "curl 8.21.0 (Windows) libcurl/8.21.0 Schannel zlib/1.3.2 WinIDN WinLDAP",
+  "graph_parse_and_index_seconds": 51.29256390000228,
+  "baseline_replay_seconds": 8.50293899999815,
+  "live_inference_started_at_utc": "2026-10-28T11:16:03.150378+00:00",
+  "preparation_wall_seconds": 60.230136300000595,
+  "finished_at_utc": "2026-10-28T11:16:15.458766+00:00",
+  "elapsed_seconds": 72.53765920000296,
+  "response_models": [
+    "gpt-6-luna"
+  ]
+}

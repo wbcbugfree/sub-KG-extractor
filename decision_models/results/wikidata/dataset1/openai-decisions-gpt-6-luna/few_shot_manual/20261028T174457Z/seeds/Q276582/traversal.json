@@ -1,0 +1,77 @@
+{
+  "seed_qid": "Q276582",
+  "seed_label": "binary-coded decimal",
+  "included_qids": [
+    "Q1070094",
+    "Q117879",
+    "Q1243369",
+    "Q25211958",
+    "Q276582",
+    "Q3244670",
+    "Q449270",
+    "Q5091568",
+    "Q5249173",
+    "Q5359789",
+    "Q55634700",
+    "Q649900"
+  ],
+  "pruned_qids": [
+    "Q3329233",
+    "Q527381",
+    "Q7051819",
+    "Q729138",
+    "Q7454683",
+    "Q7661310",
+    "Q858684"
+  ],
+  "visited_qids": [
+    "Q1070094",
+    "Q117879",
+    "Q1243369",
+    "Q25211958",
+    "Q276582",
+    "Q3244670",
+    "Q3329233",
+    "Q449270",
+    "Q5091568",
+    "Q5249173",
+    "Q527381",
+    "Q5359789",
+    "Q55634700",
+    "Q649900",
+    "Q7051819",
+    "Q729138",
+    "Q7454683",
+    "Q7661310",
+    "Q858684"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 11,
+      "included": 6,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 6,
+      "included": 4,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:49.962534+00:00",
+  "finished_at_utc": "2026-10-28T17:45:51.755415+00:00",
+  "wall_seconds": 1.7928790999867488,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,60 @@
+{
+  "seed_qid": "Q1273376",
+  "seed_label": "E.Leclerc",
+  "included_qids": [
+    "Q1273376",
+    "Q43229",
+    "Q4830453",
+    "Q6881511",
+    "Q844526"
+  ],
+  "pruned_qids": [
+    "Q12309784",
+    "Q1936090",
+    "Q2111762",
+    "Q388570",
+    "Q562166",
+    "Q6819536",
+    "Q786820",
+    "Q814610",
+    "Q8772125"
+  ],
+  "visited_qids": [
+    "Q12309784",
+    "Q1273376",
+    "Q1936090",
+    "Q2111762",
+    "Q388570",
+    "Q43229",
+    "Q4830453",
+    "Q562166",
+    "Q6819536",
+    "Q6881511",
+    "Q786820",
+    "Q814610",
+    "Q844526",
+    "Q8772125"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 0,
+      "excluded": 9,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:01.611776+00:00",
+  "finished_at_utc": "2026-10-28T17:43:02.526386+00:00",
+  "wall_seconds": 0.9146180999960052,
+  "frontier_exhausted": true
+}

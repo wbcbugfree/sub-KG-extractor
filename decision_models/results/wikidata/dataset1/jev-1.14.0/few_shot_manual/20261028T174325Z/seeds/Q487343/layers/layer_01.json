@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4643",
+    "legacy_row_id": "Q487343|Q193395",
+    "seed_qid": "Q487343",
+    "seed_label": "solid-state drive",
+    "qid": "Q193395",
+    "label": "recording medium",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q487343",
+    "parent_label": "solid-state drive",
+    "path": "solid-state drive --instance of--> recording medium",
+    "uri": "http://www.wikidata.org/entity/Q193395",
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

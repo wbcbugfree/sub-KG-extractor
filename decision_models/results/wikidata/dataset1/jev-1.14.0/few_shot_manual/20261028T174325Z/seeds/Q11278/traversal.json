@@ -1,0 +1,31 @@
+{
+  "seed_qid": "Q11278",
+  "seed_label": "Hyper-V",
+  "included_qids": [
+    "Q1077480",
+    "Q11278"
+  ],
+  "pruned_qids": [
+    "Q26430975"
+  ],
+  "visited_qids": [
+    "Q1077480",
+    "Q11278",
+    "Q26430975"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:31.260549+00:00",
+  "finished_at_utc": "2026-10-28T17:43:31.606027+00:00",
+  "wall_seconds": 0.3454873000009684,
+  "frontier_exhausted": true
+}

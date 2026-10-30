@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q2093",
+  "seed_label": "Document Object Model",
+  "included_qids": [
+    "Q107300839",
+    "Q165194",
+    "Q20202982",
+    "Q2093"
+  ],
+  "pruned_qids": [
+    "Q1172367",
+    "Q4392311",
+    "Q7095934"
+  ],
+  "visited_qids": [
+    "Q107300839",
+    "Q1172367",
+    "Q165194",
+    "Q20202982",
+    "Q2093",
+    "Q4392311",
+    "Q7095934"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 1,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:38.988503+00:00",
+  "finished_at_utc": "2026-10-28T17:45:39.921895+00:00",
+  "wall_seconds": 0.9333936000039103,
+  "frontier_exhausted": true
+}

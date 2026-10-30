@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q1138866",
+  "seed_label": "International Commission on Non-Ionizing Radiation Protection",
+  "included_qids": [
+    "Q1138866",
+    "Q163740",
+    "Q17084016"
+  ],
+  "pruned_qids": [
+    "Q11570934"
+  ],
+  "visited_qids": [
+    "Q1138866",
+    "Q11570934",
+    "Q163740",
+    "Q17084016"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:31.707996+00:00",
+  "finished_at_utc": "2026-10-28T17:43:32.291394+00:00",
+  "wall_seconds": 0.5833984999917448,
+  "frontier_exhausted": true
+}

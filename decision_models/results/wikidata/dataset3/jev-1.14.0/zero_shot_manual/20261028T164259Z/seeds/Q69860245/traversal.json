@@ -1,0 +1,38 @@
+{
+  "seed_qid": "Q69860245",
+  "seed_label": "Mór Lipót Herzog",
+  "included_qids": [
+    "Q10732476",
+    "Q69860245",
+    "Q98801351"
+  ],
+  "pruned_qids": [
+    "Q3518553",
+    "Q43845",
+    "Q806798"
+  ],
+  "visited_qids": [
+    "Q10732476",
+    "Q1549283",
+    "Q3518553",
+    "Q43845",
+    "Q69860245",
+    "Q806798",
+    "Q98801351"
+  ],
+  "bridge_nodes_traversed": 1,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 5,
+      "included": 2,
+      "excluded": 3,
+      "bridge_nodes_traversed": 1
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:43:09.967967+00:00",
+  "finished_at_utc": "2026-10-28T16:43:10.329845+00:00",
+  "wall_seconds": 0.36188830000173766,
+  "frontier_exhausted": true
+}

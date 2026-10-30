@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q8795",
+  "seed_label": "Internet Protocol",
+  "included_qids": [
+    "Q14208553",
+    "Q290378",
+    "Q8795"
+  ],
+  "pruned_qids": [
+    "Q1349214",
+    "Q211586",
+    "Q5455176",
+    "Q6723631",
+    "Q7920564"
+  ],
+  "visited_qids": [
+    "Q1349214",
+    "Q14208553",
+    "Q211586",
+    "Q290378",
+    "Q5455176",
+    "Q6723631",
+    "Q7920564",
+    "Q8795"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 0,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:27.840491+00:00",
+  "finished_at_utc": "2026-10-28T16:42:28.481232+00:00",
+  "wall_seconds": 0.6407319999998435,
+  "frontier_exhausted": true
+}

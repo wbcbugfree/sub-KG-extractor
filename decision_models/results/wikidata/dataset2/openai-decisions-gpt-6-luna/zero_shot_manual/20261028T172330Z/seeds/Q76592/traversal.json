@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q76592",
+  "seed_label": "combinatorics",
+  "included_qids": [
+    "Q1005603",
+    "Q1936384",
+    "Q2985062",
+    "Q336787",
+    "Q3532114",
+    "Q5422299",
+    "Q5535478",
+    "Q56313053",
+    "Q6029708",
+    "Q76592"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1005603",
+    "Q1936384",
+    "Q2985062",
+    "Q336787",
+    "Q3532114",
+    "Q5422299",
+    "Q5535478",
+    "Q56313053",
+    "Q6029708",
+    "Q76592"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 9,
+      "included": 9,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:46.199665+00:00",
+  "finished_at_utc": "2026-10-28T17:23:46.498813+00:00",
+  "wall_seconds": 0.29914950000238605,
+  "frontier_exhausted": true
+}

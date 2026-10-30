@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1222",
+    "legacy_row_id": "Q869830|Q93288",
+    "seed_qid": "Q869830",
+    "seed_label": "service-level agreement",
+    "qid": "Q93288",
+    "label": "contract",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q869830",
+    "parent_label": "service-level agreement",
+    "path": "service-level agreement --instance of--> contract",
+    "uri": "http://www.wikidata.org/entity/Q93288",
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

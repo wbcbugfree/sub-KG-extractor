@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q66175",
+  "seed_label": "telex",
+  "included_qids": [
+    "Q66175"
+  ],
+  "pruned_qids": [
+    "Q340169"
+  ],
+  "visited_qids": [
+    "Q340169",
+    "Q66175"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:17.513382+00:00",
+  "finished_at_utc": "2026-10-28T17:44:17.845030+00:00",
+  "wall_seconds": 0.33165329998882953,
+  "frontier_exhausted": true
+}

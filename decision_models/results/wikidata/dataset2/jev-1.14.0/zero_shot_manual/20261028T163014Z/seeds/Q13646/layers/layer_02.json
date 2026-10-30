@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row366",
+    "legacy_row_id": "Q13646|Q23043008",
+    "seed_qid": "Q13646",
+    "seed_label": "SNCF",
+    "qid": "Q23043008",
+    "label": "Krasnoliman Directorate of Railway Transportation",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q2324835",
+    "parent_label": "national railway",
+    "path": "SNCF --instance of--> national railway --has subclass--> Krasnoliman Directorate of Railway Transportation",
+    "uri": "http://www.wikidata.org/entity/Q23043008",
+    "classification": "EXCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.45,
+    "p_exclude": 0.55,
+    "selected_probability": 0.55,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

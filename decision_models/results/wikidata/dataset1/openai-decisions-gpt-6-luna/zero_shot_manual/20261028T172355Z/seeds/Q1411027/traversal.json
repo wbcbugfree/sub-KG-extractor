@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q1411027",
+  "seed_label": "Telecommunication Technology Committee",
+  "included_qids": [
+    "Q1411027",
+    "Q28523131",
+    "Q43229",
+    "Q4830453",
+    "Q783794"
+  ],
+  "pruned_qids": [
+    "Q10686791",
+    "Q110666024",
+    "Q1132207",
+    "Q856625",
+    "Q99750985"
+  ],
+  "visited_qids": [
+    "Q10686791",
+    "Q110666024",
+    "Q1132207",
+    "Q1411027",
+    "Q28523131",
+    "Q43229",
+    "Q4830453",
+    "Q783794",
+    "Q856625",
+    "Q99750985"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 1,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:08.600834+00:00",
+  "finished_at_utc": "2026-10-28T17:24:09.463339+00:00",
+  "wall_seconds": 0.8625164999975823,
+  "frontier_exhausted": true
+}

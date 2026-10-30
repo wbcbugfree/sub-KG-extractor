@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q749245",
+  "seed_label": "Autonomous System",
+  "included_qids": [
+    "Q749245"
+  ],
+  "pruned_qids": [
+    "Q36161"
+  ],
+  "visited_qids": [
+    "Q36161",
+    "Q749245"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:21.656938+00:00",
+  "finished_at_utc": "2026-10-28T16:42:21.915188+00:00",
+  "wall_seconds": 0.25824580001062714,
+  "frontier_exhausted": true
+}

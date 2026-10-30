@@ -1,0 +1,33 @@
+{
+  "seed_qid": "Q462",
+  "seed_label": "Star Wars",
+  "included_qids": [
+    "Q196600",
+    "Q431289",
+    "Q462"
+  ],
+  "pruned_qids": [
+    "Q19786787"
+  ],
+  "visited_qids": [
+    "Q196600",
+    "Q19786787",
+    "Q431289",
+    "Q462"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:44.890841+00:00",
+  "finished_at_utc": "2026-10-28T17:23:45.400866+00:00",
+  "wall_seconds": 0.5100210000091465,
+  "frontier_exhausted": true
+}

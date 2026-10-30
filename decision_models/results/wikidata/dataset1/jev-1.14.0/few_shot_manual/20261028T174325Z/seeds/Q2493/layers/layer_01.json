@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2831",
+    "legacy_row_id": "Q2493|Q500669",
+    "seed_qid": "Q2493",
+    "seed_label": "data compression",
+    "qid": "Q500669",
+    "label": "technical process",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q2493",
+    "parent_label": "data compression",
+    "path": "data compression --instance of--> technical process",
+    "uri": "http://www.wikidata.org/entity/Q500669",
+    "classification": "INCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.75,
+    "p_exclude": 0.25,
+    "selected_probability": 0.75,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

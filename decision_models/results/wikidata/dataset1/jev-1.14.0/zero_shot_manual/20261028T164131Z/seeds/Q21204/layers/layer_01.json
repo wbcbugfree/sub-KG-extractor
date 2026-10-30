@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row83",
+    "legacy_row_id": "Q21204|Q579287",
+    "seed_qid": "Q21204",
+    "seed_label": "International Phonetic Alphabet",
+    "qid": "Q579287",
+    "label": "phonetic alphabet",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q21204",
+    "parent_label": "International Phonetic Alphabet",
+    "path": "International Phonetic Alphabet --instance of--> phonetic alphabet",
+    "uri": "http://www.wikidata.org/entity/Q579287",
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

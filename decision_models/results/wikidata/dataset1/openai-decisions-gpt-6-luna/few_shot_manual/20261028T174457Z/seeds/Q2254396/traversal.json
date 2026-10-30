@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q2254396",
+  "seed_label": "Viaccess",
+  "included_qids": [
+    "Q2254396"
+  ],
+  "pruned_qids": [
+    "Q4830453"
+  ],
+  "visited_qids": [
+    "Q2254396",
+    "Q4830453"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:42.737054+00:00",
+  "finished_at_utc": "2026-10-28T17:45:43.166302+00:00",
+  "wall_seconds": 0.429257099996903,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,66 @@
+{
+  "seed_qid": "Q1572577",
+  "seed_label": "product life-cycle management",
+  "included_qids": [
+    "Q1363963",
+    "Q1572577"
+  ],
+  "pruned_qids": [
+    "Q1020767",
+    "Q1061357",
+    "Q1155133",
+    "Q1426546",
+    "Q16999365",
+    "Q291046",
+    "Q334955",
+    "Q3711935",
+    "Q5057785",
+    "Q5166482",
+    "Q5615027",
+    "Q646227",
+    "Q677073",
+    "Q7558980",
+    "Q7862943"
+  ],
+  "visited_qids": [
+    "Q1020767",
+    "Q1061357",
+    "Q1155133",
+    "Q1363963",
+    "Q1426546",
+    "Q1572577",
+    "Q16999365",
+    "Q291046",
+    "Q334955",
+    "Q3711935",
+    "Q5057785",
+    "Q5166482",
+    "Q5615027",
+    "Q646227",
+    "Q677073",
+    "Q7558980",
+    "Q7862943"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 15,
+      "included": 0,
+      "excluded": 15,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:12.593957+00:00",
+  "finished_at_utc": "2026-10-28T17:24:13.492641+00:00",
+  "wall_seconds": 0.8986837000120431,
+  "frontier_exhausted": true
+}

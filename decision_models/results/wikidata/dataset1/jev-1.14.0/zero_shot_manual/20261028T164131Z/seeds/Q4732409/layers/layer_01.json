@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3705",
+    "legacy_row_id": "Q4732409|Q43229",
+    "seed_qid": "Q4732409",
+    "seed_label": "Alliance for Telecommunications Industry Solutions",
+    "qid": "Q43229",
+    "label": "organization",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q4732409",
+    "parent_label": "Alliance for Telecommunications Industry Solutions",
+    "path": "Alliance for Telecommunications Industry Solutions --instance of--> organization",
+    "uri": "http://www.wikidata.org/entity/Q43229",
+    "classification": "INCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.63,
+    "p_exclude": 0.37,
+    "selected_probability": 0.63,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

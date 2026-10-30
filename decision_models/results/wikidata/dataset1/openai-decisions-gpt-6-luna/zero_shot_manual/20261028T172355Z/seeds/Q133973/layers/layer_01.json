@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2941",
+    "legacy_row_id": "Q133973|Q43229",
+    "seed_qid": "Q133973",
+    "seed_label": "WiMAX",
+    "qid": "Q43229",
+    "label": "organization",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 0,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q133973",
+    "parent_label": "WiMAX",
+    "path": "WiMAX --instance of--> organization",
+    "uri": "http://www.wikidata.org/entity/Q43229",
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

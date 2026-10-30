@@ -1,0 +1,54 @@
+{
+  "seed_qid": "Q79984",
+  "seed_label": "Ethernet",
+  "included_qids": [
+    "Q317623",
+    "Q79984"
+  ],
+  "pruned_qids": [
+    "Q105990004",
+    "Q1091326",
+    "Q110404686",
+    "Q290378",
+    "Q340169",
+    "Q375479",
+    "Q45941145",
+    "Q6313217",
+    "Q7554365"
+  ],
+  "visited_qids": [
+    "Q105990004",
+    "Q1091326",
+    "Q110404686",
+    "Q290378",
+    "Q317623",
+    "Q340169",
+    "Q375479",
+    "Q45941145",
+    "Q6313217",
+    "Q7554365",
+    "Q79984"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 0,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:21.546073+00:00",
+  "finished_at_utc": "2026-10-28T17:44:22.266293+00:00",
+  "wall_seconds": 0.7202278000040678,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4162",
+    "legacy_row_id": "Q2488884|Q595851",
+    "seed_qid": "Q2488884",
+    "seed_label": "RJ-11 connectors",
+    "qid": "Q595851",
+    "label": "registered jack",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q2488884",
+    "parent_label": "RJ-11 connectors",
+    "path": "RJ-11 connectors --instance of--> registered jack",
+    "uri": "http://www.wikidata.org/entity/Q595851",
+    "classification": "INCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.68,
+    "p_exclude": 0.32,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

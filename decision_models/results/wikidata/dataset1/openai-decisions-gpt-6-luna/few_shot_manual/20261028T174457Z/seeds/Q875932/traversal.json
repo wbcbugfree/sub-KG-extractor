@@ -1,0 +1,54 @@
+{
+  "seed_qid": "Q875932",
+  "seed_label": "digital watermarking",
+  "included_qids": [
+    "Q80071",
+    "Q875932"
+  ],
+  "pruned_qids": [
+    "Q1191504",
+    "Q1221121",
+    "Q1470711",
+    "Q2038570",
+    "Q2372244",
+    "Q2543966",
+    "Q340826",
+    "Q7208362",
+    "Q806880"
+  ],
+  "visited_qids": [
+    "Q1191504",
+    "Q1221121",
+    "Q1470711",
+    "Q2038570",
+    "Q2372244",
+    "Q2543966",
+    "Q340826",
+    "Q7208362",
+    "Q80071",
+    "Q806880",
+    "Q875932"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 0,
+      "excluded": 9,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:32.233250+00:00",
+  "finished_at_utc": "2026-10-28T17:46:33.041288+00:00",
+  "wall_seconds": 0.808041600001161,
+  "frontier_exhausted": true
+}

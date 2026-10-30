@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1761",
+    "legacy_row_id": "Q243697|Q2118393",
+    "seed_qid": "Q243697",
+    "seed_label": "geek",
+    "qid": "Q2118393",
+    "label": "East Germany punk",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q19116554",
+    "parent_label": "youth subculture",
+    "path": "geek --instance of--> subculture --has subclass--> youth subculture --has subclass--> East Germany punk",
+    "uri": "http://www.wikidata.org/entity/Q2118393",
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "seed_qid": "Q691593",
+  "seed_label": "Common Object Request Broker Architecture",
+  "included_qids": [
+    "Q317623",
+    "Q635130",
+    "Q691593"
+  ],
+  "pruned_qids": [
+    "Q105990004",
+    "Q105990097",
+    "Q109560589",
+    "Q132364",
+    "Q1584581",
+    "Q2309650",
+    "Q23824424",
+    "Q29473497",
+    "Q375479",
+    "Q45941145",
+    "Q56277227",
+    "Q848031",
+    "Q85875700",
+    "Q917023"
+  ],
+  "visited_qids": [
+    "Q105990004",
+    "Q105990097",
+    "Q109560589",
+    "Q132364",
+    "Q1584581",
+    "Q2309650",
+    "Q23824424",
+    "Q29473497",
+    "Q317623",
+    "Q375479",
+    "Q45941145",
+    "Q56277227",
+    "Q635130",
+    "Q691593",
+    "Q848031",
+    "Q85875700",
+    "Q917023"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 15,
+      "included": 1,
+      "excluded": 14,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:19.302004+00:00",
+  "finished_at_utc": "2026-10-28T17:46:20.673771+00:00",
+  "wall_seconds": 1.3717719999986002,
+  "frontier_exhausted": true
+}

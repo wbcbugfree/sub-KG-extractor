@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4360",
+    "legacy_row_id": "Q2994294|Q170474",
+    "seed_qid": "Q2994294",
+    "seed_label": "GMSK",
+    "qid": "Q170474",
+    "label": "modulation",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q2994294",
+    "parent_label": "GMSK",
+    "path": "GMSK --instance of--> modulation",
+    "uri": "http://www.wikidata.org/entity/Q170474",
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "seed_qid": "Q1017587",
+  "seed_label": "Business Objects",
+  "included_qids": [
+    "Q1017587",
+    "Q1058914",
+    "Q161726",
+    "Q4830453",
+    "Q6881511"
+  ],
+  "pruned_qids": [
+    "Q105547053",
+    "Q1132207",
+    "Q16968466",
+    "Q220142",
+    "Q25112142",
+    "Q2566474",
+    "Q3591545",
+    "Q7830259"
+  ],
+  "visited_qids": [
+    "Q1017587",
+    "Q105547053",
+    "Q1058914",
+    "Q1132207",
+    "Q161726",
+    "Q16968466",
+    "Q220142",
+    "Q25112142",
+    "Q2566474",
+    "Q3591545",
+    "Q4830453",
+    "Q6881511",
+    "Q7830259"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 10,
+      "included": 2,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:58.053251+00:00",
+  "finished_at_utc": "2026-10-28T17:23:58.749355+00:00",
+  "wall_seconds": 0.6961049999954412,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4306",
+    "legacy_row_id": "Q1347847|Q8513",
+    "seed_qid": "Q1347847",
+    "seed_label": "Central Equipment Identity Register",
+    "qid": "Q8513",
+    "label": "database",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1347847",
+    "parent_label": "Central Equipment Identity Register",
+    "path": "Central Equipment Identity Register --instance of--> database",
+    "uri": "http://www.wikidata.org/entity/Q8513",
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

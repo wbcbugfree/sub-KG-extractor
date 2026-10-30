@@ -1,0 +1,85 @@
+{
+  "selection": "Exactly the ten completed decision-model runs underlying decision_models/REPORT.md. Other attempts are excluded and removed.",
+  "runs": [
+    {
+      "branch": "cell_biology",
+      "provider": "openai",
+      "model": "gpt-6-luna",
+      "run_dir": "decision_models/results/nalt/cell_biology/openai-decisions-gpt-6-luna/20261028T111203Z",
+      "experiment_variant": "strict",
+      "process_wall_seconds": 78.31761369999731
+    },
+    {
+      "branch": "cell_biology",
+      "provider": "typesafe",
+      "model": "jev-1.14.0",
+      "run_dir": "decision_models/results/nalt/cell_biology/jev-1.14.0/20261028T101345Z",
+      "experiment_variant": "strict",
+      "process_wall_seconds": 66.39214479999646
+    },
+    {
+      "branch": "immunology",
+      "provider": "openai",
+      "model": "gpt-6-luna",
+      "run_dir": "decision_models/results/nalt/immunology/openai-decisions-gpt-6-luna/20261028T111203Z",
+      "experiment_variant": "strict",
+      "process_wall_seconds": 77.10990640000091
+    },
+    {
+      "branch": "immunology",
+      "provider": "typesafe",
+      "model": "jev-1.14.0",
+      "run_dir": "decision_models/results/nalt/immunology/jev-1.14.0/20261028T101345Z",
+      "experiment_variant": "strict",
+      "process_wall_seconds": 64.50113390000479
+    },
+    {
+      "branch": "pest_management",
+      "provider": "openai",
+      "model": "gpt-6-luna",
+      "run_dir": "decision_models/results/nalt/pest_management/openai-decisions-gpt-6-luna/20261028T111203Z",
+      "experiment_variant": "strict",
+      "process_wall_seconds": 88.53591819999565
+    },
+    {
+      "branch": "pest_management",
+      "provider": "typesafe",
+      "model": "jev-1.14.0",
+      "run_dir": "decision_models/results/nalt/pest_management/jev-1.14.0/20261028T101345Z",
+      "experiment_variant": "strict",
+      "process_wall_seconds": 70.72914190000301
+    },
+    {
+      "branch": "plant_health",
+      "provider": "openai",
+      "model": "gpt-6-luna",
+      "run_dir": "decision_models/results/nalt/plant_health/openai-decisions-gpt-6-luna/20261028T111203Z",
+      "experiment_variant": "strict",
+      "process_wall_seconds": 73.24849929999618
+    },
+    {
+      "branch": "plant_health",
+      "provider": "typesafe",
+      "model": "jev-1.14.0",
+      "run_dir": "decision_models/results/nalt/plant_health/jev-1.14.0/20261027T133547Z",
+      "experiment_variant": "strict",
+      "process_wall_seconds": null
+    },
+    {
+      "branch": "soil_science",
+      "provider": "openai",
+      "model": "gpt-6-luna",
+      "run_dir": "decision_models/results/nalt/soil_science/openai-decisions-gpt-6-luna/20261028T130436Z_desalination_override",
+      "experiment_variant": "desalination_refusal_exclude",
+      "process_wall_seconds": 81.0738124999989
+    },
+    {
+      "branch": "soil_science",
+      "provider": "typesafe",
+      "model": "jev-1.14.0",
+      "run_dir": "decision_models/results/nalt/soil_science/jev-1.14.0/20261028T101345Z",
+      "experiment_variant": "strict",
+      "process_wall_seconds": 78.86589480000112
+    }
+  ]
+}

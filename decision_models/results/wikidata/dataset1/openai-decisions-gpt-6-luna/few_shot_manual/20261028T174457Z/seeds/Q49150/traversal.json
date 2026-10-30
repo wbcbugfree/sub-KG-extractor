@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q49150",
+  "seed_label": "Remote Desktop Protocol",
+  "included_qids": [
+    "Q15836568",
+    "Q49150",
+    "Q8777"
+  ],
+  "pruned_qids": [
+    "Q5013874"
+  ],
+  "visited_qids": [
+    "Q15836568",
+    "Q49150",
+    "Q5013874",
+    "Q8777"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:11.756712+00:00",
+  "finished_at_utc": "2026-10-28T17:46:12.548500+00:00",
+  "wall_seconds": 0.7917919000028633,
+  "frontier_exhausted": true
+}

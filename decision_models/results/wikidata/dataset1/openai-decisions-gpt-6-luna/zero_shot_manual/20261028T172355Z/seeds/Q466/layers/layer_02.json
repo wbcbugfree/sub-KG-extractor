@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2431",
+    "legacy_row_id": "Q466|Q1662611",
+    "seed_qid": "Q466",
+    "seed_label": "World Wide Web",
+    "qid": "Q1662611",
+    "label": "IT system",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q121182",
+    "parent_label": "information system",
+    "path": "World Wide Web --instance of--> information system --has subclass--> IT system",
+    "uri": "http://www.wikidata.org/entity/Q1662611",
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

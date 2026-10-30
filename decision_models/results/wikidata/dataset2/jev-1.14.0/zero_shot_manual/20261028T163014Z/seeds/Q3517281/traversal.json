@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q3517281",
+  "seed_label": "Telecom Nancy",
+  "included_qids": [
+    "Q3517281",
+    "Q4671277"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q3517281",
+    "Q4671277"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:25.164240+00:00",
+  "finished_at_utc": "2026-10-28T16:30:25.483898+00:00",
+  "wall_seconds": 0.3196544999955222,
+  "frontier_exhausted": true
+}

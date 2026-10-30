@@ -1,0 +1,54 @@
+{
+  "seed_qid": "Q83363",
+  "seed_label": "jeans",
+  "included_qids": [
+    "Q1074407",
+    "Q15133790",
+    "Q17119191",
+    "Q3377759",
+    "Q39908",
+    "Q618998",
+    "Q7133943",
+    "Q83363"
+  ],
+  "pruned_qids": [
+    "Q18088270",
+    "Q3237209",
+    "Q3530132"
+  ],
+  "visited_qids": [
+    "Q1074407",
+    "Q15133790",
+    "Q17119191",
+    "Q18088270",
+    "Q3237209",
+    "Q3377759",
+    "Q3530132",
+    "Q39908",
+    "Q618998",
+    "Q7133943",
+    "Q83363"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 3,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 4,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:16.003411+00:00",
+  "finished_at_utc": "2026-10-28T17:43:17.220409+00:00",
+  "wall_seconds": 1.2169970000104513,
+  "frontier_exhausted": true
+}

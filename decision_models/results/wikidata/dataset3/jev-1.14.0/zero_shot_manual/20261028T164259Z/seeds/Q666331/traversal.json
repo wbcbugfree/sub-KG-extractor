@@ -1,0 +1,35 @@
+{
+  "seed_qid": "Q666331",
+  "seed_label": "Foundation E.G. Bührle Collection",
+  "included_qids": [
+    "Q10732476",
+    "Q666331",
+    "Q98801351"
+  ],
+  "pruned_qids": [
+    "Q82955"
+  ],
+  "visited_qids": [
+    "Q10732476",
+    "Q18060374",
+    "Q3022585",
+    "Q666331",
+    "Q82955",
+    "Q98801351"
+  ],
+  "bridge_nodes_traversed": 2,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 2
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:43:09.657157+00:00",
+  "finished_at_utc": "2026-10-28T16:43:09.966414+00:00",
+  "wall_seconds": 0.3092655999935232,
+  "frontier_exhausted": true
+}

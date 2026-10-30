@@ -1,0 +1,33 @@
+{
+  "seed_qid": "Q180",
+  "seed_label": "Wikimedia Foundation",
+  "included_qids": [
+    "Q157031",
+    "Q180",
+    "Q708676"
+  ],
+  "pruned_qids": [
+    "Q2166013"
+  ],
+  "visited_qids": [
+    "Q157031",
+    "Q180",
+    "Q2166013",
+    "Q708676"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 2,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:21.117481+00:00",
+  "finished_at_utc": "2026-10-28T16:30:21.437095+00:00",
+  "wall_seconds": 0.3196148999995785,
+  "frontier_exhausted": true
+}

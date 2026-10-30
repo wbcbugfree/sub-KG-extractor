@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2962",
+    "legacy_row_id": "Q228493|Q1151067",
+    "seed_qid": "Q228493",
+    "seed_label": "access right",
+    "qid": "Q1151067",
+    "label": "rule",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q228493",
+    "parent_label": "access right",
+    "path": "access right --instance of--> rule",
+    "uri": "http://www.wikidata.org/entity/Q1151067",
+    "classification": "INCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.67,
+    "p_exclude": 0.33,
+    "selected_probability": 0.67,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

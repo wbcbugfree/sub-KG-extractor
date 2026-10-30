@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q5294",
+  "seed_label": "DVD",
+  "included_qids": [
+    "Q5294",
+    "Q82036085"
+  ],
+  "pruned_qids": [
+    "Q108037652",
+    "Q1261026",
+    "Q81935689",
+    "Q82046811"
+  ],
+  "visited_qids": [
+    "Q108037652",
+    "Q1261026",
+    "Q5294",
+    "Q81935689",
+    "Q82036085",
+    "Q82046811"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 0,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:13.801820+00:00",
+  "finished_at_utc": "2026-10-28T17:44:14.411969+00:00",
+  "wall_seconds": 0.610146299994085,
+  "frontier_exhausted": true
+}

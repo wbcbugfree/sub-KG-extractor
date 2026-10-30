@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1203",
+    "legacy_row_id": "Q79692|Q1023122",
+    "seed_qid": "Q79692",
+    "seed_label": "3G",
+    "qid": "Q1023122",
+    "label": "CDMA2000",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q26763979",
+    "parent_label": "mobile phone network standard",
+    "path": "3G --instance of--> mobile phone network standard --has subclass--> CDMA2000",
+    "uri": "http://www.wikidata.org/entity/Q1023122",
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

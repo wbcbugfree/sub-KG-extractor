@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q9184057",
+  "seed_label": "CLIR",
+  "included_qids": [
+    "Q58325919",
+    "Q9184057"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q58325919",
+    "Q9184057"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:27.313999+00:00",
+  "finished_at_utc": "2026-10-28T17:44:27.622442+00:00",
+  "wall_seconds": 0.308459000007133,
+  "frontier_exhausted": true
+}

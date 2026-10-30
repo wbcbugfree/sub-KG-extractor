@@ -1,0 +1,1148 @@
+{
+  "false_positive": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/10213",
+      "label": "validamycins",
+      "p_include": 0.91
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/10260",
+      "label": "anticoagulants",
+      "p_include": 0.55
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/10266",
+      "label": "warfarin",
+      "p_include": 0.58
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/10324",
+      "label": "natamycin",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/10328",
+      "label": "antifungal proteins",
+      "p_include": 0.64
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11323",
+      "label": "application technology",
+      "p_include": 0.51
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11335",
+      "label": "chemigation",
+      "p_include": 0.79
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11343",
+      "label": "soil treatment",
+      "p_include": 0.67
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11344",
+      "label": "spraying",
+      "p_include": 0.6
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11347",
+      "label": "variable rate application",
+      "p_include": 0.76
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11353",
+      "label": "spray drift",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11359",
+      "label": "preharvest treatment",
+      "p_include": 0.72
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11363",
+      "label": "spray volume",
+      "p_include": 0.68
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/114",
+      "label": "biological resistance",
+      "p_include": 0.61
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1165",
+      "label": "ethylene dichloride",
+      "p_include": 0.51
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/123142",
+      "label": "herbicide safeners",
+      "p_include": 0.71
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/133",
+      "label": "pesticide resistance",
+      "p_include": 0.9
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/133093",
+      "label": "pesticide selectivity",
+      "p_include": 0.77
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/142739",
+      "label": "pesticide application equipment",
+      "p_include": 0.87
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/142745",
+      "label": "aquatic weed control",
+      "p_include": 0.92
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/148552",
+      "label": "biocides",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/148765",
+      "label": "candicidin",
+      "p_include": 0.6
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/148766",
+      "label": "filipin",
+      "p_include": 0.53
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/153",
+      "label": "pest resistance",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15491",
+      "label": "insect viruses",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15547",
+      "label": "baiting",
+      "p_include": 0.86
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17455",
+      "label": "genetic resistance",
+      "p_include": 0.58
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17456",
+      "label": "induced resistance",
+      "p_include": 0.56
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17498",
+      "label": "insect growth regulators",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18623",
+      "label": "borates",
+      "p_include": 0.76
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18624",
+      "label": "disodium octaborate",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18625",
+      "label": "sodium borate",
+      "p_include": 0.6
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18626",
+      "label": "boric acid",
+      "p_include": 0.93
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18788",
+      "label": "pesticidal plants",
+      "p_include": 0.61
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/188846",
+      "label": "biofumigation",
+      "p_include": 0.69
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/20192",
+      "label": "brush control",
+      "p_include": 0.69
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/2070",
+      "label": "acaricidal properties",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/2071",
+      "label": "pesticidal properties",
+      "p_include": 0.58
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/2077",
+      "label": "acaricide resistance",
+      "p_include": 0.59
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213703",
+      "label": "benoxacor",
+      "p_include": 0.8
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213743",
+      "label": "isoxadifen ethyl",
+      "p_include": 0.54
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/218",
+      "label": "defoliants",
+      "p_include": 0.73
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/221",
+      "label": "disinfectants",
+      "p_include": 0.52
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/22185",
+      "label": "methylcarbamates",
+      "p_include": 0.67
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/22187",
+      "label": "thiocarbamates",
+      "p_include": 0.55
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/22231",
+      "label": "chlorinated hydrocarbons",
+      "p_include": 0.89
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/223614",
+      "label": "Interregional Research Project 4 (IR-4)",
+      "p_include": 0.66
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/225748",
+      "label": "atrazine chlorohydrolase",
+      "p_include": 0.58
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/228717",
+      "label": "prohexadione calcium",
+      "p_include": 0.79
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/229902",
+      "label": "sodium dichloroisocyanurate",
+      "p_include": 0.79
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/231129",
+      "label": "aminocyclopyrachlor",
+      "p_include": 0.83
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/235795",
+      "label": "bifonazole",
+      "p_include": 0.58
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/239960",
+      "label": "ajoene",
+      "p_include": 0.61
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24628",
+      "label": "soil drenching",
+      "p_include": 0.65
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25216",
+      "label": "cyromazine",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/255",
+      "label": "synergists",
+      "p_include": 0.54
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/255907",
+      "label": "chemical weed control",
+      "p_include": 0.93
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/265261",
+      "label": "glyphosate resistance",
+      "p_include": 0.61
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/265263",
+      "label": "glufosinate resistance",
+      "p_include": 0.67
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/2741",
+      "label": "chemical treatment",
+      "p_include": 0.52
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/284",
+      "label": "disease and pest management",
+      "p_include": 0.79
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28462",
+      "label": "emulsifiable concentrates",
+      "p_include": 0.76
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/284633",
+      "label": "foggers",
+      "p_include": 0.76
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/285",
+      "label": "baits",
+      "p_include": 0.6
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28787",
+      "label": "fumigation",
+      "p_include": 0.94
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/289",
+      "label": "algae control",
+      "p_include": 0.71
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/292",
+      "label": "vector control",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/293",
+      "label": "weed control",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/296744",
+      "label": "synthetic pheromones",
+      "p_include": 0.66
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/30204",
+      "label": "cross resistance",
+      "p_include": 0.55
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/302117",
+      "label": "drift spraying",
+      "p_include": 0.72
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/302887",
+      "label": "soil fumigants",
+      "p_include": 0.94
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/304808",
+      "label": "mist application",
+      "p_include": 0.52
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/305290",
+      "label": "zinc borate",
+      "p_include": 0.53
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306474",
+      "label": "spot spraying",
+      "p_include": 0.91
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306563",
+      "label": "simulated spray drift",
+      "p_include": 0.69
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306639",
+      "label": "scrub control",
+      "p_include": 0.72
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306977",
+      "label": "mating disruptors",
+      "p_include": 0.86
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/310286",
+      "label": "insect resistance",
+      "p_include": 0.56
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/311749",
+      "label": "potassium benzoate",
+      "p_include": 0.52
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31291",
+      "label": "triazines",
+      "p_include": 0.7
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31961",
+      "label": "s,s,s-tributyl phosphorotrithioate",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/322531",
+      "label": "seed destructors",
+      "p_include": 0.56
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/322534",
+      "label": "herbicide use reduction",
+      "p_include": 0.69
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/322625",
+      "label": "transgenic resistance",
+      "p_include": 0.59
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/327052",
+      "label": "pyrithiones",
+      "p_include": 0.61
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/327055",
+      "label": "copper pyrithione",
+      "p_include": 0.54
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/327056",
+      "label": "zinc pyrithione",
+      "p_include": 0.97
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/332152",
+      "label": "spinosyn A",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/332154",
+      "label": "spinosyn D",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34012",
+      "label": "resistance management",
+      "p_include": 0.91
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34055",
+      "label": "monitoring",
+      "p_include": 0.87
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/40727",
+      "label": "fluoroacetic acid",
+      "p_include": 0.76
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41056",
+      "label": "storage pests",
+      "p_include": 0.58
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41750",
+      "label": "soil fumigation",
+      "p_include": 0.97
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41847",
+      "label": "fungicide resistance",
+      "p_include": 0.87
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/4235",
+      "label": "pesticide adjuvants",
+      "p_include": 0.86
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/43046",
+      "label": "sulfonylureas",
+      "p_include": 0.92
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/43547",
+      "label": "gossyplure",
+      "p_include": 0.94
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/43652",
+      "label": "grandlure",
+      "p_include": 0.57
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/43737",
+      "label": "turf management",
+      "p_include": 0.53
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/44545",
+      "label": "manual weed control",
+      "p_include": 0.65
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45188",
+      "label": "herbicide resistance",
+      "p_include": 0.66
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45191",
+      "label": "herbicide-resistant weeds",
+      "p_include": 0.8
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45396",
+      "label": "piperonyl butoxide",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/4604",
+      "label": "aerial application",
+      "p_include": 0.71
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/4605",
+      "label": "application methods",
+      "p_include": 0.62
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/4606",
+      "label": "agricultural aviation",
+      "p_include": 0.54
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47065",
+      "label": "in-row tillage",
+      "p_include": 0.51
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47069",
+      "label": "interrow tillage",
+      "p_include": 0.51
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47387",
+      "label": "storage insects",
+      "p_include": 0.59
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47393",
+      "label": "sex pheromones",
+      "p_include": 0.88
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47422",
+      "label": "insecticidal properties",
+      "p_include": 0.62
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47427",
+      "label": "insecticide resistance",
+      "p_include": 0.9
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47464",
+      "label": "integrated weed management",
+      "p_include": 0.91
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/50686",
+      "label": "low volume spraying",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/52331",
+      "label": "methiocarb",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/53270",
+      "label": "molluscicidal properties",
+      "p_include": 0.59
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/53410",
+      "label": "pyrethrins",
+      "p_include": 0.68
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/54512",
+      "label": "nematicidal properties",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/55540",
+      "label": "pest control operators",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/5567",
+      "label": "pesticide synergists",
+      "p_include": 0.57
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/5593",
+      "label": "pesticide safety and handling",
+      "p_include": 0.94
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/56098",
+      "label": "semicarbazones",
+      "p_include": 0.52
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/56113",
+      "label": "sodium fluoroacetate",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/57562",
+      "label": "rodenticidal properties",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/57564",
+      "label": "wettable powders",
+      "p_include": 0.51
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/57566",
+      "label": "pesticide registration",
+      "p_include": 0.84
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/579",
+      "label": "aerosols",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/587",
+      "label": "dust formulations",
+      "p_include": 0.67
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/593",
+      "label": "fumigants",
+      "p_include": 0.58
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/59363",
+      "label": "postemergent weed control",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/59557",
+      "label": "preemergent weed control",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/6",
+      "label": "disparlure",
+      "p_include": 0.86
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/605",
+      "label": "pour-on formulations",
+      "p_include": 0.65
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/68395",
+      "label": "plant-incorporated protectants",
+      "p_include": 0.69
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/68867",
+      "label": "pesticide law",
+      "p_include": 0.88
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/7142",
+      "label": "pesticide use reduction",
+      "p_include": 0.84
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/7871",
+      "label": "nikkomycins",
+      "p_include": 0.63
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8119",
+      "label": "antifungal agents",
+      "p_include": 0.59
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/880",
+      "label": "insecticidal proteins",
+      "p_include": 0.71
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9380",
+      "label": "nematode control",
+      "p_include": 0.9
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9481",
+      "label": "oviposition",
+      "p_include": 0.7
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9915",
+      "label": "carbendazim",
+      "p_include": 0.97
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9936",
+      "label": "thiabendazole",
+      "p_include": 0.82
+    }
+  ],
+  "false_negative_explicit_exclude": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/12306",
+      "label": "biphenyl",
+      "p_include": 0.03
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125017",
+      "label": "sulfonamide herbicides",
+      "p_include": 0.46
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125106",
+      "label": "dicarboximide herbicides",
+      "p_include": 0.12
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125122",
+      "label": "hexachloroacetone",
+      "p_include": 0.22
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125124",
+      "label": "monochloroacetic acid",
+      "p_include": 0.06
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125125",
+      "label": "inorganic herbicides",
+      "p_include": 0.46
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125145",
+      "label": "phenylenediamine herbicides",
+      "p_include": 0.44
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125149",
+      "label": "thiocarbonate herbicides",
+      "p_include": 0.3
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125155",
+      "label": "thiadiazolylurea herbicides",
+      "p_include": 0.49
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1349",
+      "label": "2,4,5-trichlorophenol",
+      "p_include": 0.31
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1368",
+      "label": "butylamine",
+      "p_include": 0.36
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/142695",
+      "label": "biological weed control",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1427",
+      "label": "3,4-DA",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/14974",
+      "label": "biological control agents",
+      "p_include": 0.41
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/16622",
+      "label": "benodanil",
+      "p_include": 0.17
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/16654",
+      "label": "benzipram",
+      "p_include": 0.49
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/16660",
+      "label": "benzofluor",
+      "p_include": 0.3
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17497",
+      "label": "horticultural oils",
+      "p_include": 0.45
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17592",
+      "label": "bird control",
+      "p_include": 0.47
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/2085",
+      "label": "closantel",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213661",
+      "label": "aldicarb sulfoxide",
+      "p_include": 0.14
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213668",
+      "label": "phorate sulfone",
+      "p_include": 0.18
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213670",
+      "label": "malaoxon",
+      "p_include": 0.32
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213678",
+      "label": "tetrahydrophthalimide",
+      "p_include": 0.38
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213682",
+      "label": "fenthion sulfone",
+      "p_include": 0.36
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213683",
+      "label": "disulfoton sulfoxide",
+      "p_include": 0.15
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213691",
+      "label": "fenamiphos sulfone",
+      "p_include": 0.37
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213692",
+      "label": "fenamiphos sulfoxide",
+      "p_include": 0.29
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213711",
+      "label": "kresoxim-methyl",
+      "p_include": 0.41
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/213723",
+      "label": "furilazole",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/22160",
+      "label": "disulfiram",
+      "p_include": 0.26
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/22181",
+      "label": "vernolate",
+      "p_include": 0.27
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25340",
+      "label": "DDE (pesticide)",
+      "p_include": 0.12
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/302453",
+      "label": "herbicide mixtures",
+      "p_include": 0.37
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31058",
+      "label": "cyclohexene oxime herbicides",
+      "p_include": 0.48
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31223",
+      "label": "cyperquat",
+      "p_include": 0.49
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31260",
+      "label": "cyprazine",
+      "p_include": 0.43
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31261",
+      "label": "cyprazole",
+      "p_include": 0.39
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/324690",
+      "label": "metolachlor metabolites",
+      "p_include": 0.1
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/331478",
+      "label": "triazolopyrimidine fungicides",
+      "p_include": 0.26
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/33793",
+      "label": "herbicide impurities",
+      "p_include": 0.02
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/33801",
+      "label": "diphenylamine",
+      "p_include": 0.44
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/36000",
+      "label": "eglinazine",
+      "p_include": 0.28
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/38248",
+      "label": "ethiolate",
+      "p_include": 0.41
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/38263",
+      "label": "ethoxyquin",
+      "p_include": 0.48
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41863",
+      "label": "polychlorobenzoic acid",
+      "p_include": 0.3
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45201",
+      "label": "hexaflurate",
+      "p_include": 0.28
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45206",
+      "label": "isocarbamid",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45216",
+      "label": "mefluidide",
+      "p_include": 0.47
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45224",
+      "label": "methylarsonic acid",
+      "p_include": 0.27
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45227",
+      "label": "monalide",
+      "p_include": 0.46
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45249",
+      "label": "proglinazine",
+      "p_include": 0.45
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45267",
+      "label": "solan",
+      "p_include": 0.47
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45273",
+      "label": "terbutol",
+      "p_include": 0.42
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47430",
+      "label": "sulfuramid",
+      "p_include": 0.47
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/52152",
+      "label": "thimerosal",
+      "p_include": 0.49
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9864",
+      "label": "fungal antagonists",
+      "p_include": 0.41
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9928",
+      "label": "moxidectin",
+      "p_include": 0.38
+    }
+  ],
+  "false_negative_unreached": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/124369",
+      "label": "dimexano",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/124375",
+      "label": "EXD (herbicide)",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125107",
+      "label": "flumezin",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/125108",
+      "label": "flumipropyn",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/14306",
+      "label": "sodium azide",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25295",
+      "label": "sodium chlorate",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/26324",
+      "label": "cinidon-ethyl",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/26843",
+      "label": "clethodim",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/26961",
+      "label": "cloproxydim",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28956",
+      "label": "copper sulfate",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/300561",
+      "label": "ammonium sulfamate",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/30949",
+      "label": "potassium cyanate",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31060",
+      "label": "profoxydim",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/324677",
+      "label": "metolachlor oxanilic acid",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/324679",
+      "label": "metolachlor ethanesulfonic acid",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/331483",
+      "label": "ametoctradin",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/38247",
+      "label": "ethidimuron",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/39920",
+      "label": "ferrous sulfate",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/40700",
+      "label": "flumioxazin",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45253",
+      "label": "proxan",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45254",
+      "label": "proxan-sodium",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45264",
+      "label": "sethoxydim",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45275",
+      "label": "thiazafluron",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/65525",
+      "label": "tebuthiuron",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/7983",
+      "label": "ammonium sulfamidate",
+      "p_include": null
+    }
+  ]
+}

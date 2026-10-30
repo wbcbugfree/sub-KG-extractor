@@ -1,0 +1,30 @@
+{
+  "seed_qid": "Q81414",
+  "seed_label": "Internet protocol suite",
+  "included_qids": [
+    "Q290378",
+    "Q67080166",
+    "Q81414"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q290378",
+    "Q67080166",
+    "Q81414"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:21.946264+00:00",
+  "finished_at_utc": "2026-10-28T17:44:22.294500+00:00",
+  "wall_seconds": 0.34823550000146497,
+  "frontier_exhausted": true
+}

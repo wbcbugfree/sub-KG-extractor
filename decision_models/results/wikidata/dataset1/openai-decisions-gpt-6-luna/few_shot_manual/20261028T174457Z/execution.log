@@ -1,0 +1,1586 @@
+{
+  "scored_rows": 5050,
+  "aligned_rows": 4400,
+  "seeds": 451,
+  "traversal_decision_rows": 5103,
+  "skipped_rows_absent_from_local_graph": 129,
+  "held_out_example_rows": 32,
+  "examples_in_prompt": true,
+  "prompt_examples_count": 18,
+  "evaluation_source": "meta-prompting/results/gpt-5.4-mini/dataset1/few_shot_manual/rows.csv",
+  "examples_file": "meta-prompting/examples/dataset1_path_simple_manual_examples.json",
+  "examples_sha256": "29f019164dacffa611bd9c019ec29b5a1c3b85a886620921c1d9350d80c1b84f",
+  "prompt_example_row_ids": [
+    "row3951",
+    "row271",
+    "row938",
+    "row344",
+    "row827",
+    "row1749",
+    "row881",
+    "row5011",
+    "row1237",
+    "row3956",
+    "row3964",
+    "row4168",
+    "row4634",
+    "row345",
+    "row833",
+    "row1384",
+    "row1851",
+    "row4167"
+  ],
+  "prompt_example_decision_counts": {
+    "INCLUDE": 12,
+    "EXCLUDE": 6
+  },
+  "jev_run": "decision_models/results/wikidata/dataset1/jev-1.14.0/few_shot_manual/20261028T174325Z"
+}
+Running 451 BFS seeds with 5 parallel seed workers ...
+Decisions layer 1: 2 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 2: 13 candidates in 1 live requests
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 1/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 2/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 3/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 4/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 5/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 6/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 7/451
+
+Decisions layer 2: 12 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 8/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 9/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 10/451
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 11/451
+
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 12/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 13/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 14/451
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 15/451
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 16/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 17/451
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 3: 6 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 18/451
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 19/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 20/451
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 21/451
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 22/451
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 23/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 24/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 25/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 26/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 27/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 28/451
+
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 29/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 30/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 31/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 32/451
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 33/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 34/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 35/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 36/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 37/451
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 2: 20 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 38/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 39/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 40/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 41/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 42/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 43/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 44/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 45/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 46/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 47/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 48/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 49/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 50/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 51/451
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 52/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 6 candidates in 1 live requestsCompleted BFS seed 53/451
+
+Decisions layer 3: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 54/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 55/451
+Decisions layer 2: 13 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 56/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 57/451
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 58/451
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 59/451
+
+Decisions layer 4: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 60/451
+
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 13 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 61/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 62/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 63/451
+
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 64/451
+
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 65/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 2: 14 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 66/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 67/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 68/451
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 69/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 70/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 71/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 72/451
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 73/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 74/451
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 75/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 76/451
+
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 77/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 78/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 79/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 80/451
+
+Decisions layer 1: 7 candidates in 1 live requestsCompleted BFS seed 81/451
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 82/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 83/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 84/451
+
+Decisions layer 3: 9 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 85/451
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 22 candidates in 2 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 86/451
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 87/451
+
+Decisions layer 2: 29 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 88/451
+
+Decisions layer 3: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 89/451
+
+Decisions layer 2: 44 candidates in 3 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 90/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 91/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 92/451
+
+Decisions layer 2: 26 candidates in 2 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 93/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 94/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 95/451
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 2: 19 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 96/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 97/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 98/451
+
+Decisions layer 2: 32 candidates in 2 live requests
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 13 candidates in 1 live requests
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 99/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 100/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 101/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 102/451
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 2: 32 candidates in 2 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 103/451
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 104/451
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 105/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 106/451
+
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 2: 25 candidates in 2 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 107/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 3: 12 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 108/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 109/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 110/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 111/451
+
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 112/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 113/451
+
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 114/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 115/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 116/451
+
+Decisions layer 2: 22 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 117/451
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 118/451
+
+Decisions layer 2: 20 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 119/451
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 120/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 121/451
+
+Decisions layer 2: 23 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 122/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 123/451
+
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 124/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 125/451
+
+Decisions layer 2: 14 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 126/451
+
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 127/451
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 128/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 129/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 130/451
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 131/451
+
+Decisions layer 2: 17 candidates in 1 live requests
+Decisions layer 2: 65 candidates in 4 live requests
+Decisions layer 3: 6 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 132/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 133/451
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 134/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 135/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 136/451
+
+Decisions layer 2: 38 candidates in 2 live requests
+Decisions layer 2: 90 candidates in 5 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 137/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 138/451
+
+Decisions layer 1: 5 candidates in 1 live requestsCompleted BFS seed 139/451
+
+Decisions layer 2: 36 candidates in 2 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 140/451
+
+Decisions layer 3: 8 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 141/451
+
+Decisions layer 2: 18 candidates in 1 live requests
+Decisions layer 4: 1 candidates in 1 live requests
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 142/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 143/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 144/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 145/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 146/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 147/451
+
+Decisions layer 2: 23 candidates in 2 live requests
+Decisions layer 2: 30 candidates in 2 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 148/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 149/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 150/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 3: 8 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 151/451
+
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 152/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 153/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 154/451
+
+Decisions layer 2: 32 candidates in 2 live requests
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 155/451
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 156/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 157/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 158/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 12 candidates in 1 live requests
+Decisions layer 2: 19 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 159/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 160/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 161/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 162/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 163/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 164/451
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 165/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 166/451
+
+Decisions layer 2: 20 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 167/451
+
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 3: 6 candidates in 1 live requests
+Decisions layer 2: 28 candidates in 2 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 168/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 169/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 170/451
+
+Decisions layer 3: 5 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 24 candidates in 2 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 171/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 172/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 173/451
+
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 174/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 175/451
+
+Decisions layer 2: 29 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 176/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 177/451
+
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 12 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 178/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 179/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 180/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 181/451
+Decisions layer 2: 24 candidates in 2 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 182/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 183/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 184/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 185/451
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 186/451
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 187/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 31 candidates in 2 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 188/451
+Decisions layer 3: 5 candidates in 1 live requests
+Decisions layer 4: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 189/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 190/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 191/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 192/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 193/451
+
+Decisions layer 2: 44 candidates in 3 live requests
+Decisions layer 2: 21 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 194/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 195/451
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 196/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 197/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 198/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 199/451
+
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 200/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 201/451
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 202/451
+
+Decisions layer 3: 13 candidates in 1 live requests
+Decisions layer 2: 42 candidates in 3 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 203/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 204/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 205/451
+Decisions layer 1: 8 candidates in 1 live requestsCompleted BFS seed 206/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 207/451
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 208/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 209/451
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 210/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 13 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 211/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 212/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 213/451
+
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 214/451
+
+Decisions layer 2: 12 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 215/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 216/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 217/451
+Decisions layer 2: 14 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 218/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 14 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 219/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 220/451
+
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 221/451
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 222/451
+
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 223/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 224/451
+
+Decisions layer 2: 40 candidates in 2 live requests
+Decisions layer 2: 28 candidates in 2 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 225/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 226/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 227/451
+
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 228/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 229/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 230/451
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 231/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 21 candidates in 2 live requests
+Decisions layer 3: 6 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 232/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 22 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 233/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 234/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 235/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 236/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 237/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 238/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 239/451
+
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 24 candidates in 2 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 3: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 240/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 241/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 242/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 243/451
+
+Decisions layer 2: 12 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 244/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 245/451
+
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 246/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 247/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 248/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 249/451
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 250/451
+
+Decisions layer 3: 5 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 251/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 252/451
+
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 2: 12 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 253/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 254/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 255/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 256/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 257/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 5 candidates in 1 live requests
+Completed BFS seed 258/451
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 259/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 260/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 261/451
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 262/451
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 263/451
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 264/451
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 265/451
+
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 266/451
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 267/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 268/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 269/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 270/451
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 271/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 272/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 273/451
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 274/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 275/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 276/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 277/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 278/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 279/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 280/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 281/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 282/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 283/451
+Decisions layer 1: 5 candidates in 1 live requests
+Completed BFS seed 284/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 285/451
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 286/451
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 287/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 288/451
+
+Decisions layer 2: 13 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 289/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 290/451
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 291/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 292/451
+Decisions layer 2: 14 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 293/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 294/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 295/451
+
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 296/451
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 297/451
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 298/451
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 6 candidates in 1 live requestsCompleted BFS seed 299/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 300/451
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 301/451
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 302/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 303/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 304/451
+
+Decisions layer 3: 11 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 305/451
+
+Decisions layer 2: 18 candidates in 1 live requests
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 1: 5 candidates in 1 live requestsCompleted BFS seed 306/451
+
+Decisions layer 4: 1 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 307/451
+
+Decisions layer 1: 5 candidates in 1 live requestsCompleted BFS seed 308/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 309/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 34 candidates in 2 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 310/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 311/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 312/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 313/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 314/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 315/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 316/451
+
+Decisions layer 1: 15 candidates in 1 live requests
+Completed BFS seed 317/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 318/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 319/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 320/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 321/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 322/451
+
+Decisions layer 3: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 323/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 324/451
+
+Decisions layer 2: 24 candidates in 2 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 325/451
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 326/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 327/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 328/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 329/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 330/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 331/451
+
+Decisions layer 2: 12 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 332/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 333/451
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 334/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 335/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 336/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 337/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 338/451
+
+Decisions layer 2: 13 candidates in 1 live requests
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 339/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 340/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 341/451
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 342/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 343/451
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 344/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 345/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 346/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 347/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 348/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 349/451
+
+Decisions layer 2: 14 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 350/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 351/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 352/451
+
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 8 candidates in 1 live requestsCompleted BFS seed 353/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 354/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 355/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 356/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 357/451
+
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 358/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 359/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 360/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 361/451
+
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 362/451
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 23 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 363/451
+
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 364/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 365/451
+
+Decisions layer 2: 13 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 366/451
+Decisions layer 2: 10 candidates in 1 live requests
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 367/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 368/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 369/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 370/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 371/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 372/451
+
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 373/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 374/451
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 375/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 376/451
+
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 377/451
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 378/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 379/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 380/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 381/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 39 candidates in 2 live requests
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 19 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 382/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 383/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 384/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 385/451
+
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 386/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 387/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 388/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 389/451
+
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 390/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 391/451
+
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 392/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 393/451
+
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 394/451
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 395/451
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 396/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 397/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 398/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 399/451
+
+Decisions layer 4: 1 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 2: 14 candidates in 1 live requests
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 400/451
+
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 401/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 402/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 403/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 404/451
+
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 405/451
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 2: 26 candidates in 2 live requests
+Decisions layer 2: 33 candidates in 2 live requests
+Decisions layer 2: 23 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 406/451
+Decisions layer 2: 36 candidates in 2 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 407/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 408/451
+
+Decisions layer 3: 4 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 43 candidates in 3 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 409/451
+Decisions layer 3: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 410/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 411/451
+Decisions layer 2: 6 candidates in 1 live requests
+Decisions layer 2: 42 candidates in 3 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 412/451
+
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 413/451
+
+Decisions layer 2: 45 candidates in 3 live requests
+Decisions layer 2: 72 candidates in 4 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 414/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 415/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 416/451
+Decisions layer 2: 4 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 3: 12 candidates in 1 live requests
+Decisions layer 3: 1 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 417/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 418/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 419/451
+
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 420/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 421/451
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 422/451
+Decisions layer 1: 3 candidates in 1 live requests
+Completed BFS seed 423/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 424/451
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 2: 3 candidates in 1 live requests
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 2 candidates in 1 live requests
+Completed BFS seed 425/451
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 426/451
+
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 1: 3 candidates in 1 live requestsCompleted BFS seed 427/451
+
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 428/451
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 429/451
+
+Decisions layer 2: 27 candidates in 2 live requests
+Decisions layer 1: 4 candidates in 1 live requestsCompleted BFS seed 430/451
+
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 431/451
+
+Decisions layer 2: 37 candidates in 2 live requests
+Decisions layer 2: 24 candidates in 2 live requests
+Decisions layer 3: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 432/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 433/451
+
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 434/451
+
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 4 candidates in 1 live requests
+Completed BFS seed 435/451
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 436/451
+
+Decisions layer 2: 11 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 2: 15 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 437/451
+
+Decisions layer 2: 35 candidates in 2 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 438/451
+
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 439/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 440/451
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 441/451
+Decisions layer 2: 7 candidates in 1 live requests
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requests
+Completed BFS seed 442/451
+Decisions layer 2: 8 candidates in 1 live requests
+Decisions layer 2: 16 candidates in 1 live requests
+Decisions layer 2: 48 candidates in 3 live requests
+Decisions layer 1: 2 candidates in 1 live requestsCompleted BFS seed 443/451
+
+Decisions layer 3: 8 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 444/451
+
+Decisions layer 2: 9 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 445/451
+
+Decisions layer 4: 4 candidates in 1 live requests
+Decisions layer 2: 5 candidates in 1 live requests
+Decisions layer 2: 1 candidates in 1 live requests
+Decisions layer 3: 6 candidates in 1 live requests
+Decisions layer 1: 1 candidates in 1 live requestsCompleted BFS seed 446/451
+
+Completed BFS seed 447/451
+Completed BFS seed 448/451
+Decisions layer 2: 2 candidates in 1 live requests
+Decisions layer 3: 5 candidates in 1 live requests
+Completed BFS seed 449/451
+Completed BFS seed 450/451
+Decisions layer 4: 2 candidates in 1 live requests
+Completed BFS seed 451/451
+{
+  "output_dir": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\results\\wikidata\\dataset1\\openai-decisions-gpt-6-luna\\few_shot_manual\\20261028T174457Z",
+  "metrics": {
+    "full_common": {
+      "pooled": {
+        "total": 5050,
+        "unmatched": 0,
+        "tp": 1270,
+        "fp": 416,
+        "fn": 464,
+        "tn": 2900,
+        "precision": 0.7532621589561092,
+        "recall": 0.7324106113033448,
+        "f1": 0.7426900584795322,
+        "accuracy": 0.8257425742574257
+      },
+      "fold_coverage": null,
+      "folds": null,
+      "weighted_fold": null
+    },
+    "aligned": {
+      "pooled": {
+        "total": 4400,
+        "unmatched": 0,
+        "tp": 1169,
+        "fp": 366,
+        "fn": 432,
+        "tn": 2433,
+        "precision": 0.7615635179153094,
+        "recall": 0.7301686445971268,
+        "f1": 0.7455357142857143,
+        "accuracy": 0.8186363636363636
+      },
+      "fold_coverage": {
+        "expected": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "present": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "missing": [],
+        "complete": true
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "rows": 916,
+          "scored_rows": 916,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 916,
+            "unmatched": 0,
+            "tp": 288,
+            "fp": 81,
+            "fn": 119,
+            "tn": 428,
+            "precision": 0.7804878048780488,
+            "recall": 0.7076167076167076,
+            "f1": 0.7422680412371134,
+            "accuracy": 0.7816593886462883
+          }
+        },
+        {
+          "fold": 1,
+          "rows": 800,
+          "scored_rows": 800,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 800,
+            "unmatched": 0,
+            "tp": 236,
+            "fp": 60,
+            "fn": 82,
+            "tn": 422,
+            "precision": 0.7972972972972973,
+            "recall": 0.7421383647798742,
+            "f1": 0.7687296416938111,
+            "accuracy": 0.8225
+          }
+        },
+        {
+          "fold": 2,
+          "rows": 965,
+          "scored_rows": 965,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 965,
+            "unmatched": 0,
+            "tp": 224,
+            "fp": 84,
+            "fn": 78,
+            "tn": 579,
+            "precision": 0.7272727272727273,
+            "recall": 0.7417218543046358,
+            "f1": 0.7344262295081967,
+            "accuracy": 0.8321243523316062
+          }
+        },
+        {
+          "fold": 3,
+          "rows": 833,
+          "scored_rows": 833,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 833,
+            "unmatched": 0,
+            "tp": 175,
+            "fp": 69,
+            "fn": 70,
+            "tn": 519,
+            "precision": 0.7172131147540983,
+            "recall": 0.7142857142857143,
+            "f1": 0.7157464212678936,
+            "accuracy": 0.8331332533013205
+          }
+        },
+        {
+          "fold": 4,
+          "rows": 886,
+          "scored_rows": 886,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 886,
+            "unmatched": 0,
+            "tp": 246,
+            "fp": 72,
+            "fn": 83,
+            "tn": 485,
+            "precision": 0.7735849056603774,
+            "recall": 0.7477203647416414,
+            "f1": 0.7604327666151468,
+            "accuracy": 0.8250564334085779
+          }
+        }
+      ],
+      "weighted_fold": {
+        "weighting": "scored_decision_rows",
+        "fold_count": 5,
+        "total_weight": 4400,
+        "precision": 0.7585039999839933,
+        "std_precision": 0.030931008528273195,
+        "recall": 0.7307112337649708,
+        "std_recall": 0.016452961817002225,
+        "f1": 0.743996079713825,
+        "std_f1": 0.018368990088599605,
+        "accuracy": 0.8186363636363636,
+        "std_accuracy": 0.01937386939591106
+      }
+    },
+    "visited_scored_probability_metrics": {
+      "rows": 4693,
+      "excluded_unvisited_rows": 357,
+      "brier_score": 0.1240806307266141,
+      "log_loss": 0.4006976319336361
+    }
+  },
+  "usage": {
+    "input_tokens": 10415437,
+    "output_tokens": 0,
+    "total_tokens": 10415437,
+    "cached_tokens": 3636,
+    "cache_write_tokens": 0,
+    "uncached_input_tokens": 10411801,
+    "estimated_cost_usd": 1.04121646,
+    "live_bfs_wall_seconds": 97.85119410000334,
+    "logical_requests": 945,
+    "request_attempts": 946,
+    "requests_with_refusal_overrides": 0,
+    "refusal_override_decisions": 0,
+    "provider_refusal_answers": 0,
+    "successful_requests": 945,
+    "retries": 1,
+    "failed_attempts": 1,
+    "attempts_without_usage": 1,
+    "attempts_without_cost": 1,
+    "summed_attempt_latency_seconds": 473.3075991998776,
+    "median_success_latency_seconds": 0.45077159999345895,
+    "p95_success_latency_seconds": 0.8549322999897413,
+    "max_success_latency_seconds": 2.0460059000033652,
+    "response_models": [
+      "gpt-6-luna"
+    ],
+    "price_checked_on": "2026-10-28",
+    "price_sources": [
+      "https://developers.openai.com/api/docs/guides/decisions",
+      "https://developers.openai.com/api/docs/pricing"
+    ],
+    "rates_usd_per_million": {
+      "uncached_input": 0.1,
+      "cached_input": 0.01,
+      "cache_write_30m": 0.125,
+      "output": 0.0
+    },
+    "cost_note": "Estimate for global endpoint, short context, default 30m cache TTL; unknown usage is not zero. Output is free. Cache reads/writes are subsets of input tokens.",
+    "candidate_decisions": 4723,
+    "scored_decisions": 4693,
+    "scored_not_visited": 357,
+    "seed_count": 451,
+    "total_run_wall_seconds": 127.51177869999083,
+    "preparation_wall_seconds": 0.9296315999963554,
+    "postprocessing_wall_seconds": 28.730952999991132
+  }
+}

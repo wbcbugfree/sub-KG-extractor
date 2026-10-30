@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row656",
+    "legacy_row_id": "Q2574811|Q1707847",
+    "seed_qid": "Q2574811",
+    "seed_label": "cause",
+    "qid": "Q1707847",
+    "label": "role",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q4897819",
+    "parent_label": "role",
+    "path": "cause --instance of--> role --has subclass--> role",
+    "uri": "http://www.wikidata.org/entity/Q1707847",
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "seed_qid": "Q171",
+  "seed_label": "wiki",
+  "included_qids": [
+    "Q171"
+  ],
+  "pruned_qids": [
+    "Q121359"
+  ],
+  "visited_qids": [
+    "Q121359",
+    "Q171"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:42.619886+00:00",
+  "finished_at_utc": "2026-10-28T17:43:42.945664+00:00",
+  "wall_seconds": 0.32577960001071915,
+  "frontier_exhausted": true
+}

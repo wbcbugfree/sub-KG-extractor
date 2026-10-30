@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row570",
+    "legacy_row_id": "Q16820462|Q7058673",
+    "seed_qid": "Q16820462",
+    "seed_label": "Borderlands",
+    "qid": "Q7058673",
+    "label": "video game series",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q16820462",
+    "parent_label": "Borderlands",
+    "path": "Borderlands --instance of--> video game series",
+    "uri": "http://www.wikidata.org/entity/Q7058673",
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

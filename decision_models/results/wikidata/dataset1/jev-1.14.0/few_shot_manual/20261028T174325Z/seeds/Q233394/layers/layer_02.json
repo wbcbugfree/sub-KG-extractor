@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2075",
+    "legacy_row_id": "Q233394|Q1023122",
+    "seed_qid": "Q233394",
+    "seed_label": "code division multiple access",
+    "qid": "Q1023122",
+    "label": "CDMA2000",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q26763979",
+    "parent_label": "mobile phone network standard",
+    "path": "code division multiple access --instance of--> mobile phone network standard --has subclass--> CDMA2000",
+    "uri": "http://www.wikidata.org/entity/Q1023122",
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

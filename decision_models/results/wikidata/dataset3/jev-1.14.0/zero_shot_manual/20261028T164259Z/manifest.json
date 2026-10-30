@@ -1,0 +1,63 @@
+{
+  "dataset": 3,
+  "requested_model": "jev-1.14.0",
+  "provider": "typesafe",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "status": "complete",
+  "started_at_utc": "2026-10-28T16:43:02.408714+00:00",
+  "prompt_setting": "zero_shot_manual",
+  "evaluation_mode": "live_bfs",
+  "context_level": "path_simple",
+  "examples_in_prompt": false,
+  "prompt_examples_count": 0,
+  "python": "3.13.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "dependencies": {
+    "rdflib": "7.6.0",
+    "pydantic": "2.13.4"
+  },
+  "code_hashes": {
+    "decision_models/jev_wikidata.py": "1a6723752189c4ad5e988d0fbc6dbc4fe7e5346d1fa67666ea4bfbc43e1111c1",
+    "decision_models/jev_nalt.py": "310f811e085cd2369ebe8e3a62c4d4fc09d36f833c4a41359a411998aa8d83f0",
+    "meta-prompting/subkg_extractor_wikidata.py": "00e6d8f275a36b3187b93712e0657b94ab8a3693f626457bb675d5a19775ff5b"
+  },
+  "settings": {
+    "batch_size": 20,
+    "seed_workers": 5,
+    "max_iterations": 10,
+    "transport": "curl",
+    "request_timeout_seconds": 60,
+    "max_attempts": 3,
+    "primitive": "choice",
+    "decision_rule": "provider Choice (argmax)",
+    "confidence_gating": false,
+    "fallback_provider": null
+  },
+  "traversal_policy": {
+    "seeds": "included_without_model_decision",
+    "expand": "INCLUDE_only",
+    "unlabeled_bridges": "existing_Wikidata_traversal",
+    "unreached_scoring": "EXCLUDE",
+    "unreached_probabilities": null
+  },
+  "pricing": {
+    "source": "https://docs.typesafe.ai/models",
+    "checked_on": "2026-10-28",
+    "input_usd_per_million": 0.042,
+    "output_usd_per_million": 0
+  },
+  "prompt_file": "meta-prompting/prompts/manual_dataset3.md",
+  "prompt_file_sha256": "4cd2b25b4d2fd41fec1d3a5a7e22f816ca159ebba7b15520604686efefab72b4",
+  "effective_prompt_sha256": "ff10ea7731926432a1bb33057eff4d60ba302230757b9ddd62ea25eff68129db",
+  "scored_rows": 2014,
+  "aligned_rows": 1384,
+  "seed_count": 27,
+  "transport_version": "curl 8.21.0 (Windows) libcurl/8.21.0 Schannel zlib/1.3.2 WinIDN WinLDAP",
+  "live_inference_started_at_utc": "2026-10-28T16:43:02.609450+00:00",
+  "preparation_wall_seconds": 0.20238010000321083,
+  "finished_at_utc": "2026-10-28T16:43:18.343278+00:00",
+  "elapsed_seconds": 15.934583499998553,
+  "response_models": [
+    "jev-1.14.0"
+  ]
+}

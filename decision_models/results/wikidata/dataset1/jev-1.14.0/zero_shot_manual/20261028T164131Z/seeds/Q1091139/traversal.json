@@ -1,0 +1,37 @@
+{
+  "seed_qid": "Q1091139",
+  "seed_label": "Enhanced Interior Gateway Routing Protocol",
+  "included_qids": [
+    "Q1091139",
+    "Q1755411",
+    "Q431028"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1091139",
+    "Q1755411",
+    "Q431028"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:35.710483+00:00",
+  "finished_at_utc": "2026-10-28T16:41:36.315041+00:00",
+  "wall_seconds": 0.6045485000067856,
+  "frontier_exhausted": true
+}

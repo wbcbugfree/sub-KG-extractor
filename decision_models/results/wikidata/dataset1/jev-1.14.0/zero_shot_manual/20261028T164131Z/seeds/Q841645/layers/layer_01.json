@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row984",
+    "legacy_row_id": "Q841645|Q11016",
+    "seed_qid": "Q841645",
+    "seed_label": "Internet television",
+    "qid": "Q11016",
+    "label": "technology",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q841645",
+    "parent_label": "Internet television",
+    "path": "Internet television --instance of--> technology",
+    "uri": "http://www.wikidata.org/entity/Q11016",
+    "classification": "INCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.55,
+    "p_exclude": 0.45,
+    "selected_probability": 0.55,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,729 @@
+uri,prefLabel,gold_include,visited,final_classification,model_classification,decision_source,p_include,p_exclude
+https://lod.nal.usda.gov/nalt/10143,anti-inflammatory activity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10149,anti-inflammatory agents,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1019,therapeutics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/10190,bambermycin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/10199,cyclosporins,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/10218,antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/10219,autoantibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/10221,opsonins,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/10222,polyclonal antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/10223,recombinant antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/10224,antibody detection,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/10225,antiserum,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/10226,seroprevalence,False,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/10230,antibody formation,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/10233,humoral immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/10240,bioactive properties,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/10293,antidotes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/10294,antitoxins,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/10336,antigen-antibody complex,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/10338,antigen detection,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/10340,antigen presentation,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/10341,cell-mediated immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/10345,immune complex diseases,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/10346,cross reaction,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/10347,dendritic cells,False,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/10349,epitopes,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/10350,antigenic variation,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/10351,genetic variation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/10352,immunogenetics,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/10353,serotypes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/10355,autoantigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/10356,bacterial antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/10357,blood group antigens,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/10358,circulating antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/10359,coproantigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/10360,exoantigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/10361,fungal antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/10362,lymphocyte antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/10363,neoplasm antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/10364,nuclear antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/10365,recombinant antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/10366,somatic antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/10367,superantigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/10368,surface antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/10369,viral antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/10461,busulfan,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/10463,cyclophosphamide,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/10473,cytotoxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/10475,antinutritional factors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/10479,detoxification (processing),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/10482,food safety,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/10484,metabolic detoxification,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/10543,immunotherapy,False,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/10551,toxins,False,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/105991,innate immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/105992,adaptive immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/11246,DNA fragmentation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/11247,hypersensitive response,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1138,viruses,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/114,biological resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/11645,arabinans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/11648,arabinoxylan,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/11849,arcelin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/120,cell adhesion,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/123131,chemoattractants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/12336,arrestins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/12460,rheumatoid arthritis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/12715,glycoproteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/127444,fucoidan,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/13162,immunoassays,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/131695,tacrolimus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/132363,adiponectin,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/132364,adipokines,False,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/132367,resistin,False,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/136634,acute dermal exposure,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/136637,chronic dermal exposure,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/136653,caspases,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/136660,caspase-2,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/136662,caspase-3,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/136664,caspase-4,False,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/136666,caspase-5,False,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/136667,caspase-7,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/136669,caspase-6,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/136671,caspase-8,False,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/136674,caspase-9,False,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/136675,caspase-10,False,True,INCLUDE,INCLUDE,openai_decisions,0.58,0.42
+https://lod.nal.usda.gov/nalt/136677,caspase-11,False,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/136679,caspase-12,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/136981,population,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/136985,at-risk population,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/136991,immunocompromised population,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/137479,Guillain-Barre Syndrome,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/13770,live vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/137895,nanoparticles,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/13994,autoimmune diseases,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/14011,lupus erythematosus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14012,pemphigus (skin disease),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/14167,malaria,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/14191,tuberculosis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/142425,serological surveys,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/142532,plant disease resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/143747,interferon-gamma,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/143748,interferon-alpha,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/14410,B-lymphocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/14420,lymphocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/144668,immunoglobulin Y,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/14478,BCG vaccine,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/146502,immunogenicity,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/146585,multiprotein complexes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/146660,mononuclear leukocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/148746,cyclosporine,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/148783,alamethicin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/148923,prostate-specific antigen,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/149,epidemiology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/15096,bacteriology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/151,disease resistance,False,True,INCLUDE,INCLUDE,openai_decisions,0.55,0.45
+https://lod.nal.usda.gov/nalt/15118,tuberculin,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/15185,cell movement,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/15201,bacterial toxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/153521,cardiolipins,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/1560,DNA,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/1601,membrane glycoproteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/16035,basophils,False,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/16036,granulocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/16831,glucans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/17200,protein binding,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/17202,binding sites,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/17227,biochemistry,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/17263,carbohydrates,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/17274,biochemical mechanisms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/17343,genetic engineering,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17402,bioinformatics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/17412,metabolomics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/17414,proteomics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/17472,cell biology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17474,hematology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17520,biosensors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17521,sensors (equipment),False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17543,disease surveillance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/1780,toxic substances,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/1781,antifertility effect,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/1786,bovine brucellosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/17933,embryo implantation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/18059,blood,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18061,blood cells,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/18063,blood groups,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18073,blood cell counts,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/18079,leukocyte count,False,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/18139,blood serum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/1814,abscess,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18159,gamma-globulins,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/18162,immunoglobulins,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/18198,Western blotting,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/18315,colostrum,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/18343,lymph,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18357,muscle protein,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18497,bones,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/18522,bone marrow cells,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/18523,bone marrow transplant,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/185361,exopolysaccharides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/18876,neurotoxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/189198,immunoglobulin light chains,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/189203,immunoglobulin heavy chains,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/18937,cow colostrum,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/18973,bovine mastitis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/192151,chitooligosaccharides,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/192999,contraceptive vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/196599,nuclear proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/19669,breast feeding,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/19671,breast milk,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/19673,human colostrum,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/19675,infant nutrition,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/19679,human milk fat,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/19680,human milk proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/198202,synthetic vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/198343,electronic tongue,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/198777,peptide mapping,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/19947,cysteine proteinases,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/199658,differentiation antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/199659,CD antigens,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/199785,animal research,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/200148,myoblasts,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/200164,microfilament proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/20024,bronchitis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/200593,exoerythrocytic stage,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/203529,immunomodulation,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/205276,neuromuscular disorders,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/20540,bursa of Fabricius,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/20541,lymphatic system,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/205675,antibody microarrays,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/20596,immunosuppressive agents,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/206099,autophagy,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/206107,peptidoglycans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/206471,neutralizing antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/206983,cell viability,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.0,1.0
+https://lod.nal.usda.gov/nalt/20756,tumor necrosis factors,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/207600,interleukin-18,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/207872,interferon-beta,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/20827,cadherins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/209104,lipid A,False,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/210530,elicitors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/211272,interleukin-1alpha,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/211278,interleukin-1beta,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/211284,CD18 antigen,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/211289,CD29 antigen,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/211305,lymphocyte function-associated antigen-1,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/21140,calnexin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/21141,calreticulin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/213311,macrophage migration inhibitory factors,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/21334,callose,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/215122,adult stem cells,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/215223,interferon regulatory factors,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/215226,interferon regulatory factor-1,False,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/215227,interferon regulatory factor-2,False,True,INCLUDE,INCLUDE,openai_decisions,0.64,0.36
+https://lod.nal.usda.gov/nalt/215228,interferon regulatory factor-3,False,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/215229,interferon regulatory factor-4,False,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/215230,interferon regulatory factor-5,False,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/215231,interferon regulatory factor-6,False,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/215232,interferon regulatory factor-7,False,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/216221,thrombopoietin,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/216653,hepatitis A antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/216654,hepatitis B antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/216655,hepatitis C antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/217013,immunosensors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/217634,antibody specificity,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/217635,antibody diversity,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/217636,antibody affinity,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/217757,epitope mapping,True,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/217759,bacterial antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/217760,fungal antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/217761,helminth antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/217762,protozoan antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/217763,viral antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/217764,plantibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/217780,bacterial vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/217781,fungal vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/217782,protozoan vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/217783,viral vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/217793,immunologic memory,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/217947,food allergens,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/222512,interleukin-13,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/223,dyes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/223475,adipokine receptors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/223477,adiponectin receptors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/223480,leptin receptors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/223485,resistin receptors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/223582,thymus hormone receptors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/228021,pancreatic insulitis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/228083,protozoan antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/228086,helminth antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/228801,macrophage inflammatory proteins,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/228804,chemokine CCL3,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/228805,chemokine CCL4,True,True,INCLUDE,INCLUDE,openai_decisions,1.0,0.0
+https://lod.nal.usda.gov/nalt/228806,chemokine CCL19,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/228807,chemokine CCL20,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/228808,chemokine CXCL2,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/228897,gamma chemokines,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/22898,castration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/229296,pharyngitis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/229298,nasopharyngitis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/229478,DNA microarrays,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/229479,electronic chips,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/230707,yellow fluorescent protein,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/23191,CD4-positive T-lymphocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/231910,leukemia inhibitory factor,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/23192,lymphocyte count,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/23197,T-lymphocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/23199,CD8-positive T-lymphocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/23202,cytotoxic T-lymphocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/232248,cell cycle checkpoints,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23357,cell proliferation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/23362,intercellular junctions,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23379,cell lines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/23384,proliferating cell nuclear antigen,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/23404,hybridomas,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/23423,cell respiration,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/23424,endocytosis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/23447,graft versus host reactions,True,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/23448,lymphocyte proliferation,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/234524,oropharynx,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23459,endothelial cells,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23474,mast cells,False,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/23479,phagocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/23480,plasma cells,False,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/23483,splenocytes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23484,stem cells,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/23496,cellulitis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/23529,lignocellulose,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/235919,leptin replacement therapy,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/236670,beta chemokines,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/236677,chemokine CCL1,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/236678,chemokine CCL5,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/236679,chemokine CCL11,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/236680,chemokine CCL17,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/236681,chemokine CCL21,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/236682,chemokine CCL22,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/236683,chemokine CCL24,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/236684,chemokine CCL27,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/236769,monocyte chemoattractant proteins,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/236772,chemokine CCL2,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/236773,chemokine CCL7,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/236774,chemokine CCL8,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/236812,alpha chemokines,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/236817,chemokine CXCL1,True,True,INCLUDE,INCLUDE,openai_decisions,1.0,0.0
+https://lod.nal.usda.gov/nalt/236818,chemokine CXCL4,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/236819,chemokine CXCL5,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/236820,chemokine CXCL6,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/236821,chemokine CXCL7,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/236822,chemokine CXCL9,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/236823,chemokine CXCL10,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/236824,chemokine CXCL11,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/236825,chemokine CXCL12,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/236826,chemokine CXCL13,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/236975,delta chemokines,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/236980,chemokine CX3CL1,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/237133,interleukin-15,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/237134,interleukin-17,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/237135,interleukin-23,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/237160,interferon regulatory factor-8,False,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/237175,immunologic receptors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/237276,anthrax toxin,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/237362,immunodominant epitopes,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/238046,fluorescent proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/240180,adenoids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/240795,photosensitivity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/241511,otitis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/243281,chemokine CCL13,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/243295,chemokine CCL14,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/243308,chemokine CCL15,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/243321,chemokine CCL16,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/243337,chemokine CCL23,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/243353,chemokine CCL25,True,True,INCLUDE,INCLUDE,openai_decisions,1.0,0.0
+https://lod.nal.usda.gov/nalt/243365,chemokine CCL26,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/243378,chemokine CCL28,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/243387,chemokine CXCL3,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/243409,CCR1 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/243410,CCR2 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/243435,CCR3 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/243444,CCR4 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/243453,CCR5 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/243463,CCR6 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/243478,CCR7 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/243493,CCR8 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/243508,CCR9 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/243525,CCR10 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/243533,CXCR1 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/243552,CXCR2 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/243568,CXCR3 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/243588,CXCR4 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/243614,CXCR5 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/243626,CXCR6 receptor,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/243643,chemokine CXCL16,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/243644,atypical chemokine receptor 3,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/244088,periodontitis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/245036,milk banks,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/245702,HLA antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/246169,immunological synapse,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.46,0.54
+https://lod.nal.usda.gov/nalt/24642,protein-protein interactions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/246543,neoplasm cells,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/246573,immunoglobulin T,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/24711,chemiluminescence immunoassays,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/24725,chemotaxis,False,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/24726,taxis (physiology),False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/247658,hemocyanin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/25209,chitin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.38,0.62
+https://lod.nal.usda.gov/nalt/25211,chitosan,False,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/25212,chitosanase,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/254967,honokiol,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/25607,glycosaminoglycans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/259780,interleukin-21,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/261105,antibody binding sites,False,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/261791,lipotoxicity,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/261826,protein tagging,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/261837,tumor suppressor protein p53,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/261849,pro-apoptotic proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/261978,ligands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/262790,sterilizing immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/26359,hemolymph,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/26362,lymph flow,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/263906,herd immunity,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/263926,rhoptry,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/264095,death domain receptors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/264113,hematopoietic stem cells,False,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/264819,cell senescence,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/266183,immunoinformatics,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/266333,secondary infection,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/266344,bronchiolitis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26789,palate,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26948,molecular cloning,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/26952,recombinant DNA,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/270538,protein denaturation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/271171,malaria vaccines,False,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/273857,rose bengal,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/276313,Megathura crenulata,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/276316,keyhole limpet hemocyanin,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/278567,pollen proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/28005,colony-stimulating factors,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/28007,macrophage colony-stimulating factor,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/28009,granulocyte-macrophage colony-stimulating factor,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/28012,granulocyte colony-stimulating factor,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/28016,hematopoietic cell growth factors,False,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/28017,erythropoietin,True,True,INCLUDE,INCLUDE,openai_decisions,0.65,0.35
+https://lod.nal.usda.gov/nalt/28030,colostral immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/28032,maternal immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/281496,lipid transfer proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/28321,graft compatibility,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/28327,immunocompetence,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/28345,complement fixation tests,True,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/28443,concanavalin A,False,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/28576,gap junctions,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/286,drugs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/286136,profilins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.41,0.59
+https://lod.nal.usda.gov/nalt/287755,antistaling agents,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/2895,cells,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/290,disease control,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/290558,immunocastration,True,True,INCLUDE,INCLUDE,openai_decisions,0.51,0.49
+https://lod.nal.usda.gov/nalt/291300,rapamycin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/291434,blood banks,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/293039,melanoma-specific antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/293046,CD146 antigen,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/293054,cell adhesion molecules,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.3,0.7
+https://lod.nal.usda.gov/nalt/293063,epithelial cell adhesion molecule,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/293071,biocathodes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/293119,intercellular adhesion molecule-1,False,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/293154,aptasensors,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/293157,nucleotide aptamers,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/29317,scleroglucan,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.49,0.51
+https://lod.nal.usda.gov/nalt/294131,cell-matrix junctions,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/294139,focal adhesions,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/295011,beta catenin,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/295040,B-cell lymphoma,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.25,0.75
+https://lod.nal.usda.gov/nalt/295041,T-cell lymphoma,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/295058,adhesion inhibition assay,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/295854,subgenotype,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/296037,pathogen-associated molecular patterns,False,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/296877,fish allergies,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/297821,antibody engineering,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/298032,gene editing,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/298136,respiratory burst,False,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/298985,endoplasmic reticulum stress,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/2996,immunity,True,True,INCLUDE,,seed,,
+https://lod.nal.usda.gov/nalt/299910,glycomics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/301133,inflammasomes,False,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/301163,myasthenia gravis,False,True,INCLUDE,INCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/30199,cross immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/302394,guaiac,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/303743,fructose 5-dehydrogenase,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3057,fluorescent dyes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/306976,mark release recapture,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.31,0.69
+https://lod.nal.usda.gov/nalt/307372,necroptosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/30820,curdlan,False,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/308313,nematotoxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/308443,galectins,False,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/310008,antibiotic resistance genes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/311643,skin prick tests,True,True,INCLUDE,INCLUDE,openai_decisions,0.78,0.22
+https://lod.nal.usda.gov/nalt/312451,O-antigens,False,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/312748,artificial skin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/312885,vascular cell adhesion molecules,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/31335,pancreatic diseases,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/313767,immunoglobulin class switching,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/31444,lymphokines,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/315127,autogenous vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/315299,air pouch model,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/316508,bioadhesion,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/316946,cancer vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/317540,lipopolysaccharide receptors,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/317858,neural stem cells,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/318236,CRISPR-associated proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/319,pathological processes and conditions,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/31973,immune evasion,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/322529,coelomocytes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.36,0.64
+https://lod.nal.usda.gov/nalt/32273,Langerhans cells,False,True,INCLUDE,INCLUDE,openai_decisions,0.73,0.27
+https://lod.nal.usda.gov/nalt/323535,gliotoxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/323561,microbial toxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/323575,protein microarrays,False,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/323595,peptide microarrays,False,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/323735,CD4 lymphocyte count,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/32456,skin tests,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/325943,immunoperoxidase monolayer assay,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/327224,surfactant proteins,False,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/32788,disease diagnosis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/327976,pyroptosis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/329078,CRISPR-Cas systems,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/329081,CRISPR-associated endonuclease 9,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/329417,immunophenotyping,True,True,INCLUDE,INCLUDE,openai_decisions,0.75,0.25
+https://lod.nal.usda.gov/nalt/329494,immunophenotype,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/331936,US Food Allergen Labeling and Consumer Protection Act,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/332261,food toxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/33400,food intolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/33561,pharynx,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/335656,allergoids,True,True,INCLUDE,INCLUDE,openai_decisions,0.8,0.2
+https://lod.nal.usda.gov/nalt/336289,bacterial outer membranes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/336296,broadly neutralizing antibodies,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/336342,autophagosomes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/336371,chromatin immunoprecipitation,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.45,0.55
+https://lod.nal.usda.gov/nalt/33967,oligosaccharides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.44,0.56
+https://lod.nal.usda.gov/nalt/340,immunologic diseases,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/34032,serodiagnosis,False,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/34041,disease prevalence,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/34043,prevalence,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/34050,trypanotolerance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.4,0.6
+https://lod.nal.usda.gov/nalt/34051,gene-for-gene relationship,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/342,lymphatic diseases,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/34250,transcription factors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/34674,immunomodulators,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/34679,toxoids,False,True,INCLUDE,INCLUDE,openai_decisions,0.54,0.46
+https://lod.nal.usda.gov/nalt/347,respiratory tract diseases,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/34969,labeling techniques,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/35050,skeletal muscle,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/35497,kallikreins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/36227,electronic nose,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/36291,enzyme-linked immunosorbent assay,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/36807,embryonic stem cells,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/37012,thymus gland,False,True,INCLUDE,INCLUDE,openai_decisions,0.61,0.39
+https://lod.nal.usda.gov/nalt/37025,phagocytosis,True,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/37357,insect biology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/37485,enzyme immunoassays,True,True,INCLUDE,INCLUDE,openai_decisions,0.76,0.24
+https://lod.nal.usda.gov/nalt/37498,protein subunits,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/37512,eosinophils,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/37565,epidemiological studies,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/37635,haptens,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/3926,immunization,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/3937,growth factors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/3939,cell differentiation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.08,0.92
+https://lod.nal.usda.gov/nalt/3945,animal parasitic nematodes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/39571,strains,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/3963,blood proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/3967,toxicity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/39752,immunologic deficiency syndromes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/39763,leukopenia,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.33,0.67
+https://lod.nal.usda.gov/nalt/3990,lipids,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/40080,ficoll,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/4063,plant gums,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/40702,fluorescence,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/40705,fluorescent antibody technique,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/40707,fluorescent labeling,False,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/40759,foam cells,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/40760,macrophages,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/40829,food science,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/40960,Hepatovirus A,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/41637,fructans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/4180,adenylate cyclase,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/4195,bacterial adhesion,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4199,adhesion,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42041,recombinant fusion proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42159,galacturonans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/4218,adipocytes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/4226,peptide hormones,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/42271,globulins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/4236,vaccine adjuvants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/42571,gene silencing,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.16,0.84
+https://lod.nal.usda.gov/nalt/42596,immunoglobulin genes,True,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/42599,major histocompatibility complex,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/42605,reporter genes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/42647,varietal resistance,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.1,0.9
+https://lod.nal.usda.gov/nalt/42658,microarray technology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.24,0.76
+https://lod.nal.usda.gov/nalt/42879,pollen germination,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4326,passive immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/43422,testes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/4351,endocrine glands,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/43663,heterophils,False,True,INCLUDE,INCLUDE,openai_decisions,0.57,0.43
+https://lod.nal.usda.gov/nalt/43664,neutrophils,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/4370,receptors,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/43993,interleukins,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/44178,H-Y antigen,True,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/44179,histocompatibility antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/44200,hemagglutination inhibition test,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/45058,stem cell factor,False,True,INCLUDE,INCLUDE,openai_decisions,0.81,0.19
+https://lod.nal.usda.gov/nalt/45073,hemicellulose,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/45100,hemolysins,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/45101,melittin,True,True,INCLUDE,INCLUDE,openai_decisions,0.59,0.41
+https://lod.nal.usda.gov/nalt/45122,Hepatitis C virus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.17,0.83
+https://lod.nal.usda.gov/nalt/45135,Hepatitis B virus,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.29,0.71
+https://lod.nal.usda.gov/nalt/45636,histiocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/45637,histiocytosis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/45640,histochemistry,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/45926,thymus hormones,False,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/46848,marine toxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/46873,immunoglobulin A,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/46875,immunoglobulin E,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/46883,immunoglobulin G,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/46885,immunoglobulin M,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/46965,immunosuppression,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/46969,macrophage activation,True,True,INCLUDE,INCLUDE,openai_decisions,0.84,0.16
+https://lod.nal.usda.gov/nalt/46970,reticuloendothelial system,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/46974,insect immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.67,0.33
+https://lod.nal.usda.gov/nalt/46975,mucosal immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/46982,radioimmunoassays,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/46983,immunoblotting,True,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/46984,immunochemistry,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.5,0.5
+https://lod.nal.usda.gov/nalt/46985,immunocytochemistry,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/46988,immunocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/46993,immunodiffusion tests,True,True,INCLUDE,INCLUDE,openai_decisions,0.85,0.15
+https://lod.nal.usda.gov/nalt/46998,interferons,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/47,animal anatomy,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/47004,immunomagnetic separation,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/47005,neutralization tests,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/47006,precipitin tests,True,True,INCLUDE,INCLUDE,openai_decisions,0.71,0.29
+https://lod.nal.usda.gov/nalt/47007,ring tests,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.48,0.52
+https://lod.nal.usda.gov/nalt/47011,magnetic separation,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47012,immunostimulants,True,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/47070,inactivated vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/47468,integrins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/47496,interleukin-1,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/47498,interleukin-10,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/47500,interleukin-11,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/47502,interleukin-12,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/47504,interleukin-2,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/47506,interleukin-3,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/47508,interleukin-4,True,True,INCLUDE,INCLUDE,openai_decisions,0.93,0.07
+https://lod.nal.usda.gov/nalt/47510,interleukin-5,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/47512,interleukin-6,True,True,INCLUDE,INCLUDE,openai_decisions,0.96,0.04
+https://lod.nal.usda.gov/nalt/47514,interleukin-7,True,True,INCLUDE,INCLUDE,openai_decisions,0.95,0.05
+https://lod.nal.usda.gov/nalt/47516,interleukin-8,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/47518,interleukin-9,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/48,bodily secretions and exudates,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/4813,hepatotoxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.03,0.97
+https://lod.nal.usda.gov/nalt/48385,nephrotoxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.27,0.73
+https://lod.nal.usda.gov/nalt/48404,natural killer cells,False,True,INCLUDE,INCLUDE,openai_decisions,0.9,0.1
+https://lod.nal.usda.gov/nalt/48601,Kupffer cells,False,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/49,body fluids,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/49480,ricin,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.39,0.61
+https://lod.nal.usda.gov/nalt/49697,leptin,False,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/4973,galactans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/49956,monocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.79,0.21
+https://lod.nal.usda.gov/nalt/50287,lipopolysaccharides,False,True,INCLUDE,INCLUDE,openai_decisions,0.77,0.23
+https://lod.nal.usda.gov/nalt/5079,methodology,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/50915,lymph nodes,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50921,Peyer's patches,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50922,thoracic duct,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/50929,thymocytes,False,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/50933,lymphotoxin,True,True,INCLUDE,INCLUDE,openai_decisions,0.91,0.09
+https://lod.nal.usda.gov/nalt/5130,agglutination,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/5131,antigen-antibody reactions,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/5132,hemagglutination,True,True,INCLUDE,INCLUDE,openai_decisions,0.83,0.17
+https://lod.nal.usda.gov/nalt/5133,agglutination tests,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/5135,hemagglutination tests,True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/5136,latex agglutination test,True,True,INCLUDE,INCLUDE,openai_decisions,0.74,0.26
+https://lod.nal.usda.gov/nalt/5137,agglutinins,True,True,INCLUDE,INCLUDE,openai_decisions,0.98,0.02
+https://lod.nal.usda.gov/nalt/5138,immunologic factors,True,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/5139,hemagglutinins,True,True,INCLUDE,INCLUDE,openai_decisions,0.89,0.11
+https://lod.nal.usda.gov/nalt/5140,lectins,False,True,INCLUDE,INCLUDE,openai_decisions,0.68,0.32
+https://lod.nal.usda.gov/nalt/517,hormones,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/53239,pleiotropy,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/53574,mucilages,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/54320,nanotechnology,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/54355,nasopharynx,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/54683,synapse,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/54717,synaptic transmission,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/55215,toxigenesis,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.01,0.99
+https://lod.nal.usda.gov/nalt/56065,sweetbreads,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/57150,pectins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/57341,pentosans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/57373,subunit vaccines,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/574,polymers,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/57884,phosphatidylglycerols,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/57970,phototoxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/57971,phytotoxins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/59177,proteoglycans,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.21,0.79
+https://lod.nal.usda.gov/nalt/59179,schizophyllan,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/6003,phenotype,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/6218,fucose,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/6365,polysaccharides,False,True,INCLUDE,INCLUDE,openai_decisions,0.53,0.47
+https://lod.nal.usda.gov/nalt/6366,polyuronides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.05,0.95
+https://lod.nal.usda.gov/nalt/639,molluscs,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.34,0.66
+https://lod.nal.usda.gov/nalt/65243,suppressor cells,False,True,INCLUDE,INCLUDE,openai_decisions,0.86,0.14
+https://lod.nal.usda.gov/nalt/6539,genes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/6553,allergenicity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.47,0.53
+https://lod.nal.usda.gov/nalt/6554,allergens,True,True,INCLUDE,INCLUDE,openai_decisions,0.88,0.12
+https://lod.nal.usda.gov/nalt/6556,antigens,True,True,INCLUDE,INCLUDE,openai_decisions,0.94,0.06
+https://lod.nal.usda.gov/nalt/6560,food allergies,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/65981,thymosin,False,True,INCLUDE,INCLUDE,openai_decisions,0.63,0.37
+https://lod.nal.usda.gov/nalt/66077,tumor necrosis factor-alpha,True,True,INCLUDE,INCLUDE,openai_decisions,0.97,0.03
+https://lod.nal.usda.gov/nalt/6679,graft rejection,True,True,INCLUDE,INCLUDE,openai_decisions,0.87,0.13
+https://lod.nal.usda.gov/nalt/6683,surgical transplantation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/6735,diabetes mellitus,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/67797,milk ring tests,True,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/68395,plant-incorporated protectants,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.32,0.68
+https://lod.nal.usda.gov/nalt/68509,acute dermal toxicity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.12,0.88
+https://lod.nal.usda.gov/nalt/68518,biocompatibility,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/68527,animal tests,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/68528,eye irritation tests,False,True,INCLUDE,INCLUDE,openai_decisions,0.7,0.3
+https://lod.nal.usda.gov/nalt/68546,local lymph node assay,True,True,INCLUDE,INCLUDE,openai_decisions,0.82,0.18
+https://lod.nal.usda.gov/nalt/68549,patch test,True,True,INCLUDE,INCLUDE,openai_decisions,0.69,0.31
+https://lod.nal.usda.gov/nalt/6863,islets of Langerhans,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/702,neoplasms,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/7062,alternan,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.04,0.96
+https://lod.nal.usda.gov/nalt/70758,active immunity,True,True,INCLUDE,INCLUDE,openai_decisions,0.99,0.01
+https://lod.nal.usda.gov/nalt/733,ascites,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.19,0.81
+https://lod.nal.usda.gov/nalt/740,dermal exposure,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85
+https://lod.nal.usda.gov/nalt/748,granuloma,False,True,INCLUDE,INCLUDE,openai_decisions,0.52,0.48
+https://lod.nal.usda.gov/nalt/758,inflammation,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.43,0.57
+https://lod.nal.usda.gov/nalt/7687,florfenicol,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/77695,dermal toxicity,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.02,0.98
+https://lod.nal.usda.gov/nalt/7779,protein engineering,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/78062,disease susceptibility,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.22,0.78
+https://lod.nal.usda.gov/nalt/7812,biochemical compounds,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.18,0.82
+https://lod.nal.usda.gov/nalt/7813,peptides,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.23,0.77
+https://lod.nal.usda.gov/nalt/83308,immunostimulation (physiological),True,True,INCLUDE,INCLUDE,openai_decisions,0.92,0.08
+https://lod.nal.usda.gov/nalt/84266496,animal-friendly affinity reagents,True,True,EXCLUDE,EXCLUDE,openai_decisions,0.42,0.58
+https://lod.nal.usda.gov/nalt/8445,animal use refinement,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.35,0.65
+https://lod.nal.usda.gov/nalt/8450,medicinal properties,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8468,analytical methods,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.26,0.74
+https://lod.nal.usda.gov/nalt/8484,flow cytometry,False,True,INCLUDE,INCLUDE,openai_decisions,0.56,0.44
+https://lod.nal.usda.gov/nalt/8701,pollen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/876,proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/887,animal proteins,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.2,0.8
+https://lod.nal.usda.gov/nalt/889,plant proteins,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/89119,pleuropneumonia,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/89166,pododermatitis,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/89615,programmed cell death,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8966,animal organs,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8967,animal tissues,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/8968,circulatory system,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9116,testicular development,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.07,0.93
+https://lod.nal.usda.gov/nalt/9196,animal fertility,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.14,0.86
+https://lod.nal.usda.gov/nalt/920,edema,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9222,genetics,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.13,0.87
+https://lod.nal.usda.gov/nalt/9239,vaccination,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.11,0.89
+https://lod.nal.usda.gov/nalt/9316,maternal milk,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9344,liver,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.09,0.91
+https://lod.nal.usda.gov/nalt/9348,spleen,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9351,tonsils,False,False,EXCLUDE,,unreached,,
+https://lod.nal.usda.gov/nalt/9354,helminths,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.28,0.72
+https://lod.nal.usda.gov/nalt/9369,excretory-secretory products,False,True,INCLUDE,INCLUDE,openai_decisions,0.72,0.28
+https://lod.nal.usda.gov/nalt/9528,bone marrow,False,True,INCLUDE,INCLUDE,openai_decisions,0.6,0.4
+https://lod.nal.usda.gov/nalt/9529,cell membranes,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.06,0.94
+https://lod.nal.usda.gov/nalt/9551,animal use reduction,False,True,EXCLUDE,EXCLUDE,openai_decisions,0.15,0.85

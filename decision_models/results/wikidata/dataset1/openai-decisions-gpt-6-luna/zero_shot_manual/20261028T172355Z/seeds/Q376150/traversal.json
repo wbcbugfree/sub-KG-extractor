@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q376150",
+  "seed_label": "International Telecommunication Union",
+  "included_qids": [
+    "Q1328899",
+    "Q15925165",
+    "Q376150"
+  ],
+  "pruned_qids": [
+    "Q294801",
+    "Q51885731",
+    "Q659206"
+  ],
+  "visited_qids": [
+    "Q1328899",
+    "Q15925165",
+    "Q294801",
+    "Q376150",
+    "Q51885731",
+    "Q659206"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 0,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:46.576120+00:00",
+  "finished_at_utc": "2026-10-28T17:24:47.443292+00:00",
+  "wall_seconds": 0.8671793999965303,
+  "frontier_exhausted": true
+}

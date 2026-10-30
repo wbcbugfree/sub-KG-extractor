@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4633",
+    "legacy_row_id": "Q432394|Q5514336",
+    "seed_qid": "Q432394",
+    "seed_label": "assisted GNSS",
+    "qid": "Q5514336",
+    "label": "GNSS enhancement",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q2165162",
+    "parent_label": "GNSS augmentation",
+    "path": "assisted GNSS --instance of--> GNSS augmentation --has subclass--> GNSS enhancement",
+    "uri": "http://www.wikidata.org/entity/Q5514336",
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "seed_qid": "Q104851",
+  "seed_label": "firmware",
+  "included_qids": [
+    "Q104851",
+    "Q1074158",
+    "Q17155032"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q104851",
+    "Q1074158",
+    "Q17155032"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:58.731196+00:00",
+  "finished_at_utc": "2026-10-28T17:23:59.322426+00:00",
+  "wall_seconds": 0.5912452999909874,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,54 @@
+{
+  "seed_qid": "Q160453",
+  "seed_label": "Simple Mail Transfer Protocol",
+  "included_qids": [
+    "Q1254335",
+    "Q15836568",
+    "Q160453",
+    "Q16935517",
+    "Q184230",
+    "Q2622793",
+    "Q8777",
+    "Q96473852"
+  ],
+  "pruned_qids": [
+    "Q28380029",
+    "Q5013874",
+    "Q8795"
+  ],
+  "visited_qids": [
+    "Q1254335",
+    "Q15836568",
+    "Q160453",
+    "Q16935517",
+    "Q184230",
+    "Q2622793",
+    "Q28380029",
+    "Q5013874",
+    "Q8777",
+    "Q8795",
+    "Q96473852"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 5,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:13.492407+00:00",
+  "finished_at_utc": "2026-10-28T17:24:14.688206+00:00",
+  "wall_seconds": 1.195799100009026,
+  "frontier_exhausted": true
+}

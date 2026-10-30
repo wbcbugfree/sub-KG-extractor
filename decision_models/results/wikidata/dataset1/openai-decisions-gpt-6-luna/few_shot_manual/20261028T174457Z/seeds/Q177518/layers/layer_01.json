@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2505",
+    "legacy_row_id": "Q177518|Q1668024",
+    "seed_qid": "Q177518",
+    "seed_label": "IPTV",
+    "qid": "Q1668024",
+    "label": "service on internet",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q177518",
+    "parent_label": "IPTV",
+    "path": "IPTV --instance of--> service on internet",
+    "uri": "http://www.wikidata.org/entity/Q1668024",
+    "classification": "INCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.78,
+    "p_exclude": 0.22,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

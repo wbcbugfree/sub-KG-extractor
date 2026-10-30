@@ -1,0 +1,65 @@
+{
+  "started_at_utc": "2026-10-27T13:36:43.574000+00:00",
+  "iteration": 3,
+  "batch": 10,
+  "attempt": 1,
+  "candidate_count": 5,
+  "http_status": 200,
+  "response": {
+    "model": "jev-1.14.0",
+    "answers": {
+      "candidate_1": {
+        "type": "choice",
+        "choice": "INCLUDE",
+        "confidence": 0.98,
+        "probabilities": {
+          "INCLUDE": 0.99,
+          "EXCLUDE": 0.01
+        }
+      },
+      "candidate_2": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 1.0,
+        "probabilities": {
+          "INCLUDE": 0.0,
+          "EXCLUDE": 1.0
+        }
+      },
+      "candidate_3": {
+        "type": "choice",
+        "choice": "INCLUDE",
+        "confidence": 0.48,
+        "probabilities": {
+          "INCLUDE": 0.74,
+          "EXCLUDE": 0.26
+        }
+      },
+      "candidate_4": {
+        "type": "choice",
+        "choice": "INCLUDE",
+        "confidence": 0.82,
+        "probabilities": {
+          "INCLUDE": 0.91,
+          "EXCLUDE": 0.09
+        }
+      },
+      "candidate_5": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 1.0,
+        "probabilities": {
+          "INCLUDE": 0.0,
+          "EXCLUDE": 1.0
+        }
+      }
+    },
+    "usage": {
+      "input_tokens": 5181,
+      "output_tokens": 183
+    }
+  },
+  "status": "success",
+  "elapsed_seconds": 0.3087431000021752,
+  "finished_at_utc": "2026-10-27T13:36:43.882768+00:00"
+}

@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q1347627",
+  "seed_label": "Global Certification Forum",
+  "included_qids": [
+    "Q1347627",
+    "Q43229"
+  ],
+  "pruned_qids": [
+    "Q110666024",
+    "Q1311569",
+    "Q26180917",
+    "Q5055151",
+    "Q5155040",
+    "Q5380419"
+  ],
+  "visited_qids": [
+    "Q110666024",
+    "Q1311569",
+    "Q1347627",
+    "Q26180917",
+    "Q43229",
+    "Q5055151",
+    "Q5155040",
+    "Q5380419"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 0,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:35.508751+00:00",
+  "finished_at_utc": "2026-10-28T17:43:36.193115+00:00",
+  "wall_seconds": 0.6843652999959886,
+  "frontier_exhausted": true
+}

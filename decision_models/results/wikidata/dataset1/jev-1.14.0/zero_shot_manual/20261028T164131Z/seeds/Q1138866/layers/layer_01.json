@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1185",
+    "legacy_row_id": "Q1138866|Q163740",
+    "seed_qid": "Q1138866",
+    "seed_label": "International Commission on Non-Ionizing Radiation Protection",
+    "qid": "Q163740",
+    "label": "nonprofit organization",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1138866",
+    "parent_label": "International Commission on Non-Ionizing Radiation Protection",
+    "path": "International Commission on Non-Ionizing Radiation Protection --instance of--> nonprofit organization",
+    "uri": "http://www.wikidata.org/entity/Q163740",
+    "classification": "INCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.64,
+    "p_exclude": 0.36,
+    "selected_probability": 0.64,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

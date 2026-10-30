@@ -1,0 +1,31 @@
+{
+  "seed_qid": "Q9798",
+  "seed_label": "saxophone",
+  "included_qids": [
+    "Q181247",
+    "Q9798"
+  ],
+  "pruned_qids": [
+    "Q55738874"
+  ],
+  "visited_qids": [
+    "Q181247",
+    "Q55738874",
+    "Q9798"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:42:48.926926+00:00",
+  "finished_at_utc": "2026-10-28T17:42:49.220297+00:00",
+  "wall_seconds": 0.29337610000220593,
+  "frontier_exhausted": true
+}

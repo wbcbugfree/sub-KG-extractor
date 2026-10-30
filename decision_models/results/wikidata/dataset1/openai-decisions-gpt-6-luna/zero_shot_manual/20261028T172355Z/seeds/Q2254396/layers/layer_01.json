@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1558",
+    "legacy_row_id": "Q2254396|Q4830453",
+    "seed_qid": "Q2254396",
+    "seed_label": "Viaccess",
+    "qid": "Q4830453",
+    "label": "business",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q2254396",
+    "parent_label": "Viaccess",
+    "path": "Viaccess --instance of--> business",
+    "uri": "http://www.wikidata.org/entity/Q4830453",
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

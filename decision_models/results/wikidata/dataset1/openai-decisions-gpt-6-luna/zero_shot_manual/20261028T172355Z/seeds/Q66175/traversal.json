@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q66175",
+  "seed_label": "telex",
+  "included_qids": [
+    "Q11033",
+    "Q1640824",
+    "Q340169",
+    "Q3631847",
+    "Q386274",
+    "Q66175",
+    "Q806880"
+  ],
+  "pruned_qids": [
+    "Q1002697",
+    "Q3246542",
+    "Q354004",
+    "Q6423319",
+    "Q7189615"
+  ],
+  "visited_qids": [
+    "Q1002697",
+    "Q11033",
+    "Q1640824",
+    "Q3246542",
+    "Q340169",
+    "Q354004",
+    "Q3631847",
+    "Q386274",
+    "Q6423319",
+    "Q66175",
+    "Q7189615",
+    "Q806880"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 10,
+      "included": 5,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:25:00.745155+00:00",
+  "finished_at_utc": "2026-10-28T17:25:02.027275+00:00",
+  "wall_seconds": 1.2821307000122033,
+  "frontier_exhausted": true
+}

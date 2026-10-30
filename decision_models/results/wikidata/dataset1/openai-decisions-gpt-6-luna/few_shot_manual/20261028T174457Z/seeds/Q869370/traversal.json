@@ -1,0 +1,30 @@
+{
+  "seed_qid": "Q869370",
+  "seed_label": "brute-force attack",
+  "included_qids": [
+    "Q1724915",
+    "Q19845316",
+    "Q869370"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1724915",
+    "Q19845316",
+    "Q869370"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:46:31.569496+00:00",
+  "finished_at_utc": "2026-10-28T17:46:31.926903+00:00",
+  "wall_seconds": 0.35741630000120495,
+  "frontier_exhausted": true
+}

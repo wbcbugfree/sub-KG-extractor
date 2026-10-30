@@ -1,0 +1,39 @@
+{
+  "seed_qid": "Q344266",
+  "seed_label": "Active Server Pages",
+  "included_qids": [
+    "Q1330336",
+    "Q189224",
+    "Q344266",
+    "Q9143"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1330336",
+    "Q189224",
+    "Q344266",
+    "Q9143"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:44.824150+00:00",
+  "finished_at_utc": "2026-10-28T17:24:45.606541+00:00",
+  "wall_seconds": 0.7823875000030966,
+  "frontier_exhausted": true
+}

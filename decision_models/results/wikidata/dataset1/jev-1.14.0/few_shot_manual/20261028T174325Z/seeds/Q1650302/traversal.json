@@ -1,0 +1,41 @@
+{
+  "seed_qid": "Q1650302",
+  "seed_label": "RJ45",
+  "included_qids": [
+    "Q1650302",
+    "Q21065240",
+    "Q2413791",
+    "Q2897834",
+    "Q595851"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1650302",
+    "Q21065240",
+    "Q2413791",
+    "Q2897834",
+    "Q595851"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:40.770391+00:00",
+  "finished_at_utc": "2026-10-28T17:43:41.388919+00:00",
+  "wall_seconds": 0.6185224999935599,
+  "frontier_exhausted": true
+}

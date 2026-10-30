@@ -1,0 +1,35 @@
+{
+  "seed_qid": "Q46794",
+  "seed_label": "Subversion",
+  "included_qids": [
+    "Q39999225",
+    "Q46794",
+    "Q55680343"
+  ],
+  "pruned_qids": [
+    "Q132364",
+    "Q341"
+  ],
+  "visited_qids": [
+    "Q132364",
+    "Q341",
+    "Q39999225",
+    "Q46794",
+    "Q55680343"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 2,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:11.121372+00:00",
+  "finished_at_utc": "2026-10-28T17:44:11.503480+00:00",
+  "wall_seconds": 0.382117000001017,
+  "frontier_exhausted": true
+}

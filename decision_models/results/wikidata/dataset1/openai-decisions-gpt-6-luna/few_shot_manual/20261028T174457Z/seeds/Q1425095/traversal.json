@@ -1,0 +1,59 @@
+{
+  "seed_qid": "Q1425095",
+  "seed_label": "Ogg Tarkin",
+  "included_qids": [
+    "Q1425095",
+    "Q1652551",
+    "Q184748",
+    "Q240831",
+    "Q267151",
+    "Q7927899"
+  ],
+  "pruned_qids": [
+    "Q2481505",
+    "Q25388255",
+    "Q4681865",
+    "Q5156020"
+  ],
+  "visited_qids": [
+    "Q1425095",
+    "Q1652551",
+    "Q184748",
+    "Q240831",
+    "Q2481505",
+    "Q25388255",
+    "Q267151",
+    "Q4681865",
+    "Q5156020",
+    "Q7927899"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 2,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:15.200175+00:00",
+  "finished_at_utc": "2026-10-28T17:45:16.594645+00:00",
+  "wall_seconds": 1.3944760999875143,
+  "frontier_exhausted": true
+}

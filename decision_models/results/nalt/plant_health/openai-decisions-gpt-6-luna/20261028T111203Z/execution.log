@@ -1,0 +1,33 @@
+Preparing plant_health: fingerprinted NALT and exact baseline replay
+Iteration 1: evaluated=54 included=34 pruned=20
+Iteration 2: evaluated=183 included=131 pruned=52
+Iteration 3: evaluated=190 included=46 pruned=144
+Iteration 4: evaluated=63 included=7 pruned=56
+Iteration 5: evaluated=7 included=0 pruned=7
+Iteration 1: evaluated=54 included=34 pruned=20
+Iteration 2: evaluated=183 included=127 pruned=56
+Iteration 3: evaluated=173 included=41 pruned=132
+Iteration 4: evaluated=48 included=7 pruned=41
+Iteration 5: evaluated=7 included=0 pruned=7
+Iteration 1: evaluated=54 included=37 pruned=17
+Iteration 2: evaluated=189 included=137 pruned=52
+Iteration 3: evaluated=253 included=64 pruned=189
+Iteration 4: evaluated=105 included=17 pruned=88
+Iteration 5: evaluated=47 included=8 pruned=39
+Iteration 6: evaluated=11 included=0 pruned=11
+Iteration 1: evaluated=54 included=33 pruned=21
+Iteration 2: evaluated=175 included=131 pruned=44
+Iteration 3: evaluated=185 included=54 pruned=131
+Iteration 4: evaluated=98 included=15 pruned=83
+Iteration 5: evaluated=17 included=0 pruned=17
+Decisions layer 1: 54 candidates in 3 live requests
+Iteration 1: evaluated=54 included=35 pruned=19
+Decisions layer 2: 218 candidates in 11 live requests
+Iteration 2: evaluated=218 included=130 pruned=88
+Decisions layer 3: 197 candidates in 10 live requests
+Iteration 3: evaluated=197 included=47 pruned=150
+Decisions layer 4: 64 candidates in 4 live requests
+Iteration 4: evaluated=64 included=8 pruned=56
+Decisions layer 5: 10 candidates in 1 live requests
+Iteration 5: evaluated=10 included=0 pruned=10
+{"branch": "plant_health", "status": "complete", "metrics": {"true_positive": 193, "false_positive": 25, "false_negative": 26, "true_negative": 297, "precision": 0.8853211009174312, "recall": 0.8812785388127854, "f1": 0.8832951945080091, "accuracy": 0.9057301293900185, "evaluation_total": 541, "excluded_evaluation_count": 13, "gold_positive_count": 219, "reachable_gold_positive_count": 225, "raw_gold_positive_count": 225, "unreachable_gold_positive_count": 0, "included_count": 218, "raw_included_count": 222, "pruned_count": 315, "raw_pruned_count": 323, "visited_count": 533, "raw_visited_count": 545, "iterations": 5}, "usage": {"input_tokens": 539137, "output_tokens": 0, "total_tokens": 539137, "cached_tokens": 0, "cache_write_tokens": 0, "uncached_input_tokens": 539137, "estimated_cost_usd": 0.0539137, "live_bfs_wall_seconds": 7.360695900002611, "logical_requests": 29, "request_attempts": 29, "successful_requests": 29, "retries": 0, "failed_attempts": 0, "attempts_without_usage": 0, "attempts_without_cost": 0, "summed_attempt_latency_seconds": 21.676849000017683, "median_success_latency_seconds": 0.5798935999991954, "p95_success_latency_seconds": 2.0357437999991816, "max_success_latency_seconds": 2.400096899997152, "response_models": ["gpt-6-luna"], "price_checked_on": "2026-10-28", "price_sources": ["https://developers.openai.com/api/docs/guides/decisions", "https://developers.openai.com/api/docs/pricing"], "rates_usd_per_million": {"uncached_input": 0.1, "cached_input": 0.01, "cache_write_30m": 0.125, "output": 0.0}, "cost_note": "Estimate for global endpoint, short context, default 30m cache TTL; unknown usage is not zero. Output is free. Cache reads/writes are subsets of input tokens.", "total_run_wall_seconds": 67.57051169999613, "preparation_wall_seconds": 57.676777899992885, "graph_parse_and_index_seconds": 50.056759600003716, "baseline_replay_seconds": 5.842035900001065, "postprocessing_wall_seconds": 2.533037900000636}}

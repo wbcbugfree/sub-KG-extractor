@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2249",
+    "legacy_row_id": "Q104851|Q1074158",
+    "seed_qid": "Q104851",
+    "seed_label": "firmware",
+    "qid": "Q1074158",
+    "label": "educational software",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q17155032",
+    "parent_label": "software category",
+    "path": "firmware --instance of--> software category --has subclass--> educational software",
+    "uri": "http://www.wikidata.org/entity/Q1074158",
+    "classification": "INCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.57,
+    "p_exclude": 0.43,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

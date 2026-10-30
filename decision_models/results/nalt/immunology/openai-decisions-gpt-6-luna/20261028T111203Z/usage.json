@@ -1,0 +1,41 @@
+{
+  "input_tokens": 704812,
+  "output_tokens": 0,
+  "total_tokens": 704812,
+  "cached_tokens": 0,
+  "cache_write_tokens": 5282,
+  "uncached_input_tokens": 699530,
+  "estimated_cost_usd": 0.07061325,
+  "live_bfs_wall_seconds": 7.997435800003586,
+  "logical_requests": 34,
+  "request_attempts": 34,
+  "successful_requests": 34,
+  "retries": 0,
+  "failed_attempts": 0,
+  "attempts_without_usage": 0,
+  "attempts_without_cost": 0,
+  "summed_attempt_latency_seconds": 21.484703400012222,
+  "median_success_latency_seconds": 0.6071009999977832,
+  "p95_success_latency_seconds": 0.9564276999954018,
+  "max_success_latency_seconds": 1.320335200005502,
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "price_checked_on": "2026-10-28",
+  "price_sources": [
+    "https://developers.openai.com/api/docs/guides/decisions",
+    "https://developers.openai.com/api/docs/pricing"
+  ],
+  "rates_usd_per_million": {
+    "uncached_input": 0.1,
+    "cached_input": 0.01,
+    "cache_write_30m": 0.125,
+    "output": 0.0
+  },
+  "cost_note": "Estimate for global endpoint, short context, default 30m cache TTL; unknown usage is not zero. Output is free. Cache reads/writes are subsets of input tokens.",
+  "total_run_wall_seconds": 71.26388259999658,
+  "preparation_wall_seconds": 59.24306499999511,
+  "graph_parse_and_index_seconds": 50.7620872999978,
+  "baseline_replay_seconds": 6.701318400002492,
+  "postprocessing_wall_seconds": 4.023381799997878
+}

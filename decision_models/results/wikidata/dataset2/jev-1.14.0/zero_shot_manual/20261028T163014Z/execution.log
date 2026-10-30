@@ -1,0 +1,491 @@
+{
+  "scored_rows": 935,
+  "aligned_rows": 868,
+  "seeds": 104,
+  "traversal_decision_rows": 956,
+  "skipped_rows_absent_from_local_graph": 26,
+  "held_out_example_rows": 18,
+  "examples_in_prompt": false,
+  "prompt_examples_count": 0,
+  "evaluation_source": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/rows.csv"
+}
+Running 104 BFS seeds with 5 parallel seed workers ...
+Jev layer 1: 5 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requestsJev layer 1: 4 candidates in 1 live requests
+
+Jev layer 1: 1 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requests
+Jev layer 2: 15 candidates in 1 live requests
+Jev layer 2: 22 candidates in 2 live requests
+Jev layer 2: 6 candidates in 1 live requests
+Jev layer 1: 2 candidates in 1 live requests
+Completed BFS seed 1/104
+Jev layer 1: 5 candidates in 1 live requestsCompleted BFS seed 2/104
+
+Jev layer 2: 13 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requests
+Completed BFS seed 3/104
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 4/104
+
+Jev layer 2: 9 candidates in 1 live requests
+Jev layer 2: 5 candidates in 1 live requests
+Jev layer 3: 2 candidates in 1 live requests
+Jev layer 2: 9 candidates in 1 live requests
+Jev layer 3: 1 candidates in 1 live requests
+Jev layer 1: 7 candidates in 1 live requestsCompleted BFS seed 5/104
+
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 6/104
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 7/104
+
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 8/104
+
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 9/104
+
+Jev layer 2: 1 candidates in 1 live requests
+Jev layer 2: 15 candidates in 1 live requests
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 2: 7 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 10/104
+
+Jev layer 1: 7 candidates in 1 live requestsCompleted BFS seed 11/104
+
+Jev layer 1: 10 candidates in 1 live requests
+Completed BFS seed 12/104
+Jev layer 1: 7 candidates in 1 live requestsCompleted BFS seed 13/104
+
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 14/104
+
+Jev layer 2: 9 candidates in 1 live requests
+Jev layer 2: 5 candidates in 1 live requests
+Jev layer 1: 7 candidates in 1 live requestsCompleted BFS seed 15/104
+
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 2: 1 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requests
+Completed BFS seed 16/104
+Jev layer 2: 2 candidates in 1 live requests
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 17/104
+
+Jev layer 1: 3 candidates in 1 live requests
+Completed BFS seed 18/104
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 19/104
+
+Jev layer 2: 8 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 20/104
+
+Jev layer 2: 7 candidates in 1 live requests
+Jev layer 1: 5 candidates in 1 live requestsCompleted BFS seed 21/104
+
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 22/104
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 23/104
+
+Jev layer 1: 4 candidates in 1 live requests
+Completed BFS seed 24/104
+Jev layer 2: 24 candidates in 2 live requests
+Jev layer 2: 9 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 25/104
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 26/104
+
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 27/104
+
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 28/104
+
+Jev layer 3: 1 candidates in 1 live requests
+Jev layer 1: 5 candidates in 1 live requestsCompleted BFS seed 29/104
+
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 30/104
+
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 31/104
+
+Jev layer 1: 4 candidates in 1 live requests
+Completed BFS seed 32/104
+Jev layer 1: 9 candidates in 1 live requestsCompleted BFS seed 33/104
+
+Jev layer 2: 1 candidates in 1 live requests
+Jev layer 1: 8 candidates in 1 live requestsCompleted BFS seed 34/104
+
+Jev layer 2: 35 candidates in 2 live requests
+Jev layer 2: 9 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 35/104
+
+Jev layer 2: 2 candidates in 1 live requests
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 1: 7 candidates in 1 live requestsCompleted BFS seed 36/104
+
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 37/104
+
+Jev layer 1: 5 candidates in 1 live requestsCompleted BFS seed 38/104
+
+Jev layer 1: 5 candidates in 1 live requests
+Completed BFS seed 39/104
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 40/104
+
+Jev layer 1: 10 candidates in 1 live requestsCompleted BFS seed 41/104
+
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 42/104
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 43/104
+
+Jev layer 2: 2 candidates in 1 live requests
+Jev layer 2: 1 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 44/104
+
+Jev layer 2: 16 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 45/104
+
+Jev layer 1: 8 candidates in 1 live requests
+Completed BFS seed 46/104
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 47/104
+
+Jev layer 2: 2 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 48/104
+
+Jev layer 2: 5 candidates in 1 live requests
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 2: 28 candidates in 2 live requests
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 49/104
+
+Jev layer 2: 15 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 50/104
+
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 51/104
+
+Jev layer 2: 1 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requests
+Completed BFS seed 52/104
+Jev layer 2: 15 candidates in 1 live requests
+Jev layer 2: 5 candidates in 1 live requests
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 53/104
+
+Jev layer 3: 3 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 54/104
+
+Jev layer 1: 6 candidates in 1 live requestsCompleted BFS seed 55/104
+
+Jev layer 3: 2 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 56/104
+
+Jev layer 2: 7 candidates in 1 live requests
+Jev layer 1: 8 candidates in 1 live requestsCompleted BFS seed 57/104
+
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 58/104
+
+Jev layer 2: 2 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 59/104
+
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 60/104
+
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 61/104
+
+Jev layer 1: 6 candidates in 1 live requestsCompleted BFS seed 62/104
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 63/104
+
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 64/104
+
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 65/104
+
+Jev layer 1: 5 candidates in 1 live requestsCompleted BFS seed 66/104
+
+Jev layer 1: 5 candidates in 1 live requestsCompleted BFS seed 67/104
+
+Jev layer 1: 9 candidates in 1 live requestsCompleted BFS seed 68/104
+
+Jev layer 1: 3 candidates in 1 live requests
+Completed BFS seed 69/104
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 70/104
+
+Jev layer 2: 109 candidates in 6 live requests
+Jev layer 2: 1 candidates in 1 live requests
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 71/104
+
+Jev layer 2: 6 candidates in 1 live requests
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 72/104
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 73/104
+
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 74/104
+
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 75/104
+
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 76/104
+
+Jev layer 1: 5 candidates in 1 live requests
+Completed BFS seed 77/104
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 78/104
+
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 79/104
+
+Jev layer 2: 1 candidates in 1 live requests
+Jev layer 2: 6 candidates in 1 live requests
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 80/104
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 81/104
+
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 82/104
+
+Jev layer 1: 11 candidates in 1 live requestsCompleted BFS seed 83/104
+
+Jev layer 1: 3 candidates in 1 live requests
+Completed BFS seed 84/104
+Jev layer 1: 9 candidates in 1 live requests
+Completed BFS seed 85/104
+Jev layer 1: 2 candidates in 1 live requestsCompleted BFS seed 86/104
+
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 87/104
+
+Jev layer 1: 8 candidates in 1 live requestsCompleted BFS seed 88/104
+
+Jev layer 2: 7 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 89/104
+
+Jev layer 2: 2 candidates in 1 live requests
+Jev layer 2: 1 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 90/104
+
+Jev layer 1: 6 candidates in 1 live requestsCompleted BFS seed 91/104
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 92/104
+
+Jev layer 1: 1 candidates in 1 live requestsCompleted BFS seed 93/104
+
+Jev layer 1: 4 candidates in 1 live requestsCompleted BFS seed 94/104
+
+Jev layer 2: 6 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 95/104
+
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 96/104
+
+Jev layer 2: 3 candidates in 1 live requests
+Jev layer 1: 4 candidates in 1 live requests
+Completed BFS seed 97/104
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 1: 3 candidates in 1 live requestsCompleted BFS seed 98/104
+
+Jev layer 2: 2 candidates in 1 live requests
+Jev layer 1: 2 candidates in 1 live requests
+Completed BFS seed 99/104
+Jev layer 2: 4 candidates in 1 live requests
+Jev layer 2: 2 candidates in 1 live requests
+Completed BFS seed 100/104
+Completed BFS seed 101/104
+Completed BFS seed 102/104
+Jev layer 3: 1 candidates in 1 live requests
+Completed BFS seed 103/104
+Completed BFS seed 104/104
+{
+  "output_dir": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\results\\wikidata\\dataset2\\jev-1.14.0\\zero_shot_manual\\20261028T163014Z",
+  "metrics": {
+    "full_common": {
+      "pooled": {
+        "total": 935,
+        "unmatched": 0,
+        "tp": 492,
+        "fp": 24,
+        "fn": 87,
+        "tn": 332,
+        "precision": 0.9534883720930233,
+        "recall": 0.8497409326424871,
+        "f1": 0.8986301369863015,
+        "accuracy": 0.881283422459893
+      },
+      "fold_coverage": null,
+      "folds": null,
+      "weighted_fold": null
+    },
+    "aligned": {
+      "pooled": {
+        "total": 868,
+        "unmatched": 0,
+        "tp": 490,
+        "fp": 23,
+        "fn": 84,
+        "tn": 271,
+        "precision": 0.9551656920077972,
+        "recall": 0.8536585365853658,
+        "f1": 0.9015639374425023,
+        "accuracy": 0.8767281105990783
+      },
+      "fold_coverage": {
+        "expected": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "present": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "missing": [],
+        "complete": true
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "rows": 160,
+          "scored_rows": 160,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 160,
+            "unmatched": 0,
+            "tp": 118,
+            "fp": 3,
+            "fn": 23,
+            "tn": 16,
+            "precision": 0.9752066115702479,
+            "recall": 0.8368794326241135,
+            "f1": 0.9007633587786259,
+            "accuracy": 0.8375
+          }
+        },
+        {
+          "fold": 1,
+          "rows": 114,
+          "scored_rows": 114,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 114,
+            "unmatched": 0,
+            "tp": 71,
+            "fp": 2,
+            "fn": 11,
+            "tn": 30,
+            "precision": 0.9726027397260274,
+            "recall": 0.8658536585365854,
+            "f1": 0.9161290322580644,
+            "accuracy": 0.8859649122807017
+          }
+        },
+        {
+          "fold": 2,
+          "rows": 265,
+          "scored_rows": 265,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 265,
+            "unmatched": 0,
+            "tp": 105,
+            "fp": 12,
+            "fn": 17,
+            "tn": 131,
+            "precision": 0.8974358974358975,
+            "recall": 0.860655737704918,
+            "f1": 0.8786610878661089,
+            "accuracy": 0.8905660377358491
+          }
+        },
+        {
+          "fold": 3,
+          "rows": 135,
+          "scored_rows": 135,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 135,
+            "unmatched": 0,
+            "tp": 96,
+            "fp": 4,
+            "fn": 13,
+            "tn": 22,
+            "precision": 0.96,
+            "recall": 0.8807339449541285,
+            "f1": 0.9186602870813397,
+            "accuracy": 0.8740740740740741
+          }
+        },
+        {
+          "fold": 4,
+          "rows": 194,
+          "scored_rows": 194,
+          "unmatched_rows": 0,
+          "metrics": {
+            "total": 194,
+            "unmatched": 0,
+            "tp": 100,
+            "fp": 2,
+            "fn": 20,
+            "tn": 72,
+            "precision": 0.9803921568627451,
+            "recall": 0.8333333333333334,
+            "f1": 0.9009009009009009,
+            "accuracy": 0.8865979381443299
+          }
+        }
+      ],
+      "weighted_fold": {
+        "weighting": "scored_decision_rows",
+        "fold_count": 5,
+        "total_weight": 868,
+        "precision": 0.9499151629399679,
+        "std_precision": 0.03535175066650553,
+        "recall": 0.8539718272123342,
+        "std_recall": 0.017106313634781833,
+        "f1": 0.8988478673931728,
+        "std_f1": 0.015043350887525437,
+        "accuracy": 0.8767281105990783,
+        "std_accuracy": 0.019395679292182756
+      }
+    },
+    "visited_scored_probability_metrics": {
+      "rows": 893,
+      "excluded_unvisited_rows": 42,
+      "brier_score": 0.08656517357222844,
+      "log_loss": 0.2798463930417939
+    }
+  },
+  "usage": {
+    "live_bfs_wall_seconds": 12.443335399999341,
+    "logical_requests": 182,
+    "successful_requests": 182,
+    "request_attempts": 182,
+    "retries": 0,
+    "failed_attempts": 0,
+    "attempts_without_usage": 0,
+    "summed_attempt_latency_seconds": 57.8028489001008,
+    "median_success_latency_seconds": 0.3079172500001732,
+    "p95_success_latency_seconds": 0.3889571000036085,
+    "max_success_latency_seconds": 0.47521599999890896,
+    "usage_complete_for_successes": true,
+    "usage_complete_for_attempts": true,
+    "input_tokens": 922396,
+    "output_tokens": 33486,
+    "total_tokens": 955882,
+    "successful_input_tokens": 922396,
+    "successful_output_tokens": 33486,
+    "input_usd_per_million": 0.042,
+    "output_usd_per_million": 0,
+    "estimated_recorded_cost_usd": 0.038740632000000004,
+    "estimated_success_cost_usd": 0.038740632000000004,
+    "cost_basis": "Published price checked 2026-10-28; estimate, not an invoice. Missing usage is not zero usage.",
+    "price_source": "https://docs.typesafe.ai/models",
+    "price_checked_on": "2026-10-28",
+    "response_models": [
+      "jev-1.14.0"
+    ],
+    "candidate_decisions": 911,
+    "scored_decisions": 893,
+    "scored_not_visited": 42,
+    "seed_count": 104,
+    "total_run_wall_seconds": 19.012128499998653,
+    "preparation_wall_seconds": 0.47200409999641124,
+    "postprocessing_wall_seconds": 6.0967890000029
+  }
+}

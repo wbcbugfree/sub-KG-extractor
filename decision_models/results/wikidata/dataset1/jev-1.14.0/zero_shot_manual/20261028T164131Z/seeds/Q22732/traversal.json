@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q22732",
+  "seed_label": "Streisand effect",
+  "included_qids": [
+    "Q22732",
+    "Q602884"
+  ],
+  "pruned_qids": [
+    "Q1229501",
+    "Q1784829",
+    "Q7572823",
+    "Q862279"
+  ],
+  "visited_qids": [
+    "Q1229501",
+    "Q1784829",
+    "Q22732",
+    "Q602884",
+    "Q7572823",
+    "Q862279"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 0,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:58.949135+00:00",
+  "finished_at_utc": "2026-10-28T16:41:59.607450+00:00",
+  "wall_seconds": 0.6583189000084531,
+  "frontier_exhausted": true
+}

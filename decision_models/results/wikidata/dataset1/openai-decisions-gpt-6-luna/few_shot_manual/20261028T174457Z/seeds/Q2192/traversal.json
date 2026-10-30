@@ -1,0 +1,73 @@
+{
+  "seed_qid": "Q2192",
+  "seed_label": "Graphics Interchange Format",
+  "included_qids": [
+    "Q105599390",
+    "Q17154458",
+    "Q178051",
+    "Q192869",
+    "Q215106",
+    "Q2192",
+    "Q26329648",
+    "Q26329975",
+    "Q26791581",
+    "Q27866048",
+    "Q412438",
+    "Q45989477",
+    "Q55542",
+    "Q62617958",
+    "Q654383",
+    "Q7670377"
+  ],
+  "pruned_qids": [
+    "Q39333"
+  ],
+  "visited_qids": [
+    "Q105599390",
+    "Q17154458",
+    "Q178051",
+    "Q192869",
+    "Q215106",
+    "Q2192",
+    "Q26329648",
+    "Q26329975",
+    "Q26791581",
+    "Q27866048",
+    "Q39333",
+    "Q412438",
+    "Q45989477",
+    "Q55542",
+    "Q62617958",
+    "Q654383",
+    "Q7670377"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 7,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 5,
+      "included": 5,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:40.877494+00:00",
+  "finished_at_utc": "2026-10-28T17:45:42.513688+00:00",
+  "wall_seconds": 1.636199399988982,
+  "frontier_exhausted": true
+}

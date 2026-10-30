@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q2826644",
+  "seed_label": "French Food Safety Agency",
+  "included_qids": [
+    "Q2826644",
+    "Q3244038"
+  ],
+  "pruned_qids": [
+    "Q3006228",
+    "Q976195"
+  ],
+  "visited_qids": [
+    "Q2826644",
+    "Q3006228",
+    "Q3244038",
+    "Q976195"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 0,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:59.759344+00:00",
+  "finished_at_utc": "2026-10-28T17:44:00.442328+00:00",
+  "wall_seconds": 0.6829825000022538,
+  "frontier_exhausted": true
+}

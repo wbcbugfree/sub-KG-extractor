@@ -1,0 +1,60 @@
+{
+  "seed_qid": "Q2944989",
+  "seed_label": "Centre commun d'études de télévision et télécommunications",
+  "included_qids": [
+    "Q2944989",
+    "Q31855"
+  ],
+  "pruned_qids": [
+    "Q1005976",
+    "Q109640306",
+    "Q20168706",
+    "Q20820271",
+    "Q22338329",
+    "Q22811668",
+    "Q2586266",
+    "Q2624320",
+    "Q3152110",
+    "Q3726309",
+    "Q57910923",
+    "Q66737615"
+  ],
+  "visited_qids": [
+    "Q1005976",
+    "Q109640306",
+    "Q20168706",
+    "Q20820271",
+    "Q22338329",
+    "Q22811668",
+    "Q2586266",
+    "Q2624320",
+    "Q2944989",
+    "Q3152110",
+    "Q31855",
+    "Q3726309",
+    "Q57910923",
+    "Q66737615"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 12,
+      "included": 0,
+      "excluded": 12,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:04.602274+00:00",
+  "finished_at_utc": "2026-10-28T16:42:05.234746+00:00",
+  "wall_seconds": 0.6324721999990288,
+  "frontier_exhausted": true
+}

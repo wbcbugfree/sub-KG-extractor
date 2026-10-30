@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q1186952",
+  "seed_label": "interactive media",
+  "included_qids": [
+    "Q11028",
+    "Q1186952"
+  ],
+  "pruned_qids": [
+    "Q11862829",
+    "Q59157115"
+  ],
+  "visited_qids": [
+    "Q11028",
+    "Q11862829",
+    "Q1186952",
+    "Q59157115"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:38.568422+00:00",
+  "finished_at_utc": "2026-10-28T16:41:39.184047+00:00",
+  "wall_seconds": 0.615628800005652,
+  "frontier_exhausted": true
+}

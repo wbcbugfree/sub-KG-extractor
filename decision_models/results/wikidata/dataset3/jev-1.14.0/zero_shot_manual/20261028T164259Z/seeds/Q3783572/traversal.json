@@ -1,0 +1,57 @@
+{
+  "seed_qid": "Q3783572",
+  "seed_label": "Harvard Art Museums",
+  "included_qids": [
+    "Q2918448",
+    "Q3783572"
+  ],
+  "pruned_qids": [
+    "Q106727050",
+    "Q1420782",
+    "Q17576108",
+    "Q19180675",
+    "Q2041543",
+    "Q3181656",
+    "Q48968006",
+    "Q602358",
+    "Q7557389"
+  ],
+  "visited_qids": [
+    "Q106727050",
+    "Q13371",
+    "Q1420782",
+    "Q17576108",
+    "Q19180675",
+    "Q2041543",
+    "Q2918448",
+    "Q3181656",
+    "Q3783572",
+    "Q4173137",
+    "Q48968006",
+    "Q602358",
+    "Q7557389",
+    "Q9268"
+  ],
+  "bridge_nodes_traversed": 3,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 6,
+      "included": 1,
+      "excluded": 5,
+      "bridge_nodes_traversed": 1
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 0,
+      "excluded": 4,
+      "bridge_nodes_traversed": 2
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:43:08.992984+00:00",
+  "finished_at_utc": "2026-10-28T16:43:09.656211+00:00",
+  "wall_seconds": 0.6632158999855164,
+  "frontier_exhausted": true
+}

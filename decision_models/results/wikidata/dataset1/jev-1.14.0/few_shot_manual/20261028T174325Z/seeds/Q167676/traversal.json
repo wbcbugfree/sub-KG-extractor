@@ -1,0 +1,68 @@
+{
+  "seed_qid": "Q167676",
+  "seed_label": "sensor",
+  "included_qids": [
+    "Q167676",
+    "Q811909"
+  ],
+  "pruned_qids": [
+    "Q110256739",
+    "Q1409295",
+    "Q173350",
+    "Q1752270",
+    "Q2056083",
+    "Q2559156",
+    "Q3183052",
+    "Q3191702",
+    "Q57693916",
+    "Q65037298",
+    "Q6750281",
+    "Q786732",
+    "Q811491",
+    "Q839546",
+    "Q845671",
+    "Q9394522"
+  ],
+  "visited_qids": [
+    "Q110256739",
+    "Q1409295",
+    "Q167676",
+    "Q173350",
+    "Q1752270",
+    "Q2056083",
+    "Q2559156",
+    "Q3183052",
+    "Q3191702",
+    "Q57693916",
+    "Q65037298",
+    "Q6750281",
+    "Q786732",
+    "Q811491",
+    "Q811909",
+    "Q839546",
+    "Q845671",
+    "Q9394522"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 16,
+      "included": 0,
+      "excluded": 16,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:41.611706+00:00",
+  "finished_at_utc": "2026-10-28T17:43:42.310724+00:00",
+  "wall_seconds": 0.6990220999869052,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,60 @@
+{
+  "seed_qid": "Q251212",
+  "seed_label": "internet of things",
+  "included_qids": [
+    "Q151885",
+    "Q251212"
+  ],
+  "pruned_qids": [
+    "Q108616731",
+    "Q108688467",
+    "Q109816572",
+    "Q131841",
+    "Q188520",
+    "Q200230",
+    "Q21651927",
+    "Q24034552",
+    "Q24339576",
+    "Q24457356",
+    "Q2890061",
+    "Q33104279"
+  ],
+  "visited_qids": [
+    "Q108616731",
+    "Q108688467",
+    "Q109816572",
+    "Q131841",
+    "Q151885",
+    "Q188520",
+    "Q200230",
+    "Q21651927",
+    "Q24034552",
+    "Q24339576",
+    "Q24457356",
+    "Q251212",
+    "Q2890061",
+    "Q33104279"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 12,
+      "included": 0,
+      "excluded": 12,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:47.253102+00:00",
+  "finished_at_utc": "2026-10-28T17:45:48.142273+00:00",
+  "wall_seconds": 0.8891768000030424,
+  "frontier_exhausted": true
+}

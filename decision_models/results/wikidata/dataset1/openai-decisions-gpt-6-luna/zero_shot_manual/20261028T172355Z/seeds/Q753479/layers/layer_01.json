@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row373",
+    "legacy_row_id": "Q753479|Q15836568",
+    "seed_qid": "Q753479",
+    "seed_label": "Bootstrap protocol",
+    "qid": "Q15836568",
+    "label": "computer network protocol",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q753479",
+    "parent_label": "Bootstrap protocol",
+    "path": "Bootstrap protocol --instance of--> computer network protocol",
+    "uri": "http://www.wikidata.org/entity/Q15836568",
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

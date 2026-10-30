@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q1502887",
+  "seed_label": "geodetic reference system",
+  "included_qids": [
+    "Q11902211",
+    "Q1502887",
+    "Q1672915",
+    "Q18155718",
+    "Q184876",
+    "Q28908158",
+    "Q9364781"
+  ],
+  "pruned_qids": [
+    "Q11210",
+    "Q6034127"
+  ],
+  "visited_qids": [
+    "Q11210",
+    "Q11902211",
+    "Q1502887",
+    "Q1672915",
+    "Q18155718",
+    "Q184876",
+    "Q28908158",
+    "Q6034127",
+    "Q9364781"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 7,
+      "included": 6,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:43.110272+00:00",
+  "finished_at_utc": "2026-10-28T16:41:43.917411+00:00",
+  "wall_seconds": 0.8071372999984305,
+  "frontier_exhausted": true
+}

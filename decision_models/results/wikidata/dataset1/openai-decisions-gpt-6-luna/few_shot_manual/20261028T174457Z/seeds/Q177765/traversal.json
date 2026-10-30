@@ -1,0 +1,39 @@
+{
+  "seed_qid": "Q177765",
+  "seed_label": "biometrics",
+  "included_qids": [
+    "Q177765",
+    "Q192386",
+    "Q2465832",
+    "Q336"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q177765",
+    "Q192386",
+    "Q2465832",
+    "Q336"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:27.548138+00:00",
+  "finished_at_utc": "2026-10-28T17:45:28.482920+00:00",
+  "wall_seconds": 0.9347940000006929,
+  "frontier_exhausted": true
+}

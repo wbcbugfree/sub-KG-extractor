@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row84",
+    "legacy_row_id": "Q79686|Q577764",
+    "seed_qid": "Q79686",
+    "seed_label": "Universal Mobile Telecommunications System",
+    "qid": "Q577764",
+    "label": "communications system",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q79686",
+    "parent_label": "Universal Mobile Telecommunications System",
+    "path": "Universal Mobile Telecommunications System --instance of--> communications system",
+    "uri": "http://www.wikidata.org/entity/Q577764",
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

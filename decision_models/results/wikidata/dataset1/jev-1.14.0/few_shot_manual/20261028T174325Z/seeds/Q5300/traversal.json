@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q5300",
+  "seed_label": "central processing unit",
+  "included_qids": [
+    "Q1088863",
+    "Q3966",
+    "Q5300"
+  ],
+  "pruned_qids": [
+    "Q178648",
+    "Q19872164",
+    "Q216158",
+    "Q27186369",
+    "Q4439",
+    "Q66221"
+  ],
+  "visited_qids": [
+    "Q1088863",
+    "Q178648",
+    "Q19872164",
+    "Q216158",
+    "Q27186369",
+    "Q3966",
+    "Q4439",
+    "Q5300",
+    "Q66221"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 7,
+      "included": 1,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:13.847811+00:00",
+  "finished_at_utc": "2026-10-28T17:44:14.596242+00:00",
+  "wall_seconds": 0.748430500010727,
+  "frontier_exhausted": true
+}

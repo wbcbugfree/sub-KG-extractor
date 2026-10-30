@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q837335",
+  "seed_label": "Ecma International",
+  "included_qids": [
+    "Q1328899",
+    "Q837335"
+  ],
+  "pruned_qids": [
+    "Q15277759",
+    "Q294801",
+    "Q51885731",
+    "Q52162350",
+    "Q659206",
+    "Q7835148"
+  ],
+  "visited_qids": [
+    "Q1328899",
+    "Q15277759",
+    "Q294801",
+    "Q51885731",
+    "Q52162350",
+    "Q659206",
+    "Q7835148",
+    "Q837335"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 0,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:25.522066+00:00",
+  "finished_at_utc": "2026-10-28T16:42:26.205881+00:00",
+  "wall_seconds": 0.6838118999876315,
+  "frontier_exhausted": true
+}

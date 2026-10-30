@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2940",
+    "legacy_row_id": "Q11273|Q27493",
+    "seed_qid": "Q11273",
+    "seed_label": "Moving Picture Experts Group",
+    "qid": "Q27493",
+    "label": "working group",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q11273",
+    "parent_label": "Moving Picture Experts Group",
+    "path": "Moving Picture Experts Group --instance of--> working group",
+    "uri": "http://www.wikidata.org/entity/Q27493",
+    "classification": "INCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.84,
+    "p_exclude": 0.16,
+    "selected_probability": 0.84,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

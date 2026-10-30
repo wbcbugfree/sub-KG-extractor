@@ -1,0 +1,3567 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136634",
+    "prefLabel": "acute dermal exposure",
+    "altLabels": [],
+    "displayName": "acute dermal exposure",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.47,
+    "p_exclude": 0.53,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68509",
+    "prefLabel": "acute dermal toxicity",
+    "altLabels": [],
+    "displayName": "acute dermal toxicity",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/132364",
+    "prefLabel": "adipokines",
+    "altLabels": [
+      "adipocytokines",
+      "adipokine"
+    ],
+    "displayName": "adipokines (adipocytokines, adipokine)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/148783",
+    "prefLabel": "alamethicin",
+    "altLabels": [],
+    "displayName": "alamethicin",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.38,
+    "p_exclude": 0.62,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/236812",
+    "prefLabel": "alpha chemokines",
+    "altLabels": [
+      "4q chemokines",
+      "C-X-C chemokines",
+      "CXC chemokines"
+    ],
+    "displayName": "alpha chemokines (4q chemokines, C-X-C chemokines, CXC chemokines)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.87,
+    "p_exclude": 0.13,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3945",
+    "prefLabel": "animal parasitic nematodes",
+    "altLabels": [
+      "parasitic nematodes (animals)"
+    ],
+    "displayName": "animal parasitic nematodes (parasitic nematodes (animals))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/887",
+    "prefLabel": "animal proteins",
+    "altLabels": [],
+    "displayName": "animal proteins",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.2,
+    "p_exclude": 0.8,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68527",
+    "prefLabel": "animal tests",
+    "altLabels": [],
+    "displayName": "animal tests",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.2,
+    "p_exclude": 0.8,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/237276",
+    "prefLabel": "anthrax toxin",
+    "altLabels": [
+      "Bacillus anthracis calmodulin-dependent adenylate cyclase",
+      "Bacillus anthracis endema factor",
+      "Bacillus anthracis endema toxin",
+      "anthrax edema factor",
+      "anthrax lethal factor",
+      "anthrax protective antigen"
+    ],
+    "displayName": "anthrax toxin (Bacillus anthracis calmodulin-dependent adenylate cyclase, Bacillus anthracis endema factor, Bacillus anthracis endema toxin, anthrax edema factor, anthrax lethal factor, anthrax protective antigen)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/310008",
+    "prefLabel": "antibiotic resistance genes",
+    "altLabels": [
+      "resistome"
+    ],
+    "displayName": "antibiotic resistance genes (resistome)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10293",
+    "prefLabel": "antidotes",
+    "altLabels": [],
+    "displayName": "antidotes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.36,
+    "p_exclude": 0.64,
+    "selected_probability": 0.64,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/12336",
+    "prefLabel": "arrestins",
+    "altLabels": [],
+    "displayName": "arrestins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.48,
+    "p_exclude": 0.52,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/13160",
+    "prefLabel": "assays",
+    "altLabels": [],
+    "displayName": "assays",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.16,
+    "p_exclude": 0.84,
+    "selected_probability": 0.84,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/315127",
+    "prefLabel": "autogenous vaccines",
+    "altLabels": [
+      "autovaccines"
+    ],
+    "displayName": "autogenous vaccines (autovaccines)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/217780",
+    "prefLabel": "bacterial vaccines",
+    "altLabels": [],
+    "displayName": "bacterial vaccines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.43,
+    "p_exclude": 0.57,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15096",
+    "prefLabel": "bacteriology",
+    "altLabels": [],
+    "displayName": "bacteriology",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/16035",
+    "prefLabel": "basophils",
+    "altLabels": [],
+    "displayName": "basophils",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14478",
+    "prefLabel": "BCG vaccine",
+    "altLabels": [
+      "Bacille Calmette Guerin vaccine"
+    ],
+    "displayName": "BCG vaccine (Bacille Calmette Guerin vaccine)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.36,
+    "p_exclude": 0.64,
+    "selected_probability": 0.64,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/236670",
+    "prefLabel": "beta chemokines",
+    "altLabels": [
+      "C-C Chemokines",
+      "CC Chemokines"
+    ],
+    "displayName": "beta chemokines (C-C Chemokines, CC Chemokines)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17202",
+    "prefLabel": "binding sites",
+    "altLabels": [],
+    "displayName": "binding sites",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17274",
+    "prefLabel": "biochemical mechanisms",
+    "altLabels": [],
+    "displayName": "biochemical mechanisms",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18073",
+    "prefLabel": "blood cell counts",
+    "altLabels": [
+      "blood cell number",
+      "blood picture"
+    ],
+    "displayName": "blood cell counts (blood cell number, blood picture)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.3,
+    "p_exclude": 0.7,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3963",
+    "prefLabel": "blood proteins",
+    "altLabels": [
+      "blood total proteins",
+      "plasma proteins",
+      "serum proteins",
+      "serum total proteins"
+    ],
+    "displayName": "blood proteins (blood total proteins, plasma proteins, serum proteins, serum total proteins)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10461",
+    "prefLabel": "busulfan",
+    "altLabels": [],
+    "displayName": "busulfan",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/316946",
+    "prefLabel": "cancer vaccines",
+    "altLabels": [
+      "neoplasm vaccines",
+      "tumor vaccines",
+      "tumour vaccines"
+    ],
+    "displayName": "cancer vaccines (neoplasm vaccines, tumor vaccines, tumour vaccines)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.42,
+    "p_exclude": 0.58,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/153521",
+    "prefLabel": "cardiolipins",
+    "altLabels": [
+      "diphosphatidylglycerols"
+    ],
+    "displayName": "cardiolipins (diphosphatidylglycerols)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/323735",
+    "prefLabel": "CD4 lymphocyte count",
+    "altLabels": [
+      "CD4 cell count",
+      "CD4-positive cell count"
+    ],
+    "displayName": "CD4 lymphocyte count (CD4 cell count, CD4-positive cell count)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.61,
+    "p_exclude": 0.39,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/120",
+    "prefLabel": "cell adhesion",
+    "altLabels": [
+      "adhesion (cells)",
+      "cellular adhesion",
+      "cytoadherence"
+    ],
+    "displayName": "cell adhesion (adhesion (cells), cellular adhesion, cytoadherence)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/293054",
+    "prefLabel": "cell adhesion molecules",
+    "altLabels": [
+      "intercellular adhesion molecules",
+      "leukocyte adhesion molecules"
+    ],
+    "displayName": "cell adhesion molecules (intercellular adhesion molecules, leukocyte adhesion molecules)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.3,
+    "p_exclude": 0.7,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23379",
+    "prefLabel": "cell lines",
+    "altLabels": [],
+    "displayName": "cell lines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.2,
+    "p_exclude": 0.8,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15185",
+    "prefLabel": "cell movement",
+    "altLabels": [
+      "cell locomotion",
+      "cell migration",
+      "cell motility",
+      "cellular migration",
+      "cellular motility",
+      "cellular movement"
+    ],
+    "displayName": "cell movement (cell locomotion, cell migration, cell motility, cellular migration, cellular motility, cellular movement)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23423",
+    "prefLabel": "cell respiration",
+    "altLabels": [
+      "cellular respiration",
+      "fruit respiration",
+      "plant respiration",
+      "respiration (cells)",
+      "respiration (fruits)",
+      "respiration (plants)",
+      "respiration (postharvest)"
+    ],
+    "displayName": "cell respiration (cellular respiration, fruit respiration, plant respiration, respiration (cells), respiration (fruits), respiration (plants), respiration (postharvest))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24711",
+    "prefLabel": "chemiluminescence immunoassays",
+    "altLabels": [],
+    "displayName": "chemiluminescence immunoassays",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.81,
+    "p_exclude": 0.19,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/236678",
+    "prefLabel": "chemokine CCL5",
+    "altLabels": [
+      "CC chemokine ligand 5",
+      "CCL5 chemokine",
+      "RANTES",
+      "SCYA5 protein",
+      "T cell RNATES protein",
+      "T-Cell specific protein p288",
+      "TCP228 protein",
+      "chemokine (C-C motif) ligand 5",
+      "small inducible cytokine A5"
+    ],
+    "displayName": "chemokine CCL5 (CC chemokine ligand 5, CCL5 chemokine, RANTES, SCYA5 protein, T cell RNATES protein, T-Cell specific protein p288, TCP228 protein, chemokine (C-C motif) ligand 5, small inducible cytokine A5)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24725",
+    "prefLabel": "chemotaxis",
+    "altLabels": [],
+    "displayName": "chemotaxis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.71,
+    "p_exclude": 0.29,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/336371",
+    "prefLabel": "chromatin immunoprecipitation",
+    "altLabels": [
+      "chromatin immunoprecipitation sequencing"
+    ],
+    "displayName": "chromatin immunoprecipitation (chromatin immunoprecipitation sequencing)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.45,
+    "p_exclude": 0.55,
+    "selected_probability": 0.55,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136637",
+    "prefLabel": "chronic dermal exposure",
+    "altLabels": [],
+    "displayName": "chronic dermal exposure",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.24,
+    "p_exclude": 0.76,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28005",
+    "prefLabel": "colony-stimulating factors",
+    "altLabels": [
+      "colony stimulating factor",
+      "colony-stimulating factor"
+    ],
+    "displayName": "colony-stimulating factors (colony stimulating factor, colony-stimulating factor)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18315",
+    "prefLabel": "colostrum",
+    "altLabels": [],
+    "displayName": "colostrum",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.28,
+    "p_include": 0.36,
+    "p_exclude": 0.64,
+    "selected_probability": 0.64,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/192999",
+    "prefLabel": "contraceptive vaccines",
+    "altLabels": [],
+    "displayName": "contraceptive vaccines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 2,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10463",
+    "prefLabel": "cyclophosphamide",
+    "altLabels": [],
+    "displayName": "cyclophosphamide",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10199",
+    "prefLabel": "cyclosporins",
+    "altLabels": [],
+    "displayName": "cyclosporins",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.46,
+    "p_exclude": 0.54,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23202",
+    "prefLabel": "cytotoxic T-lymphocytes",
+    "altLabels": [
+      "CD8+ cytotoxic lymphocytes",
+      "cytotoxic T lymphocytes"
+    ],
+    "displayName": "cytotoxic T-lymphocytes (CD8+ cytotoxic lymphocytes, cytotoxic T lymphocytes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/236975",
+    "prefLabel": "delta chemokines",
+    "altLabels": [
+      "CX3C chemokines",
+      "chemokine CX3C"
+    ],
+    "displayName": "delta chemokines (CX3C chemokines, chemokine CX3C)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.26,
+    "p_exclude": 0.74,
+    "selected_probability": 0.74,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/740",
+    "prefLabel": "dermal exposure",
+    "altLabels": [
+      "skin exposure"
+    ],
+    "displayName": "dermal exposure (skin exposure)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/77695",
+    "prefLabel": "dermal toxicity",
+    "altLabels": [
+      "skin toxicity"
+    ],
+    "displayName": "dermal toxicity (skin toxicity)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/199658",
+    "prefLabel": "differentiation antigens",
+    "altLabels": [],
+    "displayName": "differentiation antigens",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.76,
+    "p_exclude": 0.24,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/290",
+    "prefLabel": "disease control",
+    "altLabels": [
+      "disease management",
+      "disease suppression",
+      "infection control",
+      "pathogen suppression"
+    ],
+    "displayName": "disease control (disease management, disease suppression, infection control, pathogen suppression)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32788",
+    "prefLabel": "disease diagnosis",
+    "altLabels": [
+      "diagnostic value"
+    ],
+    "displayName": "disease diagnosis (diagnostic value)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34041",
+    "prefLabel": "disease prevalence",
+    "altLabels": [],
+    "displayName": "disease prevalence",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/17543",
+    "prefLabel": "disease surveillance",
+    "altLabels": [
+      "disease monitoring"
+    ],
+    "displayName": "disease surveillance (disease monitoring)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/78062",
+    "prefLabel": "disease susceptibility",
+    "altLabels": [
+      "diathesis",
+      "susceptible to disease",
+      "susceptible to illness",
+      "susceptible to infection"
+    ],
+    "displayName": "disease susceptibility (diathesis, susceptible to disease, susceptible to illness, susceptible to infection)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/229478",
+    "prefLabel": "DNA microarrays",
+    "altLabels": [
+      "DNA chips",
+      "DNA microarray technology",
+      "cDNA arrays",
+      "cDNA microarrays",
+      "gene chips",
+      "oligonucleotide arrays",
+      "oligonucleotide microarrays"
+    ],
+    "displayName": "DNA microarrays (DNA chips, DNA microarray technology, cDNA arrays, cDNA microarrays, gene chips, oligonucleotide arrays, oligonucleotide microarrays)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.27,
+    "p_exclude": 0.73,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/210530",
+    "prefLabel": "elicitors",
+    "altLabels": [],
+    "displayName": "elicitors",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.2,
+    "p_exclude": 0.8,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/37485",
+    "prefLabel": "enzyme immunoassays",
+    "altLabels": [],
+    "displayName": "enzyme immunoassays",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.76,
+    "p_exclude": 0.24,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/37512",
+    "prefLabel": "eosinophils",
+    "altLabels": [],
+    "displayName": "eosinophils",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/37565",
+    "prefLabel": "epidemiological studies",
+    "altLabels": [
+      "epidemiologic studies",
+      "epidemiologic survey",
+      "epidemiological surveys"
+    ],
+    "displayName": "epidemiological studies (epidemiologic studies, epidemiologic survey, epidemiological surveys)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/149",
+    "prefLabel": "epidemiology",
+    "altLabels": [
+      "epizootiology"
+    ],
+    "displayName": "epidemiology (epizootiology)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68528",
+    "prefLabel": "eye irritation tests",
+    "altLabels": [
+      "Draize eye test",
+      "Draize rabbit eye test",
+      "eye irritancy tests",
+      "ocular irritancy test",
+      "ocular irritation test"
+    ],
+    "displayName": "eye irritation tests (Draize eye test, Draize rabbit eye test, eye irritancy tests, ocular irritancy test, ocular irritation test)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.7,
+    "p_exclude": 0.3,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/296877",
+    "prefLabel": "fish allergies",
+    "altLabels": [
+      "fish hypersensitivity"
+    ],
+    "displayName": "fish allergies (fish hypersensitivity)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 3,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7687",
+    "prefLabel": "florfenicol",
+    "altLabels": [
+      "3-fluorothiamphenicol",
+      "florphenicol"
+    ],
+    "displayName": "florfenicol (3-fluorothiamphenicol, florphenicol)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.2,
+    "p_exclude": 0.8,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8484",
+    "prefLabel": "flow cytometry",
+    "altLabels": [
+      "fluorescence-activated cell sorting",
+      "micro-flow cytometer",
+      "microflow cytometry"
+    ],
+    "displayName": "flow cytometry (fluorescence-activated cell sorting, micro-flow cytometer, microflow cytometry)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.56,
+    "p_exclude": 0.44,
+    "selected_probability": 0.56,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/40707",
+    "prefLabel": "fluorescent labeling",
+    "altLabels": [
+      "immunofluorescent labeling"
+    ],
+    "displayName": "fluorescent labeling (immunofluorescent labeling)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/217947",
+    "prefLabel": "food allergens",
+    "altLabels": [
+      "food-allergens"
+    ],
+    "displayName": "food allergens (food-allergens)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/217781",
+    "prefLabel": "fungal vaccines",
+    "altLabels": [],
+    "displayName": "fungal vaccines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.38,
+    "p_exclude": 0.62,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/228897",
+    "prefLabel": "gamma chemokines",
+    "altLabels": [
+      "c-chemokines"
+    ],
+    "displayName": "gamma chemokines (c-chemokines)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.6,
+    "p_exclude": 0.4,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18159",
+    "prefLabel": "gamma-globulins",
+    "altLabels": [],
+    "displayName": "gamma-globulins",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.74,
+    "p_exclude": 0.26,
+    "selected_probability": 0.74,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34051",
+    "prefLabel": "gene-for-gene relationship",
+    "altLabels": [],
+    "displayName": "gene-for-gene relationship",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6539",
+    "prefLabel": "genes",
+    "altLabels": [
+      "cistron"
+    ],
+    "displayName": "genes (cistron)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10351",
+    "prefLabel": "genetic variation",
+    "altLabels": [
+      "genetic differentiation",
+      "genetic divergence",
+      "genetic diversity",
+      "genetic variability",
+      "genotypic diversity"
+    ],
+    "displayName": "genetic variation (genetic differentiation, genetic divergence, genetic diversity, genetic variability, genotypic diversity)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.49,
+    "p_exclude": 0.51,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/323535",
+    "prefLabel": "gliotoxins",
+    "altLabels": [
+      "aspergillin"
+    ],
+    "displayName": "gliotoxins (aspergillin)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42271",
+    "prefLabel": "globulins",
+    "altLabels": [],
+    "displayName": "globulins",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.47,
+    "p_exclude": 0.53,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9354",
+    "prefLabel": "helminths",
+    "altLabels": [
+      "parasitic helminths",
+      "parasitic worms"
+    ],
+    "displayName": "helminths (parasitic helminths, parasitic worms)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5132",
+    "prefLabel": "hemagglutination",
+    "altLabels": [
+      "haemagglutination"
+    ],
+    "displayName": "hemagglutination (haemagglutination)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.83,
+    "p_exclude": 0.17,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5135",
+    "prefLabel": "hemagglutination tests",
+    "altLabels": [
+      "haemagglutination tests"
+    ],
+    "displayName": "hemagglutination tests (haemagglutination tests)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5139",
+    "prefLabel": "hemagglutinins",
+    "altLabels": [
+      "haemagglutinins"
+    ],
+    "displayName": "hemagglutinins (haemagglutinins)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/247658",
+    "prefLabel": "hemocyanin",
+    "altLabels": [
+      "haemocyanin"
+    ],
+    "displayName": "hemocyanin (haemocyanin)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/26359",
+    "prefLabel": "hemolymph",
+    "altLabels": [
+      "haemolymph"
+    ],
+    "displayName": "hemolymph (haemolymph)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.44,
+    "p_exclude": 0.56,
+    "selected_probability": 0.56,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216653",
+    "prefLabel": "hepatitis A antigens",
+    "altLabels": [
+      "hepatitis A virus antigens"
+    ],
+    "displayName": "hepatitis A antigens (hepatitis A virus antigens)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216654",
+    "prefLabel": "hepatitis B antigens",
+    "altLabels": [
+      "Australia antigens",
+      "hepatitis B core antigens",
+      "hepatitis B e antigens",
+      "hepatitis B surface antigens",
+      "hepatitis Be antigens"
+    ],
+    "displayName": "hepatitis B antigens (Australia antigens, hepatitis B core antigens, hepatitis B e antigens, hepatitis B surface antigens, hepatitis Be antigens)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 4,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216655",
+    "prefLabel": "hepatitis C antigens",
+    "altLabels": [],
+    "displayName": "hepatitis C antigens",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/43663",
+    "prefLabel": "heterophils",
+    "altLabels": [],
+    "displayName": "heterophils",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.57,
+    "p_exclude": 0.43,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45637",
+    "prefLabel": "histiocytosis",
+    "altLabels": [],
+    "displayName": "histiocytosis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.27,
+    "p_exclude": 0.73,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/44179",
+    "prefLabel": "histocompatibility antigens",
+    "altLabels": [],
+    "displayName": "histocompatibility antigens",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.68,
+    "p_include": 0.84,
+    "p_exclude": 0.16,
+    "selected_probability": 0.84,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10345",
+    "prefLabel": "immune complex diseases",
+    "altLabels": [
+      "Type III hypersensitivity"
+    ],
+    "displayName": "immune complex diseases (Type III hypersensitivity)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.3,
+    "p_include": 0.35,
+    "p_exclude": 0.65,
+    "selected_probability": 0.65,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3926",
+    "prefLabel": "immunization",
+    "altLabels": [
+      "active immunisation",
+      "active immunization",
+      "immunisation",
+      "immunostimulation (therapy)",
+      "passive immunisation",
+      "passive immunization"
+    ],
+    "displayName": "immunization (active immunisation, active immunization, immunisation, immunostimulation (therapy), passive immunisation, passive immunization)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46988",
+    "prefLabel": "immunocytes",
+    "altLabels": [],
+    "displayName": "immunocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46873",
+    "prefLabel": "immunoglobulin A",
+    "altLabels": [
+      "IgA (immunoglobulin A)"
+    ],
+    "displayName": "immunoglobulin A (IgA (immunoglobulin A))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46875",
+    "prefLabel": "immunoglobulin E",
+    "altLabels": [
+      "IgE (immunoglobulin E)"
+    ],
+    "displayName": "immunoglobulin E (IgE (immunoglobulin E))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46883",
+    "prefLabel": "immunoglobulin G",
+    "altLabels": [
+      "IgG (immunogloblin G)"
+    ],
+    "displayName": "immunoglobulin G (IgG (immunogloblin G))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.98,
+    "p_exclude": 0.02,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/189203",
+    "prefLabel": "immunoglobulin heavy chains",
+    "altLabels": [],
+    "displayName": "immunoglobulin heavy chains",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.8,
+    "p_exclude": 0.2,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/189198",
+    "prefLabel": "immunoglobulin light chains",
+    "altLabels": [],
+    "displayName": "immunoglobulin light chains",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46885",
+    "prefLabel": "immunoglobulin M",
+    "altLabels": [
+      "IgM (immunoglobulin M)"
+    ],
+    "displayName": "immunoglobulin M (IgM (immunoglobulin M))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/144668",
+    "prefLabel": "immunoglobulin Y",
+    "altLabels": [
+      "IgY (immunoglobulin Y)"
+    ],
+    "displayName": "immunoglobulin Y (IgY (immunoglobulin Y))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47070",
+    "prefLabel": "inactivated vaccines",
+    "altLabels": [
+      "killed vaccines"
+    ],
+    "displayName": "inactivated vaccines (killed vaccines)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/758",
+    "prefLabel": "inflammation",
+    "altLabels": [
+      "inflammatory response"
+    ],
+    "displayName": "inflammation (inflammatory response)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.43,
+    "p_exclude": 0.57,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/237160",
+    "prefLabel": "interferon regulatory factor-8",
+    "altLabels": [
+      "ICS binding protein",
+      "interferon consensus sequence binding protein",
+      "interferon consensus sequence binding protein-1",
+      "interferon regulatory factor 8"
+    ],
+    "displayName": "interferon regulatory factor-8 (ICS binding protein, interferon consensus sequence binding protein, interferon consensus sequence binding protein-1, interferon regulatory factor 8)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/215223",
+    "prefLabel": "interferon regulatory factors",
+    "altLabels": [],
+    "displayName": "interferon regulatory factors",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/143748",
+    "prefLabel": "interferon-alpha",
+    "altLabels": [
+      "alpha interferon",
+      "alpha-interferon",
+      "interferon alpha-A"
+    ],
+    "displayName": "interferon-alpha (alpha interferon, alpha-interferon, interferon alpha-A)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/207872",
+    "prefLabel": "interferon-beta",
+    "altLabels": [],
+    "displayName": "interferon-beta",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 5,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/143747",
+    "prefLabel": "interferon-gamma",
+    "altLabels": [
+      "gamma-interferon",
+      "interferon type II",
+      "type II interferon"
+    ],
+    "displayName": "interferon-gamma (gamma-interferon, interferon type II, type II interferon)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/43993",
+    "prefLabel": "interleukins",
+    "altLabels": [
+      "interleukin"
+    ],
+    "displayName": "interleukins (interleukin)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32273",
+    "prefLabel": "Langerhans cells",
+    "altLabels": [],
+    "displayName": "Langerhans cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5136",
+    "prefLabel": "latex agglutination test",
+    "altLabels": [
+      "latex fixation tests"
+    ],
+    "displayName": "latex agglutination test (latex fixation tests)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.74,
+    "p_exclude": 0.26,
+    "selected_probability": 0.74,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/5140",
+    "prefLabel": "lectins",
+    "altLabels": [],
+    "displayName": "lectins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.68,
+    "p_exclude": 0.32,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/231910",
+    "prefLabel": "leukemia inhibitory factor",
+    "altLabels": [],
+    "displayName": "leukemia inhibitory factor",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/261978",
+    "prefLabel": "ligands",
+    "altLabels": [],
+    "displayName": "ligands",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/209104",
+    "prefLabel": "lipid A",
+    "altLabels": [],
+    "displayName": "lipid A",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.57,
+    "p_exclude": 0.43,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/281496",
+    "prefLabel": "lipid transfer proteins",
+    "altLabels": [
+      "glycolipid exchange proteins",
+      "glycolipid transfer proteins",
+      "lipid exchange proteins",
+      "phospholipid transfer proteins"
+    ],
+    "displayName": "lipid transfer proteins (glycolipid exchange proteins, glycolipid transfer proteins, lipid exchange proteins, phospholipid transfer proteins)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.34,
+    "p_exclude": 0.66,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3990",
+    "prefLabel": "lipids",
+    "altLabels": [
+      "fats"
+    ],
+    "displayName": "lipids (fats)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/317540",
+    "prefLabel": "lipopolysaccharide receptors",
+    "altLabels": [
+      "CD14 antigens",
+      "lipoglycan receptors"
+    ],
+    "displayName": "lipopolysaccharide receptors (CD14 antigens, lipoglycan receptors)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.52,
+    "p_exclude": 0.48,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/13770",
+    "prefLabel": "live vaccines",
+    "altLabels": [
+      "attenuated vaccines",
+      "live attenuated vaccines"
+    ],
+    "displayName": "live vaccines (attenuated vaccines, live attenuated vaccines)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.48,
+    "p_exclude": 0.52,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9344",
+    "prefLabel": "liver",
+    "altLabels": [
+      "liver (anatomy)"
+    ],
+    "displayName": "liver (liver (anatomy))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68546",
+    "prefLabel": "local lymph node assay",
+    "altLabels": [
+      "murine local lymph node assay"
+    ],
+    "displayName": "local lymph node assay (murine local lymph node assay)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.82,
+    "p_exclude": 0.18,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23192",
+    "prefLabel": "lymphocyte count",
+    "altLabels": [
+      "lymphocyte number",
+      "lymphocyte numbers",
+      "total lymphocyte count"
+    ],
+    "displayName": "lymphocyte count (lymphocyte number, lymphocyte numbers, total lymphocyte count)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.45,
+    "p_exclude": 0.55,
+    "selected_probability": 0.55,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/31444",
+    "prefLabel": "lymphokines",
+    "altLabels": [],
+    "displayName": "lymphokines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/228801",
+    "prefLabel": "macrophage inflammatory proteins",
+    "altLabels": [
+      "macrophage inflammatory protein-1"
+    ],
+    "displayName": "macrophage inflammatory proteins (macrophage inflammatory protein-1)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/271171",
+    "prefLabel": "malaria vaccines",
+    "altLabels": [],
+    "displayName": "malaria vaccines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.51,
+    "p_exclude": 0.49,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/276313",
+    "prefLabel": "Megathura crenulata",
+    "altLabels": [
+      "giant keyhole limpet"
+    ],
+    "displayName": "Megathura crenulata (giant keyhole limpet)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.3,
+    "p_exclude": 0.7,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/293039",
+    "prefLabel": "melanoma-specific antigens",
+    "altLabels": [
+      "melanoma antigens"
+    ],
+    "displayName": "melanoma-specific antigens (melanoma antigens)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.6,
+    "p_exclude": 0.4,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 6,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45101",
+    "prefLabel": "melittin",
+    "altLabels": [],
+    "displayName": "melittin",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.59,
+    "p_exclude": 0.41,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1601",
+    "prefLabel": "membrane glycoproteins",
+    "altLabels": [],
+    "displayName": "membrane glycoproteins",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.47,
+    "p_exclude": 0.53,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/639",
+    "prefLabel": "molluscs",
+    "altLabels": [
+      "mollusks"
+    ],
+    "displayName": "molluscs (mollusks)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.34,
+    "p_exclude": 0.66,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/702",
+    "prefLabel": "neoplasms",
+    "altLabels": [
+      "cancer (disease)",
+      "cancers",
+      "neoplasia",
+      "tumors",
+      "tumours"
+    ],
+    "displayName": "neoplasms (cancer (disease), cancers, neoplasia, tumors, tumours)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/205276",
+    "prefLabel": "neuromuscular disorders",
+    "altLabels": [
+      "neuromuscular diseases"
+    ],
+    "displayName": "neuromuscular disorders (neuromuscular diseases)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/196599",
+    "prefLabel": "nuclear proteins",
+    "altLabels": [],
+    "displayName": "nuclear proteins",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/312451",
+    "prefLabel": "O-antigens",
+    "altLabels": [
+      "O-specific polysaccharides"
+    ],
+    "displayName": "O-antigens (O-specific polysaccharides)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.75,
+    "p_exclude": 0.25,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/228021",
+    "prefLabel": "pancreatic insulitis",
+    "altLabels": [],
+    "displayName": "pancreatic insulitis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68549",
+    "prefLabel": "patch test",
+    "altLabels": [],
+    "displayName": "patch test",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/319",
+    "prefLabel": "pathological processes and conditions",
+    "altLabels": [],
+    "displayName": "pathological processes and conditions",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7813",
+    "prefLabel": "peptides",
+    "altLabels": [],
+    "displayName": "peptides",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/229296",
+    "prefLabel": "pharyngitis",
+    "altLabels": [
+      "sore throat"
+    ],
+    "displayName": "pharyngitis (sore throat)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/142532",
+    "prefLabel": "plant disease resistance",
+    "altLabels": [],
+    "displayName": "plant disease resistance",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/68395",
+    "prefLabel": "plant-incorporated protectants",
+    "altLabels": [
+      "PIPs (plant incorporated protectants)",
+      "plant incorporated protectants"
+    ],
+    "displayName": "plant-incorporated protectants (PIPs (plant incorporated protectants), plant incorporated protectants)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/278567",
+    "prefLabel": "pollen proteins",
+    "altLabels": [
+      "pollen grain proteins",
+      "pollen-coat proteins",
+      "pollen-wall proteins"
+    ],
+    "displayName": "pollen proteins (pollen grain proteins, pollen-coat proteins, pollen-wall proteins)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/6365",
+    "prefLabel": "polysaccharides",
+    "altLabels": [
+      "glycans"
+    ],
+    "displayName": "polysaccharides (glycans)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.53,
+    "p_exclude": 0.47,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34043",
+    "prefLabel": "prevalence",
+    "altLabels": [
+      "point prevalence",
+      "prevalence ratio"
+    ],
+    "displayName": "prevalence (point prevalence, prevalence ratio)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/286136",
+    "prefLabel": "profilins",
+    "altLabels": [
+      "profilin 1",
+      "profilin 2",
+      "profilin 3",
+      "profilin 4"
+    ],
+    "displayName": "profilins (profilin 1, profilin 2, profilin 3, profilin 4)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.41,
+    "p_exclude": 0.59,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23384",
+    "prefLabel": "proliferating cell nuclear antigen",
+    "altLabels": [
+      "PCNA (proliferating cell nuclear antigen)"
+    ],
+    "displayName": "proliferating cell nuclear antigen (PCNA (proliferating cell nuclear antigen))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/148923",
+    "prefLabel": "prostate-specific antigen",
+    "altLabels": [
+      "EC 3.4.21.77",
+      "semenogelase"
+    ],
+    "displayName": "prostate-specific antigen (EC 3.4.21.77, semenogelase)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.2,
+    "p_exclude": 0.8,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 7,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/323575",
+    "prefLabel": "protein microarrays",
+    "altLabels": [
+      "protein array analysis",
+      "protein array assay",
+      "protein arrays",
+      "protein biochips",
+      "protein chips",
+      "protein microarray analysis",
+      "protein microchips",
+      "protein profiling arrays",
+      "protein profiling chips"
+    ],
+    "displayName": "protein microarrays (protein array analysis, protein array assay, protein arrays, protein biochips, protein chips, protein microarray analysis, protein microchips, protein profiling arrays, protein profiling chips)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.14,
+    "p_include": 0.57,
+    "p_exclude": 0.43,
+    "selected_probability": 0.57,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/876",
+    "prefLabel": "proteins",
+    "altLabels": [],
+    "displayName": "proteins",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/217782",
+    "prefLabel": "protozoan vaccines",
+    "altLabels": [],
+    "displayName": "protozoan vaccines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46982",
+    "prefLabel": "radioimmunoassays",
+    "altLabels": [],
+    "displayName": "radioimmunoassays",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/291300",
+    "prefLabel": "rapamycin",
+    "altLabels": [
+      "AY 22-989",
+      "rapamune",
+      "sirolimus"
+    ],
+    "displayName": "rapamycin (AY 22-989, rapamune, sirolimus)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.52,
+    "p_include": 0.24,
+    "p_exclude": 0.76,
+    "selected_probability": 0.76,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/273857",
+    "prefLabel": "rose bengal",
+    "altLabels": [],
+    "displayName": "rose bengal",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/35050",
+    "prefLabel": "skeletal muscle",
+    "altLabels": [],
+    "displayName": "skeletal muscle",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23484",
+    "prefLabel": "stem cells",
+    "altLabels": [
+      "progenitor cells"
+    ],
+    "displayName": "stem cells (progenitor cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.51,
+    "p_exclude": 0.49,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/57373",
+    "prefLabel": "subunit vaccines",
+    "altLabels": [
+      "peptide vaccines"
+    ],
+    "displayName": "subunit vaccines (peptide vaccines)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/54683",
+    "prefLabel": "synapse",
+    "altLabels": [
+      "synapses (nervous system)"
+    ],
+    "displayName": "synapse (synapses (nervous system))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/54717",
+    "prefLabel": "synaptic transmission",
+    "altLabels": [
+      "neural transmission",
+      "neurotransmission"
+    ],
+    "displayName": "synaptic transmission (neural transmission, neurotransmission)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/198202",
+    "prefLabel": "synthetic vaccines",
+    "altLabels": [],
+    "displayName": "synthetic vaccines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/131695",
+    "prefLabel": "tacrolimus",
+    "altLabels": [],
+    "displayName": "tacrolimus",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1019",
+    "prefLabel": "therapeutics",
+    "altLabels": [
+      "therapeutic effect",
+      "therapy"
+    ],
+    "displayName": "therapeutics (therapeutic effect, therapy)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/37012",
+    "prefLabel": "thymus gland",
+    "altLabels": [],
+    "displayName": "thymus gland",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.61,
+    "p_exclude": 0.39,
+    "selected_probability": 0.61,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/10551",
+    "prefLabel": "toxins",
+    "altLabels": [
+      "biotoxins"
+    ],
+    "displayName": "toxins (biotoxins)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.55,
+    "p_exclude": 0.45,
+    "selected_probability": 0.55,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34679",
+    "prefLabel": "toxoids",
+    "altLabels": [],
+    "displayName": "toxoids",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.54,
+    "p_exclude": 0.46,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34050",
+    "prefLabel": "trypanotolerance",
+    "altLabels": [],
+    "displayName": "trypanotolerance",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.4,
+    "p_exclude": 0.6,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/15118",
+    "prefLabel": "tuberculin",
+    "altLabels": [],
+    "displayName": "tuberculin",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20756",
+    "prefLabel": "tumor necrosis factors",
+    "altLabels": [
+      "TNF (tumor necrosis factors)",
+      "cachectin",
+      "tumour necrosis factors"
+    ],
+    "displayName": "tumor necrosis factors (TNF (tumor necrosis factors), cachectin, tumour necrosis factors)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 8,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4236",
+    "prefLabel": "vaccine adjuvants",
+    "altLabels": [],
+    "displayName": "vaccine adjuvants",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.48,
+    "p_exclude": 0.52,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42647",
+    "prefLabel": "varietal resistance",
+    "altLabels": [
+      "varietal susceptibility"
+    ],
+    "displayName": "varietal resistance (varietal susceptibility)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/312885",
+    "prefLabel": "vascular cell adhesion molecules",
+    "altLabels": [
+      "CD106 antigens",
+      "vascular cell adhesion molecule-1"
+    ],
+    "displayName": "vascular cell adhesion molecules (CD106 antigens, vascular cell adhesion molecule-1)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/217783",
+    "prefLabel": "viral vaccines",
+    "altLabels": [],
+    "displayName": "viral vaccines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/1138",
+    "prefLabel": "viruses",
+    "altLabels": [],
+    "displayName": "viruses",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18198",
+    "prefLabel": "Western blotting",
+    "altLabels": [
+      "Western blot"
+    ],
+    "displayName": "Western blotting (Western blot)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.59,
+    "p_exclude": 0.41,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 4,
+    "batch": 9,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  }
+]

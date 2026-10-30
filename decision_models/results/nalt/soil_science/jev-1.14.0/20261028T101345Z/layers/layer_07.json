@@ -1,0 +1,269 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24625",
+    "prefLabel": "chemical control",
+    "altLabels": [
+      "chemical treatment (disease)",
+      "chemical treatment (pest)"
+    ],
+    "displayName": "chemical control (chemical treatment (disease), chemical treatment (pest))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/2741",
+    "prefLabel": "chemical treatment",
+    "altLabels": [],
+    "displayName": "chemical treatment",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/34079",
+    "prefLabel": "dissolved organic carbon",
+    "altLabels": [
+      "soluble organic carbon"
+    ],
+    "displayName": "dissolved organic carbon (soluble organic carbon)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/301340",
+    "prefLabel": "forest conservation",
+    "altLabels": [],
+    "displayName": "forest conservation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/593",
+    "prefLabel": "fumigants",
+    "altLabels": [
+      "fumigation agents"
+    ],
+    "displayName": "fumigants (fumigation agents)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28787",
+    "prefLabel": "fumigation",
+    "altLabels": [],
+    "displayName": "fumigation",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11340",
+    "prefLabel": "injection",
+    "altLabels": [],
+    "displayName": "injection",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/316753",
+    "prefLabel": "ridge planting",
+    "altLabels": [
+      "ridge cultivation"
+    ],
+    "displayName": "ridge planting (ridge cultivation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/302887",
+    "prefLabel": "soil fumigants",
+    "altLabels": [
+      "soil sterilants"
+    ],
+    "displayName": "soil fumigants (soil sterilants)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/62345",
+    "prefLabel": "soil stabilization",
+    "altLabels": [
+      "soil stabilisation"
+    ],
+    "displayName": "soil stabilization (soil stabilisation)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53098",
+    "prefLabel": "stubble mulching",
+    "altLabels": [],
+    "displayName": "stubble mulching",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/305825",
+    "prefLabel": "subsoilers",
+    "altLabels": [],
+    "displayName": "subsoilers",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "jev-1.14.0"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/40177",
+    "prefLabel": "vegetated waterways",
+    "altLabels": [
+      "grass waterways",
+      "grassed waterways",
+      "vegetated channels"
+    ],
+    "displayName": "vegetated waterways (grass waterways, grassed waterways, vegetated channels)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "jev",
+    "iteration": 7,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "jev-1.14.0"
+  }
+]

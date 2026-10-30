@@ -1,0 +1,124 @@
+Parsing fingerprinted NALT RDF/XML source
+Replaying all three retained human-authored LLM runs offline
+Iteration 1: evaluated=49 included=47 pruned=2
+Iteration 2: evaluated=122 included=57 pruned=65
+Iteration 3: evaluated=244 included=111 pruned=133
+Iteration 4: evaluated=197 included=75 pruned=122
+Iteration 5: evaluated=149 included=59 pruned=90
+Iteration 6: evaluated=52 included=20 pruned=32
+Iteration 7: evaluated=43 included=11 pruned=32
+Iteration 8: evaluated=16 included=5 pruned=11
+Iteration 9: evaluated=8 included=8 pruned=0
+Iteration 10: evaluated=6 included=1 pruned=5
+Iteration 11: evaluated=5 included=0 pruned=5
+Iteration 1: evaluated=49 included=47 pruned=2
+Iteration 2: evaluated=122 included=51 pruned=71
+Iteration 3: evaluated=204 included=93 pruned=111
+Iteration 4: evaluated=182 included=78 pruned=104
+Iteration 5: evaluated=139 included=55 pruned=84
+Iteration 6: evaluated=55 included=15 pruned=40
+Iteration 7: evaluated=15 included=2 pruned=13
+Iteration 8: evaluated=2 included=2 pruned=0
+Iteration 9: evaluated=3 included=0 pruned=3
+Iteration 1: evaluated=49 included=47 pruned=2
+Iteration 2: evaluated=112 included=45 pruned=67
+Iteration 3: evaluated=187 included=77 pruned=110
+Iteration 4: evaluated=183 included=65 pruned=118
+Iteration 5: evaluated=164 included=70 pruned=94
+Iteration 6: evaluated=108 included=34 pruned=74
+Iteration 7: evaluated=75 included=27 pruned=48
+Iteration 8: evaluated=35 included=10 pruned=25
+Iteration 9: evaluated=9 included=3 pruned=6
+Iteration 10: evaluated=4 included=3 pruned=1
+Iteration 11: evaluated=5 included=5 pruned=0
+Iteration 12: evaluated=1 included=0 pruned=1
+Jev layer 1: 49 candidates in 3 live requests
+Iteration 1: evaluated=49 included=47 pruned=2
+Jev layer 2: 112 candidates in 6 live requests
+Iteration 2: evaluated=112 included=52 pruned=60
+Jev layer 3: 203 candidates in 11 live requests
+Iteration 3: evaluated=203 included=86 pruned=117
+Jev layer 4: 156 candidates in 8 live requests
+Iteration 4: evaluated=156 included=71 pruned=85
+Jev layer 5: 162 candidates in 9 live requests
+Iteration 5: evaluated=162 included=67 pruned=95
+Jev layer 6: 90 candidates in 5 live requests
+Iteration 6: evaluated=90 included=21 pruned=69
+Jev layer 7: 18 candidates in 1 live requests
+Iteration 7: evaluated=18 included=5 pruned=13
+Jev layer 8: 6 candidates in 1 live requests
+Iteration 8: evaluated=6 included=2 pruned=4
+Jev layer 9: 1 candidates in 1 live requests
+Iteration 9: evaluated=1 included=0 pruned=1
+{
+  "metrics": {
+    "true_positive": 269,
+    "false_positive": 78,
+    "false_negative": 146,
+    "true_negative": 412,
+    "precision": 0.7752161383285303,
+    "recall": 0.6481927710843374,
+    "f1": 0.7060367454068242,
+    "accuracy": 0.7524861878453039,
+    "evaluation_total": 905,
+    "excluded_evaluation_count": 10,
+    "gold_positive_count": 415,
+    "reachable_gold_positive_count": 421,
+    "raw_gold_positive_count": 424,
+    "unreachable_gold_positive_count": 3,
+    "included_count": 347,
+    "raw_included_count": 352,
+    "pruned_count": 441,
+    "raw_pruned_count": 446,
+    "visited_count": 788,
+    "raw_visited_count": 798,
+    "iterations": 9
+  },
+  "usage": {
+    "live_bfs_wall_seconds": 5.659355899995717,
+    "logical_requests": 45,
+    "successful_requests": 45,
+    "request_attempts": 45,
+    "retries": 0,
+    "failed_attempts": 0,
+    "attempts_without_usage": 0,
+    "summed_attempt_latency_seconds": 16.122446400004264,
+    "median_success_latency_seconds": 0.3518513000017265,
+    "p95_success_latency_seconds": 0.43623520000255667,
+    "max_success_latency_seconds": 0.5769683000035002,
+    "usage_complete_for_successes": true,
+    "usage_complete_for_attempts": true,
+    "input_tokens": 685338,
+    "output_tokens": 29243,
+    "total_tokens": 714581,
+    "successful_input_tokens": 685338,
+    "successful_output_tokens": 29243,
+    "input_usd_per_million": 0.042,
+    "output_usd_per_million": 0,
+    "estimated_recorded_cost_usd": 0.028784196000000005,
+    "estimated_success_cost_usd": 0.028784196,
+    "cost_basis": "Published price checked 2026-10-28; estimate, not an invoice. Missing usage is not zero usage.",
+    "price_source": "https://docs.typesafe.ai/models",
+    "price_checked_on": "2026-10-28",
+    "response_models": [
+      "jev-1.14.0"
+    ],
+    "total_run_wall_seconds": 61.322681000005105,
+    "preparation_wall_seconds": 52.086251400003675,
+    "graph_parse_and_index_seconds": 49.08915479999996,
+    "baseline_replay_seconds": 2.180685100000119,
+    "postprocessing_wall_seconds": 3.5770737000057125
+  },
+  "audit": {
+    "exact_frontier_requests": true,
+    "included_only_expansion": true,
+    "visited_once": true,
+    "iteration_trace_exact": true,
+    "remaining_frontier_count": 0,
+    "frontier_exhausted": true,
+    "model_decisions": 797,
+    "prompt_text_preserved": true,
+    "baseline_files_unchanged": true
+  },
+  "output_dir": "C:\\Users\\wang479\\Downloads\\sub-KG-extractor\\decision_models\\results\\nalt\\cell_biology\\jev-1.14.0\\20261028T101345Z"
+}

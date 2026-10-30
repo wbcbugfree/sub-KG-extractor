@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2045",
+    "legacy_row_id": "Q2476929|Q1207505",
+    "seed_qid": "Q2476929",
+    "seed_label": "confidentiality",
+    "qid": "Q1207505",
+    "label": "quality",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q2476929",
+    "parent_label": "confidentiality",
+    "path": "confidentiality --instance of--> quality",
+    "uri": "http://www.wikidata.org/entity/Q1207505",
+    "classification": "EXCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.44,
+    "p_exclude": 0.56,
+    "selected_probability": 0.56,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

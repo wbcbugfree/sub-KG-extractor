@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q899383",
+  "seed_label": "European Telecommunications Standards Institute",
+  "included_qids": [
+    "Q1328899",
+    "Q163740",
+    "Q51885731",
+    "Q52162350",
+    "Q899383"
+  ],
+  "pruned_qids": [
+    "Q15277759",
+    "Q294801",
+    "Q4830453",
+    "Q4998806",
+    "Q58195362",
+    "Q7835148",
+    "Q783794"
+  ],
+  "visited_qids": [
+    "Q1328899",
+    "Q15277759",
+    "Q163740",
+    "Q294801",
+    "Q4830453",
+    "Q4998806",
+    "Q51885731",
+    "Q52162350",
+    "Q58195362",
+    "Q7835148",
+    "Q783794",
+    "Q899383"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 2,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 7,
+      "included": 2,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:28.482440+00:00",
+  "finished_at_utc": "2026-10-28T16:42:29.197443+00:00",
+  "wall_seconds": 0.7150131999951554,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,45 @@
+{
+  "seed_qid": "Q381",
+  "seed_label": "Ubuntu",
+  "included_qids": [
+    "Q11250",
+    "Q12226408",
+    "Q131669",
+    "Q18915790",
+    "Q20983788",
+    "Q27964209",
+    "Q381",
+    "Q72688",
+    "Q9135"
+  ],
+  "pruned_qids": [
+    "Q5276054"
+  ],
+  "visited_qids": [
+    "Q11250",
+    "Q12226408",
+    "Q131669",
+    "Q18915790",
+    "Q20983788",
+    "Q27964209",
+    "Q381",
+    "Q5276054",
+    "Q72688",
+    "Q9135"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 9,
+      "included": 8,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:11.636745+00:00",
+  "finished_at_utc": "2026-10-28T17:43:12.307421+00:00",
+  "wall_seconds": 0.6706783999979962,
+  "frontier_exhausted": true
+}

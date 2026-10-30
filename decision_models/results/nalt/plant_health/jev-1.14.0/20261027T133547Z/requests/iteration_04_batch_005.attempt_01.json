@@ -1,0 +1,182 @@
+{
+  "started_at_utc": "2026-10-27T13:36:43.979656+00:00",
+  "iteration": 4,
+  "batch": 5,
+  "attempt": 1,
+  "candidate_count": 18,
+  "http_status": 200,
+  "response": {
+    "model": "jev-1.14.0",
+    "answers": {
+      "candidate_1": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 1.0,
+        "probabilities": {
+          "INCLUDE": 0.0,
+          "EXCLUDE": 1.0
+        }
+      },
+      "candidate_2": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 1.0,
+        "probabilities": {
+          "INCLUDE": 0.0,
+          "EXCLUDE": 1.0
+        }
+      },
+      "candidate_3": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 1.0,
+        "probabilities": {
+          "INCLUDE": 0.0,
+          "EXCLUDE": 1.0
+        }
+      },
+      "candidate_4": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.98,
+        "probabilities": {
+          "INCLUDE": 0.01,
+          "EXCLUDE": 0.99
+        }
+      },
+      "candidate_5": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 1.0,
+        "probabilities": {
+          "INCLUDE": 0.0,
+          "EXCLUDE": 1.0
+        }
+      },
+      "candidate_6": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.8,
+        "probabilities": {
+          "INCLUDE": 0.1,
+          "EXCLUDE": 0.9
+        }
+      },
+      "candidate_7": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.98,
+        "probabilities": {
+          "INCLUDE": 0.01,
+          "EXCLUDE": 0.99
+        }
+      },
+      "candidate_8": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.66,
+        "probabilities": {
+          "INCLUDE": 0.17,
+          "EXCLUDE": 0.83
+        }
+      },
+      "candidate_9": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.98,
+        "probabilities": {
+          "INCLUDE": 0.01,
+          "EXCLUDE": 0.99
+        }
+      },
+      "candidate_10": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.84,
+        "probabilities": {
+          "INCLUDE": 0.08,
+          "EXCLUDE": 0.92
+        }
+      },
+      "candidate_11": {
+        "type": "choice",
+        "choice": "INCLUDE",
+        "confidence": 1.0,
+        "probabilities": {
+          "INCLUDE": 1.0,
+          "EXCLUDE": 0.0
+        }
+      },
+      "candidate_12": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.54,
+        "probabilities": {
+          "INCLUDE": 0.23,
+          "EXCLUDE": 0.77
+        }
+      },
+      "candidate_13": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.98,
+        "probabilities": {
+          "INCLUDE": 0.01,
+          "EXCLUDE": 0.99
+        }
+      },
+      "candidate_14": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 1.0,
+        "probabilities": {
+          "INCLUDE": 0.0,
+          "EXCLUDE": 1.0
+        }
+      },
+      "candidate_15": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.98,
+        "probabilities": {
+          "INCLUDE": 0.01,
+          "EXCLUDE": 0.99
+        }
+      },
+      "candidate_16": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.98,
+        "probabilities": {
+          "INCLUDE": 0.01,
+          "EXCLUDE": 0.99
+        }
+      },
+      "candidate_17": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 0.98,
+        "probabilities": {
+          "INCLUDE": 0.01,
+          "EXCLUDE": 0.99
+        }
+      },
+      "candidate_18": {
+        "type": "choice",
+        "choice": "EXCLUDE",
+        "confidence": 1.0,
+        "probabilities": {
+          "INCLUDE": 0.0,
+          "EXCLUDE": 1.0
+        }
+      }
+    },
+    "usage": {
+      "input_tokens": 17969,
+      "output_tokens": 660
+    }
+  },
+  "status": "success",
+  "elapsed_seconds": 0.3987144000129774,
+  "finished_at_utc": "2026-10-27T13:36:44.378394+00:00"
+}

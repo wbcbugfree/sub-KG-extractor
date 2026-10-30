@@ -1,0 +1,38 @@
+{
+  "seed_qid": "Q1201549",
+  "seed_label": "Detroit Institute of Arts",
+  "included_qids": [
+    "Q1201549"
+  ],
+  "pruned_qids": [
+    "Q110322027",
+    "Q1297822",
+    "Q19794158",
+    "Q87748614"
+  ],
+  "visited_qids": [
+    "Q110322027",
+    "Q1201549",
+    "Q1297822",
+    "Q19794158",
+    "Q232932",
+    "Q3152824",
+    "Q73357989",
+    "Q87748614"
+  ],
+  "bridge_nodes_traversed": 3,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 0,
+      "excluded": 4,
+      "bridge_nodes_traversed": 3
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:43:02.612517+00:00",
+  "finished_at_utc": "2026-10-28T16:43:02.927249+00:00",
+  "wall_seconds": 0.31473579999874346,
+  "frontier_exhausted": true
+}

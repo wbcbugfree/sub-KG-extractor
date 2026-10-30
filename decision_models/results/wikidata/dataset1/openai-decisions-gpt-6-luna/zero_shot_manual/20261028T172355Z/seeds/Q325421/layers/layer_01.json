@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1762",
+    "legacy_row_id": "Q325421|Q54445847",
+    "seed_qid": "Q325421",
+    "seed_label": "business-to-business",
+    "qid": "Q54445847",
+    "label": "type of economical interaction",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q325421",
+    "parent_label": "business-to-business",
+    "path": "business-to-business --instance of--> type of economical interaction",
+    "uri": "http://www.wikidata.org/entity/Q54445847",
+    "classification": "INCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.91,
+    "p_exclude": 0.09,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

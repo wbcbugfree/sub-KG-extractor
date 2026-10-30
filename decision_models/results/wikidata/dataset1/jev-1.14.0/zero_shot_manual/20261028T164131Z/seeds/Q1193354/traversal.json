@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q1193354",
+  "seed_label": "IEEE 802.11n",
+  "included_qids": [
+    "Q1193354",
+    "Q55936932"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1193354",
+    "Q55936932"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:38.877413+00:00",
+  "finished_at_utc": "2026-10-28T16:41:39.165851+00:00",
+  "wall_seconds": 0.28844740000204183,
+  "frontier_exhausted": true
+}

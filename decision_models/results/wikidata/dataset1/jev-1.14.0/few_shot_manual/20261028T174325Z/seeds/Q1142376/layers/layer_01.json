@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row2002",
+    "legacy_row_id": "Q1142376|Q41401699",
+    "seed_qid": "Q1142376",
+    "seed_label": "LIFO",
+    "qid": "Q41401699",
+    "label": "scheduling algorithm",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1142376",
+    "parent_label": "LIFO",
+    "path": "LIFO --instance of--> scheduling algorithm",
+    "uri": "http://www.wikidata.org/entity/Q41401699",
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

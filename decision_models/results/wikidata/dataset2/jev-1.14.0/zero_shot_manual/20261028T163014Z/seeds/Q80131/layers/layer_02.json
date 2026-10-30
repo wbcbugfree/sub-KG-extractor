@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row208",
+    "legacy_row_id": "Q80131|Q718",
+    "seed_qid": "Q80131",
+    "seed_label": "poker",
+    "qid": "Q718",
+    "label": "chess",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q1188693",
+    "parent_label": "mind sport",
+    "path": "poker --subclass of--> mind sport --has subclass--> chess",
+    "uri": "http://www.wikidata.org/entity/Q718",
+    "classification": "EXCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.38,
+    "p_exclude": 0.62,
+    "selected_probability": 0.62,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

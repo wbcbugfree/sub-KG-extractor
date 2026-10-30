@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1623",
+    "legacy_row_id": "Q1186952|Q59157115",
+    "seed_qid": "Q1186952",
+    "seed_label": "interactive media",
+    "qid": "Q59157115",
+    "label": "confidential information",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q11028",
+    "parent_label": "information",
+    "path": "interactive media --instance of--> information --has subclass--> confidential information",
+    "uri": "http://www.wikidata.org/entity/Q59157115",
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

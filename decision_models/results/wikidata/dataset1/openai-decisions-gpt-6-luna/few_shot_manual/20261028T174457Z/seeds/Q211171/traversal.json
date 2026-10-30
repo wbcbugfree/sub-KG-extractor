@@ -1,0 +1,32 @@
+{
+  "seed_qid": "Q211171",
+  "seed_label": "polychlorinated biphenyl",
+  "included_qids": [
+    "Q187661",
+    "Q211171",
+    "Q56256086",
+    "Q72941151"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q187661",
+    "Q211171",
+    "Q56256086",
+    "Q72941151"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:39.115943+00:00",
+  "finished_at_utc": "2026-10-28T17:45:39.665197+00:00",
+  "wall_seconds": 0.5492490000033285,
+  "frontier_exhausted": true
+}

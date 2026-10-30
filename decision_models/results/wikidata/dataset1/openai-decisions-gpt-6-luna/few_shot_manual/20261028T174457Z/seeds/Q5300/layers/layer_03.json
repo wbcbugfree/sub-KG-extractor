@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1459",
+    "legacy_row_id": "Q5300|Q4308",
+    "seed_qid": "Q5300",
+    "seed_label": "central processing unit",
+    "qid": "Q4308",
+    "label": "graphics card",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q216158",
+    "parent_label": "expansion card",
+    "path": "central processing unit --instance of--> computer hardware --has subclass--> expansion card --has subclass--> graphics card",
+    "uri": "http://www.wikidata.org/entity/Q4308",
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

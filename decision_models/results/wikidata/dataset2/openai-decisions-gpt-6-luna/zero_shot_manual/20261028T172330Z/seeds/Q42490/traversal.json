@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q42490",
+  "seed_label": "Asterix",
+  "included_qids": [
+    "Q14406742",
+    "Q42490"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q14406742",
+    "Q42490"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:44.864904+00:00",
+  "finished_at_utc": "2026-10-28T17:23:45.290908+00:00",
+  "wall_seconds": 0.42600549999042414,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4495",
+    "legacy_row_id": "Q133139|Q4925178",
+    "seed_qid": "Q133139",
+    "seed_label": "electromagnetic spectrum",
+    "qid": "Q4925178",
+    "label": "blanket terminology",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q133139",
+    "parent_label": "electromagnetic spectrum",
+    "path": "electromagnetic spectrum --instance of--> blanket terminology",
+    "uri": "http://www.wikidata.org/entity/Q4925178",
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

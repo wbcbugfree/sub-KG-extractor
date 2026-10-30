@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4379",
+    "legacy_row_id": "Q5440256|Q476068",
+    "seed_qid": "Q5440256",
+    "seed_label": "Federal Information Security Management Act of 2002",
+    "qid": "Q476068",
+    "label": "Act of Congress in the United States",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q5440256",
+    "parent_label": "Federal Information Security Management Act of 2002",
+    "path": "Federal Information Security Management Act of 2002 --instance of--> Act of Congress in the United States",
+    "uri": "http://www.wikidata.org/entity/Q476068",
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

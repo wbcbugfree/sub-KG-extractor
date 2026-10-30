@@ -1,0 +1,55 @@
+Preparing soil_science: fingerprinted NALT and exact baseline replay
+Iteration 1: evaluated=7 included=5 pruned=2
+Iteration 2: evaluated=66 included=56 pruned=10
+Iteration 3: evaluated=262 included=227 pruned=35
+Iteration 4: evaluated=309 included=146 pruned=163
+Iteration 5: evaluated=309 included=196 pruned=113
+Iteration 6: evaluated=379 included=315 pruned=64
+Iteration 7: evaluated=24 included=4 pruned=20
+Iteration 8: evaluated=9 included=3 pruned=6
+Iteration 9: evaluated=1 included=0 pruned=1
+Iteration 1: evaluated=7 included=5 pruned=2
+Iteration 2: evaluated=66 included=54 pruned=12
+Iteration 3: evaluated=260 included=227 pruned=33
+Iteration 4: evaluated=302 included=126 pruned=176
+Iteration 5: evaluated=263 included=169 pruned=94
+Iteration 6: evaluated=338 included=300 pruned=38
+Iteration 7: evaluated=11 included=3 pruned=8
+Iteration 8: evaluated=2 included=1 pruned=1
+Iteration 9: evaluated=1 included=0 pruned=1
+Iteration 1: evaluated=7 included=5 pruned=2
+Iteration 2: evaluated=66 included=55 pruned=11
+Iteration 3: evaluated=257 included=229 pruned=28
+Iteration 4: evaluated=306 included=154 pruned=152
+Iteration 5: evaluated=344 included=211 pruned=133
+Iteration 6: evaluated=458 included=301 pruned=157
+Iteration 7: evaluated=34 included=5 pruned=29
+Iteration 8: evaluated=22 included=4 pruned=18
+Iteration 9: evaluated=8 included=0 pruned=8
+Iteration 1: evaluated=7 included=5 pruned=2
+Iteration 2: evaluated=66 included=55 pruned=11
+Iteration 3: evaluated=260 included=227 pruned=33
+Iteration 4: evaluated=303 included=145 pruned=158
+Iteration 5: evaluated=308 included=174 pruned=134
+Iteration 6: evaluated=345 included=293 pruned=52
+Iteration 7: evaluated=13 included=2 pruned=11
+Iteration 8: evaluated=2 included=0 pruned=2
+Decisions layer 1: 7 candidates in 1 live requests
+Iteration 1: evaluated=7 included=6 pruned=1
+Decisions layer 2: 70 candidates in 4 live requests
+Iteration 2: evaluated=70 included=52 pruned=18
+Decisions layer 3: 231 candidates in 12 live requests
+Iteration 3: evaluated=231 included=171 pruned=60
+Decisions layer 4: 270 candidates in 14 live requests
+Iteration 4: evaluated=270 included=130 pruned=140
+Decisions layer 5: 325 candidates in 17 live requests
+Iteration 5: evaluated=325 included=149 pruned=176
+Decisions layer 6: 345 candidates in 18 live requests
+Iteration 6: evaluated=345 included=236 pruned=109
+Decisions layer 7: 33 candidates in 2 live requests
+Iteration 7: evaluated=33 included=8 pruned=25
+Decisions layer 8: 23 candidates in 2 live requests
+Iteration 8: evaluated=23 included=1 pruned=22
+Decisions layer 9: 1 candidates in 1 live requests
+Iteration 9: evaluated=1 included=0 pruned=1
+{"branch": "soil_science", "status": "complete", "metrics": {"true_positive": 683, "false_positive": 66, "false_negative": 349, "true_negative": 395, "precision": 0.9118825100133512, "recall": 0.6618217054263565, "f1": 0.7669848399775407, "accuracy": 0.7220361687876758, "evaluation_total": 1493, "excluded_evaluation_count": 6, "gold_positive_count": 1032, "reachable_gold_positive_count": 1036, "raw_gold_positive_count": 1036, "unreachable_gold_positive_count": 0, "included_count": 749, "raw_included_count": 754, "pruned_count": 551, "raw_pruned_count": 552, "visited_count": 1300, "raw_visited_count": 1306, "iterations": 9}, "usage": {"input_tokens": 1072799, "output_tokens": 0, "total_tokens": 1072799, "cached_tokens": 0, "cache_write_tokens": 0, "uncached_input_tokens": 1072799, "estimated_cost_usd": 0.10727990000000001, "live_bfs_wall_seconds": 12.024802799998724, "logical_requests": 71, "request_attempts": 71, "requests_with_refusal_overrides": 1, "refusal_override_decisions": 1, "provider_refusal_answers": 1, "successful_requests": 71, "retries": 0, "failed_attempts": 0, "attempts_without_usage": 0, "attempts_without_cost": 0, "summed_attempt_latency_seconds": 39.1092652999796, "median_success_latency_seconds": 0.5652203999998164, "p95_success_latency_seconds": 0.7962251999997534, "max_success_latency_seconds": 0.9579015999988769, "response_models": ["gpt-6-luna"], "price_checked_on": "2026-10-28", "price_sources": ["https://developers.openai.com/api/docs/guides/decisions", "https://developers.openai.com/api/docs/pricing"], "rates_usd_per_million": {"uncached_input": 0.1, "cached_input": 0.01, "cache_write_30m": 0.125, "output": 0.0}, "cost_note": "Estimate for global endpoint, short context, default 30m cache TTL; unknown usage is not zero. Output is free. Cache reads/writes are subsets of input tokens.", "total_run_wall_seconds": 75.95289440000488, "preparation_wall_seconds": 58.20119640000485, "graph_parse_and_index_seconds": 47.253641300005256, "baseline_replay_seconds": 9.324575099999493, "postprocessing_wall_seconds": 5.726895200001309}}

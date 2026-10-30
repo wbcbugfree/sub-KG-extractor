@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3472",
+    "legacy_row_id": "Q16876602|Q163740",
+    "seed_qid": "Q16876602",
+    "seed_label": "Cloud Security Alliance",
+    "qid": "Q163740",
+    "label": "nonprofit organization",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q16876602",
+    "parent_label": "Cloud Security Alliance",
+    "path": "Cloud Security Alliance --instance of--> nonprofit organization",
+    "uri": "http://www.wikidata.org/entity/Q163740",
+    "classification": "INCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.63,
+    "p_exclude": 0.37,
+    "selected_probability": 0.63,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

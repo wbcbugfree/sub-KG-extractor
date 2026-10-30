@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row759",
+    "legacy_row_id": "Q204833|Q26763979",
+    "seed_qid": "Q204833",
+    "seed_label": "Enhanced Data Rates for GSM Evolution",
+    "qid": "Q26763979",
+    "label": "mobile phone network standard",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q204833",
+    "parent_label": "Enhanced Data Rates for GSM Evolution",
+    "path": "Enhanced Data Rates for GSM Evolution --instance of--> mobile phone network standard",
+    "uri": "http://www.wikidata.org/entity/Q26763979",
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

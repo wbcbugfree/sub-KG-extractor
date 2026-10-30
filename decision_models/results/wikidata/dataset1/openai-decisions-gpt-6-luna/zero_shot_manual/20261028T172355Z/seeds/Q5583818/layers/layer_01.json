@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4434",
+    "legacy_row_id": "Q5583818|Q7063032",
+    "seed_qid": "Q5583818",
+    "seed_label": "Google Cloud Messaging",
+    "qid": "Q7063032",
+    "label": "notification service",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q5583818",
+    "parent_label": "Google Cloud Messaging",
+    "path": "Google Cloud Messaging --instance of--> notification service",
+    "uri": "http://www.wikidata.org/entity/Q7063032",
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

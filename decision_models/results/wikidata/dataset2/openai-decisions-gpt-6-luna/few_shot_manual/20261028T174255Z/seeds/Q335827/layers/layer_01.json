@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row184",
+    "legacy_row_id": "Q335827|Q47913",
+    "seed_qid": "Q335827",
+    "seed_label": "Directorate-General for External Security",
+    "qid": "Q47913",
+    "label": "intelligence agency",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q335827",
+    "parent_label": "Directorate-General for External Security",
+    "path": "Directorate-General for External Security --instance of--> intelligence agency",
+    "uri": "http://www.wikidata.org/entity/Q47913",
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

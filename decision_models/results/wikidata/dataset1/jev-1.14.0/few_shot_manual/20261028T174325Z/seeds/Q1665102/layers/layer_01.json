@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row4016",
+    "legacy_row_id": "Q1665102|Q270791",
+    "seed_qid": "Q1665102",
+    "seed_label": "Institut national de l'information géographique et forestière",
+    "qid": "Q270791",
+    "label": "state-owned enterprise",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1665102",
+    "parent_label": "Institut national de l'information géographique et forestière",
+    "path": "Institut national de l'information géographique et forestière --instance of--> state-owned enterprise",
+    "uri": "http://www.wikidata.org/entity/Q270791",
+    "classification": "INCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.63,
+    "p_exclude": 0.37,
+    "selected_probability": 0.63,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

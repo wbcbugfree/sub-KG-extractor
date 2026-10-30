@@ -1,0 +1,48 @@
+{
+  "seed_qid": "Q377539",
+  "seed_label": "Kernel-based Virtual Machine",
+  "included_qids": [
+    "Q1077480",
+    "Q20825628",
+    "Q20983788",
+    "Q341",
+    "Q377539",
+    "Q388",
+    "Q506883"
+  ],
+  "pruned_qids": [
+    "Q56191572"
+  ],
+  "visited_qids": [
+    "Q1077480",
+    "Q20825628",
+    "Q20983788",
+    "Q341",
+    "Q377539",
+    "Q388",
+    "Q506883",
+    "Q56191572"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 4,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:46.605016+00:00",
+  "finished_at_utc": "2026-10-28T17:24:47.433232+00:00",
+  "wall_seconds": 0.828210499996203,
+  "frontier_exhausted": true
+}

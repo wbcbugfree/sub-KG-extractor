@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row432",
+    "legacy_row_id": "Q2746660|Q46337",
+    "seed_qid": "Q2746660",
+    "seed_label": "Agile Manifesto",
+    "qid": "Q46337",
+    "label": "manifesto",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 0,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q2746660",
+    "parent_label": "Agile Manifesto",
+    "path": "Agile Manifesto --instance of--> manifesto",
+    "uri": "http://www.wikidata.org/entity/Q46337",
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q4008950",
+  "seed_label": "Irises",
+  "included_qids": [
+    "Q2554450",
+    "Q4008950"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q2554450",
+    "Q4008950"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:47:20.134665+00:00",
+  "finished_at_utc": "2026-10-28T17:47:20.474946+00:00",
+  "wall_seconds": 0.34028309999848716,
+  "frontier_exhausted": true
+}

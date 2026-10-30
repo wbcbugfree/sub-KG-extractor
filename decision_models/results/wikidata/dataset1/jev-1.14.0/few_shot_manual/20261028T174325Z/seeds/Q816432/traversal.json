@@ -1,0 +1,31 @@
+{
+  "seed_qid": "Q816432",
+  "seed_label": "project manager",
+  "included_qids": [
+    "Q816432"
+  ],
+  "pruned_qids": [
+    "Q28640",
+    "Q4164871"
+  ],
+  "visited_qids": [
+    "Q28640",
+    "Q4164871",
+    "Q816432"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 0,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:22.218243+00:00",
+  "finished_at_utc": "2026-10-28T17:44:22.567670+00:00",
+  "wall_seconds": 0.34942600000067614,
+  "frontier_exhausted": true
+}

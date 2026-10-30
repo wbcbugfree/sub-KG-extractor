@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row747",
+    "legacy_row_id": "Q3214499|Q3550864",
+    "seed_qid": "Q3214499",
+    "seed_label": "LORIA",
+    "qid": "Q3550864",
+    "label": "mixed research unit",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q3214499",
+    "parent_label": "LORIA",
+    "path": "LORIA --instance of--> mixed research unit",
+    "uri": "http://www.wikidata.org/entity/Q3550864",
+    "classification": "INCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.71,
+    "p_exclude": 0.29,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "seed_qid": "Q11368",
+  "seed_label": "Unix",
+  "included_qids": [
+    "Q11368"
+  ],
+  "pruned_qids": [
+    "Q170584",
+    "Q71468208"
+  ],
+  "visited_qids": [
+    "Q11368",
+    "Q170584",
+    "Q71468208"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 0,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:37.249712+00:00",
+  "finished_at_utc": "2026-10-28T16:41:37.561662+00:00",
+  "wall_seconds": 0.311946200003149,
+  "frontier_exhausted": true
+}

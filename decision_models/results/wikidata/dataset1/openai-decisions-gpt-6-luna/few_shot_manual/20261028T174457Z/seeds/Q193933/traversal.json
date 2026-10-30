@@ -1,0 +1,62 @@
+{
+  "seed_qid": "Q193933",
+  "seed_label": "dioptre",
+  "included_qids": [
+    "Q193933",
+    "Q47574",
+    "Q82047057"
+  ],
+  "pruned_qids": [
+    "Q1514559",
+    "Q16782623",
+    "Q2360980",
+    "Q2961801",
+    "Q36548538",
+    "Q4209335",
+    "Q45721316",
+    "Q468999",
+    "Q50808019",
+    "Q66584284",
+    "Q72265179",
+    "Q7351621"
+  ],
+  "visited_qids": [
+    "Q1514559",
+    "Q16782623",
+    "Q193933",
+    "Q2360980",
+    "Q2961801",
+    "Q36548538",
+    "Q4209335",
+    "Q45721316",
+    "Q468999",
+    "Q47574",
+    "Q50808019",
+    "Q66584284",
+    "Q72265179",
+    "Q7351621",
+    "Q82047057"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 12,
+      "included": 0,
+      "excluded": 12,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:35.025030+00:00",
+  "finished_at_utc": "2026-10-28T17:45:36.190402+00:00",
+  "wall_seconds": 1.16536709999491,
+  "frontier_exhausted": true
+}

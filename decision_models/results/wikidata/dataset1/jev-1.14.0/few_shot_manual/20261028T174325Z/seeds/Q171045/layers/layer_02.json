@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1627",
+    "legacy_row_id": "Q171045|Q576465",
+    "seed_qid": "Q171045",
+    "seed_label": "Open Virtualization Format",
+    "qid": "Q576465",
+    "label": "GPS eXchange Format",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 0,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q20155966",
+    "parent_label": "XML-based format",
+    "path": "Open Virtualization Format --instance of--> XML-based format --has subclass--> GPS eXchange Format",
+    "uri": "http://www.wikidata.org/entity/Q576465",
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

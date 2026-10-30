@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q1437394",
+  "seed_label": "formal concept analysis",
+  "included_qids": [
+    "Q1193625",
+    "Q1437394",
+    "Q185698"
+  ],
+  "pruned_qids": [
+    "Q1196545",
+    "Q1378470",
+    "Q179012",
+    "Q21045430",
+    "Q2292993",
+    "Q2670999",
+    "Q65938634"
+  ],
+  "visited_qids": [
+    "Q1193625",
+    "Q1196545",
+    "Q1378470",
+    "Q1437394",
+    "Q179012",
+    "Q185698",
+    "Q21045430",
+    "Q2292993",
+    "Q2670999",
+    "Q65938634"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 1,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:42:39.102835+00:00",
+  "finished_at_utc": "2026-10-28T17:42:39.738884+00:00",
+  "wall_seconds": 0.6360467000049539,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q850661",
+  "seed_label": "XQuery",
+  "included_qids": [
+    "Q17092833",
+    "Q3839507",
+    "Q845739",
+    "Q850661"
+  ],
+  "pruned_qids": [
+    "Q47607",
+    "Q60551191",
+    "Q7263491"
+  ],
+  "visited_qids": [
+    "Q17092833",
+    "Q3839507",
+    "Q47607",
+    "Q60551191",
+    "Q7263491",
+    "Q845739",
+    "Q850661"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 4,
+      "included": 1,
+      "excluded": 3,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:26.407558+00:00",
+  "finished_at_utc": "2026-10-28T16:42:27.120441+00:00",
+  "wall_seconds": 0.7128738000028534,
+  "frontier_exhausted": true
+}

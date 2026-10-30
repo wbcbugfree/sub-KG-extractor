@@ -1,0 +1,138 @@
+{
+  "scope": "Exactly one final run per branch per model, as selected by runs.json",
+  "selected_run_count": 10,
+  "branches": [
+    "soil_science",
+    "pest_management",
+    "immunology",
+    "cell_biology",
+    "plant_health"
+  ],
+  "models": [
+    "gpt-6-luna",
+    "jev-1.14.0"
+  ],
+  "macro_comparison": [
+    {
+      "model": "deepseek-v4-pro",
+      "branches": 5,
+      "macro_precision": 0.8794769203154611,
+      "macro_recall": 0.8843825794956983,
+      "macro_f1": 0.8804086197264208,
+      "micro_precision": 0.8961325966850828,
+      "micro_recall": 0.8824809575625681,
+      "micro_f1": 0.8892543859649122,
+      "true_positive": 2433,
+      "false_positive": 282,
+      "false_negative": 324,
+      "refusal_override_count": 0
+    },
+    {
+      "model": "gemini-3.5-flash",
+      "branches": 5,
+      "macro_precision": 0.9036213959572791,
+      "macro_recall": 0.8594359466986842,
+      "macro_f1": 0.8778986495843375,
+      "micro_precision": 0.9234972677595629,
+      "micro_recall": 0.8581791802684077,
+      "micro_f1": 0.8896409099454785,
+      "true_positive": 2366,
+      "false_positive": 196,
+      "false_negative": 391,
+      "refusal_override_count": 0
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "branches": 5,
+      "macro_precision": 0.8040068664598052,
+      "macro_recall": 0.846490211301659,
+      "macro_f1": 0.8211307239381532,
+      "micro_precision": 0.8346055979643766,
+      "micro_recall": 0.8327892636924193,
+      "micro_f1": 0.8336964415395788,
+      "true_positive": 2296,
+      "false_positive": 455,
+      "false_negative": 461,
+      "refusal_override_count": 0
+    },
+    {
+      "model": "gpt-6-luna",
+      "branches": 5,
+      "macro_precision": 0.8302866753423711,
+      "macro_recall": 0.7797953505614895,
+      "macro_f1": 0.7935480789336363,
+      "micro_precision": 0.8455941794664511,
+      "micro_recall": 0.7587957925281102,
+      "micro_f1": 0.7998470655706366,
+      "true_positive": 2092,
+      "false_positive": 382,
+      "false_negative": 665,
+      "refusal_override_count": 1
+    },
+    {
+      "model": "jev-1.14.0",
+      "branches": 5,
+      "macro_precision": 0.8560327968519512,
+      "macro_recall": 0.8448878778074191,
+      "macro_f1": 0.8476688173480056,
+      "micro_precision": 0.8871698113207547,
+      "micro_recall": 0.8527384838592673,
+      "micro_f1": 0.8696134640281117,
+      "true_positive": 2351,
+      "false_positive": 299,
+      "false_negative": 406,
+      "refusal_override_count": 0
+    }
+  ],
+  "api_usage_totals": [
+    {
+      "model": "gpt-6-luna",
+      "runs": 5,
+      "api_calls": 248,
+      "successful_requests": 248,
+      "retries": 0,
+      "failed_attempts": 0,
+      "input_tokens": 4622100,
+      "output_tokens": 0,
+      "total_tokens": 4622100,
+      "cached_tokens": 0,
+      "cache_write_tokens": 5282,
+      "estimated_cost_usd": 0.46234205,
+      "bfs_wall_seconds": 47.3789831000031,
+      "runner_wall_seconds": 370.39573410000594,
+      "process_wall_seconds": 398.28575009998895,
+      "candidate_decisions": 4600,
+      "model_decisions": 4599,
+      "refusal_override_count": 1
+    },
+    {
+      "model": "jev-1.14.0",
+      "runs": 5,
+      "api_calls": 239,
+      "successful_requests": 239,
+      "retries": 0,
+      "failed_attempts": 0,
+      "input_tokens": 4507286,
+      "output_tokens": 161782,
+      "total_tokens": 4669068,
+      "cached_tokens": null,
+      "cache_write_tokens": null,
+      "estimated_cost_usd": 0.18930601200000002,
+      "bfs_wall_seconds": 28.613519199985603,
+      "runner_wall_seconds": 317.37914660001115,
+      "process_wall_seconds": null,
+      "candidate_decisions": 4409,
+      "model_decisions": 4409,
+      "refusal_override_count": 0
+    }
+  ],
+  "openai_protocol_note": "Four strict branches and Soil with the user-authorized desalination refusal EXCLUDE override",
+  "measurement_notes": [
+    "Costs use recorded dated tariffs and are estimates, not invoices.",
+    "BFS times are sums across separate runs, not one continuous execution.",
+    "Unknown metadata remains null; the Jev Plant pilot did not capture HTTP request IDs or full process timing.",
+    "Legacy LLM comparisons are retained results, not fresh inference."
+  ],
+  "index_sha256": "19474533b9859c22cd4e8ca1539fc26ec80bc7dcb2cb9a039c82032d7f34a294",
+  "analyzer_sha256": "335ff3225877a712ca8589dac8c307df675958a40b048a237a488de80cd96b90"
+}

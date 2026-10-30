@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1352",
+    "legacy_row_id": "Q875932|Q80071",
+    "seed_qid": "Q875932",
+    "seed_label": "digital watermarking",
+    "qid": "Q80071",
+    "label": "symbol",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q875932",
+    "parent_label": "digital watermarking",
+    "path": "digital watermarking --instance of--> symbol",
+    "uri": "http://www.wikidata.org/entity/Q80071",
+    "classification": "EXCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.49,
+    "p_exclude": 0.51,
+    "selected_probability": 0.51,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

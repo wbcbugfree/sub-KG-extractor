@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row4800",
+    "legacy_row_id": "Q485643|Q96247293",
+    "seed_qid": "Q485643",
+    "seed_label": "customer relationship management",
+    "qid": "Q96247293",
+    "label": "type of management",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q485643",
+    "parent_label": "customer relationship management",
+    "path": "customer relationship management --instance of--> type of management",
+    "uri": "http://www.wikidata.org/entity/Q96247293",
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

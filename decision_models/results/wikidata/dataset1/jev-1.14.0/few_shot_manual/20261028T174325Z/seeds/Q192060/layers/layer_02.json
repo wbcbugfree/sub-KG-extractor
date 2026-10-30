@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3941",
+    "legacy_row_id": "Q192060|Q1481177",
+    "seed_qid": "Q192060",
+    "seed_label": "knowledge management",
+    "qid": "Q1481177",
+    "label": "management style",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q96247293",
+    "parent_label": "type of management",
+    "path": "knowledge management --instance of--> type of management --has subclass--> management style",
+    "uri": "http://www.wikidata.org/entity/Q1481177",
+    "classification": "EXCLUDE",
+    "confidence": 0.22,
+    "p_include": 0.39,
+    "p_exclude": 0.61,
+    "selected_probability": 0.61,
+    "decision_source": "jev",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

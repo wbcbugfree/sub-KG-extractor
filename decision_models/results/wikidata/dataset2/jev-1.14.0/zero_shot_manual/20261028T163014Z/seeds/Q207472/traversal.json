@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q207472",
+  "seed_label": "Toto",
+  "included_qids": [
+    "Q207472",
+    "Q5741069"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q207472",
+    "Q5741069"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:22.332732+00:00",
+  "finished_at_utc": "2026-10-28T16:30:22.619640+00:00",
+  "wall_seconds": 0.2869129000027897,
+  "frontier_exhausted": true
+}

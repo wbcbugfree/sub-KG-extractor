@@ -1,0 +1,3368 @@
+[
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/245234",
+    "prefLabel": "abnormal hemoglobin",
+    "altLabels": [
+      "abnormal haemoglobin",
+      "haemoglobin C",
+      "haemoglobin E",
+      "haemoglobin H",
+      "haemoglobin M",
+      "haemoglobin S",
+      "hemoglobin C",
+      "hemoglobin E",
+      "hemoglobin H",
+      "hemoglobin J",
+      "hemoglobin M",
+      "hemoglobin S",
+      "sickle haemoglobin",
+      "sickle hemoglobin"
+    ],
+    "displayName": "abnormal hemoglobin (abnormal haemoglobin, haemoglobin C, haemoglobin E, haemoglobin H, haemoglobin M, haemoglobin S, hemoglobin C, hemoglobin E, hemoglobin H, hemoglobin J, hemoglobin M, hemoglobin S, sickle haemoglobin, sickle hemoglobin)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3134",
+    "prefLabel": "acrosome",
+    "altLabels": [
+      "acrosomes"
+    ],
+    "displayName": "acrosome (acrosomes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3137",
+    "prefLabel": "acrosome reaction",
+    "altLabels": [],
+    "displayName": "acrosome reaction",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/308521",
+    "prefLabel": "animal cell lines",
+    "altLabels": [],
+    "displayName": "animal cell lines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/13531",
+    "prefLabel": "astrocytes",
+    "altLabels": [
+      "astroglia"
+    ],
+    "displayName": "astrocytes (astroglia)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/336342",
+    "prefLabel": "autophagosomes",
+    "altLabels": [],
+    "displayName": "autophagosomes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/206099",
+    "prefLabel": "autophagy",
+    "altLabels": [
+      "autophagic cell death",
+      "autophagic programmed cell death",
+      "autophagocytosis",
+      "type 2 programmed cell death"
+    ],
+    "displayName": "autophagy (autophagic cell death, autophagic programmed cell death, autophagocytosis, type 2 programmed cell death)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/214454",
+    "prefLabel": "axonal transport",
+    "altLabels": [
+      "axoplasmic streaming"
+    ],
+    "displayName": "axonal transport (axoplasmic streaming)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.71,
+    "p_exclude": 0.29,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/187774",
+    "prefLabel": "bioengineering",
+    "altLabels": [
+      "bio engineering",
+      "bio-engineering",
+      "biological engineering"
+    ],
+    "displayName": "bioengineering (bio engineering, bio-engineering, biological engineering)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/206567",
+    "prefLabel": "bioprinting",
+    "altLabels": [
+      "cell printing",
+      "tissue printing"
+    ],
+    "displayName": "bioprinting (cell printing, tissue printing)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.63,
+    "p_exclude": 0.37,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/291434",
+    "prefLabel": "blood banks",
+    "altLabels": [
+      "blood banking"
+    ],
+    "displayName": "blood banks (blood banking)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9528",
+    "prefLabel": "bone marrow",
+    "altLabels": [],
+    "displayName": "bone marrow",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18522",
+    "prefLabel": "bone marrow cells",
+    "altLabels": [],
+    "displayName": "bone marrow cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.7,
+    "p_exclude": 0.3,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4228",
+    "prefLabel": "brown adipose tissue",
+    "altLabels": [
+      "brown fat"
+    ],
+    "displayName": "brown adipose tissue (brown fat)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136654",
+    "prefLabel": "caspase-1",
+    "altLabels": [
+      "EC 3.4.22.36",
+      "IL-1 beta convertase",
+      "IL-1 beta-converting enzyme",
+      "interleukin 1beta-converting enzyme",
+      "interleukin-1beta convertase"
+    ],
+    "displayName": "caspase-1 (EC 3.4.22.36, IL-1 beta convertase, IL-1 beta-converting enzyme, interleukin 1beta-converting enzyme, interleukin-1beta convertase)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136675",
+    "prefLabel": "caspase-10",
+    "altLabels": [
+      "EC 3.4.22.63"
+    ],
+    "displayName": "caspase-10 (EC 3.4.22.63)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136677",
+    "prefLabel": "caspase-11",
+    "altLabels": [
+      "EC 3.4.22.64"
+    ],
+    "displayName": "caspase-11 (EC 3.4.22.64)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136679",
+    "prefLabel": "caspase-12",
+    "altLabels": [],
+    "displayName": "caspase-12",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136660",
+    "prefLabel": "caspase-2",
+    "altLabels": [
+      "EC 3.4.22.55"
+    ],
+    "displayName": "caspase-2 (EC 3.4.22.55)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136662",
+    "prefLabel": "caspase-3",
+    "altLabels": [
+      "EC 3.4.22.56"
+    ],
+    "displayName": "caspase-3 (EC 3.4.22.56)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136664",
+    "prefLabel": "caspase-4",
+    "altLabels": [
+      "EC 3.4.22.57"
+    ],
+    "displayName": "caspase-4 (EC 3.4.22.57)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.96,
+    "p_include": 0.02,
+    "p_exclude": 0.98,
+    "selected_probability": 0.98,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136666",
+    "prefLabel": "caspase-5",
+    "altLabels": [],
+    "displayName": "caspase-5",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136669",
+    "prefLabel": "caspase-6",
+    "altLabels": [
+      "EC 3.4.22.59"
+    ],
+    "displayName": "caspase-6 (EC 3.4.22.59)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136667",
+    "prefLabel": "caspase-7",
+    "altLabels": [
+      "EC 3.4.22.60"
+    ],
+    "displayName": "caspase-7 (EC 3.4.22.60)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136671",
+    "prefLabel": "caspase-8",
+    "altLabels": [
+      "EC 3.4.22.61",
+      "FLICE protein"
+    ],
+    "displayName": "caspase-8 (EC 3.4.22.61, FLICE protein)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136674",
+    "prefLabel": "caspase-9",
+    "altLabels": [],
+    "displayName": "caspase-9",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/136653",
+    "prefLabel": "caspases",
+    "altLabels": [],
+    "displayName": "caspases",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23368",
+    "prefLabel": "cell communication",
+    "altLabels": [
+      "cell to cell communication",
+      "cell-cell communication",
+      "cellular signaling",
+      "cellular signalling",
+      "intercellular communication"
+    ],
+    "displayName": "cell communication (cell to cell communication, cell-cell communication, cellular signaling, cellular signalling, intercellular communication)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.94,
+    "p_exclude": 0.06,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23382",
+    "prefLabel": "cell cycle",
+    "altLabels": [],
+    "displayName": "cell cycle",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/232248",
+    "prefLabel": "cell cycle checkpoints",
+    "altLabels": [
+      "cell cycle arrest"
+    ],
+    "displayName": "cell cycle checkpoints (cell cycle arrest)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23385",
+    "prefLabel": "cell dedifferentiation",
+    "altLabels": [],
+    "displayName": "cell dedifferentiation",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.9,
+    "p_exclude": 0.1,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/3939",
+    "prefLabel": "cell differentiation",
+    "altLabels": [],
+    "displayName": "cell differentiation",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23401",
+    "prefLabel": "cell fusion",
+    "altLabels": [],
+    "displayName": "cell fusion",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23397",
+    "prefLabel": "cell growth",
+    "altLabels": [
+      "cell elongation",
+      "cell enlargement"
+    ],
+    "displayName": "cell growth (cell elongation, cell enlargement)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.87,
+    "p_exclude": 0.13,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/216438",
+    "prefLabel": "cell polarity",
+    "altLabels": [],
+    "displayName": "cell polarity",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23423",
+    "prefLabel": "cell respiration",
+    "altLabels": [
+      "cellular respiration",
+      "fruit respiration",
+      "plant respiration",
+      "respiration (cells)",
+      "respiration (fruits)",
+      "respiration (plants)",
+      "respiration (postharvest)"
+    ],
+    "displayName": "cell respiration (cellular respiration, fruit respiration, plant respiration, respiration (cells), respiration (fruits), respiration (plants), respiration (postharvest))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.48,
+    "p_include": 0.74,
+    "p_exclude": 0.26,
+    "selected_probability": 0.74,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/264819",
+    "prefLabel": "cell senescence",
+    "altLabels": [
+      "cellular senescence"
+    ],
+    "displayName": "cell senescence (cellular senescence)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/342280",
+    "prefLabel": "cell specificity",
+    "altLabels": [
+      "cellular specificity"
+    ],
+    "displayName": "cell specificity (cellular specificity)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.49,
+    "p_exclude": 0.51,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23358",
+    "prefLabel": "cell structures",
+    "altLabels": [
+      "cell morphology",
+      "cellular structures"
+    ],
+    "displayName": "cell structures (cell morphology, cellular structures)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/123140",
+    "prefLabel": "chemokines",
+    "altLabels": [
+      "chemotactic cytokines",
+      "intercrines"
+    ],
+    "displayName": "chemokines (chemotactic cytokines, intercrines)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 2,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9461",
+    "prefLabel": "clutch size",
+    "altLabels": [],
+    "displayName": "clutch size",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.45,
+    "p_exclude": 0.55,
+    "selected_probability": 0.55,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/29311",
+    "prefLabel": "cortical granules",
+    "altLabels": [],
+    "displayName": "cortical granules",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.73,
+    "p_exclude": 0.27,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/284384",
+    "prefLabel": "culture flasks",
+    "altLabels": [
+      "cell culture flasks",
+      "cell culturing flasks",
+      "culturing flasks"
+    ],
+    "displayName": "culture flasks (cell culture flasks, cell culturing flasks, culturing flasks)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14015",
+    "prefLabel": "cytolysis",
+    "altLabels": [],
+    "displayName": "cytolysis",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.78,
+    "p_exclude": 0.22,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23437",
+    "prefLabel": "cytoplasm",
+    "altLabels": [],
+    "displayName": "cytoplasm",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/264095",
+    "prefLabel": "death domain receptors",
+    "altLabels": [
+      "death receptors"
+    ],
+    "displayName": "death domain receptors (death receptors)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.37,
+    "p_exclude": 0.63,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4287",
+    "prefLabel": "developmental stages",
+    "altLabels": [
+      "growth stages",
+      "life cycle stages (developmental stages)"
+    ],
+    "displayName": "developmental stages (growth stages, life cycle stages (developmental stages))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11246",
+    "prefLabel": "DNA fragmentation",
+    "altLabels": [],
+    "displayName": "DNA fragmentation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/262472",
+    "prefLabel": "DNA packaging",
+    "altLabels": [
+      "genome packaging"
+    ],
+    "displayName": "DNA packaging (genome packaging)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9203",
+    "prefLabel": "egg fertility",
+    "altLabels": [],
+    "displayName": "egg fertility",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/982",
+    "prefLabel": "egg masses",
+    "altLabels": [
+      "egg cases",
+      "egg clutches",
+      "egg mass (clutch)",
+      "egg pods",
+      "oothecae"
+    ],
+    "displayName": "egg masses (egg cases, egg clutches, egg mass (clutch), egg pods, oothecae)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/35937",
+    "prefLabel": "egg membranes",
+    "altLabels": [],
+    "displayName": "egg membranes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/35938",
+    "prefLabel": "egg quality",
+    "altLabels": [
+      "egg characteristics"
+    ],
+    "displayName": "egg quality (egg characteristics)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/35939",
+    "prefLabel": "egg shell",
+    "altLabels": [
+      "eggshell"
+    ],
+    "displayName": "egg shell (eggshell)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/35940",
+    "prefLabel": "egg yolk",
+    "altLabels": [
+      "vitellus (egg yolk)"
+    ],
+    "displayName": "egg yolk (vitellus (egg yolk))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24837",
+    "prefLabel": "eggs",
+    "altLabels": [],
+    "displayName": "eggs",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8970",
+    "prefLabel": "embryonic structures",
+    "altLabels": [],
+    "displayName": "embryonic structures",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.54,
+    "p_exclude": 0.46,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23424",
+    "prefLabel": "endocytosis",
+    "altLabels": [
+      "pinocytosis"
+    ],
+    "displayName": "endocytosis (pinocytosis)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.54,
+    "p_exclude": 0.46,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/298985",
+    "prefLabel": "endoplasmic reticulum stress",
+    "altLabels": [],
+    "displayName": "endoplasmic reticulum stress",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.27,
+    "p_exclude": 0.73,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18524",
+    "prefLabel": "erythroblasts",
+    "altLabels": [],
+    "displayName": "erythroblasts",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.42,
+    "p_exclude": 0.58,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 3,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18078",
+    "prefLabel": "erythrocyte count",
+    "altLabels": [
+      "RBC count (red blood cell count)",
+      "RBC number (red blood cell number)",
+      "erythrocyte number",
+      "red blood cell count",
+      "red blood cell number"
+    ],
+    "displayName": "erythrocyte count (RBC count (red blood cell count), RBC number (red blood cell number), erythrocyte number, red blood cell count, red blood cell number)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/316659",
+    "prefLabel": "erythrocyte membrane",
+    "altLabels": [
+      "erythrocyte cytoskeleton",
+      "erythrocyte ghost",
+      "red blood cell membrane",
+      "red cell ghost"
+    ],
+    "displayName": "erythrocyte membrane (erythrocyte cytoskeleton, erythrocyte ghost, red blood cell membrane, red cell ghost)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18170",
+    "prefLabel": "erythrocyte sedimentation rate",
+    "altLabels": [
+      "blood sedimentation",
+      "blood sedimentation tests",
+      "erythrocyte sedimentation"
+    ],
+    "displayName": "erythrocyte sedimentation rate (blood sedimentation, blood sedimentation tests, erythrocyte sedimentation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/38116",
+    "prefLabel": "erythropoiesis",
+    "altLabels": [
+      "erythrocytopoiesis"
+    ],
+    "displayName": "erythropoiesis (erythrocytopoiesis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.66,
+    "p_exclude": 0.34,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23425",
+    "prefLabel": "exocytosis",
+    "altLabels": [],
+    "displayName": "exocytosis",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.7,
+    "p_exclude": 0.3,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/200593",
+    "prefLabel": "exoerythrocytic stage",
+    "altLabels": [
+      "exoerythrocyte stage"
+    ],
+    "displayName": "exoerythrocytic stage (exoerythrocyte stage)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.28,
+    "p_exclude": 0.72,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/24114",
+    "prefLabel": "female reproductive system",
+    "altLabels": [],
+    "displayName": "female reproductive system",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/40759",
+    "prefLabel": "foam cells",
+    "altLabels": [],
+    "displayName": "foam cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/28576",
+    "prefLabel": "gap junctions",
+    "altLabels": [],
+    "displayName": "gap junctions",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.8,
+    "p_exclude": 0.2,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/19698",
+    "prefLabel": "genetic lines",
+    "altLabels": [],
+    "displayName": "genetic lines",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.34,
+    "p_exclude": 0.66,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/285612",
+    "prefLabel": "glucagon-like peptide 2",
+    "altLabels": [
+      "glucagon-like peptide II"
+    ],
+    "displayName": "glucagon-like peptide 2 (glucagon-like peptide II)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/245231",
+    "prefLabel": "glucosephosphate dehydrogenase deficiency",
+    "altLabels": [
+      "G6PD deficiency"
+    ],
+    "displayName": "glucosephosphate dehydrogenase deficiency (G6PD deficiency)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/16036",
+    "prefLabel": "granulocytes",
+    "altLabels": [],
+    "displayName": "granulocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.86,
+    "p_exclude": 0.14,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/38091",
+    "prefLabel": "hematocrit",
+    "altLabels": [
+      "erythrocyte volume fraction",
+      "haematocrit",
+      "packed cell volume",
+      "packed erythrocyte volume",
+      "packed red-cell volume",
+      "pecked red cell volume"
+    ],
+    "displayName": "hematocrit (erythrocyte volume fraction, haematocrit, packed cell volume, packed erythrocyte volume, packed red-cell volume, pecked red cell volume)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.6,
+    "p_include": 0.2,
+    "p_exclude": 0.8,
+    "selected_probability": 0.8,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/750",
+    "prefLabel": "hemolysis",
+    "altLabels": [
+      "haemolysis"
+    ],
+    "displayName": "hemolysis (haemolysis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.1,
+    "p_include": 0.55,
+    "p_exclude": 0.45,
+    "selected_probability": 0.55,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23469",
+    "prefLabel": "hepatocytes",
+    "altLabels": [
+      "liver cells"
+    ],
+    "displayName": "hepatocytes (liver cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.77,
+    "p_exclude": 0.23,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/262486",
+    "prefLabel": "heterologous gene expression",
+    "altLabels": [
+      "heterologous protein expression",
+      "heterologous protein production"
+    ],
+    "displayName": "heterologous gene expression (heterologous protein expression, heterologous protein production)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.25,
+    "p_exclude": 0.75,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45636",
+    "prefLabel": "histiocytes",
+    "altLabels": [],
+    "displayName": "histiocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.78,
+    "p_exclude": 0.22,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23404",
+    "prefLabel": "hybridomas",
+    "altLabels": [],
+    "displayName": "hybridomas",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.44,
+    "p_include": 0.72,
+    "p_exclude": 0.28,
+    "selected_probability": 0.72,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/11247",
+    "prefLabel": "hypersensitive response",
+    "altLabels": [
+      "hypersensitive reaction",
+      "hypersensitivity (plants)",
+      "plant hypersensitivity"
+    ],
+    "displayName": "hypersensitive response (hypersensitive reaction, hypersensitivity (plants), plant hypersensitivity)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 4,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/293119",
+    "prefLabel": "intercellular adhesion molecule-1",
+    "altLabels": [
+      "CD54 antigens",
+      "ICAM-1 (intercellular adhesion molecule-1)"
+    ],
+    "displayName": "intercellular adhesion molecule-1 (CD54 antigens, ICAM-1 (intercellular adhesion molecule-1))",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.88,
+    "p_include": 0.06,
+    "p_exclude": 0.94,
+    "selected_probability": 0.94,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23362",
+    "prefLabel": "intercellular junctions",
+    "altLabels": [
+      "cell junctions"
+    ],
+    "displayName": "intercellular junctions (cell junctions)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/33580",
+    "prefLabel": "intestinal mucosa",
+    "altLabels": [
+      "intestinal epithelium"
+    ],
+    "displayName": "intestinal mucosa (intestinal epithelium)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23470",
+    "prefLabel": "keratinocytes",
+    "altLabels": [],
+    "displayName": "keratinocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/191274",
+    "prefLabel": "keratinosomes",
+    "altLabels": [
+      "Odland bodies",
+      "lamellar bodies",
+      "lamellar granules",
+      "membrane-coating granules"
+    ],
+    "displayName": "keratinosomes (Odland bodies, lamellar bodies, lamellar granules, membrane-coating granules)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.75,
+    "p_exclude": 0.25,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23471",
+    "prefLabel": "kidney cells",
+    "altLabels": [
+      "renal cells"
+    ],
+    "displayName": "kidney cells (renal cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.62,
+    "p_exclude": 0.38,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/48601",
+    "prefLabel": "Kupffer cells",
+    "altLabels": [],
+    "displayName": "Kupffer cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32273",
+    "prefLabel": "Langerhans cells",
+    "altLabels": [],
+    "displayName": "Langerhans cells",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.89,
+    "p_exclude": 0.11,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18079",
+    "prefLabel": "leukocyte count",
+    "altLabels": [
+      "WBC count",
+      "WBC count (white blood cell count)",
+      "WBC number",
+      "WBC number (white blood cell number)",
+      "differential leucocyte count",
+      "differential leukocyte count",
+      "leucocyte count",
+      "leucocyte number",
+      "leukocyte number",
+      "white blood cell count",
+      "white blood cell number"
+    ],
+    "displayName": "leukocyte count (WBC count, WBC count (white blood cell count), WBC number, WBC number (white blood cell number), differential leucocyte count, differential leukocyte count, leucocyte count, leucocyte number, leukocyte number, white blood cell count, white blood cell number)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/39763",
+    "prefLabel": "leukopenia",
+    "altLabels": [
+      "leukocytopenia"
+    ],
+    "displayName": "leukopenia (leukocytopenia)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/261791",
+    "prefLabel": "lipotoxicity",
+    "altLabels": [],
+    "displayName": "lipotoxicity",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.8,
+    "p_include": 0.1,
+    "p_exclude": 0.9,
+    "selected_probability": 0.9,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/46969",
+    "prefLabel": "macrophage activation",
+    "altLabels": [],
+    "displayName": "macrophage activation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.5,
+    "p_include": 0.75,
+    "p_exclude": 0.25,
+    "selected_probability": 0.75,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/20336",
+    "prefLabel": "male reproductive system",
+    "altLabels": [
+      "gubernaculum"
+    ],
+    "displayName": "male reproductive system (gubernaculum)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42262",
+    "prefLabel": "megasporogenesis",
+    "altLabels": [],
+    "displayName": "megasporogenesis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/51962",
+    "prefLabel": "melanin",
+    "altLabels": [],
+    "displayName": "melanin",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/51963",
+    "prefLabel": "melanization",
+    "altLabels": [
+      "melanisation"
+    ],
+    "displayName": "melanization (melanisation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.74,
+    "p_include": 0.13,
+    "p_exclude": 0.87,
+    "selected_probability": 0.87,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/204398",
+    "prefLabel": "melanogenesis",
+    "altLabels": [],
+    "displayName": "melanogenesis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.23,
+    "p_exclude": 0.77,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23426",
+    "prefLabel": "membrane fluidity",
+    "altLabels": [],
+    "displayName": "membrane fluidity",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.08,
+    "p_include": 0.54,
+    "p_exclude": 0.46,
+    "selected_probability": 0.54,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/217597",
+    "prefLabel": "membrane fusion",
+    "altLabels": [],
+    "displayName": "membrane fusion",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23427",
+    "prefLabel": "membrane permeability",
+    "altLabels": [
+      "cell membrane permeability"
+    ],
+    "displayName": "membrane permeability (cell membrane permeability)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.68,
+    "p_exclude": 0.32,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 5,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/206574",
+    "prefLabel": "metabolic engineering",
+    "altLabels": [],
+    "displayName": "metabolic engineering",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.78,
+    "p_include": 0.11,
+    "p_exclude": 0.89,
+    "selected_probability": 0.89,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/309754",
+    "prefLabel": "micronucleus tests",
+    "altLabels": [
+      "bone marrow micronucleus assay",
+      "bone marrow micronucleus test",
+      "micronucleus assay"
+    ],
+    "displayName": "micronucleus tests (bone marrow micronucleus assay, bone marrow micronucleus test, micronucleus assay)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.15,
+    "p_exclude": 0.85,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42263",
+    "prefLabel": "microsporogenesis",
+    "altLabels": [],
+    "displayName": "microsporogenesis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53154",
+    "prefLabel": "mitochondria",
+    "altLabels": [],
+    "displayName": "mitochondria",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.12,
+    "p_exclude": 0.88,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/296511",
+    "prefLabel": "mitochondrial turnover",
+    "altLabels": [],
+    "displayName": "mitochondrial turnover",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.4,
+    "p_exclude": 0.6,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/146660",
+    "prefLabel": "mononuclear leukocytes",
+    "altLabels": [
+      "PBMC (peripheral blood mononuclear cells)",
+      "peripheral blood mononuclear cells",
+      "peripheral blood mononuclear leukocytes"
+    ],
+    "displayName": "mononuclear leukocytes (PBMC (peripheral blood mononuclear cells), peripheral blood mononuclear cells, peripheral blood mononuclear leukocytes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.91,
+    "p_exclude": 0.09,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23407",
+    "prefLabel": "mucosa",
+    "altLabels": [
+      "mucous membrane",
+      "mucous membranes"
+    ],
+    "displayName": "mucosa (mucous membrane, mucous membranes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/22397",
+    "prefLabel": "myocardium",
+    "altLabels": [
+      "cardiac muscle"
+    ],
+    "displayName": "myocardium (cardiac muscle)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.62,
+    "p_include": 0.19,
+    "p_exclude": 0.81,
+    "selected_probability": 0.81,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/53774",
+    "prefLabel": "myofibrils",
+    "altLabels": [
+      "muscle fibrils",
+      "myofilaments"
+    ],
+    "displayName": "myofibrils (muscle fibrils, myofilaments)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.4,
+    "p_include": 0.3,
+    "p_exclude": 0.7,
+    "selected_probability": 0.7,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/307372",
+    "prefLabel": "necroptosis",
+    "altLabels": [
+      "programmed necrosis"
+    ],
+    "displayName": "necroptosis (programmed necrosis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.7,
+    "p_include": 0.85,
+    "p_exclude": 0.15,
+    "selected_probability": 0.85,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/761",
+    "prefLabel": "necrosis",
+    "altLabels": [
+      "necroses"
+    ],
+    "displayName": "necrosis (necroses)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.12,
+    "p_include": 0.56,
+    "p_exclude": 0.44,
+    "selected_probability": 0.56,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14269",
+    "prefLabel": "nerve fibers",
+    "altLabels": [
+      "nerve fibres",
+      "peduncle (nerves)"
+    ],
+    "displayName": "nerve fibers (nerve fibres, peduncle (nerves))",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.08,
+    "p_exclude": 0.92,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/8977",
+    "prefLabel": "nervous system",
+    "altLabels": [],
+    "displayName": "nervous system",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/317858",
+    "prefLabel": "neural stem cells",
+    "altLabels": [
+      "neural progenitor cells"
+    ],
+    "displayName": "neural stem cells (neural progenitor cells)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.95,
+    "p_exclude": 0.05,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/14270",
+    "prefLabel": "neurites",
+    "altLabels": [],
+    "displayName": "neurites",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9559",
+    "prefLabel": "nonanimal tests",
+    "altLabels": [
+      "non-animal tests"
+    ],
+    "displayName": "nonanimal tests (non-animal tests)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.21,
+    "p_exclude": 0.79,
+    "selected_probability": 0.79,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/87584",
+    "prefLabel": "oligodendroglia",
+    "altLabels": [
+      "oligodendrocytes"
+    ],
+    "displayName": "oligodendroglia (oligodendrocytes)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42877",
+    "prefLabel": "oocytes",
+    "altLabels": [],
+    "displayName": "oocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.71,
+    "p_exclude": 0.29,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9479",
+    "prefLabel": "oogenesis",
+    "altLabels": [
+      "egg formation"
+    ],
+    "displayName": "oogenesis (egg formation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.9,
+    "p_include": 0.05,
+    "p_exclude": 0.95,
+    "selected_probability": 0.95,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/55919",
+    "prefLabel": "oogonia",
+    "altLabels": [],
+    "displayName": "oogonia",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.2,
+    "p_include": 0.6,
+    "p_exclude": 0.4,
+    "selected_probability": 0.6,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 6,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/827",
+    "prefLabel": "ovicides",
+    "altLabels": [],
+    "displayName": "ovicides",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9480",
+    "prefLabel": "ovipary",
+    "altLabels": [
+      "oviparity",
+      "oviparous"
+    ],
+    "displayName": "ovipary (oviparity, oviparous)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.17,
+    "p_exclude": 0.83,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9481",
+    "prefLabel": "oviposition",
+    "altLabels": [
+      "egg laying"
+    ],
+    "displayName": "oviposition (egg laying)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9482",
+    "prefLabel": "ovulation",
+    "altLabels": [],
+    "displayName": "ovulation",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23428",
+    "prefLabel": "plasmolysis",
+    "altLabels": [],
+    "displayName": "plasmolysis",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.66,
+    "p_include": 0.83,
+    "p_exclude": 0.17,
+    "selected_probability": 0.83,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/45050",
+    "prefLabel": "polycythemia",
+    "altLabels": [
+      "erythrocytosis"
+    ],
+    "displayName": "polycythemia (erythrocytosis)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/261849",
+    "prefLabel": "pro-apoptotic proteins",
+    "altLabels": [
+      "anti-apoptotic proteins",
+      "apoptosis inducing proteins"
+    ],
+    "displayName": "pro-apoptotic proteins (anti-apoptotic proteins, apoptosis inducing proteins)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/89615",
+    "prefLabel": "programmed cell death",
+    "altLabels": [],
+    "displayName": "programmed cell death",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.99,
+    "p_exclude": 0.01,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23378",
+    "prefLabel": "protoplast fusion",
+    "altLabels": [],
+    "displayName": "protoplast fusion",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.53,
+    "p_exclude": 0.47,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/7283",
+    "prefLabel": "pulmonary alveoli",
+    "altLabels": [],
+    "displayName": "pulmonary alveoli",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/327976",
+    "prefLabel": "pyroptosis",
+    "altLabels": [
+      "pyroptotic cell death"
+    ],
+    "displayName": "pyroptosis (pyroptotic cell death)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.97,
+    "p_exclude": 0.03,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/298136",
+    "prefLabel": "respiratory burst",
+    "altLabels": [],
+    "displayName": "respiratory burst",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.18,
+    "p_include": 0.41,
+    "p_exclude": 0.59,
+    "selected_probability": 0.59,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/202662",
+    "prefLabel": "respiratory mucosa",
+    "altLabels": [
+      "respiratory epithelium"
+    ],
+    "displayName": "respiratory mucosa (respiratory epithelium)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/38093",
+    "prefLabel": "reticulocytes",
+    "altLabels": [],
+    "displayName": "reticulocytes",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.82,
+    "p_exclude": 0.18,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/264024",
+    "prefLabel": "RNA packaging",
+    "altLabels": [
+      "mRNA packaging"
+    ],
+    "displayName": "RNA packaging (mRNA packaging)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/61633",
+    "prefLabel": "root cap",
+    "altLabels": [
+      "plant root cap"
+    ],
+    "displayName": "root cap (plant root cap)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.16,
+    "p_include": 0.42,
+    "p_exclude": 0.58,
+    "selected_probability": 0.58,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/4425",
+    "prefLabel": "roots",
+    "altLabels": [
+      "plant roots"
+    ],
+    "displayName": "roots (plant roots)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/18324",
+    "prefLabel": "semen",
+    "altLabels": [],
+    "displayName": "semen",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.98,
+    "p_include": 0.01,
+    "p_exclude": 0.99,
+    "selected_probability": 0.99,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9034",
+    "prefLabel": "semen banks",
+    "altLabels": [
+      "sperm banks"
+    ],
+    "displayName": "semen banks (sperm banks)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/241657",
+    "prefLabel": "skin neoplasms",
+    "altLabels": [
+      "skin cancer",
+      "skin tumors",
+      "skin tumours"
+    ],
+    "displayName": "skin neoplasms (skin cancer, skin tumors, skin tumours)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.94,
+    "p_include": 0.03,
+    "p_exclude": 0.97,
+    "selected_probability": 0.97,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 7,
+    "candidate_number": 20,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/38094",
+    "prefLabel": "spectrin",
+    "altLabels": [],
+    "displayName": "spectrin",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.04,
+    "p_exclude": 0.96,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9460",
+    "prefLabel": "sperm capacitation",
+    "altLabels": [
+      "capacitation of sperm",
+      "capacitation of spermatozoa",
+      "cryocapacitation",
+      "sperm activation",
+      "sperm hyperactivation"
+    ],
+    "displayName": "sperm capacitation (capacitation of sperm, capacitation of spermatozoa, cryocapacitation, sperm activation, sperm hyperactivation)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.34,
+    "p_include": 0.33,
+    "p_exclude": 0.67,
+    "selected_probability": 0.67,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 2,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47567",
+    "prefLabel": "sperm competition",
+    "altLabels": [],
+    "displayName": "sperm competition",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.46,
+    "p_include": 0.27,
+    "p_exclude": 0.73,
+    "selected_probability": 0.73,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 3,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/198414",
+    "prefLabel": "sperm concentration",
+    "altLabels": [
+      "concentration of sperm",
+      "concentration of spermatozoa",
+      "spermatic concentration",
+      "spermatozoa concentration"
+    ],
+    "displayName": "sperm concentration (concentration of sperm, concentration of spermatozoa, spermatic concentration, spermatozoa concentration)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.56,
+    "p_include": 0.22,
+    "p_exclude": 0.78,
+    "selected_probability": 0.78,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 4,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/9490",
+    "prefLabel": "sperm motility",
+    "altLabels": [
+      "spermatozoa motility",
+      "spermatozoal motility"
+    ],
+    "displayName": "sperm motility (spermatozoa motility, spermatozoal motility)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.04,
+    "p_include": 0.48,
+    "p_exclude": 0.52,
+    "selected_probability": 0.52,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 5,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/296215",
+    "prefLabel": "sperm quality",
+    "altLabels": [
+      "sperm characteristics",
+      "sperm characters",
+      "spermatozoa quality"
+    ],
+    "displayName": "sperm quality (sperm characteristics, sperm characters, spermatozoa quality)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.29,
+    "p_exclude": 0.71,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 6,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/42264",
+    "prefLabel": "spermatogenesis",
+    "altLabels": [],
+    "displayName": "spermatogenesis",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.24,
+    "p_include": 0.38,
+    "p_exclude": 0.62,
+    "selected_probability": 0.62,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 7,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/47405",
+    "prefLabel": "spermatophores",
+    "altLabels": [],
+    "displayName": "spermatophores",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.26,
+    "p_include": 0.37,
+    "p_exclude": 0.63,
+    "selected_probability": 0.63,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 8,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/323012",
+    "prefLabel": "spermatozeugmata",
+    "altLabels": [
+      "sperm bundles"
+    ],
+    "displayName": "spermatozeugmata (sperm bundles)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.02,
+    "p_include": 0.51,
+    "p_exclude": 0.49,
+    "selected_probability": 0.51,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 9,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23484",
+    "prefLabel": "stem cells",
+    "altLabels": [
+      "progenitor cells"
+    ],
+    "displayName": "stem cells (progenitor cells)",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.84,
+    "p_include": 0.92,
+    "p_exclude": 0.08,
+    "selected_probability": 0.92,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 10,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/190298",
+    "prefLabel": "suicide genes",
+    "altLabels": [],
+    "displayName": "suicide genes",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.36,
+    "p_include": 0.32,
+    "p_exclude": 0.68,
+    "selected_probability": 0.68,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 11,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/23197",
+    "prefLabel": "T-lymphocytes",
+    "altLabels": [
+      "T cells",
+      "T lymphocytes",
+      "T-cells"
+    ],
+    "displayName": "T-lymphocytes (T cells, T lymphocytes, T-cells)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.0,
+    "p_include": 0.5,
+    "p_exclude": 0.5,
+    "selected_probability": 0.5,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 12,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/206572",
+    "prefLabel": "tissue engineering",
+    "altLabels": [],
+    "displayName": "tissue engineering",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.32,
+    "p_include": 0.34,
+    "p_exclude": 0.66,
+    "selected_probability": 0.66,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 13,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/32916",
+    "prefLabel": "trophozoites",
+    "altLabels": [],
+    "displayName": "trophozoites",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.72,
+    "p_include": 0.14,
+    "p_exclude": 0.86,
+    "selected_probability": 0.86,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 14,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/199112",
+    "prefLabel": "troponin T",
+    "altLabels": [
+      "troponin T1",
+      "troponin T2"
+    ],
+    "displayName": "troponin T (troponin T1, troponin T2)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.82,
+    "p_include": 0.09,
+    "p_exclude": 0.91,
+    "selected_probability": 0.91,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 15,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/261837",
+    "prefLabel": "tumor suppressor protein p53",
+    "altLabels": [
+      "TRP53 protein",
+      "oncoprotein p53",
+      "p53 antigen"
+    ],
+    "displayName": "tumor suppressor protein p53 (TRP53 protein, oncoprotein p53, p53 antigen)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.07,
+    "p_exclude": 0.93,
+    "selected_probability": 0.93,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 16,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/56077",
+    "prefLabel": "vacuoles",
+    "altLabels": [
+      "vacuolar compartments"
+    ],
+    "displayName": "vacuoles (vacuolar compartments)",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "INCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.82,
+    "p_exclude": 0.18,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 17,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/231401",
+    "prefLabel": "ventral receptacle",
+    "altLabels": [],
+    "displayName": "ventral receptacle",
+    "relations": [
+      "skos:related"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.31,
+    "p_exclude": 0.69,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 18,
+    "response_model": "gpt-6-luna"
+  },
+  {
+    "uri": "https://lod.nal.usda.gov/nalt/56390",
+    "prefLabel": "zona pellucida",
+    "altLabels": [],
+    "displayName": "zona pellucida",
+    "relations": [
+      "skos:broader",
+      "skos:narrower"
+    ],
+    "classification": "EXCLUDE",
+    "confidence": 0.64,
+    "p_include": 0.18,
+    "p_exclude": 0.82,
+    "selected_probability": 0.82,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 8,
+    "candidate_number": 19,
+    "response_model": "gpt-6-luna"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row5114",
+    "legacy_row_id": "Q18211976|Q428069",
+    "seed_qid": "Q18211976",
+    "seed_label": "nickel-cadmium",
+    "qid": "Q428069",
+    "label": "intermetallic",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q18211976",
+    "parent_label": "nickel-cadmium",
+    "path": "nickel-cadmium --instance of--> intermetallic",
+    "uri": "http://www.wikidata.org/entity/Q428069",
+    "classification": "INCLUDE",
+    "confidence": 0.54,
+    "p_include": 0.77,
+    "p_exclude": 0.23,
+    "selected_probability": 0.77,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

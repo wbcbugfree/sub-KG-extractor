@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q244030",
+  "seed_label": "Diablo III",
+  "included_qids": [
+    "Q244030",
+    "Q4485157",
+    "Q6561427",
+    "Q6895044",
+    "Q7889"
+  ],
+  "pruned_qids": [
+    "Q54767",
+    "Q78444225"
+  ],
+  "visited_qids": [
+    "Q244030",
+    "Q4485157",
+    "Q54767",
+    "Q6561427",
+    "Q6895044",
+    "Q78444225",
+    "Q7889"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 3,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:40.851324+00:00",
+  "finished_at_utc": "2026-10-28T17:23:41.618087+00:00",
+  "wall_seconds": 0.7667617999977665,
+  "frontier_exhausted": true
+}

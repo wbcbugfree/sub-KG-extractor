@@ -1,0 +1,83 @@
+{
+  "seed_qid": "Q2813",
+  "seed_label": "Coca-Cola",
+  "included_qids": [
+    "Q1104949",
+    "Q12311058",
+    "Q134041",
+    "Q147538",
+    "Q1815345",
+    "Q2300409",
+    "Q28127283",
+    "Q2813",
+    "Q41084",
+    "Q431289",
+    "Q50425277",
+    "Q59185742",
+    "Q623561",
+    "Q896",
+    "Q937783"
+  ],
+  "pruned_qids": [
+    "Q19799634",
+    "Q20888692",
+    "Q264554",
+    "Q5759783",
+    "Q5873161",
+    "Q97322777",
+    "Q98579904"
+  ],
+  "visited_qids": [
+    "Q1104949",
+    "Q12311058",
+    "Q134041",
+    "Q147538",
+    "Q1815345",
+    "Q19799634",
+    "Q20888692",
+    "Q2300409",
+    "Q264554",
+    "Q28127283",
+    "Q2813",
+    "Q41084",
+    "Q431289",
+    "Q50425277",
+    "Q5759783",
+    "Q5873161",
+    "Q59185742",
+    "Q623561",
+    "Q896",
+    "Q937783",
+    "Q97322777",
+    "Q98579904"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 15,
+      "included": 8,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:23.734255+00:00",
+  "finished_at_utc": "2026-10-28T16:30:24.689366+00:00",
+  "wall_seconds": 0.9551121000040439,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q49108",
+  "seed_label": "Massachusetts Institute of Technology",
+  "included_qids": [
+    "Q1371037",
+    "Q23002054",
+    "Q3918",
+    "Q49108",
+    "Q845392"
+  ],
+  "pruned_qids": [
+    "Q1143413",
+    "Q1770557",
+    "Q5690751",
+    "Q6082807"
+  ],
+  "visited_qids": [
+    "Q1143413",
+    "Q1371037",
+    "Q1770557",
+    "Q23002054",
+    "Q3918",
+    "Q49108",
+    "Q5690751",
+    "Q6082807",
+    "Q845392"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:42:15.433096+00:00",
+  "finished_at_utc": "2026-10-28T16:42:16.076043+00:00",
+  "wall_seconds": 0.6429510999878403,
+  "frontier_exhausted": true
+}

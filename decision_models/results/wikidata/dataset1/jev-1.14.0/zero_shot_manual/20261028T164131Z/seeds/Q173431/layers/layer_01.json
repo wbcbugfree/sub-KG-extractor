@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row1894",
+    "legacy_row_id": "Q173431|Q80831",
+    "seed_qid": "Q173431",
+    "seed_label": "CMOS",
+    "qid": "Q80831",
+    "label": "integrated circuit",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q173431",
+    "parent_label": "CMOS",
+    "path": "CMOS --instance of--> integrated circuit",
+    "uri": "http://www.wikidata.org/entity/Q80831",
+    "classification": "INCLUDE",
+    "confidence": 0.76,
+    "p_include": 0.88,
+    "p_exclude": 0.12,
+    "selected_probability": 0.88,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

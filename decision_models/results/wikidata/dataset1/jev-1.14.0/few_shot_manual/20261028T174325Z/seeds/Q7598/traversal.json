@@ -1,0 +1,28 @@
+{
+  "seed_qid": "Q7598",
+  "seed_label": "GNU Project",
+  "included_qids": [
+    "Q109860256",
+    "Q7598"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q109860256",
+    "Q7598"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:44:19.761562+00:00",
+  "finished_at_utc": "2026-10-28T17:44:20.110623+00:00",
+  "wall_seconds": 0.34905869999784045,
+  "frontier_exhausted": true
+}

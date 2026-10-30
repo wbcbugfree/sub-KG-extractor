@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row19",
+    "legacy_row_id": "Q364|Q2910253",
+    "seed_qid": "Q364",
+    "seed_label": "GitHub",
+    "qid": "Q2910253",
+    "label": "Torah database",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q5227240",
+    "parent_label": "data library",
+    "path": "GitHub --instance of--> data library --has subclass--> Torah database",
+    "uri": "http://www.wikidata.org/entity/Q2910253",
+    "classification": "EXCLUDE",
+    "confidence": 0.06,
+    "p_include": 0.47,
+    "p_exclude": 0.53,
+    "selected_probability": 0.53,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

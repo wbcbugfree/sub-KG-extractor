@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q173431",
+  "seed_label": "CMOS",
+  "included_qids": [
+    "Q1562860",
+    "Q173431",
+    "Q80831"
+  ],
+  "pruned_qids": [
+    "Q583531"
+  ],
+  "visited_qids": [
+    "Q1562860",
+    "Q173431",
+    "Q583531",
+    "Q80831"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 2,
+      "included": 1,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:42.800287+00:00",
+  "finished_at_utc": "2026-10-28T17:43:43.403448+00:00",
+  "wall_seconds": 0.6031616999971448,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,63 @@
+{
+  "seed_qid": "Q11770767",
+  "seed_label": "Still life with coffee pot  dishes and fruit",
+  "included_qids": [
+    "Q103479",
+    "Q10732476",
+    "Q11770767",
+    "Q26221124",
+    "Q28146931"
+  ],
+  "pruned_qids": [
+    "Q104599828",
+    "Q17378135",
+    "Q18939491",
+    "Q2041543",
+    "Q214917",
+    "Q36180",
+    "Q4164507",
+    "Q4532138",
+    "Q49757"
+  ],
+  "visited_qids": [
+    "Q103479",
+    "Q104599828",
+    "Q10732476",
+    "Q11770767",
+    "Q17378135",
+    "Q18939491",
+    "Q2041543",
+    "Q214917",
+    "Q26221124",
+    "Q28146931",
+    "Q36180",
+    "Q40348",
+    "Q4164507",
+    "Q4532138",
+    "Q49757",
+    "Q61662",
+    "Q94840511"
+  ],
+  "bridge_nodes_traversed": 3,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 10,
+      "included": 4,
+      "excluded": 6,
+      "bridge_nodes_traversed": 1
+    },
+    {
+      "iteration": 2,
+      "evaluated": 3,
+      "included": 0,
+      "excluded": 3,
+      "bridge_nodes_traversed": 2
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:25:49.752725+00:00",
+  "finished_at_utc": "2026-10-28T17:25:51.269038+00:00",
+  "wall_seconds": 1.5163190000021132,
+  "frontier_exhausted": true
+}

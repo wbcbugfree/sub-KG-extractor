@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q178051",
+  "seed_label": "Portable Network Graphics",
+  "included_qids": [
+    "Q105599390",
+    "Q15087423",
+    "Q178051",
+    "Q412438",
+    "Q55542"
+  ],
+  "pruned_qids": [
+    "Q17154458",
+    "Q192869",
+    "Q215106",
+    "Q26329975",
+    "Q39333",
+    "Q62617958",
+    "Q654383"
+  ],
+  "visited_qids": [
+    "Q105599390",
+    "Q15087423",
+    "Q17154458",
+    "Q178051",
+    "Q192869",
+    "Q215106",
+    "Q26329975",
+    "Q39333",
+    "Q412438",
+    "Q55542",
+    "Q62617958",
+    "Q654383"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 4,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 7,
+      "included": 0,
+      "excluded": 7,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:48.899408+00:00",
+  "finished_at_utc": "2026-10-28T16:41:49.558928+00:00",
+  "wall_seconds": 0.6595229000085965,
+  "frontier_exhausted": true
+}

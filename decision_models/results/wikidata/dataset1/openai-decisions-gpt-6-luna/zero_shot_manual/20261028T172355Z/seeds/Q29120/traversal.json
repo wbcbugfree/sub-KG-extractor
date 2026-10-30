@@ -1,0 +1,52 @@
+{
+  "seed_qid": "Q29120",
+  "seed_label": "Apache Hadoop",
+  "included_qids": [
+    "Q110647054",
+    "Q1330336",
+    "Q271680",
+    "Q29120",
+    "Q341"
+  ],
+  "pruned_qids": [
+    "Q20983788",
+    "Q388",
+    "Q39999225",
+    "Q67650225",
+    "Q7935188"
+  ],
+  "visited_qids": [
+    "Q110647054",
+    "Q1330336",
+    "Q20983788",
+    "Q271680",
+    "Q29120",
+    "Q341",
+    "Q388",
+    "Q39999225",
+    "Q67650225",
+    "Q7935188"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 7,
+      "included": 2,
+      "excluded": 5,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:39.754061+00:00",
+  "finished_at_utc": "2026-10-28T17:24:40.538344+00:00",
+  "wall_seconds": 0.7842797999910545,
+  "frontier_exhausted": true
+}

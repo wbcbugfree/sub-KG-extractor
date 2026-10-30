@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q334765",
+  "seed_label": "hotspot",
+  "included_qids": [
+    "Q326717",
+    "Q334765",
+    "Q3407440",
+    "Q614362"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q326717",
+    "Q334765",
+    "Q3407440",
+    "Q614362"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 3,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 3,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:45:57.090030+00:00",
+  "finished_at_utc": "2026-10-28T17:45:58.619598+00:00",
+  "wall_seconds": 1.5295896000025095,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q188816",
+  "seed_label": "Lightweight Directory Access Protocol",
+  "included_qids": [
+    "Q1422324",
+    "Q15836568",
+    "Q188816",
+    "Q203087",
+    "Q2622793",
+    "Q28380029",
+    "Q3359815",
+    "Q756230",
+    "Q8777",
+    "Q96473852"
+  ],
+  "pruned_qids": [
+    "Q1417548",
+    "Q5013874"
+  ],
+  "visited_qids": [
+    "Q1417548",
+    "Q1422324",
+    "Q15836568",
+    "Q188816",
+    "Q203087",
+    "Q2622793",
+    "Q28380029",
+    "Q3359815",
+    "Q5013874",
+    "Q756230",
+    "Q8777",
+    "Q96473852"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 7,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:21.622259+00:00",
+  "finished_at_utc": "2026-10-28T17:24:22.451408+00:00",
+  "wall_seconds": 0.8291509999980917,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,40 @@
+{
+  "seed_qid": "Q133215",
+  "seed_label": "casino",
+  "included_qids": [
+    "Q133215",
+    "Q16852719",
+    "Q32350958",
+    "Q655686",
+    "Q6664710",
+    "Q7279719",
+    "Q7338100",
+    "Q770881"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q133215",
+    "Q16852719",
+    "Q32350958",
+    "Q655686",
+    "Q6664710",
+    "Q7279719",
+    "Q7338100",
+    "Q770881"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 7,
+      "included": 7,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:01.816876+00:00",
+  "finished_at_utc": "2026-10-28T17:43:02.117883+00:00",
+  "wall_seconds": 0.3010159000114072,
+  "frontier_exhausted": true
+}

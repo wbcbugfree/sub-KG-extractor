@@ -1,0 +1,46 @@
+{
+  "seed_qid": "Q180204",
+  "seed_label": "shampoo",
+  "included_qids": [
+    "Q11108449",
+    "Q11322916",
+    "Q180204",
+    "Q4838457",
+    "Q50430027"
+  ],
+  "pruned_qids": [
+    "Q599755",
+    "Q791930"
+  ],
+  "visited_qids": [
+    "Q11108449",
+    "Q11322916",
+    "Q180204",
+    "Q4838457",
+    "Q50430027",
+    "Q599755",
+    "Q791930"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 5,
+      "included": 3,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:30:21.372482+00:00",
+  "finished_at_utc": "2026-10-28T16:30:21.946726+00:00",
+  "wall_seconds": 0.5742456999942078,
+  "frontier_exhausted": true
+}

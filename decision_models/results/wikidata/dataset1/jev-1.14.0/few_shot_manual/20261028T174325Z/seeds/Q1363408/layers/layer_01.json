@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row387",
+    "legacy_row_id": "Q1363408|Q2674461",
+    "seed_qid": "Q1363408",
+    "seed_label": "5G",
+    "qid": "Q2674461",
+    "label": "mobile phone generation",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1363408",
+    "parent_label": "5G",
+    "path": "5G --instance of--> mobile phone generation",
+    "uri": "http://www.wikidata.org/entity/Q2674461",
+    "classification": "INCLUDE",
+    "confidence": 0.86,
+    "p_include": 0.93,
+    "p_exclude": 0.07,
+    "selected_probability": 0.93,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

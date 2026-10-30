@@ -1,0 +1,297 @@
+uri,prefLabel,altLabels,classification,p_include,p_exclude,selected_probability,provider_confidence,decision_source,iteration,batch,candidate_number,response_model,in_hierarchy_gold,scored,relations
+https://lod.nal.usda.gov/nalt/162,botany,,EXCLUDE,0.0,1.0,1.0,1.0,jev,1,1,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17518,crop biosecurity,,EXCLUDE,0.31,0.69,0.69,0.38,jev,1,1,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/284,disease and pest management,,EXCLUDE,0.07,0.93,0.93,0.86,jev,1,1,8,jev-1.14.0,False,False,skos:related
+https://lod.nal.usda.gov/nalt/290,disease control,disease management; disease suppression; infection control; pathogen suppression,EXCLUDE,0.09,0.91,0.91,0.82,jev,1,1,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9121,disease models,,EXCLUDE,0.08,0.92,0.92,0.84,jev,1,1,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/67893,disease-free plants,disease free plants; germ free plants; germ-free plants; germfree plants; germfree state (plants); pathogen free plants; pathogen-free plants,EXCLUDE,0.01,0.99,0.99,0.98,jev,1,1,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136950,etiological agents,aetiological agents; disease-causing agents,EXCLUDE,0.15,0.85,0.85,0.7,jev,1,1,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41128,forest health,,EXCLUDE,0.49,0.51,0.51,0.02,jev,1,1,15,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/495,fungi,fungal organisms; macrofungi; microfungi,EXCLUDE,0.0,1.0,1.0,1.0,jev,1,1,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/253146,hail nets,anti-hail nets; hailnets,EXCLUDE,0.18,0.82,0.82,0.64,jev,1,2,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/123142,herbicide safeners,herbicide antagonists; herbicide antidotes,EXCLUDE,0.07,0.93,0.93,0.86,jev,1,2,3,jev-1.14.0,False,False,skos:related
+https://lod.nal.usda.gov/nalt/15154,infectious diseases,communicable diseases,EXCLUDE,0.0,1.0,1.0,1.0,jev,1,2,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/329,infectious diseases and infestations,,EXCLUDE,0.15,0.85,0.85,0.7,jev,1,2,7,jev-1.14.0,False,False,skos:related
+https://lod.nal.usda.gov/nalt/284231,leaf wetness,,EXCLUDE,0.17,0.83,0.83,0.66,jev,1,2,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/330,noninfectious diseases,noncommunicable diseases,EXCLUDE,0.17,0.83,0.83,0.66,jev,1,2,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/291,pest control,,EXCLUDE,0.02,0.98,0.98,0.96,jev,1,2,11,jev-1.14.0,False,False,skos:related
+https://lod.nal.usda.gov/nalt/142532,plant disease resistance,,EXCLUDE,0.03,0.97,0.97,0.94,jev,1,2,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8933,plant parasitic nematodes,parasitic nematodes (plants); phytonematodes; phytoparasitic nematodes; phytopathogenic nematodes; plant nematodes,EXCLUDE,0.08,0.92,0.92,0.84,jev,1,2,15,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17605,plant pests,crop pests; pests of plants; phytophagous pests; tree pests,EXCLUDE,0.15,0.85,0.85,0.7,jev,1,2,16,jev-1.14.0,True,False,skos:related
+https://lod.nal.usda.gov/nalt/58572,plant viruses,,EXCLUDE,0.26,0.74,0.74,0.48,jev,1,2,18,jev-1.14.0,True,False,skos:related
+https://lod.nal.usda.gov/nalt/68395,plant-incorporated protectants,PIPs (plant incorporated protectants); plant incorporated protectants,EXCLUDE,0.25,0.75,0.75,0.5,jev,1,2,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/729,abiotic stress,abiotic injuries; environmental stress (on organisms),EXCLUDE,0.3,0.7,0.7,0.4,jev,2,1,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8545,bacterial infections,animal bacterial diseases; animal bacterial infections; bacterial diseases of animals; bacterial infections of animals; bacterioses; human bacterial diseases,EXCLUDE,0.0,1.0,1.0,1.0,jev,2,1,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/942,blight,,EXCLUDE,0.44,0.56,0.56,0.12,jev,2,2,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/222403,bud sport,plant sport,EXCLUDE,0.16,0.84,0.84,0.68,jev,2,2,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/21812,Candidatus Liberibacter,Candidatus Liberobacter; Liberibacter; Liberobacter,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,2,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/234078,Cicadulina bipunctata,maize orange leafhopper,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,2,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/302009,debarking,bark removal; timber debarking; wood barking; wood debarking,EXCLUDE,0.0,1.0,1.0,1.0,jev,2,3,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/150,decay resistance,,EXCLUDE,0.06,0.94,0.94,0.88,jev,2,3,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/12578,defoliation,artificial defoliation; simulated defoliation,EXCLUDE,0.39,0.61,0.61,0.22,jev,2,3,11,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12935,Diaphorina citri,Asian citrus psylla; Asian citrus psyllid,EXCLUDE,0.0,1.0,1.0,1.0,jev,2,3,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/28021,discoloration,discolouration,EXCLUDE,0.14,0.86,0.86,0.72,jev,2,3,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/36798,embolism,embolus,EXCLUDE,0.3,0.7,0.7,0.4,jev,2,3,17,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/40266,fire scars,,EXCLUDE,0.42,0.58,0.58,0.16,jev,2,4,4,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/302253,foliage plants,,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,4,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17374,food spoilage,food decay; food degradation; food deterioration; staling (food),EXCLUDE,0.01,0.99,0.99,0.98,jev,2,4,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41656,fruit crops,,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,4,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/298654,fungicide use reduction,fungicide reduction; fungicide usage reduction,EXCLUDE,0.06,0.94,0.94,0.88,jev,2,4,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/34962,growth retardation,growth inhibition; growth reduction; stunting,EXCLUDE,0.49,0.51,0.51,0.02,jev,2,4,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/924,hypoxia,anoxia; cell hypoxia; hypoxemia; oxygen deficiency; tissue hypoxia,EXCLUDE,0.12,0.88,0.88,0.76,jev,2,5,5,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/51068,Macrophomina phaseolina,Macrophomina phaseoli; Rhizoctonia bataticola; Sclerotium bataticola,EXCLUDE,0.02,0.98,0.98,0.96,jev,2,5,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17905,Magnaporthe grisea,Ceratosphaeria grisea; Pyricularia grisea,EXCLUDE,0.0,1.0,1.0,1.0,jev,2,6,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/200534,Magnaporthe oryzae,Pyricularia oryzae,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,6,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/34451,mildews,,EXCLUDE,0.31,0.69,0.69,0.38,jev,2,6,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41816,molds (fungi),moulds (fungi),EXCLUDE,0.03,0.97,0.97,0.94,jev,2,6,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/761,necrosis,necroses,EXCLUDE,0.06,0.94,0.94,0.88,jev,2,6,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6026,Peronosporales,,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,6,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58153,Phytophthora nicotianae,,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,6,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/34627,plant-water relations,plant water relations; water-plant relations,EXCLUDE,0.08,0.92,0.92,0.84,jev,2,7,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/59358,postharvest losses,post-harvest losses,EXCLUDE,0.2,0.8,0.8,0.6,jev,2,7,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58609,postharvest physiology,,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,7,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/323613,postharvest storage,,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,7,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/59360,postharvest systems,post-harvest systems,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,7,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30828,postharvest treatment,post-harvest treatment,EXCLUDE,0.07,0.93,0.93,0.86,jev,2,7,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1142,radiation injury,radiation sickness,EXCLUDE,0.1,0.9,0.9,0.8,jev,2,7,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/46060,Rosa,Hulthemia; Hulthemosa; roses; tea roses,EXCLUDE,0.0,1.0,1.0,1.0,jev,2,7,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58608,seed pathology,,EXCLUDE,0.46,0.54,0.54,0.08,jev,2,8,2,jev-1.14.0,True,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/306694,seed pests,,EXCLUDE,0.36,0.64,0.64,0.28,jev,2,8,3,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/32790,storage quality,food storage losses; keeping quality; postharvest quality; quality for storage; storability; storeability,EXCLUDE,0.15,0.85,0.85,0.7,jev,2,8,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/220318,storm damage,,EXCLUDE,0.34,0.66,0.66,0.32,jev,2,8,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9560,tissue culture,tissue culturing,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,9,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58620,virus-free plants,virus free plants; virusfree plants,EXCLUDE,0.02,0.98,0.98,0.96,jev,2,9,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/46559,water uptake,water absorption,EXCLUDE,0.01,0.99,0.99,0.98,jev,2,9,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/952,wilting,,EXCLUDE,0.48,0.52,0.52,0.04,jev,2,9,9,jev-1.14.0,True,True,skos:related
+https://lod.nal.usda.gov/nalt/728,wounds and injuries,,EXCLUDE,0.27,0.73,0.73,0.46,jev,2,9,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6768,almonds,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,1,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/7077,Alternaria alternata,Alternaria fasciculata; Alternaria tenuis; Macrosporium fasciculatum,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,1,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/324036,Alternaria arborescens,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,1,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9084,animal welfare,animal abuse; animal cruelty; animal rights; anti-cruelty law (animals); anticruelty law (animals); cruelty to animals; humane treatment of animals,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,1,4,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/331461,antibrowning agents,anti-browning agents,EXCLUDE,0.1,0.9,0.9,0.8,jev,3,1,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11308,apples,apple fruits,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,1,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/2350,bacteria,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,1,10,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/16338,Beet necrotic yellow vein virus,BNYVV (Beet necrotic yellow vein virus),EXCLUDE,0.25,0.75,0.75,0.5,jev,3,1,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18851,Botrytis cinerea,Botryotinia fuckeliana; Botrytis vulgaris; Sclerotinia fuckeliana,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,1,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6585,Brassicaceae,Cruciferae; Raphanaceae; Stanleyaceae; Thlaspiaceae; crucifers; mustard family,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,1,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/300977,browse plants,,EXCLUDE,0.04,0.96,0.96,0.92,jev,3,1,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20122,browsing,,EXCLUDE,0.13,0.87,0.87,0.74,jev,3,1,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9282,burns (injuries),heat injury (burns),EXCLUDE,0.43,0.57,0.57,0.14,jev,3,2,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20670,Buxus,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,2,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/19478,cabbage,cabbages,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,2,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/336999,Calonectria henricotiae,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,2,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/336987,Calonectria pseudonaviculata,Cylindrocladium buxicola; Cylindrocladium pseudonaviculatum,EXCLUDE,0.03,0.97,0.97,0.94,jev,3,2,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/22867,Castanea sativa,European chestnut,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,2,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23908,Ceratocystis ulmi,Ophiostoma ulmi,EXCLUDE,0.04,0.96,0.96,0.92,jev,3,2,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/301230,ceratoulmin,,EXCLUDE,0.26,0.74,0.74,0.48,jev,3,2,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24011,Cercospora,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,2,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24019,Cercospora sojina,Passalora sojina,EXCLUDE,0.1,0.9,0.9,0.8,jev,3,2,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24020,Cercospora zeae-maydis,Cercosporella zeae-maydis,EXCLUDE,0.04,0.96,0.96,0.92,jev,3,2,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4824,Citrus,Afraurantium; Aurantium,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,2,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/16721,citrus fruits,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,2,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15217,Clavibacter,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,2,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11130,Clavibacter michiganensis,Aplanobacter michiganense; Bacterium michiganense; Clavibacter michiganense; Corynebacterium michiganense; Mycobacterium flavum ssp. michiganense; Mycobacterium flavum subsp. michiganense; Phytomonas michiganensis; Pseudomonas michiganensis,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,2,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26718,Claviceps purpurea,Claviceps microcephala,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,3,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/27703,coffee beans,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,3,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/27767,cold,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,3,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/277273,cold shock response,cold stress response,EXCLUDE,0.17,0.83,0.83,0.66,jev,3,3,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1730,cold stress,cold shock,EXCLUDE,0.26,0.74,0.74,0.48,jev,3,3,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/136,cold tolerance,chilling tolerance; cold hardening; cold hardiness; cold resistance (organisms); critical thermal minima; critical thermal minimum; cryo-tolerance; cryotolerance; freeze tolerance; freezing tolerance,EXCLUDE,0.02,0.98,0.98,0.96,jev,3,3,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/27940,Colletotrichum acutatum,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,3,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/263009,Colletotrichum kahawae,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,3,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/28535,conifer needles,pine needles,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,3,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/28532,conifers,narrow-leaf evergreens; narrow-leaved evergreens; needled evergreens,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,3,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15218,Corynebacterium,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,3,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30063,Cristulariella,Nervostroma,EXCLUDE,0.08,0.92,0.92,0.84,jev,3,3,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24785,Cryphonectria parasitica,Endothia parasitica,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,3,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/32028,desiccation (plant physiology),dehydration (plant physiology),EXCLUDE,0.36,0.64,0.64,0.28,jev,3,3,19,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/203547,Dickeya,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,3,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/33990,drought,,EXCLUDE,0.09,0.91,0.91,0.82,jev,3,4,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/137,drought tolerance,drought resistance; drought stress tolerance; drouth resistance; drouth tolerance,EXCLUDE,0.08,0.92,0.92,0.84,jev,3,4,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30115,economic threshold,damage threshold; economic injury level,EXCLUDE,0.33,0.67,0.67,0.34,jev,3,4,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/248017,Elsinoe batatas,Sphaceloma batatas,EXCLUDE,0.15,0.85,0.85,0.7,jev,3,4,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15211,Enterobacter nimipressuralis,Erwinia nimipressuralis,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,4,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/19967,ergot alkaloids,ergot derivatives,EXCLUDE,0.19,0.81,0.81,0.62,jev,3,4,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15219,Erwinia,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,4,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/14615,Erwinia amylovora,Bacillus amylovorus; Bacterium amylovorus; Micrococcus amylovorus,EXCLUDE,0.07,0.93,0.93,0.86,jev,3,4,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/7537,Fagus grandifolia,American beech,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,4,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/40096,figs,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,4,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/139,flooding tolerance,submergence tolerance,EXCLUDE,0.18,0.82,0.82,0.64,jev,3,4,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41131,forest trees,timber trees,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,4,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/18644,forests,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,4,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9286,frostbite,cold injury (frostbite),EXCLUDE,0.35,0.65,0.65,0.3,jev,3,4,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26543,fruit peels,fruit rinds,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,4,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/32390,Fusarium,Gibberella; Haematonectria,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,4,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/259605,Fusarium mangiferae,,EXCLUDE,0.35,0.65,0.65,0.3,jev,3,4,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41947,Fusarium oxysporum f. sp. cubense,Fusarium oxysporum f.sp. cubense; Fusarium oxysporum fsp. cubense,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,5,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/227578,Fusicladium caryigenum,Cladosporium caryigenum,EXCLUDE,0.02,0.98,0.98,0.96,jev,3,5,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/42121,Gaeumannomyces graminis var. graminis,Gaeumannomyces cariceti; Gaeumannomyces graminis; Gaeumannomyces oryzinus; Linocarpon cariceti; Linocarpon oryzinum; Ophiobolus cariceti; Ophiobolus graminis; Ophiobolus graminis var. graminis; Ophiobolus oryzinus; Rhaphidophora graminis; Rhaphidospora cariceti; Sphaeria cariceti,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,5,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23775,Gaeumannomyces graminis var. tritici,Cephalosporium maydis; Harpophora maydis; Ophiobolus graminis var. tritici,EXCLUDE,0.04,0.96,0.96,0.92,jev,3,5,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/43085,Gloeocercospora sorghi,Microdochium sorghi,EXCLUDE,0.03,0.97,0.97,0.94,jev,3,5,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/124234,Graphocephala atropunctata,Graphocephalus atropunctata; Hordnia atropunctata; Hordnia circellata; Neokolla circellata; blue-green sharpshooter,EXCLUDE,0.02,0.98,0.98,0.96,jev,3,5,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/259065,Guignardia citricarpa,Phyllosticta citricarpa,EXCLUDE,0.03,0.97,0.97,0.94,jev,3,5,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1731,heat stress,heat shock,EXCLUDE,0.11,0.89,0.89,0.78,jev,3,5,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/140,heat tolerance,critical thermal maxima; critical thermal maximum; heat resistance (organisms); thermal tolerance; thermotolerance,EXCLUDE,0.02,0.98,0.98,0.96,jev,3,5,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/45009,Helminthosporium solani,Helminthosporium atrovirens; Spondylocladium atrovirens,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,5,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26724,Hypomyces,Cladobotryum; Dactylium,EXCLUDE,0.03,0.97,0.97,0.94,jev,3,5,15,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/158,hypothermia,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,5,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47629,Ipomoea batatas,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,5,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20642,Juglans cinerea,butternut tree,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,5,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/3317,Lauraceae,Cassythaceae; Perseaceae,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,5,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47436,leafrollers,leaf folders; leaf rollers,EXCLUDE,0.03,0.97,0.97,0.94,jev,3,6,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/28537,leaves,foliage,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,6,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26713,Leifsonia xyli subsp. xyli,Clavibacter xyli ssp. xyli; Clavibacter xyli subsp. xyli; Leifsonia xyli ssp. xyli,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,6,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/141,lodging resistance,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,6,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50627,Lophodermium,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,6,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/51389,Mangifera indica,Mangifera austroyunnanensis; Mangifera mekongensis; Mangifera siamensis,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,6,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/126484,Moniliophthora perniciosa,Crinipellis perniciosa; Marasmius perniciosus,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,6,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/45182,mycoherbicides,,EXCLUDE,0.17,0.83,0.83,0.66,jev,3,6,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17812,Mycosphaerella fijiensis,Cercospora fijiensis; Cercospora fijiensis var. difformis; Mycosphaerella fijiensis var. difformis; Paracercospora fijiensis; Pseudocercospora fijiensis,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,6,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54135,Mycosphaerella musicola,,EXCLUDE,0.06,0.94,0.94,0.88,jev,3,6,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54365,nastic movement,nyctinastic movement; nyctinasty; seismonastic movement; seismonasty; thermonastic movement; thermonasty; thigmonastic movement; thigmonasty,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,6,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54461,Nectria coccinea,,EXCLUDE,0.02,0.98,0.98,0.96,jev,3,6,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/228473,Ophiognomonia clavigignenti-juglandacearum,Sirococcus clavigignenti-juglandacearum,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,6,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/198745,Ophiosphaerella,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,6,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/281632,Ophiostoma novo-ulmi,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,6,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4628,organisms,biota,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,6,20,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/22739,pecans,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,7,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37258,Pectobacterium,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,7,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/214741,Phaeocryptopus gaeumannii,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,7,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/57515,Phytophthora,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,7,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58156,Phytophthora ramorum,,EXCLUDE,0.04,0.96,0.96,0.92,jev,3,7,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1091,Phytoplasma,Candidatus Phytoplasma; MLOs (mycoplasma-like organisms); Mycoplasma-like organisms (MLOs); mycoplasma-like organisms; mycoplasma-like organisms (plant pathogenic); mycoplasmalike organisms (plant pathogenic); plant yellows agents,EXCLUDE,0.14,0.86,0.86,0.72,jev,3,7,7,jev-1.14.0,False,False,skos:related
+https://lod.nal.usda.gov/nalt/20266,plant growth,growth rate (plants),EXCLUDE,0.01,0.99,0.99,0.98,jev,3,7,8,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/58701,Plasmodiophora brassicae,,EXCLUDE,0.02,0.98,0.98,0.96,jev,3,7,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/234504,Plenodomus biglobosus,Leptosphaeria biglobosa,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,7,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/49776,Plenodomus lingam,Leptosphaeria maculans; Phoma lingam,EXCLUDE,0.06,0.94,0.94,0.88,jev,3,7,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58801,Pleospora betae,Phoma betae; beet black rot fungus,EXCLUDE,0.17,0.83,0.83,0.66,jev,3,7,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/312908,Podosphaera macularis,,EXCLUDE,0.04,0.96,0.96,0.92,jev,3,7,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41694,pods,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,7,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/59404,potatoes,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,7,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4405,product quality,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,7,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15220,Pseudomonas,Liquidomonas; Loefflerella; fluorescent pseudomonads,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,7,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60304,Pseudomonas syringae pv. savastanoi,Pseudomonas savastanoi; Pseudomonas savastanoi pv. savastanoi,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,8,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60202,Pseudomonas syringae pv. tabaci,Pseudomonas angulata,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,8,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/337007,Pseudonectria buxi,Chaetostroma buxi; Tubercularia buxi; Volutella buxi,EXCLUDE,0.02,0.98,0.98,0.96,jev,3,8,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/34433,Pseudotsuga menziesii,Douglas fir; Pseudotsuga caesia; Pseudotsuga flahaultii; Pseudotsuga glauca,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,8,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60498,Puccinia recondita,Puccinia dispersa; Puccinia recondita f. sp. tritici; Puccinia rubigo-vera; Puccinia sardonensis; Puccinia triticina,EXCLUDE,0.05,0.95,0.95,0.9,jev,3,8,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4446,Pucciniales,Uredinales,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,8,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/41782,pycnidia,pycnidium,EXCLUDE,0.14,0.86,0.86,0.72,jev,3,8,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60624,Pyrenophora teres,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,8,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/39335,Quercus,Cyclobalanopsis; oaks; turkey oaks,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,8,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/212514,Raffaelea,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,8,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4425,roots,plant roots,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,8,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20440,seeds,kernels,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,8,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/64225,storage temperature,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,9,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/146600,stress response,response to stress,EXCLUDE,0.05,0.95,0.95,0.9,jev,3,9,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58628,stumps,stump wood; stumpwood; tree stumps,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,9,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/47647,sweet potatoes,sweetpotatoes,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,9,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26552,tangerines,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,9,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/54612,Tilletia indica,Neovossia indica,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,9,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/14074,tropisms,,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,9,15,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/68414,urban horticulture,,EXCLUDE,0.06,0.94,0.94,0.88,jev,3,9,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/212103,Ustilaginoidea virens,Claviceps oryzae-sativae; Claviceps virens; Sphacelotheca virens; Tilletia oryzae; Ustilaginoidea albicans; Ustilago virens; Villosiclava virens,EXCLUDE,0.04,0.96,0.96,0.92,jev,3,9,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11295,Venturia inaequalis,Fusicladium pomi,EXCLUDE,0.01,0.99,0.99,0.98,jev,3,9,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/33355,water deprivation,,EXCLUDE,0.16,0.84,0.84,0.68,jev,3,9,20,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/39377,wheat,bread wheat,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,10,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/26573,Xylella fastidiosa,,EXCLUDE,0.0,1.0,1.0,1.0,jev,3,10,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1258,16SrIV (Coconut lethal yellows group),Coconut lethal yellows group,EXCLUDE,0.45,0.55,0.55,0.1,jev,4,1,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/154508,actinorhizae,actinorhizal root nodules; actinorhizas; actinorrhizae; actinorrhizas,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,1,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/301719,agricultural productivity,,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,1,3,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5537,Agrobacterium radiobacter,Agrobacterium tumefaciens; Rhizobium radiobacter,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,1,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6025,Albugo,,EXCLUDE,0.06,0.94,0.94,0.88,jev,4,1,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/3096,Arecaceae,Nypaceae; Palmae; Principes; palm trees,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,1,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/4983,Armillaria,Armillariella; honey fungi; honey mushrooms,EXCLUDE,0.02,0.98,0.98,0.96,jev,4,1,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/16204,beans,,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,1,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/23905,Bretziella fagacearum,Ceratocystis fagacearum; Chalara quercina; Endoconidiophora fagacearum; Thielaviopsis quercina,EXCLUDE,0.03,0.97,0.97,0.94,jev,4,1,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1290,Candidatus Phytoplasma mali,Apple proliferation mycoplasma-like organism; Apple proliferation phytoplasma,EXCLUDE,0.2,0.8,0.8,0.6,jev,4,1,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10478,chemical constituents of plants,phytoconstituents; plant composition (chemistry),EXCLUDE,0.0,1.0,1.0,1.0,jev,4,1,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/25275,chlamydospores,,EXCLUDE,0.02,0.98,0.98,0.96,jev,4,1,15,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30099,Cronartium fusiforme,Cronartium quercuum f. sp. fusiforme,EXCLUDE,0.09,0.91,0.91,0.82,jev,4,1,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30125,crop insurance,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,1,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/16,crop production,crop plant production,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,1,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/7140,crops,agricultural crops; agricultural plants; crop plants,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,1,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/6737,Cynipidae,cynipid gall wasps; cynipids; gall wasps,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,2,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/302040,dendroecology,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,2,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/33319,die-off,die off; dieoff,EXCLUDE,0.27,0.73,0.73,0.46,jev,4,2,5,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30128,disaster assistance,disaster payments,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,2,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/302024,disturbed land,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,2,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/10095,disturbed soils,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,2,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37050,endomycorrhizae,endomycorrhizas,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,2,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/37056,endophytes,,EXCLUDE,0.06,0.94,0.94,0.88,jev,4,2,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11357,fertilizer application,application of fertilisers; application of fertilizers; fertilisation (fertilisers); fertilisation (soils); fertiliser application; fertilization (fertilizers); fertilization (soils); fertilizer treatment,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,2,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30138,fertilizer requirements,crop nutrient requirements; fertiliser requirements,EXCLUDE,0.03,0.97,0.97,0.94,jev,4,2,12,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/27790,frost resistance,frost tolerance,EXCLUDE,0.03,0.97,0.97,0.94,jev,4,2,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/34329,Glycine max,Dolichos soja; Glycine gracilis; Glycine hispida; Glycine hispida var. brunnea; Glycine hispida var. lutea; Phaseolus max; Soja hispida; Soja max,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,2,15,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/44138,Gymnosporangium juniperi-virginianae,,EXCLUDE,0.04,0.96,0.96,0.92,jev,4,2,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/11341,inoculation methods,inoculation techniques,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,2,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9355,insect pests,,EXCLUDE,0.43,0.57,0.57,0.14,jev,4,2,18,jev-1.14.0,False,False,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/5621,leafminers,leaf miners,EXCLUDE,0.21,0.79,0.79,0.58,jev,4,2,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/53334,Moniliophthora roreri,,EXCLUDE,0.02,0.98,0.98,0.96,jev,4,3,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/35802,mycorrhizae,mycorrhizas; mycorrhization,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,3,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/5414,nutrient management,agricultural nutrient management; crop nutrient management; nutrient management (soil); soil nutrient management,EXCLUDE,0.02,0.98,0.98,0.96,jev,4,3,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/55446,nutrient solutions,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,3,4,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/9324,nutrition,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,3,5,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/26546,Ophiovirus,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,3,6,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/56277,Oryza sativa,Oryza glutinosa; Oryza sativa cv. italica; Oryza sativa ssp. indica; Oryza sativa ssp. japonica; Oryza sativa subsp. indica; Oryza sativa subsp. japonica; Oryza sativa var. affinis; Oryza sativa var. erythroceros; Oryza sativa var. flavoacies; Oryza sativa var. japonica; Oryza sativa var. melanacra; Oryza sativa var. suberythroceros; Oryza sativa var. vulgaris; Oryza sativa var. zeravschanica,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,3,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/838,pathogens,infectious agents; infectious pathogens,EXCLUDE,0.13,0.87,0.87,0.74,jev,4,3,9,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/57662,Phakopsora pachyrhizi,Malupa meibomiae; Physopella meibomiae,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,3,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/8255,Phlaeothripidae,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,3,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58154,Phytophthora palmivora,,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,3,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/7610,Pinus elliottii,American pitch pine; longleaf pitch pine; slash pine; swamp pine,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,3,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50493,Pinus taeda,loblolly pine,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,3,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/302255,plant analysis,,EXCLUDE,0.13,0.87,0.87,0.74,jev,4,3,15,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/314552,plant nutrient resorption,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,3,16,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/127307,"Plant Production, Gardening",,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,3,17,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/12561,Potyvirus,potyvirus group,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,3,18,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/234477,predatory fungi,carnivorous fungi; predaceous fungi,EXCLUDE,0.03,0.97,0.97,0.94,jev,4,3,19,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/38705,Prunus domestica,European plum; Prunus x domestica,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,3,20,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60329,Pseudomonas syringae pv. tomato,,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,4,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60500,Puccinia striiformis,Puccinia glumarum,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,4,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/305566,residual forests,,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,4,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/61276,rhizomes,,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,4,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/123241,root crown,crown (perennials); root collar; root neck,EXCLUDE,0.03,0.97,0.97,0.94,jev,4,4,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24692,saline soils,,EXCLUDE,0.04,0.96,0.96,0.92,jev,4,4,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58067,salinity,,EXCLUDE,0.16,0.84,0.84,0.68,jev,4,4,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/145,salt tolerance,halotolerance; salt acclimation,EXCLUDE,0.08,0.92,0.92,0.84,jev,4,4,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/968,soil fertility,fertility (soil),EXCLUDE,0.01,0.99,0.99,0.98,jev,4,4,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/21,soil management,,EXCLUDE,0.02,0.98,0.98,0.96,jev,4,4,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/35113,soil-plant interactions,plant soil interactions; plant soil relations; plant soil relationships; plant-soil interactions; soil plant interactions; soil plant nutrient relations,EXCLUDE,0.15,0.85,0.85,0.7,jev,4,4,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/59405,Solanum tuberosum,Irish potato; Solanum boyacense; Solanum chocclo; Solanum coeruleiflorum; Solanum estradae; Solanum leptostigma; Solanum tenuifilamentum; Solanum yabari,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,4,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/314630,spalting fungi,,EXCLUDE,0.2,0.8,0.8,0.6,jev,4,4,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/19257,stems,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,4,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/13656,storms,,EXCLUDE,0.06,0.94,0.94,0.88,jev,4,4,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/21832,sugarcane,sugar cane,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,5,1,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/127706,sugarcane byproducts,sugar cane by-products; sugar cane byproducts; sugarcane by-products,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,5,2,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/27566,Theobroma cacao,,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,5,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/24287,Thielaviopsis basicola,Chalara elegans,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,5,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/50832,tomatoes,,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,5,5,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/58605,tree nutrition,,EXCLUDE,0.1,0.9,0.9,0.8,jev,4,5,6,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/66764,Uromyces,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,5,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/323679,ustiloxins,ustiloxin-A; ustiloxin-B; ustiloxin-C; ustiloxin-D; ustiloxin-E,EXCLUDE,0.17,0.83,0.83,0.66,jev,4,5,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/46703,Verticillium,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,5,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/9408,viroids,,EXCLUDE,0.08,0.92,0.92,0.84,jev,4,5,10,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/17320,white-rot fungi,white rot fungi; white-rot fungus,EXCLUDE,0.23,0.77,0.77,0.54,jev,4,5,12,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/52292,wind,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,5,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/62719,winter,winter season,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,5,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/19272,wood,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,5,15,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/326991,Xanthomonas axonopodis pv. aurantifolii,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,5,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/67485,Xanthomonas axonopodis pv. citri,,EXCLUDE,0.01,0.99,0.99,0.98,jev,4,5,17,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/29137,Zea mays,Zea maize; corn plant; cornplant,EXCLUDE,0.0,1.0,1.0,1.0,jev,4,5,18,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/1223,16SrI (Aster yellows group),Aster yellows group,EXCLUDE,0.21,0.79,0.79,0.58,jev,5,1,1,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/8468,analytical methods,analytical techniques,EXCLUDE,0.01,0.99,0.99,0.98,jev,5,1,2,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/30097,Cronartium comandrae,,EXCLUDE,0.01,0.99,0.99,0.98,jev,5,1,3,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/30101,Cronartium ribicola,,EXCLUDE,0.01,0.99,0.99,0.98,jev,5,1,4,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/39451,famine,,EXCLUDE,0.06,0.94,0.94,0.88,jev,5,1,5,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/41620,frost,,EXCLUDE,0.08,0.92,0.92,0.84,jev,5,1,6,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/15852,Hordeum vulgare,Hordeum lagunculiforme,EXCLUDE,0.0,1.0,1.0,1.0,jev,5,1,7,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/309987,muck soils,,EXCLUDE,0.0,1.0,1.0,1.0,jev,5,1,8,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/45292,phytophagous insects,herbivorous insects; plant chewing insects,EXCLUDE,0.31,0.69,0.69,0.38,jev,5,1,9,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/20,plant cultural practices,agronomic practices; crop husbandry; cultural methods (plants); cultural practices (plants); plant care; plant culture; plant growing methods; plant growing practices,EXCLUDE,0.05,0.95,0.95,0.9,jev,5,1,10,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/60484,Puccinia,,EXCLUDE,0.0,1.0,1.0,1.0,jev,5,1,11,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/60496,Puccinia polysora,,EXCLUDE,0.08,0.92,0.92,0.84,jev,5,1,12,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/334656,Puccinia striiformis f. hordei,Puccinia striiformis f. sp. hordei,EXCLUDE,0.1,0.9,0.9,0.8,jev,5,1,13,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/212254,Puccinia striiformis f. tritici,,EXCLUDE,0.1,0.9,0.9,0.8,jev,5,1,14,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/189519,wood degradation,timber decomposition; timber degradation; wood decomposition; wood deterioration,EXCLUDE,0.13,0.87,0.87,0.74,jev,5,1,15,jev-1.14.0,False,True,skos:broader; skos:narrower
+https://lod.nal.usda.gov/nalt/305693,wood dust,,EXCLUDE,0.01,0.99,0.99,0.98,jev,5,1,16,jev-1.14.0,False,True,skos:related
+https://lod.nal.usda.gov/nalt/314628,wood spalting,spalted wood; spalting,EXCLUDE,0.13,0.87,0.87,0.74,jev,5,1,17,jev-1.14.0,False,True,skos:related

@@ -1,0 +1,1063 @@
+{
+  "false_positive": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/137734",
+      "label": "soil remediation",
+      "p_include": 0.99
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/143145",
+      "label": "cation exchange",
+      "p_include": 0.92
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15090",
+      "label": "soil bacteria",
+      "p_include": 0.85
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17317",
+      "label": "humification",
+      "p_include": 0.74
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17339",
+      "label": "soil conservation",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17382",
+      "label": "carbon sequestration",
+      "p_include": 0.84
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/189524",
+      "label": "land degradation",
+      "p_include": 0.64
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/20349",
+      "label": "bulk density",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/20438",
+      "label": "buried seeds",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/214720",
+      "label": "soil liquefaction",
+      "p_include": 0.93
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/225108",
+      "label": "soil map",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24613",
+      "label": "organic matter",
+      "p_include": 0.52
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/263001",
+      "label": "particulate organic matter",
+      "p_include": 0.73
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/263109",
+      "label": "particulate organic carbon",
+      "p_include": 0.71
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28604",
+      "label": "vegetation cover",
+      "p_include": 0.65
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/290382",
+      "label": "soil flushing",
+      "p_include": 0.89
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/302568",
+      "label": "ion exchange capacity",
+      "p_include": 0.65
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/302887",
+      "label": "soil fumigants",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306848",
+      "label": "lysimetry",
+      "p_include": 0.54
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306981",
+      "label": "pedological techniques",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306983",
+      "label": "soil monolith preparation",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/32537",
+      "label": "desertification",
+      "p_include": 0.86
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/333471",
+      "label": "sodium adsorption ratio",
+      "p_include": 0.58
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35113",
+      "label": "soil-plant interactions",
+      "p_include": 0.92
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/37470",
+      "label": "soil washing",
+      "p_include": 0.9
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/38860",
+      "label": "sodicity",
+      "p_include": 0.98
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/40101",
+      "label": "water holding capacity",
+      "p_include": 0.95
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41806",
+      "label": "glomalin",
+      "p_include": 0.63
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/42771",
+      "label": "soil parent materials",
+      "p_include": 0.94
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/46386",
+      "label": "pedotransfer functions",
+      "p_include": 0.96
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/502",
+      "label": "soil weathering",
+      "p_include": 0.82
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/50948",
+      "label": "lysimeters",
+      "p_include": 0.57
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/51782",
+      "label": "resistance to penetration",
+      "p_include": 0.9
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/52768",
+      "label": "soil microorganisms",
+      "p_include": 0.61
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/54411",
+      "label": "soil resource management",
+      "p_include": 0.76
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/57128",
+      "label": "peat",
+      "p_include": 0.69
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/59560",
+      "label": "unsaturated flow",
+      "p_include": 0.74
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/62345",
+      "label": "soil stabilization",
+      "p_include": 0.97
+    }
+  ],
+  "false_negative_explicit_exclude": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/10097",
+      "label": "fish pond soils",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/10098",
+      "label": "golf course soils",
+      "p_include": 0.29
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/1012",
+      "label": "wheel tracks",
+      "p_include": 0.08
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11357",
+      "label": "fertilizer application",
+      "p_include": 0.4
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11566",
+      "label": "saturated conditions",
+      "p_include": 0.38
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11598",
+      "label": "Salids",
+      "p_include": 0.18
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/12114",
+      "label": "Argiudolls",
+      "p_include": 0.11
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/146604",
+      "label": "stubble tillage",
+      "p_include": 0.45
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/148611",
+      "label": "mushroom compost",
+      "p_include": 0.49
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15759",
+      "label": "bank erosion",
+      "p_include": 0.1
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15845",
+      "label": "mulches",
+      "p_include": 0.18
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/16017",
+      "label": "irrigation systems",
+      "p_include": 0.01
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17288",
+      "label": "nitrogen fixation",
+      "p_include": 0.06
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/19",
+      "label": "irrigation and drainage",
+      "p_include": 0.09
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/225037",
+      "label": "beach erosion",
+      "p_include": 0.04
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24470",
+      "label": "charge characteristics",
+      "p_include": 0.38
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24662",
+      "label": "denitrification",
+      "p_include": 0.49
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24675",
+      "label": "nitrification",
+      "p_include": 0.22
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/25206",
+      "label": "chiseling",
+      "p_include": 0.29
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/26762",
+      "label": "conventional tillage",
+      "p_include": 0.3
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/26909",
+      "label": "climosequences",
+      "p_include": 0.44
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/27783",
+      "label": "permafrost",
+      "p_include": 0.11
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28618",
+      "label": "live mulches",
+      "p_include": 0.09
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28619",
+      "label": "mulching",
+      "p_include": 0.45
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28620",
+      "label": "reduced tillage",
+      "p_include": 0.38
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28631",
+      "label": "no-tillage",
+      "p_include": 0.29
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28633",
+      "label": "strip tillage",
+      "p_include": 0.43
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28801",
+      "label": "controlled traffic systems",
+      "p_include": 0.13
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/301616",
+      "label": "gabbro soils",
+      "p_include": 0.45
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/302324",
+      "label": "gravel pits",
+      "p_include": 0.01
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/305175",
+      "label": "quarries",
+      "p_include": 0.0
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/306781",
+      "label": "lichen crusts",
+      "p_include": 0.33
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/30687",
+      "label": "greenhouse soils",
+      "p_include": 0.43
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/30696",
+      "label": "wheat soils",
+      "p_include": 0.45
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/3116",
+      "label": "Perox",
+      "p_include": 0.23
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31984",
+      "label": "deficit irrigation",
+      "p_include": 0.03
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/324774",
+      "label": "diagenesis",
+      "p_include": 0.08
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/335253",
+      "label": "subduction",
+      "p_include": 0.0
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34495",
+      "label": "drained conditions",
+      "p_include": 0.46
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34697",
+      "label": "unsaturated conditions",
+      "p_include": 0.32
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35119",
+      "label": "hilling",
+      "p_include": 0.27
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35127",
+      "label": "earthworm burrows",
+      "p_include": 0.32
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35131",
+      "label": "worm casts",
+      "p_include": 0.34
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35133",
+      "label": "soil invertebrates",
+      "p_include": 0.2
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/37933",
+      "label": "streambank stability",
+      "p_include": 0.09
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/39935",
+      "label": "fertilizer rates",
+      "p_include": 0.07
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/40586",
+      "label": "flooded conditions",
+      "p_include": 0.31
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41163",
+      "label": "plant litter",
+      "p_include": 0.03
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41896",
+      "label": "furrows",
+      "p_include": 0.2
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/43848",
+      "label": "Water Erosion Prediction Project",
+      "p_include": 0.43
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/45669",
+      "label": "hoeing",
+      "p_include": 0.43
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/46277",
+      "label": "hydraulic conductivity",
+      "p_include": 0.45
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/46423",
+      "label": "hydrosequences",
+      "p_include": 0.44
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47065",
+      "label": "in-row tillage",
+      "p_include": 0.26
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47069",
+      "label": "interrow tillage",
+      "p_include": 0.26
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47756",
+      "label": "irrigated conditions",
+      "p_include": 0.05
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/4791",
+      "label": "site preparation",
+      "p_include": 0.25
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/50175",
+      "label": "liming",
+      "p_include": 0.46
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/5211",
+      "label": "AGNPS model",
+      "p_include": 0.04
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/53098",
+      "label": "stubble mulching",
+      "p_include": 0.25
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/53217",
+      "label": "wet-dry cycles",
+      "p_include": 0.38
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/5417",
+      "label": "CREAMS model",
+      "p_include": 0.32
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/5568",
+      "label": "fertilizers",
+      "p_include": 0.02
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/56592",
+      "label": "Paleustalfs",
+      "p_include": 0.04
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/58845",
+      "label": "plowing",
+      "p_include": 0.26
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/61272",
+      "label": "rhizodeposition",
+      "p_include": 0.34
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/61283",
+      "label": "rhizoplane",
+      "p_include": 0.3
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/61706",
+      "label": "rotary tillage",
+      "p_include": 0.29
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/63398",
+      "label": "terracing",
+      "p_include": 0.32
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/64250",
+      "label": "triassic soils",
+      "p_include": 0.5
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/64260",
+      "label": "stream erosion",
+      "p_include": 0.08
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/66019",
+      "label": "trenching",
+      "p_include": 0.28
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/7966",
+      "label": "nitrogen fertilizers",
+      "p_include": 0.03
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/8673",
+      "label": "Ustands",
+      "p_include": 0.35
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/92572",
+      "label": "soil protozoa",
+      "p_include": 0.45
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/966",
+      "label": "nutrient offtake",
+      "p_include": 0.03
+    }
+  ],
+  "false_negative_unreached": [
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/10689",
+      "label": "soil nematodes",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/11597",
+      "label": "Aquisalids",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/12582",
+      "label": "drainage systems",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/148613",
+      "label": "spent mushroom compost",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15592",
+      "label": "NPK fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/15844",
+      "label": "bark mulches",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/16016",
+      "label": "basin irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17525",
+      "label": "biosolids composts",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/17528",
+      "label": "composts",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18631",
+      "label": "border irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18680",
+      "label": "boron fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/18683",
+      "label": "trace element fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/204254",
+      "label": "compost extracts",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/205376",
+      "label": "lateral move irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/21109",
+      "label": "calcium fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/21112",
+      "label": "mineral fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/21739",
+      "label": "drainage channels",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/21741",
+      "label": "irrigation canals",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/21989",
+      "label": "microirrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/231364",
+      "label": "polymer-coated urea",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23647",
+      "label": "center pivot irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/23649",
+      "label": "sprinkler irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/240342",
+      "label": "anaerobic ammonium oxidation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24708",
+      "label": "fertigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/24709",
+      "label": "irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/255989",
+      "label": "bio-organic fertilizer",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28379",
+      "label": "compost maturity",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28380",
+      "label": "compost quality",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28381",
+      "label": "compost stability",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28382",
+      "label": "composted manure",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28386",
+      "label": "food residuals composts",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28387",
+      "label": "MSW composts",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28388",
+      "label": "vermicomposts",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28389",
+      "label": "yard waste composts",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28395",
+      "label": "compound fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28398",
+      "label": "nitrogen-potassium fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28399",
+      "label": "phosphorus-potassium fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28796",
+      "label": "slow-release fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/28949",
+      "label": "copper fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/29299",
+      "label": "furrow irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/300199",
+      "label": "organic mulches",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/300769",
+      "label": "automatic irrigation systems",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/31024",
+      "label": "surge irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/311377",
+      "label": "manganese fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/3115",
+      "label": "Acroperox",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/313413",
+      "label": "biocomposts",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/325201",
+      "label": "reflective mulches",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34339",
+      "label": "magnesium fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34483",
+      "label": "subsurface drainage",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34484",
+      "label": "surface drainage",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34492",
+      "label": "mole drainage",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34493",
+      "label": "pipe drainage",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34494",
+      "label": "tile drainage",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/34931",
+      "label": "Durustands",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/35126",
+      "label": "earthworms",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/38804",
+      "label": "Eutroperox",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/39959",
+      "label": "liquid fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/39960",
+      "label": "starter fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/40582",
+      "label": "flood irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/41135",
+      "label": "forest litter",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/4204",
+      "label": "urea formaldehyde",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/44561",
+      "label": "Haploperox",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/44569",
+      "label": "Haplosalids",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/44594",
+      "label": "Haplustands",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/46278",
+      "label": "saturated hydraulic conductivity",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/46810",
+      "label": "isobutylidene diurea",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47439",
+      "label": "soil insects",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47750",
+      "label": "iron fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47761",
+      "label": "irrigation management",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47771",
+      "label": "irrigation rates",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47772",
+      "label": "irrigation requirement",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47773",
+      "label": "irrigation scheduling",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47779",
+      "label": "mist irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47780",
+      "label": "overhead irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47781",
+      "label": "runoff irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47782",
+      "label": "subsurface irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47783",
+      "label": "surface irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47784",
+      "label": "wastewater irrigation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/47833",
+      "label": "urea fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/48269",
+      "label": "Kandiperox",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/53072",
+      "label": "potassium fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/53073",
+      "label": "sulfur fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/53289",
+      "label": "molybdenum fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/53675",
+      "label": "plastic film mulches",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/53676",
+      "label": "straw mulches",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/57522",
+      "label": "Sombriperox",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/62774",
+      "label": "seedbed preparation",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/62792",
+      "label": "selenium fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/63228",
+      "label": "sulfur-coated urea",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/66206",
+      "label": "zinc fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/69901",
+      "label": "biofertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/7963",
+      "label": "ammonium fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/7973",
+      "label": "nitrate fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/7981",
+      "label": "nitrogen-phosphorus fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/7982",
+      "label": "phosphorus fertilizers",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/83",
+      "label": "soil arthropods",
+      "p_include": null
+    },
+    {
+      "uri": "https://lod.nal.usda.gov/nalt/9313",
+      "label": "organic fertilizers",
+      "p_include": null
+    }
+  ]
+}

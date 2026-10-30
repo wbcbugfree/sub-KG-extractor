@@ -1,0 +1,44 @@
+{
+  "seed_qid": "Q280413",
+  "seed_label": "National Center for Scientific Research",
+  "included_qids": [
+    "Q13582798",
+    "Q280413",
+    "Q31855",
+    "Q3726309"
+  ],
+  "pruned_qids": [
+    "Q20820271",
+    "Q45400320"
+  ],
+  "visited_qids": [
+    "Q13582798",
+    "Q20820271",
+    "Q280413",
+    "Q31855",
+    "Q3726309",
+    "Q45400320"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 4,
+      "included": 3,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 0,
+      "excluded": 1,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:23:41.559018+00:00",
+  "finished_at_utc": "2026-10-28T17:23:42.201826+00:00",
+  "wall_seconds": 0.6428038000012748,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row1831",
+    "legacy_row_id": "Q9492|Q5659270",
+    "seed_qid": "Q9492",
+    "seed_label": "probability",
+    "qid": "Q5659270",
+    "label": "harmonic measure",
+    "csv_depth": 2,
+    "bfs_depth": 2,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q355020",
+    "parent_label": "probability measure",
+    "path": "probability --instance of--> probability measure --has subclass--> harmonic measure",
+    "uri": "http://www.wikidata.org/entity/Q5659270",
+    "classification": "INCLUDE",
+    "confidence": 0.92,
+    "p_include": 0.96,
+    "p_exclude": 0.04,
+    "selected_probability": 0.96,
+    "decision_source": "openai_decisions",
+    "iteration": 2,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

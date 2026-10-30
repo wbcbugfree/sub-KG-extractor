@@ -1,0 +1,32 @@
+{
+  "seed_qid": "Q288682",
+  "seed_label": "XACML",
+  "included_qids": [
+    "Q20155966",
+    "Q2115",
+    "Q288682",
+    "Q9143"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q20155966",
+    "Q2115",
+    "Q288682",
+    "Q9143"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 1,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:39.273015+00:00",
+  "finished_at_utc": "2026-10-28T17:24:39.752421+00:00",
+  "wall_seconds": 0.4794032000063453,
+  "frontier_exhausted": true
+}

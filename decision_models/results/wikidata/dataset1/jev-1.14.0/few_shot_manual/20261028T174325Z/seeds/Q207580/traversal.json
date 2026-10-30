@@ -1,0 +1,37 @@
+{
+  "seed_qid": "Q207580",
+  "seed_label": "Routing Information Protocol",
+  "included_qids": [
+    "Q1229441",
+    "Q207580",
+    "Q345335"
+  ],
+  "pruned_qids": [],
+  "visited_qids": [
+    "Q1229441",
+    "Q207580",
+    "Q345335"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 1,
+      "included": 1,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:43:51.091526+00:00",
+  "finished_at_utc": "2026-10-28T17:43:51.698317+00:00",
+  "wall_seconds": 0.6067882000061218,
+  "frontier_exhausted": true
+}

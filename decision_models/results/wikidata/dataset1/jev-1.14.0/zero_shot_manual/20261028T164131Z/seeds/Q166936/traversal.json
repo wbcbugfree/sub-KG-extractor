@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q166936",
+  "seed_label": "Internet Message Access Protocol",
+  "included_qids": [
+    "Q15836568",
+    "Q166936",
+    "Q16935517"
+  ],
+  "pruned_qids": [
+    "Q2622793",
+    "Q28380029",
+    "Q5013874",
+    "Q65498884",
+    "Q8777",
+    "Q8795"
+  ],
+  "visited_qids": [
+    "Q15836568",
+    "Q166936",
+    "Q16935517",
+    "Q2622793",
+    "Q28380029",
+    "Q5013874",
+    "Q65498884",
+    "Q8777",
+    "Q8795"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 0,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:46.346454+00:00",
+  "finished_at_utc": "2026-10-28T16:41:46.993912+00:00",
+  "wall_seconds": 0.6474521000054665,
+  "frontier_exhausted": true
+}

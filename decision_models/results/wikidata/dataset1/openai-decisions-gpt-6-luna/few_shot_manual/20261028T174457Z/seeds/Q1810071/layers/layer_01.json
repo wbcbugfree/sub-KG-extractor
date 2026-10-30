@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row2858",
+    "legacy_row_id": "Q1810071|Q96273743",
+    "seed_qid": "Q1810071",
+    "seed_label": "A/B testing",
+    "qid": "Q96273743",
+    "label": "type of test",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1810071",
+    "parent_label": "A/B testing",
+    "path": "A/B testing --instance of--> type of test",
+    "uri": "http://www.wikidata.org/entity/Q96273743",
+    "classification": "INCLUDE",
+    "confidence": 0.42,
+    "p_include": 0.71,
+    "p_exclude": 0.29,
+    "selected_probability": 0.71,
+    "decision_source": "openai_decisions",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

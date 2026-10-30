@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q15028",
+  "seed_label": "International Organization for Standardization",
+  "included_qids": [
+    "Q1194093",
+    "Q1328899",
+    "Q15028"
+  ],
+  "pruned_qids": [
+    "Q15277759",
+    "Q294801",
+    "Q52162350",
+    "Q659206",
+    "Q7311277",
+    "Q7835148"
+  ],
+  "visited_qids": [
+    "Q1194093",
+    "Q1328899",
+    "Q15028",
+    "Q15277759",
+    "Q294801",
+    "Q52162350",
+    "Q659206",
+    "Q7311277",
+    "Q7835148"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 2,
+      "included": 2,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 6,
+      "included": 0,
+      "excluded": 6,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:10.190993+00:00",
+  "finished_at_utc": "2026-10-28T17:24:10.946579+00:00",
+  "wall_seconds": 0.755581199991866,
+  "frontier_exhausted": true
+}

@@ -1,0 +1,50 @@
+{
+  "seed_qid": "Q42332",
+  "seed_label": "Portable Document Format",
+  "included_qids": [
+    "Q17154458",
+    "Q235557",
+    "Q26085352",
+    "Q42332",
+    "Q81986407"
+  ],
+  "pruned_qids": [
+    "Q1224822",
+    "Q18155479",
+    "Q287067",
+    "Q5227180"
+  ],
+  "visited_qids": [
+    "Q1224822",
+    "Q17154458",
+    "Q18155479",
+    "Q235557",
+    "Q26085352",
+    "Q287067",
+    "Q42332",
+    "Q5227180",
+    "Q81986407"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 3,
+      "excluded": 0,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 5,
+      "included": 1,
+      "excluded": 4,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T17:24:49.704582+00:00",
+  "finished_at_utc": "2026-10-28T17:24:50.308150+00:00",
+  "wall_seconds": 0.6035879999981262,
+  "frontier_exhausted": true
+}

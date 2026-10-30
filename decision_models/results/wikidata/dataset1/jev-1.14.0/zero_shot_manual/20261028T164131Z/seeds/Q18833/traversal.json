@@ -1,0 +1,62 @@
+{
+  "seed_qid": "Q18833",
+  "seed_label": "Microsoft SharePoint",
+  "included_qids": [
+    "Q131093",
+    "Q1344636",
+    "Q18833",
+    "Q45211",
+    "Q831677"
+  ],
+  "pruned_qids": [
+    "Q10853141",
+    "Q13104404",
+    "Q1371279",
+    "Q1625990",
+    "Q1810858",
+    "Q2132880",
+    "Q22918958",
+    "Q5358377",
+    "Q615985",
+    "Q65966993"
+  ],
+  "visited_qids": [
+    "Q10853141",
+    "Q13104404",
+    "Q131093",
+    "Q1344636",
+    "Q1371279",
+    "Q1625990",
+    "Q1810858",
+    "Q18833",
+    "Q2132880",
+    "Q22918958",
+    "Q45211",
+    "Q5358377",
+    "Q615985",
+    "Q65966993",
+    "Q831677"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 5,
+      "included": 3,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 9,
+      "included": 1,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:50.505554+00:00",
+  "finished_at_utc": "2026-10-28T16:41:51.189964+00:00",
+  "wall_seconds": 0.684406600004877,
+  "frontier_exhausted": true
+}

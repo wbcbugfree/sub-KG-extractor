@@ -1,0 +1,29 @@
+[
+  {
+    "row_id": "row3942",
+    "legacy_row_id": "Q1369503|Q186408",
+    "seed_qid": "Q1369503",
+    "seed_label": "Estimated Time of Arrival",
+    "qid": "Q186408",
+    "label": "point in time",
+    "csv_depth": 1,
+    "bfs_depth": 1,
+    "target": 1,
+    "reaching_property": "P31",
+    "reaching_property_label": "instance of",
+    "parent_qid": "Q1369503",
+    "parent_label": "Estimated Time of Arrival",
+    "path": "Estimated Time of Arrival --instance of--> point in time",
+    "uri": "http://www.wikidata.org/entity/Q186408",
+    "classification": "INCLUDE",
+    "confidence": 0.58,
+    "p_include": 0.79,
+    "p_exclude": 0.21,
+    "selected_probability": 0.79,
+    "decision_source": "jev",
+    "iteration": 1,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "jev-1.14.0"
+  }
+]

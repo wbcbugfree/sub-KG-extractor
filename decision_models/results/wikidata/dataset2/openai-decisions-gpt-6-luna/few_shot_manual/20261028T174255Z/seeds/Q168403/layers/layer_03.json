@@ -1,0 +1,31 @@
+[
+  {
+    "row_id": "row741",
+    "legacy_row_id": "Q168403|Q18554630",
+    "seed_qid": "Q168403",
+    "seed_label": "myopia",
+    "qid": "Q18554630",
+    "label": "irregular astigmatism",
+    "csv_depth": 3,
+    "bfs_depth": 3,
+    "target": 1,
+    "reaching_property": "(-)P279",
+    "reaching_property_label": "has subclass",
+    "parent_qid": "Q177895",
+    "parent_label": "astigmatism",
+    "path": "myopia --subclass of--> refractive error --has subclass--> astigmatism --has subclass--> irregular astigmatism",
+    "uri": "http://www.wikidata.org/entity/Q18554630",
+    "classification": "INCLUDE",
+    "confidence": 0.38,
+    "p_include": 0.69,
+    "p_exclude": 0.31,
+    "selected_probability": 0.69,
+    "decision_source": "openai_decisions",
+    "iteration": 3,
+    "batch": 1,
+    "candidate_number": 1,
+    "response_model": "gpt-6-luna",
+    "provider_answer_type": "choice",
+    "override_reason": null
+  }
+]

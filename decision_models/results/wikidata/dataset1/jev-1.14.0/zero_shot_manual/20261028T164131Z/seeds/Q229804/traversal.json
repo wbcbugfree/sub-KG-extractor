@@ -1,0 +1,56 @@
+{
+  "seed_qid": "Q229804",
+  "seed_label": "3rd Generation Partnership Project",
+  "included_qids": [
+    "Q229804",
+    "Q43229"
+  ],
+  "pruned_qids": [
+    "Q10686791",
+    "Q110666024",
+    "Q1517730",
+    "Q1585340",
+    "Q28523131",
+    "Q294163",
+    "Q4830453",
+    "Q783794",
+    "Q856625",
+    "Q99750985"
+  ],
+  "visited_qids": [
+    "Q10686791",
+    "Q110666024",
+    "Q1517730",
+    "Q1585340",
+    "Q229804",
+    "Q28523131",
+    "Q294163",
+    "Q43229",
+    "Q4830453",
+    "Q783794",
+    "Q856625",
+    "Q99750985"
+  ],
+  "bridge_nodes_traversed": 0,
+  "iterations": 2,
+  "iteration_details": [
+    {
+      "iteration": 1,
+      "evaluated": 3,
+      "included": 1,
+      "excluded": 2,
+      "bridge_nodes_traversed": 0
+    },
+    {
+      "iteration": 2,
+      "evaluated": 8,
+      "included": 0,
+      "excluded": 8,
+      "bridge_nodes_traversed": 0
+    }
+  ],
+  "started_at_utc": "2026-10-28T16:41:59.164558+00:00",
+  "finished_at_utc": "2026-10-28T16:41:59.809990+00:00",
+  "wall_seconds": 0.6454340999916894,
+  "frontier_exhausted": true
+}
