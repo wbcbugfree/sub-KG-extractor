@@ -183,9 +183,10 @@ def save_prompt_artifacts(prepared: dict, output_dir: Path, manifest: dict) -> N
 
 def run_seed(seed_qid, seed_label, gold_rows, graph_context, prompt, args,
              decision_rows, *, api_key, output_dir, classifier_factory=None):
-    directory = output_dir / "seeds" / seed_qid
-    client = (classifier_factory(api_key, directory) if classifier_factory else
-              jev.JevClassifier(api_key, directory, args.transport, request_builder=build_request))
+    prefix = f"seeds/{seed_qid}/"
+    client = (classifier_factory(api_key, output_dir, record_prefix=prefix) if classifier_factory else
+              jev.JevClassifier(api_key, output_dir, args.transport, request_builder=build_request,
+                                record_prefix=prefix))
 
     def classify(prompt, rows, context_level, provider, model, batch_size, workers):
         if context_level != "path_simple":
@@ -201,7 +202,7 @@ def run_seed(seed_qid, seed_label, gold_rows, graph_context, prompt, args,
                                      decision_rows=decision_rows, classifier=classify)
     if result["iterations"] >= args.max_iterations and result["iteration_details"][-1]["included"]:
         raise RuntimeError(f"Iteration limit may have truncated {seed_qid}; results are incomplete")
-    jev.write_json(directory / "traversal.json", {
+    jev.write_record(output_dir, prefix + "traversal.json", {
         key: value for key, value in result.items() if key not in {"gold_rows", "raw_decisions"}
     } | {"started_at_utc": started_at, "finished_at_utc": jev.utc_now(),
          "wall_seconds": time.perf_counter() - started, "frontier_exhausted": True})
@@ -291,6 +292,7 @@ def main() -> int:
         "pricing": {"source": jev.PRICE_SOURCE, "checked_on": jev.PRICE_CHECKED_ON,
                     "input_usd_per_million": jev.INPUT_USD_PER_MILLION, "output_usd_per_million": 0},
     }
+    manifest["records_file"] = jev.RECORDS_FILE
     jev.write_json(output_dir / "manifest.json", manifest)
     inference_started = None
     try:

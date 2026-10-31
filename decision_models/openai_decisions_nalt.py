@@ -155,22 +155,24 @@ def attach_usage(record: dict) -> None:
 
 class DecisionsClassifier:
     def __init__(self, api_key: str, output_dir: Path, exclude_desalination_on_refusal: bool = False,
-                 request_builder=None):
+                 request_builder=None, record_prefix: str = ""):
         if not api_key or any(char in api_key for char in "\r\n"):
             raise ValueError("Invalid credential")
         self.api_key, self.output_dir, self.iteration = api_key, output_dir, 0
         self.exclude_desalination_on_refusal = exclude_desalination_on_refusal
         self.request_builder = request_builder or build_request
+        self.record_prefix = record_prefix
 
-    def post(self, body_path: Path, client_request_id: str, metadata: dict) -> tuple[int, bytes]:
+    def post(self, body: bytes, client_request_id: str, metadata: dict) -> tuple[int, bytes]:
         headers = (f"Authorization: Bearer {self.api_key}\nContent-Type: application/json\nAccept: application/json\n"
                    f"X-Client-Request-Id: {client_request_id}\n")
-        completed = subprocess.run(
-            ["curl.exe" if sys.platform == "win32" else "curl", "--silent", "--show-error", "--connect-timeout", "10",
-             "--max-time", "60", "--request", "POST", "--header", "@-", "--data-binary", f"@{body_path}",
-             "--dump-header", "-", "--write-out", shared.CURL_METADATA_MARKER.decode() + "%{json}", ENDPOINT],
-            input=headers.encode("utf-8"), capture_output=True, timeout=70,
-            creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0)
+        with shared.request_body_file(body) as body_path:
+            completed = subprocess.run(
+                ["curl.exe" if sys.platform == "win32" else "curl", "--silent", "--show-error", "--connect-timeout", "10",
+                 "--max-time", "60", "--request", "POST", "--header", "@-", "--data-binary", f"@{body_path}",
+                 "--dump-header", "-", "--write-out", shared.CURL_METADATA_MARKER.decode() + "%{json}", ENDPOINT],
+                input=headers.encode("utf-8"), capture_output=True, timeout=70,
+                creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0)
         body = b""
         if shared.CURL_METADATA_MARKER in completed.stdout:
             body, details = parse_http_output(completed.stdout)
@@ -184,11 +186,9 @@ class DecisionsClassifier:
     def request_batch(self, model, seed_label, batch, system_prompt, iteration, number):
         payload = self.request_builder(model, seed_label, batch, system_prompt)
         body = json.dumps(payload, ensure_ascii=False, allow_nan=False).encode("utf-8")
-        prefix = self.output_dir / "requests" / f"iteration_{iteration:02d}_batch_{number:03d}"
-        write_json(prefix.with_suffix(".request.json"), {"request": payload, "candidate_uris": [row["uri"] for row in batch],
+        prefix = f"{self.record_prefix}requests/iteration_{iteration:02d}_batch_{number:03d}"
+        shared.write_record(self.output_dir, prefix + ".request.json", {"request": payload, "candidate_uris": [row["uri"] for row in batch],
                                                        "request_sha256": hashlib.sha256(body).hexdigest()})
-        body_path = prefix.with_suffix(".body.json")
-        body_path.write_bytes(body)
         for attempt in range(1, 4):
             client_id = str(uuid.uuid4())
             record = {"started_at_utc": utc_now(), "iteration": iteration, "batch": number, "attempt": attempt,
@@ -199,12 +199,10 @@ class DecisionsClassifier:
                       "http_metadata": {}, "price_checked_on": PRICE_DATE, "rates_usd_per_million": RATES}
             started, retry_after, retryable = time.perf_counter(), 2 ** attempt, False
             try:
-                status, raw = self.post(body_path, client_id, record["http_metadata"])
+                status, raw = self.post(body, client_id, record["http_metadata"])
                 record["http_status"] = status
                 sanitized = raw.replace(self.api_key.encode(), b"[REDACTED]")
-                response_path = prefix.with_suffix(f".attempt_{attempt:02d}.response.json")
-                response_path.write_bytes(sanitized)
-                record.update(response_file=response_path.name, response_body_bytes=len(raw),
+                record.update(response_body_bytes=len(raw),
                               response_sha256=hashlib.sha256(raw).hexdigest(), response_redacted=sanitized != raw)
                 try:
                     record["response"] = json.loads(sanitized)
@@ -234,7 +232,7 @@ class DecisionsClassifier:
                 record.update(status="invalid_response", error_type=type(error).__name__, error_message=str(error))
             record.update(elapsed_seconds=time.perf_counter() - started, finished_at_utc=utc_now())
             attach_usage(record)
-            write_json(prefix.with_suffix(f".attempt_{attempt:02d}.json"), record)
+            shared.write_record(self.output_dir, prefix + f".attempt_{attempt:02d}.json", record)
             if record["status"] == "success":
                 return rows
             if not retryable or attempt == 3 or retry_after > 30:
@@ -252,8 +250,8 @@ class DecisionsClassifier:
             futures = [executor.submit(self.request_batch, model, seed_label, batch, system_prompt, iteration, number)
                        for number, batch in enumerate(batches, 1)]
             rows = [row for future in futures for row in future.result()]
-        write_json(self.output_dir / "layers" / f"layer_{iteration:02d}.json", rows)
-        write_json(self.output_dir / "timing" / f"layer_{iteration:02d}.json", {
+        shared.write_record(self.output_dir, f"{self.record_prefix}layers/layer_{iteration:02d}.json", rows)
+        shared.write_record(self.output_dir, f"{self.record_prefix}timing/layer_{iteration:02d}.json", {
             "iteration": iteration, "started_at_utc": started_at, "finished_at_utc": utc_now(),
             "wall_seconds": time.perf_counter() - started, "candidate_count": len(nodes),
             "logical_requests": len(batches), "workers": min(max_workers, len(batches))})
@@ -261,11 +259,11 @@ class DecisionsClassifier:
 
 
 def summarize_usage(directory: Path, bfs_seconds: float | None) -> dict:
-    attempt_paths = [path for path in sorted(directory.glob("**/requests/*.attempt_*.json"))
-                     if not path.name.endswith(".response.json")]
-    attempts = [read_json(path) for path in attempt_paths]
+    requests = shared.records_in(directory, "requests")
+    attempt_records = [(source, record) for source, record in requests if ".attempt_" in source]
+    attempts = [record for _, record in attempt_records]
     table = []
-    for path, record in zip(attempt_paths, attempts):
+    for source, record in attempt_records:
         attach_usage(record)
         headers = shared.response_headers(record["http_metadata"])
         transfer = record["http_metadata"].get("curl", {})
@@ -273,7 +271,7 @@ def summarize_usage(directory: Path, bfs_seconds: float | None) -> dict:
             "iteration", "batch", "attempt", "client_request_id", "started_at_utc", "finished_at_utc", "elapsed_seconds",
             "candidate_count", "status", "http_status", "input_tokens", "output_tokens", "total_tokens", "cached_tokens",
             "cache_write_tokens", "uncached_input_tokens", "estimated_cost_usd")} | {
-                "source": path.relative_to(directory).as_posix(),
+                "source": source,
                 "request_id": headers.get("x-request-id"), "response_model": record.get("response", {}).get("model"),
                 "refusal_override_count": len(record.get("refusal_overrides", [])),
                 "provider_refusal_count": sum(answer.get("type") == "refusal"
@@ -285,7 +283,7 @@ def summarize_usage(directory: Path, bfs_seconds: float | None) -> dict:
                     "upload_bytes": "size_upload", "download_bytes": "size_download"}.items()}})
     write_csv(directory / "api_calls.csv", table)
     success = [row for row in attempts if row["status"] == "success"]
-    logical = len(list(directory.glob("**/requests/*.request.json")))
+    logical = sum(source.endswith(".request.json") for source, _ in requests)
     latency = sorted(row["elapsed_seconds"] for row in success)
     totals = {key: sum(row[key] for row in attempts if row[key] is not None) for key in (
         "input_tokens", "output_tokens", "total_tokens", "cached_tokens", "cache_write_tokens", "uncached_input_tokens", "estimated_cost_usd")}
@@ -327,7 +325,7 @@ def replay_jev(index, preset, prompt_path, exclusions, examples_path, directory)
             "included": sorted(row["uri"] for row in rows if row["classification"] == "INCLUDE"), "visited": sorted(mapping),
             "artifact": (directory / "metrics.json").relative_to(ROOT).as_posix(),
             "hashes": {path.relative_to(ROOT).as_posix(): file_hash(path) for path in directory.rglob("*")
-                       if path.is_file() and path.suffix in {".json", ".csv"}},
+                       if path.is_file() and path.suffix in {".json", ".csv", ".jsonl"}},
             "source_and_bfs_replay_exact": True}
 
 
@@ -347,8 +345,6 @@ def export_results(index, results, directory, baselines, manifest, bfs_seconds):
              "in_hierarchy_gold": row["uri"] in gold, "scored": row["uri"] not in excluded,
              "relations": "; ".join(row["relations"])} for row in ordered]
     write_csv(directory / "decisions.csv", rows)
-    for name, decision in (("included", "INCLUDE"), ("pruned", "EXCLUDE")):
-        write_csv(directory / f"{name}.csv", [row for row in rows if row["classification"] == decision])
     included = {uri for uri, row in decisions.items() if row["classification"] == "INCLUDE"}
     visited = set(decisions)
     pooled = (gold | visited | {uri for baseline in baselines for uri in baseline["visited"]}) - excluded
@@ -362,7 +358,6 @@ def export_results(index, results, directory, baselines, manifest, bfs_seconds):
                            **metrics,
                            "pooled_accuracy": fixed["accuracy"], "pooled_true_negative": fixed["true_negative"],
                            "pooled_evaluation_total": len(pooled)})
-    write_json(directory / "comparison.json", comparison)
     write_csv(directory / "comparison.csv", comparison)
     write_csv(directory / "pooled_evaluation.csv", [{"uri": uri, "prefLabel": index.pref_labels[nalt.URIRef(uri)],
         "gold_include": uri in gold, "visited": uri in visited, "final_classification": "INCLUDE" if uri in included else "EXCLUDE",
@@ -374,12 +369,13 @@ def export_results(index, results, directory, baselines, manifest, bfs_seconds):
     missed = (gold - included) - excluded
     errors = {"false_positive": sorted((included - gold) - excluded),
               "false_negative_explicit_exclude": sorted(missed & visited), "false_negative_unreached": sorted(missed - visited)}
-    write_json(directory / "errors.json", {name: [{"uri": uri, "label": index.pref_labels[nalt.URIRef(uri)],
+    shared.write_record(directory, "errors.json", {name: [{"uri": uri, "label": index.pref_labels[nalt.URIRef(uri)],
                                                    "p_include": decisions.get(uri, {}).get("p_include")} for uri in uris]
                                            for name, uris in errors.items()})
     judged = [row for row in rows if row["decision_source"] == "openai_decisions" and row["scored"]]
     overrides = [row for row in rows if row["decision_source"] == "user_refusal_override"]
-    write_json(directory / "refusal_overrides.json", overrides)
+    if overrides:
+        write_json(directory / "refusal_overrides.json", overrides)
     audit = shared.audit_live_bfs(index, results, directory)
     audit["candidate_decisions"] = audit["model_decisions"]
     audit["model_decisions"] -= len(overrides)
@@ -393,12 +389,13 @@ def export_results(index, results, directory, baselines, manifest, bfs_seconds):
         raise ValueError("Refusal override provenance failed")
     prompt = nalt.resolve_system_prompt(Path(manifest["prompt_path"]))
     audit["prompt_text_preserved"] = all(question["instructions"].startswith(prompt + "\n\n")
-        for path in (directory / "requests").glob("*.request.json") for question in read_json(path)["request"]["questions"])
+        for _, record in shared.records_in(directory, "requests", "*.request.json")
+        for question in record["request"]["questions"])
     audit["baseline_files_unchanged"] = all(file_hash(ROOT / relative) == digest
         for baseline in baselines for relative, digest in baseline["hashes"].items())
     if not audit["prompt_text_preserved"] or not audit["baseline_files_unchanged"]:
         raise ValueError("Input preservation failed")
-    write_json(directory / "audit.json", audit)
+    shared.write_record(directory, "audit.json", audit)
     write_json(directory / "metrics.json", {"metrics": results["metrics"], "iterations": results["iterations"],
         "seed_uris": results["seed_uris"], "gold_root_uri": results["gold_root_uri"], "exclude_evaluation_uris": sorted(excluded),
         "unreachable_gold_uris": sorted(results["unreachable_gold_uris"]),
@@ -439,6 +436,7 @@ def run_branch(branch: str, directory: Path, prepare_only: bool = False,
                 "pricing": {"checked_on": PRICE_DATE, "sources": [GUIDE, PRICING], "rates_usd_per_million": RATES},
                 "code_hashes": {path.relative_to(ROOT).as_posix(): file_hash(path) for path in
                     (Path(__file__).resolve(), ROOT / "decision_models/jev_nalt.py", ROOT / "usecase/subkg_extractor_nalt.py")}}
+    manifest["records_file"] = shared.RECORDS_FILE
     manifest["transport_version"] = subprocess.run(["curl.exe" if sys.platform == "win32" else "curl", "--version"],
         capture_output=True, text=True, check=True, creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0).stdout.splitlines()[0]
     write_json(directory / "manifest.json", manifest)
@@ -484,7 +482,7 @@ def run_branch(branch: str, directory: Path, prepare_only: bool = False,
         manifest.update(status="failed", finished_at_utc=utc_now(), elapsed_seconds=time.perf_counter() - started,
                         error_type=type(error).__name__, error_message=str(error).replace(key or "__no_key__", "[REDACTED]"))
         write_json(directory / "manifest.json", manifest)
-        if (directory / "requests").exists():
+        if (directory / shared.RECORDS_FILE).exists():
             write_json(directory / "partial_usage.json", summarize_usage(directory, time.perf_counter() - inference_started if inference_started else None))
         raise
 
@@ -518,6 +516,9 @@ def run_study(output: Path) -> int:
         entry.update(finished_at_utc=utc_now(), process_wall_seconds=time.perf_counter() - branch_started)
         manifest = directory / "manifest.json"
         entry["status"] = read_json(manifest)["status"] if manifest.exists() else "failed_before_manifest"
+        if directory.exists():
+            write_json(directory / "execution.json", entry)
+            shared.write_record(directory, "execution.log", (output / "logs" / f"{branch}.log").read_text(encoding="utf-8"))
         study["fresh_runs"].append(entry)
         write_json(output / "study.json", study)
         if entry["exit_code"] or entry["status"] != "complete":
@@ -547,7 +548,7 @@ def main():
         return run_branch(args.benchmark, directory, args.prepare_only, args.exclude_desalination_on_refusal)
     if args.prepare_only:
         parser.error("--prepare-only requires --benchmark")
-    return run_study(args.output_dir or ROOT / "decision_models/results/nalt" / f"openai_study_{stamp}")
+    return run_study(args.output_dir or ROOT / "tmp/decision-model-studies" / f"openai_{stamp}")
 
 
 if __name__ == "__main__":

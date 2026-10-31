@@ -22,8 +22,9 @@ decision_models/
 Branch runs use `results/nalt/<branch>/<model>/<timestamp>/`, with exactly one
 retained run for each of five branches and two decision models. The selection is
 explicit in [summary/runs.json](results/nalt/summary/runs.json); `summary/` also
-contains the final comparison and accounting tables. Failed runs, superseded
-attempts, and intermediate study folders have been removed. The runners
+contains the final comparison and accounting tables. Together with the twelve
+Wikidata runs, there are **22 final runs**. Redundant files and intermediate
+artifacts are kept outside the public layout in ignored `tmp/`. The runners
 produce structured results and metadata; this README and the central REPORT
 are the documentation maintained for the experiment.
 
@@ -33,12 +34,10 @@ Run commands from the repository root using Python 3.10+ and the root
 `requirements.txt` dependencies. Windows runs use `curl.exe` with certificate
 verification; Jev also supports `--transport urllib`.
 
-The recorded runs used local classifier hooks in
+The runners use the checked-in classifier hooks in
 `usecase/subkg_extractor_nalt.py::iterative_nalt_extraction` and
 `meta-prompting/subkg_extractor_wikidata.py::run_bfs_for_seed`. Both functions
-must accept a `classifier` callback. This folder-only publication excludes
-those shared-file changes, so live inference from a fresh clone requires the
-hooks to be published or applied separately. Retained results remain readable.
+accept a `classifier` callback, preserving the shared extraction algorithms.
 
 For NALT, the frozen RDF/XML input is external to this folder:
 `tmp/nalt-baseline-source/nalt-full_dwn_20240716.rdf`. Its expected SHA-256 is
@@ -71,7 +70,9 @@ python decision_models/openai_decisions_nalt.py --benchmark plant_health
 
 Available branches are `plant_health`, `immunology`, `cell_biology`,
 `pest_management`, and `soil_science`. OpenAI uses `gpt-6-luna`; omitting
-`--benchmark` runs its five-branch study. Both runners accept `--output-dir` and
+`--benchmark` runs its five-branch study, with orchestration files under
+`tmp/decision-model-studies/` and final branch outputs under `results/nalt/`.
+Both runners accept `--output-dir` and
 require a new directory. Published price constants are dated estimates; review
 them before using future runs for cost comparisons.
 
@@ -104,12 +105,13 @@ python decision_models/jev_wikidata.py --dataset 2
 python decision_models/openai_decisions_wikidata.py --dataset 2
 ```
 
-For few-shot inference, run Jev before OpenAI so the latter can validate its
-matching Jev comparison:
+For few-shot inference, OpenAI validates the single retained Jev run for the
+same dataset and setting. Use new directories under `tmp/` for exploratory
+runs so the published selection remains unambiguous:
 
 ```powershell
-python decision_models/jev_wikidata.py --dataset 2 --prompt-setting few_shot_manual
-python decision_models/openai_decisions_wikidata.py --dataset 2 --prompt-setting few_shot_manual
+python decision_models/jev_wikidata.py --dataset 2 --prompt-setting few_shot_manual --output-dir tmp/jev-wikidata-few-shot
+python decision_models/openai_decisions_wikidata.py --dataset 2 --prompt-setting few_shot_manual --output-dir tmp/openai-wikidata-few-shot
 ```
 
 Use `--dataset 1`, `2`, or `3`. The models are Jev 1.14.0 and OpenAI Decisions
@@ -141,37 +143,56 @@ Outputs use
 `results/wikidata/dataset<N>/<model-directory>/<prompt-setting>/<timestamp>/`,
 where the model directory is `jev-1.14.0` or `openai-decisions-gpt-6-luna`, and
 the setting is `zero_shot_manual` or `few_shot_manual`.
-`decisions.csv` contains every actual model decision; `bfs_gated_predictions.csv`
-contains the fixed scoring population. `metrics.json` and `comparison.csv`
-report pooled and aligned fold metrics. API payloads, layer decisions, timing,
-and traversal records are under `seeds/<QID>/`; `api_calls.csv` and `usage.json`
-aggregate all seeds. The reported runs also retain `execution.json` and
-`execution.log` for their launch commands and full process timing. No per-run
-report or source snapshots are generated. Few-shot runs additionally retain
-`examples.json` and `effective_prompt.md`, alongside the unchanged base
-`system_prompt.md`, to preserve exactly what the model received.
+## Compact results and API metadata
 
-## NALT results and experiment metadata
+All four runners use the same layout. Each run keeps readable result tables
+and one plain-text trace log:
 
-Each completed branch records:
+| File | Contents |
+| --- | --- |
+| `manifest.json`, `preflight.json`, `system_prompt.md` | Settings, versions, input/code hashes, baseline provenance, human prompt |
+| `decisions.csv` | Reached decisions, probabilities, confidence, and provenance; NALT also includes seeds |
+| `pooled_evaluation.csv` (NALT) or `bfs_gated_predictions.csv` (Wikidata) | Complete scoring population, including unreached candidates |
+| `metrics.json`, `comparison.csv` | Extraction quality and retained-model comparisons |
+| `api_calls.csv`, `usage.json` | Every API attempt, token/cache usage, estimated costs, request latency, and aggregate wall time |
+| `records.jsonl` | Request payloads, complete response objects, sanitized HTTP metadata, IDs, errors/retries, layer decisions/timing, seed traversals, and recorded execution logs |
+| `execution.json`, where captured | Launch command and full process timing |
 
-- `manifest.json`, `system_prompt.md`, and `preflight.json`: settings, versions,
-  input and code hashes, and baseline provenance.
-- `requests/`: exact request/response payloads, sanitized HTTP headers, request
-  IDs, usage, costs, retries, and transport timing.
-- `layers/` and `timing/`: reached frontiers, decisions, and layer timing.
-- `decisions.csv`, `included.csv`, and `pruned.csv`: labels, probability
-  distributions, confidence, and decision provenance.
-- `metrics.json`, `comparison.csv`, `pooled_evaluation.csv`, and `errors.json`:
-  extraction quality, retained-model comparisons, and errors.
-- `usage.json`, `api_calls.csv`, and `audit.json`: accounting and traversal
-  verification. OpenAI also saves `refusal_overrides.json` for current runs.
+Few-shot Wikidata runs additionally retain `examples.json` and
+`effective_prompt.md`. The Soil override run retains `refusal_overrides.json`;
+its missing model probabilities remain missing. The original Plant health
+pilot's `api_calls.csv` was derived from its saved attempts; uncaptured request
+IDs, transport details, and full process timing remain unknown.
 
-Selected launch commands, process timing, and logs are stored in each run's
-`execution.json` and `execution.log` where originally captured. Missing pilot
-metadata remains missing. Historical paths in existing metadata describe the
-layout at execution time and are not runtime dependencies. New runs do not
-create source snapshots or per-run Markdown reports.
+Each JSONL line is `{"path": "logical/source.json", "data": ...}`.
+Paths such as `requests/iteration_01_batch_001.attempt_01.json` or
+`seeds/Q178051/traversal.json` identify records inside the log, not separate
+files. The `source` column in `api_calls.csv` uses these paths. Open the log
+directly in an editor, or read it with Python's standard library:
+
+```python
+import json
+from pathlib import Path
+
+run = Path("decision_models/results/...")  # choose a final run
+with (run / "records.jsonl").open(encoding="utf-8") as stream:
+    for line in stream:
+        record = json.loads(line)
+        if ".attempt_" in record["path"]:
+            print(record["path"], record["data"]["status"])
+```
+
+The log also holds previously captured audits and error summaries. Duplicate
+wire-body/response files and INCLUDE/EXCLUDE subset CSVs are unnecessary:
+their payloads and rows are already retained. Original files from the layout
+migration are recoverable locally in `tmp/decision-model-cleanup/archive/`;
+reproduction reads the compact files directly. Historical manifests and hashes
+describe the original executions and have not been rewritten.
+
+Future runs append JSONL records under a lock shared by seed
+workers. Curl payload files exist briefly in ignored
+`tmp/decision-model-runtime/` and are removed after each call. The runners
+generate no trace directories, subset CSVs, source snapshots, or per-run reports.
 
 The OpenAI comparison combines four strict runs with the Soil override run;
 preserve this qualification when reporting its metrics. The three ordinary-LLM

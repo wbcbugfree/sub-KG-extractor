@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import fnmatch
 import hashlib
 import importlib.metadata
 import io
@@ -14,10 +15,13 @@ import platform
 import statistics
 import subprocess
 import sys
+import tempfile
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
+from contextlib import contextmanager
 from datetime import datetime, timezone
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 from urllib.error import HTTPError, URLError
 from urllib.request import HTTPRedirectHandler, Request, build_opener
 
@@ -34,6 +38,8 @@ INPUT_USD_PER_MILLION = 0.042
 PRICE_CHECKED_ON = "2026-10-28"
 PRICE_SOURCE = "https://docs.typesafe.ai/models"
 CURL_METADATA_MARKER = b"\n__JEV_CURL_METADATA__"
+RECORDS_FILE = "records.jsonl"
+_RECORD_LOCK = threading.Lock()
 
 
 class NoRedirect(HTTPRedirectHandler):
@@ -73,6 +79,57 @@ def file_hash(path: Path) -> str:
 def write_json(path: Path, value) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(value, indent=2, ensure_ascii=False, allow_nan=False) + "\n", encoding="utf-8")
+
+
+def write_record(directory: Path, source: str, value) -> None:
+    """Append one JSON line under a lock shared by all seed workers."""
+    source = PurePosixPath(source.replace("\\", "/"))
+    if source.is_absolute() or ".." in source.parts:
+        raise ValueError("Record paths must be relative to the run")
+    line = json.dumps({"path": source.as_posix(), "data": value}, ensure_ascii=False,
+                      allow_nan=False, separators=(",", ":")) + "\n"
+    directory.mkdir(parents=True, exist_ok=True)
+    with _RECORD_LOCK:
+        with (directory / RECORDS_FILE).open("a", encoding="utf-8", newline="\n") as handle:
+            handle.write(line)
+
+
+def iter_records(directory: Path):
+    """Read the compact log, or a legacy run's separate JSON trace files."""
+    compact = directory / RECORDS_FILE
+    if compact.exists():
+        with compact.open(encoding="utf-8") as handle:
+            for line in handle:
+                entry = json.loads(line)
+                yield entry["path"], entry["data"]
+        return
+    for name in ("requests", "layers", "timing", "seeds"):
+        for path in sorted((directory / name).rglob("*.json")):
+            if path.name.endswith((".body.json", ".response.json")):
+                continue
+            yield path.relative_to(directory).as_posix(), json.loads(path.read_text(encoding="utf-8"))
+
+
+def records_in(directory: Path, folder: str, pattern: str = "*.json") -> list[tuple[str, object]]:
+    """Select logical record paths; no extraction or scratch files are needed."""
+    return sorted((source, value) for source, value in iter_records(directory)
+                  if PurePosixPath(source).parent.name == folder
+                  and fnmatch.fnmatchcase(PurePosixPath(source).name, pattern))
+
+
+@contextmanager
+def request_body_file(body: bytes):
+    """Give curl a short-lived payload file in the ignored runtime directory."""
+    runtime = ROOT / "tmp/decision-model-runtime"
+    runtime.mkdir(parents=True, exist_ok=True)
+    descriptor, name = tempfile.mkstemp(prefix="request-", suffix=".json", dir=runtime)
+    path = Path(name)
+    try:
+        with os.fdopen(descriptor, "wb") as handle:
+            handle.write(body)
+        yield path
+    finally:
+        path.unlink(missing_ok=True)
 
 
 def read_csv(path: Path) -> list[dict]:
@@ -131,8 +188,9 @@ def attach_usage(record: dict) -> None:
 
 
 def summarize_usage(output_dir: Path, bfs_seconds: float) -> dict:
-    attempt_paths = sorted(output_dir.glob("**/requests/*.attempt_*.json"))
-    attempts = [json.loads(path.read_text(encoding="utf-8")) for path in attempt_paths]
+    requests = records_in(output_dir, "requests")
+    attempt_records = [(source, record) for source, record in requests if ".attempt_" in source]
+    attempts = [record for _, record in attempt_records]
     for record in attempts:
         attach_usage(record)
     successes = [record for record in attempts if record["status"] == "success"]
@@ -140,15 +198,15 @@ def summarize_usage(output_dir: Path, bfs_seconds: float) -> dict:
     latencies = sorted(record["elapsed_seconds"] for record in successes)
     input_tokens = sum(record["input_tokens"] for record in known)
     output_tokens = sum(record["output_tokens"] for record in known)
-    logical_requests = len(list(output_dir.glob("**/requests/*.request.json")))
+    logical_requests = sum(source.endswith(".request.json") for source, _ in requests)
     table = []
-    for path, record in zip(attempt_paths, attempts):
+    for source, record in attempt_records:
         headers = response_headers(record.get("http_metadata", {}))
         transfer = record.get("http_metadata", {}).get("curl", {})
         table.append({key: record.get(key) for key in (
             "iteration", "batch", "attempt", "started_at_utc", "finished_at_utc", "elapsed_seconds",
             "candidate_count", "status", "http_status", "input_tokens", "output_tokens", "estimated_cost_usd",
-        )} | {"source": path.relative_to(output_dir).as_posix(),
+        )} | {"source": source,
              "request_id": headers.get("x-typesafe-request-id"),
              "response_model": record.get("response", {}).get("model"),
              "dns_seconds": transfer.get("time_namelookup"), "connect_seconds": transfer.get("time_connect"),
@@ -261,14 +319,16 @@ def parse_response(payload: dict, batch: list[dict], iteration: int, batch_numbe
 class JevClassifier:
     """One binary Choice per reached candidate, batched within each BFS layer."""
 
-    def __init__(self, api_key: str, output_dir: Path, transport: str = "curl", request_builder=None):
+    def __init__(self, api_key: str, output_dir: Path, transport: str = "curl", request_builder=None,
+                 record_prefix: str = ""):
         self.api_key = api_key
         self.output_dir = output_dir
         self.transport = transport
         self.request_builder = request_builder or build_request
+        self.record_prefix = record_prefix
         self.iteration = 0
 
-    def post(self, body: bytes, body_path: Path, metadata: dict | None = None) -> tuple[int, bytes]:
+    def post(self, body: bytes, metadata: dict | None = None) -> tuple[int, bytes]:
         """Use verified TLS; curl receives credentials on stdin, never argv or disk."""
         metadata = metadata if metadata is not None else {}
         if self.transport == "urllib":
@@ -283,14 +343,15 @@ class JevClassifier:
         headers = f"Authorization: Bearer {self.api_key}\nContent-Type: application/json\nAccept: application/json\n"
         if any(character in self.api_key for character in "\r\n"):
             raise ValueError("Invalid credential header")
-        completed = subprocess.run(
-            ["curl.exe" if sys.platform == "win32" else "curl", "--silent", "--show-error",
-             "--connect-timeout", "10", "--max-time", "60", "--request", "POST",
-             "--header", "@-", "--data-binary", f"@{body_path}",
-             "--dump-header", "-", "--write-out", CURL_METADATA_MARKER.decode() + "%{json}", ENDPOINT],
-            input=headers.encode("utf-8"), capture_output=True, timeout=70,
-            creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
-        )
+        with request_body_file(body) as body_path:
+            completed = subprocess.run(
+                ["curl.exe" if sys.platform == "win32" else "curl", "--silent", "--show-error",
+                 "--connect-timeout", "10", "--max-time", "60", "--request", "POST",
+                 "--header", "@-", "--data-binary", f"@{body_path}",
+                 "--dump-header", "-", "--write-out", CURL_METADATA_MARKER.decode() + "%{json}", ENDPOINT],
+                input=headers.encode("utf-8"), capture_output=True, timeout=70,
+                creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
+            )
         if CURL_METADATA_MARKER in completed.stdout:
             response_body, details = parse_curl_output(completed.stdout)
             metadata.update(details)
@@ -307,14 +368,12 @@ class JevClassifier:
     def request_batch(self, model, seed_label, batch, system_prompt, iteration, number):
         payload = self.request_builder(model, seed_label, batch, system_prompt)
         body = json.dumps(payload, ensure_ascii=False, allow_nan=False).encode("utf-8")
-        prefix = self.output_dir / "requests" / f"iteration_{iteration:02d}_batch_{number:03d}"
-        write_json(prefix.with_suffix(".request.json"), {
+        prefix = f"{self.record_prefix}requests/iteration_{iteration:02d}_batch_{number:03d}"
+        write_record(self.output_dir, prefix + ".request.json", {
             "request": payload,
             "candidate_uris": [row["uri"] for row in batch],
             "request_sha256": hashlib.sha256(body).hexdigest(),
         })
-        body_path = prefix.with_suffix(".body.json")
-        body_path.write_bytes(body)
         for attempt in range(1, 4):
             record = {"started_at_utc": utc_now(), "iteration": iteration, "batch": number,
                       "attempt": attempt, "candidate_count": len(batch), "endpoint": ENDPOINT,
@@ -326,7 +385,7 @@ class JevClassifier:
             started = time.perf_counter()
             retry_after = 2 ** attempt
             try:
-                record["http_status"], response_body = self.post(body, body_path, record["http_metadata"])
+                record["http_status"], response_body = self.post(body, record["http_metadata"])
                 record["response_body_bytes"] = len(response_body)
                 record["response_sha256"] = hashlib.sha256(response_body).hexdigest()
                 answer = json.loads(response_body)
@@ -365,7 +424,7 @@ class JevClassifier:
             record["elapsed_seconds"] = time.perf_counter() - started
             record["finished_at_utc"] = utc_now()
             attach_usage(record)
-            write_json(prefix.with_suffix(f".attempt_{attempt:02d}.json"), record)
+            write_record(self.output_dir, prefix + f".attempt_{attempt:02d}.json", record)
             if record["status"] == "success":
                 return rows
             if not retryable or attempt == 3 or retry_after > 30:
@@ -384,8 +443,8 @@ class JevClassifier:
             futures = [executor.submit(self.request_batch, model, seed_label, batch, system_prompt, iteration, number)
                        for number, batch in enumerate(batches, 1)]
             rows = [row for future in futures for row in future.result()]
-        write_json(self.output_dir / "layers" / f"layer_{iteration:02d}.json", rows)
-        write_json(self.output_dir / "timing" / f"layer_{iteration:02d}.json", {
+        write_record(self.output_dir, f"{self.record_prefix}layers/layer_{iteration:02d}.json", rows)
+        write_record(self.output_dir, f"{self.record_prefix}timing/layer_{iteration:02d}.json", {
             "iteration": iteration, "started_at_utc": started_at, "finished_at_utc": utc_now(),
             "wall_seconds": time.perf_counter() - started, "candidate_count": len(nodes),
             "logical_requests": len(batches), "workers": min(max_workers, len(batches)),
@@ -458,15 +517,15 @@ def audit_live_bfs(index, results, output_dir):
     seen = set(results["seed_uris"])
     included = set(seen)
     pending = {row["uri"] for uri in seen for row in index.one_hop_neighbors(uri)} - seen
-    layer_paths = sorted((output_dir / "layers").glob("layer_*.json"))
+    layers = records_in(output_dir, "layers", "layer_*.json")
+    request_records = records_in(output_dir, "requests", "*.request.json")
     traces = []
-    for number, layer_path in enumerate(layer_paths, 1):
-        layer = json.loads(layer_path.read_text(encoding="utf-8"))
+    for number, (_, layer) in enumerate(layers, 1):
         layer_uris = {row["uri"] for row in layer}
         if layer_uris != pending or len(layer) != len(layer_uris):
             raise ValueError("Live decisions are not exactly the reachable frontier")
-        requests = [json.loads(path.read_text(encoding="utf-8")) for path in
-                    sorted((output_dir / "requests").glob(f"iteration_{number:02d}_batch_*.request.json"))]
+        requests = [record for source, record in request_records
+                    if PurePosixPath(source).name.startswith(f"iteration_{number:02d}_batch_")]
         requested = [uri for request in requests for uri in request["candidate_uris"]]
         if len(requested) != len(layer) or set(requested) != layer_uris:
             raise ValueError("Live requests do not match the BFS layer")
@@ -502,8 +561,6 @@ def export_results(index, results, output_dir, baselines, run_manifest, bfs_seco
         "scored": row["uri"] not in excluded, "relations": "; ".join(row["relations"]),
     } for row in ordered]
     write_csv(output_dir / "decisions.csv", csv_rows)
-    write_csv(output_dir / "included.csv", [row for row in csv_rows if row["classification"] == "INCLUDE"])
-    write_csv(output_dir / "pruned.csv", [row for row in csv_rows if row["classification"] == "EXCLUDE"])
     included = {uri for uri, row in decisions.items() if row["classification"] == "INCLUDE"}
     visited = set(decisions)
     pooled = (gold | visited | {uri for baseline in baselines for uri in baseline["visited"]}) - excluded
@@ -516,7 +573,6 @@ def export_results(index, results, output_dir, baselines, run_manifest, bfs_seco
         comparison.append({"model": model, "fresh_inference": model == results["llm_model"],
                            **metrics, "pooled_accuracy": fixed["accuracy"],
                            "pooled_true_negative": fixed["true_negative"], "pooled_evaluation_total": len(pooled)})
-    write_json(output_dir / "comparison.json", comparison)
     write_csv(output_dir / "comparison.csv", comparison)
     evaluation = []
     for uri in sorted(pooled, key=lambda value: (index.pref_labels[nalt.URIRef(value)].casefold(), value)):
@@ -533,7 +589,7 @@ def export_results(index, results, output_dir, baselines, run_manifest, bfs_seco
         "false_negative_explicit_exclude": sorted(false_negatives & visited),
         "false_negative_unreached": sorted(false_negatives - visited),
     }
-    write_json(output_dir / "errors.json", {kind: [{"uri": uri, "label": index.pref_labels[nalt.URIRef(uri)],
+    write_record(output_dir, "errors.json", {kind: [{"uri": uri, "label": index.pref_labels[nalt.URIRef(uri)],
                        "p_include": decisions.get(uri, {}).get("p_include")} for uri in uris] for kind, uris in errors.items()})
     judged = [row for row in csv_rows if row["decision_source"] == "jev" and row["scored"]]
     brier = statistics.mean((row["p_include"] - int(row["in_hierarchy_gold"])) ** 2 for row in judged) if judged else None
@@ -541,14 +597,14 @@ def export_results(index, results, output_dir, baselines, run_manifest, bfs_seco
     audit = audit_live_bfs(index, results, output_dir)
     audit["prompt_text_preserved"] = all(
         question["instructions"]["system_prompt"] == nalt.resolve_system_prompt(Path(run_manifest["prompt_path"]))
-        for path in (output_dir / "requests").glob("*.request.json")
-        for question in json.loads(path.read_text(encoding="utf-8"))["request"]["questions"].values()
+        for _, record in records_in(output_dir, "requests", "*.request.json")
+        for question in record["request"]["questions"].values()
     )
     audit["baseline_files_unchanged"] = all(file_hash(ROOT / relative) == digest
                                              for baseline in baselines for relative, digest in baseline["hashes"].items())
     if not audit["prompt_text_preserved"] or not audit["baseline_files_unchanged"]:
         raise ValueError("Input preservation audit failed")
-    write_json(output_dir / "audit.json", audit)
+    write_record(output_dir, "audit.json", audit)
     write_json(output_dir / "usage.json", costs)
     write_json(output_dir / "metrics.json", {"metrics": results["metrics"], "iterations": results["iterations"],
                "seed_uris": results["seed_uris"], "gold_root_uri": results["gold_root_uri"],
@@ -585,6 +641,7 @@ def main() -> int:
                              "transport": args.transport,
                              "max_attempts": 3, "primitive": "choice", "decision_rule": "provider Choice (argmax)",
                              "confidence_gating": False, "fallback_provider": None}}
+    manifest["records_file"] = RECORDS_FILE
     write_json(output_dir / "manifest.json", manifest)
     try:
         manifest["transport_version"] = subprocess.run(
@@ -650,7 +707,7 @@ def main() -> int:
     except Exception as error:
         manifest.update(status="failed", finished_at_utc=utc_now(), error_type=type(error).__name__)
         write_json(output_dir / "manifest.json", manifest)
-        if (output_dir / "requests").exists():
+        if (output_dir / RECORDS_FILE).exists():
             write_json(output_dir / "partial_usage.json", summarize_usage(output_dir, time.perf_counter() - inference_started))
         raise
 

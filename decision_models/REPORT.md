@@ -4,6 +4,12 @@ This report covers the five NALT branches and Wikidata Datasets 1, 2, and 3
 with Jev and OpenAI Decisions, using unchanged human-authored system prompts
 and zero-shot or few-shot prompting on Wikidata.
 
+All **22 final runs** use the [compact artifact layout](README.md#compact-results-and-api-metadata):
+readable decisions, probabilities, metrics and accounting tables, plus one
+`records.jsonl` per run for detailed API and traversal evidence. Consolidation
+preserved the original result and metadata files and all 5,376 API attempts.
+Redundant originals are archived locally under ignored `tmp/`.
+
 ## NALT scope and protocol
 
 This report consolidates the recorded TypeSafe Jev 1.14.0 and OpenAI Decisions
@@ -92,7 +98,7 @@ separate runs, not one continuous end-to-end execution.
 
 ## NALT result artifacts
 
-Run directories retain raw requests and responses, request identifiers, usage,
+Run directories retain request and response objects, request identifiers, usage,
 cost estimates, timestamps, per-node decisions and probabilities, layer traces,
 metrics, and prompt/source/code fingerprints. Exactly one completed
 run is retained per branch and decision model; the final Soil selection includes
@@ -102,7 +108,7 @@ the authorized override. The ordinary-LLM baselines remain in `usecase/results/`
 - [Final comparison and usage summary](results/nalt/summary/summary.json)
 - [Verification of the ten retained runs](results/nalt/summary/verification.json)
 
-The retained audits establish exact reachable frontiers, Include-only expansion,
+The retained audits inside `records.jsonl` establish exact reachable frontiers, Include-only expansion,
 one visit per node, exhausted completed traversals, unchanged prompts and baseline
 artifacts, agreement with raw API answers, and reconciliation of usage and costs.
 Probability metrics cover scored, visited model decisions; they exclude seeds,
@@ -282,8 +288,9 @@ Exactly one completed run is retained per dataset, model, and prompt setting.
 
 Each run also retains `decisions.csv` with actual decisions and probabilities,
 `bfs_gated_predictions.csv` for the complete scoring population, the prompt
-and source/code hashes, exact request bodies, raw responses, sanitized HTTP
-metadata and request IDs, and per-seed layer and traversal records. Existing
+and source/code hashes. Each `records.jsonl` preserves request payloads,
+complete response objects, sanitized HTTP metadata and request IDs, and
+per-seed layer and traversal records. Existing
 Jev and LLM artifacts were preserved. Preparation and verification utilities
 remain in ignored `tmp/`; there are no per-run Markdown reports or source snapshots.
 
@@ -464,6 +471,7 @@ Each run retains the unchanged `system_prompt.md`, exact `effective_prompt.md`,
 `examples.json`, prompt/example/source/code fingerprints, decisions and
 probabilities, request/response payloads, sanitized headers and request IDs,
 usage and cache accounting, timestamps and transport timing, per-seed layer
-and traversal traces, execution command, and log. Verification and report
+and traversal traces, execution command, and log. Detailed traces and execution
+logs are consolidated in each run's `records.jsonl`. Verification and report
 utilities remain in ignored `tmp/`; no per-run reports or source snapshots
 were added to the public experiment folders.

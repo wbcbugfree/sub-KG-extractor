@@ -63,12 +63,12 @@ def prepare(dataset: int, prompt_setting: str = "zero_shot_manual") -> dict:
                                     "source": shared.relative(path), "metrics": metrics})
     prepared["metadata"]["jev_run"] = shared.relative(directory)
     prepared["metadata"]["source_hashes"].update({shared.relative(file): jev.file_hash(file)
-        for file in directory.iterdir() if file.is_file() and file.suffix in {".json", ".csv", ".md"}})
+        for file in directory.iterdir() if file.is_file() and file.suffix in {".json", ".csv", ".md", ".jsonl"}})
     return prepared
 
 
-def classifier_factory(api_key: str, directory: Path):
-    return api.DecisionsClassifier(api_key, directory, request_builder=build_request)
+def classifier_factory(api_key: str, directory: Path, *, record_prefix: str = ""):
+    return api.DecisionsClassifier(api_key, directory, request_builder=build_request, record_prefix=record_prefix)
 
 
 def main() -> int:
@@ -109,6 +109,7 @@ def main() -> int:
         "pricing": {"sources": [api.GUIDE, api.PRICING], "checked_on": api.PRICE_DATE,
                     "rates_usd_per_million": api.RATES},
     }
+    manifest["records_file"] = jev.RECORDS_FILE
     jev.write_json(directory / "manifest.json", manifest)
     inference_started = None
     try:
