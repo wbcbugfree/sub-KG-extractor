@@ -1,0 +1,71 @@
+{
+  "cell": {
+    "id": "15_N_FULL_openai_r2",
+    "provider": "openai",
+    "model": "gpt-5.4-mini-2026-03-17",
+    "workload": "N",
+    "condition": "FULL",
+    "repeat": 2
+  },
+  "started_utc": "2026-10-28T17:14:51.516500+00:00",
+  "status": "completed",
+  "manifest_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+  "metrics": {
+    "true_positive": 870,
+    "false_positive": 119,
+    "false_negative": 162,
+    "true_negative": 524,
+    "precision": 0.8796764408493428,
+    "recall": 0.8430232558139535,
+    "f1": 0.8609599208312717,
+    "accuracy": 0.8322388059701492,
+    "evaluation_total": 1675,
+    "excluded_evaluation_count": 6,
+    "gold_positive_count": 1032,
+    "reachable_gold_positive_count": 1036,
+    "raw_gold_positive_count": 1036,
+    "unreachable_gold_positive_count": 0,
+    "included_count": 989,
+    "raw_included_count": 994,
+    "pruned_count": 590,
+    "raw_pruned_count": 591,
+    "visited_count": 1579,
+    "raw_visited_count": 1585,
+    "iterations": 11
+  },
+  "traversal_seconds": 39.93564029999834,
+  "preparation_seconds": 49.12882339999487,
+  "ended_utc": "2026-10-28T17:16:20.754190+00:00",
+  "wall_seconds": 89.23773490000167,
+  "telemetry": {
+    "provider": "openai",
+    "requested_model": "gpt-5.4-mini-2026-03-17",
+    "logical_requests": 85,
+    "http_attempts": 85,
+    "retry_attempts": 0,
+    "valid_responses": 85,
+    "classified_decisions": 1584,
+    "known_estimated_usd": 0.17323275,
+    "known_no_cache_usd": 0.17323275,
+    "cost_missing_attempts": 0,
+    "served_models": [
+      "gpt-5.4-mini-2026-03-17"
+    ],
+    "token_sums": {
+      "input_tokens": 81217,
+      "cached_input_tokens": 0,
+      "billable_output_tokens": 24960,
+      "reasoning_tokens": 0,
+      "visible_output_tokens": 24960
+    },
+    "token_field_coverage": {
+      "input_tokens": 85,
+      "cached_input_tokens": 85,
+      "billable_output_tokens": 85,
+      "reasoning_tokens": 85,
+      "visible_output_tokens": 85
+    }
+  },
+  "execution_addendum_sha256": "3e0bbbb19624468eb18043a0846a208ece77c0fde4598050e56e404e09d5cea2",
+  "module_source": "exact original bytes in frozen_code; repository data paths retained"
+}

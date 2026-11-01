@@ -1,0 +1,71 @@
+{
+  "cell": {
+    "id": "10_N_GENERIC_openai_r1",
+    "provider": "openai",
+    "model": "gpt-5.4-mini-2026-03-17",
+    "workload": "N",
+    "condition": "GENERIC",
+    "repeat": 1
+  },
+  "started_utc": "2026-10-28T16:54:21.514665+00:00",
+  "status": "completed",
+  "manifest_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+  "metrics": {
+    "true_positive": 933,
+    "false_positive": 1461,
+    "false_negative": 99,
+    "true_negative": 3296,
+    "precision": 0.38972431077694236,
+    "recall": 0.9040697674418605,
+    "f1": 0.5446584938704028,
+    "accuracy": 0.7305234064605286,
+    "evaluation_total": 5789,
+    "excluded_evaluation_count": 7,
+    "gold_positive_count": 1032,
+    "reachable_gold_positive_count": 1036,
+    "raw_gold_positive_count": 1036,
+    "unreachable_gold_positive_count": 0,
+    "included_count": 2394,
+    "raw_included_count": 2401,
+    "pruned_count": 3362,
+    "raw_pruned_count": 3362,
+    "visited_count": 5756,
+    "raw_visited_count": 5763,
+    "iterations": 15
+  },
+  "traversal_seconds": 133.79986790000112,
+  "preparation_seconds": 49.42159470000479,
+  "ended_utc": "2026-10-28T16:57:24.974519+00:00",
+  "wall_seconds": 183.45987249999598,
+  "telemetry": {
+    "provider": "openai",
+    "requested_model": "gpt-5.4-mini-2026-03-17",
+    "logical_requests": 295,
+    "http_attempts": 295,
+    "retry_attempts": 0,
+    "valid_responses": 295,
+    "classified_decisions": 5762,
+    "known_estimated_usd": 0.489135,
+    "known_no_cache_usd": 0.489135,
+    "cost_missing_attempts": 0,
+    "served_models": [
+      "gpt-5.4-mini-2026-03-17"
+    ],
+    "token_sums": {
+      "input_tokens": 102928,
+      "cached_input_tokens": 0,
+      "billable_output_tokens": 91542,
+      "reasoning_tokens": 0,
+      "visible_output_tokens": 91542
+    },
+    "token_field_coverage": {
+      "input_tokens": 295,
+      "cached_input_tokens": 295,
+      "billable_output_tokens": 295,
+      "reasoning_tokens": 295,
+      "visible_output_tokens": 295
+    }
+  },
+  "execution_addendum_sha256": "3e0bbbb19624468eb18043a0846a208ece77c0fde4598050e56e404e09d5cea2",
+  "module_source": "exact original bytes in frozen_code; repository data paths retained"
+}

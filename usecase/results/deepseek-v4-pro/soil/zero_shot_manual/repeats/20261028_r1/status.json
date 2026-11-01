@@ -1,0 +1,71 @@
+{
+  "cell": {
+    "id": "04_N_FULL_deepseek_r1",
+    "provider": "deepseek",
+    "model": "deepseek-v4-pro",
+    "workload": "N",
+    "condition": "FULL",
+    "repeat": 1
+  },
+  "started_utc": "2026-10-28T16:37:06.204634+00:00",
+  "status": "completed",
+  "manifest_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+  "metrics": {
+    "true_positive": 885,
+    "false_positive": 38,
+    "false_negative": 147,
+    "true_negative": 328,
+    "precision": 0.9588299024918743,
+    "recall": 0.8575581395348837,
+    "f1": 0.9053708439897697,
+    "accuracy": 0.8676680972818311,
+    "evaluation_total": 1398,
+    "excluded_evaluation_count": 6,
+    "gold_positive_count": 1032,
+    "reachable_gold_positive_count": 1036,
+    "raw_gold_positive_count": 1036,
+    "unreachable_gold_positive_count": 0,
+    "included_count": 923,
+    "raw_included_count": 928,
+    "pruned_count": 386,
+    "raw_pruned_count": 387,
+    "visited_count": 1309,
+    "raw_visited_count": 1315,
+    "iterations": 9
+  },
+  "traversal_seconds": 340.37983960000565,
+  "preparation_seconds": 49.825926899997285,
+  "ended_utc": "2026-10-28T16:43:36.594079+00:00",
+  "wall_seconds": 390.3894653000025,
+  "telemetry": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-v4-pro",
+    "logical_requests": 72,
+    "http_attempts": 72,
+    "retry_attempts": 0,
+    "valid_responses": 72,
+    "classified_decisions": 1314,
+    "known_estimated_usd": 0.227792004,
+    "known_no_cache_usd": 0.2799753,
+    "cost_missing_attempts": 0,
+    "served_models": [
+      "deepseek-v4-pro"
+    ],
+    "token_sums": {
+      "input_tokens": 96854,
+      "cached_input_tokens": 81792,
+      "billable_output_tokens": 109117,
+      "reasoning_tokens": 77923,
+      "visible_output_tokens": 31194
+    },
+    "token_field_coverage": {
+      "input_tokens": 72,
+      "cached_input_tokens": 72,
+      "billable_output_tokens": 72,
+      "reasoning_tokens": 72,
+      "visible_output_tokens": 72
+    }
+  },
+  "execution_addendum_sha256": "3e0bbbb19624468eb18043a0846a208ece77c0fde4598050e56e404e09d5cea2",
+  "module_source": "exact original bytes in frozen_code; repository data paths retained"
+}

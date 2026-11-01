@@ -1,0 +1,71 @@
+{
+  "cell": {
+    "id": "11_N_FULL_gemini_r2",
+    "provider": "gemini",
+    "model": "gemini-3.6-flash",
+    "workload": "N",
+    "condition": "FULL",
+    "repeat": 2
+  },
+  "started_utc": "2026-10-28T16:57:31.234132+00:00",
+  "status": "completed",
+  "manifest_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+  "metrics": {
+    "true_positive": 862,
+    "false_positive": 24,
+    "false_negative": 170,
+    "true_negative": 288,
+    "precision": 0.9729119638826185,
+    "recall": 0.8352713178294574,
+    "f1": 0.8988529718456726,
+    "accuracy": 0.8556547619047619,
+    "evaluation_total": 1344,
+    "excluded_evaluation_count": 5,
+    "gold_positive_count": 1032,
+    "reachable_gold_positive_count": 1036,
+    "raw_gold_positive_count": 1036,
+    "unreachable_gold_positive_count": 0,
+    "included_count": 886,
+    "raw_included_count": 891,
+    "pruned_count": 359,
+    "raw_pruned_count": 359,
+    "visited_count": 1245,
+    "raw_visited_count": 1250,
+    "iterations": 9
+  },
+  "traversal_seconds": 174.80028339999262,
+  "preparation_seconds": 48.44816610000271,
+  "ended_utc": "2026-10-28T17:01:14.762729+00:00",
+  "wall_seconds": 223.52862749999622,
+  "telemetry": {
+    "provider": "gemini",
+    "requested_model": "gemini-3.6-flash",
+    "logical_requests": 67,
+    "http_attempts": 67,
+    "retry_attempts": 0,
+    "valid_responses": 67,
+    "classified_decisions": 1249,
+    "known_estimated_usd": 0.47049675,
+    "known_no_cache_usd": 0.47049675,
+    "cost_missing_attempts": 0,
+    "served_models": [
+      "gemini-3.6-flash"
+    ],
+    "token_sums": {
+      "input_tokens": 61529,
+      "cached_input_tokens": 0,
+      "billable_output_tokens": 113160,
+      "reasoning_tokens": 81877,
+      "visible_output_tokens": 31283
+    },
+    "token_field_coverage": {
+      "input_tokens": 67,
+      "cached_input_tokens": 67,
+      "billable_output_tokens": 67,
+      "reasoning_tokens": 67,
+      "visible_output_tokens": 67
+    }
+  },
+  "execution_addendum_sha256": "3e0bbbb19624468eb18043a0846a208ece77c0fde4598050e56e404e09d5cea2",
+  "module_source": "exact original bytes in frozen_code; repository data paths retained"
+}

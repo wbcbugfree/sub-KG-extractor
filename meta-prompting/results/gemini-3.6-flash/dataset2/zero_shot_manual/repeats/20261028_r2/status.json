@@ -1,0 +1,60 @@
+{
+  "cell": {
+    "id": "12_W_FULL_gemini_r2",
+    "provider": "gemini",
+    "model": "gemini-3.6-flash",
+    "workload": "W",
+    "condition": "FULL",
+    "repeat": 2
+  },
+  "started_utc": "2026-10-28T17:01:24.364601+00:00",
+  "status": "completed",
+  "manifest_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+  "metrics": {
+    "total": 935,
+    "unmatched": 0,
+    "tp": 526,
+    "fp": 30,
+    "fn": 53,
+    "tn": 326,
+    "precision": 0.9460431654676259,
+    "recall": 0.9084628670120898,
+    "f1": 0.9268722466960353,
+    "accuracy": 0.9112299465240642
+  },
+  "traversal_seconds": 186.55899949999002,
+  "preparation_seconds": 0.017994599998928607,
+  "ended_utc": "2026-10-28T17:04:31.072210+00:00",
+  "wall_seconds": 186.70762950000062,
+  "telemetry": {
+    "provider": "gemini",
+    "requested_model": "gemini-3.6-flash",
+    "logical_requests": 186,
+    "http_attempts": 186,
+    "retry_attempts": 0,
+    "valid_responses": 186,
+    "classified_decisions": 924,
+    "known_estimated_usd": 0.678975,
+    "known_no_cache_usd": 0.678975,
+    "cost_missing_attempts": 0,
+    "served_models": [
+      "gemini-3.6-flash"
+    ],
+    "token_sums": {
+      "input_tokens": 200460,
+      "cached_input_tokens": 0,
+      "billable_output_tokens": 140968,
+      "reasoning_tokens": 114910,
+      "visible_output_tokens": 26058
+    },
+    "token_field_coverage": {
+      "input_tokens": 186,
+      "cached_input_tokens": 186,
+      "billable_output_tokens": 186,
+      "reasoning_tokens": 186,
+      "visible_output_tokens": 186
+    }
+  },
+  "execution_addendum_sha256": "3e0bbbb19624468eb18043a0846a208ece77c0fde4598050e56e404e09d5cea2",
+  "module_source": "exact original bytes in frozen_code; repository data paths retained"
+}

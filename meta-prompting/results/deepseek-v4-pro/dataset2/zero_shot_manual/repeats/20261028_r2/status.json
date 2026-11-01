@@ -1,0 +1,60 @@
+{
+  "cell": {
+    "id": "14_W_FULL_deepseek_r2",
+    "provider": "deepseek",
+    "model": "deepseek-v4-pro",
+    "workload": "W",
+    "condition": "FULL",
+    "repeat": 2
+  },
+  "started_utc": "2026-10-28T17:09:43.627204+00:00",
+  "status": "completed",
+  "manifest_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+  "metrics": {
+    "total": 935,
+    "unmatched": 0,
+    "tp": 487,
+    "fp": 20,
+    "fn": 92,
+    "tn": 336,
+    "precision": 0.960552268244576,
+    "recall": 0.8411053540587219,
+    "f1": 0.8968692449355433,
+    "accuracy": 0.8802139037433155
+  },
+  "traversal_seconds": 303.9289063000033,
+  "preparation_seconds": 0.020805899999686517,
+  "ended_utc": "2026-10-28T17:14:47.702709+00:00",
+  "wall_seconds": 304.07552399999986,
+  "telemetry": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-v4-pro",
+    "logical_requests": 186,
+    "http_attempts": 186,
+    "retry_attempts": 0,
+    "valid_responses": 186,
+    "classified_decisions": 918,
+    "known_estimated_usd": 0.29004492,
+    "known_no_cache_usd": 0.46153932000000003,
+    "cost_missing_attempts": 0,
+    "served_models": [
+      "deepseek-v4-pro"
+    ],
+    "token_sums": {
+      "input_tokens": 280517,
+      "cached_input_tokens": 268800,
+      "billable_output_tokens": 139595,
+      "reasoning_tokens": 111017,
+      "visible_output_tokens": 28578
+    },
+    "token_field_coverage": {
+      "input_tokens": 186,
+      "cached_input_tokens": 186,
+      "billable_output_tokens": 186,
+      "reasoning_tokens": 186,
+      "visible_output_tokens": 186
+    }
+  },
+  "execution_addendum_sha256": "3e0bbbb19624468eb18043a0846a208ece77c0fde4598050e56e404e09d5cea2",
+  "module_source": "exact original bytes in frozen_code; repository data paths retained"
+}

@@ -1,0 +1,36 @@
+{
+  "status": "completed",
+  "started_utc": "2026-10-29T16:44:51.385896+00:00",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "ended_utc": "2026-10-29T16:45:34.569922+00:00",
+  "telemetry": {
+    "provider": "openai",
+    "requested_model": "gpt-5.4-mini-2026-03-17",
+    "logical_requests": 104,
+    "http_attempts": 104,
+    "retry_attempts": 0,
+    "valid_responses": 104,
+    "classified_decisions": 2014,
+    "known_estimated_usd": 0.26194725,
+    "known_no_cache_usd": 0.26194725,
+    "cost_missing_attempts": 0,
+    "served_models": [
+      "gpt-5.4-mini-2026-03-17"
+    ],
+    "token_sums": {
+      "input_tokens": 159423,
+      "cached_input_tokens": 0,
+      "billable_output_tokens": 31640,
+      "reasoning_tokens": 0,
+      "visible_output_tokens": 31640
+    },
+    "token_field_coverage": {
+      "input_tokens": 104,
+      "cached_input_tokens": 104,
+      "billable_output_tokens": 104,
+      "reasoning_tokens": 104,
+      "visible_output_tokens": 104
+    }
+  },
+  "process_wall_seconds": 44.125845300004585
+}

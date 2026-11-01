@@ -29,6 +29,12 @@ Model outputs follow the same hierarchy as the Wikidata experiments:
 are stored under `prompts/<model>/`; human-authored prompts and labeled
 demonstration sets remain shared across models.
 
+Two additional Soil runs per model are retained under
+`results/<model>/soil/zero_shot_manual/repeats/20261028_r1/` and
+`20261028_r2/` for GPT-5.4 mini, DeepSeek V4 Pro and Gemini 3.6 Flash.
+Their predictions, modified detailed prompts, token accounting and runtime
+records are documented in the [shared experiment guide](../ablation/README.md).
+
 The descendants of each hidden benchmark topic root define its raw structural
 gold set; scoring uses the reachable descendants after holding out the labeled
 demonstrations.

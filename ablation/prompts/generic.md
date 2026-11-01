@@ -1,0 +1,1 @@
+For each candidate, decide whether it belongs in a subgraph about the supplied seed topic. Use the supplied evidence and return INCLUDE or EXCLUDE for each candidate.

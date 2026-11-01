@@ -1,0 +1,60 @@
+{
+  "cell": {
+    "id": "07_W_NOPATH_openai_r1",
+    "provider": "openai",
+    "model": "gpt-5.4-mini-2026-03-17",
+    "workload": "W",
+    "condition": "NOPATH",
+    "repeat": 1
+  },
+  "started_utc": "2026-10-28T16:50:43.491650+00:00",
+  "status": "completed",
+  "manifest_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+  "metrics": {
+    "total": 935,
+    "unmatched": 0,
+    "tp": 405,
+    "fp": 17,
+    "fn": 174,
+    "tn": 339,
+    "precision": 0.9597156398104265,
+    "recall": 0.6994818652849741,
+    "f1": 0.8091908091908093,
+    "accuracy": 0.7957219251336899
+  },
+  "traversal_seconds": 57.80912580000586,
+  "preparation_seconds": 0.018534400005592033,
+  "ended_utc": "2026-10-28T16:51:41.447524+00:00",
+  "wall_seconds": 57.95589110000583,
+  "telemetry": {
+    "provider": "openai",
+    "requested_model": "gpt-5.4-mini-2026-03-17",
+    "logical_requests": 173,
+    "http_attempts": 173,
+    "retry_attempts": 0,
+    "valid_responses": 173,
+    "classified_decisions": 796,
+    "known_estimated_usd": 0.19736475,
+    "known_no_cache_usd": 0.19736475,
+    "cost_missing_attempts": 0,
+    "served_models": [
+      "gpt-5.4-mini-2026-03-17"
+    ],
+    "token_sums": {
+      "input_tokens": 176993,
+      "cached_input_tokens": 0,
+      "billable_output_tokens": 14360,
+      "reasoning_tokens": 0,
+      "visible_output_tokens": 14360
+    },
+    "token_field_coverage": {
+      "input_tokens": 173,
+      "cached_input_tokens": 173,
+      "billable_output_tokens": 173,
+      "reasoning_tokens": 173,
+      "visible_output_tokens": 173
+    }
+  },
+  "execution_addendum_sha256": "3e0bbbb19624468eb18043a0846a208ece77c0fde4598050e56e404e09d5cea2",
+  "module_source": "exact original bytes in frozen_code; repository data paths retained"
+}

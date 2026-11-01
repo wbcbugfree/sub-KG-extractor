@@ -1,0 +1,69 @@
+{
+  "cell": {
+    "id": "02_N_FULL_openai_r1",
+    "provider": "openai",
+    "model": "gpt-5.4-mini-2026-03-17",
+    "workload": "N",
+    "condition": "FULL",
+    "repeat": 1
+  },
+  "started_utc": "2026-10-28T16:20:28.236669+00:00",
+  "status": "completed",
+  "manifest_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+  "metrics": {
+    "true_positive": 863,
+    "false_positive": 85,
+    "false_negative": 169,
+    "true_negative": 391,
+    "precision": 0.9103375527426161,
+    "recall": 0.8362403100775194,
+    "f1": 0.8717171717171717,
+    "accuracy": 0.8315649867374005,
+    "evaluation_total": 1508,
+    "excluded_evaluation_count": 6,
+    "gold_positive_count": 1032,
+    "reachable_gold_positive_count": 1036,
+    "raw_gold_positive_count": 1036,
+    "unreachable_gold_positive_count": 0,
+    "included_count": 948,
+    "raw_included_count": 953,
+    "pruned_count": 462,
+    "raw_pruned_count": 463,
+    "visited_count": 1410,
+    "raw_visited_count": 1416,
+    "iterations": 9
+  },
+  "traversal_seconds": 42.82634510000207,
+  "preparation_seconds": 59.68345089999639,
+  "ended_utc": "2026-10-28T16:22:10.920772+00:00",
+  "wall_seconds": 102.68412189999799,
+  "telemetry": {
+    "provider": "openai",
+    "requested_model": "gpt-5.4-mini-2026-03-17",
+    "logical_requests": 77,
+    "http_attempts": 77,
+    "retry_attempts": 0,
+    "valid_responses": 77,
+    "classified_decisions": 1415,
+    "known_estimated_usd": 0.155343,
+    "known_no_cache_usd": 0.155343,
+    "cost_missing_attempts": 0,
+    "served_models": [
+      "gpt-5.4-mini-2026-03-17"
+    ],
+    "token_sums": {
+      "input_tokens": 73198,
+      "cached_input_tokens": 0,
+      "billable_output_tokens": 22321,
+      "reasoning_tokens": 0,
+      "visible_output_tokens": 22321
+    },
+    "token_field_coverage": {
+      "input_tokens": 77,
+      "cached_input_tokens": 77,
+      "billable_output_tokens": 77,
+      "reasoning_tokens": 77,
+      "visible_output_tokens": 77
+    }
+  }
+}

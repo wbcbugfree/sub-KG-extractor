@@ -149,7 +149,8 @@ Detailed metrics and artifact paths are available in:
 - [Wikidata prompting report](meta-prompting/REPORT.md)
 - [NALT prompting report](usecase/REPORT.md)
 - [LSTM and Path Analogy reproduction report](reproduction/REPORT.md)
-- [NALT demonstration-count ablation](usecase/ablation/REPORT.md)
+- [Wikidata and NALT ablation studies](ablation/README.md)
+- [NALT demonstration-count ablation](ablation/nalt/demonstration_count/REPORT.md)
 
 ## Repository structure
 
@@ -167,8 +168,16 @@ Detailed metrics and artifact paths are available in:
 │   ├── subkg_extractor_nalt.py       # NALT extraction and prompt experiments
 │   ├── prompts/
 │   ├── results/
-│   ├── ablation/
 │   └── REPORT.md
+├── ablation/
+│   ├── wikidata/                     # Path and topic-prompt ablations
+│   ├── nalt/                         # Path, prompt and demonstration-count studies
+│   ├── prompts/                      # Path and generic-prompt conditions
+│   ├── data/                         # Fixed scoring identities
+│   ├── run_experiment.py             # Common runner importing project modules
+│   ├── experiments.json              # Run locations and artifact hashes
+│   ├── run_experiment.py             # Offline verification and reproduction
+│   └── README.md
 ├── reproduction/
 │   ├── src/                          # Adapted baseline implementation
 │   ├── folds/                        # Fixed five-fold seed splits

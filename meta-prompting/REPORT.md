@@ -31,6 +31,14 @@ for the final labelled candidate node.
 
 ## Provenance
 
+Two additional zero-shot runs per model on Dataset 2 are retained under
+`results/<model>/dataset2/zero_shot_manual/repeats/20261028_r1/` and
+`20261028_r2/`. Their models are GPT-5.4 mini, DeepSeek V4 Pro and Gemini 3.6
+Flash. Predictions, token accounting and runtime records are described in the
+[shared experiment guide](../ablation/README.md). Their modified detailed
+prompts and live API execution settings are recorded separately from the
+original evaluations below.
+
 Gemini and GPT batch `manifest.json` files record prompt and
 labeled-demonstration files and hashes, context level, and run directory.
 DeepSeek run provenance is stored in the direct-run JSON files. The

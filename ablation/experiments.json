@@ -1,0 +1,1438 @@
+{
+  "schema_version": 2,
+  "runs": [
+    {
+      "id": "01_W_FULL_openai_r1",
+      "kind": "repeat",
+      "benchmark": "wikidata_dataset2",
+      "provider": "openai",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "condition": "FULL",
+      "repeat": 1,
+      "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r1",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/wikidata_d2_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/01_W_FULL_openai_r1/result.json",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r1/result.json",
+          "sha256": "0c03c2dbfe9f4d4501c63be228cc63983bbbbaed64ae1ef8f118466ae434dbe5",
+          "bytes": 1010189
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/01_W_FULL_openai_r1/status.json",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r1/status.json",
+          "sha256": "12142e1b289920f78ae1f0ebff665fc44ffe4e8a129abfc8a34544505130c5fb",
+          "bytes": 1638
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/01_W_FULL_openai_r1/attempts.jsonl",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r1/attempts.jsonl",
+          "sha256": "0664b5262d4887e41c537db5ace8aa275c784444b8735a0772ab63adb88dbf93",
+          "bytes": 185724
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/01_W_FULL_openai_r1/predictions.csv",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r1/predictions.csv",
+          "sha256": "4cad3fbe7f133db60aae92b585ab9c848ad590a46a5b8ba3650562e458fe9ee1",
+          "bytes": 101699
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/01_W_FULL_openai_r1.json",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r1/process_time.json",
+          "sha256": "a1ad8d6848488ba22012dcf1dddef8aa4bee1a86073f177d5632b5497f90afa1",
+          "bytes": 60
+        }
+      ]
+    },
+    {
+      "id": "02_N_FULL_openai_r1",
+      "kind": "repeat",
+      "benchmark": "nalt_soil",
+      "provider": "openai",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "condition": "FULL",
+      "repeat": 1,
+      "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r1",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/nalt_soil_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/02_N_FULL_openai_r1/result.json",
+          "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r1/result.json",
+          "sha256": "47bbe7ac74e9e4fdae618a8f2e62f104b815e485705d10932adedf5679e42488",
+          "bytes": 971019
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/02_N_FULL_openai_r1/status.json",
+          "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r1/status.json",
+          "sha256": "d5670706cb116956dd42f0620942c855e2d7dc389acf9801ed16a7219083ef7c",
+          "bytes": 2055
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/02_N_FULL_openai_r1/attempts.jsonl",
+          "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r1/attempts.jsonl",
+          "sha256": "dd56b3abb422dc8b9428167e1e5ac0c6ac71c13be95bef333df65b055bc8e294",
+          "bytes": 130723
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/02_N_FULL_openai_r1.json",
+          "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r1/process_time.json",
+          "sha256": "828557deafb27631d8550a8cb7f88470c26985c74abafc24de56ca2d8c5fb6ef",
+          "bytes": 61
+        }
+      ]
+    },
+    {
+      "id": "03_W_FULL_deepseek_r1",
+      "kind": "repeat",
+      "benchmark": "wikidata_dataset2",
+      "provider": "deepseek",
+      "model": "deepseek-v4-pro",
+      "condition": "FULL",
+      "repeat": 1,
+      "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r1",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/wikidata_d2_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/03_W_FULL_deepseek_r1/result.json",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r1/result.json",
+          "sha256": "a3b5698ff01cb0e157cd476cfebf768f6edeb5f2c5eed5d895fb081a3f5e9eb9",
+          "bytes": 1029395
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/03_W_FULL_deepseek_r1/status.json",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r1/status.json",
+          "sha256": "4fe5f961db987cc992d531d8f6b157874a0811ef464ae70be830690188810c9c",
+          "bytes": 1628
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/03_W_FULL_deepseek_r1/attempts.jsonl",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r1/attempts.jsonl",
+          "sha256": "a4e6a4cb505ad25913c18d4896a69b8a869e46bf890cc9a5369faba6559d5a23",
+          "bytes": 181892
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/03_W_FULL_deepseek_r1/predictions.csv",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r1/predictions.csv",
+          "sha256": "69f1936369d8064b0cb2c71ff83f8aca6f30ad2ffa56af29c5688819e2e9659c",
+          "bytes": 101476
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/03_W_FULL_deepseek_r1.json",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r1/process_time.json",
+          "sha256": "3618bc93d5dff2474ceb43c40804e1f75665bf261634891b807cc430b59ed391",
+          "bytes": 60
+        }
+      ]
+    },
+    {
+      "id": "04_N_FULL_deepseek_r1",
+      "kind": "repeat",
+      "benchmark": "nalt_soil",
+      "provider": "deepseek",
+      "model": "deepseek-v4-pro",
+      "condition": "FULL",
+      "repeat": 1,
+      "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r1",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/nalt_soil_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/04_N_FULL_deepseek_r1/result.json",
+          "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r1/result.json",
+          "sha256": "3eb70570950d29af1046171c47ddff0664141f2075de56f52d51df22e112503f",
+          "bytes": 902430
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/04_N_FULL_deepseek_r1/status.json",
+          "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r1/status.json",
+          "sha256": "aa37ac6cc399c871e3687e25cc9b6c5fd1e0605019ca7927d2b97d3adeb78469",
+          "bytes": 2242
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/04_N_FULL_deepseek_r1/attempts.jsonl",
+          "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r1/attempts.jsonl",
+          "sha256": "0d5c690db36f340c842e18110e74c5fdb2099c1565db02d800d320a00f138a65",
+          "bytes": 118303
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/04_N_FULL_deepseek_r1.json",
+          "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r1/process_time.json",
+          "sha256": "ea536e7a5f48f6399960c57c62b461d6e1cd5a858851db8298eea05c335dc79b",
+          "bytes": 59
+        }
+      ]
+    },
+    {
+      "id": "05_W_FULL_gemini_r1",
+      "kind": "repeat",
+      "benchmark": "wikidata_dataset2",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash",
+      "condition": "FULL",
+      "repeat": 1,
+      "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r1",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/wikidata_d2_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/05_W_FULL_gemini_r1/result.json",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r1/result.json",
+          "sha256": "7988a91f92e8250b04ac958cf8872ed2c8d0d923f689eef1886809b119990d60",
+          "bytes": 1029875
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/05_W_FULL_gemini_r1/status.json",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r1/status.json",
+          "sha256": "6d517a15cabdc8f685b9005bf68e36c4dfb73b45bed639cde4ef2ca5e1b371bd",
+          "bytes": 1814
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/05_W_FULL_gemini_r1/attempts.jsonl",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r1/attempts.jsonl",
+          "sha256": "885c7c1485f982a6cefae515f9beaa7b3628bd742975d8e3654a91f660d44613",
+          "bytes": 180875
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/05_W_FULL_gemini_r1/predictions.csv",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r1/predictions.csv",
+          "sha256": "15d17fcc48fea9a85f6a6888fef1f7ac23c641fab818c63f9b5559018269e165",
+          "bytes": 101601
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/05_W_FULL_gemini_r1.json",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r1/process_time.json",
+          "sha256": "4ebe34f8d31e18b86d232ba789e3e542c355b84e047ace1ac12c688315380159",
+          "bytes": 61
+        }
+      ]
+    },
+    {
+      "id": "06_N_FULL_gemini_r1",
+      "kind": "repeat",
+      "benchmark": "nalt_soil",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash",
+      "condition": "FULL",
+      "repeat": 1,
+      "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r1",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/nalt_soil_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/06_N_FULL_gemini_r1/result.json",
+          "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r1/result.json",
+          "sha256": "7866fa74c915ebc6eaa5696498a92c5c2c7c83ee7ce6a13e78292b049ba9f912",
+          "bytes": 849572
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/06_N_FULL_gemini_r1/status.json",
+          "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r1/status.json",
+          "sha256": "689f0c6290ee89e7dcb9bfa793e1b98ae84504ba35d034955accb15981f8ebff",
+          "bytes": 2234
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/06_N_FULL_gemini_r1/attempts.jsonl",
+          "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r1/attempts.jsonl",
+          "sha256": "c031de506b8a519061b43b81c69110c7a9a7f8d30ec3bfcfe72a356b986684ab",
+          "bytes": 109601
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/06_N_FULL_gemini_r1.json",
+          "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r1/process_time.json",
+          "sha256": "cf79fab43e933f8ab3f0439f0844ee0032353bf516baefd6462a34ea177b49e1",
+          "bytes": 59
+        }
+      ]
+    },
+    {
+      "id": "07_W_NOPATH_openai_r1",
+      "kind": "ablation",
+      "benchmark": "wikidata_dataset2",
+      "provider": "openai",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "condition": "NOPATH",
+      "repeat": 1,
+      "path": "ablation/wikidata/dataset2/no_path/gpt-5.4-mini/20261028",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/wikidata_d2_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/07_W_NOPATH_openai_r1/result.json",
+          "path": "ablation/wikidata/dataset2/no_path/gpt-5.4-mini/20261028/result.json",
+          "sha256": "14be1ef2e4613689880357b7ba51a1483311c126d977dd59218f73b2b4aa350a",
+          "bytes": 960115
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/07_W_NOPATH_openai_r1/status.json",
+          "path": "ablation/wikidata/dataset2/no_path/gpt-5.4-mini/20261028/status.json",
+          "sha256": "2c2d92f03a351916c12cd4543056aa093eabbb7d7971cacfb81a9e9e5344dbfe",
+          "bytes": 1833
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/07_W_NOPATH_openai_r1/attempts.jsonl",
+          "path": "ablation/wikidata/dataset2/no_path/gpt-5.4-mini/20261028/attempts.jsonl",
+          "sha256": "a30a936fec81f55171782208e882061da89f0cadec6fe20c25f724822b1da9df",
+          "bytes": 177261
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/07_W_NOPATH_openai_r1/predictions.csv",
+          "path": "ablation/wikidata/dataset2/no_path/gpt-5.4-mini/20261028/predictions.csv",
+          "sha256": "711e9e4b8a26c67ea63c2bd9a247ba72c921b979b12b336d23f2d2850240efd5",
+          "bytes": 101695
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/07_W_NOPATH_openai_r1.json",
+          "path": "ablation/wikidata/dataset2/no_path/gpt-5.4-mini/20261028/process_time.json",
+          "sha256": "edb64faff71810479ab8c9be79748c6da039da4197f589d706015800df35fcfb",
+          "bytes": 61
+        }
+      ]
+    },
+    {
+      "id": "08_N_PATH_openai_r1",
+      "kind": "ablation",
+      "benchmark": "nalt_soil",
+      "provider": "openai",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "condition": "PATH",
+      "repeat": 1,
+      "path": "ablation/nalt/soil/with_paths/gpt-5.4-mini/20261028",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/nalt_soil_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/08_N_PATH_openai_r1/result.json",
+          "path": "ablation/nalt/soil/with_paths/gpt-5.4-mini/20261028/result.json",
+          "sha256": "ccc9025de4261896ee0ed984fee7cbdc9b2fb6dbbfcc052592a5ee4f668f73f7",
+          "bytes": 1568733
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/08_N_PATH_openai_r1/status.json",
+          "path": "ablation/nalt/soil/with_paths/gpt-5.4-mini/20261028/status.json",
+          "sha256": "35b41b052818f157a3b99e2e53b715e351f19d7efef05fc5f0fdc13ee731ae5e",
+          "bytes": 2264
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/08_N_PATH_openai_r1/attempts.jsonl",
+          "path": "ablation/nalt/soil/with_paths/gpt-5.4-mini/20261028/attempts.jsonl",
+          "sha256": "6681c24de01a56f7f40fa5f70f7e2e646d6b9934cb14af6c0f1eea640b571fc2",
+          "bytes": 203179
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/08_N_PATH_openai_r1.json",
+          "path": "ablation/nalt/soil/with_paths/gpt-5.4-mini/20261028/process_time.json",
+          "sha256": "205e2c9ac59701162fbc919f4c50cd101c8a38af41240583b4cde55e3cd26a17",
+          "bytes": 61
+        }
+      ]
+    },
+    {
+      "id": "09_W_GENERIC_openai_r1",
+      "kind": "ablation",
+      "benchmark": "wikidata_dataset2",
+      "provider": "openai",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "condition": "GENERIC",
+      "repeat": 1,
+      "path": "ablation/wikidata/dataset2/generic_prompt/gpt-5.4-mini/20261028",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/generic.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/09_W_GENERIC_openai_r1/result.json",
+          "path": "ablation/wikidata/dataset2/generic_prompt/gpt-5.4-mini/20261028/result.json",
+          "sha256": "a7b967c551befe24f031c262fc93daaeebfeb80ac28eecff845bd26882ca34d9",
+          "bytes": 971275
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/09_W_GENERIC_openai_r1/status.json",
+          "path": "ablation/wikidata/dataset2/generic_prompt/gpt-5.4-mini/20261028/status.json",
+          "sha256": "f7e5488a943c26403fb5f496f24f77a2f1c8d3e28333b9d93e0a98a265ca9499",
+          "bytes": 1833
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/09_W_GENERIC_openai_r1/attempts.jsonl",
+          "path": "ablation/wikidata/dataset2/generic_prompt/gpt-5.4-mini/20261028/attempts.jsonl",
+          "sha256": "828fbc66ea1454f5c6c88d19708badf01f5b39a1bc3126c988225108e18cbc9c",
+          "bytes": 177626
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/09_W_GENERIC_openai_r1/predictions.csv",
+          "path": "ablation/wikidata/dataset2/generic_prompt/gpt-5.4-mini/20261028/predictions.csv",
+          "sha256": "17485ba454aea492ec946a2476b5b92d432af07187605ed1fac6573daa814617",
+          "bytes": 101709
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/09_W_GENERIC_openai_r1.json",
+          "path": "ablation/wikidata/dataset2/generic_prompt/gpt-5.4-mini/20261028/process_time.json",
+          "sha256": "9304ae7ccc60e4d72a1c7c1d79fb2ff450ad05f582bc553f6f585737ac1fac4b",
+          "bytes": 60
+        }
+      ]
+    },
+    {
+      "id": "10_N_GENERIC_openai_r1",
+      "kind": "ablation",
+      "benchmark": "nalt_soil",
+      "provider": "openai",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "condition": "GENERIC",
+      "repeat": 1,
+      "path": "ablation/nalt/soil/generic_prompt/gpt-5.4-mini/20261028",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/generic.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/10_N_GENERIC_openai_r1/result.json",
+          "path": "ablation/nalt/soil/generic_prompt/gpt-5.4-mini/20261028/result.json",
+          "sha256": "0ebe40f3d710456a91c9ed2d40e3a618fa1e13830998290e3c36a7f18c9c0ea0",
+          "bytes": 3901541
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/10_N_GENERIC_openai_r1/status.json",
+          "path": "ablation/nalt/soil/generic_prompt/gpt-5.4-mini/20261028/status.json",
+          "sha256": "8f230bf808a91b4b46d7a171333152b49df91910b82c97a3777350c32dae8894",
+          "bytes": 2270
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/10_N_GENERIC_openai_r1/attempts.jsonl",
+          "path": "ablation/nalt/soil/generic_prompt/gpt-5.4-mini/20261028/attempts.jsonl",
+          "sha256": "052c887e0d34360cc7558f56a97f2a702e5f5e0afc460351cbd568e04f7dca19",
+          "bytes": 514895
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/10_N_GENERIC_openai_r1.json",
+          "path": "ablation/nalt/soil/generic_prompt/gpt-5.4-mini/20261028/process_time.json",
+          "sha256": "1ff98a241533aacd47e47978b2ddb19ee50ab220185682e26d6aa45c76a3e5db",
+          "bytes": 61
+        }
+      ]
+    },
+    {
+      "id": "11_N_FULL_gemini_r2",
+      "kind": "repeat",
+      "benchmark": "nalt_soil",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash",
+      "condition": "FULL",
+      "repeat": 2,
+      "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r2",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/nalt_soil_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/11_N_FULL_gemini_r2/result.json",
+          "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r2/result.json",
+          "sha256": "d8f38179cc6824ced0fe164b541ddefc668d105f9d4ce5a01fbbef50bfda1b7f",
+          "bytes": 857205
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/11_N_FULL_gemini_r2/status.json",
+          "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r2/status.json",
+          "sha256": "8e0f59dd5b35479fc1c4013db572bac2bd0f5b08e26142ac24c3ee4c84b3bd26",
+          "bytes": 2235
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/11_N_FULL_gemini_r2/attempts.jsonl",
+          "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r2/attempts.jsonl",
+          "sha256": "9dd38914c918a41facd8944b595e2cbc96c2e4a570566082f42b26c917430dd3",
+          "bytes": 110140
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/11_N_FULL_gemini_r2.json",
+          "path": "usecase/results/gemini-3.6-flash/soil/zero_shot_manual/repeats/20261028_r2/process_time.json",
+          "sha256": "09f217a88a40208a3995114b32b0579936586f6622b36a98d6ff1c24292c718c",
+          "bytes": 60
+        }
+      ]
+    },
+    {
+      "id": "12_W_FULL_gemini_r2",
+      "kind": "repeat",
+      "benchmark": "wikidata_dataset2",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash",
+      "condition": "FULL",
+      "repeat": 2,
+      "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r2",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/wikidata_d2_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/12_W_FULL_gemini_r2/result.json",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r2/result.json",
+          "sha256": "1587e4d2de93f3c17428e72d6f4faf6594b13da6f22c33ef89627246f82671e9",
+          "bytes": 1029178
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/12_W_FULL_gemini_r2/status.json",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r2/status.json",
+          "sha256": "f83348d390b44f2fe5de288397433c5810a3ce1fd3553dffd5b81b81d6823ceb",
+          "bytes": 1811
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/12_W_FULL_gemini_r2/attempts.jsonl",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r2/attempts.jsonl",
+          "sha256": "266c5605ddd000bf282adf717428e50c64c11913093fabfd74d611cd98143bf8",
+          "bytes": 179972
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/12_W_FULL_gemini_r2/predictions.csv",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r2/predictions.csv",
+          "sha256": "6ec8d49d16c5091b250d6c9610f8bf26a5b07286ae1dd3ac9c8a841f0d8cdfef",
+          "bytes": 101605
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/12_W_FULL_gemini_r2.json",
+          "path": "meta-prompting/results/gemini-3.6-flash/dataset2/zero_shot_manual/repeats/20261028_r2/process_time.json",
+          "sha256": "cd13e24558f1ee1082348d8b7b2976e2d2f58c15d1b0fbf8e04c7557ba57bb94",
+          "bytes": 61
+        }
+      ]
+    },
+    {
+      "id": "13_N_FULL_deepseek_r2",
+      "kind": "repeat",
+      "benchmark": "nalt_soil",
+      "provider": "deepseek",
+      "model": "deepseek-v4-pro",
+      "condition": "FULL",
+      "repeat": 2,
+      "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r2",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/nalt_soil_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/13_N_FULL_deepseek_r2/result.json",
+          "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r2/result.json",
+          "sha256": "b974917e8e078ffaf21f5497229924d148183ad4c8b0ebfb1e9013a141c362e4",
+          "bytes": 891980
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/13_N_FULL_deepseek_r2/status.json",
+          "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r2/status.json",
+          "sha256": "1d72888a7373233edfad24e279ecbe43528646bbb40e12a786a8815608ae6939",
+          "bytes": 2242
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/13_N_FULL_deepseek_r2/attempts.jsonl",
+          "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r2/attempts.jsonl",
+          "sha256": "ed2f317b99f5ab5d462964939b3946a598c797bdfe2dfea4f33ad34e1dd19373",
+          "bytes": 116995
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/13_N_FULL_deepseek_r2.json",
+          "path": "usecase/results/deepseek-v4-pro/soil/zero_shot_manual/repeats/20261028_r2/process_time.json",
+          "sha256": "cb1d43669900d57197ce29a7e935032755d939da97ac3fb6b09f133fde5c8199",
+          "bytes": 59
+        }
+      ]
+    },
+    {
+      "id": "14_W_FULL_deepseek_r2",
+      "kind": "repeat",
+      "benchmark": "wikidata_dataset2",
+      "provider": "deepseek",
+      "model": "deepseek-v4-pro",
+      "condition": "FULL",
+      "repeat": 2,
+      "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r2",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/wikidata_d2_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/14_W_FULL_deepseek_r2/result.json",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r2/result.json",
+          "sha256": "98126cd916f899d92755ca67fd6ffa8024c2e8108bfba255a12825fa3fc427a2",
+          "bytes": 1025923
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/14_W_FULL_deepseek_r2/status.json",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r2/status.json",
+          "sha256": "687c3cbe385875370cdbae927bcaa415e59db9be8907ae42be251deb4e40f162",
+          "bytes": 1830
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/14_W_FULL_deepseek_r2/attempts.jsonl",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r2/attempts.jsonl",
+          "sha256": "b0cbb36540502db5374a370d38be79dbc6bb602a1803eec05208a503d570bcc2",
+          "bytes": 182535
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/14_W_FULL_deepseek_r2/predictions.csv",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r2/predictions.csv",
+          "sha256": "a71f33f5af82f150af1ddaeaa3c6df4dfca84ed1aae197d513a7d7fb0ef0defc",
+          "bytes": 101453
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/14_W_FULL_deepseek_r2.json",
+          "path": "meta-prompting/results/deepseek-v4-pro/dataset2/zero_shot_manual/repeats/20261028_r2/process_time.json",
+          "sha256": "f2b46b4e633526d8b47dd7f35ba16f30d5a659f83ce2566b0b89f6ef47ac07a9",
+          "bytes": 61
+        }
+      ]
+    },
+    {
+      "id": "15_N_FULL_openai_r2",
+      "kind": "repeat",
+      "benchmark": "nalt_soil",
+      "provider": "openai",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "condition": "FULL",
+      "repeat": 2,
+      "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r2",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/nalt_soil_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/15_N_FULL_openai_r2/result.json",
+          "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r2/result.json",
+          "sha256": "fdb846043a57484d9c53739232252b5b38bd1c74cd5f646648e6d0766e6a0c5f",
+          "bytes": 1085496
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/15_N_FULL_openai_r2/status.json",
+          "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r2/status.json",
+          "sha256": "1eac706e3d73474264db415dba3ecf5804e6f9b78f5e2d45f9f067eece9aab5c",
+          "bytes": 2251
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/15_N_FULL_openai_r2/attempts.jsonl",
+          "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r2/attempts.jsonl",
+          "sha256": "4aa6974a252c53431476dbd24851eb855831a95057d093bc818961512aecd8c8",
+          "bytes": 145243
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/15_N_FULL_openai_r2.json",
+          "path": "usecase/results/gpt-5.4-mini/soil/zero_shot_manual/repeats/20261028_r2/process_time.json",
+          "sha256": "ca46fcf5b0cfdd86c394c9f53780f10275c6fc9594db0675cbe32566b84e1168",
+          "bytes": 60
+        }
+      ]
+    },
+    {
+      "id": "16_W_FULL_openai_r2",
+      "kind": "repeat",
+      "benchmark": "wikidata_dataset2",
+      "provider": "openai",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "condition": "FULL",
+      "repeat": 2,
+      "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r2",
+      "protocol": "live_bfs",
+      "prompt": "ablation/prompts/wikidata_d2_detailed.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/16_W_FULL_openai_r2/result.json",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r2/result.json",
+          "sha256": "bb0fbed111699cbdb96022e430b61cc13eef829a3884d9103bc158807147776f",
+          "bytes": 1016604
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/16_W_FULL_openai_r2/status.json",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r2/status.json",
+          "sha256": "10ddd422c25996200383072cd2956f2481558233bd689cb13dff995c7a7f8e10",
+          "bytes": 1829
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/16_W_FULL_openai_r2/attempts.jsonl",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r2/attempts.jsonl",
+          "sha256": "6ae3f2e27e7d10794b6582e259d2524ebff35b9b015aff4224094bffe88a2d9c",
+          "bytes": 189714
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/runs/16_W_FULL_openai_r2/predictions.csv",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r2/predictions.csv",
+          "sha256": "7ba898cbceff18ca3c4eee58af9299f8ccfed3b0a50098923b9df6184420d492",
+          "bytes": 101689
+        },
+        {
+          "source": "tmp/rebuttal/campaign_20261028/process_times/16_W_FULL_openai_r2.json",
+          "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/repeats/20261028_r2/process_time.json",
+          "sha256": "ef111575d002a389d6ecd6d05a4ec05e1f095328fde1487653866113f1753bb3",
+          "bytes": 60
+        }
+      ]
+    },
+    {
+      "id": "D3_NOPATH_openai_r1",
+      "kind": "ablation",
+      "benchmark": "wikidata_dataset3",
+      "provider": "openai",
+      "model": "gpt-5.4-mini-2026-03-17",
+      "condition": "NOPATH",
+      "repeat": 1,
+      "path": "ablation/wikidata/dataset3/no_path/gpt-5.4-mini/20261029",
+      "protocol": "fixed_candidates",
+      "prompt": "ablation/prompts/wikidata_d3_no_path.md",
+      "artifacts": [
+        {
+          "source": "tmp/rebuttal/d3_nopath_20261029/run/bfs_gated_predictions.csv",
+          "path": "ablation/wikidata/dataset3/no_path/gpt-5.4-mini/20261029/predictions.csv",
+          "sha256": "b7878895cdb89148dab02ea4a922ae8faeaea1d0d8e45327c6a39f19b064cfce",
+          "bytes": 708127
+        },
+        {
+          "source": "tmp/rebuttal/d3_nopath_20261029/run/result.json",
+          "path": "ablation/wikidata/dataset3/no_path/gpt-5.4-mini/20261029/result.json",
+          "sha256": "ac235ea2da363e7a9808c4a45c653d5494871887c3d6f268b184b686ce8b7667",
+          "bytes": 20901,
+          "original_sha256": "360689a63662184d3f878439076c163c1a21cb8a844d481a0486732d8498e302",
+          "original_bytes": 8436,
+          "relocation_change": "Embedded the complete scoring audit and offline validation; all original result fields are unchanged."
+        },
+        {
+          "source": "tmp/rebuttal/d3_nopath_20261029/run/status.json",
+          "path": "ablation/wikidata/dataset3/no_path/gpt-5.4-mini/20261029/status.json",
+          "sha256": "9f744c216852e830ffc9f6c9473ec5bb575687b0b4cbc3e25aa627f666e4528b",
+          "bytes": 1055
+        },
+        {
+          "source": "tmp/rebuttal/d3_nopath_20261029/run/attempts.jsonl",
+          "path": "ablation/wikidata/dataset3/no_path/gpt-5.4-mini/20261029/attempts.jsonl",
+          "sha256": "72bfb39569ff5ad69e2286ac910528a90e7552ec8e5bb0dd44e67a22baa62546",
+          "bytes": 125943
+        },
+        {
+          "source": "tmp/rebuttal/d3_nopath_20261029/run/status.json",
+          "source_sha256": "9f744c216852e830ffc9f6c9473ec5bb575687b0b4cbc3e25aa627f666e4528b",
+          "derivation": "Copied process_wall_seconds to wall_seconds; no external exit code was retained.",
+          "path": "ablation/wikidata/dataset3/no_path/gpt-5.4-mini/20261029/process_time.json",
+          "sha256": "e9bc0cbf121f9027b333a59fbc428dc1909ae69b332c2cd4703f4b191097b563",
+          "bytes": 153
+        }
+      ],
+      "embedded_artifacts": [
+        {
+          "source": "tmp/rebuttal/d3_nopath_20261029/historical_replay_audit.json",
+          "original_filename": "historical_scoring_audit.json",
+          "original_sha256": "0f202d6113d0834a5204c0ab3e1f3f8ae28c0f9dd440dc0a641dd8c076cbb276",
+          "original_bytes": 10806,
+          "path": "ablation/wikidata/dataset3/no_path/gpt-5.4-mini/20261029/result.json",
+          "json_pointer": "/validation/historical_scoring_audit"
+        },
+        {
+          "source": "tmp/rebuttal/d3_nopath_20261029/offline_validation.json",
+          "original_filename": "offline_validation.json",
+          "original_sha256": "bd8e95d2e2aebcf3a4d8b18d69a3dd0b5ffec3adab6ea4d775e55b4db984d790",
+          "original_bytes": 578,
+          "path": "ablation/wikidata/dataset3/no_path/gpt-5.4-mini/20261029/result.json",
+          "json_pointer": "/validation/offline_validation"
+        }
+      ]
+    }
+  ],
+  "protocols": {
+    "live_bfs": {
+      "execution": "classify each frontier during gated traversal",
+      "source": "tmp/rebuttal/campaign_20261028/manifest.json",
+      "source_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+      "original_manifest": {
+        "created_utc": "2026-10-28T16:18:24.320372+00:00",
+        "run_order": [
+          {
+            "id": "01_W_FULL_openai_r1",
+            "provider": "openai",
+            "model": "gpt-5.4-mini-2026-03-17",
+            "workload": "W",
+            "condition": "FULL",
+            "repeat": 1
+          },
+          {
+            "id": "02_N_FULL_openai_r1",
+            "provider": "openai",
+            "model": "gpt-5.4-mini-2026-03-17",
+            "workload": "N",
+            "condition": "FULL",
+            "repeat": 1
+          },
+          {
+            "id": "03_W_FULL_deepseek_r1",
+            "provider": "deepseek",
+            "model": "deepseek-v4-pro",
+            "workload": "W",
+            "condition": "FULL",
+            "repeat": 1
+          },
+          {
+            "id": "04_N_FULL_deepseek_r1",
+            "provider": "deepseek",
+            "model": "deepseek-v4-pro",
+            "workload": "N",
+            "condition": "FULL",
+            "repeat": 1
+          },
+          {
+            "id": "05_W_FULL_gemini_r1",
+            "provider": "gemini",
+            "model": "gemini-3.6-flash",
+            "workload": "W",
+            "condition": "FULL",
+            "repeat": 1
+          },
+          {
+            "id": "06_N_FULL_gemini_r1",
+            "provider": "gemini",
+            "model": "gemini-3.6-flash",
+            "workload": "N",
+            "condition": "FULL",
+            "repeat": 1
+          },
+          {
+            "id": "07_W_NOPATH_openai_r1",
+            "provider": "openai",
+            "model": "gpt-5.4-mini-2026-03-17",
+            "workload": "W",
+            "condition": "NOPATH",
+            "repeat": 1
+          },
+          {
+            "id": "08_N_PATH_openai_r1",
+            "provider": "openai",
+            "model": "gpt-5.4-mini-2026-03-17",
+            "workload": "N",
+            "condition": "PATH",
+            "repeat": 1
+          },
+          {
+            "id": "09_W_GENERIC_openai_r1",
+            "provider": "openai",
+            "model": "gpt-5.4-mini-2026-03-17",
+            "workload": "W",
+            "condition": "GENERIC",
+            "repeat": 1
+          },
+          {
+            "id": "10_N_GENERIC_openai_r1",
+            "provider": "openai",
+            "model": "gpt-5.4-mini-2026-03-17",
+            "workload": "N",
+            "condition": "GENERIC",
+            "repeat": 1
+          },
+          {
+            "id": "11_N_FULL_gemini_r2",
+            "provider": "gemini",
+            "model": "gemini-3.6-flash",
+            "workload": "N",
+            "condition": "FULL",
+            "repeat": 2
+          },
+          {
+            "id": "12_W_FULL_gemini_r2",
+            "provider": "gemini",
+            "model": "gemini-3.6-flash",
+            "workload": "W",
+            "condition": "FULL",
+            "repeat": 2
+          },
+          {
+            "id": "13_N_FULL_deepseek_r2",
+            "provider": "deepseek",
+            "model": "deepseek-v4-pro",
+            "workload": "N",
+            "condition": "FULL",
+            "repeat": 2
+          },
+          {
+            "id": "14_W_FULL_deepseek_r2",
+            "provider": "deepseek",
+            "model": "deepseek-v4-pro",
+            "workload": "W",
+            "condition": "FULL",
+            "repeat": 2
+          },
+          {
+            "id": "15_N_FULL_openai_r2",
+            "provider": "openai",
+            "model": "gpt-5.4-mini-2026-03-17",
+            "workload": "N",
+            "condition": "FULL",
+            "repeat": 2
+          },
+          {
+            "id": "16_W_FULL_openai_r2",
+            "provider": "openai",
+            "model": "gpt-5.4-mini-2026-03-17",
+            "workload": "W",
+            "condition": "FULL",
+            "repeat": 2
+          }
+        ],
+        "fingerprints": {
+          "tmp/rebuttal/campaign_20261028/run_campaign.py": "2cff5510526a4910b4f02928c0d775b7095f123dbf768845ce96e5e75f168d07",
+          "tmp/rebuttal/campaign_20261028/recorded_api.py": "17083567bc70d26e690a93f0f3c66b076bffe0b5a94d948600880f71113a97f4",
+          "meta-prompting/subkg_extractor_wikidata.py": "203fcbac70e025bb6bad2df35ddf11e872f7ce8dc594b9b06dab2e3b52128e2e",
+          "usecase/subkg_extractor_nalt.py": "10485acb775b7e26c614cbf4d8204e39ee689148c18b6c49697e5d5289e23386",
+          "meta-prompting/full_dataset_batch_runner.py": "47174f28140ada15856590b2f4f320d1ce8a424b49b60138423f661913a1dbbd",
+          "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/rows.csv": "984c3de95b1e2f51bf4eb46d0825ebdf72afccb0cf22a49555505c92d5cb4346",
+          "reproduction/results/decisions/dataset2_lstm_dataset2_config.csv": "6bd97be5f72d3e17ef8da9c50a55ac46b69165b90ed60a2ab5ea104c5720faf6",
+          "meta-prompting/examples/dataset2_path_simple_manual_examples.json": "ae2e4f896d0546ab8251bf231b0c6ee598d761fc8e65cee3089c8834a6e2f660",
+          "usecase/prompts/examples/soil_science_label_meta_examples.json": "8766b8263851aef1e350f55b6d0c40a2291f70dcbb6f4b2a0b0358b52354688c",
+          "meta-prompting/prompts/manual_dataset2.md": "1777d2878a5328f482be59af86d2619ee6d27edb9d78e2f71a0f7ebab2d59ef4",
+          "usecase/prompts/manual/soil_science.md": "eda9c6551b3b924924c081fabfce6801e22f82a36a1d045d409c6923d988af0d",
+          "tmp/nalt-baseline-source/nalt-full_dwn_20240716.rdf": "71a3e2e5ca84e5f680e1ebbf3fa7a5892415c58de716334b5add27b54af6d168",
+          "tmp/rebuttal/campaign_20261028/nalt_canonical_parents.json": "d0997488e2fccb5242cbc00f6848749e6129e779f4cb77b33914babfdd3aab4a",
+          "tmp/rebuttal/campaign_20261028/nalt_gold_scored.json": "e8ee182150ae5f312f6c524e49c935577a600d84600dd432f6e6d203c8b1cd75",
+          "tmp/rebuttal/campaign_20261028/wikidata_score_identities.json": "6329cba5c4c3862c658c2641bedf00080daf29de5307bf5b09d88e48913d1bb3",
+          "wikidata/dataset2/dataset2_gold_decisions.csv": "4a5874777f1126dd7264ba1f94ad5a523c796e3a066107cfe5ffba5454b2da8b",
+          "wikidata/dataset2/dataset2_subgraph_2022.ttl": "3947db57b42f88e313a07ede3ef7f1edbae09bc474c15926341fef6ca66b9f24",
+          "wikidata/dataset2/dataset2_subgraph_2022_perseed.json": "c5264ac15459da5d2be3d1fa7bc7e40964d9a9a6ec37c3ef4170600d7c5837d1",
+          "wikidata/dataset2/properties_dataset2.csv": "2b2913d0a4f38c46b0d99cb7396f89f3901c295d69a697cdf8a066e7ea54a676",
+          "wikidata/dataset2/seeds_dataset2.csv": "f06c857fe35660f8e125be0bc95de9d4dc4e0944afddc81cc73d5ab582a84bb5",
+          "reproduction/folds/dataset1_5_folds.pkl": "7f08c0b11fe8483fe36e051f3a08821805693518389bb2e17559ccf7b35916ee",
+          "reproduction/folds/dataset2_5_folds.pkl": "66d0c8f654a697166df8518fe29fe1d51e82676c9d66191e939990923c84d659",
+          "reproduction/folds/dataset3_overlap_reduced_5_folds.pkl": "1e28614454565f8ac8504b3a54f2c243a0a1db27093556eb59c5fb96e70db82f",
+          "reproduction/folds/dataset3_overlap_reduced_5_folds_summary.json": "d76a4432a76b4f34b2cc65d4d402b5f433bf7658abb6f0d218fb6ae4bcbfefd4",
+          "tmp/rebuttal/campaign_20261028/prompts/GENERIC.md": "338751e72f6aabaf52c357f65cc520af2588311b75981f8931d68c2ce38009ff",
+          "tmp/rebuttal/campaign_20261028/prompts/N_FULL.md": "06b6cdfa86d4234e94fc191a9e56ccebaa6394329caaf0dfa82fa8672ff4c56d",
+          "tmp/rebuttal/campaign_20261028/prompts/W_FULL.md": "c458fb16895303892e75e14f1a781e9dd567fe8a03af7c60be0708a06c216df1"
+        },
+        "batch_size": 20,
+        "workers": 5,
+        "application_response_cache": false,
+        "max_http_attempts_per_request": 3,
+        "sampling_and_reasoning": "provider defaults; no overrides, matching existing live runners",
+        "endpoints": {
+          "openai": "/v1/responses",
+          "deepseek": "/beta/chat/completions",
+          "gemini": "v1beta generateContent"
+        },
+        "transport": "httpx synchronous HTTP, no hidden automatic retries; non-streaming",
+        "spend_dispatch_limits_usd": {
+          "per_run": 5,
+          "campaign": 25
+        },
+        "max_run_seconds": 5400,
+        "budget_note": "Estimated-token dispatch limits; in-flight calls can finish and missing usage may hide charges.",
+        "pricing_sources": [
+          "https://developers.openai.com/api/docs/models/gpt-5.4-mini",
+          "https://api-docs.deepseek.com/quick_start/pricing/",
+          "https://ai.google.dev/gemini-api/docs/pricing"
+        ],
+        "rates_per_million": {
+          "openai": [
+            0.75,
+            0.075,
+            4.5
+          ],
+          "gemini": [
+            0.75,
+            0.075,
+            3.75
+          ],
+          "deepseek_peak": [
+            1.32,
+            0.044,
+            3.96
+          ],
+          "deepseek_off_peak": [
+            0.66,
+            0.022,
+            1.98
+          ]
+        },
+        "pricing_order": [
+          "uncached_input",
+          "cached_input",
+          "output_including_reasoning"
+        ],
+        "pricing_checked": "2026-10-28",
+        "explicit_gemini_cache": false,
+        "w_counts": {
+          "score_rows": 935,
+          "aligned_rows": 868,
+          "seeds": 104,
+          "traversal_rows": 956
+        },
+        "n_counts": {
+          "graph_triples": 1153267,
+          "labelled_nodes": 76691,
+          "scored_gold": 1032,
+          "root_mask": "https://lod.nal.usda.gov/nalt/956"
+        },
+        "path_rule": "Multi-source (one Soil seed) BFS on root-masked full graph; URI then predicate/direction ties; never uses gold membership",
+        "historical_comparability": "Fresh controls use shared conditional-input clarifications; old results remain separate. Gemini 3.6 is a replacement model.",
+        "python": "3.13.14 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:26:41) [MSC v.1942 64 bit (AMD64)]",
+        "executable": "C:\\Users\\wang479\\miniconda3\\python.exe",
+        "platform": "Windows-11-10.0.26200-SP0",
+        "package_versions": {
+          "rdflib": "7.6.0",
+          "pydantic": "2.13.4",
+          "httpx": "0.28.1"
+        }
+      },
+      "execution_addendum": {
+        "reason": "The workspace Wikidata module gained an optional classifier callback after the first three runs. Run 4 stopped at fingerprint verification before inference. Preserve the workspace edit and execute byte-identical copies matching the original manifest.",
+        "original_manifest_sha256": "4f67172533469c78f8703032294b7658065464394f133be53b738fcbde9996fe",
+        "source_modules": {
+          "meta-prompting/subkg_extractor_wikidata.py": "tmp/rebuttal/campaign_20261028/frozen_code/subkg_extractor_wikidata.py",
+          "usecase/subkg_extractor_nalt.py": "tmp/rebuttal/campaign_20261028/frozen_code/subkg_extractor_nalt.py",
+          "meta-prompting/full_dataset_batch_runner.py": "tmp/rebuttal/campaign_20261028/frozen_code/full_dataset_batch_runner.py"
+        },
+        "experiment_parameters_changed": false,
+        "extra_inference_calls": 0
+      }
+    },
+    "fixed_candidates": {
+      "execution": "classify original candidate groups, then apply BFS gating",
+      "source": "tmp/rebuttal/d3_nopath_20261029/manifest.json",
+      "source_sha256": "e694be91e8115d7a3c6fd32d1c0b104d66522e11f1c9c0a9eba41c8365aa9750",
+      "original_manifest": {
+        "created_utc": "2026-10-29T16:44:37.281520+00:00",
+        "dataset": 3,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "runs": 1,
+        "condition": "detailed_manual_policy_labels_only",
+        "scored_rows": 2014,
+        "aligned_rows": 1384,
+        "seed_queries": 27,
+        "aligned_seed_queries": 20,
+        "request_groups": 104,
+        "max_candidates_per_request": 20,
+        "workers": 5,
+        "first_request": "first historical group validates access and schema within this same run",
+        "execution": "synchronous Responses API over original request groups; original bridge-aware BFS gating afterward",
+        "baseline": "existing GPT-5.4 mini human-authored zero-shot Batch result; no fresh control",
+        "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini",
+        "pricing_checked_date": "2026-10-29",
+        "rates_per_million": {
+          "input": 0.75,
+          "cached": 0.075,
+          "output": 4.5,
+          "period": "standard"
+        },
+        "caveats": [
+          "one run; prompt adapted to omit unavailable-path instructions",
+          "historical Batch versus synchronous transport; no paired runtime-saving claim",
+          "all 2014 fixed candidate rows classified before gating; not live gated-traversal cost",
+          "historical gated CSV differs from matched replay on 15 rows; raw answers unchanged"
+        ],
+        "fingerprints": {
+          "tmp/rebuttal/d3_nopath_20261029/run_ablation.py": "c391a56ad6707e1b041dababb2e7fef1f4f2424eb37e8f0ee4f1d89a012d2b09",
+          "tmp/rebuttal/d3_nopath_20261029/prompt_no_path.md": "1f5d47664029162236b939207a6f3a80814661ed4e08d2e0ae11ffbec4b5cbfc",
+          "tmp/rebuttal/campaign_20261028/recorded_api.py": "17083567bc70d26e690a93f0f3c66b076bffe0b5a94d948600880f71113a97f4",
+          "reproduction/results/decisions/dataset3_lstm_tuned.csv": "d53ee18d784d12ff6e889fdf24331ba12394c76466fa54ac9956abb28968532f",
+          "reproduction/results/decisions/dataset3_path_analogy_tuned.csv": "25ed73cab92602bf36739779e780f709adf93af4e2674cca924e5e572c074042",
+          "tmp/rebuttal/campaign_20261028/frozen_code/subkg_extractor_wikidata.py": "203fcbac70e025bb6bad2df35ddf11e872f7ce8dc594b9b06dab2e3b52128e2e",
+          "tmp/rebuttal/campaign_20261028/frozen_code/full_dataset_batch_runner.py": "47174f28140ada15856590b2f4f320d1ce8a424b49b60138423f661913a1dbbd",
+          "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/manifest.json": "f2e5ade802c8367d4905b4cfb1dec4d02f032067fb9c8e326ed86e2c11cb575a",
+          "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/requests.jsonl": "60e6690129dde08ff2cb30d77a97c0e7774a49818683e5b6c4bd68f477e95df2",
+          "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/rows.csv": "0a69fa6a5319e78a7e5f74592be3b0a40af1e57c2abd16efa8880b89fea95f0d",
+          "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/batch_results.jsonl": "9863945de0d29bb64473ea4cb30bba0ba01b606ada0db96dcdad044133097ebf",
+          "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/bfs_gated_predictions.csv": "82ff05064695139c426eb7aae435761dcfa63e165830327da1f6e86f67c2dd68",
+          "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/summary.json": "90072e638ad6dde084bda27ca93c52060479e40ddadd7708f5742e2d434fa860",
+          "wikidata/dataset3/dataset3_gold_decisions.csv": "422d7453a680ab9631993a6d20bf91b817e37dc62f7020485cacb8c07b362776",
+          "wikidata/dataset3/dataset3_labels.csv": "0bcd7e6d99e2fc0015a1f21b7ef4901f80f333d9547422e883f1f4a0d5893874",
+          "wikidata/dataset3/dataset3_subgraph_2022.ttl": "73485a63b86c3271dded7282fa4e8bb2df74e95a26a691ed493a4ef7afc43567",
+          "wikidata/dataset3/dataset3_subgraph_2022_perseed.json": "5bd8f9376ee11e6ecccab73f59c09a3cb5e652a9e8b74f2c67e8601ca120ba5b",
+          "wikidata/dataset3/properties_dataset3.csv": "c8544e572b6a60b81cfa39ff0ba869da007aa99923157996502b35ef1c38b669",
+          "wikidata/dataset3/seeds_dataset3.csv": "a97ad7ae01bf3bdea3c18d0c07a6bd6d6ee4aad0df6f84a2ed9510b611be8149",
+          "reproduction/folds/dataset1_5_folds.pkl": "7f08c0b11fe8483fe36e051f3a08821805693518389bb2e17559ccf7b35916ee",
+          "reproduction/folds/dataset2_5_folds.pkl": "66d0c8f654a697166df8518fe29fe1d51e82676c9d66191e939990923c84d659",
+          "reproduction/folds/dataset3_overlap_reduced_5_folds.pkl": "1e28614454565f8ac8504b3a54f2c243a0a1db27093556eb59c5fb96e70db82f",
+          "reproduction/folds/dataset3_overlap_reduced_5_folds_summary.json": "d76a4432a76b4f34b2cc65d4d402b5f433bf7658abb6f0d218fb6ae4bcbfefd4"
+        }
+      }
+    }
+  },
+  "support_files": [
+    {
+      "source": "tmp/rebuttal/campaign_20261028/nalt_gold_scored.json",
+      "path": "ablation/data/nalt_soil_gold.json",
+      "sha256": "e8ee182150ae5f312f6c524e49c935577a600d84600dd432f6e6d203c8b1cd75",
+      "bytes": 43374
+    },
+    {
+      "source": "tmp/rebuttal/campaign_20261028/wikidata_score_identities.json",
+      "path": "ablation/data/wikidata_d2_score_identities.json",
+      "sha256": "6329cba5c4c3862c658c2641bedf00080daf29de5307bf5b09d88e48913d1bb3",
+      "bytes": 97488
+    },
+    {
+      "source": "tmp/rebuttal/campaign_20261028/prompts/GENERIC.md",
+      "path": "ablation/prompts/generic.md",
+      "sha256": "338751e72f6aabaf52c357f65cc520af2588311b75981f8931d68c2ce38009ff",
+      "bytes": 166
+    },
+    {
+      "source": "tmp/rebuttal/campaign_20261028/prompts/N_FULL.md",
+      "path": "ablation/prompts/nalt_soil_detailed.md",
+      "sha256": "06b6cdfa86d4234e94fc191a9e56ccebaa6394329caaf0dfa82fa8672ff4c56d",
+      "bytes": 3625
+    },
+    {
+      "source": "tmp/rebuttal/campaign_20261028/prompts/W_FULL.md",
+      "path": "ablation/prompts/wikidata_d2_detailed.md",
+      "sha256": "c458fb16895303892e75e14f1a781e9dd567fe8a03af7c60be0708a06c216df1",
+      "bytes": 4170
+    },
+    {
+      "source": "tmp/rebuttal/d3_nopath_20261029/prompt_no_path.md",
+      "path": "ablation/prompts/wikidata_d3_no_path.md",
+      "sha256": "1f5d47664029162236b939207a6f3a80814661ed4e08d2e0ae11ffbec4b5cbfc",
+      "bytes": 5320
+    },
+    {
+      "source": "tmp/rebuttal/d3_nopath_20261029/prompt_changes.diff",
+      "path": "ablation/prompts/wikidata_d3_no_path.diff",
+      "sha256": "1a796620e0168f4a5b1a90c8739ac50d00d89ffefe37095c21975a0aaadb7c23",
+      "bytes": 10840
+    }
+  ],
+  "input_files": [
+    {
+      "path": "ablation/data/nalt_soil_gold.json",
+      "sha256": "e8ee182150ae5f312f6c524e49c935577a600d84600dd432f6e6d203c8b1cd75",
+      "bytes": 43374
+    },
+    {
+      "path": "ablation/data/wikidata_d2_score_identities.json",
+      "sha256": "6329cba5c4c3862c658c2641bedf00080daf29de5307bf5b09d88e48913d1bb3",
+      "bytes": 97488
+    },
+    {
+      "path": "ablation/prompts/generic.md",
+      "sha256": "338751e72f6aabaf52c357f65cc520af2588311b75981f8931d68c2ce38009ff",
+      "bytes": 166
+    },
+    {
+      "path": "ablation/prompts/nalt_soil_detailed.md",
+      "sha256": "06b6cdfa86d4234e94fc191a9e56ccebaa6394329caaf0dfa82fa8672ff4c56d",
+      "bytes": 3625
+    },
+    {
+      "path": "ablation/prompts/wikidata_d2_detailed.md",
+      "sha256": "c458fb16895303892e75e14f1a781e9dd567fe8a03af7c60be0708a06c216df1",
+      "bytes": 4170
+    },
+    {
+      "path": "ablation/prompts/wikidata_d3_no_path.md",
+      "sha256": "1f5d47664029162236b939207a6f3a80814661ed4e08d2e0ae11ffbec4b5cbfc",
+      "bytes": 5320
+    },
+    {
+      "path": "meta-prompting/examples/dataset2_path_simple_manual_examples.json",
+      "sha256": "ae2e4f896d0546ab8251bf231b0c6ee598d761fc8e65cee3089c8834a6e2f660",
+      "bytes": 18803
+    },
+    {
+      "path": "meta-prompting/prompts/manual_dataset2.md",
+      "sha256": "1777d2878a5328f482be59af86d2619ee6d27edb9d78e2f71a0f7ebab2d59ef4",
+      "bytes": 3871
+    },
+    {
+      "path": "meta-prompting/results/gpt-5.4-mini/dataset2/zero_shot_manual/rows.csv",
+      "sha256": "984c3de95b1e2f51bf4eb46d0825ebdf72afccb0cf22a49555505c92d5cb4346",
+      "bytes": 170673
+    },
+    {
+      "path": "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/batch_results.jsonl",
+      "sha256": "9863945de0d29bb64473ea4cb30bba0ba01b606ada0db96dcdad044133097ebf",
+      "bytes": 384044
+    },
+    {
+      "path": "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/bfs_gated_predictions.csv",
+      "sha256": "82ff05064695139c426eb7aae435761dcfa63e165830327da1f6e86f67c2dd68",
+      "bytes": 705766
+    },
+    {
+      "path": "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/manifest.json",
+      "sha256": "f2e5ade802c8367d4905b4cfb1dec4d02f032067fb9c8e326ed86e2c11cb575a",
+      "bytes": 51452
+    },
+    {
+      "path": "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/requests.jsonl",
+      "sha256": "60e6690129dde08ff2cb30d77a97c0e7774a49818683e5b6c4bd68f477e95df2",
+      "bytes": 1289101
+    },
+    {
+      "path": "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/rows.csv",
+      "sha256": "0a69fa6a5319e78a7e5f74592be3b0a40af1e57c2abd16efa8880b89fea95f0d",
+      "bytes": 643534
+    },
+    {
+      "path": "meta-prompting/results/gpt-5.4-mini/dataset3/zero_shot_manual/summary.json",
+      "sha256": "90072e638ad6dde084bda27ca93c52060479e40ddadd7708f5742e2d434fa860",
+      "bytes": 1066
+    },
+    {
+      "path": "reproduction/folds/dataset1_5_folds.pkl",
+      "sha256": "7f08c0b11fe8483fe36e051f3a08821805693518389bb2e17559ccf7b35916ee",
+      "bytes": 10770
+    },
+    {
+      "path": "reproduction/folds/dataset2_5_folds.pkl",
+      "sha256": "66d0c8f654a697166df8518fe29fe1d51e82676c9d66191e939990923c84d659",
+      "bytes": 1955
+    },
+    {
+      "path": "reproduction/folds/dataset3_overlap_reduced_5_folds.pkl",
+      "sha256": "1e28614454565f8ac8504b3a54f2c243a0a1db27093556eb59c5fb96e70db82f",
+      "bytes": 496
+    },
+    {
+      "path": "reproduction/folds/dataset3_overlap_reduced_5_folds_summary.json",
+      "sha256": "d76a4432a76b4f34b2cc65d4d402b5f433bf7658abb6f0d218fb6ae4bcbfefd4",
+      "bytes": 1049
+    },
+    {
+      "path": "reproduction/results/decisions/dataset2_lstm_dataset2_config.csv",
+      "sha256": "6bd97be5f72d3e17ef8da9c50a55ac46b69165b90ed60a2ab5ea104c5720faf6",
+      "bytes": 80502
+    },
+    {
+      "path": "reproduction/results/decisions/dataset3_lstm_tuned.csv",
+      "sha256": "d53ee18d784d12ff6e889fdf24331ba12394c76466fa54ac9956abb28968532f",
+      "bytes": 157059
+    },
+    {
+      "path": "reproduction/results/decisions/dataset3_path_analogy_tuned.csv",
+      "sha256": "25ed73cab92602bf36739779e780f709adf93af4e2674cca924e5e572c074042",
+      "bytes": 156731
+    },
+    {
+      "path": "tmp/nalt-baseline-source/nalt-full_dwn_20240716.rdf",
+      "sha256": "71a3e2e5ca84e5f680e1ebbf3fa7a5892415c58de716334b5add27b54af6d168",
+      "bytes": 95002382
+    },
+    {
+      "path": "usecase/prompts/examples/soil_science_label_meta_examples.json",
+      "sha256": "8766b8263851aef1e350f55b6d0c40a2291f70dcbb6f4b2a0b0358b52354688c",
+      "bytes": 1483
+    },
+    {
+      "path": "usecase/prompts/manual/soil_science.md",
+      "sha256": "eda9c6551b3b924924c081fabfce6801e22f82a36a1d045d409c6923d988af0d",
+      "bytes": 3443
+    },
+    {
+      "path": "wikidata/dataset2/dataset2_gold_decisions.csv",
+      "sha256": "4a5874777f1126dd7264ba1f94ad5a523c796e3a066107cfe5ffba5454b2da8b",
+      "bytes": 50298
+    },
+    {
+      "path": "wikidata/dataset2/dataset2_subgraph_2022.ttl",
+      "sha256": "3947db57b42f88e313a07ede3ef7f1edbae09bc474c15926341fef6ca66b9f24",
+      "bytes": 79898
+    },
+    {
+      "path": "wikidata/dataset2/dataset2_subgraph_2022_perseed.json",
+      "sha256": "c5264ac15459da5d2be3d1fa7bc7e40964d9a9a6ec37c3ef4170600d7c5837d1",
+      "bytes": 182469
+    },
+    {
+      "path": "wikidata/dataset2/properties_dataset2.csv",
+      "sha256": "2b2913d0a4f38c46b0d99cb7396f89f3901c295d69a697cdf8a066e7ea54a676",
+      "bytes": 18
+    },
+    {
+      "path": "wikidata/dataset2/seeds_dataset2.csv",
+      "sha256": "f06c857fe35660f8e125be0bc95de9d4dc4e0944afddc81cc73d5ab582a84bb5",
+      "bytes": 893
+    },
+    {
+      "path": "wikidata/dataset3/dataset3_gold_decisions.csv",
+      "sha256": "422d7453a680ab9631993a6d20bf91b817e37dc62f7020485cacb8c07b362776",
+      "bytes": 143164
+    },
+    {
+      "path": "wikidata/dataset3/dataset3_labels.csv",
+      "sha256": "0bcd7e6d99e2fc0015a1f21b7ef4901f80f333d9547422e883f1f4a0d5893874",
+      "bytes": 829
+    },
+    {
+      "path": "wikidata/dataset3/dataset3_subgraph_2022.ttl",
+      "sha256": "73485a63b86c3271dded7282fa4e8bb2df74e95a26a691ed493a4ef7afc43567",
+      "bytes": 145171
+    },
+    {
+      "path": "wikidata/dataset3/dataset3_subgraph_2022_perseed.json",
+      "sha256": "5bd8f9376ee11e6ecccab73f59c09a3cb5e652a9e8b74f2c67e8601ca120ba5b",
+      "bytes": 368258
+    },
+    {
+      "path": "wikidata/dataset3/properties_dataset3.csv",
+      "sha256": "c8544e572b6a60b81cfa39ff0ba869da007aa99923157996502b35ef1c38b669",
+      "bytes": 57
+    },
+    {
+      "path": "wikidata/dataset3/seeds_dataset3.csv",
+      "sha256": "a97ad7ae01bf3bdea3c18d0c07a6bd6d6ee4aad0df6f84a2ed9510b611be8149",
+      "bytes": 245
+    }
+  ],
+  "derived_inputs": {
+    "nalt_paths": {
+      "sha256": "d0997488e2fccb5242cbc00f6848749e6129e779f4cb77b33914babfdd3aab4a",
+      "rebuild": "path_prompt.canonical_paths(path_prompt.nalt_index())"
+    }
+  },
+  "implementation_files": [
+    {
+      "path": "ablation/run_experiment.py",
+      "sha256": "205f0da3e529ebf8dee44acd8f4a2e4ac4a4ed7b82f757811835e8da5a13cff1"
+    },
+    {
+      "path": "ablation/path_prompt.py",
+      "sha256": "583f1e4787d1707593fb9a859c9e6d2d49acdde3796461a7affda2e847766bbe"
+    },
+    {
+      "path": "ablation/recorded_api.py",
+      "sha256": "5aa50f69c15d676b54765fb93dfca0e43bbab2b58ad186a582d36563ef16aa2e"
+    },
+    {
+      "path": "meta-prompting/subkg_extractor_wikidata.py",
+      "sha256": "00e6d8f275a36b3187b93712e0657b94ab8a3693f626457bb675d5a19775ff5b"
+    },
+    {
+      "path": "meta-prompting/full_dataset_batch_runner.py",
+      "sha256": "47174f28140ada15856590b2f4f320d1ce8a424b49b60138423f661913a1dbbd"
+    },
+    {
+      "path": "usecase/subkg_extractor_nalt.py",
+      "sha256": "10485acb775b7e26c614cbf4d8204e39ee689148c18b6c49697e5d5289e23386"
+    }
+  ],
+  "implementation_note": "Use the canonical modules directly. The NALT and batch-scoring modules are identical to the historical copies. The Wikidata module adds only an optional classifier callback, which the runner now uses instead of replacing a module global. Historical source fingerprints above are provenance, not paths used by this runner.",
+  "demonstration_count_files": [
+    {
+      "path": "ablation/nalt/demonstration_count/examples/cell_biology_12_nodes.json",
+      "sha256": "925bf60f8fe3dd101a36c8b0d41115712b253bf45b0e3dfe9f08a0c981c07d9c",
+      "bytes": 2065
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/examples/cell_biology_16_nodes.json",
+      "sha256": "b5907e3bf4000acca15b1d6b7ce7ed83e18f2c87c66a4943e2d5ccd080d2a3cb",
+      "bytes": 3364
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/examples/cell_biology_4_nodes.json",
+      "sha256": "79c3e04619795095bef8cf09ddda6cd6a86f87fe568f4c6e294b530ea532688c",
+      "bytes": 1012
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/examples/cell_biology_8_nodes.json",
+      "sha256": "e5148e6be9c8d07bfcf0e4f5dec625b7107c6c1f2a5d7832ef139ba82ae5280e",
+      "bytes": 1769
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/prompts/deepseek-v4-pro/cell_biology_12_nodes.md",
+      "sha256": "c9f29ef13a0318f5a8518139158bc3b075710abee704a24c891e01456daf76f5",
+      "bytes": 6140
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/prompts/deepseek-v4-pro/cell_biology_16_nodes.md",
+      "sha256": "1be53fff4aefedbfb31d242a2885e737b5b521f41da51797122e507b48121832",
+      "bytes": 5024
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/prompts/deepseek-v4-pro/cell_biology_4_nodes.md",
+      "sha256": "7f11ce981810194b6f040b28353defb282db478d056b531b6d50e02f4813692d",
+      "bytes": 5574
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/prompts/deepseek-v4-pro/cell_biology_8_nodes.md",
+      "sha256": "1a45831cf50a7dfd630521ab947b9161e8816ccd94d4777ebef228dfc3862450",
+      "bytes": 6184
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/REPORT.md",
+      "sha256": "cd5ed6dee087318e2e0bcf0fd3573c413093f94034174c5f195ca9a61e5a96a1",
+      "bytes": 2896
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/12_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260714_144851_INCLUDED.csv",
+      "sha256": "bb01276400ea2bf0719f9029bca150784d2cb2959f814aae70ee51287e02d9a7",
+      "bytes": 51726
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/12_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260714_144851_METRICS.json",
+      "sha256": "3a4fedf79fcb0007742bf6609014006432f9a764fe85a3db26cd15d9cbf3105e",
+      "bytes": 3416
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/12_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260714_144851_PRUNED.csv",
+      "sha256": "d36071099791995547340fd3a2800d0bf3218ba33039978ccb4ce6ac2bed6eb1",
+      "bytes": 69653
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/12_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260714_144851_VISITED.csv",
+      "sha256": "ce119d2fa50ea482814e39e65d9dd7803430594293b16202929616f3e0730740",
+      "bytes": 113001
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/16_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_121212_INCLUDED.csv",
+      "sha256": "72bc7aebecb5c93a57a889b4c86a577a84dd5e688434848eea69a78114ba73e5",
+      "bytes": 63010
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/16_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_121212_METRICS.json",
+      "sha256": "a81a4200e0e0da7bf863926893451ae1fd6d7863b3621bfb069789b8ca650f89",
+      "bytes": 3456
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/16_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_121212_PRUNED.csv",
+      "sha256": "a2c96dc2f3af8b6aafdade6fa6c1a0a486310acfe99c5141eb0db21589b7a547",
+      "bytes": 110133
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/16_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_121212_VISITED.csv",
+      "sha256": "e44b86cf0223ba434727fad0c19ad1495471efa3f21cd54117799d95372cebfe",
+      "bytes": 161650
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/4_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_114625_INCLUDED.csv",
+      "sha256": "0bf0a84882df5ae07b1536feac993c1ce544a6c36e4deed2ff4b0ae8b184ec03",
+      "bytes": 38305
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/4_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_114625_METRICS.json",
+      "sha256": "0b4a8bc98a1fa0286eacaad0b1e990642b2b9f5eb75f8ab635e261d0e510a911",
+      "bytes": 3444
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/4_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_114625_PRUNED.csv",
+      "sha256": "b4034d9a9a039f7496f8ed0875e575835eee1d185f8fc9d105c0f7bb9e7380df",
+      "bytes": 63515
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/4_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_114625_VISITED.csv",
+      "sha256": "7a946aa584978c3035f5e82f2306f68df56123472120b7f1fd916316a01df0ef",
+      "bytes": 94799
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/8_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_115938_INCLUDED.csv",
+      "sha256": "368b5b43a62a020d3edfcf0783df1e124492171116f97a6278a6da49054c99cd",
+      "bytes": 62598
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/8_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_115938_METRICS.json",
+      "sha256": "ba8fcb1223cdd680e32144f9db102a8b50750eb35b162d8d79de17cd3247613f",
+      "bytes": 3348
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/8_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_115938_PRUNED.csv",
+      "sha256": "18c20d69be35d4f472472e6dabb6047d8712ceec149ac149fcd210051b78160f",
+      "bytes": 113350
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/results/8_nodes/deepseek-v4-pro/cell/zero_shot_meta/subkg_cell_biology_NALT_20260715_115938_VISITED.csv",
+      "sha256": "34a2469a603299202f3073919dcef104ff3aaeb6d4017b1f6d338b7e019478eb",
+      "bytes": 164321
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/RESULTS.json",
+      "sha256": "be0e64e4eebf45df14f42e483a236e8d04f0f161f81b143fb055fb17b22bb0de",
+      "bytes": 5237
+    },
+    {
+      "path": "ablation/nalt/demonstration_count/run_cell_biology_ablation.py",
+      "sha256": "2e65722d3a3ae28b0e6316f7510db5563183ceeaaf21f5d7f404700fd50a1ef2",
+      "bytes": 12314
+    }
+  ]
+}
